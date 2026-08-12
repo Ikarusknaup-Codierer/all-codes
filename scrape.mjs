@@ -1,22 +1,23 @@
 /**
  * ================================================================
- *  ALL CODES IN ALL GAMES — Scraper
+ *  ALL CODES IN ALL GAMES — Scraper  (v2)
  * ================================================================
  *
  *  Laeuft in GitHub Actions (gratis), NICHT im Roblox-Game.
- *  Baut statische JSON-Dateien, die dein Game dann einfach abruft:
+ *  Baut statische JSON-Dateien, die dein Game dann abruft:
  *
  *    public/index.json              -> alle Spielnamen + Slugs (klein)
  *    public/games/<slug>.json       -> Codes fuer ein Spiel
  *
- *  Warum statisch:
- *   - keine Serverkosten, keine CPU-Limits, keine Datenbank
- *   - Cloudflare Pages / GitHub Pages liefern das gratis aus
- *   - dein Roblox-Server laedt nur winzige Dateien
+ *  NEU in v2:
+ *   - Seitenblaettern korrigiert: /game-codes/2, /game-codes/3 ...
+ *     (vorher ?page=2 — das ignoriert die Seite, daher nur 107 Spiele)
+ *   - Seitenzahlen und Kategorien werden nicht mehr als Spiel gewertet
+ *   - extra-games.txt: eigene Slugs nachtragen, die nirgends verlinkt sind
+ *   - mehr Spiele pro Lauf, damit alles in einem Durchgang reinkommt
  *
  *  Die Slug-Liste waechst mit jedem Lauf und schrumpft nie —
- *  einmal gefundene Spiele bleiben im Repo, auch wenn die
- *  Uebersichtsseite sie mal nicht mehr verlinkt.
+ *  einmal gefundene Spiele bleiben im Repo.
  *
  *  Start:  node scrape.mjs
  * ================================================================
@@ -29,17 +30,30 @@ const SOURCE_BASE = "https://robloxden.com";
 const INDEX_PATH = "/game-codes";
 const OUT_DIR = "public";
 const GAMES_DIR = path.join(OUT_DIR, "games");
+const EXTRA_FILE = "extra-games.txt";
 
 // Trag hier deine echte Mail ein — gehoert bei Scrapern zum guten Ton.
 const USER_AGENT =
   "AllCodesInAllGames/1.0 (Roblox experience; contact: DEINE-MAIL@example.com)";
 
-const DELAY_MS = 400;          // Pause zwischen Abrufen — nicht kleiner machen
-const MAX_PER_RUN = 500;       // wie viele Spiele pro Lauf aufgefrischt werden
+const DELAY_MS = 350;          // Pause zwischen Abrufen — nicht kleiner machen
+const MAX_PER_RUN = 1500;      // wie viele Spiele pro Lauf aufgefrischt werden
 const STALE_HOURS = 20;        // aelter als das = neu holen
-const MAX_INDEX_PAGES = 40;    // Sicherheitsnetz gegen Endlosschleifen
+const MAX_INDEX_PAGES = 80;    // Sicherheitsnetz gegen Endlosschleifen
+const EMPTY_PAGES_STOP = 2;    // nach so vielen leeren Seiten ist Schluss
 
 const ACTIVE_STATUS = new Set(["active", "check", "new", "working", "valid"]);
+
+// Pfade unter /game-codes/, die keine Spiele sind
+const NOT_A_GAME = new Set([
+  "genres",
+  "tags",
+  "search",
+  "page",
+  "new",
+  "popular",
+  "all",
+]);
 
 /* ---------------------------------------------------------------- Textkram */
 
@@ -65,7 +79,6 @@ function titleFromSlug(slug) {
     .join(" ");
 }
 
-/** Aus dem Fliesstext nur die Belohnung ziehen, nicht den ganzen Satz. */
 function cleanReward(raw) {
   if (!raw) return "";
   let t = stripTags(raw);
@@ -76,7 +89,7 @@ function cleanReward(raw) {
     .replace(/^you (?:will )?(?:get|receive)\s*/i, "")
     .replace(/[.\s]+$/, "")
     .trim();
-  if (!t || t === "-" || t === "—" || /^unknown$/i.test(t)) return "";
+  if (!t || t === "-" || t === "\u2014" || /^unknown$/i.test(t)) return "";
   return t.slice(0, 70);
 }
 
@@ -90,13 +103,16 @@ function looksLikeCode(s) {
   );
 }
 
+/** Ist das ein echter Spiel-Slug oder eine Seitenzahl / Kategorie? */
+function isGameSlug(slug) {
+  if (!slug || slug.length < 2) return false;
+  if (/^\d+$/.test(slug)) return false; // /game-codes/2 = Seitenzahl
+  if (NOT_A_GAME.has(slug)) return false;
+  return true;
+}
+
 /* ------------------------------------------------------------- Code-Parser */
 
-/**
- * Zwei Strategien, damit ein Redesign der Quelle nicht sofort alles killt:
- *  1. eingebettetes __NEXT_DATA__-JSON rekursiv durchsuchen
- *  2. sonst: klassische Tabellenzeilen parsen
- */
 function extractCodes(html) {
   const found = [];
   const seen = new Set();
@@ -183,30 +199,65 @@ async function fetchPage(url) {
   }
 }
 
-/** Alle Spiel-Slugs von der Uebersicht einsammeln, inkl. Seitenblaettern. */
+/**
+ * Alle Spiel-Slugs einsammeln.
+ * Die Seitenzahlen haengen direkt hinten dran: /game-codes/2, /game-codes/3 ...
+ */
 async function discoverSlugs() {
   const slugs = new Set();
+  let emptyStreak = 0;
 
   for (let page = 1; page <= MAX_INDEX_PAGES; page++) {
     const url =
       page === 1
         ? `${SOURCE_BASE}${INDEX_PATH}`
-        : `${SOURCE_BASE}${INDEX_PATH}?page=${page}`;
+        : `${SOURCE_BASE}${INDEX_PATH}/${page}`;
 
     const html = await fetchPage(url);
-    if (!html) break;
+    if (!html) {
+      console.log(`  Seite ${page}: nicht erreichbar - Schluss`);
+      break;
+    }
 
     const before = slugs.size;
-    const linkRe = new RegExp(`${INDEX_PATH}/([a-z0-9-]{2,})`, "gi");
+    const linkRe = new RegExp(`${INDEX_PATH}/([a-z0-9][a-z0-9-]*)`, "gi");
     let m;
-    while ((m = linkRe.exec(html)) !== null) slugs.add(m[1]);
+    while ((m = linkRe.exec(html)) !== null) {
+      const slug = m[1].toLowerCase();
+      if (isGameSlug(slug)) slugs.add(slug);
+    }
 
-    console.log(`  Seite ${page}: ${slugs.size - before} neue Slugs`);
-    if (slugs.size === before) break; // nichts Neues mehr
+    const added = slugs.size - before;
+    console.log(`  Seite ${page}: ${added} neue Slugs (gesamt ${slugs.size})`);
+
+    if (added === 0) {
+      emptyStreak++;
+      if (emptyStreak >= EMPTY_PAGES_STOP) {
+        console.log("  Keine neuen Slugs mehr - Schluss");
+        break;
+      }
+    } else {
+      emptyStreak = 0;
+    }
+
     await sleep(DELAY_MS);
   }
 
   return [...slugs];
+}
+
+/** Eigene Slugs aus extra-games.txt (eine pro Zeile, # = Kommentar). */
+async function loadExtras() {
+  try {
+    const raw = await readFile(EXTRA_FILE, "utf8");
+    return raw
+      .split("\n")
+      .map((l) => l.trim().toLowerCase())
+      .filter((l) => l && !l.startsWith("#"))
+      .filter(isGameSlug);
+  } catch {
+    return [];
+  }
 }
 
 /* ------------------------------------------------------------------- Main */
@@ -238,15 +289,15 @@ async function main() {
   const existing = await loadExisting();
   console.log(`   ${existing.size} Spiele bereits im Repo`);
 
-  console.log("2) Uebersichtsseite durchsuchen...");
+  console.log("2) Uebersichtsseiten durchblaettern...");
   const discovered = await discoverSlugs();
+  const extras = await loadExtras();
+  if (extras.length) console.log(`   ${extras.length} Slugs aus ${EXTRA_FILE}`);
   console.log(`   ${discovered.length} Slugs auf der Seite gefunden`);
 
-  // Alles zusammenwerfen — bekannte Spiele gehen nie verloren
-  const allSlugs = new Set([...existing.keys(), ...discovered]);
+  const allSlugs = new Set([...existing.keys(), ...discovered, ...extras]);
   console.log(`   ${allSlugs.size} Spiele insgesamt`);
 
-  // Reihenfolge: neue zuerst, dann die aeltesten
   const now = Date.now();
   const queue = [...allSlugs]
     .map((slug) => {
@@ -263,10 +314,14 @@ async function main() {
   console.log(`3) ${queue.length} Spiele werden aufgefrischt...`);
 
   let updated = 0;
+  let failed = 0;
   for (const { slug } of queue) {
     const html = await fetchPage(`${SOURCE_BASE}${INDEX_PATH}/${slug}`);
     await sleep(DELAY_MS);
-    if (!html) continue;
+    if (!html) {
+      failed++;
+      continue;
+    }
 
     const codes = extractCodes(html);
     const data = {
@@ -284,10 +339,10 @@ async function main() {
     existing.set(slug, data);
     updated++;
 
-    if (updated % 25 === 0) console.log(`   ...${updated} fertig`);
+    if (updated % 100 === 0) console.log(`   ...${updated} fertig`);
   }
 
-  console.log(`   ${updated} Spiele aktualisiert`);
+  console.log(`   ${updated} Spiele aktualisiert, ${failed} nicht erreichbar`);
 
   console.log("4) index.json schreiben...");
   const index = {
@@ -295,7 +350,7 @@ async function main() {
     count: existing.size,
     games: [...existing.values()]
       .map((g) => ({
-        n: g.name,          // kurze Feldnamen = kleinere Datei
+        n: g.name, // kurze Feldnamen = kleinere Datei
         s: g.slug,
         c: (g.codes || []).length,
       }))

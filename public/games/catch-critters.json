@@ -1,0 +1,40 @@
+{
+ "slug": "catch-critters",
+ "name": "Catch Critters",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "CHILL",
+   "reward": "25,000 Cash"
+  },
+  {
+   "code": "CAUGHT",
+   "reward": "10,000 Cash"
+  },
+  {
+   "code": "BETA",
+   "reward": "5,000 Cash and a Luck Multiplier Boost"
+  },
+  {
+   "code": "MOON",
+   "reward": "a Net Box [OP]"
+  },
+  {
+   "code": "CRITTERS",
+   "reward": "a Net Box [OP] and 50,000 Cash"
+  },
+  {
+   "code": "BLOOM",
+   "reward": "a Net Box [OP] and 50,000 Cash"
+  },
+  {
+   "code": "FLOWERS",
+   "reward": "100,000 Cash and a Luck Multiplier Boost"
+  }
+ ],
+ "updated": "2026-08-12T20:30:58.531Z",
+ "source": "https://robloxden.com/game-codes/catch-critters"
+}

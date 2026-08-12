@@ -1,0 +1,36 @@
+{
+ "slug": "slayer-ascend",
+ "name": "Slayer Ascend",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "welcome",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "slayer",
+   "reward": "3,000 Coins"
+  },
+  {
+   "code": "ascend",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "potion",
+   "reward": "1 Potion"
+  },
+  {
+   "code": "5klikes",
+   "reward": "1 Potion"
+  },
+  {
+   "code": "BOOST",
+   "reward": "3 Potions"
+  }
+ ],
+ "updated": "2026-08-12T20:29:56.512Z",
+ "source": "https://robloxden.com/game-codes/slayer-ascend"
+}

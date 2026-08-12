@@ -1,0 +1,40 @@
+{
+ "slug": "emote-rng",
+ "name": "Emote RNG",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "AAPART2",
+   "reward": "one 15-Minute Double Luck Boost , one 30-Minute Double Luck Boost , an"
+  },
+  {
+   "code": "BULKDELETE",
+   "reward": "two 15-Minute Double Luck Boosts"
+  },
+  {
+   "code": "1MILLIONMEMBERS",
+   "reward": "1M Cash , 1x Double Luck (15m) , 1x Double Luck (30m) , 1x Double Luck"
+  },
+  {
+   "code": "LEVELUP",
+   "reward": "50,000 Cash and 1x Double Luck (15 mins)"
+  },
+  {
+   "code": "UPDATE28",
+   "reward": "two 15-Minute Double Luck Boosts"
+  },
+  {
+   "code": "EXPEDITIONS",
+   "reward": "30 Minutes Double Luck Boost"
+  },
+  {
+   "code": "UPDATE29",
+   "reward": "1 Hour Double Luck Boost"
+  }
+ ],
+ "updated": "2026-08-12T20:25:35.722Z",
+ "source": "https://robloxden.com/game-codes/emote-rng"
+}

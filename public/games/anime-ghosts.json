@@ -1,0 +1,240 @@
+{
+ "slug": "anime-ghosts",
+ "name": "Anime Ghosts",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "REUPDATE",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "DEATH",
+   "reward": "8 of Each Tier 5 Potions , 6 Easter Potions , and 6 Elemental Potions "
+  },
+  {
+   "code": "NEWCASTLE",
+   "reward": "6 All Potions (Tier 5) , 4 Easter Potions , 4 Elemental Potions I , an"
+  },
+  {
+   "code": "SUB4RU",
+   "reward": "6 All Potions (Tier 5) , 4 Easter Potions , 4 Elemental Potions I , an"
+  },
+  {
+   "code": "EARTHUPD",
+   "reward": "6 All Potions (Tier 5) , 4 Easter Potions , 4 Elemental Potions I , an"
+  },
+  {
+   "code": "SWORDSMAN",
+   "reward": "6 All Potions (Tier 5) , 4 Easter Potions , 4 Elemental Potions I , an"
+  },
+  {
+   "code": "SOAUPDATE",
+   "reward": "6 All Potions (Tier 5) , 4 Easter Potions , 4 Elemental Potions I , an"
+  },
+  {
+   "code": "LIGHTNINGZONE",
+   "reward": "6 All Potions (Tier 5) , 4 Easter Potions , 4 Elemental Potions I , an"
+  },
+  {
+   "code": "NEWPOTION",
+   "reward": "6 Of Each Tier 5 Potions, 4 Easter Potions, 4 Elemental Potions I and "
+  },
+  {
+   "code": "ANTKING",
+   "reward": "6 All Potions , 4 Easter Potions , and 4 Elemental Potions"
+  },
+  {
+   "code": "WINDMODE",
+   "reward": "6 All Potions (Tier 5), 4 Easter Potions, and 4 Elemental Potions"
+  },
+  {
+   "code": "DEADLYSINS",
+   "reward": "6 All Tier Five Potions , 4 Easter Potions , and 4 Elemental Potions"
+  },
+  {
+   "code": "GHOUL",
+   "reward": "6 All Tier Five Potions , 4 Easter Potions , and 4 Elemental Potions"
+  },
+  {
+   "code": "WINDZONE",
+   "reward": "6 All Tier Five Potions , 4 Easter Potions , and 4 Elemental Potions"
+  },
+  {
+   "code": "KAGUNEUPD",
+   "reward": "4 All Tier Five Potions , 4 Easter Potions , and 4 Elemental Potions"
+  },
+  {
+   "code": "KAGUNEAWAKENING",
+   "reward": "6 All Tier Five Potions, 4 Easter Potions and 4 Elemental Potions"
+  },
+  {
+   "code": "WATERZONE",
+   "reward": "4 All Tier V Potions, 4 Elemental Potions and 4 Easter Potions"
+  },
+  {
+   "code": "1STGHOSTLYMOUNT",
+   "reward": "4 All Tier V Potions, 4 Elemental Potions and 4 Easter Potions"
+  },
+  {
+   "code": "ENERGYMOUNTS",
+   "reward": "4 All Tier V Potions, 4 Elemental Potions and 4 Easter Potions"
+  },
+  {
+   "code": "70KLIKES",
+   "reward": "10 All Tier V Potions and 50 Gems"
+  },
+  {
+   "code": "CLOVERGRIMOIRES",
+   "reward": "4 All Potions , 4 Easter Potions , and 4 Elemental Potions"
+  },
+  {
+   "code": "ICACT3",
+   "reward": "4 All Potions (Tier 5) , 4 Easter Potions , and 2 Elemental Potions"
+  },
+  {
+   "code": "PASSIVETRANSFER",
+   "reward": "4 All Potions (Tier 5) , 4 Easter Potions , and 2 Elemental Potions"
+  },
+  {
+   "code": "ELEMENTALFORCE",
+   "reward": "6 of All Potions (Tier 4) and 4 Easter Potions"
+  },
+  {
+   "code": "DRAGONKI",
+   "reward": "6 of All Potions (Tier 4) and 4 Easter Potions"
+  },
+  {
+   "code": "DBZRAID",
+   "reward": "6 of All Potions (Tier 4) and 4 Easter Potions"
+  },
+  {
+   "code": "DRAGONBOX",
+   "reward": "6 of All Potions (Tier 4) and 4 Easter Potions"
+  },
+  {
+   "code": "GHOSTLYWARRIORS",
+   "reward": "6 All Potions (Tier 4) and 4 Easter Potions"
+  },
+  {
+   "code": "SHINYMACHINE",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "LEAFUPD",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "65KLIKES",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "SENKUBOSS",
+   "reward": "6 All Potions (Tier 4) and 4 Easter Potions"
+  },
+  {
+   "code": "ASSOCIATION",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "STATSSYSTEM",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "MINEFIELDS",
+   "reward": "4 All Potions (Tier 4) and 2 Easter Potions"
+  },
+  {
+   "code": "CRAFTS",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "EasterMounts",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "EASTERTITLE",
+   "reward": "50 Gems , 1 Damage Potion II , 1 Drop Potion II , 1 Ghost Potion II , "
+  },
+  {
+   "code": "CHAINSAW",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "MOUNTSWITHEXP",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "SOLDIERRANKS",
+   "reward": "4 All Potions (Tier 3)"
+  },
+  {
+   "code": "AUTOUPGRADE",
+   "reward": "4 All Potions (Tier 3)"
+  },
+  {
+   "code": "STANDS",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "DARKBLADE",
+   "reward": "4 of Each Potion"
+  },
+  {
+   "code": "MASTERY",
+   "reward": "4 of Each Potion"
+  },
+  {
+   "code": "RELICS",
+   "reward": "50 Gems , 1 Damage Potion II , 1 Drop Potion II , 1 Ghost Potion II , "
+  },
+  {
+   "code": "DUNGEONSHOP",
+   "reward": "4 All Potions (Tier 3)"
+  },
+  {
+   "code": "MILIMSECRET",
+   "reward": "4 of All Potions"
+  },
+  {
+   "code": "10MVISITS",
+   "reward": "4 of All Potions and 50 Gems"
+  },
+  {
+   "code": "INFINITYCASTLE",
+   "reward": "1 All Potions (Tier 2) and an All Cooldowns Reset"
+  },
+  {
+   "code": "DEVILFRUITS",
+   "reward": "50 Gems , 1 Damage Potion II , 1 Drop Potion II , 1 Ghost Potion II , "
+  },
+  {
+   "code": "PIRATELEVEL",
+   "reward": "2 of Each Tier Two Potion"
+  },
+  {
+   "code": "20KPLAYERS",
+   "reward": "100 Gems and 3 of Each Tier Three Potion"
+  },
+  {
+   "code": "WARRIORS",
+   "reward": "2 of Each Tier Two Potion"
+  },
+  {
+   "code": "SHUTDOWN",
+   "reward": "a Cooldown Reset , 1 Damage Potion II , 1 Drop Potion II , 1 Ghost Pot"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 Damage Potion II , 1 Drop Potion II , 1 Ghost Potion II , 1 Luck Pot"
+  },
+  {
+   "code": "EXCHANGE",
+   "reward": "2 Damage Potion II , 2 Drop Potion II , 2 Ghost Potion II , 2 Luck Pot"
+  }
+ ],
+ "updated": "2026-08-12T20:23:32.732Z",
+ "source": "https://robloxden.com/game-codes/anime-ghosts"
+}

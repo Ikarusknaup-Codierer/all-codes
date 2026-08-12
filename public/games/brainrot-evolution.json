@@ -1,0 +1,356 @@
+{
+ "slug": "brainrot-evolution",
+ "name": "Brainrot Evolution",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "PYRO",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "DUCKYFUSION",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "DUCKS",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Uncle",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "ZAPYBARA",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "BWAB",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Capybara",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Season10",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Brainblock",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "DRAGONI",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "EVIL",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Krang",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Combinasion",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Beowl",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Easter2026",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Luck",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Patrick",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Ding",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Fishybara",
+   "reward": "2 Mega Exp Potions"
+  },
+  {
+   "code": "Dididididi",
+   "reward": "2 Exp Potions"
+  },
+  {
+   "code": "Brainheaven",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Flushrooms",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "Love",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "Festive",
+   "reward": "4 Mega EXP Potions"
+  },
+  {
+   "code": "Tsunami",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "OP",
+   "reward": "4 Mega EXP Potions"
+  },
+  {
+   "code": "Cheese",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "List",
+   "reward": "4 Mega EXP Potions"
+  },
+  {
+   "code": "2026",
+   "reward": "4 Mega EXP Potions"
+  },
+  {
+   "code": "I2W",
+   "reward": "2 Gingerbread Crates"
+  },
+  {
+   "code": "Tower",
+   "reward": "4 Mega EXP Potions"
+  },
+  {
+   "code": "FixBug91",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "NEWCODE89",
+   "reward": "1 Mega EXP Potion"
+  },
+  {
+   "code": "i2PerfectCode",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Summer2025",
+   "reward": "3 Summer Tickets"
+  },
+  {
+   "code": "FIXED82",
+   "reward": "1 Lolo Crate"
+  },
+  {
+   "code": "INDEX",
+   "reward": "3 EXP Potions"
+  },
+  {
+   "code": "BrainCore",
+   "reward": "3 EXP Potions"
+  },
+  {
+   "code": "LOLO1",
+   "reward": "1 Lolo Crate"
+  },
+  {
+   "code": "MATTEOOO",
+   "reward": "3 EXP Potions"
+  },
+  {
+   "code": "FIXED27",
+   "reward": "1 Lolo Crate"
+  },
+  {
+   "code": "Ambalabu",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Tralalero",
+   "reward": "3 EXP Potions"
+  },
+  {
+   "code": "EASTER",
+   "reward": "1 EXP Potion"
+  },
+  {
+   "code": "i2perfect1",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "lolgame1",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "release",
+   "reward": "1 Wins Potion"
+  },
+  {
+   "code": "Coral35",
+   "reward": "1 Mega EXP Potion"
+  },
+  {
+   "code": "code653",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "Gift129",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "thanks_magia",
+   "reward": "1 Gummy Crate"
+  },
+  {
+   "code": "Magia7",
+   "reward": "1 Lolo Crate"
+  },
+  {
+   "code": "LOLOCODE41",
+   "reward": "1 Lolo Crate"
+  },
+  {
+   "code": "POTIONCODE9",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Guardian",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "ToToToTo",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "SEWER",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "MEDUS",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "Eternal",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "HOTSPOT",
+   "reward": "3 EXP Potions"
+  },
+  {
+   "code": "CODE897",
+   "reward": "4 Mega EXP Potions"
+  },
+  {
+   "code": "FixedBoss31",
+   "reward": "1 Mega EXP Potion"
+  },
+  {
+   "code": "Abyss",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Lukeblox2",
+   "reward": "1 Mega EXP Potion"
+  },
+  {
+   "code": "TungTungx15",
+   "reward": "2 Vault Crates"
+  },
+  {
+   "code": "PIXSUMMEREVENT1",
+   "reward": "2 Vault Crates"
+  },
+  {
+   "code": "DUNGEON",
+   "reward": "3 EXP Potions"
+  },
+  {
+   "code": "TUNGTUNG13",
+   "reward": "2 Vault Crates"
+  },
+  {
+   "code": "TUNG247",
+   "reward": "2 Lolo Crates"
+  },
+  {
+   "code": "SummerPart2",
+   "reward": "3 EXP Potions"
+  },
+  {
+   "code": "Glorbo",
+   "reward": "4 EXP Potions"
+  },
+  {
+   "code": "i2Perfect",
+   "reward": "3 Mega EXP Potions"
+  },
+  {
+   "code": "Thankful",
+   "reward": "4 Mega EXP Potions"
+  },
+  {
+   "code": "THANKSGIVING",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "CADABRA",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "Spooky",
+   "reward": "3 Mega EXP Potions"
+  },
+  {
+   "code": "Trinket",
+   "reward": "30 Larila Shards"
+  },
+  {
+   "code": "Drulimero",
+   "reward": "5 Mega EXP Potions"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "MTDOJO",
+   "reward": "5 Orcolocos Crates"
+  },
+  {
+   "code": "TriTriTri",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "FIX12381",
+   "reward": "3 Mega EXP Potions"
+  },
+  {
+   "code": "SECRET",
+   "reward": "2 Mega EXP Potions"
+  },
+  {
+   "code": "Arcade",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Goaaat",
+   "reward": "3 Mega EXP Potions"
+  },
+  {
+   "code": "YONICODE7",
+   "reward": "4 Yoni Crates"
+  }
+ ],
+ "updated": "2026-08-12T20:26:31.678Z",
+ "source": "https://robloxden.com/game-codes/brainrot-evolution"
+}

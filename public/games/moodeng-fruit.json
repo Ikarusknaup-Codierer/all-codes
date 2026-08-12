@@ -1,0 +1,396 @@
+{
+ "slug": "moodeng-fruit",
+ "name": "Moodeng Fruit",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "super_senior_gojo",
+   "reward": "1,000 Gems and $1,000,000,000 Cash"
+  },
+  {
+   "code": "choso",
+   "reward": "1,000 Gems and $1,000,000,000 Cash"
+  },
+  {
+   "code": "hakariv2",
+   "reward": "1,000 Gems and $1,000,000,000 Cash"
+  },
+  {
+   "code": "saitama",
+   "reward": "Freebies"
+  },
+  {
+   "code": "kurumicomeback",
+   "reward": "100,000 Gems and 1,000,000 Money"
+  },
+  {
+   "code": "fixbugsorrylol",
+   "reward": "100,000 Gems and 1,000,000 Money"
+  },
+  {
+   "code": "goodbye",
+   "reward": "Gems"
+  },
+  {
+   "code": "mob",
+   "reward": "Rewards"
+  },
+  {
+   "code": "ax_a",
+   "reward": "Freebies"
+  },
+  {
+   "code": "qin_shi",
+   "reward": "Freebies"
+  },
+  {
+   "code": "tojiv2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "thxfor9mvisits",
+   "reward": "Freebies"
+  },
+  {
+   "code": "yujiv2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "rimuruv2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "tanjirov2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "uzui",
+   "reward": "Freebies"
+  },
+  {
+   "code": "tanjiro",
+   "reward": "Freebies"
+  },
+  {
+   "code": "ichigov2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "megumin",
+   "reward": "Freebies"
+  },
+  {
+   "code": "isagi",
+   "reward": "Freebies"
+  },
+  {
+   "code": "cidbeta",
+   "reward": "Gems"
+  },
+  {
+   "code": "vergilv2",
+   "reward": "Gems"
+  },
+  {
+   "code": "sjwv3",
+   "reward": "Gems"
+  },
+  {
+   "code": "aizenv2",
+   "reward": "Gems"
+  },
+  {
+   "code": "madara",
+   "reward": "Gems"
+  },
+  {
+   "code": "gilgamesh",
+   "reward": "Gems"
+  },
+  {
+   "code": "jason",
+   "reward": "Gems and Money"
+  },
+  {
+   "code": "superman",
+   "reward": "Freebies"
+  },
+  {
+   "code": "julius",
+   "reward": "Freebies"
+  },
+  {
+   "code": "astav2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "beru",
+   "reward": "Freebies"
+  },
+  {
+   "code": "kaneki",
+   "reward": "Freebies"
+  },
+  {
+   "code": "wally_west",
+   "reward": "Freebies"
+  },
+  {
+   "code": "artoria",
+   "reward": "Freebies"
+  },
+  {
+   "code": "made_in_heaven",
+   "reward": "Freebies"
+  },
+  {
+   "code": "wonder_of_u",
+   "reward": "Freebies"
+  },
+  {
+   "code": "wang_ling",
+   "reward": "Freebies"
+  },
+  {
+   "code": "Jiji",
+   "reward": "Freebies"
+  },
+  {
+   "code": "cosmic_garou",
+   "reward": "Freebies"
+  },
+  {
+   "code": "infinity_dungeon",
+   "reward": "Freebies"
+  },
+  {
+   "code": "ragna",
+   "reward": "Freebies"
+  },
+  {
+   "code": "b4i_single",
+   "reward": "Freebies"
+  },
+  {
+   "code": "thxfor7mvisits",
+   "reward": "Freebies"
+  },
+  {
+   "code": "sayo",
+   "reward": "Freebies"
+  },
+  {
+   "code": "alucardv2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "starrkv2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "gon",
+   "reward": "Freebies"
+  },
+  {
+   "code": "yuta",
+   "reward": "Freebies"
+  },
+  {
+   "code": "femto",
+   "reward": "Extra Gems"
+  },
+  {
+   "code": "yami",
+   "reward": "Extra Gems"
+  },
+  {
+   "code": "sjw2",
+   "reward": "No Reward Specified"
+  },
+  {
+   "code": "thx3mvisit",
+   "reward": "No Reward Specified"
+  },
+  {
+   "code": "okarunv2",
+   "reward": "Extra Gems"
+  },
+  {
+   "code": "a_pro_sea",
+   "reward": "Gems"
+  },
+  {
+   "code": "muramasa",
+   "reward": "Gems"
+  },
+  {
+   "code": "buso_haki",
+   "reward": "Gems"
+  },
+  {
+   "code": "yuji",
+   "reward": "Gems"
+  },
+  {
+   "code": "kisuke",
+   "reward": "Gems"
+  },
+  {
+   "code": "moodeng_combat",
+   "reward": "Gems"
+  },
+  {
+   "code": "ramadan",
+   "reward": "Gems"
+  },
+  {
+   "code": "yoriichi",
+   "reward": "Gems"
+  },
+  {
+   "code": "chest",
+   "reward": "Gems"
+  },
+  {
+   "code": "john_smith",
+   "reward": "Gems"
+  },
+  {
+   "code": "elizabeth",
+   "reward": "Gems"
+  },
+  {
+   "code": "moodeng2",
+   "reward": "Gems"
+  },
+  {
+   "code": "sorryforbug",
+   "reward": "Gems"
+  },
+  {
+   "code": "new_moodeng_fruit",
+   "reward": "Gems"
+  },
+  {
+   "code": "gojov3",
+   "reward": "Gems"
+  },
+  {
+   "code": "5mvisit",
+   "reward": "Gems"
+  },
+  {
+   "code": "5klikes",
+   "reward": "Gems"
+  },
+  {
+   "code": "second_sea",
+   "reward": "Gems"
+  },
+  {
+   "code": "yhwach",
+   "reward": "Gems"
+  },
+  {
+   "code": "alucard",
+   "reward": "Gems"
+  },
+  {
+   "code": "comeback",
+   "reward": "Gems"
+  },
+  {
+   "code": "goku",
+   "reward": "Gems"
+  },
+  {
+   "code": "gun",
+   "reward": "Gems"
+  },
+  {
+   "code": "newstats",
+   "reward": "Gems"
+  },
+  {
+   "code": "starrk",
+   "reward": "Gems"
+  },
+  {
+   "code": "ichigo",
+   "reward": "Gems"
+  },
+  {
+   "code": "kokushibo",
+   "reward": "Gems"
+  },
+  {
+   "code": "newdungeon",
+   "reward": "Gems"
+  },
+  {
+   "code": "thxforplay",
+   "reward": "the Chill Guy"
+  },
+  {
+   "code": "6klikes",
+   "reward": "the Moodeng Accessory"
+  },
+  {
+   "code": "accessory",
+   "reward": "the NPC Accessory"
+  },
+  {
+   "code": "ploykwan",
+   "reward": "10 Million Gems"
+  },
+  {
+   "code": "frieren",
+   "reward": "1 Million Gems"
+  },
+  {
+   "code": "vergil",
+   "reward": "1 Million Gems"
+  },
+  {
+   "code": "doorfruit",
+   "reward": "100,000 Gems"
+  },
+  {
+   "code": "dungeon",
+   "reward": "100,000 Gems"
+  },
+  {
+   "code": "rimuru",
+   "reward": "100,000 Gems"
+  },
+  {
+   "code": "sungjinwoo",
+   "reward": "100,000 Gems"
+  },
+  {
+   "code": "thx2mvisit",
+   "reward": "100,000 Gems"
+  },
+  {
+   "code": "dragonslayer",
+   "reward": "1 Million Gems"
+  },
+  {
+   "code": "thx1mvisit",
+   "reward": "1 Million Gems"
+  },
+  {
+   "code": "aizen",
+   "reward": "1 Million Gems"
+  },
+  {
+   "code": "thx800kvisit",
+   "reward": "1 Million Gems"
+  }
+ ],
+ "updated": "2026-08-12T20:29:52.173Z",
+ "source": "https://robloxden.com/game-codes/moodeng-fruit"
+}

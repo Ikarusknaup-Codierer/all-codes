@@ -1,0 +1,44 @@
+{
+ "slug": "my-lucky-pet",
+ "name": "My Lucky Pet",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "speedyhatch",
+   "reward": "Free Pet"
+  },
+  {
+   "code": "bigmoney",
+   "reward": "15,000 Cash"
+  },
+  {
+   "code": "BigLucky",
+   "reward": "2x Luck Boost (15 minutes)"
+  },
+  {
+   "code": "meow",
+   "reward": "1 Cat Pet"
+  },
+  {
+   "code": "woof",
+   "reward": "1 Dog Pet"
+  },
+  {
+   "code": "money",
+   "reward": "a 15 Minute 2x Coins Boost"
+  },
+  {
+   "code": "lucky",
+   "reward": "a 15 Minute 2x Luck Boost"
+  },
+  {
+   "code": "release",
+   "reward": "500 Cash"
+  }
+ ],
+ "updated": "2026-08-12T20:29:57.541Z",
+ "source": "https://robloxden.com/game-codes/my-lucky-pet"
+}

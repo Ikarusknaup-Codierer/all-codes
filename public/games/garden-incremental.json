@@ -1,0 +1,300 @@
+{
+ "slug": "garden-incremental",
+ "name": "Garden Incremental",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "THEGARDENISREAL",
+   "reward": "Freebies"
+  },
+  {
+   "code": "VALENTINE",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SINGULARITY",
+   "reward": "50 Premium Robux"
+  },
+  {
+   "code": "ItsTheTimeToShine",
+   "reward": "100 Premium Robux"
+  },
+  {
+   "code": "15kLikes",
+   "reward": "Freebies"
+  },
+  {
+   "code": "45kFavs!",
+   "reward": "Misc. Rewards"
+  },
+  {
+   "code": "23kLikes!",
+   "reward": "Misc. Rewards"
+  },
+  {
+   "code": "HELL",
+   "reward": "Misc. Rewards"
+  },
+  {
+   "code": "SorryShutdown12",
+   "reward": "25 Premium Robux, 100K Passive Shards, And More"
+  },
+  {
+   "code": "20kLikes!",
+   "reward": "25 Premium Robux, 100K Passive Shards, 100K Tickets, And 5 Rune Speed "
+  },
+  {
+   "code": "21kLikes!",
+   "reward": "100K Passive Shards, 5 Rune Speed Potions, 2 Stats Potions, And 2 Luck"
+  },
+  {
+   "code": "22kLikes!",
+   "reward": "25 Premium Robux, 100K Passive Shards, 100K Tickets, And 5 Rune Speed "
+  },
+  {
+   "code": "40kFavs!",
+   "reward": "100K Passive Shards, 5 Rune Speed Potions, 2 Stats Potions, And 2 Luck"
+  },
+  {
+   "code": "90kGroupMembers!",
+   "reward": "25 Premium Robux, 100K Passive Shards, 100K Tickets, And 5 Rune Speed "
+  },
+  {
+   "code": "2026!!",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryShutdown11",
+   "reward": "Freebies"
+  },
+  {
+   "code": "MerryChristmas",
+   "reward": "Freebies"
+  },
+  {
+   "code": "Nooblax",
+   "reward": "Miscellaneous Rewards"
+  },
+  {
+   "code": "Christmas",
+   "reward": "Miscellaneous Rewards"
+  },
+  {
+   "code": "Space",
+   "reward": "Potions, Tickets, And 25 Robux Points"
+  },
+  {
+   "code": "SorryShutdown10",
+   "reward": "Potions, Tickets, And 25 Robux Points"
+  },
+  {
+   "code": "16kBelovedMembers",
+   "reward": "50 Robux Points, 100K Tickets, Shards, And Potions"
+  },
+  {
+   "code": "17kBelovedMembers",
+   "reward": "50 Robux Points, 100K Tickets, Shards And Potions"
+  },
+  {
+   "code": "35kFavs!",
+   "reward": "Rewards"
+  },
+  {
+   "code": "75kGroupMembers!",
+   "reward": "Rewards"
+  },
+  {
+   "code": "19kLikes",
+   "reward": "Rewards"
+  },
+  {
+   "code": "18kLikes",
+   "reward": "50 Premium Robux"
+  },
+  {
+   "code": "30kFavs!",
+   "reward": "Rewards"
+  },
+  {
+   "code": "16kLikes",
+   "reward": "Rewards"
+  },
+  {
+   "code": "17kLikes",
+   "reward": "Rewards"
+  },
+  {
+   "code": "ThanksGivingABitLate",
+   "reward": "Rewards"
+  },
+  {
+   "code": "SorryShutdownBcNoobConnorAndRandomErrors",
+   "reward": "67 Premium Robux"
+  },
+  {
+   "code": "FixAndQOL1",
+   "reward": "Freebies"
+  },
+  {
+   "code": "MushroomsAreHere",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryShutdown8",
+   "reward": "50 Premium Robux"
+  },
+  {
+   "code": "14kLikes",
+   "reward": "100,000 Tickets"
+  },
+  {
+   "code": "25kFavs!",
+   "reward": "100,000 Tickets"
+  },
+  {
+   "code": "15kBelovedMembers",
+   "reward": "Rewards"
+  },
+  {
+   "code": "14kLovelyMembers",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryShutdown7",
+   "reward": "Freebies"
+  },
+  {
+   "code": "GoFish",
+   "reward": "Freebies"
+  },
+  {
+   "code": "2MVISITS!",
+   "reward": "Freebies"
+  },
+  {
+   "code": "20kFavs!",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryShutdown6",
+   "reward": "Freebies"
+  },
+  {
+   "code": "11kLikes",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryShutdown5",
+   "reward": "Freebies"
+  },
+  {
+   "code": "2kCCU",
+   "reward": "Freebies"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "Freebies"
+  },
+  {
+   "code": "10kLikes!",
+   "reward": "Freebies"
+  },
+  {
+   "code": "13kLovelyMembers",
+   "reward": "Freebies"
+  },
+  {
+   "code": "9kLikes!",
+   "reward": "50 Premium Robux"
+  },
+  {
+   "code": "15kFavs!",
+   "reward": "50 Premium Robux"
+  },
+  {
+   "code": "7kLikes!",
+   "reward": "Tickets"
+  },
+  {
+   "code": "8kLikes!",
+   "reward": "Tickets"
+  },
+  {
+   "code": "CYBER",
+   "reward": "Tickets"
+  },
+  {
+   "code": "GUILDS",
+   "reward": "Tickets"
+  },
+  {
+   "code": "SorryShutdown2",
+   "reward": "Tickets"
+  },
+  {
+   "code": "SorryShutdown1",
+   "reward": "Tickets"
+  },
+  {
+   "code": "500KEVENT!",
+   "reward": "Tickets"
+  },
+  {
+   "code": "30kGroupMembers",
+   "reward": "Tickets"
+  },
+  {
+   "code": "NEWUPDATE!",
+   "reward": "Tickets"
+  },
+  {
+   "code": "SorryBigDelay",
+   "reward": "Tickets"
+  },
+  {
+   "code": "Soon500kEvent",
+   "reward": "Tickets"
+  },
+  {
+   "code": "DelayIncremental",
+   "reward": "Tickets"
+  },
+  {
+   "code": "11kMembers",
+   "reward": "Tickets"
+  },
+  {
+   "code": "UpgradeTreeIsHere",
+   "reward": "50 Tickets and 25 Premium Robux"
+  },
+  {
+   "code": "GardenIncIsHere",
+   "reward": "20 Premium Robux"
+  },
+  {
+   "code": "1kFavs",
+   "reward": "20 Tickets , 1 Stats Potion , 1 Rune Luck Potion , and 1 Rune Speed Po"
+  },
+  {
+   "code": "9kMembers",
+   "reward": "25 Tickets and 25 Premium Robux"
+  },
+  {
+   "code": "10kMembers",
+   "reward": "50 Tickets , 1 Stats Potion , 1 Rune Luck Potion , and 1 Rune Speed Po"
+  },
+  {
+   "code": "BugFixes",
+   "reward": "1 Stats Potion , 1 Rune Luck Potion , and 1 Rune Speed Potion"
+  },
+  {
+   "code": "Release",
+   "reward": "20 Tickets"
+  }
+ ],
+ "updated": "2026-08-12T20:29:33.111Z",
+ "source": "https://robloxden.com/game-codes/garden-incremental"
+}

@@ -1,0 +1,240 @@
+{
+ "slug": "anime-card-collection",
+ "name": "Anime Card Collection",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "FiftySixCode",
+   "reward": "200 Pet Tokens , 200 Trait Tokens , and 200 Grade Tokens"
+  },
+  {
+   "code": "FiftyFiveCode",
+   "reward": "200 Pet Tokens , 200 Trait Tokens , and 200 Grade Tokens"
+  },
+  {
+   "code": "FiftyFourCode",
+   "reward": "200 Pet Tokens , 200 Trait Tokens , and 200 Grade Tokens"
+  },
+  {
+   "code": "FiftyThreeCode",
+   "reward": "200 Pet Tokens , 200 Trait Tokens , and 200 Grade Tokens"
+  },
+  {
+   "code": "FiftyOneCode",
+   "reward": "2,000 Fish Tokens"
+  },
+  {
+   "code": "FiftyTwoCode",
+   "reward": "200 Pet Tokens , 200 Trait Tokens , and 200 Grade Tokens"
+  },
+  {
+   "code": "FiftyCode",
+   "reward": "1K Fish Tokens"
+  },
+  {
+   "code": "FortyNineCode",
+   "reward": "500 Fish Tokens"
+  },
+  {
+   "code": "FortyEightCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "FortySevenCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "FortySixCode",
+   "reward": "500 Voyage Tokens"
+  },
+  {
+   "code": "FortyFiveCode",
+   "reward": "200 Voyage Tokens"
+  },
+  {
+   "code": "FortyFourCode",
+   "reward": "200 Voyage Tokens"
+  },
+  {
+   "code": "FortyThreeCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "FortyTwoCode",
+   "reward": "100 Pet Tokens, 100 Trait Tokens, and 100 Grade Tokens"
+  },
+  {
+   "code": "FortyOneCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "FortyCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "ThirtyNineCode",
+   "reward": "75 Figurine Tokens"
+  },
+  {
+   "code": "ThirtyEightCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "ThirtySevenCode",
+   "reward": "30 Live Event Tokens"
+  },
+  {
+   "code": "ThirtySixCode",
+   "reward": "3 XP I Potions , 3 XP II Potions , and 3 XP III Potions"
+  },
+  {
+   "code": "sorry",
+   "reward": "100 Star Tickets , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "ThirtyFiveCode",
+   "reward": "10,000 Diamonds"
+  },
+  {
+   "code": "ThirtyFourCode",
+   "reward": "2,000 Diamonds"
+  },
+  {
+   "code": "ThirtyTwoCode",
+   "reward": "50 Star Tickets , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "ThirtyThreeCode",
+   "reward": "50 Star Tickets , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "ThirtyOneCode",
+   "reward": "50 Star Tickets , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "ThirtyCode",
+   "reward": "10 Stardust , 5 Star Shards , 3 Star Cores , and 50 Star Tokens"
+  },
+  {
+   "code": "TwentyNinthCode",
+   "reward": "10 Stardust , 5 Star Shards , 3 Star Core , and 50 Star Tokens"
+  },
+  {
+   "code": "TwentyEighthCode",
+   "reward": "Tickets"
+  },
+  {
+   "code": "TwentySeventhCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "TwentySixthCode",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "TwentyFifthCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "TwentyFourthCode",
+   "reward": "100 Easter Eggs"
+  },
+  {
+   "code": "TwentyThirdCode",
+   "reward": "3 XP I Potions , 3 XP II Potions , and 3 XP III Potions"
+  },
+  {
+   "code": "TwentySecondCode",
+   "reward": "100 of Each Token"
+  },
+  {
+   "code": "TwentyFirstCode",
+   "reward": "2 Tier I Totems and 2 Tier II Totems"
+  },
+  {
+   "code": "TwentiethCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens , and 100 Grade Tokens"
+  },
+  {
+   "code": "NineteenthCode",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "EighteenthCode",
+   "reward": "3 Luck I Potions , 3 Luck II Potions , and 3 Luck III Potions"
+  },
+  {
+   "code": "SeventeenthCode",
+   "reward": "75 Pet Tokens , 75 Trait Tokens , and 75 Grade Tokens"
+  },
+  {
+   "code": "SixteenthCode",
+   "reward": "3 Hatch Time II Potions and 3 Hatch Time III Potions"
+  },
+  {
+   "code": "FifteenthCode",
+   "reward": "1 Pet Luck I Potion , 1 Pet Luck II Potion , and 1 Pet Luck III Potion"
+  },
+  {
+   "code": "FourteenthCode",
+   "reward": "100 Pet Tokens and 100 Trait Tokens"
+  },
+  {
+   "code": "ThirteenthCode",
+   "reward": "100 Pet Tokens , 100 Trait Tokens and 100 Grade Tokens"
+  },
+  {
+   "code": "TwelfthCode",
+   "reward": "3 Luck III Potions and 3 XP III Potions"
+  },
+  {
+   "code": "EleventhCode",
+   "reward": "25 Pet Tokens , 25 Trait Tokens , and 25 Grade Tokens"
+  },
+  {
+   "code": "TenthCode",
+   "reward": "10 Pet Tokens"
+  },
+  {
+   "code": "NinthCode",
+   "reward": "10 Pet Tokens"
+  },
+  {
+   "code": "EighthCode",
+   "reward": "Luck Potions II And EXP Potions II"
+  },
+  {
+   "code": "SeventhCode",
+   "reward": "10 Trait Tokens"
+  },
+  {
+   "code": "SixthCode",
+   "reward": "Luck Potions II, Hatch Time Potions, And More"
+  },
+  {
+   "code": "FifthCode",
+   "reward": "5 Travel Tokens"
+  },
+  {
+   "code": "FourthCode",
+   "reward": "Potions"
+  },
+  {
+   "code": "ThirdCode",
+   "reward": "10 Grade Tokens"
+  },
+  {
+   "code": "SecondCode",
+   "reward": "2 Luck I Potions and 2 Hatch Time I Potions"
+  },
+  {
+   "code": "FirstCode",
+   "reward": "500 Cash and 1 Ninja Pack"
+  }
+ ],
+ "updated": "2026-08-12T20:24:54.408Z",
+ "source": "https://robloxden.com/game-codes/anime-card-collection"
+}

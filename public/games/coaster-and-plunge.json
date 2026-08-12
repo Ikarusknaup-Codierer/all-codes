@@ -1,0 +1,28 @@
+{
+ "slug": "coaster-and-plunge",
+ "name": "Coaster and Plunge",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "NEW_PLAYER",
+   "reward": "2 Coin Potions"
+  },
+  {
+   "code": "LIKES_100",
+   "reward": "1 Coin Potion and 1 Speed Potion"
+  },
+  {
+   "code": "LIKES_500",
+   "reward": "1 Trophy Potion and 1 Stamina Potion"
+  },
+  {
+   "code": "LIKES_1K",
+   "reward": "2 Speed Potions"
+  }
+ ],
+ "updated": "2026-08-12T20:24:47.848Z",
+ "source": "https://robloxden.com/game-codes/coaster-and-plunge"
+}

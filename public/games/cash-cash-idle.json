@@ -1,0 +1,40 @@
+{
+ "slug": "cash-cash-idle",
+ "name": "Cash Cash Idle",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "BASKET",
+   "reward": "20 Gold and 10 Keys"
+  },
+  {
+   "code": "EASTER",
+   "reward": "20 Gold , 10 Keys , 55 Eggs"
+  },
+  {
+   "code": "ECONOMY",
+   "reward": "20 Gold , 1 Basic Vault , 1 Small Chest , and 1 Casual Backpack"
+  },
+  {
+   "code": "BUNNY",
+   "reward": "40 Gold"
+  },
+  {
+   "code": "CHICKEN",
+   "reward": "20 Keys"
+  },
+  {
+   "code": "EGGHUNT",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "a Medium Chest"
+  }
+ ],
+ "updated": "2026-08-12T20:22:49.647Z",
+ "source": "https://robloxden.com/game-codes/cash-cash-idle"
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "ghoul-incremental",
+ "name": "Ghoul Incremental",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "LIKES1K",
+   "reward": "Rolls for Each Slot"
+  },
+  {
+   "code": "PVP",
+   "reward": "Rolls for Each Slot"
+  },
+  {
+   "code": "SORRYFORBUGS",
+   "reward": "1 Roll of each type"
+  },
+  {
+   "code": "IMAGHOUL",
+   "reward": "1 Roll of each type"
+  },
+  {
+   "code": "LIKES500",
+   "reward": "3 Rolls of each type"
+  }
+ ],
+ "updated": "2026-08-12T20:22:20.486Z",
+ "source": "https://robloxden.com/game-codes/ghoul-incremental"
+}

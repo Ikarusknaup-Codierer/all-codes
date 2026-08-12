@@ -1,0 +1,44 @@
+{
+ "slug": "vorton",
+ "name": "Vorton",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Breakfast",
+   "reward": "the Breakfast Hat"
+  },
+  {
+   "code": "Recycled",
+   "reward": "the Recycled Top Hat"
+  },
+  {
+   "code": "Overcharged",
+   "reward": "the Broken Light Bulb"
+  },
+  {
+   "code": "newton",
+   "reward": "1 Apple"
+  },
+  {
+   "code": "pancake",
+   "reward": "1 Pancake Hat"
+  },
+  {
+   "code": "checkmate",
+   "reward": "1 Chessboard"
+  },
+  {
+   "code": "Freedom",
+   "reward": "Text Sign Accesory"
+  },
+  {
+   "code": "Apple",
+   "reward": "Apple"
+  }
+ ],
+ "updated": "2026-08-12T20:30:04.456Z",
+ "source": "https://robloxden.com/game-codes/vorton"
+}

@@ -1,0 +1,548 @@
+{
+ "slug": "afre",
+ "name": "AF:RE",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Like1K",
+   "reward": "500 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Visit100K",
+   "reward": "5 Reroll Tokens"
+  },
+  {
+   "code": "Visit200K",
+   "reward": "700 Gems"
+  },
+  {
+   "code": "Discord9k",
+   "reward": "3 Reroll Tokens"
+  },
+  {
+   "code": "Kaweenaphat",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "RewampUnit",
+   "reward": "500 Gems and 1 Super Lucky Potion"
+  },
+  {
+   "code": "SorryForBug1",
+   "reward": "5 Reroll Tokens"
+  },
+  {
+   "code": "Visit80K",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "Visit50K",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "Visit20K",
+   "reward": "400 Gems"
+  },
+  {
+   "code": "XestreasGame",
+   "reward": "600 Gems"
+  },
+  {
+   "code": "AnimeGenesis",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "TkzTonkarz",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "Watchpixel",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Itskeen",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "JetozaCH",
+   "reward": "3 Reroll Tokens"
+  },
+  {
+   "code": "WilliamXs",
+   "reward": "1 Reroll Token"
+  },
+  {
+   "code": "Aless1tox",
+   "reward": "1 Reroll Token"
+  },
+  {
+   "code": "Visit450K",
+   "reward": "1,000 Gems and 10 Reroll"
+  },
+  {
+   "code": "CursedGenesis",
+   "reward": "15 Cursed Stones"
+  },
+  {
+   "code": "HappyNewYear2025",
+   "reward": "1,000 Gems , 1,500 Coins , and 5 Reroll Tokens"
+  },
+  {
+   "code": "MerryChristmas2024",
+   "reward": "10 Ice Capsules"
+  },
+  {
+   "code": "SorryForBug2",
+   "reward": "Rewards"
+  },
+  {
+   "code": "Visit400K",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "UPD1",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "Starless",
+   "reward": "700 Gems"
+  },
+  {
+   "code": "christmas",
+   "reward": "5 Reroll Tokens"
+  },
+  {
+   "code": "Snowflake",
+   "reward": "1 Reroll Token"
+  },
+  {
+   "code": "sorryfordelay",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "Visit350K",
+   "reward": "7 Reroll Tokens"
+  },
+  {
+   "code": "JoinAnimeGenesisDiscord",
+   "reward": "2 Reroll Tokens"
+  },
+  {
+   "code": "Visit300K",
+   "reward": "a Limited Unit"
+  },
+  {
+   "code": "Favorite1K",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "Discord10k",
+   "reward": "2 Reroll Tokens"
+  },
+  {
+   "code": "Sub2LIONGAMERCH",
+   "reward": "500 Gems and 2 Reroll Tokens"
+  },
+  {
+   "code": "1YearCode",
+   "reward": "5 Reroll Tokens"
+  },
+  {
+   "code": "Like10K",
+   "reward": "2,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Visit1M",
+   "reward": "3,000 Gems and 10 Reroll Tokens"
+  },
+  {
+   "code": "Like8K",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Like9K",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Favorite4K",
+   "reward": "5 Reroll Tokens"
+  },
+  {
+   "code": "Visit900K",
+   "reward": "2,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "X2DROPRATE",
+   "reward": "10 Reroll Tokens"
+  },
+  {
+   "code": "Visit800K",
+   "reward": "2,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "X3SPEED",
+   "reward": "2,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Like7K",
+   "reward": "2,500 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Visit700K",
+   "reward": "2,000 Gems and 10 Reroll Tokens"
+  },
+  {
+   "code": "Like6K",
+   "reward": "1,500 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Visit600K",
+   "reward": "2,000 Gems and 10 Reroll Tokens"
+  },
+  {
+   "code": "Like5K",
+   "reward": "1,500 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "TkzWentOnVacation1",
+   "reward": "2,000 Shadow Coins and 1 Super Lucky Potion"
+  },
+  {
+   "code": "Visit550K",
+   "reward": "2,000 Gems and 10 Reroll Tokens"
+  },
+  {
+   "code": "Like4K",
+   "reward": "1,500 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Like3K",
+   "reward": "1,500 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "AnimeFantasy",
+   "reward": "3,000 Gems"
+  },
+  {
+   "code": "Favorite2K",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "ShadowEvent",
+   "reward": "2,500 Shadow Coins , a Super Lucky Potion , and an Ultra Lucky Potion"
+  },
+  {
+   "code": "Watchpixel5KSub",
+   "reward": "1,500 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "DELAYASIS",
+   "reward": "Rerolls , Gems , and Potions"
+  },
+  {
+   "code": "ladiesman217reall",
+   "reward": "Rerolls, Gems, And Potions"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "Rerolls And Gems"
+  },
+  {
+   "code": "250KVISITS",
+   "reward": "Rerolls And 1 Potion"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "Rerolls And Gems"
+  },
+  {
+   "code": "GOLD_NYNJA",
+   "reward": "1 Reroll"
+  },
+  {
+   "code": "Study",
+   "reward": "Gems And Reroll Tokens"
+  },
+  {
+   "code": "NightMarket",
+   "reward": "Gems And Reroll Tokens"
+  },
+  {
+   "code": "HBDTKZ",
+   "reward": "100 Reroll Token, 10,000 Gems"
+  },
+  {
+   "code": "Like130K",
+   "reward": "Gems And Reroll Tokens"
+  },
+  {
+   "code": "LOTUS",
+   "reward": "Gems And Reroll Tokens"
+  },
+  {
+   "code": "NEWLOBBY2",
+   "reward": "Gems And Reroll Tokens"
+  },
+  {
+   "code": "Visit10M",
+   "reward": "Gems And Reroll Tokens"
+  },
+  {
+   "code": "ComeBack",
+   "reward": "Unknown Reward"
+  },
+  {
+   "code": "AnimeFantasyGift2",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Visit8M",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "ConnectionIssues1",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "NewLobby",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "InfiniteDungeon",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "REUPDATE2",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "SorryForBug6",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "SorryForBug5",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Like110K",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "AnimeFantasyGift1",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "TkzWentOnVacation5",
+   "reward": "Reroll Tokens"
+  },
+  {
+   "code": "Like100K",
+   "reward": "Reroll Tokens"
+  },
+  {
+   "code": "50KMembers",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Visit7M",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Atomic",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "ATOMICEVENTFIX",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Visit6M",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "TkzWentOnVacation4",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Visit5M",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "String",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "BloodMoon",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "40KMembers",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Leaderboard1",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "RerollLostFix",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Visit3M",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Like50K",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Mugen",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "100KGroupMember",
+   "reward": "2,000 Gems and 10 Reroll Tokens"
+  },
+  {
+   "code": "HourlyLuxxy",
+   "reward": "10 Reroll Tokens"
+  },
+  {
+   "code": "SorryForReroll1",
+   "reward": "10 Reroll Tokens"
+  },
+  {
+   "code": "SorryForBug4",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "X2DROPRATE2",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Crimson",
+   "reward": "20 Crimson Souls"
+  },
+  {
+   "code": "Magic",
+   "reward": "10 Reroll Tokens"
+  },
+  {
+   "code": "Chnisphngs",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "Zhummernight",
+   "reward": "1,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "X2Trait",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Abyss",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Summer",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Slime",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "JoinAnimeFatantasyDiscord",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "SorryForDelayUpdate2",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "SorryForDelayUpdate",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Like120K",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Visit150k",
+   "reward": ""
+  },
+  {
+   "code": "Sub2Jetoza",
+   "reward": ""
+  },
+  {
+   "code": "Sub2Watchpixel",
+   "reward": ""
+  },
+  {
+   "code": "Sub2RikTime",
+   "reward": ""
+  },
+  {
+   "code": "RELEASE",
+   "reward": "No Reward Specified"
+  },
+  {
+   "code": "1YearAnniversary",
+   "reward": "3,000 Gems and 30 Reroll Tokens"
+  },
+  {
+   "code": "SorryForDelay1",
+   "reward": "Gems and Reroll Tokens"
+  },
+  {
+   "code": "Like25K",
+   "reward": "10 Reroll Tokens"
+  },
+  {
+   "code": "Like20K",
+   "reward": "2,500 Gems"
+  },
+  {
+   "code": "Favorite15K",
+   "reward": "3,000 Gems and 5 Reroll Tokens"
+  },
+  {
+   "code": "ASSASSIN",
+   "reward": "1,500 AssassinCoin and 10 Reroll Tokens"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "3,500 Gems and 15 Reroll Tokens"
+  },
+  {
+   "code": "TkzWentOnVacation2",
+   "reward": "500 AssassinCoin"
+  },
+  {
+   "code": "Sub2Watchpixel2",
+   "reward": "15 Reroll Tokens"
+  },
+  {
+   "code": "AprilFoolDay2025",
+   "reward": "500,000 Gems and 1,000 Reroll Tokens"
+  }
+ ],
+ "updated": "2026-08-12T20:30:48.647Z",
+ "source": "https://robloxden.com/game-codes/afre"
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "the-forge",
+ "name": "The Forge",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "FORGEWEEKENDS13",
+   "reward": "15 Rerolls"
+  },
+  {
+   "code": "FORGEWEEKENDS3",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "2 Rerolls And 1 Luck Totem"
+  },
+  {
+   "code": "FORGE2M",
+   "reward": "10 Rerolls and 1 Miner Totem"
+  },
+  {
+   "code": "SORRYFORBUGS",
+   "reward": "10 Rerolls"
+  }
+ ],
+ "updated": "2026-08-12T20:26:12.168Z",
+ "source": "https://robloxden.com/game-codes/the-forge"
+}

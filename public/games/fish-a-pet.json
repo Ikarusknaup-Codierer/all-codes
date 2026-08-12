@@ -1,0 +1,32 @@
+{
+ "slug": "fish-a-pet",
+ "name": "Fish a Pet",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "NEWGAME",
+   "reward": "2,000 Coins and 1 Luck II Potion"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "1,000 Coins , 1 Luck I Potion , and 1 Mutation I Potion"
+  },
+  {
+   "code": "SEAWEED",
+   "reward": "2,000 Coins and 2 Mutation I Potions"
+  },
+  {
+   "code": "WATAA",
+   "reward": "2,000 Coins and 2 Luck II Potions"
+  },
+  {
+   "code": "9001",
+   "reward": "2,000 Coins and 2 Mutation I Potions"
+  }
+ ],
+ "updated": "2026-08-12T20:28:21.350Z",
+ "source": "https://robloxden.com/game-codes/fish-a-pet"
+}

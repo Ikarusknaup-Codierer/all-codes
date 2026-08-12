@@ -1,0 +1,224 @@
+{
+ "slug": "bubble-gum-simulator-infinity",
+ "name": "Bubble Gum Simulator INFINITY",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "600M",
+   "reward": "5 Infinity Elixirs and a 600M Visits Elixir"
+  },
+  {
+   "code": "summer",
+   "reward": "5 Infinity Elixir and 3 Summer Elixir IV"
+  },
+  {
+   "code": "anniversary",
+   "reward": "11 Infinity Elixirs"
+  },
+  {
+   "code": "7egg7",
+   "reward": "1 Translator"
+  },
+  {
+   "code": "spring",
+   "reward": "5 Egg Elixirs"
+  },
+  {
+   "code": "flowers",
+   "reward": "5 Secret Elixirs"
+  },
+  {
+   "code": "valentine",
+   "reward": "3 Secret Elixirs"
+  },
+  {
+   "code": "hell",
+   "reward": "3 Infinity Elixirs"
+  },
+  {
+   "code": "heaven",
+   "reward": "3 Infinity Elixirs"
+  },
+  {
+   "code": "circus",
+   "reward": "3 Infinity Elixirs"
+  },
+  {
+   "code": "2xinfinity",
+   "reward": "10 Ultra Infinity Elixirs"
+  },
+  {
+   "code": "elf",
+   "reward": "3 Festive Elixirs"
+  },
+  {
+   "code": "christmas",
+   "reward": "3 Festive Elixirs"
+  },
+  {
+   "code": "jolly",
+   "reward": "5 Festive Elixirs III, Orbs, And Lucky Infinity"
+  },
+  {
+   "code": "sorryshutdown",
+   "reward": "10 Infinity Elixirs"
+  },
+  {
+   "code": "ogbgs",
+   "reward": "3 Infinity Elixirs"
+  },
+  {
+   "code": "maidnert",
+   "reward": "5 Infinity Elixirs"
+  },
+  {
+   "code": "ripsoulofplant",
+   "reward": "5 Halloween Infinity Elixirs"
+  },
+  {
+   "code": "adminabuse",
+   "reward": "5 Secret Elixirs"
+  },
+  {
+   "code": "obby",
+   "reward": "10 Easy Obby Keys, 5 Medium Obby Keys, 3 Hard Obby Keys, and 5 Classic"
+  },
+  {
+   "code": "fishfix",
+   "reward": "10 Secret Elixirs, 3 Coins Infinity, 3 Mythic Infinity, 3 Lucky Infini"
+  },
+  {
+   "code": "halloween",
+   "reward": "3 Halloween Elixir II, 2 Infinity Elixirs, and 5 Halloween Spin Ticket"
+  },
+  {
+   "code": "cornmaze",
+   "reward": "2 Infinity Elixirs, 5 Fall Mystery Boxes, and 5 Fall Spin Tickets"
+  },
+  {
+   "code": "superpuff",
+   "reward": "10 Secret Elixirs, 3 Lucky Infinity, 3 Speed Infinity, 3 Coins Infinit"
+  },
+  {
+   "code": "autumn",
+   "reward": "2 Infinity Elixirs, 5 Fall Mystery Boxes, and 5 Fall Spin Tickets"
+  },
+  {
+   "code": "retroslop",
+   "reward": "10 Secret Elixirs, 3 Lucky Infinity, 3 Speed Infinity, 3 Coins Infinit"
+  },
+  {
+   "code": "bugfix",
+   "reward": "3 Lucky Infinity, 3 Mythic Infinity, 3 Speed Infinity, 3 Coins Infinit"
+  },
+  {
+   "code": "plasma",
+   "reward": "1 Speed Infinity and 5 Infinity Elixirs"
+  },
+  {
+   "code": "season6",
+   "reward": "1 Mythic Infinity and 5 Infinity Elixirs"
+  },
+  {
+   "code": "milestones",
+   "reward": "Secret and Infinity Elixir"
+  },
+  {
+   "code": "season7",
+   "reward": "Mythic and Infinity Elixir"
+  },
+  {
+   "code": "update16",
+   "reward": "5 Types of Bait"
+  },
+  {
+   "code": "onemorebonus",
+   "reward": "1 of Each Infinity Potion and 5 Secret Elixir"
+  },
+  {
+   "code": "update15",
+   "reward": "Lucky and Infinity Elixir"
+  },
+  {
+   "code": "world3",
+   "reward": "Secret and Mythic Elixir"
+  },
+  {
+   "code": "fishe",
+   "reward": "Speed and Infinity Elixir"
+  },
+  {
+   "code": "update13",
+   "reward": "Lucky and Infinity Elixir"
+  },
+  {
+   "code": "update12",
+   "reward": "Lucky Infinity"
+  },
+  {
+   "code": "update11",
+   "reward": "10 Infinity Elixirs"
+  },
+  {
+   "code": "update10",
+   "reward": "12 Infinity Elixirs"
+  },
+  {
+   "code": "update9",
+   "reward": "3 Infinity Elixirs , 3 Egg Elixirs , and 3 Light Boxes"
+  },
+  {
+   "code": "update8",
+   "reward": "3 Infinity Elixirs"
+  },
+  {
+   "code": "update7",
+   "reward": "2 Infinity Elixirs"
+  },
+  {
+   "code": "update6",
+   "reward": "2 Infinity Elixirs and 3 Ancient Tokens"
+  },
+  {
+   "code": "update5",
+   "reward": "2 Infinity Elixirs"
+  },
+  {
+   "code": "update4",
+   "reward": "2 Infinity Elixirs and 5 Mythic Evolved"
+  },
+  {
+   "code": "update3",
+   "reward": "2 Giant Dice and 2 Dice"
+  },
+  {
+   "code": "sylentlyssorry",
+   "reward": "2 Giant Dice , 1 Golden Dice , 4 Dice , and 3 Infinity Elixirs"
+  },
+  {
+   "code": "update2",
+   "reward": "5 Mystery Boxes"
+  },
+  {
+   "code": "Easter",
+   "reward": "4 Mystery Boxes"
+  },
+  {
+   "code": "Lucky",
+   "reward": "1 Lucky V Potion"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "500 Coins and 1 Mystery Box"
+  },
+  {
+   "code": "throwback",
+   "reward": "1 Infinity Elixir"
+  }
+ ],
+ "updated": "2026-08-12T20:30:46.886Z",
+ "source": "https://robloxden.com/game-codes/bubble-gum-simulator-infinity"
+}

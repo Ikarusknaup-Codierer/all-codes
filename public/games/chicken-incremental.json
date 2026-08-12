@@ -1,0 +1,32 @@
+{
+ "slug": "chicken-incremental",
+ "name": "Chicken Incremental",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "POTIONS",
+   "reward": "1 Currency Potion, 1 Rune Luck Potion, 1 Rune Speed Potion, 1 Runes Po"
+  },
+  {
+   "code": "CHALLENGES",
+   "reward": "10 Tickets"
+  },
+  {
+   "code": "THANK_YOU",
+   "reward": "1 Starter Rune"
+  },
+  {
+   "code": "SKILL_TREE",
+   "reward": "1 Risky Rune"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "rewards"
+  }
+ ],
+ "updated": "2026-08-12T20:22:14.594Z",
+ "source": "https://robloxden.com/game-codes/chicken-incremental"
+}

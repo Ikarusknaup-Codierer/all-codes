@@ -1,0 +1,44 @@
+{
+ "slug": "race-animals",
+ "name": "Race Animals",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "X20",
+   "reward": "2x Wins Potion"
+  },
+  {
+   "code": "GEM",
+   "reward": "Shiny Potion"
+  },
+  {
+   "code": "UPD",
+   "reward": "2x Win Potion"
+  },
+  {
+   "code": "VAULT",
+   "reward": "2x Win Potion"
+  },
+  {
+   "code": "SNOW",
+   "reward": "1 Golden Potion"
+  },
+  {
+   "code": "MUTATE",
+   "reward": "1 Double Win Potion"
+  },
+  {
+   "code": "RACE",
+   "reward": "1 Golden Potion"
+  },
+  {
+   "code": "ZOO",
+   "reward": "1 Double Win Potion"
+  }
+ ],
+ "updated": "2026-08-12T20:26:49.622Z",
+ "source": "https://robloxden.com/game-codes/race-animals"
+}

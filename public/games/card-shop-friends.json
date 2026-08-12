@@ -1,0 +1,44 @@
+{
+ "slug": "card-shop-friends",
+ "name": "Card Shop Friends",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "update",
+   "reward": "$300"
+  },
+  {
+   "code": "shop",
+   "reward": "1 Double Cash Boost (10 Minutes)"
+  },
+  {
+   "code": "tcg",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "hire",
+   "reward": "2x Stars"
+  },
+  {
+   "code": "abuse",
+   "reward": "2x Cash Boost"
+  },
+  {
+   "code": "admin",
+   "reward": "300 Cash"
+  },
+  {
+   "code": "potion",
+   "reward": "2x Cash Boost"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "a 2x Cash Boost"
+  }
+ ],
+ "updated": "2026-08-12T20:24:38.780Z",
+ "source": "https://robloxden.com/game-codes/card-shop-friends"
+}

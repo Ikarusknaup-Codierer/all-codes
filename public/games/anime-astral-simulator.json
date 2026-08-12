@@ -1,0 +1,200 @@
+{
+ "slug": "anime-astral-simulator",
+ "name": "Anime Astral Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "CURSEDRUSH",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "KINGOFCURSES",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "YETANOTHERFIXSHUTDOWN",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "UPDATE7FIXES",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "FIXEDINDEX",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "KIEVOLUTION",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "UPDATE6EXTRAFIXES",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "PROMOTION",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "TOMBRAID",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "LIKES5K",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "10KLIKESALREADY",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "5MVISITSINGAME",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "VISITSASTRAL10M",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "10KFAVORITESINTHEGAME",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "ASTRAL20KFAVORITES",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "FIXEDWHITEBEARDQUEST",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "UPDATE6FIXES",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "OPTIMIZATIONS",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "UPDATE6RELEASE",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "LIKES3KNEW",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "2MVISITSNEW",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "20KACTIVE",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "30KACTIVE",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "!ASTRAL40KCCU!",
+   "reward": "Tickets , Potions , or Boosts"
+  },
+  {
+   "code": "FIXEDAVATAR",
+   "reward": "150 F2P Tickets and 5 Potions"
+  },
+  {
+   "code": "SKILLTREE",
+   "reward": "150 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Poti"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "150 F2P Tickets and 1 of Each Potion"
+  },
+  {
+   "code": "PETPASSIVES",
+   "reward": "150 F2P Tickets, 100 Pet Passive Tokens and 1 of Each Potion"
+  },
+  {
+   "code": "DUNGEONS",
+   "reward": "150 F2P Tickets and 1 of Each Potion"
+  },
+  {
+   "code": "DIVINEPASSIVES",
+   "reward": "150 F2P Tickets and 5 Potions"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "SUMMERMOUNT",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "TRIALMEDIUM",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "WAIFU",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
+  },
+  {
+   "code": "GRIMOIRES",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
+  },
+  {
+   "code": "MOUNTS",
+   "reward": "150 F2P Tickets , 1 Damage Potion II , 1 Power Potion II , 1 XP Potion"
+  },
+  {
+   "code": "TRACKER",
+   "reward": "150 F2P Tickets , 1 Damage Potion II , 1 Power Potion II , 1 XP Potion"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
+  },
+  {
+   "code": "BATTLEPASS",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
+  },
+  {
+   "code": "REWARDSFIXED",
+   "reward": "500 F2P Tickets , a Damage II Potion , a Luck II Potion , a Power II P"
+  },
+  {
+   "code": "NPCNERF",
+   "reward": "200 F2P Tickets , 1 XP Potion , 1 Power Potion , 1 Damage Potion , 1 Y"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "150 F2P Tickets , 1 XP Potion , 1 Power Potion , 1 Damage Potion , 1 Y"
+  },
+  {
+   "code": "EXCHANGE",
+   "reward": "150 F2P Tickets"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "250 F2P Tickets and 12 Potions"
+  },
+  {
+   "code": "BACKTOASTRAL",
+   "reward": "Tickets , Potions , or Boosts"
+  }
+ ],
+ "updated": "2026-08-12T14:45:51.880Z",
+ "source": "https://robloxden.com/game-codes/anime-astral-simulator"
+}

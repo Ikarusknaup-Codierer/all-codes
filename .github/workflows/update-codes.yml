@@ -34,5 +34,7 @@ jobs:
             echo "Keine Aenderungen."
           else
             git commit -m "Codes aktualisiert: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
             git push
           fi
+          

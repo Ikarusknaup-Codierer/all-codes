@@ -1,0 +1,456 @@
+{
+ "slug": "new-seas",
+ "name": "New Seas",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "fizandroshysurvivedtheblitz",
+   "reward": "500 Doubloons"
+  },
+  {
+   "code": "ohioboy",
+   "reward": "Freebies"
+  },
+  {
+   "code": "WakeUpSnow",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "JusticeForBountyHunters",
+   "reward": "4,000 Doubloons"
+  },
+  {
+   "code": "1kDamageBakugo",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "PlaceYourBetsOnARevive",
+   "reward": "1,200 Doubloons"
+  },
+  {
+   "code": "IAMNOTBUFFINGYOURFRUIT",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "SuncrownedFishman",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "RevsDoomed",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "JahNotAgain!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "KAGEPIRATES",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "CapturedAndSad",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BariSorry",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Ketchup",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Shambles",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "DragonGone",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "NoMoreSpam!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "DemonHome",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "OwnerBeInactive",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "UpdateHopefullySoon",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "2500KLikes",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "10KServerMembers!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "15KGroupMembers!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "7kFavs!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "1MVisits!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "FourHundooPlayers!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "TwoThousandLikesMilestone!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "LatePlayercountTwoHundooFifity!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "TheLongAwaitIsLifted!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "TheLongAwaitIsLifted2!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "KamiFix",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Gotmetraumatizedwhenijustwokeupiscrazy!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BANDS2HUNDOS!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "CleanupCrew",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BANDSSECRETMISSION!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "5KCELEBRATION!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "ThanksForTrustingInSnow",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BANDSLOVE",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "OneHundooo",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "FiveHundoFavs",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "PlayerSkyRocket",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "AlwaysBetOnSinExceedToDeliver!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "SeishinStronger",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "CloudInClouds",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "ARC2OVER",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "DutyTheSnake!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "FullPowerSondit",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "OnTopOfTheWorld",
+   "reward": "1,100 Doubloons"
+  },
+  {
+   "code": "TeamUp",
+   "reward": "1,200 Doubloons"
+  },
+  {
+   "code": "snowday",
+   "reward": "2,000 Doubloons"
+  },
+  {
+   "code": "imback",
+   "reward": "2,000 Doubloons"
+  },
+  {
+   "code": "CelestialDragonsRiseSoon",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "SomethingNiceIsPlanned",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "DecentPlayerCount",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "TheWheelTurns",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "HappyThanksGiving",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "HorribleSchoolDayToday",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "AlmostSchoolMonday",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "LateNightNS",
+   "reward": "2,500 Doubloons"
+  },
+  {
+   "code": "SomethingMaybeSoon",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "YetiQuestFixHopefully",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "MorningHaze",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "LEAVEMEALONE",
+   "reward": "1,200 Doubloons"
+  },
+  {
+   "code": "HereYouGoCodeGoblins",
+   "reward": "1,200 Doubloons"
+  },
+  {
+   "code": "QuickLittleShutdown",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "THEULTIMATETROLL",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryForSDs",
+   "reward": "Freebies"
+  },
+  {
+   "code": "KingStress",
+   "reward": "Freebies"
+  },
+  {
+   "code": "ThankYou",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SkillTreeCompensation",
+   "reward": "Freebies"
+  },
+  {
+   "code": "makenewseasgreatagain",
+   "reward": "Freebies"
+  },
+  {
+   "code": "NEWSEASBACK!",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "freebenji",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "nerfed",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "cheaters",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "IMTAKINGABREAK",
+   "reward": "600 Doubloons"
+  },
+  {
+   "code": "ONSTRIKE",
+   "reward": "600 Doubloons"
+  },
+  {
+   "code": "GOODLUCK",
+   "reward": "100 Doubloons"
+  },
+  {
+   "code": "PatiencesIsKey",
+   "reward": "400 Doubloons"
+  },
+  {
+   "code": "RevolutionArmyHadAHandyCap",
+   "reward": "500 Doubloons"
+  },
+  {
+   "code": "GermaLeaderFalls",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "savefordivineandslime",
+   "reward": "Doubloons"
+  },
+  {
+   "code": "YallGotIt",
+   "reward": "500 Doubloons"
+  },
+  {
+   "code": "ArkhamAsylum",
+   "reward": "1,200 Doubloons"
+  },
+  {
+   "code": "Gothamneedsabatman",
+   "reward": "500 Doubloons"
+  },
+  {
+   "code": "Ithrowpebbles",
+   "reward": "1,200 Doubloons"
+  },
+  {
+   "code": "Areyoulivingunderarock",
+   "reward": "1,200 Doubloons"
+  },
+  {
+   "code": "FirstDayInMarines",
+   "reward": "200 Doubloons"
+  },
+  {
+   "code": "3HSnake",
+   "reward": "600 Doubloons"
+  },
+  {
+   "code": "NotColdAnymoreIceBoy",
+   "reward": "200 Doubloons"
+  },
+  {
+   "code": "YouBothAintGettingItBack",
+   "reward": "200 Doubloons"
+  },
+  {
+   "code": "StopDmingMeAboutFruits",
+   "reward": "200 Doubloons"
+  },
+  {
+   "code": "OfficialPirateCrews",
+   "reward": "100 Doubloons"
+  },
+  {
+   "code": "MMModsIGotUTomorrow",
+   "reward": "100 Doubloons"
+  },
+  {
+   "code": "YouWillBeDealtWithShortlyJah",
+   "reward": "100 Doubloons"
+  },
+  {
+   "code": "noodlesforpoodles",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "FairEnough",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "HotSauce",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Arc3Ending",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "YonkoChild",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "IDontCare",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "GetBlocked",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "IceSpiceRingTone",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "ShieldHero",
+   "reward": "500 Doubloons"
+  },
+  {
+   "code": "Revolutionary",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Marines",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Pirates",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "SummerEnding",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BackToSchool",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "MacAndCheese",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BountyHuntersNeverEating",
+   "reward": "Free rewards"
+  }
+ ],
+ "updated": "2026-08-12T15:37:03.237Z",
+ "source": "https://robloxden.com/game-codes/new-seas"
+}

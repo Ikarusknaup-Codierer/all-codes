@@ -1,0 +1,36 @@
+{
+ "slug": "dog-race",
+ "name": "Dog Race",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "NEW",
+   "reward": "1 Double Win Potion"
+  },
+  {
+   "code": "DOG",
+   "reward": "1 Golden Potion"
+  },
+  {
+   "code": "WEEKEND",
+   "reward": "1 Double Power Potion"
+  },
+  {
+   "code": "ACHIEVE",
+   "reward": "1 Double Power Potion"
+  },
+  {
+   "code": "FOREST",
+   "reward": "1 Double Win Potion"
+  },
+  {
+   "code": "Upgrade",
+   "reward": "1 Double Win Potion"
+  }
+ ],
+ "updated": "2026-08-12T15:36:21.513Z",
+ "source": "https://robloxden.com/game-codes/dog-race"
+}

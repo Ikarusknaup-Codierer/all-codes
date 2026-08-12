@@ -1,0 +1,28 @@
+{
+ "slug": "mech-rng",
+ "name": "Mech RNG",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "BOOST1",
+   "reward": "Luck Boost (1 Hour)"
+  },
+  {
+   "code": "BOLTEDON",
+   "reward": "400 Bolts"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "10K Coins"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "5K Coins"
+  }
+ ],
+ "updated": "2026-08-12T15:39:36.142Z",
+ "source": "https://robloxden.com/game-codes/mech-rng"
+}

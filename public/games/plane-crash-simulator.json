@@ -1,0 +1,32 @@
+{
+ "slug": "plane-crash-simulator",
+ "name": "Plane Crash Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "RUNWAY65",
+   "reward": "7,000 Crash Points"
+  },
+  {
+   "code": "TAKEOFF55",
+   "reward": "5,000 Crash Points"
+  },
+  {
+   "code": "NEWMAP50",
+   "reward": "7,000 Crash Points"
+  },
+  {
+   "code": "PCS40",
+   "reward": "7,000 Crash Points"
+  },
+  {
+   "code": "MAYDAY25",
+   "reward": "7,000 Crash Points"
+  }
+ ],
+ "updated": "2026-08-12T15:41:26.155Z",
+ "source": "https://robloxden.com/game-codes/plane-crash-simulator"
+}

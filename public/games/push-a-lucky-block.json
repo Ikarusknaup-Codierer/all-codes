@@ -1,0 +1,44 @@
+{
+ "slug": "push-a-lucky-block",
+ "name": "Push a Lucky Block",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "update3",
+   "reward": "1 Large Protein Shake"
+  },
+  {
+   "code": "update2",
+   "reward": "1 Large Protein Shake"
+  },
+  {
+   "code": "update1",
+   "reward": "1 Protein Shake"
+  },
+  {
+   "code": "buff",
+   "reward": "a Large Protein Shake"
+  },
+  {
+   "code": "strong",
+   "reward": "a Protein Shake"
+  },
+  {
+   "code": "rich",
+   "reward": "x2 Cash"
+  },
+  {
+   "code": "cash",
+   "reward": "$5,000 Cash"
+  },
+  {
+   "code": "release",
+   "reward": "$1,000 Cash"
+  }
+ ],
+ "updated": "2026-08-12T15:39:45.712Z",
+ "source": "https://robloxden.com/game-codes/push-a-lucky-block"
+}

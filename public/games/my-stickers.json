@@ -1,0 +1,20 @@
+{
+ "slug": "my-stickers",
+ "name": "My Stickers",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "EASTER",
+   "reward": "$1,000,000"
+  },
+  {
+   "code": "HELLO",
+   "reward": "$1,000,000"
+  }
+ ],
+ "updated": "2026-08-12T15:42:42.486Z",
+ "source": "https://robloxden.com/game-codes/my-stickers"
+}

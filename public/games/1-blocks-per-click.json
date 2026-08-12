@@ -1,0 +1,32 @@
+{
+ "slug": "1-blocks-per-click",
+ "name": "+1 Blocks Per Click",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "2 Blocks Potions"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "1 Wins Potion"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "a Blocks Potion"
+  },
+  {
+   "code": "BLOCKS",
+   "reward": "a Blocks Potion"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Blocks"
+  }
+ ],
+ "updated": "2026-08-12T15:41:39.680Z",
+ "source": "https://robloxden.com/game-codes/1-blocks-per-click"
+}

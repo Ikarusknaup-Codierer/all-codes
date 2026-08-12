@@ -1,0 +1,32 @@
+{
+ "slug": "soccer-drafts",
+ "name": "Soccer Drafts",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "10,000 Cash"
+  },
+  {
+   "code": "SOCCERDRAFTS",
+   "reward": "5,000 Coins and 3 Lucky Rolls"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "5,000 Coins and 3 Rerolls"
+  },
+  {
+   "code": "LUCKYSTART",
+   "reward": "2x Luck (30 Minutes)"
+  },
+  {
+   "code": "LUCKYROLL",
+   "reward": "1 Lucky Roll"
+  }
+ ],
+ "updated": "2026-08-12T15:38:23.696Z",
+ "source": "https://robloxden.com/game-codes/soccer-drafts"
+}

@@ -1,0 +1,92 @@
+{
+ "slug": "reborn-incremental",
+ "name": "Reborn Incremental",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "1MVisits",
+   "reward": "3 Event Potions"
+  },
+  {
+   "code": "1MDelays",
+   "reward": "3 Event Potions"
+  },
+  {
+   "code": "ThankYou",
+   "reward": "5 Event Potions , 5 Stat Potions , 5 Server Potions , and 100 Tokens"
+  },
+  {
+   "code": "fih",
+   "reward": "potions"
+  },
+  {
+   "code": "Mile",
+   "reward": "15 Stat Potions"
+  },
+  {
+   "code": "ShutdownIncremental",
+   "reward": "30 Tokens"
+  },
+  {
+   "code": "SorryForShutdown",
+   "reward": "5 of each potion"
+  },
+  {
+   "code": "BugIncremental",
+   "reward": "10 of each potion"
+  },
+  {
+   "code": "DelayIncremental",
+   "reward": "30 Rune Luck Potions , 30 Rune Bulk Potions , and 30 Rune Speed Potion"
+  },
+  {
+   "code": "BubblesAndFih",
+   "reward": "10 Luck Potions , 10 Speed Potions , 10 Bulk Potions , and 10 Stat Pot"
+  },
+  {
+   "code": "BadUpdate",
+   "reward": "5 of each potion , 1 Server Potion , and 1 Global Potion"
+  },
+  {
+   "code": "Free",
+   "reward": "10 Server Potions and 10 Global Potions"
+  },
+  {
+   "code": "BigDaw",
+   "reward": "5 of all potions"
+  },
+  {
+   "code": "YingYang",
+   "reward": "67 Tokens"
+  },
+  {
+   "code": "GotYou",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "SorryForBugs",
+   "reward": "5 of each potion"
+  },
+  {
+   "code": "SorryForBugs2",
+   "reward": "5 of each potion"
+  },
+  {
+   "code": "QOL",
+   "reward": "10 of each potion and 50 Tokens"
+  },
+  {
+   "code": "10KVisits",
+   "reward": "10 of each potion , 50 Tokens , and 100 Shards"
+  },
+  {
+   "code": "Release",
+   "reward": "10 of each potion and 50 Tokens"
+  }
+ ],
+ "updated": "2026-08-12T15:41:31.990Z",
+ "source": "https://robloxden.com/game-codes/reborn-incremental"
+}

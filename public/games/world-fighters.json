@@ -1,0 +1,276 @@
+{
+ "slug": "world-fighters",
+ "name": "World Fighters",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "ThanksForAllTheSupport",
+   "reward": "10K Gems"
+  },
+  {
+   "code": "UPDATE10PART2",
+   "reward": "Potions and 500 Gems"
+  },
+  {
+   "code": "15MVISITS!",
+   "reward": "Potions"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "Potions"
+  },
+  {
+   "code": "UPDATE9PT2",
+   "reward": "1 Power Potion IV , 1 Damage Potion IV , 1 Crystals Potion IV , 1 Luck"
+  },
+  {
+   "code": "TEMPESTINVASIONHARD",
+   "reward": "2 Slime Keys , 1 Power Potion III , 1 Damage Potion III , 1 Crystals P"
+  },
+  {
+   "code": "SORRYYSQUESTSBUG",
+   "reward": "500 Gems and 1 of Each Tier IV Potion"
+  },
+  {
+   "code": "BLUELOCKUPD",
+   "reward": "500 Gems, 50 Car Tokens, 5 Stat Reset Tokens and 1 of Each Tier II Pot"
+  },
+  {
+   "code": "HYPEEEE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "UPDATE8PT2",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SORRYYSACRIFICEBUG",
+   "reward": "3 Stats Reset Tokens , Power Potion III , Damage Potion III , Crystal "
+  },
+  {
+   "code": "BERSERKUPDATE",
+   "reward": "2 Oracle Berserk Tokens , Power Potion III , Damage Potion III , Cryst"
+  },
+  {
+   "code": "WOOGARPP",
+   "reward": "Garp . Can be redeemed on new servers"
+  },
+  {
+   "code": "UPDATE7PT2",
+   "reward": "Power Potion III , Damage Potion III , Crystal Potion II , Luck Potion"
+  },
+  {
+   "code": "DRAGONDEFENSEHARD",
+   "reward": "2 Dragon Keys , Power Potion III , Damage Potion III , Crystal Potion "
+  },
+  {
+   "code": "SORRYYADELAY",
+   "reward": "2 Stat Reset Tokens , Power Potion III , Damage Potion III , Crystal P"
+  },
+  {
+   "code": "SRRY5SHUTDOWSERVANT",
+   "reward": "Potions , Gems , and other Rewards"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "1 Of Each Tier III Potions and 250 Gems"
+  },
+  {
+   "code": "SERVANTS",
+   "reward": "1 Of Each Tier III Potions and 250 Gems"
+  },
+  {
+   "code": "UPDATE6PT2",
+   "reward": "1 Magic Key, 1 Of Each Tier III Potions and 250 Gems"
+  },
+  {
+   "code": "BATTLEPASS_SEASON2",
+   "reward": "1 Magic Key, 1 Of Each Tier III Potions and 250 Gems"
+  },
+  {
+   "code": "25KLIKESAMAZING!!!",
+   "reward": "1 Of Each Potions Tier II, 1 Dragon Ball Token and 100 Gems"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "1 Magic Key, 1 Power Potion III, 1 Damage Potion III, 1 Crystals Potio"
+  },
+  {
+   "code": "GRIMOIRES",
+   "reward": "1 Magic Key, 1 Power Potion III, 1 Damage Potion III, 1 Crystals Potio"
+  },
+  {
+   "code": "UPDATE5PT2",
+   "reward": "1 Power Potion III, 1 Damage Potion III, 1 Crystals Potion III, 1 Luck"
+  },
+  {
+   "code": "PIRATESXSAILORS",
+   "reward": "1 Power Potion III, 1 Damage Potion III, 1 Crystals Potion III, 1 Luck"
+  },
+  {
+   "code": "WEREALLYREACHED12MILLIONVISITS!!",
+   "reward": "1 Power Potion , 1 Damage Potion , 1 Crystal Potion , 1 Luck Potion , "
+  },
+  {
+   "code": "!50KFAVORITESYOO!",
+   "reward": "1 Power Potion , 1 Damage Potion , 1 Crystal Potion , 1 Luck Potion , "
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "1 Ghoul Key , 1 Power Potion , 1 Damage Potion , 1 Crystal Potion , 1 "
+  },
+  {
+   "code": "LASTSHUTDOWN",
+   "reward": "1 Stat Reset Token, 1 Luck Potion, 1 Power Potion, 1 Damage Potion, 1 "
+  },
+  {
+   "code": "SRRY4UPDPROBLEMS",
+   "reward": "250 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "AWESOME11KCCU",
+   "reward": "1 Power Potion II , 1 Damage Potion II , 1 Crystals Potion II , 1 Luck"
+  },
+  {
+   "code": "WOW10KCCU",
+   "reward": "1 Power Potion II , 1 Damage Potion II , 1 Crystals Potion II , 1 Luck"
+  },
+  {
+   "code": "9KPLAYERS",
+   "reward": "1 Power Potion II , 1 Damage Potion II , 1 Crystals Potion II , 1 Luck"
+  },
+  {
+   "code": "8KCCUISAWESOME!",
+   "reward": "1 Power Potion II , 1 Damage Potion II , 1 Crystals Potion II , 1 Luck"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 Power Potion I , 1 Damage Potion I , 1 Crystals Potion I , 1 Luck Po"
+  },
+  {
+   "code": "SRRY4SHUTDOWN",
+   "reward": "1 Luck Potion II , 1 Power Potion II , 1 Damage Potion II , 1 Crystals"
+  },
+  {
+   "code": "SRRY4SHUTDOWN2",
+   "reward": "1 Luck Potion II , 1 Power Potion II , 1 Damage Potion II , 1 Crystals"
+  },
+  {
+   "code": "SRRY4SHUTDOWN3",
+   "reward": "1 Luck Potion II , 1 Power Potion II , 1 Damage Potion II , 1 Crystals"
+  },
+  {
+   "code": "TIOGADIHIT!",
+   "reward": "1 Gadi Jetpack Mount"
+  },
+  {
+   "code": "UNREAL11MILLIONVISITS!!!",
+   "reward": "1 Power Potion II , 1 Crystals Potion II , 1 Damage Potion II , 1 Luck"
+  },
+  {
+   "code": "UPDATE4PT2",
+   "reward": "250 Gems, 1 Hollow Key, 1 Luck Potion III, 1 Power Potion III, 1 Damag"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "250 Free Gems , 1 Luck Potion III , 1 Power Potion III , 1 Damage Poti"
+  },
+  {
+   "code": "WEARESOSORRY",
+   "reward": "5 Tower Keys, 5 Slime Keys, 5 Hollow Keys, 5 Saiyan Keys, 5 Luck Potio"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "250 Gems , 1 Hollow Key , 1 Power Potion III , 1 Damage Potion III , 1"
+  },
+  {
+   "code": "SRRY4DELAY",
+   "reward": "150 Gems , 2 Power Potion II , 2 Damage Potion II , 2 Crystals Potion "
+  },
+  {
+   "code": "UPDATE3QOL",
+   "reward": "250 Gems , 1 Hollow Key , 1 Power Potion III , 1 Damage Potion III , 1"
+  },
+  {
+   "code": "10MILLIONVISITSINSANE!!",
+   "reward": "100 Gems , 1 Dragon Balls Token , 1 Power Potion II , 1 Damage Potion "
+  },
+  {
+   "code": "UPDATE3PT2",
+   "reward": "250 Gems , 1 Hollow Key , 1 Power Potion III , 1 Damage Potion III , 1"
+  },
+  {
+   "code": "!9MILLIONVISITSTYSM!",
+   "reward": "100 Gems , 1 Dragon Balls Token , 1 Power Potion II , 1 Damage Potion "
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "250 Gems , 1 Hollow Key , 1 Luck Potion III , 1 Power Potion III , 1 D"
+  },
+  {
+   "code": "!!8MILLIONVISITS!!",
+   "reward": "100 Free Gems , 1 Dragon Balls Token , 1 Luck Potion II , 1 Power Poti"
+  },
+  {
+   "code": "40KFAVORITES!TY!",
+   "reward": "100 Free Gems , 1 Dragon Balls Token , 1 Luck Potion II , 1 Power Poti"
+  },
+  {
+   "code": "UPDATE2QOL",
+   "reward": "250 Free Gems , 1 Luck Potion III , 1 Power Potion III , 1 Damage Poti"
+  },
+  {
+   "code": "UPDATE2PT2",
+   "reward": "250 Free Gems , 1 Luck Potion III , 1 Power Potion III , 1 Damage Poti"
+  },
+  {
+   "code": "6MILLIONVISITSYO!!!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "DAMN25KFAVORITES!!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "YEAAA30KFAVORITES!!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "13KPLAYERSISALOT!",
+   "reward": "250 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "CANTBELIEVE12KCCU!",
+   "reward": "250 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "13KLIKESMILESTONE!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "TYFOR14KLIKES!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "OMG4MILLIONVISITS!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "5MILLIONVISITSINSANE!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "15KFAVORITES!!!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  },
+  {
+   "code": "20KFAVORITESYAY!!",
+   "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
+  }
+ ],
+ "updated": "2026-08-12T15:41:35.674Z",
+ "source": "https://robloxden.com/game-codes/world-fighters"
+}

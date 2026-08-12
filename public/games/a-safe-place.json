@@ -1,0 +1,108 @@
+{
+ "slug": "a-safe-place",
+ "name": "A safe place",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "NewTrainerPack",
+   "reward": "10 Poké Balls , 5 Potions , 5 Repels , and 1,000 Money"
+  },
+  {
+   "code": "FirstSteps",
+   "reward": "5 Great Balls , 2 Revives , and 1,200 Money"
+  },
+  {
+   "code": "AdventureKit",
+   "reward": "5 Great Balls , 5 Potions , 5 Max Repels , and 1,500 Money"
+  },
+  {
+   "code": "ArcBadgeClear",
+   "reward": "5 Great Balls , 5 Potions , and 1,500 Money . You must have the Arc Ba"
+  },
+  {
+   "code": "BrimberBadgeClear",
+   "reward": "5 Great Balls , 3 Revives , 5 Repels , and 1,500 Money . You must have"
+  },
+  {
+   "code": "FloatBadgeClear",
+   "reward": "3 Ultra Balls , a Rare Candy , and 5 Max Repels . You must have the Fl"
+  },
+  {
+   "code": "SoaringBadgeClear",
+   "reward": "4 Ultra Balls , 3 Hyper Potions , and 2,000 Money . You must have the "
+  },
+  {
+   "code": "CraterBadgeClear",
+   "reward": "5 Ultra Balls , 8 Max Repels , 2 Max Ethers , and 2,000 Money . You mu"
+  },
+  {
+   "code": "HarvestBadgeClear",
+   "reward": "6 Ultra Balls , 5 Hyper Potions , a Rare Candy and 2,500 Money . You m"
+  },
+  {
+   "code": "ContrastBadgeClear",
+   "reward": "a Silver Bottle Cap , 6 Ultra Balls , and 10 Max Repels . You must hav"
+  },
+  {
+   "code": "CrescentBadgeClear",
+   "reward": "a Silver Bottle Cap , 8 Ultra Balls and 3,000 Money . You must have th"
+  },
+  {
+   "code": "BoulderBadgeClear",
+   "reward": "5 Great Balls , 5 Potions , and 1,500 Money . You must have the Boulde"
+  },
+  {
+   "code": "CascadeBadgeClear",
+   "reward": "10 Net Balls , 2 Revives , and 1,500 Money . You must have the Cascade"
+  },
+  {
+   "code": "ThunderBadgeClear",
+   "reward": "4 Ultra Balls , 2 Max Potions , and 2,000 Money . You must have the Th"
+  },
+  {
+   "code": "RainbowBadgeClear",
+   "reward": "6 Great Balls , a Rare Candy , a Lava Cookie . You must have the Rainb"
+  },
+  {
+   "code": "SoulBadgeClear",
+   "reward": "5 Ultra Balls , 2 Max Ethers , and 3 Revives . You must have the Soul "
+  },
+  {
+   "code": "MarshBadgeClear",
+   "reward": "6 Ultra Balls, 10 Max Repels and 2,000 Money. You must have the Marsh "
+  },
+  {
+   "code": "VolcanoBadgeClear",
+   "reward": "6 Ultra Balls , 5 Hyper Potions , and a Rare Candy . You must have the"
+  },
+  {
+   "code": "EarthBadgeClear",
+   "reward": "a Silver Bottle Cap , 8 Ultra Balls and 4,000 Money . You must have th"
+  },
+  {
+   "code": "RoriaChampion",
+   "reward": "a Masterball and 10,000 Money . You must beat the Roria League first t"
+  },
+  {
+   "code": "KantoChampion",
+   "reward": "a Masterball and 10,000 Money . You must beat the Kanto League first t"
+  },
+  {
+   "code": "ThanksForYourPatience",
+   "reward": "10 Ultra Balls , 6 Hyper Potions , 5 Rare Candies , 2 UMV Batteries , "
+  },
+  {
+   "code": "BackOnlineGift",
+   "reward": "10 Ultra Balls , 10 Max Repels , 5 Rare Candies , 4 Max Ethers , and 5"
+  },
+  {
+   "code": "SorryForTheDowntime",
+   "reward": "a Master Ball , 12 Ultra Balls , 6 Hyper Potions , 6 Rare Candies , 4 "
+  }
+ ],
+ "updated": "2026-08-12T15:38:34.703Z",
+ "source": "https://robloxden.com/game-codes/a-safe-place"
+}

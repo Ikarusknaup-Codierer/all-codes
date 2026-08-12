@@ -1,0 +1,340 @@
+{
+ "slug": "hazbin-hotel-hells-fortune",
+ "name": "HAZBIN HOTEL: Hell's Fortune",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Summer5",
+   "reward": "Haste Potion II"
+  },
+  {
+   "code": "Assistant",
+   "reward": "2x Greed Potion II"
+  },
+  {
+   "code": "Velissa",
+   "reward": "2x Luck Potion II"
+  },
+  {
+   "code": "Dobad",
+   "reward": "10 Epic+ Rolls"
+  },
+  {
+   "code": "Ragatha",
+   "reward": "Luck Potion III"
+  },
+  {
+   "code": "Summer4",
+   "reward": "1 Luck Potion III"
+  },
+  {
+   "code": "Cactus",
+   "reward": "2 Haste Potions II"
+  },
+  {
+   "code": "Finale",
+   "reward": "1 Greed Potion III"
+  },
+  {
+   "code": "Pilot",
+   "reward": "10 Epic Rolls"
+  },
+  {
+   "code": "Spotlight",
+   "reward": "2 Luck Potion II"
+  },
+  {
+   "code": "Truecolors",
+   "reward": "1 Luck Potion III"
+  },
+  {
+   "code": "Loveislove",
+   "reward": "1 Greed Potion III"
+  },
+  {
+   "code": "Rainbow",
+   "reward": "1 Haste Potion III"
+  },
+  {
+   "code": "Parade",
+   "reward": "2 Luck Potions II"
+  },
+  {
+   "code": "Spectrum",
+   "reward": "2 Haste Potions II"
+  },
+  {
+   "code": "Pride",
+   "reward": "5 Epic Rolls"
+  },
+  {
+   "code": "Summer",
+   "reward": "1 Luck Potion III"
+  },
+  {
+   "code": "Surf",
+   "reward": "2x Haste Potion II"
+  },
+  {
+   "code": "Waves",
+   "reward": "Haste Potion III"
+  },
+  {
+   "code": "Seashell",
+   "reward": "2x Greed Potion II"
+  },
+  {
+   "code": "Beach",
+   "reward": "10x Epic+ Rolls"
+  },
+  {
+   "code": "compass",
+   "reward": "a Luck Potion III"
+  },
+  {
+   "code": "feather",
+   "reward": "a Haste Potion III"
+  },
+  {
+   "code": "ribbon",
+   "reward": "2 Luck Potion II"
+  },
+  {
+   "code": "pebble",
+   "reward": "a Greed Potion III"
+  },
+  {
+   "code": "marble",
+   "reward": "a Greed Potion II"
+  },
+  {
+   "code": "butler",
+   "reward": "5 Epic Rolls"
+  },
+  {
+   "code": "mothersday",
+   "reward": "5 Epic Rolls"
+  },
+  {
+   "code": "platter",
+   "reward": "5 Epic Rolls"
+  },
+  {
+   "code": "maid",
+   "reward": "5 Epic Rolls"
+  },
+  {
+   "code": "vacation",
+   "reward": "5 Epic Rolls"
+  },
+  {
+   "code": "seraphim",
+   "reward": "1 Luck Potion II"
+  },
+  {
+   "code": "pearlygates",
+   "reward": "1 Haste Potion II"
+  },
+  {
+   "code": "speakerofgod",
+   "reward": "1 Luck Potion III"
+  },
+  {
+   "code": "halo",
+   "reward": "1 Greed Potion I"
+  },
+  {
+   "code": "archangel",
+   "reward": "1 Luck Potion II"
+  },
+  {
+   "code": "cloudnine",
+   "reward": "1 Haste Potion I"
+  },
+  {
+   "code": "goldengate",
+   "reward": "10 Epic+ Rolls"
+  },
+  {
+   "code": "firstsinner",
+   "reward": "1 Luck Potion III"
+  },
+  {
+   "code": "divinelight",
+   "reward": "1 Haste Potion II"
+  },
+  {
+   "code": "redeemed",
+   "reward": "1 Greed Potion III"
+  },
+  {
+   "code": "synthesis",
+   "reward": "2x Haste Potion II"
+  },
+  {
+   "code": "labrat",
+   "reward": "2x Greed Potion II"
+  },
+  {
+   "code": "catalyst",
+   "reward": "2x Luck Potion III"
+  },
+  {
+   "code": "reactor",
+   "reward": "2x Haste Potion III"
+  },
+  {
+   "code": "specimen",
+   "reward": "2x Greed Potion III"
+  },
+  {
+   "code": "helix",
+   "reward": "1 Luck Potion I"
+  },
+  {
+   "code": "enzyme",
+   "reward": "1 Haste Potion I"
+  },
+  {
+   "code": "isotope",
+   "reward": "1 Greed Potion I"
+  },
+  {
+   "code": "quantum",
+   "reward": "2x Luck Potion II"
+  },
+  {
+   "code": "protocol",
+   "reward": "2x Haste Potion II"
+  },
+  {
+   "code": "meadow",
+   "reward": "Greed Potion 3"
+  },
+  {
+   "code": "lilac",
+   "reward": "Luck Potion 2"
+  },
+  {
+   "code": "drizzle",
+   "reward": "Haste Potion 2"
+  },
+  {
+   "code": "orbit",
+   "reward": "Greed Potion 2"
+  },
+  {
+   "code": "shimmer",
+   "reward": "Luck Potion 3"
+  },
+  {
+   "code": "thistle",
+   "reward": "Haste Potion 3"
+  },
+  {
+   "code": "kindle",
+   "reward": "Greed Potion 3"
+  },
+  {
+   "code": "bloodmoon",
+   "reward": "Bloodmoon Blitzo"
+  },
+  {
+   "code": "petal",
+   "reward": "Haste Potion 3"
+  },
+  {
+   "code": "song",
+   "reward": "Haste Potion 3"
+  },
+  {
+   "code": "tune",
+   "reward": "Greed Potion 3"
+  },
+  {
+   "code": "beat",
+   "reward": "Luck Potion 2"
+  },
+  {
+   "code": "note",
+   "reward": "Haste Potion 2"
+  },
+  {
+   "code": "firstlove",
+   "reward": "Greed Potion 2"
+  },
+  {
+   "code": "bell",
+   "reward": "Luck Potion 3"
+  },
+  {
+   "code": "sparks",
+   "reward": "Haste Potion 3"
+  },
+  {
+   "code": "radio",
+   "reward": "Greed Potion 3"
+  },
+  {
+   "code": "dance",
+   "reward": "Luck Potion 1"
+  },
+  {
+   "code": "music",
+   "reward": "Haste Potion 1"
+  },
+  {
+   "code": "spring",
+   "reward": "Luck Potion III"
+  },
+  {
+   "code": "easter",
+   "reward": "Haste Potion III"
+  },
+  {
+   "code": "bunny",
+   "reward": "Luck Potion III"
+  },
+  {
+   "code": "egg",
+   "reward": "2 Greed Potion II"
+  },
+  {
+   "code": "bloom",
+   "reward": "2 Luck Potion II"
+  },
+  {
+   "code": "blossom",
+   "reward": "Greed Potion III"
+  },
+  {
+   "code": "pastel",
+   "reward": "2 Haste Potion II"
+  },
+  {
+   "code": "basket",
+   "reward": "2 Luck Potion II"
+  },
+  {
+   "code": "hop",
+   "reward": "5 Epic+ Rerolls"
+  },
+  {
+   "code": "peeps",
+   "reward": "Haste Potion III"
+  },
+  {
+   "code": "aprilfools",
+   "reward": "10x Luck Potion III"
+  },
+  {
+   "code": "fishy",
+   "reward": "Blooper"
+  }
+ ],
+ "updated": "2026-08-12T15:44:14.545Z",
+ "source": "https://robloxden.com/game-codes/hazbin-hotel-hells-fortune"
+}

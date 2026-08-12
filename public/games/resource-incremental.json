@@ -1,0 +1,32 @@
+{
+ "slug": "resource-incremental",
+ "name": "Resource Incremental",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SummerEvent",
+   "reward": "2 Of Each Potion"
+  },
+  {
+   "code": "100KVisits",
+   "reward": "25 Tickets and 100 Red Stars"
+  },
+  {
+   "code": "100Likes",
+   "reward": "50 Diamonds"
+  },
+  {
+   "code": "Update1",
+   "reward": "+1 All Potions"
+  },
+  {
+   "code": "Release",
+   "reward": "+1 All Potions"
+  }
+ ],
+ "updated": "2026-08-12T15:36:51.022Z",
+ "source": "https://robloxden.com/game-codes/resource-incremental"
+}

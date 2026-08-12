@@ -1,0 +1,68 @@
+{
+ "slug": "pets-rng",
+ "name": "Pets RNG",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Update5",
+   "reward": "2 Insane Luck Potions and 2 Luck Potions"
+  },
+  {
+   "code": "NewChests",
+   "reward": "2 Insane Luck Potions and 2 Luck Potions"
+  },
+  {
+   "code": "Update4",
+   "reward": "5 Insane Luck Potions"
+  },
+  {
+   "code": "WorkDelay",
+   "reward": "5 Insane Luck Potions and 2 Luck Potions"
+  },
+  {
+   "code": "Weather",
+   "reward": "2 Insane Luck Potions and 2 Luck Potions"
+  },
+  {
+   "code": "Charms",
+   "reward": "2 Luck Potions and 55 Pizzas"
+  },
+  {
+   "code": "Update3",
+   "reward": "2 Luck Potions and 55 Pizzas"
+  },
+  {
+   "code": "Update2",
+   "reward": "1 Luck Potion and 35 Pizzas"
+  },
+  {
+   "code": "BuffedDice",
+   "reward": "2 Luck Potions and 55 Pizzas"
+  },
+  {
+   "code": "LBChaos",
+   "reward": "2 Luck Potions and 55 Pizzas"
+  },
+  {
+   "code": "Update1",
+   "reward": "1 Luck Potion and 25 Blueberries"
+  },
+  {
+   "code": "BalanceChanges",
+   "reward": "1 Luck Potion and 25 Blueberries"
+  },
+  {
+   "code": "Release",
+   "reward": "1 Luck Potion and 25 Avocados"
+  },
+  {
+   "code": "LaterRelease",
+   "reward": "1 Luck Potion and 25 Blueberries"
+  }
+ ],
+ "updated": "2026-08-12T15:40:45.960Z",
+ "source": "https://robloxden.com/game-codes/pets-rng"
+}

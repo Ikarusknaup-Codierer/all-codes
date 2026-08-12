@@ -1,0 +1,32 @@
+{
+ "slug": "chaotic-bean-simulator",
+ "name": "Chaotic Bean Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "FlatBean",
+   "reward": "This code makes your bean flat , which affects your movement"
+  },
+  {
+   "code": "MistakesWereMade",
+   "reward": "This code turns your bean into a wobbly jelly , which affects your mov"
+  },
+  {
+   "code": "BwebDemo",
+   "reward": "This code will teleport you to a separate game called \"Bweb Garden\""
+  },
+  {
+   "code": "RELEASEPARTY",
+   "reward": "1 Hour of Magnet and 3x EXP"
+  },
+  {
+   "code": "Kaboom",
+   "reward": "This code enables/disables the \"Exaggerated Destruction\" mode"
+  }
+ ],
+ "updated": "2026-08-12T15:43:51.660Z",
+ "source": "https://robloxden.com/game-codes/chaotic-bean-simulator"
+}

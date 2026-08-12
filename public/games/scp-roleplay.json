@@ -1,0 +1,40 @@
+{
+ "slug": "scp-roleplay",
+ "name": "SCP Roleplay",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "LAZYPATCH",
+   "reward": "1,500 Money"
+  },
+  {
+   "code": "TEST",
+   "reward": "a glock"
+  },
+  {
+   "code": "REDACTED",
+   "reward": "a special morph"
+  },
+  {
+   "code": "PEWPEW",
+   "reward": "$1,000 Cash"
+  },
+  {
+   "code": "SPAWNKILL",
+   "reward": "$3,000 Cash"
+  },
+  {
+   "code": "PART_ONE",
+   "reward": "$2,000 Cash"
+  },
+  {
+   "code": "SMALLFIX",
+   "reward": "$2,000 Cash"
+  }
+ ],
+ "updated": "2026-08-12T15:38:59.031Z",
+ "source": "https://robloxden.com/game-codes/scp-roleplay"
+}

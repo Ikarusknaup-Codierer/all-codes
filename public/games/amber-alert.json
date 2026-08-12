@@ -1,0 +1,32 @@
+{
+ "slug": "amber-alert",
+ "name": "Amber Alert",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Endless",
+   "reward": "5 Amber Crates"
+  },
+  {
+   "code": "Backrooms",
+   "reward": "5 Amber Crates"
+  },
+  {
+   "code": "20kMembers",
+   "reward": "200 Ambers"
+  },
+  {
+   "code": "SORRY",
+   "reward": "50 Amber"
+  },
+  {
+   "code": "DELAYBOOST",
+   "reward": "an Amber Boost (2 Hours)"
+  }
+ ],
+ "updated": "2026-08-12T15:42:28.064Z",
+ "source": "https://robloxden.com/game-codes/amber-alert"
+}

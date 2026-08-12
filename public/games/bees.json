@@ -1,0 +1,40 @@
+{
+ "slug": "bees",
+ "name": "Bees",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Trait",
+   "reward": "3 Trait Stones"
+  },
+  {
+   "code": "Sorry",
+   "reward": "5,000 Coins and 1 XP Potion"
+  },
+  {
+   "code": "DEMON",
+   "reward": "1 XP Potion"
+  },
+  {
+   "code": "MERCHANT",
+   "reward": "1 Luck Potion"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "1 Luck Potion"
+  },
+  {
+   "code": "SPIN",
+   "reward": "1 Spin"
+  },
+  {
+   "code": "QUEST",
+   "reward": "1 Luck Potion"
+  }
+ ],
+ "updated": "2026-08-12T15:42:10.654Z",
+ "source": "https://robloxden.com/game-codes/bees"
+}

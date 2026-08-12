@@ -1,0 +1,248 @@
+{
+ "slug": "immortality-incremental",
+ "name": "Immortality Incremental",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "DUNGEON",
+   "reward": "10 Tickets and 5 of each Potion"
+  },
+  {
+   "code": "GEAR",
+   "reward": "20 Jade"
+  },
+  {
+   "code": "IDONTKNOW",
+   "reward": "10 Jade"
+  },
+  {
+   "code": "HOLIDAY",
+   "reward": "5 Tickets and 25 Jade"
+  },
+  {
+   "code": "JELLY",
+   "reward": "10 of each Potion"
+  },
+  {
+   "code": "SNAIL",
+   "reward": "10 Jade"
+  },
+  {
+   "code": "FLORA",
+   "reward": "20 Jade"
+  },
+  {
+   "code": "LEVIATHAN",
+   "reward": "15 of each Potion and 10 Tickets"
+  },
+  {
+   "code": "ZEUS",
+   "reward": "10 Jade"
+  },
+  {
+   "code": "ANIMA",
+   "reward": "20 Jade and 9 Tickets"
+  },
+  {
+   "code": "9XF",
+   "reward": "9 Tickets , 9 Jade , and 9 of each Potion"
+  },
+  {
+   "code": "SILLY",
+   "reward": "15 Jade"
+  },
+  {
+   "code": "IMBACK",
+   "reward": "10 Tickets"
+  },
+  {
+   "code": "WORLD5",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "VITALITY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "10MVISIT",
+   "reward": "10 Tickets , 20 Jade , and 15 of each Potion"
+  },
+  {
+   "code": "CRAFTING",
+   "reward": "3 of each Potion"
+  },
+  {
+   "code": "20KSERVER",
+   "reward": "20 Jade"
+  },
+  {
+   "code": "DELAYYYY",
+   "reward": "15 Tickets"
+  },
+  {
+   "code": "PURPY",
+   "reward": "5 Tickets and 5 of each Potion"
+  },
+  {
+   "code": "EXY",
+   "reward": "20 Jade"
+  },
+  {
+   "code": "MINA",
+   "reward": "20 Jade"
+  },
+  {
+   "code": "SOUP",
+   "reward": "10 of each Potion"
+  },
+  {
+   "code": "ASURA",
+   "reward": "5 Tickets and 5 of each Potion"
+  },
+  {
+   "code": "KNEE",
+   "reward": "10 Jade"
+  },
+  {
+   "code": "PASTA",
+   "reward": "5 Tickets"
+  },
+  {
+   "code": "1MINDELAY",
+   "reward": "5 Jade"
+  },
+  {
+   "code": "SECTS",
+   "reward": "4 Potions and 10 Jade"
+  },
+  {
+   "code": "HEYTHERE",
+   "reward": "5 Tickets"
+  },
+  {
+   "code": "WORLD4",
+   "reward": "4 Tickets , 4 Jade , and 4 of each Potion"
+  },
+  {
+   "code": "15KSERVER",
+   "reward": "15 of each Potion"
+  },
+  {
+   "code": "ANTI",
+   "reward": "20 Jade"
+  },
+  {
+   "code": "SECTSDELAY",
+   "reward": "10 of each Potion and 15 Jade"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "10 Tickets and 20 of each Potion"
+  },
+  {
+   "code": "MINI2",
+   "reward": "10 Jade and 5 of each Potion"
+  },
+  {
+   "code": "COOLBEANS",
+   "reward": "5 of each Potion"
+  },
+  {
+   "code": "10KSERVER",
+   "reward": "10 of each Potion and 5 Tickets"
+  },
+  {
+   "code": "YAAY",
+   "reward": "10 Jade"
+  },
+  {
+   "code": "LAWS",
+   "reward": "5 of each Potion"
+  },
+  {
+   "code": "100KGROUP",
+   "reward": "10 of each Potion"
+  },
+  {
+   "code": "MINI",
+   "reward": "3 of each Potion"
+  },
+  {
+   "code": "100KFAV",
+   "reward": "5 Tickets and 10 of each Potion"
+  },
+  {
+   "code": "NERF",
+   "reward": "5 Jade"
+  },
+  {
+   "code": "HOTFIXING",
+   "reward": "10 Tickets and 3 of each Potion"
+  },
+  {
+   "code": "HOTFIX",
+   "reward": "1 of each Potion"
+  },
+  {
+   "code": "DurpJade",
+   "reward": "5 Jade"
+  },
+  {
+   "code": "MEMBERS",
+   "reward": "10 Tickets"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "2 of each Potion"
+  },
+  {
+   "code": "EXTRACODE",
+   "reward": "10 Jade and 5 of each Potion"
+  },
+  {
+   "code": "50KGROUP",
+   "reward": "10 of each Potion"
+  },
+  {
+   "code": "PART1",
+   "reward": "5 Tickets and 5 of each Potion"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 of each Potion and 10 Tickets"
+  },
+  {
+   "code": "PART2",
+   "reward": "10 Tickets and 5 of each Potion"
+  },
+  {
+   "code": "DELAY",
+   "reward": "10 Tickets and 7 Jade"
+  },
+  {
+   "code": "1KGOATS",
+   "reward": "10 of each Potion"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "10 of each Potion and 5 Jade"
+  },
+  {
+   "code": "5KCCU",
+   "reward": "5 of each Potion and 10 Tickets"
+  },
+  {
+   "code": "ASH",
+   "reward": "3 of each Potion"
+  },
+  {
+   "code": "HYPE",
+   "reward": "5 Tickets"
+  }
+ ],
+ "updated": "2026-08-12T15:41:05.858Z",
+ "source": "https://robloxden.com/game-codes/immortality-incremental"
+}

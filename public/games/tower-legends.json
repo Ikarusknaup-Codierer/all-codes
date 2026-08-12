@@ -1,0 +1,244 @@
+{
+ "slug": "tower-legends",
+ "name": "Tower Legends",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "550Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "500Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "450Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "400Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "600Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "550Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "500Likes!",
+   "reward": "Trait Shards"
+  },
+  {
+   "code": "450Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "400Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "45kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "40kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "35kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "30kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "Update014!",
+   "reward": "10 Standard Tickets"
+  },
+  {
+   "code": "DELAY7777",
+   "reward": "7,777 Mytheriums"
+  },
+  {
+   "code": "EssenceExchangeHype",
+   "reward": "60 Mythic Limit Breaker"
+  },
+  {
+   "code": "BundlePackIncrease",
+   "reward": "60 Mythic Limit Breaker"
+  },
+  {
+   "code": "25kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "20kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "15kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "10kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "9kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "8kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "7kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "125ActiveCCU!",
+   "reward": "5 Heroic Souls"
+  },
+  {
+   "code": "100ActiveCCU!",
+   "reward": "5 Heroic Souls"
+  },
+  {
+   "code": "75ActiveCCU!",
+   "reward": "5 Heroic Souls"
+  },
+  {
+   "code": "50ActiveCCU!",
+   "reward": "5 Heroic Souls"
+  },
+  {
+   "code": "350Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "300Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "250Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "200Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "150Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "350Favorites!",
+   "reward": "Normal Souls"
+  },
+  {
+   "code": "300Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "250Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "200Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "150Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "100Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "Update013!",
+   "reward": "10 Standard Tickets"
+  },
+  {
+   "code": "25ActiveCCU!",
+   "reward": "5 Heroic Souls"
+  },
+  {
+   "code": "75Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "50Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "25Favorites!",
+   "reward": "5 Normal Souls"
+  },
+  {
+   "code": "6kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "5kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "4kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "3kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "2kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "1kVisits!",
+   "reward": "1.5K Mytheriums"
+  },
+  {
+   "code": "100Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "75Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "50Likes!",
+   "reward": "40 Trait Shards"
+  },
+  {
+   "code": "25Likes!",
+   "reward": "40 Train Shards"
+  },
+  {
+   "code": "Update012!",
+   "reward": "10 Standard Tickets"
+  },
+  {
+   "code": "FreeFood",
+   "reward": "50 Village Ramen"
+  },
+  {
+   "code": "ThanksForPlaying",
+   "reward": "10 Standard Tickets"
+  },
+  {
+   "code": "Release",
+   "reward": "1K Gold and 500 Mytheriums"
+  }
+ ],
+ "updated": "2026-08-12T15:42:00.231Z",
+ "source": "https://robloxden.com/game-codes/tower-legends"
+}

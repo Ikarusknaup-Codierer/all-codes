@@ -1,0 +1,24 @@
+{
+ "slug": "gacha-game",
+ "name": "Gacha Game",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "reroll3",
+   "reward": "1 Reroll Potion"
+  },
+  {
+   "code": "testyourluck3",
+   "reward": "1 Consumable Luck Potion"
+  },
+  {
+   "code": "update3",
+   "reward": "1 Gacha Luck Potion I and 3 Money Potion"
+  }
+ ],
+ "updated": "2026-08-12T15:41:43.770Z",
+ "source": "https://robloxden.com/game-codes/gacha-game"
+}

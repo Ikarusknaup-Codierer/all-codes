@@ -1,0 +1,20 @@
+{
+ "slug": "haulers",
+ "name": "Haulers",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "1 Revive"
+  },
+  {
+   "code": "release",
+   "reward": "3x Revives"
+  }
+ ],
+ "updated": "2026-08-12T15:36:52.539Z",
+ "source": "https://robloxden.com/game-codes/haulers"
+}

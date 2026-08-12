@@ -1,0 +1,44 @@
+{
+ "slug": "1-dmg-per-revive",
+ "name": "+1 DMG Per Revive",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "udp10",
+   "reward": "2 Weapons Stones"
+  },
+  {
+   "code": "summer",
+   "reward": "5 Pray"
+  },
+  {
+   "code": "guildboss",
+   "reward": "10 Prays"
+  },
+  {
+   "code": "like50k",
+   "reward": "1 Stone"
+  },
+  {
+   "code": "guildtest",
+   "reward": "5 Prays"
+  },
+  {
+   "code": "update9",
+   "reward": "30 Death Coins"
+  },
+  {
+   "code": "deathcoin",
+   "reward": "100 Weapon Stones , 10 Soul Ring Rerolls , and 5 Prays"
+  },
+  {
+   "code": "welcome",
+   "reward": "100 Weapon Stones and 10 Soul Ring Rerolls"
+  }
+ ],
+ "updated": "2026-08-12T15:40:31.380Z",
+ "source": "https://robloxden.com/game-codes/1-dmg-per-revive"
+}

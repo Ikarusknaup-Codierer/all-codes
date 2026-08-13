@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LEVELUP",
+   "reward": "1 Pineapple"
+  },
+  {
+   "code": "CAMPING",
+   "reward": "1 Pig Pet"
+  },
+  {
+   "code": "FRUITBOOST",
+   "reward": "3 Kiwis"
   }
  ],
- "updated": "2026-08-12T14:46:35.802Z",
+ "updated": "2026-08-13T15:39:45.116Z",
  "source": "https://robloxden.com/game-codes/vacuum-simulator-axcs"
 }

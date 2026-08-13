@@ -1,0 +1,260 @@
+{
+ "slug": "doodle-world",
+ "name": "Doodle World",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SantaClaus",
+   "reward": "the Santa Claus Title"
+  },
+  {
+   "code": "SantaColor",
+   "reward": "a Santa Claus Color"
+  },
+  {
+   "code": "LastWeekJune",
+   "reward": "a Klydaskunk"
+  },
+  {
+   "code": "AmiableBestBoy",
+   "reward": "1 Lesser Chain Ticket"
+  },
+  {
+   "code": "PrideSwarmSnack",
+   "reward": "1 Pride Swarm Snack"
+  },
+  {
+   "code": "DELICIOUSFINWICK",
+   "reward": "a Misprint 5 Stars Random Tinted Garracude"
+  },
+  {
+   "code": "TintSeed",
+   "reward": "3 Tint Seeds"
+  },
+  {
+   "code": "200KLikes",
+   "reward": "2 hours of +1 Chain Booster"
+  },
+  {
+   "code": "Stinky",
+   "reward": "the Stench Aura Particle Effect"
+  },
+  {
+   "code": "NewStarters",
+   "reward": "1 Lesser Chain Ticket"
+  },
+  {
+   "code": "AwesomeTitle",
+   "reward": "The Awesome Title"
+  },
+  {
+   "code": "LateUpdate",
+   "reward": "2 Hours Of +1 Chain Boost"
+  },
+  {
+   "code": "Halloween2025",
+   "reward": "3 Hours Of Chain Booster"
+  },
+  {
+   "code": "DungeonRelease",
+   "reward": "Dodotor"
+  },
+  {
+   "code": "GamerBattlepass",
+   "reward": "A Free Doodle"
+  },
+  {
+   "code": "Pizza",
+   "reward": "5 Stars Muncheez"
+  },
+  {
+   "code": "ChainHelperCode",
+   "reward": "60 Minutes Of Chain Booster"
+  },
+  {
+   "code": "UsefulCode",
+   "reward": "2 Roulette Tickets"
+  },
+  {
+   "code": "HappyEaster2025",
+   "reward": "+1 Chain Booster (2 hours)"
+  },
+  {
+   "code": "BattleArenaRelease",
+   "reward": "4 VP"
+  },
+  {
+   "code": "200KLikes1",
+   "reward": "Misprint Boost (2 hours)"
+  },
+  {
+   "code": "BungoPizza",
+   "reward": "Bungo Pizza Sticker"
+  },
+  {
+   "code": "BonbonHat",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "OrbOfFire",
+   "reward": "1 Orb of Fire"
+  },
+  {
+   "code": "HattrixPlushMP",
+   "reward": "Misprint Boost (2 hours)"
+  },
+  {
+   "code": "HattrixPlushExp",
+   "reward": "2x Exp Boost (2 hours)"
+  },
+  {
+   "code": "HattrixPlushLegend",
+   "reward": "2x Mythical Boost (2 hours)"
+  },
+  {
+   "code": "HattrixPlushChain",
+   "reward": "+1 Chain Booster (2 hours)"
+  },
+  {
+   "code": "Iloveexp",
+   "reward": "2x Exp Boost (2 hours)"
+  },
+  {
+   "code": "Iloveswarms",
+   "reward": "1 Super Swarm Snack"
+  },
+  {
+   "code": "YippeeGems",
+   "reward": "400 Gems"
+  },
+  {
+   "code": "175KLikes",
+   "reward": "Squed"
+  },
+  {
+   "code": "Existensy",
+   "reward": "The Existensy Title"
+  },
+  {
+   "code": "BerserkFan",
+   "reward": "The Branded Title"
+  },
+  {
+   "code": "Pride",
+   "reward": "the Rainbow Name Colour"
+  },
+  {
+   "code": "SweetAwesome",
+   "reward": "1 Tinted Bunsweet"
+  },
+  {
+   "code": "Buggybug",
+   "reward": "1 Tinted Rosebug"
+  },
+  {
+   "code": "AnothaOne",
+   "reward": "1 Roulette Ticket"
+  },
+  {
+   "code": "SUBTOJERII",
+   "reward": "the Jerii's Color"
+  },
+  {
+   "code": "PRAVEENYT",
+   "reward": "the Game4All Squad! Title"
+  },
+  {
+   "code": "OLDTIMES",
+   "reward": "the Game4All Title"
+  },
+  {
+   "code": "THETRIBE",
+   "reward": "the The Tribe Title"
+  },
+  {
+   "code": "CLASSICNATIVE",
+   "reward": "the ClassicNative Color"
+  },
+  {
+   "code": "GOGGLEGANG",
+   "reward": "the Goggle Gang Title"
+  },
+  {
+   "code": "ITZSOARA",
+   "reward": "the Fujin Color"
+  },
+  {
+   "code": "WELIT",
+   "reward": "the We Lit! Title"
+  },
+  {
+   "code": "ARMENTI",
+   "reward": "the Armenti Color"
+  },
+  {
+   "code": "JOEBLOXNATION",
+   "reward": "the Joeblox Nation Title"
+  },
+  {
+   "code": "DCONTOP",
+   "reward": "the #DCONTOP Title"
+  },
+  {
+   "code": "DINO",
+   "reward": "the Dino's Fusion Color"
+  },
+  {
+   "code": "POINT",
+   "reward": "the Fly Title"
+  },
+  {
+   "code": "FLY",
+   "reward": "the FlyPoint Color"
+  },
+  {
+   "code": "POWERTOTHECHIPMUNKS",
+   "reward": "the POWER CHIPMUNK! Title"
+  },
+  {
+   "code": "SPEEDAHSONIC",
+   "reward": "the Speedah Color"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "the Lucky Title and the LuckyHD Color"
+  },
+  {
+   "code": "WIZARD",
+   "reward": "the Wizard Purple Color"
+  },
+  {
+   "code": "JOEBLOX",
+   "reward": "the Joeblox Color"
+  },
+  {
+   "code": "VREQUIEM",
+   "reward": "the Vizard's Requiem Title"
+  },
+  {
+   "code": "TERRABL0X",
+   "reward": "the Terra's Requiem Color"
+  },
+  {
+   "code": "IslandVoucherss",
+   "reward": "3 Island Vouchers"
+  },
+  {
+   "code": "WRaps",
+   "reward": "the 6 Stars Double Tinted Wrappy"
+  },
+  {
+   "code": "AdminAbuseSoonEyes",
+   "reward": "Chain Boost"
+  }
+ ],
+ "updated": "2026-08-13T15:36:35.231Z",
+ "source": "https://robloxden.com/game-codes/doodle-world"
+}

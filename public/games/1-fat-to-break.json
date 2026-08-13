@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Release",
+   "reward": "10K Size, 50 Trophies and 200 EXP"
+  },
+  {
+   "code": "FreeSize",
+   "reward": "50K Size"
+  },
+  {
+   "code": "ThankYou",
+   "reward": "100 Trophies and 50K EXP"
   }
  ],
- "updated": "2026-08-12T14:46:39.186Z",
+ "updated": "2026-08-13T15:39:48.345Z",
  "source": "https://robloxden.com/game-codes/1-fat-to-break"
 }

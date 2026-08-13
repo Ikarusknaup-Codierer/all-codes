@@ -1,0 +1,32 @@
+{
+ "slug": "escape-room",
+ "name": "Escape Room",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "EH219",
+   "reward": "500 Escape Coins And 1 Key"
+  },
+  {
+   "code": "ESCAPE",
+   "reward": "1000 Escape Coins"
+  },
+  {
+   "code": "ESCAPE19ROOM",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "PRESENT25",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "ESCAPE30!",
+   "reward": "300 Coins"
+  }
+ ],
+ "updated": "2026-08-13T15:37:48.854Z",
+ "source": "https://robloxden.com/game-codes/escape-room"
+}

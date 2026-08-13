@@ -1,0 +1,260 @@
+{
+ "slug": "onikami-legacy",
+ "name": "Onikami Legacy",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "!SCYTHEMOMENT",
+   "reward": "5 Sun Essence"
+  },
+  {
+   "code": "!SHOTGUNMOMENT",
+   "reward": "5 Sun Essence"
+  },
+  {
+   "code": "!LUPDATE",
+   "reward": "15 Sun Essence"
+  },
+  {
+   "code": "!ALMOST50KLIKES",
+   "reward": "10 Sun Essence"
+  },
+  {
+   "code": "!ALMOST60KFAVORITES",
+   "reward": "10 Sun Essence"
+  },
+  {
+   "code": "!SORRY",
+   "reward": "5 Sun Essence"
+  },
+  {
+   "code": "!2xEXPHAHAHAHAHA",
+   "reward": ""
+  },
+  {
+   "code": "!Borabills",
+   "reward": "1 Katana Position Reroll"
+  },
+  {
+   "code": "!Casquinhadebala",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!CorteAmericano",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!NewOpportunities",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!SwordsmithVillage!",
+   "reward": "1 Nichirin Color Reset"
+  },
+  {
+   "code": "!Factions",
+   "reward": "Breathing/BDA Reset"
+  },
+  {
+   "code": "!AdoptMe",
+   "reward": "Family Reroll"
+  },
+  {
+   "code": "!1600LIKES",
+   "reward": "Family Reroll"
+  },
+  {
+   "code": "!1500LIKES",
+   "reward": "Family Reroll"
+  },
+  {
+   "code": "!GetPinkSword",
+   "reward": "Nichirin Color Reroll"
+  },
+  {
+   "code": "!PoopSword",
+   "reward": "Nichirin Color Reroll"
+  },
+  {
+   "code": "!NewRaceNewHistory",
+   "reward": "Race Reset"
+  },
+  {
+   "code": "!Kornao",
+   "reward": "Horn Reroll [Demon]"
+  },
+  {
+   "code": "!CorteNovo",
+   "reward": "Hair Color Reroll"
+  },
+  {
+   "code": "!Joy",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!Sadness",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!Anger",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!9000LIKES",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!10000LIKES",
+   "reward": "Breathing/BDA Reset"
+  },
+  {
+   "code": "!11000LIKES",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!12000LIKES",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!13000LIKES",
+   "reward": "2 Sun Essences"
+  },
+  {
+   "code": "!2MVISITS",
+   "reward": "2 Sun Essences"
+  },
+  {
+   "code": "!3MVISITS",
+   "reward": "2 Sun Essences"
+  },
+  {
+   "code": "!5KFAVORITES",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!10KFAVORITES",
+   "reward": "Breathing/BDA Reset"
+  },
+  {
+   "code": "!15KFAVORITES",
+   "reward": "Breathing/BDA Reset"
+  },
+  {
+   "code": "!Amostradinho",
+   "reward": "1 Sun Essence"
+  },
+  {
+   "code": "!UPDATEISHERE",
+   "reward": "10 Sun Essence"
+  },
+  {
+   "code": "!6MVISITS",
+   "reward": "5 Sun Essence"
+  },
+  {
+   "code": "!7MVISITS",
+   "reward": "10 Sun Essence"
+  },
+  {
+   "code": "!20KLIKES",
+   "reward": "BDA/Breathing Reset"
+  },
+  {
+   "code": "!25KLIKES",
+   "reward": "BDA/Breathing Reset"
+  },
+  {
+   "code": "!25KFAVORITES",
+   "reward": "Nichirin Color Reroll"
+  },
+  {
+   "code": "!30KFAVORITES",
+   "reward": "Nichirin Color Reroll"
+  },
+  {
+   "code": "!DROPS",
+   "reward": "2 Sun Essence"
+  },
+  {
+   "code": "!DOUMATIME",
+   "reward": "2 Sun Essence"
+  },
+  {
+   "code": "!OSGURITADEVOLTA",
+   "reward": "Nichirin Color Reroll"
+  },
+  {
+   "code": "!40KLIKES",
+   "reward": "20 Sun Essence"
+  },
+  {
+   "code": "!40KFAVORITES",
+   "reward": "Ten Sun Essence"
+  },
+  {
+   "code": "!50KFAVORITES",
+   "reward": "Ten Sun Essence"
+  },
+  {
+   "code": "!10MVISITS!",
+   "reward": "40 Sun Essence"
+  },
+  {
+   "code": "!ComeBack",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "!5MVISITS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "!20KFAVORITES",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "!17500LIKES",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "!17500FAVORITES",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "!15KLIKES",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "!REWORKS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "!30KLIKES",
+   "reward": "15 Sun Essences"
+  },
+  {
+   "code": "SORRY",
+   "reward": "5 Sun Essence"
+  },
+  {
+   "code": "!MoreSkills",
+   "reward": "Free Skills"
+  },
+  {
+   "code": "!Style",
+   "reward": "Style Reset"
+  },
+  {
+   "code": "!1Mvisits",
+   "reward": "1 Family Reroll"
+  },
+  {
+   "code": "!ThanksForYourPatience",
+   "reward": "1 Family Reroll"
+  }
+ ],
+ "updated": "2026-08-13T15:35:33.214Z",
+ "source": "https://robloxden.com/game-codes/onikami-legacy"
+}

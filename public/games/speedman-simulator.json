@@ -1,0 +1,276 @@
+{
+ "slug": "speedman-simulator",
+ "name": "Speedman Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "30msoon",
+   "reward": "1 Speed Boost"
+  },
+  {
+   "code": "fruit",
+   "reward": "3x Speed Boost"
+  },
+  {
+   "code": "eventsoon",
+   "reward": "3x Speed Boost"
+  },
+  {
+   "code": "toyparty",
+   "reward": "5x Speed Boost"
+  },
+  {
+   "code": "petexpboosts",
+   "reward": "10x Pet Exp Boost"
+  },
+  {
+   "code": "LEVI",
+   "reward": "1,000 Energy"
+  },
+  {
+   "code": "CANDY",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "TYFOR5K",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "EZ15K",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "LOL25K",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "AMULET",
+   "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "CONSTRUCTION",
+   "reward": "1 +2 Speed Boost"
+  },
+  {
+   "code": "15M",
+   "reward": "1 +2 Speed Boost"
+  },
+  {
+   "code": "EASY30KLIKES",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "RUBYSOON",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "RACES",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "TYYY50K",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "FUTURE",
+   "reward": "1 +4 Speed Boost"
+  },
+  {
+   "code": "THIRTYMILLION",
+   "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "RADIOACTIVE",
+   "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "BIGBOOSTYTIME",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "ROBLOXISGOOD",
+   "reward": "1 +7 Speed Boost"
+  },
+  {
+   "code": "60KLIKES",
+   "reward": "1 +4 Speed Boost"
+  },
+  {
+   "code": "HALLOWEENTIME",
+   "reward": "1 +2 Speed Boost"
+  },
+  {
+   "code": "SPOOKYSEASON",
+   "reward": "1 +2 Speed Boost"
+  },
+  {
+   "code": "ROBLOXBACK",
+   "reward": "1 +6 Speed Boost"
+  },
+  {
+   "code": "FIXITYFIX",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "70KLIKESTHANKYOU",
+   "reward": "1 +7 Speed Boost"
+  },
+  {
+   "code": "FREEPETEXPBOOST",
+   "reward": "1 +10 Pet EXP Boost"
+  },
+  {
+   "code": "HAUNTINGTIMES",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "PETEXPBOOST",
+   "reward": "1 +10 Pet EXP Boost"
+  },
+  {
+   "code": "THANKYOUFORSUPPORT",
+   "reward": "1 +4 Training Speed Boost"
+  },
+  {
+   "code": "CLOSETO40M",
+   "reward": "1 +4 Training Speed Boost"
+  },
+  {
+   "code": "RETROLIFE",
+   "reward": "1 +4 Training Speed Boost"
+  },
+  {
+   "code": "SPEEDWEEK",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "PARYTIME",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "FESTIVETIME",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "HOLIDAYSEASON",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "GALAXY",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "MONOCHROME",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "SNOWYWOWY",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "WINTEREVENT",
+   "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "HAPPY2022",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "PART2WOO",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "BOOSTBOOFYBOOST",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "CURSEDRUINS",
+   "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "HELPFULBOOSTS",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "SPORTSKILLS",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "TIGERYEAR",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "ANGELIC",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "LUCKYFORTUNE",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "HAPPYLUNARNEWYEAR",
+   "reward": "1 +8 Speed Boost"
+  },
+  {
+   "code": "SPEEDYSPOTTY",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "FARMTIME",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "BIGHEART",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "VALENTINEPART2",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "SOULEGG2",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "50MEVENTSOON",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "MAGICALCODE",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "EARLY50M",
+   "reward": "1 +5 Speed Boost"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "1 +2 Speed Boost"
+  },
+  {
+   "code": "10M",
+   "reward": "1 +2 Speed Boost"
+  },
+  {
+   "code": "BIGBOOST",
+   "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "JUNGLE",
+   "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "LOL40K",
+   "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "20M",
+   "reward": "1 +3 Speed Boost"
+  }
+ ],
+ "updated": "2026-08-13T15:34:14.250Z",
+ "source": "https://robloxden.com/game-codes/speedman-simulator"
+}

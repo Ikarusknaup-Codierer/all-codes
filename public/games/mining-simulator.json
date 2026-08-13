@@ -1,0 +1,608 @@
+{
+ "slug": "mining-simulator",
+ "name": "Mining Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Icecream",
+   "reward": "Rare Egg"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "Omega Hat Crate"
+  },
+  {
+   "code": "LegendaryEggCode",
+   "reward": "Legendary Egg"
+  },
+  {
+   "code": "LegendaryHatCode",
+   "reward": "Legendary Hat Crate"
+  },
+  {
+   "code": "Awesome",
+   "reward": "Rare Egg"
+  },
+  {
+   "code": "SCARYSKELTONS",
+   "reward": "30 Candy Corn"
+  },
+  {
+   "code": "SPOOK",
+   "reward": "30 Candy Corn"
+  },
+  {
+   "code": "SPOOPY",
+   "reward": "30 Candy Corn"
+  },
+  {
+   "code": "TESTINGTHING",
+   "reward": "1 Common Crate"
+  },
+  {
+   "code": "CRAZIEGAMERSQUAD",
+   "reward": "1 Rare Hat Crate"
+  },
+  {
+   "code": "DEFILDPLAYS",
+   "reward": "1 Rare Crate"
+  },
+  {
+   "code": "UNOBTAINIBLE",
+   "reward": "1 Epic Crate"
+  },
+  {
+   "code": "RARE",
+   "reward": "1 Rare Crate"
+  },
+  {
+   "code": "COOL",
+   "reward": "1 Rare Crate"
+  },
+  {
+   "code": "EASTER",
+   "reward": "1 Rare Hat Crate"
+  },
+  {
+   "code": "LEGENDARYHATCRATE",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "RUMBLE",
+   "reward": "1 Rare Egg"
+  },
+  {
+   "code": "RUMBLESTUDIOS",
+   "reward": "1 Rare Egg"
+  },
+  {
+   "code": "MOMMA",
+   "reward": "1 Rare Egg"
+  },
+  {
+   "code": "EGGS",
+   "reward": "1 Unique Egg"
+  },
+  {
+   "code": "COMIC",
+   "reward": "the Comic Texture"
+  },
+  {
+   "code": "RETRO",
+   "reward": "the Retro Texture"
+  },
+  {
+   "code": "PINKARMYSKIN",
+   "reward": "the Pink Army Skin Texture"
+  },
+  {
+   "code": "ABSTRACT",
+   "reward": "the Abstract Texture"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "30 Candy Corn"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "40 Candy Corn"
+  },
+  {
+   "code": "THISISHALLOWEEN",
+   "reward": "60 Candy Corn"
+  },
+  {
+   "code": "SKELETONS",
+   "reward": "60 Candy Corn"
+  },
+  {
+   "code": "SKELLY",
+   "reward": "60 Candy Corn"
+  },
+  {
+   "code": "FUTUREMSOWNER",
+   "reward": "1 Coin"
+  },
+  {
+   "code": "DEFILDPLAYS2",
+   "reward": "1,500 Coins"
+  },
+  {
+   "code": "CRAZIEGAMER",
+   "reward": "1,200 Coins"
+  },
+  {
+   "code": "CRAINER",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "SELFIE",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "BUNNY",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "LOTSOFCOINS",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "PETS",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "BEAR",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "ARCADE",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "REXEXSQUAD",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "KOALA",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "WEBREAKROBLOX",
+   "reward": "20,000 Coins"
+  },
+  {
+   "code": "ISAAC",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "COAL",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "CANDY",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "JELLYBEAN",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "TRADES",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "SAND",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "DINOSAUR",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "MONEY",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "BREAD",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "REBIRTH",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "YEET",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "WITCHES",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "VACATION",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "SUPERCRATE",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "SUNSCREEN",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "SUBSCRIBEPLS",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "SCORCH",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "SCARY",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "PATRIOT",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "NEWHATS",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "MINEALOT",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "LEMONAIDE",
+   "reward": "1 Legendary Crate"
+  },
+  {
+   "code": "ILOVECODES",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "HELPPLS",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "HALLOWEEN2019",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "GOOSE",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "FRIGHT",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "FREECRATE",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "EVENTQUEST",
+   "reward": "1 Omega Hat Crate"
+  },
+  {
+   "code": "DUCKIE",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "DREAMY",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "BONUS",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "BIGW",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "ANNIVERSARYCRATE",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "ADVENTURE",
+   "reward": "1 Legendary Hat Crate"
+  },
+  {
+   "code": "GHOSTY",
+   "reward": "1 Spooky Trail Crate"
+  },
+  {
+   "code": "CANDY!",
+   "reward": "1 Spooky Trail Crate"
+  },
+  {
+   "code": "BROOMSTICKS",
+   "reward": "1 Spooky Trail Crate"
+  },
+  {
+   "code": "PUMPED",
+   "reward": "1 Rare Hat Crate"
+  },
+  {
+   "code": "GUMMYBEARS",
+   "reward": "1 Rare Hat Crate"
+  },
+  {
+   "code": "SANDBOX",
+   "reward": "1 Epic Crate"
+  },
+  {
+   "code": "TOYCHEST",
+   "reward": "1 Epic Hat Crate"
+  },
+  {
+   "code": "TOAST",
+   "reward": "1 Epic Hat Crate"
+  },
+  {
+   "code": "DOMINUS",
+   "reward": "1 Epic Accessory Crate"
+  },
+  {
+   "code": "NOU",
+   "reward": "1 Epic Accessory Crate"
+  },
+  {
+   "code": "TRAILUPDATE",
+   "reward": "1 Epic Accessory Crate"
+  },
+  {
+   "code": "NEWTWITCH",
+   "reward": "1 Epic Accessory Crate"
+  },
+  {
+   "code": "LEVEL",
+   "reward": "1 Legendary Crate"
+  },
+  {
+   "code": "FLUFFY",
+   "reward": "1 Legendary Crate"
+  },
+  {
+   "code": "GHOSTS",
+   "reward": "1 Omega Hat Crate"
+  },
+  {
+   "code": "HAMMIEJAMMIESUCKSXINFINITY",
+   "reward": "20 Tokens"
+  },
+  {
+   "code": "HAMMIEJAMMIESUCKSX2",
+   "reward": "20 Tokens"
+  },
+  {
+   "code": "SUPERGEMS",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "SANDCASTLES",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "NOSNIYISCOOL",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "NEWQUESTS",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "HAMMIEJAMMIEDOESNTSUCK",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "GETSLICKED",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "WINGS",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "TOOMANYCODES",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "TRAILS",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "SIRCFENNER",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "SHINY",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "OWO",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "OOF",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "MOREMORETOKENS",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "MOREMORECODE",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "ISERIOUSLYNEEDMORECODEIDEAS",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "IMOUTOFCODEIDEAS2",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "IMOUTOFCODEIDEAS",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "ILOVETOKENS",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "CHALLENGE",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "SUMMERPARADISE",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "SUMMERTOKENS",
+   "reward": "75 Tokens"
+  },
+  {
+   "code": "500M",
+   "reward": "75 Tokens"
+  },
+  {
+   "code": "1YEAR",
+   "reward": "70 Tokens"
+  },
+  {
+   "code": "AMERICA",
+   "reward": "80 Tokens"
+  },
+  {
+   "code": "JULY21ST",
+   "reward": "150 Tokens"
+  },
+  {
+   "code": "4THJULY",
+   "reward": "200 Tokens"
+  },
+  {
+   "code": "200TOKENS",
+   "reward": "200 Tokens"
+  },
+  {
+   "code": "EPICTOKENS",
+   "reward": "250 Tokens"
+  },
+  {
+   "code": "ANNIVERSARYTOKENS",
+   "reward": "250 Tokens"
+  },
+  {
+   "code": "EGGO!",
+   "reward": "1 Unique Egg"
+  },
+  {
+   "code": "VALKYRIE",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "TOOMANYCODESSMH",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "SUPERSECRETCODE",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "SUMMEREGG",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "SKIES",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "SECRETEGG",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "RAINBOWITE",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "PUMPKINS",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "PATRIOTICSTARS",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "MEMES",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "LIGHT",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "JACKOLANTERN",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "FREECRATE2",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "FOLLOWUS",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "DUCK",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "DEMON",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "COOLWATER",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "BIGL",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "BEACHBALL",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "BACONHAIR",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "AWESOMELEGENDARY",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "ANNIVERSARYEGG",
+   "reward": "1 Legendary Egg"
+  }
+ ],
+ "updated": "2026-08-13T15:38:45.443Z",
+ "source": "https://robloxden.com/game-codes/mining-simulator"
+}

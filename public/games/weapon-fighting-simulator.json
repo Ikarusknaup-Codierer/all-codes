@@ -1,0 +1,552 @@
+{
+ "slug": "weapon-fighting-simulator",
+ "name": "Weapon Fighting Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "lucky",
+   "reward": "Tokens and Boosts"
+  },
+  {
+   "code": "map28",
+   "reward": "Free Boosts and Rewards"
+  },
+  {
+   "code": "dragon",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "galaxy",
+   "reward": "Boosts"
+  },
+  {
+   "code": "ts",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "astral",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "throne",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "mermaid",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "summer",
+   "reward": "Qi And Boosts"
+  },
+  {
+   "code": "july",
+   "reward": "Free Boosts"
+  },
+  {
+   "code": "twins",
+   "reward": "Tokens And Boosts"
+  },
+  {
+   "code": "radio",
+   "reward": "Qi And Boosts"
+  },
+  {
+   "code": "w82",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "wfs2026",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "mas",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "bell",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "m80",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "boost",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "passive",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "mask",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "t19",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "hallo",
+   "reward": "Boosts"
+  },
+  {
+   "code": "pixel",
+   "reward": "Boosts"
+  },
+  {
+   "code": "return",
+   "reward": "Boosts"
+  },
+  {
+   "code": "token",
+   "reward": "Boosts"
+  },
+  {
+   "code": "autumn",
+   "reward": "Boosts"
+  },
+  {
+   "code": "zeus",
+   "reward": "Boosts"
+  },
+  {
+   "code": "warm",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "river",
+   "reward": "Boosts"
+  },
+  {
+   "code": "elk",
+   "reward": "100 Limited Tokens, 100 Banshie Tickets, And Boosts"
+  },
+  {
+   "code": "august",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "bird",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "time",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "soon",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "legend",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "disco",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "marigold",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "halloween2-",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "lds1021",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "ldsyt",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "lds",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "snake",
+   "reward": "100 Qi And Boosts"
+  },
+  {
+   "code": "tile",
+   "reward": "Boosts"
+  },
+  {
+   "code": "nni",
+   "reward": "1,000 Limited Tokens"
+  },
+  {
+   "code": "clow",
+   "reward": "1 Lucky Boost And 1 Spirit Stone Boost"
+  },
+  {
+   "code": "candle",
+   "reward": "1 Qi Boost And 1 Damage Boost"
+  },
+  {
+   "code": "super",
+   "reward": "100,000 Qi, 1 Multi Open Boost, 1 Super Lucky Boost, And 1 Super Spell"
+  },
+  {
+   "code": "ziteng",
+   "reward": "Boosts"
+  },
+  {
+   "code": "anni",
+   "reward": "1k Limited Tokens"
+  },
+  {
+   "code": "boom",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "tiaoshui",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "labubu2",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "labubu",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "head",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "fath",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "zombie",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "kneel",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "gourd",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "carrot",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "mirror",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "mother",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "biscuit",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "chow",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "theme",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "level",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "mogu",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "jian",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "nezha",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "station",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "flame",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ricecake",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "squid",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "candybar",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "sleigh",
+   "reward": "1 Lucky Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "wolf",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "bonfire",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "starship",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "turkey",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "rlyeh",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ice",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "magic",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "pumpkin",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "witch",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "lab",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "robin",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "slime",
+   "reward": "1 Lucky Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "underground",
+   "reward": "1 Qi Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "wukong",
+   "reward": "1 Qi Boost and 1 DMG boost"
+  },
+  {
+   "code": "teacher",
+   "reward": "1 Qi Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "chain",
+   "reward": "1 Lucky Boost and 1 Spirit Stone"
+  },
+  {
+   "code": "star",
+   "reward": "1 Qi Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "lantern",
+   "reward": "1 Qi Boost and 1 DMG boost"
+  },
+  {
+   "code": "amber",
+   "reward": "1 Qi Boost and 1 DMG boost"
+  },
+  {
+   "code": "coconut",
+   "reward": "1 Qi Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "faith",
+   "reward": "1 Qi Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "meteor",
+   "reward": "1 Qi Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "boat",
+   "reward": "1 Lucky Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "balatro",
+   "reward": "1 Qi Boost and 1 Damage Boost"
+  },
+  {
+   "code": "aura",
+   "reward": "2x Qi Boost (20 minutes) and 1.5x DMG Boost (20 minutes)"
+  },
+  {
+   "code": "lava",
+   "reward": "Spell Drop Boost (10 minutes) and Spirit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "mountain",
+   "reward": "Spell Drop Boost (10 minutes) and Spirit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "returner",
+   "reward": "Qi Boost (20 minutes) and Sprit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "jungle",
+   "reward": "Qi Boost (20 minutes) and Sprit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "rainbow",
+   "reward": "Lucky Boost (10 minutes) and Sprit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "kk",
+   "reward": "2x Qi Boost (20 minutes) and 1.5x DMG Boost (20 minutes)"
+  },
+  {
+   "code": "cyber",
+   "reward": "1.5x DMG Boost (20 minutes) and 2x Qi Boost (20 minutes)"
+  },
+  {
+   "code": "ear",
+   "reward": "Spell Drop Boost (10 minutes) and Spirit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "like501k",
+   "reward": "1 Qi Boost (20 minutes) and 1 Spirit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "west",
+   "reward": "1 Qi Boost (20 minutes) and 1 Spirit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "sweep",
+   "reward": "1 Qi Boost (20 minutes) and 1 Spirit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "white",
+   "reward": "1 Lucky Boost (10 minutes) and 1 Spirit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "garden",
+   "reward": "2x Qi Boost (20 minutes) and 1.5x DMG Boost (20 minutes)"
+  },
+  {
+   "code": "woods",
+   "reward": "1 Spirit Stone Boost (20 minutes) and 1 Spell Drop Boost (10 minutes)"
+  },
+  {
+   "code": "bay",
+   "reward": "2x Spell Drop Boost (10 minutes) and 2x Spirit Stone Boost (20 minutes"
+  },
+  {
+   "code": "firecracker",
+   "reward": "1 Spirit Stone Boost (20 minutes) and 1 Qi Boost (20 minutes)"
+  },
+  {
+   "code": "kite",
+   "reward": "1 Qi Boost (20 minutes) and 1 Spirit Stone Boost (20 minutes)"
+  },
+  {
+   "code": "stormwolf",
+   "reward": "100,000 Qi , 1 Super Spirit Stone Boost (20 minutes) , 1 Super DMG Boo"
+  },
+  {
+   "code": "anniv",
+   "reward": "1 Lucky Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "wfs2nd",
+   "reward": "1,000 Limited Tokens , 2 Multi Open Boost , 2 Super Lucky Boost , 2 Su"
+  },
+  {
+   "code": "sea",
+   "reward": "1 Damage Boost and 1 Qi Boost"
+  },
+  {
+   "code": "hacker",
+   "reward": "1 Spell Drop Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "newyear",
+   "reward": "1 Spell Drop Boost and 1 Spirit Stone Boost"
+  },
+  {
+   "code": "ski",
+   "reward": "1 Spirit Stone Boost and 1 Qi Boost"
+  },
+  {
+   "code": "champion",
+   "reward": "Spell Drop Boost and Spirit Stone Boost"
+  },
+  {
+   "code": "street",
+   "reward": "Qi Boost and Spirit Stone Boost"
+  },
+  {
+   "code": "sisterguard",
+   "reward": "1 Spirit Stone Boost , 1 DMG Boost , 1 Lucky Boost , 1 Spell Drop Boos"
+  },
+  {
+   "code": "funrix",
+   "reward": "1 Spirit Stone Boost , 1 DMG Boost , 1 Lucky Boost , 1 Spell Drop Boos"
+  },
+  {
+   "code": "JazonGaming",
+   "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  },
+  {
+   "code": "Skull",
+   "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  },
+  {
+   "code": "Carbon",
+   "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  },
+  {
+   "code": "Sub2RoboSlothGaming",
+   "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  },
+  {
+   "code": "Worrybear",
+   "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  },
+  {
+   "code": "RAMPHobbies",
+   "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  },
+  {
+   "code": "CodeNex",
+   "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  },
+  {
+   "code": "Kingkade",
+   "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  }
+ ],
+ "updated": "2026-08-13T15:36:24.428Z",
+ "source": "https://robloxden.com/game-codes/weapon-fighting-simulator"
+}

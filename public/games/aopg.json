@@ -1,0 +1,400 @@
+{
+ "slug": "aopg",
+ "name": "AOPG",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "LimbusCompany!",
+   "reward": "2x Drop (60 Minutes)"
+  },
+  {
+   "code": "LibraryOfRuina!",
+   "reward": "2x EXP (60 Minutes)"
+  },
+  {
+   "code": "ProjectMoonHype!",
+   "reward": "1 Book"
+  },
+  {
+   "code": "REALPUNK!!!",
+   "reward": "2x XP (30 Minutes)"
+  },
+  {
+   "code": "MagneticUpgrade",
+   "reward": "2x Drop (1 Hour)"
+  },
+  {
+   "code": "DBDAIMA!!!",
+   "reward": "2x EXP (30 Minutes)"
+  },
+  {
+   "code": "PrimalSayian",
+   "reward": "2x Drops (1 Hour)"
+  },
+  {
+   "code": "SummerShop",
+   "reward": "40,000 Summer Coins"
+  },
+  {
+   "code": "WaterBreathing",
+   "reward": "2x Drops (30 Minutes)"
+  },
+  {
+   "code": "Hi-no-Kokyu",
+   "reward": "10 Sun Breathing Fragments"
+  },
+  {
+   "code": "InfiniteTower!",
+   "reward": "2x Drop (1 Hour)"
+  },
+  {
+   "code": "SuperWB",
+   "reward": "2x Drop (30 Minutes)"
+  },
+  {
+   "code": "Slingshot",
+   "reward": "2x EXP (2 Hours)"
+  },
+  {
+   "code": "EvilGiant!",
+   "reward": "2 Spawn Tokens"
+  },
+  {
+   "code": "PEAK",
+   "reward": "2x Beli (1 Hour)"
+  },
+  {
+   "code": "LOADOUTS!",
+   "reward": "2x Luck (1 Hour)"
+  },
+  {
+   "code": "Raidcounter",
+   "reward": "25,000 Gems"
+  },
+  {
+   "code": "MultiverseSeaUpdate",
+   "reward": "10 Billion Beli"
+  },
+  {
+   "code": "Drops",
+   "reward": "2x Drop Chance (2 Hours)"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "50,000 Gems"
+  },
+  {
+   "code": "Reinhard",
+   "reward": "50 Poneglyphs"
+  },
+  {
+   "code": "LastSurvivor",
+   "reward": "100 Title Spins"
+  },
+  {
+   "code": "AbsoluteDestruction",
+   "reward": "1 Saiyan Spirit"
+  },
+  {
+   "code": "HAKAI!",
+   "reward": "35,000 Gems"
+  },
+  {
+   "code": "FallenKingdom",
+   "reward": "30 Poneglyphs"
+  },
+  {
+   "code": "MyPeak",
+   "reward": "10 Food"
+  },
+  {
+   "code": "TrueSunGod",
+   "reward": "15 EXP Tickets"
+  },
+  {
+   "code": "GearThird",
+   "reward": "2x Drops (1 Hour)"
+  },
+  {
+   "code": "RubberPower",
+   "reward": "100,000 Gems"
+  },
+  {
+   "code": "UltraEgo",
+   "reward": "10B Belli"
+  },
+  {
+   "code": "Gilgamesh",
+   "reward": "2 Keys of Babylon"
+  },
+  {
+   "code": "Update!",
+   "reward": "2x Drops"
+  },
+  {
+   "code": "Poneglyphs",
+   "reward": "20 Poneglyphs"
+  },
+  {
+   "code": "ScarySkeleton",
+   "reward": "10 EXP Tickets"
+  },
+  {
+   "code": "Luboon",
+   "reward": "15 Food"
+  },
+  {
+   "code": "DeadbutAlive",
+   "reward": "2x Drops (1 Hour)"
+  },
+  {
+   "code": "WholeCakeMVP",
+   "reward": "100,000 Gems"
+  },
+  {
+   "code": "Accelerator!",
+   "reward": "a 2x Drop Boost (1 Hour)"
+  },
+  {
+   "code": "InventoryRework!",
+   "reward": "20,000 Gems"
+  },
+  {
+   "code": "FinalDark",
+   "reward": "2x Drop (1 Hour)"
+  },
+  {
+   "code": "RIPWB",
+   "reward": "2x EXP (1 Hour)"
+  },
+  {
+   "code": "DarkVQuake",
+   "reward": "10 EXP Tickets"
+  },
+  {
+   "code": "TheOPisREAL",
+   "reward": "5 Dark Summoning Keys"
+  },
+  {
+   "code": "ISNANELUCK!!",
+   "reward": "30 Poneglyphs"
+  },
+  {
+   "code": "Easter2026",
+   "reward": "10 Egg Points"
+  },
+  {
+   "code": "EasterPart1!",
+   "reward": "20 EXP Tickets"
+  },
+  {
+   "code": "TheFever!",
+   "reward": "2x Drop"
+  },
+  {
+   "code": "StrongestInHistory!",
+   "reward": "1 Hour of 2x Drop"
+  },
+  {
+   "code": "Banshoman!",
+   "reward": "50,000 Gems"
+  },
+  {
+   "code": "PassionateFlame",
+   "reward": "50 Poneglyphs"
+  },
+  {
+   "code": "FireForceHype!!!",
+   "reward": "20 EXP Tickets"
+  },
+  {
+   "code": "StrongestInHistory",
+   "reward": "2x Drop (1 Hour)"
+  },
+  {
+   "code": "ShinraSoon!!",
+   "reward": "30 Poneglyphs"
+  },
+  {
+   "code": "Sry4RemovingValentine",
+   "reward": "80,000 Clovers"
+  },
+  {
+   "code": "MetaReturns!",
+   "reward": "20 EXP Tickets"
+  },
+  {
+   "code": "GravityAdmiral",
+   "reward": "20 EXP Tickets"
+  },
+  {
+   "code": "BindingVow",
+   "reward": "25 Poneglyphs"
+  },
+  {
+   "code": "AncientDemon",
+   "reward": "30 EXP Tickets"
+  },
+  {
+   "code": "ThukunaUpdate",
+   "reward": "1 Domain Fragment"
+  },
+  {
+   "code": "LonelyElf",
+   "reward": "30,000 Hearts"
+  },
+  {
+   "code": "AncientMagic",
+   "reward": "15 Poneglyphs"
+  },
+  {
+   "code": "ValentineP2!",
+   "reward": "30,000 Gems"
+  },
+  {
+   "code": "HeartBroken!",
+   "reward": "2x Drop (1 Hour)"
+  },
+  {
+   "code": "Valentine!",
+   "reward": "30,000 Gems"
+  },
+  {
+   "code": "Pt2Soon!",
+   "reward": "1 Generic Katana"
+  },
+  {
+   "code": "CupidArrow",
+   "reward": "20 EXP Tickets"
+  },
+  {
+   "code": "NewFruitSoon!",
+   "reward": "20 Poneglyphs"
+  },
+  {
+   "code": "ElbafHype!",
+   "reward": "100 Ponegylphs"
+  },
+  {
+   "code": "ShadowGovernment",
+   "reward": "1 Random Soul Contract"
+  },
+  {
+   "code": "Puppets",
+   "reward": "1 Hour Of 2x EXP"
+  },
+  {
+   "code": "EternalContract",
+   "reward": "1 Hour Of 2x Drops"
+  },
+  {
+   "code": "ElbafSoon",
+   "reward": "1 Hour Of 2x Drops"
+  },
+  {
+   "code": "NewBuffSystemSoon",
+   "reward": "15 EXP Tickets"
+  },
+  {
+   "code": "GryphonV3",
+   "reward": "1 Hour Of 2x EXP"
+  },
+  {
+   "code": "TradingRevamp!",
+   "reward": "5 Trade Tickets"
+  },
+  {
+   "code": "Donut_Lover",
+   "reward": "15 EXP Tickets"
+  },
+  {
+   "code": "True_Queen",
+   "reward": "2x Drop For 1 Hour"
+  },
+  {
+   "code": "Final_Tale",
+   "reward": "2x EXP For 1 Hour"
+  },
+  {
+   "code": "New_Sword_Soon",
+   "reward": "1 Mother's Tale"
+  },
+  {
+   "code": "FinalDragon",
+   "reward": "10 Fire Dragon Keys"
+  },
+  {
+   "code": "Kaido",
+   "reward": "2x Drop For 1 Hour"
+  },
+  {
+   "code": "JOYBOY!",
+   "reward": "20 EXP Tickets"
+  },
+  {
+   "code": "GYUKI!",
+   "reward": "2x EXP For 1 Hour"
+  },
+  {
+   "code": "Sin_Of_Pride",
+   "reward": "1-Hour 2x EXP"
+  },
+  {
+   "code": "JoyBoySoon!",
+   "reward": "1-Hour 2x EXP"
+  },
+  {
+   "code": "MerryChristmas!!!",
+   "reward": "2x Drops And 50 EXP Tickets"
+  },
+  {
+   "code": "EvilReturns!",
+   "reward": "2x Drops For 12 Hours"
+  },
+  {
+   "code": "JollyV2!",
+   "reward": "2x EXP For 12 Hours"
+  },
+  {
+   "code": "BaldCrusader!",
+   "reward": "2x Drop"
+  },
+  {
+   "code": "OnePromptMan!",
+   "reward": "2x XP"
+  },
+  {
+   "code": "SnowWillFall!",
+   "reward": "20 EXP Tickets"
+  },
+  {
+   "code": "MerryChristmas!",
+   "reward": "2x Drops"
+  },
+  {
+   "code": "HappyHolidays!",
+   "reward": "10x Fire Dragon Keys"
+  },
+  {
+   "code": "AOPG2026!",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "SunGodLuffy!",
+   "reward": "2x Drops For 3 Hours"
+  },
+  {
+   "code": "JoyBoyReturns!",
+   "reward": "2x EXP For 3 Hours"
+  },
+  {
+   "code": "NewUpdateHey!",
+   "reward": "Freebies"
+  }
+ ],
+ "updated": "2026-08-13T15:34:56.351Z",
+ "source": "https://robloxden.com/game-codes/aopg"
+}

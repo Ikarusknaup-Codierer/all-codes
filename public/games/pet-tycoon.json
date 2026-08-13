@@ -1,0 +1,52 @@
+{
+ "slug": "pet-tycoon",
+ "name": "Pet Tycoon",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SECRET",
+   "reward": "Wolpertinger Pet"
+  },
+  {
+   "code": "BOOST",
+   "reward": "Five-Minute Double Coins Boost"
+  },
+  {
+   "code": "SUMMER",
+   "reward": "Double Coins Boost"
+  },
+  {
+   "code": "TREASURE",
+   "reward": "Double Coins Boost"
+  },
+  {
+   "code": "DOGE",
+   "reward": "2x Diamonds Boost (20 minutes)"
+  },
+  {
+   "code": "LOVE",
+   "reward": "2x Cash Boost (10 minutes)"
+  },
+  {
+   "code": "MEGA",
+   "reward": "2x Diamonds Boost (30 minutes)"
+  },
+  {
+   "code": "ICE",
+   "reward": "2x Diamonds Boost (10 minutes)"
+  },
+  {
+   "code": "50K",
+   "reward": "2x Coins Boost (10 minutes)"
+  },
+  {
+   "code": "play",
+   "reward": "150 Diamonds"
+  }
+ ],
+ "updated": "2026-08-13T15:35:15.680Z",
+ "source": "https://robloxden.com/game-codes/pet-tycoon"
+}

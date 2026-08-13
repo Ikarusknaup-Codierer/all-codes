@@ -1,0 +1,32 @@
+{
+ "slug": "bandit-simulator",
+ "name": "Bandit Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "TRAIN",
+   "reward": "10,000 Gold"
+  },
+  {
+   "code": "FREEGUN",
+   "reward": "500 Gold and 1 Light Gun Crate"
+  },
+  {
+   "code": "AQUAMAN",
+   "reward": "10 Gems"
+  },
+  {
+   "code": "GIFT",
+   "reward": "500 Gold"
+  },
+  {
+   "code": "FREE",
+   "reward": "500 Gold"
+  }
+ ],
+ "updated": "2026-08-13T15:38:24.701Z",
+ "source": "https://robloxden.com/game-codes/bandit-simulator"
+}

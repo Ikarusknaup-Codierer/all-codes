@@ -1,0 +1,484 @@
+{
+ "slug": "pop-it-trading",
+ "name": "Pop It Trading",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "blockybrains",
+   "reward": "Chimpizini"
+  },
+  {
+   "code": "funkimunkii",
+   "reward": "Random Item"
+  },
+  {
+   "code": "lachancla",
+   "reward": "Slapping Sandals Item"
+  },
+  {
+   "code": "babyitscoldoutside",
+   "reward": "Christmas Cat"
+  },
+  {
+   "code": "quickswap",
+   "reward": "Random Item"
+  },
+  {
+   "code": "mamboitaliano",
+   "reward": "Italian Brainrot Egg"
+  },
+  {
+   "code": "itsfrenchforcoupdetat",
+   "reward": "Cat Egg"
+  },
+  {
+   "code": "thecheese",
+   "reward": "Grilled Cheese Sammich"
+  },
+  {
+   "code": "jokesonu",
+   "reward": "Whoopie Cushion"
+  },
+  {
+   "code": "hackthemainframe",
+   "reward": "Haxxor"
+  },
+  {
+   "code": "chunkychocolate",
+   "reward": "Chocolate Box"
+  },
+  {
+   "code": "swingbattabatta",
+   "reward": "Pickle Pinata"
+  },
+  {
+   "code": "luckoirsh",
+   "reward": "Clover"
+  },
+  {
+   "code": "landdownunder",
+   "reward": "Watch"
+  },
+  {
+   "code": "lov3bug",
+   "reward": "Bunni"
+  },
+  {
+   "code": "wuggyhugs",
+   "reward": "Kawaii Huggy"
+  },
+  {
+   "code": "o-d-n-a-r",
+   "reward": "Keyonce"
+  },
+  {
+   "code": "thetrades",
+   "reward": "S'more"
+  },
+  {
+   "code": "winterarc",
+   "reward": "Exercise Bike"
+  },
+  {
+   "code": "feliznavidad",
+   "reward": "Fireworks"
+  },
+  {
+   "code": "farmergray",
+   "reward": "Gift"
+  },
+  {
+   "code": "gobblegobble",
+   "reward": "Turkey"
+  },
+  {
+   "code": "saltisspicy",
+   "reward": "Spices"
+  },
+  {
+   "code": "tedsonvaca",
+   "reward": "Random Item"
+  },
+  {
+   "code": "feelinsprunki",
+   "reward": "Oren"
+  },
+  {
+   "code": "dingdong",
+   "reward": "Door"
+  },
+  {
+   "code": "iamsteve",
+   "reward": "Steve"
+  },
+  {
+   "code": "ur2slow",
+   "reward": "Slow Sonic"
+  },
+  {
+   "code": "elontruck",
+   "reward": "Cybertruck"
+  },
+  {
+   "code": "fineanddandy",
+   "reward": "Flower Pot"
+  },
+  {
+   "code": "uvebeengnomed!",
+   "reward": "Gnome"
+  },
+  {
+   "code": "pureimagination",
+   "reward": "Soap"
+  },
+  {
+   "code": "Secretrecipe",
+   "reward": "Water"
+  },
+  {
+   "code": "smileforthecamera",
+   "reward": "Flashlight"
+  },
+  {
+   "code": "veryimportant",
+   "reward": "Hat"
+  },
+  {
+   "code": "Boingboing!",
+   "reward": "jermÄ"
+  },
+  {
+   "code": "JUMPINJAKS",
+   "reward": "Blocky Cane"
+  },
+  {
+   "code": "Steprightup!",
+   "reward": "Circus Tent"
+  },
+  {
+   "code": "kingofthepirates",
+   "reward": "Straw Hat"
+  },
+  {
+   "code": "Doodle",
+   "reward": "Pencil Orange"
+  },
+  {
+   "code": "pizzaria",
+   "reward": "Cheese Pizza"
+  },
+  {
+   "code": "pizzatime!!",
+   "reward": "Sardine Pizza"
+  },
+  {
+   "code": "R-A-N-D-O",
+   "reward": "Orange"
+  },
+  {
+   "code": "catnapped",
+   "reward": "Cat Nap"
+  },
+  {
+   "code": "firstnaf",
+   "reward": "Freddy Item"
+  },
+  {
+   "code": "CANDY",
+   "reward": "1 Candy Cup"
+  },
+  {
+   "code": "CUTE",
+   "reward": "a Bunzo"
+  },
+  {
+   "code": "FANTASTICPLASTIC",
+   "reward": "a Barbie Item"
+  },
+  {
+   "code": "KREEKCRAFT",
+   "reward": "a Light Bulb Item"
+  },
+  {
+   "code": "B5NB5N",
+   "reward": "a BanBan Item"
+  },
+  {
+   "code": "STOKED",
+   "reward": "a Surfing Item"
+  },
+  {
+   "code": "DOILOOKPRETTY",
+   "reward": "a Beauty Item"
+  },
+  {
+   "code": "CATEGG",
+   "reward": "a Hello Kitty Item"
+  },
+  {
+   "code": "PINGU",
+   "reward": "a Pingu Item"
+  },
+  {
+   "code": "MIAMINIGHTS",
+   "reward": "a Miami Item"
+  },
+  {
+   "code": "LETSGETWEIRD",
+   "reward": "a Weird Item"
+  },
+  {
+   "code": "HEARTBURN",
+   "reward": "a Teddy Item"
+  },
+  {
+   "code": "EWWW",
+   "reward": "a Balloon Item"
+  },
+  {
+   "code": "ITSALIVE!",
+   "reward": "a BFF Item"
+  },
+  {
+   "code": "HOLASOYD0RA",
+   "reward": "a Dora Item"
+  },
+  {
+   "code": "B4NB4N",
+   "reward": "a BanBan Item"
+  },
+  {
+   "code": "METACARPUS",
+   "reward": "a Hand Item"
+  },
+  {
+   "code": "KAWA11",
+   "reward": "the Kawaii Circle"
+  },
+  {
+   "code": "M3RRY",
+   "reward": "a Christmas Item"
+  },
+  {
+   "code": "MEOOOOW",
+   "reward": "a Pet Party Item"
+  },
+  {
+   "code": "THURSDAY",
+   "reward": "the Wednesday Item"
+  },
+  {
+   "code": "FIFI",
+   "reward": "the XOX Ball"
+  },
+  {
+   "code": "YOUSPINME",
+   "reward": "a Heli Hat"
+  },
+  {
+   "code": "YODOME",
+   "reward": "a Baby Yodo"
+  },
+  {
+   "code": "AREDSWORD",
+   "reward": "the Red Sword Item"
+  },
+  {
+   "code": "DAEGG",
+   "reward": "the C Item"
+  },
+  {
+   "code": "CALLMEMAYBE",
+   "reward": "1 Payphone"
+  },
+  {
+   "code": "HALLOWEENIE",
+   "reward": "1 Halloween Cake"
+  },
+  {
+   "code": "POPIT1YEAR",
+   "reward": "1 Confetti Blaster"
+  },
+  {
+   "code": "KNOCKKNOCK",
+   "reward": "1 Friend Purple"
+  },
+  {
+   "code": "PEPTO",
+   "reward": "1 Pink Drink"
+  },
+  {
+   "code": "WHAAAAAA",
+   "reward": "1 Baby Zombie"
+  },
+  {
+   "code": "LASAGNA",
+   "reward": "1 Trixxi"
+  },
+  {
+   "code": "GUMMY",
+   "reward": "3 Gummy Bears"
+  },
+  {
+   "code": "SQUID",
+   "reward": "the Square Guy Item"
+  },
+  {
+   "code": "EEEK",
+   "reward": "the Fluffy Item"
+  },
+  {
+   "code": "CRYSTAL",
+   "reward": "3 Crystals"
+  },
+  {
+   "code": "SPOOKY21",
+   "reward": "the Candy Corn Item"
+  },
+  {
+   "code": "QUIDDITCH",
+   "reward": "the Fire Extinguisher Item"
+  },
+  {
+   "code": "SUS",
+   "reward": "the Amogus Item"
+  },
+  {
+   "code": "JUANIDAY2021",
+   "reward": "the Snowballs Item"
+  },
+  {
+   "code": "ICE",
+   "reward": "the Gem Item"
+  },
+  {
+   "code": "2022",
+   "reward": "the Sparkler Item"
+  },
+  {
+   "code": "BUFF",
+   "reward": "the Weights Item"
+  },
+  {
+   "code": "LOOT",
+   "reward": "the Loot Item"
+  },
+  {
+   "code": "TONY",
+   "reward": "the Tiger Item"
+  },
+  {
+   "code": "TAKO",
+   "reward": "the Slippy Item"
+  },
+  {
+   "code": "NO",
+   "reward": "the Slendy Note Item"
+  },
+  {
+   "code": "CUPID",
+   "reward": "the Osito Item"
+  },
+  {
+   "code": "SUGAR",
+   "reward": "the Lolly Item"
+  },
+  {
+   "code": "STUFFI",
+   "reward": "the Spidy Item"
+  },
+  {
+   "code": "POPIT!",
+   "reward": "the Pop It Green! Item"
+  },
+  {
+   "code": "KITTY",
+   "reward": "the Big Cat Item"
+  },
+  {
+   "code": "NAUGHTYORNICE",
+   "reward": "a Random Tommeh Item"
+  },
+  {
+   "code": "TRIPPY",
+   "reward": "the Rings Item"
+  },
+  {
+   "code": "NOCLIP",
+   "reward": "the Backrooms Item"
+  },
+  {
+   "code": "90SEC",
+   "reward": "the Ms Floppa Item"
+  },
+  {
+   "code": "UPUPUP",
+   "reward": "the Ladder Item"
+  },
+  {
+   "code": "FARMER",
+   "reward": "7 Flower Seeds"
+  },
+  {
+   "code": "R41NB0W",
+   "reward": "the Slippy Rainbow Item"
+  },
+  {
+   "code": "PORTAL",
+   "reward": "the Portal Blue Item"
+  },
+  {
+   "code": "PINEAPPLE",
+   "reward": "the Pinapple Tube Item"
+  },
+  {
+   "code": "WTH",
+   "reward": "the Pancakes Item"
+  },
+  {
+   "code": "LIGHTEMUP",
+   "reward": "the Flamethrower Item"
+  },
+  {
+   "code": "GUB",
+   "reward": "the Butterfly Item"
+  },
+  {
+   "code": "100K",
+   "reward": "the Silver Trophy Item"
+  },
+  {
+   "code": "FOTITO",
+   "reward": "the Inxta Item"
+  },
+  {
+   "code": "THRONE",
+   "reward": "This code credits your accounts with a Random Toilet Item (with the ex"
+  },
+  {
+   "code": "BAILA",
+   "reward": "the Tix Tox Item"
+  },
+  {
+   "code": "JUEGO",
+   "reward": "the XOX Controller Item"
+  },
+  {
+   "code": "M0DN4R",
+   "reward": "the Capybara Item"
+  },
+  {
+   "code": "1337",
+   "reward": "the Tripod Item"
+  },
+  {
+   "code": "CHANCE",
+   "reward": "the Rock Paper Scissors Item"
+  }
+ ],
+ "updated": "2026-08-13T15:36:13.378Z",
+ "source": "https://robloxden.com/game-codes/pop-it-trading"
+}

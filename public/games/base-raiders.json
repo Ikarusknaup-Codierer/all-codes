@@ -1,0 +1,36 @@
+{
+ "slug": "base-raiders",
+ "name": "Base Raiders",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "BASKET",
+   "reward": "1 Stone Basket"
+  },
+  {
+   "code": "UNCOMMON",
+   "reward": "1 Uncommon Crate"
+  },
+  {
+   "code": "RAID",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "DISCORAID",
+   "reward": "1 Speed Boost"
+  },
+  {
+   "code": "10M",
+   "reward": "1 Rare Crate"
+  },
+  {
+   "code": "EXTRAHEALTH",
+   "reward": "1 Health Boost"
+  }
+ ],
+ "updated": "2026-08-13T15:38:16.891Z",
+ "source": "https://robloxden.com/game-codes/base-raiders"
+}

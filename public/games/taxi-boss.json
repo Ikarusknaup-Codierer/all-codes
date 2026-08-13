@@ -1,0 +1,40 @@
+{
+ "slug": "taxi-boss",
+ "name": "Taxi Boss",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "THX600K",
+   "reward": "1k Cash"
+  },
+  {
+   "code": "PRO",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "LETSGO",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "HIGHWAY",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "START",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "TEST",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "THX400K",
+   "reward": "5,000 Cash"
+  }
+ ],
+ "updated": "2026-08-13T15:35:20.142Z",
+ "source": "https://robloxden.com/game-codes/taxi-boss"
+}

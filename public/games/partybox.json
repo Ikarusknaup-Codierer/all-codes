@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "5KMEMBERS",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "PROPELLERWITHNOBRIM",
+   "reward": "a Hat Propeller with no brim"
+  },
+  {
+   "code": "50KFAVORITES",
+   "reward": "500 Coins"
+  },
+  {
    "code": "RELEASE",
    "reward": "500 Confetti"
   }
  ],
- "updated": "2026-08-12T15:35:57.782Z",
+ "updated": "2026-08-13T15:39:58.122Z",
  "source": "https://robloxden.com/game-codes/partybox"
 }

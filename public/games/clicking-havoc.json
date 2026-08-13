@@ -1,0 +1,220 @@
+{
+ "slug": "clicking-havoc",
+ "name": "Clicking Havoc",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UPDATE59",
+   "reward": "X2 & X3 Luck Boosts"
+  },
+  {
+   "code": "UPDATE64",
+   "reward": "X2 & X3 Luck Boost"
+  },
+  {
+   "code": "EASTEREGGS",
+   "reward": "the Mythic Small Easter Dominus"
+  },
+  {
+   "code": "HYPER",
+   "reward": "the Mythic Dominus of the Night Pet"
+  },
+  {
+   "code": "FREESKIPS",
+   "reward": "the Mythic Quest Dominus Pet"
+  },
+  {
+   "code": "HAPPYNEWYEAR",
+   "reward": "the Mythic Small New Year's Robot Pet"
+  },
+  {
+   "code": "UPDATE63",
+   "reward": "the Mythic Small Lovely Dominus Pet"
+  },
+  {
+   "code": "VALENTINES23",
+   "reward": "1 2x Luck Boost and 1 3x Luck Boost"
+  },
+  {
+   "code": "FIREWORKS",
+   "reward": "the Mythic American Flag Pet"
+  },
+  {
+   "code": "PATRIOT",
+   "reward": "1 2x Luck Boost"
+  },
+  {
+   "code": "CELEBRATE",
+   "reward": "the Mythic Party Hat Pet"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "1 2x Luck Boost"
+  },
+  {
+   "code": "UPDATE13",
+   "reward": "1 Shiny Pet Boost"
+  },
+  {
+   "code": "100KMEMBERS",
+   "reward": "1 2x Luck Boost"
+  },
+  {
+   "code": "10KFAVORITES",
+   "reward": "1 2x Luck Boost"
+  },
+  {
+   "code": "HELL",
+   "reward": "the Mythic Mini Hell Demon Pet"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "the Mythic Havoc Flame Pet"
+  },
+  {
+   "code": "600KVISITS",
+   "reward": "1 +1 Egg Boost"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "5 Minutes of All Boosts"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "the Mythic Tada Pet"
+  },
+  {
+   "code": "B4N",
+   "reward": "the Mythic Havoc Hammer Pet"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "1 2x Click Boost and 1 3x Hatch Boost"
+  },
+  {
+   "code": "TINYGEM",
+   "reward": "the Mythic Tiny Gem Pet"
+  },
+  {
+   "code": "28KMEMBERS",
+   "reward": "1 2x Luck Boost"
+  },
+  {
+   "code": "200KVISITS",
+   "reward": "1 2x Click Boost"
+  },
+  {
+   "code": "MINI",
+   "reward": "the Mythic Mini Charged Dominus Pet"
+  },
+  {
+   "code": "BOOST",
+   "reward": "1 2x Click Boost"
+  },
+  {
+   "code": "CLICKS",
+   "reward": "1,500 Clicks"
+  },
+  {
+   "code": "GEMS",
+   "reward": "1,500 Gems"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "the Mythic Glowing Dragon Pet"
+  },
+  {
+   "code": "BATTLE",
+   "reward": "the Mythic Sword Pet"
+  },
+  {
+   "code": "POWERFUL",
+   "reward": "the Mythic Grim Reaper Pet"
+  },
+  {
+   "code": "LAVA",
+   "reward": "the Mythic Chilled Lava Cat Pet"
+  },
+  {
+   "code": "SPINTHEWHEEL",
+   "reward": "the Mythic Prize Wheel Pet"
+  },
+  {
+   "code": "4MILLIONVISITS",
+   "reward": "15 Minutes of All Boosts"
+  },
+  {
+   "code": "CORRUPT",
+   "reward": "the Mythic Mini Corrupt Dominus Pet"
+  },
+  {
+   "code": "AURIC",
+   "reward": "the Mythic Mini Auric Dominus Pet"
+  },
+  {
+   "code": "UPDATE33",
+   "reward": "1 2x Luck Boost and 1 3x Luck Boost"
+  },
+  {
+   "code": "FESTIVE",
+   "reward": "the Mythic Festive Royal Dominus Pet"
+  },
+  {
+   "code": "JOLLY",
+   "reward": "1 2x Luck Boost and 1 3x Luck Boost"
+  },
+  {
+   "code": "DEVELOPER",
+   "reward": "the Mythic Mini Toxic Pet"
+  },
+  {
+   "code": "UPDATE46",
+   "reward": "1 2x Luck Boost and 1 +1 Egg Boost"
+  },
+  {
+   "code": "UPDATE47",
+   "reward": "1 2x Luck Boost and 1 +1 Egg Boost"
+  },
+  {
+   "code": "RANKUP",
+   "reward": "the Mythic Small Crowned Dominus Pet"
+  },
+  {
+   "code": "UPDATE50",
+   "reward": "1 2x Luck Boost and 1 3x Luck Boost"
+  },
+  {
+   "code": "UPDATE51",
+   "reward": "1 2x Luck Boost and 1 3x Luck Boost"
+  },
+  {
+   "code": "EASTER",
+   "reward": "the Mythic Small Easter Dominus Pet"
+  },
+  {
+   "code": "UPDATE52",
+   "reward": "1 2x Luck Boost and 1 +1 Egg Boost"
+  },
+  {
+   "code": "VAPORWAVE",
+   "reward": "the Mythic Small Vaporwave Dominus Pet"
+  },
+  {
+   "code": "UPDATE54",
+   "reward": "1 2x Luck Boost and 1 3x Luck Boost"
+  },
+  {
+   "code": "15MILLION",
+   "reward": "the Mythic Small 15M Dominus Pet"
+  },
+  {
+   "code": "SECRET",
+   "reward": "the Mythic Lava Elemental Pet"
+  }
+ ],
+ "updated": "2026-08-13T15:34:25.473Z",
+ "source": "https://robloxden.com/game-codes/clicking-havoc"
+}

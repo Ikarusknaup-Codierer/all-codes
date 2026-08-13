@@ -1,0 +1,212 @@
+{
+ "slug": "collect-all-pets",
+ "name": "Collect All Pets!",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "HeiHei",
+   "reward": "2 hours of x2 Gold Boost"
+  },
+  {
+   "code": "Zazu",
+   "reward": "2 hours of x2 Metallic Boost"
+  },
+  {
+   "code": "Fortune",
+   "reward": "Double Gold Boost (2 Hours)"
+  },
+  {
+   "code": "7up",
+   "reward": "Double Gold Boost (2 Hours)"
+  },
+  {
+   "code": "AddThisStep",
+   "reward": "1 Hour Of 2x Gold Boost"
+  },
+  {
+   "code": "ThenAddThis",
+   "reward": "1 Hour Of 2x Gold Boost"
+  },
+  {
+   "code": "TheresMyFavoriteLeaf",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "PascalsFryingPan",
+   "reward": "2x Metallic Boost (2 hours)"
+  },
+  {
+   "code": "BagesDissonance",
+   "reward": "2x Shiny Boost (2 hours)"
+  },
+  {
+   "code": "RaceAgainstTheSinkingSun",
+   "reward": "2x Shiny Boost (2 hours)"
+  },
+  {
+   "code": "Kesculptorec",
+   "reward": "2x Metallic Boost (2 hours)"
+  },
+  {
+   "code": "ThreeEtherThere",
+   "reward": "2x Gold Boost"
+  },
+  {
+   "code": "DayOfRecord",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "ShinySubmarine",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "Metallicmushroom",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "ToInfinity",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "HiHatsAndRidesOnly",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "DroppedDropDroppage",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "InvestigationWeb",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "Tennessee",
+   "reward": "2x Gold Boost (5 hours)"
+  },
+  {
+   "code": "DividedBy",
+   "reward": "2x Gold Boost (63 minutes)"
+  },
+  {
+   "code": "SeniorPlanta",
+   "reward": "2x Gold Boost (2 hour)"
+  },
+  {
+   "code": "ToTheseLogs",
+   "reward": "2x Gold Boost (1 hour)"
+  },
+  {
+   "code": "LeftToRight",
+   "reward": "2x Gold Boost (2 hours)"
+  },
+  {
+   "code": "PentaNeoSecrets",
+   "reward": "a x2 Gold Boost (2 Hours)"
+  },
+  {
+   "code": "BigHoleInTheWall",
+   "reward": "2x Gold Boost (4 hours)"
+  },
+  {
+   "code": "PLASMATIC_VOID",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "SECRETCODEWASHERE",
+   "reward": "a 1 Hour 2x Gold Boost"
+  },
+  {
+   "code": "BRRRRR",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "4815162342",
+   "reward": "a 1 Hour 2x Gold Boost"
+  },
+  {
+   "code": "FIRSTCODEEVER",
+   "reward": "a 1 Hour 2x Gold Boost"
+  },
+  {
+   "code": "GROUPIE",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "SPEEDPLAYZTREE",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "KLAUSWASHERE",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "THEGREATCODEINTHESKY",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "TREESAUCE",
+   "reward": "a 1 Hour 2x Gold Boost"
+  },
+  {
+   "code": "EAGLENIGHT222",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "VIPER_TOFFI",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "COMMONLOON",
+   "reward": "a 4 Hour 2x Gold Boost"
+  },
+  {
+   "code": "MEERKAT",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "CHOCOLATEMILK",
+   "reward": "a 4 Hour 2x Gold Boost"
+  },
+  {
+   "code": "FUSIONINDY",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "AMEBAS",
+   "reward": "a 4 Hour 2x Gold Boost"
+  },
+  {
+   "code": "BUTTERTOM_1M",
+   "reward": "a 3 Hour 2x Gold Boost"
+  },
+  {
+   "code": "CONCAVEFORWARD",
+   "reward": "a 1 Hour 2x Gold Boost"
+  },
+  {
+   "code": "ARCTICMOON",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
+   "code": "MOUNTAINEER",
+   "reward": "a 4 Hour 2x Gold Boost"
+  },
+  {
+   "code": "ITSALWAYSADESERT",
+   "reward": "a 1 Hour 2x Gold Boost"
+  },
+  {
+   "code": "TenTickles",
+   "reward": "2 hours of x2 Gold"
+  },
+  {
+   "code": "Louis",
+   "reward": "2 hours of x2 Shiny Boost"
+  }
+ ],
+ "updated": "2026-08-13T15:34:05.083Z",
+ "source": "https://robloxden.com/game-codes/collect-all-pets"
+}

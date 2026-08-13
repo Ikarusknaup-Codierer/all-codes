@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "500Likes",
+   "reward": "10K Gems"
+  },
+  {
+   "code": "250KVisits",
+   "reward": "6K Gems"
+  },
+  {
+   "code": "NewUGCUpdate",
+   "reward": "4K Gems"
+  },
+  {
+   "code": "50KGroupMembers",
+   "reward": "10K Gems"
   }
  ],
- "updated": "2026-08-12T14:46:32.917Z",
+ "updated": "2026-08-13T15:39:42.374Z",
  "source": "https://robloxden.com/game-codes/ugc-obby-2"
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "frog-simulator",
+ "name": "Frog Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "ORB",
+   "reward": "the Orb Pet"
+  },
+  {
+   "code": "BAT",
+   "reward": "the Bat Pet"
+  },
+  {
+   "code": "HEART",
+   "reward": "the Heart Pet"
+  },
+  {
+   "code": "500",
+   "reward": "the Angel Pet"
+  },
+  {
+   "code": "POISON",
+   "reward": "the Poison Frog Pet"
+  },
+  {
+   "code": "STAR",
+   "reward": "the Star Pet"
+  }
+ ],
+ "updated": "2026-08-13T15:37:16.194Z",
+ "source": "https://robloxden.com/game-codes/frog-simulator"
+}

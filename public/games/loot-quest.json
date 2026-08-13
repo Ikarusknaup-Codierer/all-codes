@@ -1,0 +1,40 @@
+{
+ "slug": "loot-quest",
+ "name": "Loot Quest",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "VITAMIN",
+   "reward": "the Vitamin Pet"
+  },
+  {
+   "code": "SLEEPY",
+   "reward": "A Free Reward"
+  },
+  {
+   "code": "BIGBOYPATCH",
+   "reward": "100 Diamonds"
+  },
+  {
+   "code": "DIGITO",
+   "reward": "Digito Pet"
+  },
+  {
+   "code": "LCLC",
+   "reward": "Lclc Pet"
+  },
+  {
+   "code": "POPPY",
+   "reward": "Poppy Pet"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "200 Diamonds"
+  }
+ ],
+ "updated": "2026-08-13T15:37:10.056Z",
+ "source": "https://robloxden.com/game-codes/loot-quest"
+}

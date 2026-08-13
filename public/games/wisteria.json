@@ -1,0 +1,48 @@
+{
+ "slug": "wisteria",
+ "name": "Wisteria",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "!ClickTheSun",
+   "reward": "Breath Reset"
+  },
+  {
+   "code": "!NichirinReroll",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "!RaceReset",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "!ChristmasClan2",
+   "reward": "1 Clan Reroll"
+  },
+  {
+   "code": "!ChristmasClan",
+   "reward": "1 Clan Reroll"
+  },
+  {
+   "code": "!ChristmasBDA",
+   "reward": "1 BDA Reset"
+  },
+  {
+   "code": "!ChristmasBreathe",
+   "reward": "1 Breath Reset"
+  },
+  {
+   "code": "!SetYourBlazer",
+   "reward": "1 Blood Demon Art Reset"
+  },
+  {
+   "code": "!ResetMe",
+   "reward": "1 Progress and Race Reset"
+  }
+ ],
+ "updated": "2026-08-13T15:35:41.036Z",
+ "source": "https://robloxden.com/game-codes/wisteria"
+}

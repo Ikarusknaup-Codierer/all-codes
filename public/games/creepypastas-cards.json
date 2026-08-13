@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "POTIONL1",
+   "reward": "a Potion Luck I"
+  },
+  {
+   "code": "POTIOND3",
+   "reward": "a Potion Money III"
+  },
+  {
+   "code": "POTIOND2",
+   "reward": "a Potion Money II"
+  },
+  {
+   "code": "POTIOND1",
+   "reward": "a Potion Money I"
+  },
+  {
+   "code": "LOTIED",
+   "reward": "$5,000 Money"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "$5,000 Money"
   }
  ],
- "updated": "2026-08-12T15:35:56.299Z",
+ "updated": "2026-08-13T15:39:56.498Z",
  "source": "https://robloxden.com/game-codes/creepypastas-cards"
 }

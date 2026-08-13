@@ -1,0 +1,292 @@
+{
+ "slug": "demon-slayer-rpg-2",
+ "name": "Demon Slayer RPG 2",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "52kYTRaceReset",
+   "reward": "a Race Reset"
+  },
+  {
+   "code": "52kYTDemonArtReset",
+   "reward": "a Demon Art Reset"
+  },
+  {
+   "code": "52kYTBreathingReset",
+   "reward": "a Breathing Reset"
+  },
+  {
+   "code": "52kYTNichirinColorReset",
+   "reward": "a Nichirin Color Reset"
+  },
+  {
+   "code": "52kYTEXPBoost",
+   "reward": "an EXP Boost (1 Hour)"
+  },
+  {
+   "code": "!Halloween2023RaceReset",
+   "reward": "Race Reset"
+  },
+  {
+   "code": "!Halloween2023DemonArtReset",
+   "reward": "Demon Art Reset"
+  },
+  {
+   "code": "!Halloween2023BreathingReset",
+   "reward": "Breathing Reset"
+  },
+  {
+   "code": "!Halloween2023NichirinColorReset",
+   "reward": "Nichirin Color Reset"
+  },
+  {
+   "code": "!Halloween2023EXPBoost",
+   "reward": "EXP Boost for 1 Hour"
+  },
+  {
+   "code": "!EndOf2023DemonArtReset",
+   "reward": "Demon Art Reset"
+  },
+  {
+   "code": "!EndOf2023BreathingReset",
+   "reward": "Breathing Reset"
+  },
+  {
+   "code": "!EndOf2023NichirinColorReset",
+   "reward": "Nichirin Color Reset"
+  },
+  {
+   "code": "!EndOf2023EXPBoost",
+   "reward": "EXP Boost For 1 Hour"
+  },
+  {
+   "code": "!EndOf2023RaceReset",
+   "reward": "Race Reset"
+  },
+  {
+   "code": "!Augst2025EXPBoost",
+   "reward": "EXP Boost For 1 Hour"
+  },
+  {
+   "code": "!Augst2025NichirinColorReset",
+   "reward": "Nichirin Color Reset"
+  },
+  {
+   "code": "!Augst2025BreathingReset",
+   "reward": "Breathing Reset"
+  },
+  {
+   "code": "!Augst2025DemonArtReset",
+   "reward": "Demon Art Reset"
+  },
+  {
+   "code": "!Augst2025RaceReset",
+   "reward": "Race Reset"
+  },
+  {
+   "code": "!BigUpdateYoDemonArtReset",
+   "reward": "Demon Art Reset"
+  },
+  {
+   "code": "!BigUpdateYoBreathingReset",
+   "reward": "Breathing Reset"
+  },
+  {
+   "code": "!BigUpdateYoNichirinColorReset",
+   "reward": "Nichirin Color Reset"
+  },
+  {
+   "code": "!BigUpdateYoEXPBoost",
+   "reward": "EXP Boost For 1 Hour"
+  },
+  {
+   "code": "!DomaBDARaceReset",
+   "reward": "Race Reset"
+  },
+  {
+   "code": "!DomaBDADemonArtReset",
+   "reward": "Demon Art Reset"
+  },
+  {
+   "code": "!DomaBDABreathingReset",
+   "reward": "Breathing Reset"
+  },
+  {
+   "code": "!DomaBDANichirinColorReset",
+   "reward": "Nichirin Color Reset"
+  },
+  {
+   "code": "!DomaBDAEXPBoost",
+   "reward": "EXP Boost For 1 Hour"
+  },
+  {
+   "code": "!Start2025RaceReset",
+   "reward": "Race Reset"
+  },
+  {
+   "code": "!Start2025DemonArtReset",
+   "reward": "Demon Art Reset"
+  },
+  {
+   "code": "!Start2025BreathingReset",
+   "reward": "Breathing Reset"
+  },
+  {
+   "code": "!Start2025NichirinColorReset",
+   "reward": "Nichirin Color Reset"
+  },
+  {
+   "code": "!Start2025EXPBoostt",
+   "reward": "EXP Boost For 1 Hour"
+  },
+  {
+   "code": "!BigUpdateYoRaceReset",
+   "reward": "Race Reset"
+  },
+  {
+   "code": "!NewYears2024EXPBoost",
+   "reward": "Exp Boost (1 hour)"
+  },
+  {
+   "code": "!NewYears2024SwordColorReset",
+   "reward": "Sword Color Reset"
+  },
+  {
+   "code": "!NewYears2024RaceReset",
+   "reward": "Race Reset"
+  },
+  {
+   "code": "!NewYears2024BreathingReset",
+   "reward": "Breathing Reset"
+  },
+  {
+   "code": "!NewYears2024DemonArtReset",
+   "reward": "Demon Art Reset"
+  },
+  {
+   "code": "!SpeedBDADemonArtReset",
+   "reward": "1 Demon Art Reset"
+  },
+  {
+   "code": "!SpeedBDABreathingReset",
+   "reward": "1 Breathing Reset"
+  },
+  {
+   "code": "!SpeedBDARaceReset",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "!SpeedBDANichirinColorReset",
+   "reward": "1 Nichinrin Color Reset"
+  },
+  {
+   "code": "!SpeedBDAEXPBoost",
+   "reward": "a 1 Hour EXP Boost"
+  },
+  {
+   "code": "!HairoNichirinColorReset",
+   "reward": "1 Nichinrin Color Reset"
+  },
+  {
+   "code": "!HairoEXPBoost",
+   "reward": "a 1 Hour EXP Boost"
+  },
+  {
+   "code": "!HairoDemonArtReset",
+   "reward": "1 Demon Art Reset"
+  },
+  {
+   "code": "!HairoBreathingReset",
+   "reward": "1 Breathing Reset"
+  },
+  {
+   "code": "!HairoRaceReset",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "!May2023EXPBoost",
+   "reward": "a 1 Hour EXP Boost"
+  },
+  {
+   "code": "!May2023NichirinColorReset",
+   "reward": "1 Nichinrin Color Reset"
+  },
+  {
+   "code": "!May2023BreathingReset",
+   "reward": "1 Breathing Reset"
+  },
+  {
+   "code": "!May2023DemonArtReset",
+   "reward": "1 Demon Art Reset"
+  },
+  {
+   "code": "!May2023RaceReset",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "!SmallUpdateDemonArtReset",
+   "reward": "1 Demon Art Reset"
+  },
+  {
+   "code": "!SmallUpdateRaceReset",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "!SmallUpdateNichirinColorReset",
+   "reward": "1 Nichinrin Color Reset"
+  },
+  {
+   "code": "!SmallUpdateBreathingReset",
+   "reward": "1 Breathing Reset"
+  },
+  {
+   "code": "!SmallUpdateEXPBoost",
+   "reward": "a 1 Hour EXP Boost"
+  },
+  {
+   "code": "!RealSmallUpdateDemonArtReset",
+   "reward": "1 Demon Art Reset"
+  },
+  {
+   "code": "!RealSmallUpdateRaceReset",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "!RealSmallUpdateNichirinColorReset",
+   "reward": "1 Nichinrin Color Reset"
+  },
+  {
+   "code": "!RealSmallUpdateBreathingReset",
+   "reward": "1 Breathing Reset"
+  },
+  {
+   "code": "!RealSmallUpdateEXPBoost",
+   "reward": "a 1 Hour EXP Boost"
+  },
+  {
+   "code": "!MarchEarlyDemonArtReset",
+   "reward": "1 Demon Art Reset"
+  },
+  {
+   "code": "!MarchEarlyRaceReset",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "!MarchEarlyNichirinColorReset",
+   "reward": "1 Nichinrin Color Reset"
+  },
+  {
+   "code": "!MarchEarlyBreathingReset",
+   "reward": "1 Breathing Reset"
+  },
+  {
+   "code": "!MarchEarlyEXPBoost",
+   "reward": "a 1 Hour EXP Boost"
+  }
+ ],
+ "updated": "2026-08-13T15:34:26.100Z",
+ "source": "https://robloxden.com/game-codes/demon-slayer-rpg-2"
+}

@@ -1,0 +1,272 @@
+{
+ "slug": "reaper-2",
+ "name": "Reaper 2",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "ThousandYearlyBugsWar",
+   "reward": "100,000 Cash"
+  },
+  {
+   "code": "ThanksFor162kLikes",
+   "reward": "30 Clan Spins"
+  },
+  {
+   "code": "SenbonRework",
+   "reward": "4 Legendary Spins"
+  },
+  {
+   "code": "Thunderbolt",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "FreeSlot",
+   "reward": "1 Slot"
+  },
+  {
+   "code": "AnimeVoxelTrailer",
+   "reward": "45 Tokens"
+  },
+  {
+   "code": "MoreFixes3",
+   "reward": "25 Clan Spins"
+  },
+  {
+   "code": "QUEST2V2",
+   "reward": "15 Pet Spins and 20,000 Cash"
+  },
+  {
+   "code": "RANKEDFIX",
+   "reward": "40 Clan Spins and 2 Legendary Spins"
+  },
+  {
+   "code": "Voicelines",
+   "reward": "1 Legendary Spin And 45,000 Experience"
+  },
+  {
+   "code": "SeaWarriors",
+   "reward": "6 Legendary Spins"
+  },
+  {
+   "code": "LetzStil",
+   "reward": "35 Clan Spins"
+  },
+  {
+   "code": "XcutionRaid",
+   "reward": "25 Tokens"
+  },
+  {
+   "code": "ReaperFix",
+   "reward": "2 Legendary Spins"
+  },
+  {
+   "code": "ThanksFor160kLikes",
+   "reward": "5 Legendary Spins"
+  },
+  {
+   "code": "Unity",
+   "reward": "5 Legendary Spins"
+  },
+  {
+   "code": "ThanksFor161kLikes",
+   "reward": "3 Legendary Spins"
+  },
+  {
+   "code": "Ally",
+   "reward": "2 Minutes Of Ulquiorra Summon"
+  },
+  {
+   "code": "ConsoleShiftlock",
+   "reward": "2 Legendary Spins, 20 Clan Spins, 5 Pet Spins, 2 Hours Of 2x Cash And "
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "6 Pet Spins"
+  },
+  {
+   "code": "TensaRework",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "DirtyBoots",
+   "reward": "50 Tokens"
+  },
+  {
+   "code": "ThanksFor159kLikes",
+   "reward": "250,000 Cash"
+  },
+  {
+   "code": "VANITY",
+   "reward": "2 Legendary Spins"
+  },
+  {
+   "code": "ThanksFor158kLikes",
+   "reward": "2 Legendary Spin and 50 Clan Spins"
+  },
+  {
+   "code": "TokenShop",
+   "reward": "15 Tokens"
+  },
+  {
+   "code": "MoreFixes2",
+   "reward": "2 Legendary Spins"
+  },
+  {
+   "code": "Schrifts",
+   "reward": "60 Clan Spins"
+  },
+  {
+   "code": "R2Saturday",
+   "reward": "1 Legendary Spin and 10 Clan Spins"
+  },
+  {
+   "code": "NozaRework",
+   "reward": "60 Clan Spins"
+  },
+  {
+   "code": "YhwachFix",
+   "reward": "4 Legendary Spins and 20 Clan Spins"
+  },
+  {
+   "code": "MoreFixes",
+   "reward": "30 Clan Spins"
+  },
+  {
+   "code": "ThanksFor157kLikes",
+   "reward": "5 legendary Spins"
+  },
+  {
+   "code": "BowRework",
+   "reward": "5 Clan Spins"
+  },
+  {
+   "code": "NewSakanade",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "ShinkenAndShunsui",
+   "reward": "3 Legendary Spins and 30 Clan Spins"
+  },
+  {
+   "code": "!rejoin",
+   "reward": "2 Legendary Spins"
+  },
+  {
+   "code": "HunterXMayhem",
+   "reward": "9 Legendary Spins"
+  },
+  {
+   "code": "M1TRADE",
+   "reward": "4 Legendary Spins"
+  },
+  {
+   "code": "FixLockOn",
+   "reward": "3 Legendary Spins"
+  },
+  {
+   "code": "R2CONSOLE",
+   "reward": "40 Clan Spins"
+  },
+  {
+   "code": "ThanksFor156kLikes",
+   "reward": "3 legendary Spins"
+  },
+  {
+   "code": "QuincySniper",
+   "reward": "30 Clan Spins"
+  },
+  {
+   "code": "MONEYBUG",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "ANCIENTVASTO",
+   "reward": "2 Legendary Spins"
+  },
+  {
+   "code": "DAILYREWARDS",
+   "reward": "2 Legendary Spins"
+  },
+  {
+   "code": "NEWSHIFTLOCK",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "WALLJUMP",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "R2MOMENT",
+   "reward": "20 Clan Spins and 2x Cash Boost (3 hours)"
+  },
+  {
+   "code": "REFUND",
+   "reward": "30,000 Cash"
+  },
+  {
+   "code": "PARKOUR",
+   "reward": "30 Clan Spins"
+  },
+  {
+   "code": "DDREWORK",
+   "reward": "3 Leg Spins"
+  },
+  {
+   "code": "LOSTSOUL",
+   "reward": "30 Clan Spins"
+  },
+  {
+   "code": "GAMEBROKE",
+   "reward": "15,000 Exp"
+  },
+  {
+   "code": "FIXEDVIP",
+   "reward": "2 Legendary Spins"
+  },
+  {
+   "code": "NEWMOVES",
+   "reward": "10 Normal Spins"
+  },
+  {
+   "code": "TWBY3",
+   "reward": "15,000 Exp"
+  },
+  {
+   "code": "THEVISIONARY",
+   "reward": "40,000 Cash"
+  },
+  {
+   "code": "SANTAREWORK",
+   "reward": "65 Clan Spins"
+  },
+  {
+   "code": "QUESTFIX",
+   "reward": "2 Legendary Spins"
+  },
+  {
+   "code": "ARRANCAR",
+   "reward": "2x Cash Boost (180 hours)"
+  },
+  {
+   "code": "COMBODUMMY",
+   "reward": "3 Legendary Spins"
+  },
+  {
+   "code": "TZAGAIN",
+   "reward": "Skill Points Reset"
+  },
+  {
+   "code": "TRUEZANGETSUBANKAI",
+   "reward": "30 Clan Spins"
+  },
+  {
+   "code": "NEWUPDATE",
+   "reward": "1 Legendary Spin"
+  }
+ ],
+ "updated": "2026-08-13T15:36:52.544Z",
+ "source": "https://robloxden.com/game-codes/reaper-2"
+}

@@ -1,0 +1,1048 @@
+{
+ "slug": "bubble-gum-simulator",
+ "name": "Bubble Gum Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "RUDOLPH",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "LuckyDay2",
+   "reward": "2x Hatch Speed"
+  },
+  {
+   "code": "ChristmasHype",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "NEWWORLD",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "HAMMIEISBADATROCKETLEAGUE",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "MYTHICAL",
+   "reward": "3x Shiny Chance"
+  },
+  {
+   "code": "UPDATE66",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "FROSTPORTAL",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "SUPERSPOOKY",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE78",
+   "reward": "6 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE77",
+   "reward": "6 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "20HOURLUCK",
+   "reward": "20 Hours of 2x Luck"
+  },
+  {
+   "code": "MINIME",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "TOFUU",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "LOTSOFGEMS",
+   "reward": "25 Gems"
+  },
+  {
+   "code": "SPOTTED",
+   "reward": "1 Spotted Egg"
+  },
+  {
+   "code": "SUPERCOINS",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "CHRISTMAS",
+   "reward": "5,000 Candy Canes"
+  },
+  {
+   "code": "SANTA",
+   "reward": "2,000 Candy Canes"
+  },
+  {
+   "code": "BLUECREW",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "MORECANDY",
+   "reward": "4,000 Candy"
+  },
+  {
+   "code": "OBSCUREENTITY",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "SIRCFENNER",
+   "reward": "1 Spotted Egg"
+  },
+  {
+   "code": "FREEEGG",
+   "reward": "1 Spotted Egg"
+  },
+  {
+   "code": "FREECOINS",
+   "reward": "150 Coins"
+  },
+  {
+   "code": "SUPERGEMS",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "CANDYCANES",
+   "reward": "100 Candy Canes"
+  },
+  {
+   "code": "SYLENTLY",
+   "reward": "10,000 Candy Canes"
+  },
+  {
+   "code": "TWIISTED",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "CANDY",
+   "reward": "1,000 Candy"
+  },
+  {
+   "code": "FREEPET",
+   "reward": "the Twitter Dominus Pet"
+  },
+  {
+   "code": "SECRETPET",
+   "reward": "the Toy Serpent Pet"
+  },
+  {
+   "code": "PINKARMYPET",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "EXTRALUCK",
+   "reward": "10 Minutes of 2x Luck"
+  },
+  {
+   "code": "SUPERSECRET",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "SUPERLUCK",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "FREEBOOST",
+   "reward": "30 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "BEACHBOOST",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "SECRETCODE",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "STPATRICKS",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "300M",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "FREE",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE21",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "POSEIDON",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "LOSTCITY",
+   "reward": "20 Minutes of 2x Luck"
+  },
+  {
+   "code": "CHOCOLATEEGG",
+   "reward": "15 minutes of 3x Shiny Chance"
+  },
+  {
+   "code": "SECRETLUCKCODE",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "OCEAN",
+   "reward": "20 Minutes of 2x Luck"
+  },
+  {
+   "code": "ANCIENTTIMES",
+   "reward": "15 minutes of 3x Shiny Chance"
+  },
+  {
+   "code": "SECRETBOOST",
+   "reward": "10 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "DEETERPLAYS",
+   "reward": "5,000 Blocks"
+  },
+  {
+   "code": "SYLENTLYISCOOL",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "LUCKYDAY",
+   "reward": "30 Minutes of 2x Luck"
+  },
+  {
+   "code": "SUPERSPEED",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "SUPERBEACH",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "SPEEDBOOST",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "BRITEJUICE",
+   "reward": "5 Minutes of 2x Luck"
+  },
+  {
+   "code": "SPEEDYBOI",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "SPECIAL",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "ULTRASPEED",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "UNDERTHESEA",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "HAPPYEASTER",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "BUNNY",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "ATLANTISHATS",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "INTHEPAST",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "TOMCAT",
+   "reward": "5 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "400M",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "NEWORLD",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "SUMMER",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "UNCLESAM",
+   "reward": "15 Minutes of 3x Shiny Chance"
+  },
+  {
+   "code": "2HOURLUCK",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "FANCY2",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "BUBBLEPASS",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "PASS",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "3 hours of 2x Luck"
+  },
+  {
+   "code": "FREEHATCHSPEED",
+   "reward": "3 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "CHRISTMASBOOST",
+   "reward": "4 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "CLOWN",
+   "reward": "4 hours of 2x Luck"
+  },
+  {
+   "code": "SIRCFENNERNOOB",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "VALENTINES",
+   "reward": "4 hours of 2x Luck"
+  },
+  {
+   "code": "600M",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "PORTAL",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "CHALLENGES",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SEASON7",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE45",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE46",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE47",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE48",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE49",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE50",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE51",
+   "reward": "6 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE52",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE53",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE54",
+   "reward": "6 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE55",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "MEGALUCKBOOST",
+   "reward": "12 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE57",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE58",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE59",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE60",
+   "reward": "16 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE61",
+   "reward": "5 hours of 2x Luck"
+  },
+  {
+   "code": "AUTUMNSALE",
+   "reward": "5 hours of 2x Luck"
+  },
+  {
+   "code": "COSTUME",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "GHOSTS",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "300K",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "YOUTUBESPEED",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "BLIZZYRDOP",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "FREESPEEDBOOST",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SPLIT",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SECRETVIDEOCODE",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SHINYSTREAM",
+   "reward": "2 hours of 3x Shiny Chance"
+  },
+  {
+   "code": "CANDYCANE",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "MILKANDCOOKIES",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "HAPPYHOLIDAYS",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "KINGMUSHGANG",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "JONATHAN",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "EPICSECRETCODE",
+   "reward": "3 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE67",
+   "reward": "3 hours of 2x Luck"
+  },
+  {
+   "code": "JOLLYCHRISTMAS",
+   "reward": "6 hours of 2x Luck"
+  },
+  {
+   "code": "SUPERBOOST",
+   "reward": "3 hours of 2x Luck"
+  },
+  {
+   "code": "SANTACLAUS",
+   "reward": "3 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE68",
+   "reward": "4 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE70",
+   "reward": "4 hours of 2x Luck"
+  },
+  {
+   "code": "BLIZZYWIZZY",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "LUCKYCODE",
+   "reward": "2 hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE71",
+   "reward": "6 hours of 2x Luck"
+  },
+  {
+   "code": "SYLENTLYBEST",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE72",
+   "reward": "6 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE73",
+   "reward": "6 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE74",
+   "reward": "6 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE75",
+   "reward": "6 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "KRAKEN",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "COLORFUL",
+   "reward": "15 Minutes of 3x Shiny Chance"
+  },
+  {
+   "code": "FIREWORKS",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "JULY4TH",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "REALLYFANCY",
+   "reward": "15 Minutes of 2x Hatch Speed"
+  },
+  {
+   "code": "FANCY",
+   "reward": "15 Minutes of 3x Shiny Chance"
+  },
+  {
+   "code": "SECRETS",
+   "reward": "15 Minutes of 3x Shiny Chance"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "3 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SEASON3",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "HAMMIELSBADATROCKETLEAGUE",
+   "reward": "4 Hours of 2x Luck"
+  },
+  {
+   "code": "CIRCUS",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "PART2",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "CUPID",
+   "reward": "4 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "600MBOOST",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "MEGASALE",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "GALACTIC",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "NEWEGG",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "MYSTIC",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "MUSHROOM",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "EEASTER2020",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "MYTHIC",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SPRING",
+   "reward": "6 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "VINE",
+   "reward": "4 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "METEOR",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SHADOW",
+   "reward": "6 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SUPERSALE",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "MEGASPEEDBOOST",
+   "reward": "12 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "CARNIVAL",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "CARNIVAL2",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "VACATION",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "CITRUS",
+   "reward": "16 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "AUTUMN",
+   "reward": "5 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "AUTUMNSALE2",
+   "reward": "5 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SPOOKYHALLOWEEN",
+   "reward": "5 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "UPDATE63",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE64",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "YOUTUBE",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "SPOOKYCODE",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "SUPERSECRETCODE",
+   "reward": "3 Hours of 2x Luck"
+  },
+  {
+   "code": "YOUTUBELUCK",
+   "reward": "3 Hours of 2x Luck"
+  },
+  {
+   "code": "SYLENTLYOP",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "UPDATE65",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "MYTHICSTREAM",
+   "reward": "2 Hours of 3x Mythic Chance"
+  },
+  {
+   "code": "STREAMSPEED",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "STREAMLUCK",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "RUDOPLH",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "KINGSLIMEGANG",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "BGSXMAS",
+   "reward": "3 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "CHRISTMAS2020",
+   "reward": ""
+  },
+  {
+   "code": "CHRISTMASPART2",
+   "reward": "3 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "JOLLYCHRISTMAS2",
+   "reward": "6 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "CHRISTMASSTREAM",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "2020",
+   "reward": "4 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "ROYALTY",
+   "reward": "4 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "BGSSTREAM",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "RUBMLESTREAM",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "VALENTINE",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "HIDDENVIDEOCODE",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
+   "code": "BLIZZYRDBEST",
+   "reward": "3 Hours of 2x Luck"
+  },
+  {
+   "code": "STPATRICKLUCK",
+   "reward": "6 Hours of 2x Luck"
+  },
+  {
+   "code": "LUCKIEST",
+   "reward": "6 Hours of 2x Luck"
+  },
+  {
+   "code": "EASTER21",
+   "reward": "6 Hours of 2x Luck"
+  },
+  {
+   "code": "GLITCH",
+   "reward": "6 Hours of 2x Luck"
+  },
+  {
+   "code": "Spookivus",
+   "reward": "Spookivus"
+  },
+  {
+   "code": "800K",
+   "reward": "a Luck Boost"
+  },
+  {
+   "code": "Throwback",
+   "reward": "1 Infinity Elixir"
+  },
+  {
+   "code": "RumbleStream",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "update15",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ShadowRealm",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Toyland",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Update14",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "1MVisits",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "StPatricks21",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "900K",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "coolprobirthday",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HappyStPatricksDay",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "coolandpro5YEARS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "700K",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "600K",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Cake",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "YoureAClown",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ticketsohardwaaa",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SoulHeart",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "300Players",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "TilePainter",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Basilisk",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "100K",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HalloweenPt2Never",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SkibidiKingWhoGivesOutBlumpkins",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ReleaseAnd1KGone",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ImSkibidi",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HawkTuah",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Update1",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Free3xLuck",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SpookyInNovember",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FreeShiny",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FreeLuck",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "world3",
+   "reward": "Infinity Elixir"
+  },
+  {
+   "code": "fishe",
+   "reward": "Infinity Elixir"
+  },
+  {
+   "code": "update11",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "update10",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "update9",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "update8",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "update7",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "update6",
+   "reward": "Infinity 2 Elixir And 5 Mystery Box"
+  },
+  {
+   "code": "update5",
+   "reward": "Infinity 2 Elixir"
+  },
+  {
+   "code": "update4",
+   "reward": "Infinity 2 Elixir And 5 Mystery Box"
+  },
+  {
+   "code": "update2",
+   "reward": "5 Mystery Boxes"
+  },
+  {
+   "code": "sylentlyssorry",
+   "reward": "Rewards"
+  },
+  {
+   "code": "update3",
+   "reward": "Rewards"
+  },
+  {
+   "code": "easter",
+   "reward": "4 Mystery Boxes"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "A Mystery Box"
+  },
+  {
+   "code": "Lucky",
+   "reward": "Luck Potion V"
+  },
+  {
+   "code": "update13",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "FrostEgg",
+   "reward": "Frost Egg"
+  },
+  {
+   "code": "update12",
+   "reward": "2x Luck Boost"
+  },
+  {
+   "code": "SIRCFENNERISCOOL",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "GOLEMITE",
+   "reward": "the Twitter Golem Pet"
+  },
+  {
+   "code": "TWITTERRELEASE",
+   "reward": "the Twitter Doggy Pet"
+  },
+  {
+   "code": "TWITCHRELEASE",
+   "reward": "the Twitch Kitty Pet"
+  },
+  {
+   "code": "UPDATE16",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "SIRFENNERISCOOL",
+   "reward": "15 Minutes of 2x Luck"
+  },
+  {
+   "code": "THANKS",
+   "reward": "15 Minutes of 3x Shiny Chance"
+  },
+  {
+   "code": "FREESPEED",
+   "reward": "2 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "FREEDOMINUSPET",
+   "reward": "the Spookivus Pet"
+  },
+  {
+   "code": "MERCHANT",
+   "reward": "2 Hours of 2x Hatch Speed"
+  }
+ ],
+ "updated": "2026-08-13T15:38:36.168Z",
+ "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
+}

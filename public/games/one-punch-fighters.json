@@ -1,0 +1,264 @@
+{
+ "slug": "one-punch-fighters",
+ "name": "One Punch Fighters",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "Boosts"
+  },
+  {
+   "code": "72KLIKES",
+   "reward": "2 Experience elixir , 2 Exp Boosts , 2 Coin Boosts , 25 Hero Foods , 2"
+  },
+  {
+   "code": "Thx6KLikes",
+   "reward": "1 Gem Boost And 1 Damage Boost"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "Damage, Luck, Strength, And Coin Boost"
+  },
+  {
+   "code": "Thx5Mvisits",
+   "reward": "Damage, Luck, Strength, And Coin Boost"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "SUPERHALLOWEEN",
+   "reward": ""
+  },
+  {
+   "code": "MOCHI",
+   "reward": ""
+  },
+  {
+   "code": "STRING",
+   "reward": ""
+  },
+  {
+   "code": "UPDATE9",
+   "reward": ""
+  },
+  {
+   "code": "FridayCode",
+   "reward": ""
+  },
+  {
+   "code": "UpdateDay",
+   "reward": ""
+  },
+  {
+   "code": "ThxForSuport",
+   "reward": ""
+  },
+  {
+   "code": "OPF",
+   "reward": ""
+  },
+  {
+   "code": "OnePunch",
+   "reward": ""
+  },
+  {
+   "code": "BOOST",
+   "reward": ""
+  },
+  {
+   "code": "ShutdownForCorrection",
+   "reward": ""
+  },
+  {
+   "code": "thx11kplayers",
+   "reward": ""
+  },
+  {
+   "code": "Th6xKLikes",
+   "reward": ""
+  },
+  {
+   "code": "UPDATE102",
+   "reward": "2 Gems Boosts , 2 Luck Boosts , 2 Damage Boosts , 2 Exp Boosts , 2 Coi"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "2 Gems Boosts , 2 Luck Boosts , 2 Damage Boosts , 2 Exp Boosts , 2 Coi"
+  },
+  {
+   "code": "ONEMILLION",
+   "reward": "2 Gems Boosts , 2 Luck Boosts , 2 Damage Boosts , 2 Exp Boosts , 2 Coi"
+  },
+  {
+   "code": "DEFENSE",
+   "reward": "2 Gems Boosts , 2 Luck Boosts , 2 Damage Boosts , 2 Exp Boosts , 2 Coi"
+  },
+  {
+   "code": "UPDATE9BUGFIX",
+   "reward": "5 Gem Boosts, 5 Damage Boosts, 5 Luck Boosts, 5 Strength Boosts, 5 Coi"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "5 Pumpkins"
+  },
+  {
+   "code": "UPDATE8",
+   "reward": "5 Gem Boosts, 5 Damage Boosts, 5 Luck Boosts, 5 Strength Boosts, 5 Coi"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "5 Gem Boosts, 5 Damage Boosts, 5 Luck Boosts, 5 Strength Boosts, 5 Coi"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "2 of All Boosts"
+  },
+  {
+   "code": "THX75KFAVORITES",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "THX50KSUBSTWITTER",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "THX15MVISITS",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "SIXPART2",
+   "reward": "All Boosts"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "5 Gem Boosts, 5 Damage Boosts, 5 Luck Boosts, 5 Strength Boosts, 5 Coi"
+  },
+  {
+   "code": "UPDATE6BUGFIX",
+   "reward": "3 XP Elixir, 3 Coins Elixir, 3 Luck Elixir, 3 Gem Elixir and 3 Strengt"
+  },
+  {
+   "code": "FREE_EXP",
+   "reward": "5 XP Elixir and 5 XP Boosts"
+  },
+  {
+   "code": "FREE_COINS",
+   "reward": "5 Coin Boosts"
+  },
+  {
+   "code": "FREE_GEM",
+   "reward": "5 Gem Boosts"
+  },
+  {
+   "code": "FREE_LUCK",
+   "reward": "a 5 Luck Boost and 5 Elixir"
+  },
+  {
+   "code": "45KLIKES",
+   "reward": "1 Gems Boost , 1 Exp Boost , 1 Damage Boost , 1 Luck Boost , 1 Strengt"
+  },
+  {
+   "code": "FREE_LEVEL",
+   "reward": "25 Fruit Elixir"
+  },
+  {
+   "code": "FREE_STR",
+   "reward": "5 Strength Elixir"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "3 Gems Boosts , 3 Luck Boosts , 3 Damage Boosts , 3 Exp Boosts , 3 Coi"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "1 Gems Boost , 1 Luck Boost , 1 Damage Boost , 1 Exp Boost , 1 Coins B"
+  },
+  {
+   "code": "UPDATE5BUGFIX",
+   "reward": "1 Elixir"
+  },
+  {
+   "code": "FREE_BOROS",
+   "reward": "the Awakened Boros Hero"
+  },
+  {
+   "code": "FREE_PAITAMA",
+   "reward": "the Awakened Paitama Hero"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "1 Elixir , 1 Gems Boost , 1 Exp Boost , 1 Damage Boost , 1 Luck Boost "
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "4 Luck Boost"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "1 Gems Boost , 1 Luck Boost , 1 Damage Boost , 1 Exp Boost , 1 Coins B"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "1 Elixir , 1 Exp Boost , 1 Coins Boost , 1 Gems Boost , 1 Luck Boost a"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "1 Gems Boost , 1 Exp Boost , 1 Damage Boost , 1 Luck Boost , 1 Strengt"
+  },
+  {
+   "code": "thx1Mvisits",
+   "reward": "1 Damage Boost, 1 Strength Boost, 1 Luck Boost, 1 Gem Boost and 1 Coin"
+  },
+  {
+   "code": "quiz",
+   "reward": "2 Damage Boosts and 1 Luck Boost"
+  },
+  {
+   "code": "Welcome",
+   "reward": "2 Damage Boosts, 2 Strength Boosts, 2 Luck Boosts and 2 Coin Boosts"
+  },
+  {
+   "code": "launchEve",
+   "reward": "1 Damage Boost and 1 Coin Boost"
+  },
+  {
+   "code": "thx1kplayers",
+   "reward": "1 Damage Boost, 1 Strength Boost, 1 Luck Boost and 1 Coin Boost"
+  },
+  {
+   "code": "thx4kplayers",
+   "reward": "1 Damage Boost, 1 Strength Boost, 1 Luck Boost and 1 Coin Boost"
+  },
+  {
+   "code": "thx100likes",
+   "reward": "1 Damage Boost and 1 Strength Boost"
+  },
+  {
+   "code": "ThxYoutubers",
+   "reward": "2 Damage Boosts, 2 Coin Boosts, 1 Luck Boost and 1 Strength Boost"
+  },
+  {
+   "code": "strengthRating",
+   "reward": "1 Strength Boost"
+  },
+  {
+   "code": "Thx1500kLikes",
+   "reward": "1 Damage Boost, 1 Strength Boost, 1 Luck Boost, 1 Gem Boost and 1 Coin"
+  },
+  {
+   "code": "Thx7KFollows",
+   "reward": "1 Damage Boost, 1 Strength Boost, 1 Luck Boost, 1 Gem Boost and 1 Coin"
+  },
+  {
+   "code": "Thx3KLikes",
+   "reward": "1 Damage Boost, 1 Strength Boost, 1 Luck Boost, 1 Gem Boost and 1 Coin"
+  }
+ ],
+ "updated": "2026-08-13T15:36:06.969Z",
+ "source": "https://robloxden.com/game-codes/one-punch-fighters"
+}

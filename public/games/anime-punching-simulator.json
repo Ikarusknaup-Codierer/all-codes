@@ -1,0 +1,632 @@
+{
+ "slug": "anime-punching-simulator",
+ "name": "Anime Punching Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "GonGonLindao",
+   "reward": "1,250 Energy"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "80KVISITS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "250KVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "MASTER",
+   "reward": "1,250 Energy"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "4MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "VAGNERGAMES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "BOLINHOBLOX",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "10MVISITS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "50KFAVS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "35KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "HERO",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "DREAMZINHO",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "14MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "HUNTER",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "70KFAVS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "45KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "16MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "TIGRETV",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "TIGRETVGEMS",
+   "reward": "a 2x Gems Boost"
+  },
+  {
+   "code": "GONGONLIDAO",
+   "reward": "1,250 Energy"
+  },
+  {
+   "code": "80KFAVS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "20MVISITS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "55KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "OPENSAMU",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "FAIRY",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "22MVISITS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "60KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "BENTOYT",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "65KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "25MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "VALENTINE",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "OPM",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "PLIQUE",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "KINGISAQT",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "70KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "30MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "100KFAVS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "JOHNSVEN",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "NECROBR",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "JAKEPUDDING",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "110KFAVS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "75KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "CLOVER",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "BRONZERBR",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "80KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "90KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "130KFAVS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "SAO",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "MEQUIS",
+   "reward": "a 2x Gems Boost"
+  },
+  {
+   "code": "TAVIOZERA",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "JUSTZACK",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "EMPERADORMAXI",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "105KLIKES",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "150KFAVS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "40MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "TGOH",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "SONTY",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "DARKBLOX",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "110KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "50MVISITS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "160KFAVS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "DERPMONSTERZ",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "55MVISITS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "180KFAVS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "125KLIKES",
+   "reward": "a 2x Gems Boost"
+  },
+  {
+   "code": "60MVISITS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "130KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "190KFAVS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "200KFAVS",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "140KLIKES",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "65MVISITS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "8MVISITS",
+   "reward": "a 2x Practice Boost"
+  },
+  {
+   "code": "BUGSFIXED",
+   "reward": "2 Common Chests , 2 Chest Keys , 1 Super Energy Potion , and 1 Rare Ch"
+  },
+  {
+   "code": "FREELUCK",
+   "reward": "15 Minutes x2 Luck Boost"
+  },
+  {
+   "code": "6KLIKES",
+   "reward": "15 Minutes x2 Practice Boost"
+  },
+  {
+   "code": "4KFAVS",
+   "reward": "15 Minutes x2 Energy Boost"
+  },
+  {
+   "code": "UPD4",
+   "reward": "15 Minutes x2 Damage Boost"
+  },
+  {
+   "code": "SORRYFORSHUT5",
+   "reward": "10,000 Elixer"
+  },
+  {
+   "code": "SORRYFORSHUT4",
+   "reward": "5,000 Elixir"
+  },
+  {
+   "code": "SORRYFORSHUT3",
+   "reward": "5,000 Elixir"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "3,000 Elixir"
+  },
+  {
+   "code": "2KFAVS",
+   "reward": "15 Minutes x2 Luck Boost"
+  },
+  {
+   "code": "400KVISITS",
+   "reward": "15 Minutes x2 Energy Boost"
+  },
+  {
+   "code": "UPD3",
+   "reward": "15 Minutes x2 Energy Boost"
+  },
+  {
+   "code": "SORRYFORSHUT2",
+   "reward": "3,000 Elixir"
+  },
+  {
+   "code": "1500LIKES",
+   "reward": "1,500 Elixir"
+  },
+  {
+   "code": "2000LIKES",
+   "reward": "1,000 Elixir"
+  },
+  {
+   "code": "1500FAVS",
+   "reward": "x2 Luck Boost (15min)"
+  },
+  {
+   "code": "SORRYFORSHUT",
+   "reward": "1,000 Elixir"
+  },
+  {
+   "code": "1KFAVS",
+   "reward": "1,000 Elixir"
+  },
+  {
+   "code": "1000LIKES",
+   "reward": "x2 Energy Boost (15min)"
+  },
+  {
+   "code": "100LIKES",
+   "reward": "x2 Energy Boost (15min)"
+  },
+  {
+   "code": "NEWCODE170KLIKES",
+   "reward": ""
+  },
+  {
+   "code": "FIXEDAVATARS12",
+   "reward": "2 Talent Points , 2 Reset Stats , 2 Super Energy , 1 Divine Chest , 10"
+  },
+  {
+   "code": "FIXEDBUGS13",
+   "reward": "2 Talent Points , 2 Reset Stats , 2 Super Energy , 1 Divine Chest , 10"
+  },
+  {
+   "code": "FIXEDTELEPORTS",
+   "reward": "1 Reset Stat , 2 Divine Stones , 2 Family Stones , and 100 Trial Coins"
+  },
+  {
+   "code": "ANIMEPUNCH2",
+   "reward": "2 Talent Points , 2 Reset Stats , 2 Super Energy , 1 Divine Chest , 10"
+  },
+  {
+   "code": "UPDATE13",
+   "reward": "1 Reset Stat , 2 Divine Stones , 2 Family Stones , and 100 Trial Coins"
+  },
+  {
+   "code": "UPDATE12",
+   "reward": "2 Talent Points , 2 Reset Stats , 2 Super Energy , 1 Divine Chest , 10"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "1 City Key , 1 Damage Potion , and 2 Super Energy Potion"
+  },
+  {
+   "code": "ClassFix",
+   "reward": "1 Reset Stats , 2 Divine Stone , 2 Family Stone , and 100 Trial Coins"
+  },
+  {
+   "code": "miniupdate",
+   "reward": "1 Energy Potion , 1 Raid Ticket , and 1 Invasion Key"
+  },
+  {
+   "code": "VISUALFIXES",
+   "reward": "Freebies"
+  },
+  {
+   "code": "Update8",
+   "reward": "2 Talent Points , 2 Reset Stats , 2 Super Energy Potion , 1 Divine Che"
+  },
+  {
+   "code": "TrialMediumFix",
+   "reward": "Freebies"
+  },
+  {
+   "code": "HAPPYEASTER",
+   "reward": "1 Reset Stats"
+  },
+  {
+   "code": "SORRYSHUTDOWNCURSE",
+   "reward": "Freebies"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "1 Reset Stats and 1 Super Energy Potion"
+  },
+  {
+   "code": "Update7",
+   "reward": "1 Reset Stats , 2 Divine Stone , 2 Family Stone , and 100 Trial Coins"
+  },
+  {
+   "code": "FIXEDEXPANSIONHP",
+   "reward": "Freebies"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "2 Skill Essence , 1 Reset Stats , and 1 Super Energy Potion"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "1 Energy Potion and 1 Gems Potion"
+  },
+  {
+   "code": "RIMUREBUG",
+   "reward": "Freebies"
+  },
+  {
+   "code": "FIXEDRELICS",
+   "reward": "Freebies"
+  },
+  {
+   "code": "15MVISITS",
+   "reward": "2 Talent Points , 1 Reset Stats , 1 Super Energy Potion , 1 Divine Che"
+  },
+  {
+   "code": "Update4",
+   "reward": "2 Skill Essence and 1 Super Energy Potion"
+  },
+  {
+   "code": "UPDATE11",
+   "reward": "2 Reset Stats"
+  },
+  {
+   "code": "DefaultAmazing",
+   "reward": "2 Talent Points , 2 Reset Stats , and 2 Super Energy Potion"
+  },
+  {
+   "code": "TrialNerf",
+   "reward": "5 Talent Points , 2 Skill Essence , and 1 Super Energy Potion"
+  },
+  {
+   "code": "Update2",
+   "reward": "2 Common Chest , 2 Chest Key , and 1 Super Energy Potion"
+  },
+  {
+   "code": "SorryForShutdown",
+   "reward": "1 City Key , 1 Damage Potion , and 1 Super Energy Potion"
+  },
+  {
+   "code": "Delay6",
+   "reward": "1 Talent Point , 1 Reset Stats , 1 Super Energy Potion , and 10 Trial "
+  },
+  {
+   "code": "KAGUNESFIX",
+   "reward": "2 Skill Essence and 1 Super Energy Potion"
+  },
+  {
+   "code": "sorryshutpls",
+   "reward": "1 Super Energy Potion and 1 Damage Potion"
+  },
+  {
+   "code": "TrialFix",
+   "reward": "1 Reset Stats , 2 Skill Essence , and 1 Super Energy Potion"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "1 Damage Potion , 1 Super Energy Potion , and 1 Old Paper"
+  },
+  {
+   "code": "BUFFEDEGGS",
+   "reward": "Freebies"
+  },
+  {
+   "code": "UPDATE9",
+   "reward": "Freebies"
+  },
+  {
+   "code": "Update6",
+   "reward": "2 Talent Points , 2 Reset Stats , 2 Super Energy Potion , 1 Leveling C"
+  },
+  {
+   "code": "9KLIKES",
+   "reward": "15 Minutes x2 Practice Boost"
+  },
+  {
+   "code": "UPD5",
+   "reward": "15 Minutes x2 Damage Boost"
+  },
+  {
+   "code": "FREEDAMAGE2",
+   "reward": "15 Minutes x2 Damage Boost"
+  },
+  {
+   "code": "FREEENERGY2",
+   "reward": "15 Minutes x2 Energy Boost"
+  },
+  {
+   "code": "FREELUCK2",
+   "reward": "15 Minutes x2 Luck Boost"
+  },
+  {
+   "code": "5KFAVS",
+   "reward": "15 Minutes x2 Luck Boost"
+  },
+  {
+   "code": "SORRYFORSHUT6",
+   "reward": "10,000 Elixir"
+  },
+  {
+   "code": "MINIUPD",
+   "reward": "15 Minutes x2 Practice Boost"
+  },
+  {
+   "code": "FREEDAMAGE",
+   "reward": "15 Minutes x2 Damage Boost"
+  },
+  {
+   "code": "FREEENERGY",
+   "reward": "15 Minutes x2 Energy Boost"
+  },
+  {
+   "code": "SORRYFORLATE",
+   "reward": "2x Gems Boost"
+  },
+  {
+   "code": "THX70M",
+   "reward": "2x Practice Boost"
+  },
+  {
+   "code": "QSH5",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "250 Energy"
+  }
+ ],
+ "updated": "2026-08-13T15:35:28.525Z",
+ "source": "https://robloxden.com/game-codes/anime-punching-simulator"
+}

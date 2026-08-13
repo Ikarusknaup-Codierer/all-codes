@@ -1,0 +1,32 @@
+{
+ "slug": "weapon-kit",
+ "name": "Weapon Kit",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "25K",
+   "reward": "100 Gold"
+  },
+  {
+   "code": "PACKS",
+   "reward": "100 Gold"
+  },
+  {
+   "code": "COMMUNITY",
+   "reward": "50 Gold"
+  },
+  {
+   "code": "TEAMPLAYER",
+   "reward": "100 Gold"
+  },
+  {
+   "code": "FREESKIN",
+   "reward": "Free"
+  }
+ ],
+ "updated": "2026-08-13T15:36:27.214Z",
+ "source": "https://robloxden.com/game-codes/weapon-kit"
+}

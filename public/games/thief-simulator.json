@@ -1,0 +1,32 @@
+{
+ "slug": "thief-simulator",
+ "name": "Thief Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "50MIL",
+   "reward": "15,000 Cash"
+  },
+  {
+   "code": "eveningtime",
+   "reward": "Changes the Time of Day to 6:00 PM"
+  },
+  {
+   "code": "nighttime",
+   "reward": "Changes the Time of Day to 0:00 AM"
+  },
+  {
+   "code": "solazy",
+   "reward": "Skips Objectives in the Story Missions"
+  },
+  {
+   "code": "epicitem",
+   "reward": "3K Cash"
+  }
+ ],
+ "updated": "2026-08-13T15:36:59.396Z",
+ "source": "https://robloxden.com/game-codes/thief-simulator"
+}

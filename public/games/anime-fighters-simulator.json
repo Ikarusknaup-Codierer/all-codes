@@ -1,0 +1,300 @@
+{
+ "slug": "anime-fighters-simulator",
+ "name": "Anime Fighters",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "WISTORIA",
+   "reward": "50 Wand Shards"
+  },
+  {
+   "code": "MAGICACADEMY",
+   "reward": "3 Luck Boosts , 3 Damage Boosts , and 3 Drop Boosts"
+  },
+  {
+   "code": "13FIGHTERS",
+   "reward": "75 Passive Tokens and 100 Requiem Tokens"
+  },
+  {
+   "code": "RAIDREADY",
+   "reward": "3 Mysterious Keys and 25 Heavenly Fruits"
+  },
+  {
+   "code": "THANKYOU96",
+   "reward": "50 Cursed Orbs , 25 Heavenly Fruits , and 5 Passive Transfer Tokens"
+  },
+  {
+   "code": "BUGHUNTERS",
+   "reward": "50 Wand Shards , 3 Damage Boosts , and 3 Luck Boosts"
+  },
+  {
+   "code": "GROUNDED",
+   "reward": "75 Passive Tokens and 25 Heavenly Fruits"
+  },
+  {
+   "code": "REBIRTHSHOP",
+   "reward": "100 Cursed Orbs and 50 Heavenly Fruit"
+  },
+  {
+   "code": "SHOPFIXED",
+   "reward": "5 Mega Luck Boosts and 5 Mega Drops Boosts"
+  },
+  {
+   "code": "PASSIVESFIXED",
+   "reward": "500 Requiem Tokens , 250 Passive Tokens , and 50 Passive Transfer Toke"
+  },
+  {
+   "code": "REQUIEMSORRY",
+   "reward": "750 Requiem Tokens"
+  },
+  {
+   "code": "BUGSQUASHED",
+   "reward": "5 Mega Passive Luck Boost and 5 Mega Luck Boost"
+  },
+  {
+   "code": "THANKSFORPATIENCE",
+   "reward": "150 Cursed Orb and 75 Heavenly Fruit"
+  },
+  {
+   "code": "JULY4TH",
+   "reward": "200 Heavenly Fruit and 200 Cursed Orbs"
+  },
+  {
+   "code": "FIREWORKS!",
+   "reward": "5 of every Mega Boost"
+  },
+  {
+   "code": "FREEDOM",
+   "reward": "250 Cursed Orbs"
+  },
+  {
+   "code": "DOUBLEPASSIVES!",
+   "reward": "10 Mega Passive Luck Boosts"
+  },
+  {
+   "code": "SUMMERSALE30",
+   "reward": "10 Shiny Boosts and 10 Titan Summons"
+  },
+  {
+   "code": "UPD95!",
+   "reward": "2,000 of every Fragment"
+  },
+  {
+   "code": "REDWHITEBLUE",
+   "reward": "100 Heavenly Fruit"
+  },
+  {
+   "code": "SPARKLER",
+   "reward": "5 Mysterious Keys"
+  },
+  {
+   "code": "SorryForEarlyShutDown",
+   "reward": "5 Mega Drop Boost , 5 Mega Time Boost , and 5 Mega Passive Lucky Boost"
+  },
+  {
+   "code": "HappyNewYear!",
+   "reward": "500 Cursed Orbs"
+  },
+  {
+   "code": "AFSX_2026",
+   "reward": "7 Passive Time Boosts"
+  },
+  {
+   "code": "NEWYEAR2026",
+   "reward": "10 Shiny Potions"
+  },
+  {
+   "code": "OPM_UPDATE",
+   "reward": "2K All Fragments"
+  },
+  {
+   "code": "AFS_CHRISTMAS",
+   "reward": "7 Mega Passive Luck Boosts"
+  },
+  {
+   "code": "HAPPY_HOLIDAYS",
+   "reward": "300 Cursed Orbs"
+  },
+  {
+   "code": "AFSX_SOON",
+   "reward": "10 Shiny Boosts"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "7 Mega Passive Luck Boosts"
+  },
+  {
+   "code": "IncubatorBuffs",
+   "reward": "5 Mega Time Boosts"
+  },
+  {
+   "code": "GoldenWind",
+   "reward": "100 Cursed Orbs"
+  },
+  {
+   "code": "ThisIsRequiem",
+   "reward": "2k All Fragments"
+  },
+  {
+   "code": "IncubatorIsBack",
+   "reward": "5 Mega Passive Time Boosts"
+  },
+  {
+   "code": "PainInvasion",
+   "reward": "100 Cursed Orbs"
+  },
+  {
+   "code": "DokjaIsHere",
+   "reward": "2k All Fragments"
+  },
+  {
+   "code": "MajorBugFix",
+   "reward": "5 Mega Passive Luck Boosts"
+  },
+  {
+   "code": "CLEANERSHIDEOUT!",
+   "reward": "10,000 Requiem Reroll Tokens, 20 Cursed Orbs, And 10,000 Purple Frags"
+  },
+  {
+   "code": "GACHIAKUTA!",
+   "reward": "35 Cursed Orbs, 15 Mega Passive Luck Boosts, And 25 Demonic Fruits"
+  },
+  {
+   "code": "newdivinesoon!",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "PhantomsHideout!",
+   "reward": "15 Shiny Potions And 25 Heavenly Fruits"
+  },
+  {
+   "code": "World72!",
+   "reward": "25 Cursed Orbs, 5 Demonic Fruits, And 5 Anniversary Gates"
+  },
+  {
+   "code": "PhantomTroupe",
+   "reward": "5 Easter Luck Boosts, 10 Easter Drop Boosts, And 5,000 Requiem Passive"
+  },
+  {
+   "code": "PRISMATICS!",
+   "reward": "Tokens And Boosts"
+  },
+  {
+   "code": "SakamotoDays!",
+   "reward": "15 Shiny Potions And 25 Heavenly Fruits"
+  },
+  {
+   "code": "AssassinsPark!",
+   "reward": "25 Transfer Tokens, 5,000 Requiem Passive Tokens, And 5 Demonic Fruits"
+  },
+  {
+   "code": "WORLD71!",
+   "reward": "25 Cursed Orbs, 10 Shiny Potions, And 5 Anniversary Gates"
+  },
+  {
+   "code": "AFSXOTW!",
+   "reward": "1,000 Summer Tokens, 10 Easter Drop Boosts, And 5 Easter Luck Boosts"
+  },
+  {
+   "code": "FIREFORCE!",
+   "reward": "10 Shiny Pots, 50 Cursed Orbs, 25 Transfer Passive Tokens, And 5,000 R"
+  },
+  {
+   "code": "SUMMERTOKENFIX!",
+   "reward": "1,000 Summer Tokens, 5 Easter Passive Luck Boosts, And 10 Easter Drop "
+  },
+  {
+   "code": "AFSXSOON!!",
+   "reward": "10 Shiny Pots, 50 Cursed Orbs, 1 Limit Broke One Strike Man, And 5,000"
+  },
+  {
+   "code": "AFSCOMBACK!",
+   "reward": "10,000 Requiem Reroll Tokens, 20 Cursed Orbs, And 10,000 Purple Frags"
+  },
+  {
+   "code": "SUMMEREVENT!",
+   "reward": "35 Cursed Orbs, 15 Mega Passive Luck Boosts, And 250 Heavenly Fruits"
+  },
+  {
+   "code": "BOSSSTUDIOSUMMER!",
+   "reward": "15,000 Requiem Reroll Tokens, 25 Mega Passive Luck Boosts, And 8,000 P"
+  },
+  {
+   "code": "SECRETSUMMERCODE!",
+   "reward": "50 Cursed Orbs, 10 Mega Passive Luck Boosts, 200 Heavenly Fruits, And "
+  },
+  {
+   "code": "BPxEVENT!",
+   "reward": "Tokens And Boosts"
+  },
+  {
+   "code": "YOUTUBEBACK!!",
+   "reward": "10,000 Purple Fragments , 200 Demonic Fruits , 10,000 Requiem Tokens a"
+  },
+  {
+   "code": "Bundles!",
+   "reward": "50 Cursed Orbs and 5,000 Requiem Tokens"
+  },
+  {
+   "code": "LagFixed!",
+   "reward": "25 Passive Transfer Tokens , 5 Shiny Boosts and 2 Demonic Tokens"
+  },
+  {
+   "code": "UPDATE71!",
+   "reward": "2 Passive Transfer Tokens , 3 Sacred Gold Ingots , 5 Easter Time Boost"
+  },
+  {
+   "code": "ChallengerArrival!",
+   "reward": "2 Easter Luck Boosts , 2 Easter Time Boosts , 2 Passive Transfer Token"
+  },
+  {
+   "code": "UPD70!",
+   "reward": "5 Easter Luck Boosts , 5 Easter Time Boosts , 2 Passive Transfer Token"
+  },
+  {
+   "code": "Sorry4Maintenance!",
+   "reward": "8 Passive Transfer Tokens , 5 Easter Time Boosts (30 minutes) , 4 Demo"
+  },
+  {
+   "code": "UPD69!",
+   "reward": "5 Passive Transfer Tokens , 7 Easter Time Boosts (30 minutes) , 1 Demo"
+  },
+  {
+   "code": "SorryQuest!",
+   "reward": "5 Passive Transfer Tokens , 5 Demonic Fruits , 3 Easter Time Boosts (3"
+  },
+  {
+   "code": "UPD68!",
+   "reward": "5 Passive Transfer Tokens , 3 Easter Time Boosts (30 minutes) , 3 East"
+  },
+  {
+   "code": "OopsieWhoopsie",
+   "reward": "3 Passive Transfer Tokens , 3 Easter Time Boosts , 3 Easter Passive Lu"
+  },
+  {
+   "code": "UPD67!",
+   "reward": "5 Passive Transfer Tokens , 3 Easter Time Boosts (30 minutes) , 3 East"
+  },
+  {
+   "code": "CalebsBDAY!",
+   "reward": "10 Easter Luck Boosts (30 minutes) , 10 Easter Time Boosts (30 minutes"
+  },
+  {
+   "code": "Update66!",
+   "reward": "5 Passive Transfer Tokens , 5 Easter Passive Luck Boosts (30 minutes) "
+  },
+  {
+   "code": "X7Weekend!",
+   "reward": "5 Easter Time Boosts (30 minutes) , 5 Easter Passive Luck Boosts (30 m"
+  },
+  {
+   "code": "OopsieDaisies!",
+   "reward": "5 Easter Time Boosts (30 minutes) , 5 Easter Passive Luck Boosts (30 m"
+  }
+ ],
+ "updated": "2026-08-13T15:36:08.823Z",
+ "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
+}

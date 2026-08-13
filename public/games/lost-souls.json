@@ -1,0 +1,352 @@
+{
+ "slug": "lost-souls",
+ "name": "Lost Souls",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "pond",
+   "reward": "50 Soul Crystals And 500 Coins"
+  },
+  {
+   "code": "eastVillage",
+   "reward": "25 Soul Crystals And 500 Coins"
+  },
+  {
+   "code": "AncientSecret",
+   "reward": "20 Soul Crystals And Garganta Summoner"
+  },
+  {
+   "code": "Dustless",
+   "reward": "20 Soul Crystals And 2 Cursed Essence"
+  },
+  {
+   "code": "DesertCastle",
+   "reward": "20 Soul Crystals And Shadow Essence"
+  },
+  {
+   "code": "HollowWorld",
+   "reward": "20 Soul Crystals And Glow Flower"
+  },
+  {
+   "code": "NewWorld",
+   "reward": "2 Standard Summon Tokens and 5,000 Coins"
+  },
+  {
+   "code": "thegate",
+   "reward": "50 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "crater",
+   "reward": "25 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "business",
+   "reward": "25 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "mansion",
+   "reward": "25 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "theschool",
+   "reward": "25 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "westVillage",
+   "reward": "25 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "happyriver",
+   "reward": "25 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "mountain",
+   "reward": "50 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "soulcity",
+   "reward": "50 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "release",
+   "reward": "100 Soul Crystals"
+  },
+  {
+   "code": "hike",
+   "reward": "25 Soul Crystals and 500 Coins"
+  },
+  {
+   "code": "SpecialMastery",
+   "reward": "Small SM Mastery Potion blueprint"
+  },
+  {
+   "code": "blueprints",
+   "reward": "+10% Character Exp Potion blueprint"
+  },
+  {
+   "code": "BattleArena",
+   "reward": "100 Soul Crystals"
+  },
+  {
+   "code": "500kVisits",
+   "reward": "100 Soul Crystals"
+  },
+  {
+   "code": "1kplayers",
+   "reward": "50 Soul Crystals"
+  },
+  {
+   "code": "4kplayers",
+   "reward": "100 Soul Crystals and 1 +50% Exp Potion"
+  },
+  {
+   "code": "APRIL",
+   "reward": "1,000 Clan Rerolls , 2,500 Aura Rerolls , and a Cosmetic"
+  },
+  {
+   "code": "codecodecodecode",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "emotefixagain",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "emotefix",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "shutdown3000",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "badvastolordes",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "superarrancar",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "merrychristmas",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "shutdown7002",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "400kvisitstyty",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "vastotime2",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "vastotime",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "shutdown7001",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "shutdown7000",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "arrancarkidotime",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "lesskidotime",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "kidotime",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "oopstwister",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "iamspeed",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "shutdown2",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "swords",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "emotes",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "hands",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "shutdown1",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "fixes",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "lightningcat",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "itsween",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "100ksalesthankyou!",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "4kmembers!",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "stuff5auracoloredition",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "stuff4part2",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "libraryofmid",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "lungething",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "espadamoment",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "stuff4",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "dumbhollows",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "badhollows",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "stuff3",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "stuff2",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "300kvisits!",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "raaaa",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "codetime",
+   "reward": "Rerolls"
+  },
+  {
+   "code": "thing",
+   "reward": "Rerolls , 2x EXP Boost , and Vouchers"
+  },
+  {
+   "code": "infiniteshutdowns",
+   "reward": "2 Clan Reroll , 3 Mythic Vouchers and 100 Hollow Kills"
+  },
+  {
+   "code": "shutdownhi",
+   "reward": "10 of every Reroll"
+  },
+  {
+   "code": "stuff",
+   "reward": "10 of every Reroll"
+  },
+  {
+   "code": "10kservermembers!",
+   "reward": "75 of every Reroll and 100 Callout"
+  },
+  {
+   "code": "invfixxdxd",
+   "reward": "10x Clan Reroll , 10x Power Reroll , 10x Zanpakuto Appearance Reroll ,"
+  },
+  {
+   "code": "invfixxd",
+   "reward": "10x Clan Reroll , 10x Power Reroll , 10x Zanpakuto Appearance Reroll ,"
+  },
+  {
+   "code": "invfix",
+   "reward": "35x Clan Reroll , 25x Power Reroll , 25x Zanpakuto Appearance Reroll ,"
+  },
+  {
+   "code": "joejoejoe",
+   "reward": "40x Clan Reroll , 25x Power Reroll , 25x Zanpakuto Appearance Reroll ,"
+  },
+  {
+   "code": "vastoupdatesoon",
+   "reward": "15x Clan Reroll , 25x Power Reroll , 25x Zanpakuto Appearance Reroll ,"
+  },
+  {
+   "code": "hollowspeakagain",
+   "reward": "15x Clan Rerolls"
+  },
+  {
+   "code": "3kgroupmembers",
+   "reward": "5x of every Rerolls"
+  },
+  {
+   "code": "lotsofstuff",
+   "reward": "50x Clan Reroll , 25x Power Reroll , 25x Zanpakuto Appearance Reroll ,"
+  },
+  {
+   "code": "quincybetter",
+   "reward": "25x Clan Rerolls and 100x Aura Color Rerolls"
+  },
+  {
+   "code": "rukiaisbetterthanyoruichi",
+   "reward": "50x Clan Reroll , 25x Power Reroll , 25x Zanpakuto Appearance Reroll ,"
+  },
+  {
+   "code": "rukiabestgirlagain",
+   "reward": "65 Clan Reroll , 25 Power/name/mask/zanpakuto appearance Reroll , and "
+  },
+  {
+   "code": "rukiabestgirl",
+   "reward": "10x Clan Reroll , 5x Power Reroll , 5x Zanpakuto Appearance Reroll , 5"
+  },
+  {
+   "code": "100k",
+   "reward": "10x Clan Reroll , 5x Power Reroll , 5x Zanpakuto Appearance Reroll , 5"
+  },
+  {
+   "code": "wowhi",
+   "reward": "25x Clan Reroll , 25x Power Reroll , 2x double EXP (1 hour) booster , "
+  }
+ ],
+ "updated": "2026-08-13T05:56:33.114Z",
+ "source": "https://robloxden.com/game-codes/lost-souls"
+}

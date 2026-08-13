@@ -1,0 +1,60 @@
+{
+ "slug": "pirate-s-destiny",
+ "name": "Pirate's Destiny",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SORRY2FRAGS",
+   "reward": "5 Rare Fragments"
+  },
+  {
+   "code": "SORRYFRAGS",
+   "reward": "3 Leg Fragments"
+  },
+  {
+   "code": "SHUTDOWNFRAGS",
+   "reward": "5 Rare Fragments"
+  },
+  {
+   "code": "SHUTDOWNLEGFRAGS",
+   "reward": "3 Legendary Fragments"
+  },
+  {
+   "code": "SORRYRESET",
+   "reward": "Stat Reset"
+  },
+  {
+   "code": "SHUTDOWNDESTINYRESET",
+   "reward": "Stat Reset"
+  },
+  {
+   "code": "SHUTDOWNDESTINYXP",
+   "reward": "Double XP For One Hour"
+  },
+  {
+   "code": "SORRYXP",
+   "reward": "Double XP For 15 Minutes"
+  },
+  {
+   "code": "RELEASEXP",
+   "reward": "Double XP Boost For 30 Minutes"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "Stat Reset"
+  },
+  {
+   "code": "SHUTDOWNSTATS",
+   "reward": "Stat Reset"
+  },
+  {
+   "code": "SORRYLAG",
+   "reward": "Stat Reset"
+  }
+ ],
+ "updated": "2026-08-13T05:56:26.595Z",
+ "source": "https://robloxden.com/game-codes/pirate-s-destiny"
+}

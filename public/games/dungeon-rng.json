@@ -1,0 +1,32 @@
+{
+ "slug": "dungeon-rng",
+ "name": "Dungeon RNG",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "NoPotionLag",
+   "reward": "2 Leprechaun Potions"
+  },
+  {
+   "code": "Easter2026",
+   "reward": "2 Leprechaun Potions"
+  },
+  {
+   "code": "Winter2026",
+   "reward": "5 Leprechaun Potions"
+  },
+  {
+   "code": "TrickOrTreat",
+   "reward": "1 Magic Potion"
+  },
+  {
+   "code": "Halloween",
+   "reward": "3 Magic Potions"
+  }
+ ],
+ "updated": "2026-08-13T05:58:16.853Z",
+ "source": "https://robloxden.com/game-codes/dungeon-rng"
+}

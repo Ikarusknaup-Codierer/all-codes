@@ -1,0 +1,996 @@
+{
+ "slug": "project-blue-lock",
+ "name": "Project: Blue Lock",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "BALL",
+   "reward": "rewards"
+  },
+  {
+   "code": "WANTSOMESPINS",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "READYFORSHIDOU",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "WINSOMEGAMES",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "WEBACK",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "20SPINS",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "BLUESTAR",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "BOTTLEOFWATER",
+   "reward": "50 Lucky Spins"
+  },
+  {
+   "code": "CHEEKYTUESDAYS",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "THEHUGOS",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "SANYA",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "GOTOPARIS",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "WORLDSFRENCH",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "HUGOWUGO",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "LORENZOSFX",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "HOMELESS",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "PLEASEINEEDTHIS",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "LORENZO",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SIX",
+   "reward": "6 Lucky Spins"
+  },
+  {
+   "code": "SEVEN",
+   "reward": "7 Lucky Spins"
+  },
+  {
+   "code": "RUNINBEHIND",
+   "reward": ""
+  },
+  {
+   "code": "BIYCYCLEKICK",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LAVINHOUUPDATE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ITOSHIRIN",
+   "reward": "3 Lucky Spins"
+  },
+  {
+   "code": "PBL2TWITTER",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "CURVESHOTS",
+   "reward": "35 Lucky Spins"
+  },
+  {
+   "code": "SECONDDAYPBL",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "FIRSTDAYPBL",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "RABBIT",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "HOPPING",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "BUNNY",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "PBL2OPENTESTTOMORROW",
+   "reward": "30 Lucky Spins"
+  },
+  {
+   "code": "IGLESIAS",
+   "reward": "15 Spins"
+  },
+  {
+   "code": "PBL2TEST",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "PLAYTEST",
+   "reward": "5 Spins"
+  },
+  {
+   "code": "NANA",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "THEWORST",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "PBL2SOON",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "NANASE",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "NO24",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "NIGERIANMENACE",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "ONAJI",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "IAMSPEAK",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "CANTUSEREALNAME",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "NAIJA",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "SHARKY",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "PINKYSHARKY",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "IAMSHARK",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "KURONA",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "PINK",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "NJR",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "BARCATRAITOR",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "222M",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "BRAZILTOPSCORER",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "BRAZILIANMAESTRO",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "NELHIORI",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "MUNCHENSPLAYMAKER",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "HIOPIO",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SonImCrine2",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "COLDASICEEE",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "ENGLANDSFINEST",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "HURRICANE",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "ADAMBLAKE",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "HAPPYHOLIDAYS",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SonImCrine",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "WCBOTTLER",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "PENGWING",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "PENGUINNAGI",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "ANTARCTICA",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "PENGUINSTRIKA",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "PoopityDoopIsCold",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "THECOLDISAGI",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "POLARBEAR",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "TWITTERSAGI",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "ISAGIWINSAGI",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "FERNYSAGI",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "BRRRRRR",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "COLDOUTHERE2",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "MOUNTAINOFHAKONE2",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "WINTERRIN",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "WINTERSSEAT",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "COLDOUTHERE",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "MOUNTAINOFHAKONE",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "WINTERSAE",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "LEADERSROLE",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "BRRRRR",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "MILLIONBACKS",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "8BALLONDORS",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "THEREALGOAT",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "WORLDCUPWINNER",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "LIOOOOOOOOOOO",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "ICLISO2",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "FIRSTQOL",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "THEADAPTER",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "PUZZLESHATTER",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "FIRSTSTRIKER",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "ISAGIYOICHIDA",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "THANKYOUSOMUCH",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "CR7",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "SIUUU",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "PORTUGAL",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "GOALMACHINE",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "UNIT",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "CHAD",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "NELYUKIMIYA",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "ONEONONE",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "THEGLASSES",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "CANTSEEGUY",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "WHATAORANGE",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "SAYNOBUTYES",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "RAICHIWAICHI",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "COMEBACKSOON",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SHARK",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "RAICHIBIRD",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "WOTDOYOUMEAN",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "SAYNO",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "MITSU",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "MITSUBIRD",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "MUSCLEMUSCLE",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SORRYFORDELAYS",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "TOKI",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "FANUMTAX",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "MIDDOFIELDA",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "RIZZARD",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "ALEXIS",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "MAGICO",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "NESSTWITTA",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "CHRISBIRD",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "ICANDOTHISALLDAYLIKEITAINTNOTHING",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "BLONDIE",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SRY4DELAY",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "PERFECT",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "2NDBEST",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "FERNYLAZY",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SALSAPOT",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "VERY4DELAY",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "TWITTERCODE",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "NAGISEISHIRO",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "LAZYPAZY",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "VERYNAGI",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "WHITE",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "NAGIBIRD",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "RAINBOWBIRD",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "PABLOREWORK",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "PASTEL",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "CAVACAVA",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "FRECKLES",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "NO2LOL",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "NOIDEALOL",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "GLAM",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "KUROWURO",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "NOIDEALO",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "GOODMORNINGGIFT",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "BUGFIXEDYEAH",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "PINKY",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "AMPRO",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "CRIMSONBIRD",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "PANTHER",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "REDHAIR",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "NO2LO",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "WATERBOTTLE",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "IPHONE14",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SORRY4IT",
+   "reward": "15 Normal Spins"
+  },
+  {
+   "code": "BAROUBIRDY",
+   "reward": "Lucky Spins"
+  },
+  {
+   "code": "NELKING",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "KYONKYON",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "THEBEAST",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "OREWAKING",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "ZANTETSU",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "LIGHTNINGZAN",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "TWITTERZANTETSU",
+   "reward": "3 Lucky Spins"
+  },
+  {
+   "code": "THUNDAA",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "LIGHTNINGFAST",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "SUPAHERO",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "YouWelcome",
+   "reward": "3 Lucky Spins"
+  },
+  {
+   "code": "POWERMUSCLES",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "TWITTERKUNI",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "STRIKA",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "NOELNOA",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "MUNCHENBIRD",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "NO1",
+   "reward": "20 Normal Spins"
+  },
+  {
+   "code": "FRENCHSTRIKER",
+   "reward": "20 Normal Spins"
+  },
+  {
+   "code": "ACCURATE",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "CHARLES",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "NO6",
+   "reward": "20 Normal Spins"
+  },
+  {
+   "code": "ISEEYOU",
+   "reward": "20 Normal Spins"
+  },
+  {
+   "code": "FRENCHTWEET",
+   "reward": "20 Normal Spins"
+  },
+  {
+   "code": "COPYCAT",
+   "reward": "3 Lucky Spins"
+  },
+  {
+   "code": "TWITTERANALYST",
+   "reward": "3 Lucky Spins"
+  },
+  {
+   "code": "NIKOUPDATE",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "MYBADGANG",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "DISCOURAGE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "WORLD5SBEST",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LADYKILLER",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SPAIN",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SPANISHTWITTER",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "RUNINBEBEHIND",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FOLLOWUSONTWITTER",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "NELKUNIGAMI",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "FOOTBALLSENSOR",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "DEFENSEKING",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "HIORIUPDATE",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "COLDINHERE",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "ICYBIRD",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "TWITTERHIORI",
+   "reward": "3 Lucky Spins"
+  },
+  {
+   "code": "NELRIN",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "SPEEDBIRD",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "TOOSLOW",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "LOKIDOKI",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "LOKIREWORK",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "NO5",
+   "reward": "20 Normal Spins"
+  },
+  {
+   "code": "AMFAST",
+   "reward": "20 Normal Spins"
+  },
+  {
+   "code": "OTOYA",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "NINJA",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "NINJABIRD",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "NO4",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "INVISIBLE",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "SORRYKARASU",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "SORRY4BUG",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "KARASU",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "ASSASSIN",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "CROWBIRD",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "SHADOW",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "AUGH",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "MUSCLES",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "ORANGE",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "GYMBRO",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "HERO",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "10MILLY",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "WOWNOWAY",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "KAISERBIRD",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "KAISERIMPACT!",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "GERMANY",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "EMPERORSREWORK",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "NEWGEN11",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "SUBSZ",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "FLYDAY",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "RYUU",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "NELSHIDOU",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "YUKITWITTER",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "GLASSES",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "MILESTONE",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "MOREFOLLOWERS",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "BICYCLEKICK",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "ZLATAN",
+   "reward": "30 Spins"
+  }
+ ],
+ "updated": "2026-08-13T05:52:37.646Z",
+ "source": "https://robloxden.com/game-codes/project-blue-lock"
+}

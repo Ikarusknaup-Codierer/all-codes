@@ -1,0 +1,36 @@
+{
+ "slug": "rate-my-car",
+ "name": "Rate My Car",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "DRIVINGSOON",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "17KLIKES",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "400K",
+   "reward": "300 Cash"
+  },
+  {
+   "code": "SECRET",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "RMC",
+   "reward": "250 Cash"
+  }
+ ],
+ "updated": "2026-08-13T05:54:49.191Z",
+ "source": "https://robloxden.com/game-codes/rate-my-car"
+}

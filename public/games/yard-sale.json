@@ -1,0 +1,36 @@
+{
+ "slug": "yard-sale",
+ "name": "Yard Sale",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SUMMER",
+   "reward": "a Summer Box"
+  },
+  {
+   "code": "GODLY",
+   "reward": "3 Godly Boxes"
+  },
+  {
+   "code": "OP",
+   "reward": "1 OP Box"
+  },
+  {
+   "code": "UNKNOWN",
+   "reward": "3 Unknown Boxes"
+  },
+  {
+   "code": "CELESTIAL",
+   "reward": "2 Celestial Boxes"
+  },
+  {
+   "code": "EARLY",
+   "reward": "3 Premium Boxes"
+  }
+ ],
+ "updated": "2026-08-13T05:53:17.903Z",
+ "source": "https://robloxden.com/game-codes/yard-sale"
+}

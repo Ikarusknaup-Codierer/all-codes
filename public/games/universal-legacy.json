@@ -1,0 +1,216 @@
+{
+ "slug": "universal-legacy",
+ "name": "Universal Legacy",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UniIsBack",
+   "reward": "200K Gems, 25 Trait Rerolls, 25 Race Rerolls and 5M Yen"
+  },
+  {
+   "code": "1Year",
+   "reward": "365K Gems, 50 Trait Rerolls, 50 Race Rerolls and 10M Yen"
+  },
+  {
+   "code": "Warrior",
+   "reward": "250K Gems, 30 Trait Rerolls, 30 Race Rerolls and 5M Yen"
+  },
+  {
+   "code": "SorryforMonterBug",
+   "reward": "15,000 Gems and 500,000 Yen"
+  },
+  {
+   "code": "EdoTensei",
+   "reward": "107,000 Gems and 2,500,000 Yen"
+  },
+  {
+   "code": "BounceMan",
+   "reward": "203,331 Gems and 2,033,331 Yen"
+  },
+  {
+   "code": "ThirdBlade",
+   "reward": "203,331 Gems and 2,033,331 Yen"
+  },
+  {
+   "code": "Magico",
+   "reward": "203,331 Gems and 2,033,331 Yen"
+  },
+  {
+   "code": "SorryForbugBounceMan",
+   "reward": "203,331 Gems and 2,033,331 Yen"
+  },
+  {
+   "code": "SorryForDungeonBug",
+   "reward": "Gems and Yen"
+  },
+  {
+   "code": "SorryForBugLoading",
+   "reward": "Gems and Yen"
+  },
+  {
+   "code": "GoldenKing",
+   "reward": "Freebies"
+  },
+  {
+   "code": "DarkHero",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryForDelayy",
+   "reward": "Freebies"
+  },
+  {
+   "code": "DelayySorry",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "ArmamentForceV2",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "EmperorBlade",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "TheHistoryone",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Mechmaru",
+   "reward": "50,000 Gems and 500,000 Cash"
+  },
+  {
+   "code": "HeavenlyBond",
+   "reward": "67,000 Gems and 670,000 Cash"
+  },
+  {
+   "code": "SorryForUpdateDelayyy",
+   "reward": "67,000 Gems and 670,000 Cash"
+  },
+  {
+   "code": "SorryForResever",
+   "reward": "200,000 Gems and 2,000,000 Yen"
+  },
+  {
+   "code": "Frame",
+   "reward": "50,000 Gems and 500,000 Yen"
+  },
+  {
+   "code": "UpdateDelayyy",
+   "reward": "60,000 Gems and 600,000 Yen"
+  },
+  {
+   "code": "67Atomic",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryforHunterBug",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MytheryBook",
+   "reward": "2 Mythery Books"
+  },
+  {
+   "code": "TheHunter",
+   "reward": "80,000 Gems and 800,000 Yen"
+  },
+  {
+   "code": "WorldBoss",
+   "reward": "500,000 Yen and 4 Lucky Trait Rerolls"
+  },
+  {
+   "code": "SorryDelayy",
+   "reward": "50,000 Gems and 500,000 Yen"
+  },
+  {
+   "code": "Decay",
+   "reward": "80,000 Gems and 800,000 Yen"
+  },
+  {
+   "code": "Explode",
+   "reward": "Gems"
+  },
+  {
+   "code": "NINTH",
+   "reward": "50,000 Gems and 450,000 Yen"
+  },
+  {
+   "code": "Betrayer",
+   "reward": "5,000 Gems and 250,000 Yen"
+  },
+  {
+   "code": "DeathScythe",
+   "reward": "5,000 Gems and 250,000 Yen"
+  },
+  {
+   "code": "delayy",
+   "reward": "25,000 Gems and 150,000 Yen"
+  },
+  {
+   "code": "sorryforbalance",
+   "reward": "50,000 Gems and 150,000 Yen"
+  },
+  {
+   "code": "Tire",
+   "reward": "3,000 Gems"
+  },
+  {
+   "code": "Atomic",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "TurboExorcistV2",
+   "reward": "10,000 Gems"
+  },
+  {
+   "code": "TurboExorcistUpdate",
+   "reward": "15,000 Gems"
+  },
+  {
+   "code": "WBiboss_Family",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "WBonus",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "WAerxz_OV",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "NewGameMode",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "DelayCode",
+   "reward": "15,000 Gems"
+  },
+  {
+   "code": "sorryforbug",
+   "reward": "15,000 Gems"
+  },
+  {
+   "code": "Cursedborn",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "bibossnumber1",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "GHOUL",
+   "reward": "Gems"
+  },
+  {
+   "code": "STORAGEUPGRADE",
+   "reward": "Gems"
+  }
+ ],
+ "updated": "2026-08-13T05:53:13.714Z",
+ "source": "https://robloxden.com/game-codes/universal-legacy"
+}

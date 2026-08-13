@@ -1,0 +1,260 @@
+{
+ "slug": "avatar-fighting-simulator",
+ "name": "Avatar Fighting Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UPDATE15",
+   "reward": "5 Coins Potions VI, 5 Gems Potions VI, 5 Damage Potions VI, 5 Lucky Po"
+  },
+  {
+   "code": "X3EVENT",
+   "reward": "3 Coins Potions VI, 3 Gems Potions VI, 3 Damage Potions VI, 3 Lucky Po"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "15,000 Gems, Gems Potion, Damage Potion, Luck Potion, and Coins Potion"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "500 Gems and Coins Potion"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "500 Gems and Damage Potion"
+  },
+  {
+   "code": "ARISE",
+   "reward": "3 Coins Potions VI, 1 Gems Potion VI, 3 Damage Potions VI, 3 Lucky Pot"
+  },
+  {
+   "code": "SMITE",
+   "reward": "A Dev Gift"
+  },
+  {
+   "code": "35KLIKES",
+   "reward": "1 Coins Potion VI, 1 Gems Potion VI, 1 Damage Potion VI, And 1 Lucky P"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "2 Coins Potions, 2 Gems Potions, 2 Damage Potions, And 2 Luck Potions"
+  },
+  {
+   "code": "10KFAVORITES",
+   "reward": "2 Lucky Potions V, 2 Gems Potions V, 2 Damage Potions V, And 2 Coins P"
+  },
+  {
+   "code": "7KLIKES",
+   "reward": "15K Gems, Gems Potion, Damage Potion, Luck Potion, And Coins Potion"
+  },
+  {
+   "code": "SORRYFORDELAY1",
+   "reward": "500 Gems, 1 Lucky Potion III, 1 Gems Potion III, 1 Damage Potion III, "
+  },
+  {
+   "code": "SORRYFORDELAY2",
+   "reward": "500 Gems And Damage Potion"
+  },
+  {
+   "code": "700KVISITS",
+   "reward": "500 Gems And Coins Potion"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "1K Gems, Gems Potion, Damage Potion, And Luck Potion"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "1K Gems, Gems Potion, Damage Potion, And Luck Potion"
+  },
+  {
+   "code": "300KVISITS",
+   "reward": "500 Gems And A Gems Potion III"
+  },
+  {
+   "code": "FREEHUGE",
+   "reward": "Huge 80K Chick Pet"
+  },
+  {
+   "code": "UPDATE18",
+   "reward": "5 Coins Potions VI , 5 Gems Potions VI , 5 Damage Potions VI , 5 Lucky"
+  },
+  {
+   "code": "BRAINROT",
+   "reward": "3 Coins Potions VI , 3 Gems Potions VI , 3 Damage Potions VI , 3 Lucky"
+  },
+  {
+   "code": "UPDATE16",
+   "reward": "3 Coins Potions VI , 3 Gems Potions VI , 3 Damage Potions VI , 3 Lucky"
+  },
+  {
+   "code": "TRADEPLAZA",
+   "reward": "4 Coins Potions VI , 4 Gems Potions VI , 4 Damage Potions VI , 4 Lucky"
+  },
+  {
+   "code": "10M",
+   "reward": "4 Coins Potions , 4 Gems Potions , 4 Damage Potions , and 4 Luck Potio"
+  },
+  {
+   "code": "70KLIKES",
+   "reward": "3 Coins Potions , 1 Gems Potion , 3 Damage Potions , and 3 Luck Potion"
+  },
+  {
+   "code": "EID",
+   "reward": "2 Coins Potions , 2 Gems Potions , 2 Damage Potions , and 2 Luck Potio"
+  },
+  {
+   "code": "UPDATE11",
+   "reward": "All Potions"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "200 Exp"
+  },
+  {
+   "code": "7MVISITS",
+   "reward": "Coins Potion VI , Gems Potion VI , Damage Potion VI , Lucky Potion VI "
+  },
+  {
+   "code": "SOSORRYFORDELAY",
+   "reward": "Coins Potion VI , Gems Potion VI , Damage Potion VI , Lucky Potion VI "
+  },
+  {
+   "code": "UPDATE9",
+   "reward": "Coins Potion VI , Gems Potion VI , Damage Potion VI , Lucky Potion VI "
+  },
+  {
+   "code": "FREEXP",
+   "reward": "150 Exp"
+  },
+  {
+   "code": "IceRewards221",
+   "reward": "2 Coins Potions , 2 Gems Potions , 2 Damage Potions , and 2 Luck Potio"
+  },
+  {
+   "code": "FreePotions321",
+   "reward": "2 Coins Potions , 2 Gems Potions , 2 Damage Potions , and 2 Luck Potio"
+  },
+  {
+   "code": "FreeRewards101",
+   "reward": "2 Coins Potions , 2 Gems Potions , 2 Damage Potions , and 2 Luck Potio"
+  },
+  {
+   "code": "UPDATE8",
+   "reward": "3 Coins Potions VI , 3 Gems Potions VI , 3 Damage Potions VI , 3 Lucky"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "Coins Potion VI , Gems Potion VI , Damage Potion VI , Lucky Potion VI "
+  },
+  {
+   "code": "6MVISITS",
+   "reward": "2 Coins Potions , 2 Gems Potions , 2 Damage Potions , and 2 Luck Potio"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "2 Coins Potions VI , 2 Gems Potions VI , 2 Damage Potions VI , 2 Lucky"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "2 Coins Potions VI , 2 Gems Potions VI , 2 Damage Potions VI , 2 Lucky"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "2 Coin Potions, 2 Gem Potions, 2 Damage Potions and 2 Luck Potions"
+  },
+  {
+   "code": "EXCLUSIVES",
+   "reward": "2 Coin Potions, 2 Gem Potions, 2 Damage Potions and 2 Luck Potions"
+  },
+  {
+   "code": "COLOSSALS",
+   "reward": "2 Coin Potions, 2 Gem Potions, 2 Damage Potions and 2 Luck Potions"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "2 Coin Potions, 2 Gem Potions, 2 Damage Potions, 2 Luck Potions and 1 "
+  },
+  {
+   "code": "SORRYFORRESTARTS",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion, 1 Luck Potion and 1 Shar"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion, 1 Luck Potion and 2 Shar"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion, 1 Luck Potion and 1 Shar"
+  },
+  {
+   "code": "4MVISITS",
+   "reward": "2 Coin Potions, 2 Gem Potions, 2 Damage Potions, 2 Luck Potions and 5 "
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion and 1 Luck Potion"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion and 1 Luck Potion"
+  },
+  {
+   "code": "Winter",
+   "reward": "1 Blizzard Potion and 1 Exclusive Crate"
+  },
+  {
+   "code": "PART2",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion and 1 Luck Potion"
+  },
+  {
+   "code": "HAPPY2025",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion and 1 Luck Potion"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion and 1 Luck Potion"
+  },
+  {
+   "code": "ENCHANT",
+   "reward": "2 Coin Potions, 2 Gem Potions, 2 Damage Potions and 2 Luck Potions"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "2 Coin Potions, 2 Gem Potions, 2 Damage Potions and 2 Luck Potions"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "5 Coin Potions, 5 Gem Potions, 5 Damage Potions and 5 Luck Potions"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "2 Coin Potions, 2 Gem Potions, 2 Damage Potions and 2 Luck Potions"
+  },
+  {
+   "code": "SOON!",
+   "reward": "6 Coin Potions, 6 Gem Potions, 6 Damage Potions, 6 Luck Potions and 2 "
+  },
+  {
+   "code": "7KMEMBERS",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion and 1 Luck Potion"
+  },
+  {
+   "code": "100KMEMBERS",
+   "reward": "1 Coin Potion, 1 Gem Potion, 1 Damage Potion and 1 Luck Potion"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "3 Coin Potions, 3 Gem Potions, 3 Damage Potions, 3 Luck Potions and 2 "
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "3 Coin Potions, 3 Gem Potions, 3 Damage Potions, 3 Luck Potions and 1 "
+  }
+ ],
+ "updated": "2026-08-13T05:54:48.677Z",
+ "source": "https://robloxden.com/game-codes/avatar-fighting-simulator"
+}

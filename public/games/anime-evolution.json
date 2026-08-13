@@ -1,0 +1,240 @@
+{
+ "slug": "anime-evolution",
+ "name": "Anime Evolution",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SOLARECLIPSE",
+   "reward": "50 Coins, 2 Eclipse Energy Potions, 2 Eclipse Souls Potions and 2 Ecli"
+  },
+  {
+   "code": "WORLD37",
+   "reward": "50 Coins, 2 Eclipse Energy Potions, 2 Eclipse Souls Potions and 2 Ecli"
+  },
+  {
+   "code": "ARMOR",
+   "reward": "10 Coper Ingots, 5 Steel Ingots, 3 Holy Steel Ingots, 2 Angel Feathers"
+  },
+  {
+   "code": "WORLD36",
+   "reward": "2 Summer Energy Potions, 2 Summer Souls Potions, 2 Summer Damage Potio"
+  },
+  {
+   "code": "SUMMER",
+   "reward": "2 Of Each Potions and 50 Coins"
+  },
+  {
+   "code": "WORLD35",
+   "reward": "2 Of Each Potions and 50 Coins"
+  },
+  {
+   "code": "WORLD34",
+   "reward": "2 Of Each Potions and 50 Coins"
+  },
+  {
+   "code": "WORLD33",
+   "reward": "2 Of Each Potions and 50 Coins"
+  },
+  {
+   "code": "VALENTINEPART2",
+   "reward": "1 Damage Potion , 3 Weapon Crystals , and 10 Raid Keys"
+  },
+  {
+   "code": "FIX22",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "VALENTINE",
+   "reward": "1 Damage Potion , 3 Weapon Crystals , and 10 Raid Keys"
+  },
+  {
+   "code": "TRADE",
+   "reward": "1 Damage Potion , 3 Weapon Crystals , and 10 Raid Keys"
+  },
+  {
+   "code": "FIX21",
+   "reward": "1 Damage Potion , 3 Weapon Crystals , and 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE34",
+   "reward": "1 Damage Potion , 3 Weapon Crystals , and 10 Raid Keys"
+  },
+  {
+   "code": "120KLIKES",
+   "reward": "1 Damage Potion , 3 Weapon Crystals , and 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE33PART2",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE33",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE32",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "RELICS",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE31",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE30",
+   "reward": "Freebies"
+  },
+  {
+   "code": "115KLIKES",
+   "reward": "Freebies"
+  },
+  {
+   "code": "NEWYEARPART3",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "FIX19",
+   "reward": "Freebies"
+  },
+  {
+   "code": "BATTLEPASS",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "DELAY3",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "2026",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "NEWYEARPART2",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "FIX18",
+   "reward": "Freebies"
+  },
+  {
+   "code": "FIX17",
+   "reward": "Freebies"
+  },
+  {
+   "code": "NEWYEARPART1",
+   "reward": "Freebies"
+  },
+  {
+   "code": "UPDATE29",
+   "reward": "Potions"
+  },
+  {
+   "code": "110KLIKES",
+   "reward": "Potions"
+  },
+  {
+   "code": "FRUITS",
+   "reward": "Freebies"
+  },
+  {
+   "code": "GRANDSEA",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "24WORLD",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE27",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "SAYANVALLEY",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "ADMINABUSE",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "105KLIKES",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE26",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "SMALLFIX",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "UPDATE25",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "400KFAVORITES",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "95KLIKES",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "91KLIKE",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "92KLIKE",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "93KLIKE",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "94KLIKE",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
+  },
+  {
+   "code": "90KLIKE",
+   "reward": "1 Damage Potion, 1 Power Potion, 1 Super Power Potion, 1 Souls Potion "
+  },
+  {
+   "code": "75KLIKE",
+   "reward": "1 Power Potion , 2 Super Power Potions , and 25 Shadow Essence"
+  },
+  {
+   "code": "50KLIKE",
+   "reward": "1 Super Power Potion , 2 Power Potions , and 25 Shadow Essence"
+  },
+  {
+   "code": "35KLIKE",
+   "reward": "3 Weapon Crystals , 1 Damage Potion , and 10 Raid Keys"
+  },
+  {
+   "code": "10000LIKE",
+   "reward": "1 Souls Potion and 1 Power Potion"
+  },
+  {
+   "code": "20000LIKE",
+   "reward": "1 Power Potion and 10 Weapon Crystals"
+  }
+ ],
+ "updated": "2026-08-13T05:53:55.140Z",
+ "source": "https://robloxden.com/game-codes/anime-evolution"
+}

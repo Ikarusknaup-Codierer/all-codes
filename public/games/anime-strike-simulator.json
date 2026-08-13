@@ -1,0 +1,420 @@
+{
+ "slug": "anime-strike-simulator",
+ "name": "Anime Strike Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "RETURNFIXES",
+   "reward": "Potions, Crystals, Jewels, And Several Other In-Game Items"
+  },
+  {
+   "code": "DROPS",
+   "reward": "Potions, Crystals, Jewels, And Several Other In-Game Items"
+  },
+  {
+   "code": "LOVEYOU",
+   "reward": "Potions, Crystals, Jewels, And Several Other In-Game Items"
+  },
+  {
+   "code": "UPD36",
+   "reward": "Potions, Crystals, Jewels, And Several Other In-Game Items"
+  },
+  {
+   "code": "THERETURN",
+   "reward": "Potions, Crystals, Jewels, And Several Other In-Game Items"
+  },
+  {
+   "code": "OFSTRIKE",
+   "reward": "Potions, Crystals, Jewels, And Several Other In-Game Items"
+  },
+  {
+   "code": "WEAREBACK",
+   "reward": "Potions, Crystals, Jewels, And Several Other In-Game Items"
+  },
+  {
+   "code": "UPD30",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SOWY4DELAY",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "GALAXY2",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "SUMMERBUGFIXES",
+   "reward": "500 Milk Boxes , 500 Death Links , 500 Dark Slimes , 500 Eminence Star"
+  },
+  {
+   "code": "THEHATCH",
+   "reward": "10 Shiny Potions , 500 Strike Crowns , 10 Super Drops Potions , 10 Sup"
+  },
+  {
+   "code": "UPD34",
+   "reward": "500 Milk Boxes , 500 Death Links , 500 Dark Slimes , 500 Eminence Star"
+  },
+  {
+   "code": "SUMMEREVENT",
+   "reward": "500 Milk Boxes , 500 Death Links , 500 Dark Slimes , 500 Eminence Star"
+  },
+  {
+   "code": "UPD32FIXES",
+   "reward": "1 Shiny Potion , 25 Cursed Fingers , 500 Steaks , 3 Super Drops Boosts"
+  },
+  {
+   "code": "UPD33",
+   "reward": "20,000 Trial Crystals , 500 Steak , 500 Strike Crowns , 1 Shiny Potion"
+  },
+  {
+   "code": "UPD32",
+   "reward": "500 Gun Ammo , 3,000 Flow Power , 25,000 Scrolls of Armaments , 20,000"
+  },
+  {
+   "code": "UPD31",
+   "reward": "20,000 Legendary Flames , 20,000 Trial Crystals , 3,000 Flow Power , 2"
+  },
+  {
+   "code": "SentinelFixed",
+   "reward": "20,000 Legendary Flames , 20,000 Trial Crystals , 3,000 Flow Power , 2"
+  },
+  {
+   "code": "UPD30FIXES",
+   "reward": "20,000 Legendary Flames , 20,000 Trial Crystals , 3,000 Flow Power , 2"
+  },
+  {
+   "code": "UPD29",
+   "reward": "20,000 Legendary Flames , 20,000 Trial Crystals , 3,000 Flow Power , 2"
+  },
+  {
+   "code": "FixedInfPotionsVisual",
+   "reward": "20,000 Legendary Flames , 20,000 Trial Crystals , 3,000 Flow Power , 2"
+  },
+  {
+   "code": "ETHEREALAUTOSELLING",
+   "reward": "20,000 Legendary Flames , 20,000 Trial Crystals , 3,000 Flow Power , 2"
+  },
+  {
+   "code": "GALAXYFIXES",
+   "reward": "20,000 Legendary Flames , 6,400 Scrolls of Armaments , 20,000 Trial Cr"
+  },
+  {
+   "code": "UPDATE27",
+   "reward": "300 Flow Powers , 150 Soccer Balls , 500 Strike Crowns , 150 Warrior H"
+  },
+  {
+   "code": "26UPDATES!!",
+   "reward": "500 Strike Crowns , 150 Warrior Helmets , 150 Servant Cards , 30 Saint"
+  },
+  {
+   "code": "Fixesupd26",
+   "reward": "150 Warrior Helmets , 150 Servant Cards , 30 Saint Pearls , 100 Firetr"
+  },
+  {
+   "code": "THXFOR225KLIKES",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HalloweenUpdate",
+   "reward": "rewards"
+  },
+  {
+   "code": "TYSM1MILLIONVISITS!!!",
+   "reward": "rewards"
+  },
+  {
+   "code": "UPDATE25",
+   "reward": "Rewards"
+  },
+  {
+   "code": "UPDATE8",
+   "reward": "Gems and Potions"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "200 Gems and All Potions"
+  },
+  {
+   "code": "UPD14",
+   "reward": "the Ghost , the UFO , and Nen Power"
+  },
+  {
+   "code": "UPDATE22",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FixesForUpd15",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "UPD15",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "UPDATE2!",
+   "reward": "200 Gems And All Potions"
+  },
+  {
+   "code": "ALREADY50KLIKES",
+   "reward": "100 Gems And All Potions"
+  },
+  {
+   "code": "UPDATE23",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "FIXEDLIMITRESET",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "UPD21PART1",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "UPD21FIXES",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "MINIFIXES",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "THXFOR110KLIKES4",
+   "reward": "3 Of All Potions"
+  },
+  {
+   "code": "OMG100KLIKES",
+   "reward": "100 Gems And All Potions"
+  },
+  {
+   "code": "UPDATE25FIXES",
+   "reward": "150 Servant Cards , 30 Saint Pearls , 100 Firetruck Toys , 100 God Tro"
+  },
+  {
+   "code": "UPDATE24",
+   "reward": "100 God Trophies , 100 Firetruck Toys , 100 Multiple Arrows , 100 Snow"
+  },
+  {
+   "code": "UPDATE23FIXES",
+   "reward": "100 Multiple Arrows , 100 Snowmen , 2,000 Winter Gloves , 2 Candy Cane"
+  },
+  {
+   "code": "UPDATE22Fixes",
+   "reward": "100 Snowmen , 2,000 Winter Gloves , 2 Candy Cane Bags , 100 Merlyn Gri"
+  },
+  {
+   "code": "XMAS_SHUTDOWN",
+   "reward": "200 Merlyn Grimoire , 100 Gingerbreads , 30 Xmas Balls , 150 Wreaths 5"
+  },
+  {
+   "code": "LASTSHUTTODAY",
+   "reward": "200 Merlyn Grimoire , 60 Xmas Balls , 150 Wreaths 500 Dark Stars , 200"
+  },
+  {
+   "code": "XMASUPDATE",
+   "reward": "500 Strike Crowns , 500 Dark Stars , 50 Xmas Tree Bells , 50 Gingerbre"
+  },
+  {
+   "code": "XMASFIXES",
+   "reward": "500 Dark Stars , 50 Xmas Tree Bells , 50 Gingerbreads , 100 Devil Chai"
+  },
+  {
+   "code": "UPD19",
+   "reward": "100 Devil Chains , 500 Devil Gems , 100 Apples , 150 Trial Crystals , "
+  },
+  {
+   "code": "UPD18",
+   "reward": "150 Trial Crystals , 100 Scrolls of Armamaent , 3 Tower Keys , 500 Str"
+  },
+  {
+   "code": "UPD17",
+   "reward": "500 Strike Crowns , 300 Slime Balls , 100 Meat , 60 Yggdrasil Shards ,"
+  },
+  {
+   "code": "SlimeBalls",
+   "reward": "300 Slime Balls , 100 Meat , 60 Yggdrasil Shards , 100 Nazare Rings , "
+  },
+  {
+   "code": "EXOTICUPDATE",
+   "reward": "100 Meat , 60 Yggdrasil Shards , 100 Nazare Rings , 250 Ghosts , 250 U"
+  },
+  {
+   "code": "UPD16Fixes",
+   "reward": "100 Meat , 60 Yggdrasil Shards , 100 Nazare Rings , 250 Ghosts , 250 U"
+  },
+  {
+   "code": "THXFOR225KLIKES!!",
+   "reward": "100 Nazare Rings , 30 Yggdrasil Shards , 250 Ghosts , 250 UFO's , 10,0"
+  },
+  {
+   "code": "THXFOR110KLIKES",
+   "reward": "100 Scary Bags , 1,000 Cobwebs , 250 Ghosts , 250 UFO's , 10,000 Nen P"
+  },
+  {
+   "code": "FixesUPD14",
+   "reward": "100 Scary Bags , 1,000 Cobweb , 2,500 Ghosts , 2,500 UFO's , 10,000 Ne"
+  },
+  {
+   "code": "BloodyPowerWorking",
+   "reward": "100 Scary Bags , 1,000 Cobwebs , 2,500 Ghosts , 2,500 UFO's , 10,000 N"
+  },
+  {
+   "code": "MINIMINIUPDATE",
+   "reward": "100 Ghosts , UFO , 1,000 Nen Power , 100 Online Medal , 500 Legendary "
+  },
+  {
+   "code": "UPD13",
+   "reward": "1,000 Nen Power , 100 Online Medal , 500 Legendary Flames , 100 Skulls"
+  },
+  {
+   "code": "FixedSomeBugs",
+   "reward": "500 Nen Power , 100 Online Medal , 500 Legendary Flames , 100 Skulls ,"
+  },
+  {
+   "code": "Update12",
+   "reward": "1,000 Nen Power , 100 Alien Ores , 100 Online Medal , 500 Legendary Fl"
+  },
+  {
+   "code": "SorryForShutdown",
+   "reward": "500 Legendary Flames , 100 Skulls , 100 Witch Hats , 100 Wizard Hats ,"
+  },
+  {
+   "code": "MoreFixes",
+   "reward": "100 Witch Hats , 100 Wizard Hats , 100 Mortars , 5 Vampire Spikes , 50"
+  },
+  {
+   "code": "HALLOWEENPART2",
+   "reward": "100 Witch Hats , 100 Wizard Hats , 100 Mortars , 100 Meteorite Shards "
+  },
+  {
+   "code": "FIXEDUPD11",
+   "reward": "100 Witch Hats , 100 Wizard Hats , 100 Mortars , 100 Meteorite Shards "
+  },
+  {
+   "code": "THXFOR75KLIKES",
+   "reward": "100 Witch Hats , 100 Wizard Hats , 100 Mortars , 100 Meteorite Shards "
+  },
+  {
+   "code": "FixedRaidBoss",
+   "reward": "10,000 Magic Crystals , 100 Meteorite Shards , 5 Vampire Spikes , 50 C"
+  },
+  {
+   "code": "FreddyBuff",
+   "reward": "10,000 Magic Crystals , 100 Meteorite Shards , 5 Vampire Spikes , 50 C"
+  },
+  {
+   "code": "HALLOWEENSTARTSNOW",
+   "reward": "100 Meteorite Shards , 5 Vampire Spikes , 50 Candy Pieces , 100 Mystic"
+  },
+  {
+   "code": "FIXEDMOBS",
+   "reward": "100 Meteorite Shards , 5 Vampire Spikes , 50 Candy Pieces , 100 Mystic"
+  },
+  {
+   "code": "UPDATE9FIXES",
+   "reward": "20 Gold Ingots , 100 Mystic Jewels , 100 Screws , 100 Fruit Bags , 100"
+  },
+  {
+   "code": "UPDATE9",
+   "reward": "20 Gold Ingots , 100 Mystic Jewels , 100 Screws , 100 Fruit Bags , 100"
+  },
+  {
+   "code": "UPDATE8PART2",
+   "reward": "20 Gold Ingots , 100 Mystic Jewels , 100 Screws , 100 Fruit Bags , 100"
+  },
+  {
+   "code": "UPDATE8FIXES",
+   "reward": "50 Gold Ingots , 200 Mystic Jewels , 100 Screws , 40 Fruit Bags , 5 St"
+  },
+  {
+   "code": "NerfedScrews",
+   "reward": "10 Titan Fluids , 100 Mystic Jewels , 100 Screws , 100 Fruit Bags , 20"
+  },
+  {
+   "code": "THXFOR30KLIKES",
+   "reward": "200 Magic Crystals , 10 Class Gems , 1 Damage Potion , 1 Power Potion "
+  },
+  {
+   "code": "THXFOR15KLIKES",
+   "reward": "100 Magic Crystals , 1 Damage Potion , 1 Power Potion , 1 Luck Potion "
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "100 Magic Crystals , 1 Damage Potion , 1 Power Potion , 1 Luck Potion "
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "100 Magic Crystals , 1 Damage Potion , 1 Power Potion , 1 Luck Potion "
+  },
+  {
+   "code": "THX10KLIKES",
+   "reward": "100 Magic Crystals , 1 Damage Potion , 1 Power Potion , 1 Luck Potion "
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "100 Magic Crystals , 1 Damage Potion , 1 Power Potion , 1 Luck Potion "
+  },
+  {
+   "code": "FixBugs",
+   "reward": "100 Magic Crystals , 1 Damage Potion , 1 Power Potion , 1 Luck Potion "
+  },
+  {
+   "code": "Release",
+   "reward": "1 Damage Potion , 1 Power Potion , 1 Luck Potion and 1 Star Potion"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "100 Passive Rings , 50 Class Gems , 75 Released Souls , 1,000 Magic Cr"
+  },
+  {
+   "code": "GrimoiresFixed",
+   "reward": "100 Passive Rings , 50 Class Gems , 75 Released Souls , 1,000 Magic Cr"
+  },
+  {
+   "code": "THXFOR20KLIKES",
+   "reward": "200 Magic Crystals , 1 Damage Potion , 1 Power Potion , 1 Luck Potion "
+  },
+  {
+   "code": "FIXEDRAIDPATH",
+   "reward": "20 Mystic Jewels , 50 Fruit Bags , 50 DNA , 50 Class Gems , 1,000 Magi"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "20 Mystic Jewels , 50 Fruit Bags , 50 DNA , 50 Class Gems , 1,000 Magi"
+  },
+  {
+   "code": "UPDATE4FIXES",
+   "reward": "20 Mystic Jewels , 50 Fruit Bags , 50 DNA , 100 Class Gems , 1,000 Mag"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "50 Cloth , 50 Screws , 50 Mystic Jewels , 50 Fruit Bags , 50 DNA , 100"
+  },
+  {
+   "code": "UPDATE5FIXES2",
+   "reward": "150 Cloth , 3 Damage Potions , 3 Power Potions , 3 Luck Potions , 3 St"
+  },
+  {
+   "code": "UPDATE6FIXES",
+   "reward": "5,000 Magic Crystals"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "50 Mystic Jewels , 50 Screws , 50 Fruit Bags , 50 Cloth , 50 Kekkei Ey"
+  },
+  {
+   "code": "UPDATE5FIXES",
+   "reward": "50 Mystic Jewels , 50 Fruit Bags , 50 DNA , 100 Class Gems , 2,000 Mag"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "100 Mystic Jewels , 100 Screws , 100 Fruit Bags , 20 Cloth , 100 Kekke"
+  }
+ ],
+ "updated": "2026-08-13T05:58:54.956Z",
+ "source": "https://robloxden.com/game-codes/anime-strike-simulator"
+}

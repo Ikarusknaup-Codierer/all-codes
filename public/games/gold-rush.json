@@ -1,0 +1,32 @@
+{
+ "slug": "gold-rush",
+ "name": "Gold Rush",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "100Likes",
+   "reward": "1 Permanent Worker"
+  },
+  {
+   "code": "50Likes",
+   "reward": "1 Permanent Worker"
+  },
+  {
+   "code": "2000Likes",
+   "reward": "1 Permanent Worker"
+  },
+  {
+   "code": "500Likes",
+   "reward": "Big Luck Boost (10 minutes)"
+  },
+  {
+   "code": "1000Likes",
+   "reward": "Small Luck Boost (10 minutes)"
+  }
+ ],
+ "updated": "2026-08-13T05:56:09.256Z",
+ "source": "https://robloxden.com/game-codes/gold-rush"
+}

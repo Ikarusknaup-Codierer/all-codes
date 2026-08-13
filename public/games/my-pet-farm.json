@@ -1,0 +1,32 @@
+{
+ "slug": "my-pet-farm",
+ "name": "My Pet Farm",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "FromDiscord",
+   "reward": "5,000 Coins and 1 Diamond Rare Donkey"
+  },
+  {
+   "code": "Release",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "ILovePetFarm",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "EggUpdate",
+   "reward": "1 Diamond Rare Egg"
+  },
+  {
+   "code": "CoolEggCode",
+   "reward": "1 Rainbow Uncommon Egg"
+  }
+ ],
+ "updated": "2026-08-13T05:52:58.999Z",
+ "source": "https://robloxden.com/game-codes/my-pet-farm"
+}

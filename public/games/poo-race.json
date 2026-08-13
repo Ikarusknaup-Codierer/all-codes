@@ -1,0 +1,44 @@
+{
+ "slug": "poo-race",
+ "name": "Poo Race",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "delay1",
+   "reward": "5x Wins Boost"
+  },
+  {
+   "code": "Nature",
+   "reward": "10,000 Wins"
+  },
+  {
+   "code": "Update1",
+   "reward": "1.5x Wins Boost (40 minutes)"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1.5x Wins Boost (15 minutes)"
+  },
+  {
+   "code": "FreeBoost",
+   "reward": "1.5x Wins Boost (20 minutes)"
+  },
+  {
+   "code": "Description",
+   "reward": "1.5x Wins Boost (20 minutes)"
+  },
+  {
+   "code": "secretlol",
+   "reward": "2,500 Wins"
+  },
+  {
+   "code": "boostlong",
+   "reward": "1.5x Wins Boost (40 minutes)"
+  }
+ ],
+ "updated": "2026-08-13T05:56:23.354Z",
+ "source": "https://robloxden.com/game-codes/poo-race"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "my-npc-friend",
+ "name": "My NPC Friend",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "NPCSPAWN",
+   "reward": "100 Silver Tickets"
+  },
+  {
+   "code": "REALISTIC",
+   "reward": "40 Golden Tickets"
+  }
+ ],
+ "updated": "2026-08-13T05:55:13.540Z",
+ "source": "https://robloxden.com/game-codes/my-npc-friend"
+}

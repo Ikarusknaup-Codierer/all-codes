@@ -1,0 +1,280 @@
+{
+ "slug": "fishs-rng",
+ "name": "Fish's RNG",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Halloween",
+   "reward": "40 Cosmic Potions"
+  },
+  {
+   "code": "Heavenly",
+   "reward": "20 Magic Quartz"
+  },
+  {
+   "code": "Void",
+   "reward": "Freebies"
+  },
+  {
+   "code": "UPD4",
+   "reward": "20 Luck Potions"
+  },
+  {
+   "code": "6MVisits",
+   "reward": "Freebies"
+  },
+  {
+   "code": "DragonBalls",
+   "reward": "Freebies"
+  },
+  {
+   "code": "FixesBug",
+   "reward": "Freebies"
+  },
+  {
+   "code": "Summer",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SorryForMemeShark",
+   "reward": "30 Cosmic Potions"
+  },
+  {
+   "code": "4MVisits",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Axo1Year",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Easter",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Beru",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Mermaid",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "CTG7Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Aquarium",
+   "reward": "20 Magic Quartz"
+  },
+  {
+   "code": "Tom14Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "CTG10Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Lisa8kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SorryForLag",
+   "reward": "20 Luck Potions III"
+  },
+  {
+   "code": "DelayUPD",
+   "reward": "20 Magic Quartz"
+  },
+  {
+   "code": "Magma",
+   "reward": "20 Luck Potions III"
+  },
+  {
+   "code": "Nebula",
+   "reward": "10 Luck Potions III"
+  },
+  {
+   "code": "SorryForSirenShark",
+   "reward": "30 Cosmic Potions"
+  },
+  {
+   "code": "5MVisits",
+   "reward": "20 Luck Potions III"
+  },
+  {
+   "code": "SeaBunny",
+   "reward": "10 Cosmic Potions"
+  },
+  {
+   "code": "UPD3",
+   "reward": "10 Magic Quartz"
+  },
+  {
+   "code": "Lisa7kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Tom13Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "CTG9Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Crimson",
+   "reward": "10 Cosmic Potions"
+  },
+  {
+   "code": "CTG8Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Tom12Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Lisa4kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LuckOfMermaid",
+   "reward": "10 Cosmic Potions"
+  },
+  {
+   "code": "3M5Visits",
+   "reward": "10 Luck Potions III"
+  },
+  {
+   "code": "3MVisits",
+   "reward": "10 Luck Potions III"
+  },
+  {
+   "code": "Lisa3kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Tom9Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Aurora",
+   "reward": "5 Cooldown Potions III"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "20 Cooldown Potions III"
+  },
+  {
+   "code": "2M5Vistis",
+   "reward": "10 Luck Potions III"
+  },
+  {
+   "code": "Tom8Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "2MVisits",
+   "reward": "10 Luck Potions III"
+  },
+  {
+   "code": "Lisa2kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "CTG6Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "CTG4Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Tom7Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Lisa500followers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Tom5Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "CTG2Kfollowers",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ThrottleResolved",
+   "reward": "5 Gold Potions III"
+  },
+  {
+   "code": "700kVisits",
+   "reward": "2 Luck Potions III"
+  },
+  {
+   "code": "RuneRNG",
+   "reward": "5 Luck Potions III"
+  },
+  {
+   "code": "600kVisits",
+   "reward": "2 Luck Potions III"
+  },
+  {
+   "code": "AxoRNG",
+   "reward": "5 Cooldown Potions III"
+  },
+  {
+   "code": "2kActive",
+   "reward": "5 Cooldown Potions III"
+  },
+  {
+   "code": "1kActive",
+   "reward": "5 Luck Potions III"
+  },
+  {
+   "code": "500kVisits",
+   "reward": "2 Luck Potions III"
+  },
+  {
+   "code": "400kVisits",
+   "reward": "2 Luck Potions III"
+  },
+  {
+   "code": "300kVisits",
+   "reward": "2 Luck Potions III"
+  },
+  {
+   "code": "UPD2",
+   "reward": "100k Gold"
+  },
+  {
+   "code": "Valentine",
+   "reward": "10 Luck Potion III's"
+  },
+  {
+   "code": "800kVisits",
+   "reward": "2x Luck III Potions"
+  },
+  {
+   "code": "900kVisits",
+   "reward": "2x Luck III Potions"
+  },
+  {
+   "code": "2M5Visits",
+   "reward": "10x Luck III Potions"
+  },
+  {
+   "code": "1M5Visits",
+   "reward": "10x Luck III Potions"
+  }
+ ],
+ "updated": "2026-08-13T05:54:43.813Z",
+ "source": "https://robloxden.com/game-codes/fishs-rng"
+}

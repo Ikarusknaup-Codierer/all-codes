@@ -1,0 +1,304 @@
+{
+ "slug": "button-simulator-mania",
+ "name": "Button Simulator Mania",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "WOWUFOUNDIT",
+   "reward": "Free In-Game Rewards"
+  },
+  {
+   "code": "COOKINGDEVS",
+   "reward": "Free In-Game Rewards"
+  },
+  {
+   "code": "UPDATE11",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "NEWDEVS",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "LookAtMiningArea",
+   "reward": "25 Cash"
+  },
+  {
+   "code": "SorryForBugs",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "SorryForMassivesShutdown",
+   "reward": "1 2x Tokens Boost"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "1 2x Tokens Boost"
+  },
+  {
+   "code": "IHATEBUGS",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost and 2 2x Gems Boost"
+  },
+  {
+   "code": "EventWorld",
+   "reward": "2 2x Gems Boost"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "5 Tokens"
+  },
+  {
+   "code": "400KVISITS",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost and 2 2x Gems Boost"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "1 2x Stats Boost"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost and 2 2x Gems Boost"
+  },
+  {
+   "code": "600KVISITS",
+   "reward": "1 2x Tokens Boost"
+  },
+  {
+   "code": "700KVISITS",
+   "reward": "1 2x Gems Boost"
+  },
+  {
+   "code": "800KVISITS",
+   "reward": "1 2x Stats Boost"
+  },
+  {
+   "code": "SorryForTheInconvenience",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost , 2 2x Gems Boost"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "15 Ticket"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "2 2x Passive Luck Boosts"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost , 2 2x Gems Boost and 2 2x Passiv"
+  },
+  {
+   "code": "WWWUPDATE",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost , 2 2x Gems Boost and 2 2x Passiv"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "2 2x Gems Boost"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost , 2 2x Gems Boost and 2 2x Passiv"
+  },
+  {
+   "code": "DEADNOOB",
+   "reward": "20 Ticket"
+  },
+  {
+   "code": "LittlePatch",
+   "reward": "1 2x Tokens Boost and 2 2x Gems Boost"
+  },
+  {
+   "code": "UPDATE8",
+   "reward": "1 2x Stats Boost , 1 2x Tokens Boost , 2 2x Gems Boost and 2 2x Passiv"
+  },
+  {
+   "code": "ANEWSTORYSTARTING",
+   "reward": "15 Ticket"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "25 Tokens"
+  },
+  {
+   "code": "2MVISITSSOON",
+   "reward": "1 Ticket"
+  },
+  {
+   "code": "UPDATE9",
+   "reward": "2 2x Stats Boosts , 2 2x Tokens Boosts , 2 2x Gems Boosts and 2 2x Pas"
+  },
+  {
+   "code": "COMPETITIONEND",
+   "reward": "2 2x Stats Boosts , 2 2x Tokens Boosts , 2 2x Gems Boosts and 2 2x Pas"
+  },
+  {
+   "code": "TEHLEATTHENOOB",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "5kLikes!",
+   "reward": "rewards"
+  },
+  {
+   "code": "DelayIncremental",
+   "reward": "rewards"
+  },
+  {
+   "code": "Soon500kEvent",
+   "reward": "rewards"
+  },
+  {
+   "code": "NewUpdate",
+   "reward": "rewards"
+  },
+  {
+   "code": "VoidWorld",
+   "reward": "rewards"
+  },
+  {
+   "code": "GhoulaxAGod",
+   "reward": "rewards"
+  },
+  {
+   "code": "4KLikes",
+   "reward": "rewards"
+  },
+  {
+   "code": "EnergyWorld",
+   "reward": "50 Tickets"
+  },
+  {
+   "code": "RNGIsGoingBrrrr",
+   "reward": "150 Soul Fragments , 150 Passive Tokens , and 150 Crystal Tokens"
+  },
+  {
+   "code": "ShutdownnnAgainn",
+   "reward": "50 Soul Fragments"
+  },
+  {
+   "code": "TreeInFire",
+   "reward": "free rewards"
+  },
+  {
+   "code": "ThanksYallFor1MVisits",
+   "reward": "free rewards"
+  },
+  {
+   "code": "AFireBurst",
+   "reward": "free rewards"
+  },
+  {
+   "code": "SorryFarmers",
+   "reward": "free rewards"
+  },
+  {
+   "code": "GoFarm",
+   "reward": "free rewards"
+  },
+  {
+   "code": "TrialssssGoBrrrr",
+   "reward": "15 Crystal Tokens"
+  },
+  {
+   "code": "FarmUpdate",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "Cyber",
+   "reward": "25 Soul Fragments , 25 Passive Tokens , and 25 Crystal Tokens"
+  },
+  {
+   "code": "TicketsBack",
+   "reward": "400 Tickets"
+  },
+  {
+   "code": "TysmFor500kVisits",
+   "reward": "50 Crystal Tokens , 100 Passive Tokens , and 15 Tickets"
+  },
+  {
+   "code": "Japanese",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "250kVisits",
+   "reward": "5 Crystal Tokens"
+  },
+  {
+   "code": "Forge",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "DungeonUpdate",
+   "reward": "15 Crystal Tokens and 15 Passive Tokens"
+  },
+  {
+   "code": "SorryInfLoadingScreen",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "SpaceWorld",
+   "reward": "25 Passive Tokens"
+  },
+  {
+   "code": "SorryForThisNoobyMistake",
+   "reward": "Tokens"
+  },
+  {
+   "code": "BugBugBug",
+   "reward": "Tokens"
+  },
+  {
+   "code": "Easter2025",
+   "reward": "Tokens"
+  },
+  {
+   "code": "EasterShutdown",
+   "reward": "Tokens"
+  },
+  {
+   "code": "BackAfter1Year",
+   "reward": "25 Passive Tokens"
+  },
+  {
+   "code": "FollowDevs",
+   "reward": "5 Crystal Tokens"
+  },
+  {
+   "code": "30kGroupMembers",
+   "reward": "rewards"
+  },
+  {
+   "code": "6kLikes!",
+   "reward": "rewards"
+  },
+  {
+   "code": "10kFavs!",
+   "reward": "rewards"
+  },
+  {
+   "code": "5kFavs!",
+   "reward": "rewards"
+  },
+  {
+   "code": "11kMembers",
+   "reward": "rewards"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "150 Tokens"
+  }
+ ],
+ "updated": "2026-08-13T09:51:44.365Z",
+ "source": "https://robloxden.com/game-codes/button-simulator-mania"
+}

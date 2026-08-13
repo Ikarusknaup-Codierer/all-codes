@@ -1,0 +1,32 @@
+{
+ "slug": "popcorn-please",
+ "name": "Popcorn Please",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "FreePopcorn",
+   "reward": "500 Popcorn"
+  },
+  {
+   "code": "StarterEgg",
+   "reward": "A Starter Egg"
+  },
+  {
+   "code": "FromTheGroup",
+   "reward": "A Luck Boost For 5 Minutes, 25 Wins, And 1,000 Popcorn"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "50Wins",
+   "reward": "Free Rewards"
+  }
+ ],
+ "updated": "2026-08-13T09:50:08.577Z",
+ "source": "https://robloxden.com/game-codes/popcorn-please"
+}

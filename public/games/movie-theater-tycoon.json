@@ -1,0 +1,36 @@
+{
+ "slug": "movie-theater-tycoon",
+ "name": "Movie Theater Tycoon",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "CRAFTDGAMES",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "SUPERMEGAFRENZY",
+   "reward": "Frenzy (5 minutes)"
+  },
+  {
+   "code": "MOVIEMONEY",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "MEGAFRENZY",
+   "reward": "Frenzy (2 minutes)"
+  },
+  {
+   "code": "FRENZY",
+   "reward": "Frenzy (1 minute)"
+  }
+ ],
+ "updated": "2026-08-13T09:49:24.386Z",
+ "source": "https://robloxden.com/game-codes/movie-theater-tycoon"
+}

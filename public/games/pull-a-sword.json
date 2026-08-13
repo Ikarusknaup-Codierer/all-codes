@@ -1,0 +1,408 @@
+{
+ "slug": "pull-a-sword",
+ "name": "Pull a Sword",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "ITSRAINNINGTACOS",
+   "reward": "3 Dusk Potions"
+  },
+  {
+   "code": "SPAIN",
+   "reward": "10 Soccer Event Wheel Spins"
+  },
+  {
+   "code": "SEASONXXVI",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "WORLDCUP",
+   "reward": "10 Whistles and 2 Cup Potions"
+  },
+  {
+   "code": "BRAZILWINSTODAY",
+   "reward": "3 Mega Mythic Potions"
+  },
+  {
+   "code": "SHUTDOWN",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "DOJO",
+   "reward": "1 Mega Potion"
+  },
+  {
+   "code": "INFINITEPROMO",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "SEASONXXV",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "PIETY",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "HEREWEGOAGAIN",
+   "reward": "6 Mega Potions"
+  },
+  {
+   "code": "SEASON25",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "PULLTHECAT",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "FIX_ME",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "THEFIXEMPIRE",
+   "reward": "3 Holy Strength Potions"
+  },
+  {
+   "code": "SEASONXXIV",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "BLAMEDEV",
+   "reward": "1 Legendary Holy Strength Potion"
+  },
+  {
+   "code": "ARENA",
+   "reward": "12 Holy Strength Potions"
+  },
+  {
+   "code": "FORGIVEDEVTEAM",
+   "reward": "6 Holy Strength Potions"
+  },
+  {
+   "code": "HOLYFIX",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "FIXTHEBUG",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "SorryGuys",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "CELESTETOWER",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SEASONXXIII",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "LUCKBLOCK",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "LOADOUT",
+   "reward": "2 Dusk Potions and 2 Strength Potions"
+  },
+  {
+   "code": "SORRY4SHUTDOWN",
+   "reward": "1 Mega Potion"
+  },
+  {
+   "code": "HAPPY7MARCH",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "FIXES",
+   "reward": "2 Mega Potions"
+  },
+  {
+   "code": "STOREREDO",
+   "reward": "2 Dusk Potions and 3 Mega Potions"
+  },
+  {
+   "code": "SORRYSHUTDOWN",
+   "reward": "5 Mega Potions"
+  },
+  {
+   "code": "SEASONXXII",
+   "reward": "3 Mega Potions and 5 Dusk Potions"
+  },
+  {
+   "code": "VALENTINES",
+   "reward": "8 Mega Potions"
+  },
+  {
+   "code": "ENCHANTED",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "DelayAWorld",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Leaderboard",
+   "reward": "5 Dusk Potions"
+  },
+  {
+   "code": "HOLLOWKING",
+   "reward": "2 Mega Potions"
+  },
+  {
+   "code": "8BNR0E66",
+   "reward": "200 Lanterns"
+  },
+  {
+   "code": "LUNAR",
+   "reward": "50 Lanterns"
+  },
+  {
+   "code": "2026",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "NEWYEARNEWJOURNEY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Hotfix",
+   "reward": "10 Mega Potions"
+  },
+  {
+   "code": "HAPPYNEWYEAR",
+   "reward": "5 Ice Strength Potions"
+  },
+  {
+   "code": "SEASONXX",
+   "reward": "5 Mega Potions"
+  },
+  {
+   "code": "HAPPYBDAYBLAKES",
+   "reward": "4 Pets"
+  },
+  {
+   "code": "Workshop",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "QOL",
+   "reward": "3 Mega Potions"
+  },
+  {
+   "code": "SORRYFORBUGS",
+   "reward": "Free Strength"
+  },
+  {
+   "code": "THANKSGIVING",
+   "reward": "Free Strength"
+  },
+  {
+   "code": "DISCOVERYSWORD",
+   "reward": "5 Legendary Strength Potions"
+  },
+  {
+   "code": "HALLOWEENPARDON",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SEASON19",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SKULLKING",
+   "reward": "5 Haunted Strength Potions"
+  },
+  {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "90 Abyss Gloomtail Piece"
+  },
+  {
+   "code": "HALLOWEENPARTY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "10 Mythic Pieces"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "5 Happy Pumpkin Pet Pieces"
+  },
+  {
+   "code": "GloryBug",
+   "reward": "5 Happy Pumpkin Pet Pieces"
+  },
+  {
+   "code": "CHAOS",
+   "reward": "2 Dusk Potions"
+  },
+  {
+   "code": "BALANCE",
+   "reward": "1 Strength Potion And 1 Mega Potion"
+  },
+  {
+   "code": "CELESTIALEVENTCOMMING",
+   "reward": "1 Dusk Potion"
+  },
+  {
+   "code": "CURSEDGIFT",
+   "reward": "Inferno Kitsune Pet"
+  },
+  {
+   "code": "Pumpkin",
+   "reward": "1 Happy Pumpkin Pet Piece"
+  },
+  {
+   "code": "FISHINGTIME",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FISHING",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "DELAY_A_CODE",
+   "reward": "1 Strength Potion And 3 EXP Server Boost"
+  },
+  {
+   "code": "SOULKING",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SORRY_BUG",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SORRYDELAY",
+   "reward": "3 Mega Potions And 3 Strength Potions"
+  },
+  {
+   "code": "UNDERLIFE",
+   "reward": "Five Fortune Tokens"
+  },
+  {
+   "code": "LASTLUCK",
+   "reward": "Rewards"
+  },
+  {
+   "code": "BADLUCK",
+   "reward": "Rewards"
+  },
+  {
+   "code": "arise",
+   "reward": "One Mega Potion, One Strength Potion, And One Dark Strength Potion"
+  },
+  {
+   "code": "ARISE3",
+   "reward": "One Mega Potion, One Strength Potion, And One Dark Strength Potion"
+  },
+  {
+   "code": "sorrydelayraid",
+   "reward": "One Mythic Potion, One Strength Potion, And One Dark Strength Potion"
+  },
+  {
+   "code": "TIMERBUG23",
+   "reward": "Three Mega Potions"
+  },
+  {
+   "code": "MASTERCODE",
+   "reward": "Three Mega Potions, Three Strength Potions"
+  },
+  {
+   "code": "REBIRTHFIX",
+   "reward": "Three Mega Potions"
+  },
+  {
+   "code": "WHEELFIX3",
+   "reward": "Three Mythic Mega Potion"
+  },
+  {
+   "code": "BESTCODE333",
+   "reward": "Three Mega Potion, Three Strength Potion, Three Elite Strength Potion"
+  },
+  {
+   "code": "SORRYPAW",
+   "reward": "Three Mega Potions"
+  },
+  {
+   "code": "FOUNTAINFORTUNE",
+   "reward": "Two Fortune Tokens"
+  },
+  {
+   "code": "MYST",
+   "reward": "Ten Credits"
+  },
+  {
+   "code": "SEASON15",
+   "reward": "Five Credits"
+  },
+  {
+   "code": "MATHEUSISGOAT",
+   "reward": "Five Credits And One Dusk Potion"
+  },
+  {
+   "code": "CELESTIAL",
+   "reward": "One Dusk Potion"
+  },
+  {
+   "code": "WEEKPOWER",
+   "reward": "Three Strength Potions, Two EXP Potions, And One Dusk Potion"
+  },
+  {
+   "code": "DAILYQUESTS",
+   "reward": "Two Mega Potions And Two Strength Potions"
+  },
+  {
+   "code": "FIRSTPASLEAGUE",
+   "reward": "One Of All Potions"
+  },
+  {
+   "code": "FIRSTROUND",
+   "reward": "Two Mega Potions And 250 Invites"
+  },
+  {
+   "code": "GROWASWORD",
+   "reward": "Three Strength Potions And Two Mega Potions"
+  },
+  {
+   "code": "SEASONXIV",
+   "reward": "Three Mega Potions"
+  },
+  {
+   "code": "DELAYASWORD1",
+   "reward": "Three Mega Potions And Three Strength Potions"
+  },
+  {
+   "code": "SUPERFLUFFY2",
+   "reward": "One Superfluffy"
+  },
+  {
+   "code": "BESTCODE222",
+   "reward": "Three Rewind Wins Potions, Three Rewind Strength Potions, And Three St"
+  },
+  {
+   "code": "CRAFTUPD",
+   "reward": "Five Strength Potions, Five Mega Potions, And Five Dark Potions"
+  },
+  {
+   "code": "ELITECODE",
+   "reward": "Two Strength Potions, Two Mega Potions, Two Dark Potions"
+  },
+  {
+   "code": "UDINDINDIN",
+   "reward": "Three Mega Potions And Three Strength Potions"
+  },
+  {
+   "code": "ARISE4",
+   "reward": "1 Strength Potion , 2 Dark Strength Potions and 1 Mega Potion"
+  }
+ ],
+ "updated": "2026-08-13T09:52:07.689Z",
+ "source": "https://robloxden.com/game-codes/pull-a-sword"
+}

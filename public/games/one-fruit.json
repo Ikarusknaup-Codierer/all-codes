@@ -1,0 +1,220 @@
+{
+ "slug": "one-fruit",
+ "name": "One Fruit",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "OpCode",
+   "reward": "8 Hours of Drop Boosts , 8 Hours of Stats Boosts , 8 Hours of Exp Boos"
+  },
+  {
+   "code": "QualityOfLife",
+   "reward": "1 Hour of Drop Boosts , 1 Hour of Stats Boosts , 1 Hour of Exp Boosts "
+  },
+  {
+   "code": "NewDevelopmentTeam",
+   "reward": "1 Hour of Drop Boosts , 1 Hour of Stats Boosts , 1 Hour of Exp Boosts "
+  },
+  {
+   "code": "SHADOWSCALLING",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "KINGOFTHEHUMANS",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "ROGUELAIEN",
+   "reward": "240 mins of Stats Boost, 240 mins of EXP Boost, 240 mins of Coin Boost"
+  },
+  {
+   "code": "IMPOSSIBLE",
+   "reward": "240 mins of Stats Boost, 240 mins of EXP Boost, 240 mins of Coin Boost"
+  },
+  {
+   "code": "SLUGPLANET",
+   "reward": "240 mins of Stats Boost , 240 mins of EXP Boost , 240 mins of Coin Boo"
+  },
+  {
+   "code": "ONEWISH",
+   "reward": "8 Raid Scrolls , 3 Raid Tokens , 5 Accessory Scrolls , 5 Quest Scrolls"
+  },
+  {
+   "code": "YONKO",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "INVASION",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "DIAMONDAWK",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "SHINE",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "NEWDAILYQOL",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "COLLECTIONCHANGE",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "GOLDEN",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "24CARROT",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "EASTER26",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "EASTERDAGGER",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "EASTERISCOMING",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "TRUEVAMP",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "RAIDDIFF",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "KICKFIXES",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "CONTRACTS",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "GODVALLEY",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "HAPPYVALDAY",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "VALUPD",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "TRUELOVE",
+   "reward": "5 Boosted Raid Scrolls , 5 Raid Scrolls , 5 Accessory Scrolls , 5 Ques"
+  },
+  {
+   "code": "WEATHERSTAFF",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "ADVTITLES",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "AWKUDON",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "WISHGRANTER",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "SLISHERE!",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "WINTERCELEBRATION!",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "RYUMAINCOMING",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "TRUEGRAV",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "STRINGFLIGHT",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "INFNITESOON",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "FIXEDAUTORAID",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "BLUELEGS",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "AQOLFINALLY",
+   "reward": "5 Boosted Raid Scrolls, 5 Raid Scrolls, 5 Accessory Scrolls, 5 Quest S"
+  },
+  {
+   "code": "KOHRETURN",
+   "reward": "Rewards"
+  },
+  {
+   "code": "SERAPHIM",
+   "reward": "Rewards"
+  },
+  {
+   "code": "FLEMPEROR",
+   "reward": "Rewards"
+  },
+  {
+   "code": "MAGMACOMMANDER",
+   "reward": "Rewards"
+  },
+  {
+   "code": "ICEROGUE",
+   "reward": "Rewards"
+  },
+  {
+   "code": "TRUEVENOM",
+   "reward": "Rewards"
+  },
+  {
+   "code": "BLESSING",
+   "reward": "Rewards"
+  },
+  {
+   "code": "NEWBLESSING",
+   "reward": "Rewards"
+  },
+  {
+   "code": "MAGMASOON",
+   "reward": "Rewards"
+  },
+  {
+   "code": "DRAGONBALLS",
+   "reward": "Rewards"
+  },
+  {
+   "code": "THUNDERSOON",
+   "reward": "Free Rewards"
+  }
+ ],
+ "updated": "2026-08-13T09:58:29.559Z",
+ "source": "https://robloxden.com/game-codes/one-fruit"
+}

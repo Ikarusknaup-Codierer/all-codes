@@ -1,0 +1,32 @@
+{
+ "slug": "open-the-gate",
+ "name": "Open The Gate",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "welcome",
+   "reward": "1,000 Power"
+  },
+  {
+   "code": "100like",
+   "reward": "Power Boost (30 minutes)"
+  },
+  {
+   "code": "powerboost",
+   "reward": "Wins Boost (1 hour) and Power Boost (1 hour)"
+  },
+  {
+   "code": "200like",
+   "reward": "Wins Boost (30 minutes)"
+  },
+  {
+   "code": "OPPet",
+   "reward": "PurpleCow Pet"
+  }
+ ],
+ "updated": "2026-08-13T09:54:43.678Z",
+ "source": "https://robloxden.com/game-codes/open-the-gate"
+}

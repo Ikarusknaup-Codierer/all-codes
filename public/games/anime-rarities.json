@@ -1,0 +1,632 @@
+{
+ "slug": "anime-rarities",
+ "name": "Anime Rarities",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "25KFAV",
+   "reward": "50 Pink Mana Crystal , 50 Red Mana Crystal , 50 Orange Crystal Mana , "
+  },
+  {
+   "code": "23K5FAV",
+   "reward": "50 Pink Mana Crystal , 50 Red Mana Crystal , 50 Orange Crystal Mana , "
+  },
+  {
+   "code": "23KFAV",
+   "reward": "10 Coins Potion I , 7 Coins Potion II , 5 Coins Potion III , 5 Damage "
+  },
+  {
+   "code": "ShutdownCode",
+   "reward": "50,000 Coins, 20 Super Luck Potions, 20 Ultra Luck Potions, 20 Green M"
+  },
+  {
+   "code": "JustACode",
+   "reward": "10 Coins Potion II, 7 Coins Potion II, 5 Coins Potion III, 10 Damage P"
+  },
+  {
+   "code": "ImWeak",
+   "reward": "Crystals And Tickets"
+  },
+  {
+   "code": "Fixed1",
+   "reward": "Potions And Tickets"
+  },
+  {
+   "code": "29M",
+   "reward": "10 Coins Potions , 10 Coins Potions II , 10 Coins Potions III , 20 Dam"
+  },
+  {
+   "code": "CoolCode",
+   "reward": "1 Porunga Luck Potion , 1 Porunga Damage Potion and 1 Porunga Coins Po"
+  },
+  {
+   "code": "37K5FAV",
+   "reward": "10 Coins Potions , 10 Coins Potions II , 10 Coins Potions III , 10 Dam"
+  },
+  {
+   "code": "LastHope",
+   "reward": "100 Coins Potions , 100 Coins Potions II , 100 Coins Potions III , 100"
+  },
+  {
+   "code": "Update30",
+   "reward": "10 Coins Potions , 10 Coins Potions II , 10 Coins Potions III , 20 Dam"
+  },
+  {
+   "code": "27M",
+   "reward": "10 Coins Potions , 10 Coins Potions II , 10 Coins Potions III , 20 Dam"
+  },
+  {
+   "code": "37KFAV",
+   "reward": "10 Gleam Tickets , 10 Lucky Fruit Smoothies , 10 Dragon Luck Potions ,"
+  },
+  {
+   "code": "HalloweenUpdate",
+   "reward": "10 Pumpkin Tokens , 10 Candy Tokens , 10 Dragon Luck Potions , 10 Drag"
+  },
+  {
+   "code": "Halloween",
+   "reward": "10 Pumpkin Tokens , 10 Candy Tokens , 1 Spooky Damage Potion and 1 Spo"
+  },
+  {
+   "code": "HalloweenFix",
+   "reward": "10 Pumpkin Tokens , 1 Spooky Luck Potion , 1 Spooky Damage Potion and "
+  },
+  {
+   "code": "ShadowFix1",
+   "reward": "10 Coins Potions , 10 Coins Potions II , 10 Coins Potions III , 20 Dam"
+  },
+  {
+   "code": "26M5",
+   "reward": "10 Coins Potions , 10 Coins Potions II , 10 Coins Potions III , 20 Dam"
+  },
+  {
+   "code": "26M",
+   "reward": "10 Gleam Tickets , 10 Lucky Fruit Smoothies , 10 Dragon Luck Potions ,"
+  },
+  {
+   "code": "Update28",
+   "reward": "2 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "24M",
+   "reward": "2 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "35K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "35KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "Update26",
+   "reward": "5 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "25M",
+   "reward": "2 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "36K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "36KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "Update27",
+   "reward": "5 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "70KLIKES",
+   "reward": "2x Lucky Fruit Smoothies , 2 Gleam Tickets , 2 Dragon Luck Potions , 2"
+  },
+  {
+   "code": "23M",
+   "reward": "2 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "34K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "34KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "Update25",
+   "reward": "2 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "33K5FAV",
+   "reward": "2 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "65KLIKES",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "RandomUpdate",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "32KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "32K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "33KFAV",
+   "reward": "2 Gleam Tickets , 10 Lucky Fruit Smoothies , 10 Dragon Luck Potions , "
+  },
+  {
+   "code": "Update24",
+   "reward": "50 Green Mana Crystals , 50 Orange Mana Crystals , 50 Red Mana Crystal"
+  },
+  {
+   "code": "Fixed2",
+   "reward": "2 Gleam Tickets , 10 Lucky Fruit Smoothies , 10 Dragon Luck Potions , "
+  },
+  {
+   "code": "NoUpdate",
+   "reward": "2 Gleam Tickets , 10 Lucky Fruit Smoothies , 10 Dragon Luck Potions , "
+  },
+  {
+   "code": "60KLIKES",
+   "reward": "2 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "20M",
+   "reward": "2 Gleam Tickets , 5 Lucky Fruit Smoothies , 5 Dragon Luck Potions , 5 "
+  },
+  {
+   "code": "31K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "31KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "Update23",
+   "reward": "50 Green Mana Crystals , 50 Orange Mana Crystals , 50 Red Mana Crystal"
+  },
+  {
+   "code": "BOSSBUG",
+   "reward": "2x Lucky Fruit Smoothies , 2 Gleam Tickets , 2 Dragon Luck Potions , 2"
+  },
+  {
+   "code": "55KLIKES",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "30K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "30KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "29K5FAV",
+   "reward": "50 Green Mana Crystals , 50 Orange Mana Crystals , 50 Red Mana Crystal"
+  },
+  {
+   "code": "Update22",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "28KFAV",
+   "reward": "50 Green Mana Crystals , 50 Orange Mana Crystals , 50 Red Mana Crystal"
+  },
+  {
+   "code": "28K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "29KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "18M",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "Update21",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "27K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "27KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "26K5FAV",
+   "reward": "50 Green Mana Crystals , 50 Orange Mana Crystals , 50 Red Mana Crystal"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "Update20",
+   "reward": "50 Green Mana Crystals , 50 Orange Mana Crystals , 50 Red Mana Crystal"
+  },
+  {
+   "code": "15MVISITS",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "46KLIKES",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "25K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "26KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "24K5FAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "43KLIKES",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "24KFAV",
+   "reward": "10 Coins Potions , 7 Coins Potions II , 5 Coins Potions III , 10 Damag"
+  },
+  {
+   "code": "32KLIKES",
+   "reward": "50,000 Coins , Lucky Potions , and Crystals"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "20,000 Coins , Lucky Potions , and Crystals"
+  },
+  {
+   "code": "Update13",
+   "reward": "50,000 Coins , 10 Lucky II Potions , 10 Super Luck Potions , 5 Ultra L"
+  },
+  {
+   "code": "22KFAV",
+   "reward": "10 Coins Potion I , 7 Coins Potion II , 5 Coins Potion III , 5 Damage "
+  },
+  {
+   "code": "22K5FAV",
+   "reward": "10 Coins Potion I , 7 Coins Potion II , 5 Coins Potion III , 5 Damage "
+  },
+  {
+   "code": "20K5FAV",
+   "reward": "150,000 Coins , 10 Super Luck Potions , 10 Ultra Luck Potions , 50 Gre"
+  },
+  {
+   "code": "Shutdown6",
+   "reward": "50,000 Coins, 10 Super Luck Potions, 5 Ultra Luck Potions, 20 Green Ma"
+  },
+  {
+   "code": "18K5FAV",
+   "reward": "150,000 Coins, 10 Super Luck Potions, 10 Ultra Luck Potions, 50 Green "
+  },
+  {
+   "code": "1YearAnniversary",
+   "reward": "Crystals And Tickets"
+  },
+  {
+   "code": "LateUpdate",
+   "reward": "30,000 Coins, Lucky Potions, And Crystals"
+  },
+  {
+   "code": "UpdateTomorrow",
+   "reward": "20 Green Mana Crystals, 20 Orange Mana Crystals, 20 Red Mana Crystals,"
+  },
+  {
+   "code": "18KFAV",
+   "reward": "50,000 Coins, 10 Super Luck Potions, 5 Ultra Luck Potions, 20 Green Ma"
+  },
+  {
+   "code": "8000LIKES",
+   "reward": "8,000 Coins, 10 Lucky Potions, And 5 Speed Potions"
+  },
+  {
+   "code": "Update19P2",
+   "reward": "100,000 Coins , 25 Super Luck Potions , 25 Ultra Luck Potions , 50 gre"
+  },
+  {
+   "code": "Update19",
+   "reward": "200,000 Coins , 20 Super Luck Potions , 20 Ultra Luck Potions , 20 gre"
+  },
+  {
+   "code": "Update18",
+   "reward": "200,000 Coins , 20 Super Luck Potions , 20 Ultra Luck Potions , 20 gre"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "200,000 Coins , 20 Super Luck Potions , 20 Ultra Luck Potions , 20 gre"
+  },
+  {
+   "code": "Update17",
+   "reward": "100,000 Coins , 25 Super Luck Potions , 25 Ultra Luck Potions , 50 gre"
+  },
+  {
+   "code": "21K5FAV",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "Update16",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "21KFAV",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "Update15",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "35KLIKES",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "DevilFruit",
+   "reward": "Bomb Fruit"
+  },
+  {
+   "code": "20KFAV",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "19K5FAV",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "10M",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "19KFAV",
+   "reward": "50 Green Mana Crystals , 50 Orange Mana Crystals , 50 Red Mana Crystal"
+  },
+  {
+   "code": "Update14",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "Update13P2",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "17K5FAV",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "17KFAV",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "Update12P4",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "16KFAV",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "Update12P2",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "16K5FAV",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "Update12P3",
+   "reward": "20 Green Mana Crystals , 20 Orange Mana Crystals , 20 Red Mana Crystal"
+  },
+  {
+   "code": "Shutdown5",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "13KFAV",
+   "reward": "14 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "GUILDS",
+   "reward": "14 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "Update11",
+   "reward": "is code credits your account with 50 Green Mana Crystals , 25 Orange M"
+  },
+  {
+   "code": "4KON",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "13K5FAV",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "Update11P2",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "15K5FAV",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "15KFAV",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "14K5FAV",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "14KFAV",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "22K5LIKES",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "Update12",
+   "reward": "20 Green Mana Crystals , 15 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "17K5LIKES",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "12K5FAV",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "12KFAV",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "Update10",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "11KFAV",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "CRYSTALS",
+   "reward": "50 Green Mana Crystals , 25 Orange Mana Crystals , 10 Red Mana Crystal"
+  },
+  {
+   "code": "Update9P2",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "10K5FAV",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "10KFAV",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "Update9",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "Shutdown3",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "Shutdown2",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "Shutdown1",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "5000FAV",
+   "reward": "10 Lucky Potions I (1 minute) , 5 Speed Potions III (5 minuted) , and "
+  },
+  {
+   "code": "5500FAV",
+   "reward": "20 Lucky Potions I (1 minute) , 5 Speed Potions III (5 minuted) , and "
+  },
+  {
+   "code": "8500FAV",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "7500FAV",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "7000FAV",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "Update6",
+   "reward": "20 Lucky Potions I (1 minute) , 10 Speed Potions III (5 minuted) , and"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "5 Speed Potion III (5 minuted) , 10 Lucky Potion I (1 minute) and 10,0"
+  },
+  {
+   "code": "6500FAV",
+   "reward": "5 Speed Potion III (5 minuted) , 10 Lucky Potion I (1 minute) and 7,50"
+  },
+  {
+   "code": "6000FAV",
+   "reward": "5 Speed Potion III (5 minuted) , 10 Lucky Potion I (1 minute) and 7,50"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "15 Speed Potion III (5 minuted) , 20 Lucky Potion I (1 minute) and 18,"
+  },
+  {
+   "code": "Update5",
+   "reward": "5 Speed Potion III (5 minuted) , 10 Lucky Potion I (1 minute) and 8,00"
+  },
+  {
+   "code": "5000LIKES",
+   "reward": "2,500 Coins , 10 Lucky Potion 1's and 5 Speed Potion 3's"
+  },
+  {
+   "code": "700KVISITS",
+   "reward": "2,500 Coins , 10 Lucky Potion 1's and 5 Speed Potion 3's"
+  },
+  {
+   "code": "Update3",
+   "reward": "2 Coins Potion 1's"
+  },
+  {
+   "code": "6500LIKES",
+   "reward": "2,500 Coins , 25 Lucky Potion 1's and 10 Speed Potion 3's"
+  },
+  {
+   "code": "4000FAV",
+   "reward": "2,500 Coins , 10 Lucky Potion 1's and 5 Speed Potion 3's"
+  },
+  {
+   "code": "SOLO",
+   "reward": "5,000 Coins , 25 Lucky Potion 1's and 10 Speed Potion 3's"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "2 Coins Potion 1's"
+  },
+  {
+   "code": "Update4",
+   "reward": "5,000 Coins , 5 Stand Tokens and 5 Egg Tokens"
+  }
+ ],
+ "updated": "2026-08-13T09:54:59.767Z",
+ "source": "https://robloxden.com/game-codes/anime-rarities"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "my-prison",
+ "name": "My Prison",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "WorkshopBuff",
+   "reward": "350 Cash"
+  },
+  {
+   "code": "Gang",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "Cloth",
+   "reward": "350 Cash"
+  },
+  {
+   "code": "Cactus",
+   "reward": "350 Cash"
+  },
+  {
+   "code": "SorryDelivery",
+   "reward": "a Delivery Bus"
+  },
+  {
+   "code": "SorryDelivery2",
+   "reward": "a Delivery Bus"
+  },
+  {
+   "code": "SorryDelivery3",
+   "reward": "a Delivery Bus"
+  },
+  {
+   "code": "Custom",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "Jacuzzi",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "Wealthy",
+   "reward": "$350"
+  },
+  {
+   "code": "Coop",
+   "reward": "$350"
+  }
+ ],
+ "updated": "2026-08-13T09:58:13.629Z",
+ "source": "https://robloxden.com/game-codes/my-prison"
+}

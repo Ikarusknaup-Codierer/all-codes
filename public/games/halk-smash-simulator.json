@@ -1,0 +1,40 @@
+{
+ "slug": "halk-smash-simulator",
+ "name": "Halk Smash Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "smash",
+   "reward": "5 Coins"
+  },
+  {
+   "code": "300likes",
+   "reward": "Shiny Boost"
+  },
+  {
+   "code": "update",
+   "reward": "Gamma Boost"
+  },
+  {
+   "code": "500likes",
+   "reward": "Gamma Boost"
+  },
+  {
+   "code": "1000likes",
+   "reward": "Shiny Boost"
+  },
+  {
+   "code": "2000likes",
+   "reward": "Gamma Boost"
+  },
+  {
+   "code": "5000likes",
+   "reward": "Gamma Boost"
+  }
+ ],
+ "updated": "2026-08-13T09:56:49.653Z",
+ "source": "https://robloxden.com/game-codes/halk-smash-simulator"
+}

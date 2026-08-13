@@ -1,0 +1,684 @@
+{
+ "slug": "spray-paint",
+ "name": "Spray Paint!",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "422680",
+   "reward": "the Decal"
+  },
+  {
+   "code": "27259",
+   "reward": "the Among Us Decal"
+  },
+  {
+   "code": "14640964801",
+   "reward": "the Anime Girl Decal"
+  },
+  {
+   "code": "6344756224",
+   "reward": "the Among Us Decal"
+  },
+  {
+   "code": "6344756217",
+   "reward": "the Among Us Decal"
+  },
+  {
+   "code": "8444960043",
+   "reward": "Robux"
+  },
+  {
+   "code": "8444960025",
+   "reward": "Robux"
+  },
+  {
+   "code": "14975815420",
+   "reward": "Sonic"
+  },
+  {
+   "code": "14975815411",
+   "reward": "Sonic"
+  },
+  {
+   "code": "6536394234",
+   "reward": "Sprunki"
+  },
+  {
+   "code": "6536394212",
+   "reward": "Sprunki"
+  },
+  {
+   "code": "9020887369",
+   "reward": "Shrek"
+  },
+  {
+   "code": "8510124188",
+   "reward": "Shrek"
+  },
+  {
+   "code": "634974111",
+   "reward": "Shrek"
+  },
+  {
+   "code": "12225918796",
+   "reward": "Spleen"
+  },
+  {
+   "code": "12225918757",
+   "reward": "Spleen"
+  },
+  {
+   "code": "9784366580",
+   "reward": "Squid Game"
+  },
+  {
+   "code": "8659795996",
+   "reward": "Squid Game"
+  },
+  {
+   "code": "76086233",
+   "reward": "Squid Game"
+  },
+  {
+   "code": "8508980536",
+   "reward": "Standing Otter"
+  },
+  {
+   "code": "8508980527",
+   "reward": "Standing Otter"
+  },
+  {
+   "code": "15910559963",
+   "reward": "Superman"
+  },
+  {
+   "code": "15910559926",
+   "reward": "Superman"
+  },
+  {
+   "code": "11462418540",
+   "reward": "Tesla"
+  },
+  {
+   "code": "7497984498",
+   "reward": "Tesla"
+  },
+  {
+   "code": "52649195",
+   "reward": "Tesla"
+  },
+  {
+   "code": "15492808666",
+   "reward": "Troll Noob"
+  },
+  {
+   "code": "15492808654",
+   "reward": "Troll Noob"
+  },
+  {
+   "code": "10140639746",
+   "reward": "Trump"
+  },
+  {
+   "code": "10140639576",
+   "reward": "Trump"
+  },
+  {
+   "code": "11999260445",
+   "reward": "The Rock"
+  },
+  {
+   "code": "11999260348",
+   "reward": "The Rock"
+  },
+  {
+   "code": "8425069728",
+   "reward": "Tung Tung Sahur"
+  },
+  {
+   "code": "8425069718",
+   "reward": "Tung Tung Sahur"
+  },
+  {
+   "code": "7717396788",
+   "reward": "Vegeta"
+  },
+  {
+   "code": "8051882949",
+   "reward": "Vegeta"
+  },
+  {
+   "code": "716045571",
+   "reward": "Vegeta"
+  },
+  {
+   "code": "7732615948",
+   "reward": "Void Eyes"
+  },
+  {
+   "code": "5989859821",
+   "reward": "Void Eyes"
+  },
+  {
+   "code": "65172578",
+   "reward": "Void Eyes"
+  },
+  {
+   "code": "12495408930",
+   "reward": "Waffle"
+  },
+  {
+   "code": "3713722975",
+   "reward": "Waffle"
+  },
+  {
+   "code": "48506260",
+   "reward": "Waffle"
+  },
+  {
+   "code": "8100797022",
+   "reward": "Watermelon"
+  },
+  {
+   "code": "8715989387",
+   "reward": "Watermelon"
+  },
+  {
+   "code": "80825459",
+   "reward": "Watermelon"
+  },
+  {
+   "code": "18689041853",
+   "reward": "W Troll"
+  },
+  {
+   "code": "18689041820",
+   "reward": "W Troll"
+  },
+  {
+   "code": "12389137722",
+   "reward": "Ying Yang"
+  },
+  {
+   "code": "12389137652",
+   "reward": "Ying Yang"
+  },
+  {
+   "code": "17297011043",
+   "reward": "Ying Yang"
+  },
+  {
+   "code": "17297011003",
+   "reward": "Ying Yang"
+  },
+  {
+   "code": "6781515598",
+   "reward": "Among Us"
+  },
+  {
+   "code": "1104440666",
+   "reward": "Among Us"
+  },
+  {
+   "code": "14640964816",
+   "reward": "Anime Girl"
+  },
+  {
+   "code": "1614640964801",
+   "reward": "Anime Girl"
+  },
+  {
+   "code": "9058458184",
+   "reward": "Angler"
+  },
+  {
+   "code": "8365909122",
+   "reward": "Angler"
+  },
+  {
+   "code": "48955833",
+   "reward": "Blue Clockwork Headphones"
+  },
+  {
+   "code": "9219860742",
+   "reward": "Blue Clockwork Headphones"
+  },
+  {
+   "code": "7056112593",
+   "reward": "Blob"
+  },
+  {
+   "code": "751109538",
+   "reward": "Blob"
+  },
+  {
+   "code": "10028512065",
+   "reward": "Bounty Hunters"
+  },
+  {
+   "code": "10028512050",
+   "reward": "Bounty Hunters"
+  },
+  {
+   "code": "12739529906",
+   "reward": "Cat Meme"
+  },
+  {
+   "code": "12739529856",
+   "reward": "Cat Meme"
+  },
+  {
+   "code": "4575171289",
+   "reward": "Cane"
+  },
+  {
+   "code": "4575171283",
+   "reward": "Cane"
+  },
+  {
+   "code": "15185994350",
+   "reward": "Candy Lollipop"
+  },
+  {
+   "code": "15185994321",
+   "reward": "Candy Lollipop"
+  },
+  {
+   "code": "7145963126",
+   "reward": "Chuck Norris"
+  },
+  {
+   "code": "7145963114",
+   "reward": "Chuck Norris"
+  },
+  {
+   "code": "9202586959",
+   "reward": "Clown"
+  },
+  {
+   "code": "9202586943",
+   "reward": "Clown"
+  },
+  {
+   "code": "7866490162",
+   "reward": "Dobby"
+  },
+  {
+   "code": "7866490119",
+   "reward": "Dobby"
+  },
+  {
+   "code": "9017087805",
+   "reward": "Dragon"
+  },
+  {
+   "code": "9017087783",
+   "reward": "Dragon"
+  },
+  {
+   "code": "12037892993",
+   "reward": "Figure Doors"
+  },
+  {
+   "code": "2474906854",
+   "reward": "Figure Doors"
+  },
+  {
+   "code": "87958933",
+   "reward": "Figure Doors"
+  },
+  {
+   "code": "12899371339",
+   "reward": "Fisch"
+  },
+  {
+   "code": "12899371296",
+   "reward": "Fisch"
+  },
+  {
+   "code": "8084724576",
+   "reward": "Gang"
+  },
+  {
+   "code": "7078817757",
+   "reward": "Gang"
+  },
+  {
+   "code": "79405602",
+   "reward": "Gang"
+  },
+  {
+   "code": "13737320178",
+   "reward": "Goku"
+  },
+  {
+   "code": "13737320158",
+   "reward": "Goku"
+  },
+  {
+   "code": "8839224819",
+   "reward": "Gorilla"
+  },
+  {
+   "code": "8839224809",
+   "reward": "Gorilla"
+  },
+  {
+   "code": "14987053109",
+   "reward": "Granny"
+  },
+  {
+   "code": "14987053056",
+   "reward": "Granny"
+  },
+  {
+   "code": "11528005929",
+   "reward": "Haki"
+  },
+  {
+   "code": "11528005848",
+   "reward": "Haki"
+  },
+  {
+   "code": "14591613493",
+   "reward": "Kai Cenat"
+  },
+  {
+   "code": "14591613458",
+   "reward": "Kai Cenat"
+  },
+  {
+   "code": "6933174268",
+   "reward": "IShowSpeed"
+  },
+  {
+   "code": "6933174263",
+   "reward": "IShowSpeed"
+  },
+  {
+   "code": "11849480105",
+   "reward": "Law"
+  },
+  {
+   "code": "11849480042",
+   "reward": "Law"
+  },
+  {
+   "code": "13561184023",
+   "reward": "Luffy"
+  },
+  {
+   "code": "8353103106",
+   "reward": "Luffy"
+  },
+  {
+   "code": "948609198",
+   "reward": "Luffy"
+  },
+  {
+   "code": "17639894476",
+   "reward": "Meme Dog"
+  },
+  {
+   "code": "17639894445",
+   "reward": "Meme Dog"
+  },
+  {
+   "code": "9835676498",
+   "reward": "Minecraft"
+  },
+  {
+   "code": "9835676490",
+   "reward": "Minecraft"
+  },
+  {
+   "code": "9676276958",
+   "reward": "Mr Beast"
+  },
+  {
+   "code": "9676276904",
+   "reward": "Mr Beast"
+  },
+  {
+   "code": "12938050629",
+   "reward": "Naruto"
+  },
+  {
+   "code": "12938050584",
+   "reward": "Naruto"
+  },
+  {
+   "code": "13392259161",
+   "reward": "Ninja Turtle"
+  },
+  {
+   "code": "13392259125",
+   "reward": "Ninja Turtle"
+  },
+  {
+   "code": "13994307943",
+   "reward": "Noob"
+  },
+  {
+   "code": "13994307916",
+   "reward": "Noob"
+  },
+  {
+   "code": "9011713775",
+   "reward": "Pickle"
+  },
+  {
+   "code": "9011713759",
+   "reward": "Pickle"
+  },
+  {
+   "code": "14861463482",
+   "reward": "Poopguy"
+  },
+  {
+   "code": "14861463456",
+   "reward": "Poopguy"
+  },
+  {
+   "code": "10207060745",
+   "reward": "Potter"
+  },
+  {
+   "code": "10207060725",
+   "reward": "Potter"
+  },
+  {
+   "code": "1234566",
+   "reward": "I <3 Ponies"
+  },
+  {
+   "code": "12347538",
+   "reward": "AC/DC"
+  },
+  {
+   "code": "13712924",
+   "reward": "Angry Patrick Star"
+  },
+  {
+   "code": "1234538",
+   "reward": "Anime Girl"
+  },
+  {
+   "code": "76543210",
+   "reward": "Annoying Orange"
+  },
+  {
+   "code": "6013360",
+   "reward": "Bang!"
+  },
+  {
+   "code": "9876543",
+   "reward": "Blue Dude"
+  },
+  {
+   "code": "516095478",
+   "reward": "Charizard?"
+  },
+  {
+   "code": "12347578",
+   "reward": "Cobain's OMG PIE"
+  },
+  {
+   "code": "1234756",
+   "reward": "Contra"
+  },
+  {
+   "code": "134079000",
+   "reward": "Doge"
+  },
+  {
+   "code": "69791871",
+   "reward": "Dominus"
+  },
+  {
+   "code": "136931266",
+   "reward": "Dragon"
+  },
+  {
+   "code": "473973374",
+   "reward": "Drake"
+  },
+  {
+   "code": "80684094",
+   "reward": "Finn and Jake"
+  },
+  {
+   "code": "80514443",
+   "reward": "Girl"
+  },
+  {
+   "code": "45550210",
+   "reward": "Got Milk?"
+  },
+  {
+   "code": "23534055",
+   "reward": "Gravity Coil"
+  },
+  {
+   "code": "75076726",
+   "reward": "Halo Helmet"
+  },
+  {
+   "code": "66481956",
+   "reward": "Haters Gonna Hate"
+  },
+  {
+   "code": "1234566I",
+   "reward": "a spray paint design"
+  },
+  {
+   "code": "7564321",
+   "reward": "John Cena"
+  },
+  {
+   "code": "123475161",
+   "reward": "Kitty"
+  },
+  {
+   "code": "24774766",
+   "reward": "Lol Emoji"
+  },
+  {
+   "code": "144685573",
+   "reward": "Miley Cyrus"
+  },
+  {
+   "code": "123474111",
+   "reward": "Monster Energy Logo"
+  },
+  {
+   "code": "1081287",
+   "reward": "No Noobs"
+  },
+  {
+   "code": "12345383",
+   "reward": "Party Hat"
+  },
+  {
+   "code": "7713420",
+   "reward": "People On The Beach"
+  },
+  {
+   "code": "46059313",
+   "reward": "Pikachu"
+  },
+  {
+   "code": "30155526",
+   "reward": "Red Dirt Bike"
+  },
+  {
+   "code": "80373024",
+   "reward": "Roblox Logo"
+  },
+  {
+   "code": "1803741",
+   "reward": "Spider Tux"
+  },
+  {
+   "code": "1234532",
+   "reward": "Spongebob Pattern"
+  },
+  {
+   "code": "51812595",
+   "reward": "Spongebob Street Graffiti"
+  },
+  {
+   "code": "2018209",
+   "reward": "Super Smash Bros Brawl"
+  },
+  {
+   "code": "1234752",
+   "reward": "Super Sonic"
+  },
+  {
+   "code": "73737627",
+   "reward": "Sword Pack"
+  },
+  {
+   "code": "69711222",
+   "reward": "Target and Destroy"
+  },
+  {
+   "code": "5961037",
+   "reward": "Truck"
+  },
+  {
+   "code": "415885550",
+   "reward": "Trump"
+  },
+  {
+   "code": "394647608",
+   "reward": "Twitter Bird"
+  },
+  {
+   "code": "1234562",
+   "reward": "Universe"
+  },
+  {
+   "code": "30117799",
+   "reward": "Welcome to Hell Sign"
+  },
+  {
+   "code": "80373810",
+   "reward": "Wizard"
+  },
+  {
+   "code": "2483186",
+   "reward": "You Can't See Me; I'm an Invisible Cat"
+  },
+  {
+   "code": "57764564",
+   "reward": "Zombie"
+  }
+ ],
+ "updated": "2026-08-13T09:52:18.846Z",
+ "source": "https://robloxden.com/game-codes/spray-paint"
+}

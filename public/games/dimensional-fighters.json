@@ -1,0 +1,492 @@
+{
+ "slug": "dimensional-fighters",
+ "name": "Dimensional Fighters",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "PEIE22",
+   "reward": "Energy Cube"
+  },
+  {
+   "code": "PEIE11",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "RYNS33",
+   "reward": "Exp Book"
+  },
+  {
+   "code": "RYNS11",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "XLSK55",
+   "reward": "5 EXP Books"
+  },
+  {
+   "code": "ZTNS22",
+   "reward": "Energy Cube"
+  },
+  {
+   "code": "ZTNS11",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "ZZXX55",
+   "reward": "7 Energy Cubes"
+  },
+  {
+   "code": "DBQA33",
+   "reward": "600 Seconds"
+  },
+  {
+   "code": "DBQA22",
+   "reward": "Energy Cube"
+  },
+  {
+   "code": "UIGX11",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "HERORO",
+   "reward": "1 Selectable Item from the following List: 555 Coins, Ice, Spider Man,"
+  },
+  {
+   "code": "ABCCBA",
+   "reward": "6,000 Coins"
+  },
+  {
+   "code": "EXPBOOK3",
+   "reward": "1 Exp Book"
+  },
+  {
+   "code": "EXPBOOK2",
+   "reward": "2 Exp Book"
+  },
+  {
+   "code": "EXPBOOK1",
+   "reward": "3 Exp Book"
+  },
+  {
+   "code": "KSLE22",
+   "reward": "2 Cubes"
+  },
+  {
+   "code": "KSLE33",
+   "reward": "2 Exp Book"
+  },
+  {
+   "code": "BJSK11",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "BJSK22",
+   "reward": "2 Cubes"
+  },
+  {
+   "code": "CBAABC",
+   "reward": "6,000 Coins"
+  },
+  {
+   "code": "WAD1",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "BBB111",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "AAA111",
+   "reward": "2k Gold"
+  },
+  {
+   "code": "MFGX11",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MFGX22",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LCVK11",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LCVK22",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LSTE11",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LSTE22",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LSTE33",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MCRB11",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MCRB22",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MCRB33",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "GSGW11",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "GSGW22",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "GSGW33",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FLAME11",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FLAME22",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FLAME33",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "NEWYEAR2",
+   "reward": "a reward"
+  },
+  {
+   "code": "NEWYEAR1",
+   "reward": "a reward"
+  },
+  {
+   "code": "MERRYCHRISTMAS",
+   "reward": "a reward"
+  },
+  {
+   "code": "WAQ111",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "WAQ222",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "WAQ333",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "WSJ333",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "COINBB",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "COINAA",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "NEWWORLD1",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "NEWWORLD2",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "NEWWORLD3",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "NEWWORLD4",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "NEWWORLD5",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "JBGD1",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "JBGD2",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "SUMK11",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "SUMK22",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "GDWT11",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "GDWT22",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "GWSN11",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "GWSN22",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "GZGW11",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "GZGW22",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "GKXL11",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "GKXL22",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "GSHS11",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "GZJK12",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "GZJK34",
+   "reward": "2k Gold"
+  },
+  {
+   "code": "CUBES10",
+   "reward": "Cubes"
+  },
+  {
+   "code": "GOKU11",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "GOKU22",
+   "reward": "2k Gold"
+  },
+  {
+   "code": "NEWCOAA",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "NEWCOBB",
+   "reward": "2k Gold"
+  },
+  {
+   "code": "UPDDIS",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "UPDATEA",
+   "reward": "2k Gold"
+  },
+  {
+   "code": "UPDATEB",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "FIXBUG",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "STORM1",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "STORM2",
+   "reward": "20 Cubes"
+  },
+  {
+   "code": "LV30",
+   "reward": "20 Cubes"
+  },
+  {
+   "code": "LVMAX",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "SKIN5",
+   "reward": "4 Different Skins Or 20 Cubes"
+  },
+  {
+   "code": "WAD2",
+   "reward": "20 Cubes"
+  },
+  {
+   "code": "BBB222",
+   "reward": "10 Cubes"
+  },
+  {
+   "code": "AAA222",
+   "reward": "10 Cubes"
+  },
+  {
+   "code": "asd",
+   "reward": "10 Cubes"
+  },
+  {
+   "code": "COIN222",
+   "reward": "5k Gold"
+  },
+  {
+   "code": "CUBE222",
+   "reward": "10 Cubes"
+  },
+  {
+   "code": "123456",
+   "reward": "2k Gold"
+  },
+  {
+   "code": "CUBE",
+   "reward": "500 Gold"
+  },
+  {
+   "code": "DIS123",
+   "reward": "1k Gold"
+  },
+  {
+   "code": "DIS666",
+   "reward": "2k Gold"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "2k Gold"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "3k Gold"
+  },
+  {
+   "code": "MALLAM",
+   "reward": "4k Gold"
+  },
+  {
+   "code": "NEWYEAR",
+   "reward": "5k Gold"
+  },
+  {
+   "code": "CHRISTMAS",
+   "reward": "6k Gold"
+  },
+  {
+   "code": "1KMEMBERS",
+   "reward": "5k Gold"
+  },
+  {
+   "code": "OHOHOH",
+   "reward": "666 Cash"
+  },
+  {
+   "code": "SLEPOK",
+   "reward": "666 Cash"
+  },
+  {
+   "code": "OKSLEP",
+   "reward": "1k Cash"
+  },
+  {
+   "code": "SLEEPDOG",
+   "reward": "888 Cash"
+  },
+  {
+   "code": "WSJ111",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "WSJ222",
+   "reward": "Gold/EXP"
+  },
+  {
+   "code": "WTGJ22",
+   "reward": "1 Energy Cube"
+  },
+  {
+   "code": "WTGJ11",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "XFKB11",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "GWYS22",
+   "reward": "1 Energy Cube"
+  },
+  {
+   "code": "GWYS11",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "WJEW22",
+   "reward": "2 Energy Cubes"
+  },
+  {
+   "code": "WJEW11",
+   "reward": "4,000 Coins"
+  },
+  {
+   "code": "MDXZ22",
+   "reward": "1 Energy Cube"
+  },
+  {
+   "code": "MDXZ11",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "PEIE33",
+   "reward": "Exp Book"
+  },
+  {
+   "code": "RYNS22",
+   "reward": "Energy Cube"
+  },
+  {
+   "code": "ZTNS33",
+   "reward": "Exp Book"
+  },
+  {
+   "code": "DBQA11",
+   "reward": "2000 Coins"
+  },
+  {
+   "code": "KSLE11",
+   "reward": "3,000 Coins"
+  },
+  {
+   "code": "BJSK33",
+   "reward": "1 Exp Book"
+  }
+ ],
+ "updated": "2026-08-13T09:57:15.829Z",
+ "source": "https://robloxden.com/game-codes/dimensional-fighters"
+}

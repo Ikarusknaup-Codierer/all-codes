@@ -1,0 +1,28 @@
+{
+ "slug": "corridor",
+ "name": "Corridor",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "GROUPVERIFIED",
+   "reward": "200 Anom Tickets"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "300 Anom Tickets"
+  },
+  {
+   "code": "100KFAVORITES",
+   "reward": "1 Double Anoms Ticket"
+  },
+  {
+   "code": "HOTELUPDATE",
+   "reward": "2 Revive Tickets"
+  }
+ ],
+ "updated": "2026-08-13T09:51:13.564Z",
+ "source": "https://robloxden.com/game-codes/corridor"
+}

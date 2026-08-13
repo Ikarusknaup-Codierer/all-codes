@@ -1,0 +1,516 @@
+{
+ "slug": "eat-blobs-simulator",
+ "name": "Eat Blobs Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "TEAMFRIEND",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "FUNFUNFUN",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "NOV25",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "WIND",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "67",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "SEPT",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "45,000 Size"
+  },
+  {
+   "code": "13KLIKES",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "SUMMERBREAK",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "ONETHREE",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "CARCODE3",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "CARCODE2",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "CARCODE1",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "EASYSIZE",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "BIGCODE",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "BEHAPPY",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "AUGUST",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "18KLIKES",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "19KLIKES",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "ROBLOXDOWN",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "LIKES17K",
+   "reward": "20K Size Gain"
+  },
+  {
+   "code": "UPD6",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "SAVING",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "LIKES16K",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "12KWOW",
+   "reward": "20K Size Gain"
+  },
+  {
+   "code": "UPD5",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "2XDAILY",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "MEMORIALDAY",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "9KLIKES",
+   "reward": "4K Size Gain"
+  },
+  {
+   "code": "SUMMERSOON",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "9KSIZE",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "8THOUSAND",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "ALMOSTSUMMER",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "H8SCHOOL",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "UPD4",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "7THOUSAND",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "MOMDAY",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "SUMMER24",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "RAIN",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "FLOWERS",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "140KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "EGGS",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "BUNNY",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "130KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "UPD20",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "120KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "MARCH24",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "110KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "VDAY",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "HEARTS",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "SNOWING",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "MOREUPDATES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "UPD17",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "WINTER",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "90KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "XMAS",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "BIGGIFT",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "CANDYCANE",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "SNOWMAN",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "HAPPYHOLIDAYS",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "WINTERCODE",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "60KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "THANKU",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "55KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "JOINTHEGROUP",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "WOAHHHH",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "HALFWAYTHERE",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "YAYMORECODES",
+   "reward": "45K Size Gain"
+  },
+  {
+   "code": "QWERTYUIOP",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "45KLIKES",
+   "reward": "45K Size Gain"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "50K Size Gain"
+  },
+  {
+   "code": "HUGECODES",
+   "reward": "55K Size Gain"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "30K Size Gain"
+  },
+  {
+   "code": "12345",
+   "reward": "15K Size Gain"
+  },
+  {
+   "code": "BRUHMOMENT",
+   "reward": "5K Size Gain"
+  },
+  {
+   "code": "24KLIKES",
+   "reward": "20K Size Gain"
+  },
+  {
+   "code": "BUG",
+   "reward": "Size Gain"
+  },
+  {
+   "code": "SUMMER25",
+   "reward": "Size Gain"
+  },
+  {
+   "code": "BIGSIZE",
+   "reward": "Size Gain"
+  },
+  {
+   "code": "BOOM",
+   "reward": "Size Gain"
+  },
+  {
+   "code": "150KLIKES",
+   "reward": "25K Size Gain"
+  },
+  {
+   "code": "SPRING",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "EASTER",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "EGG",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "LUCK",
+   "reward": "50,000 Size"
+  },
+  {
+   "code": "CLOVER",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "PATTY25",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "FEB25",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "MEEP",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "FLAG",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "2025",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "SNAKE",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "NEWYEAR",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "PRESENTS",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "SANTA",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "SNOWFLAKE",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "THANKSGIVING",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "BOK",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "TURKEY",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "CANDYCORN",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "GHOST",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "YAY",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "ABC",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "BLOBBY",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "FUNFUN",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "YIPPEE",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "170KLIKES",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "165KLIKES",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "160KLIKES",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "UPD26",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "GLORP",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "FUNSIZE",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "BUGS",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "UPD25",
+   "reward": "25,000 Size"
+  },
+  {
+   "code": "FIREWORK",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "JULY4",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "14KLIKES",
+   "reward": "15,000 Size"
+  },
+  {
+   "code": "URTHEBEST",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "PURPLESHAKE",
+   "reward": "5,000 Size"
+  },
+  {
+   "code": "TOOMANYCODES",
+   "reward": "5,000 Size"
+  }
+ ],
+ "updated": "2026-08-13T09:53:39.510Z",
+ "source": "https://robloxden.com/game-codes/eat-blobs-simulator"
+}

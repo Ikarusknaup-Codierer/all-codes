@@ -1,0 +1,32 @@
+{
+ "slug": "galaxy",
+ "name": "Galaxy",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "DELTA",
+   "reward": "the Crucible Ship"
+  },
+  {
+   "code": "BUILDKIT",
+   "reward": "120 Silicate, 90 Carbon and 50 Iridium"
+  },
+  {
+   "code": "FREEMONEY",
+   "reward": "2,000 Credits"
+  },
+  {
+   "code": "SPACE",
+   "reward": "the Destroyer-Class Zero Ship"
+  },
+  {
+   "code": "TANGO",
+   "reward": "the Miner-Class Tango Ship"
+  }
+ ],
+ "updated": "2026-08-13T10:03:22.384Z",
+ "source": "https://robloxden.com/game-codes/galaxy"
+}

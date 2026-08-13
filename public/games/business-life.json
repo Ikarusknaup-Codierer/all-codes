@@ -1,0 +1,32 @@
+{
+ "slug": "business-life",
+ "name": "Business Life",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "INVEST",
+   "reward": "500 Gold"
+  },
+  {
+   "code": "25KYAY",
+   "reward": "2 Tickets"
+  },
+  {
+   "code": "INTERN",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FAST",
+   "reward": "2x Cash Boost (9 minutes) and 2x Worker Speed Boost (10 minutes)"
+  },
+  {
+   "code": "HEIST",
+   "reward": "2x Cash Boost (10 minutes)"
+  }
+ ],
+ "updated": "2026-08-13T09:55:22.727Z",
+ "source": "https://robloxden.com/game-codes/business-life"
+}

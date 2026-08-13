@@ -1,0 +1,212 @@
+{
+ "slug": "anime-punch-simulator",
+ "name": "Anime Punch Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "FIXEDBUGS13",
+   "reward": "40 Soccer Balls , 40 Trial Crystals , 40 Celestial Cores and 2 Super E"
+  },
+  {
+   "code": "FIXEDTELEPORTS",
+   "reward": "40 Soccer Balls , 40 Trial Crystals , 40 Celestial Cores and 2 Super E"
+  },
+  {
+   "code": "UPDATE12",
+   "reward": "2 Reset Stats , 40 Soccer Balls and 2 Super Energy Potions (15 minutes"
+  },
+  {
+   "code": "ANIMEPUNCH2",
+   "reward": "40 Soccer Balls and 2 Super Energy Potions (15 minutes)"
+  },
+  {
+   "code": "FIXEDAVATARS12",
+   "reward": "40 Soccer Balls and 2 Super Energy Potions (15 minutes)"
+  },
+  {
+   "code": "UPDATE11",
+   "reward": "2 Reset Stats , 20 Celestial Cores and Super Energy (15 minutes)"
+  },
+  {
+   "code": "Default2812",
+   "reward": "Super Energy Potion (15 minutes) , 2x Damage Potion (15 minutes) and 5"
+  },
+  {
+   "code": "BUFFEDEGGS",
+   "reward": "10 Normal Easter Eggs and 2 Rare Easter Eggs"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "Reset Stat , 5 Celestial Cores , Grimoire Ticket and 100 Trial Coins"
+  },
+  {
+   "code": "HAPPYEASTER",
+   "reward": "Reset Stat , 5 Celestial Cores , Grimoire Ticket , 50 Trial Coins and "
+  },
+  {
+   "code": "VISUALFIXES",
+   "reward": "Grimoire Ticket and 100 Coins"
+  },
+  {
+   "code": "15MVISITS",
+   "reward": "2 Talent Points , Reset Stat , Super Energy Potion , Divine Chest (15 "
+  },
+  {
+   "code": "SORRYSHUTDOWNCURSE",
+   "reward": "Expansion Opener , Grimoire Ticket and 25 Trial Coins"
+  },
+  {
+   "code": "FIXEDEXPANSIONHP",
+   "reward": "Expansion Opener , Grimoire Ticket and 25 Trial Coins"
+  },
+  {
+   "code": "60KLIKES",
+   "reward": "2 Talent Points , 2 Stat Resets , 2 Super Energy , 1 Divine Chest , 10"
+  },
+  {
+   "code": "DefaultAmazing",
+   "reward": "2 Talent Points , 2 Reset Stats , 2 Super Energy Potion (15 minutes) ,"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "5 Talent Points , 1 Stat Reset , 1 Super Energy , 1 Mythical Chest and"
+  },
+  {
+   "code": "10MVISITS",
+   "reward": "5 Talent Points , 1 Stat Reset , 1 Super Energy , 1 Mythical Chest and"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "City Key , 2x Damage Potion (15 minutes) and 2 3x Super Energy (15 min"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "2x Damage Potion (15 minutes) and 3x Super Energy (15 minutes)"
+  },
+  {
+   "code": "35KLIKES",
+   "reward": "Mythical Chest , 5 Chest Keys , Reset Stats and 3x Super Energy (15 mi"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "3x Super Energy (15 minutes)"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "Legendary Chest , 4 Chest Keys and 3x Super Energy (15 minutes)"
+  },
+  {
+   "code": "500likes",
+   "reward": "2x Energy Potion (15 minutes) and 2x Gems Potion (15 minutes)"
+  },
+  {
+   "code": "1klikes",
+   "reward": "Shiny Potion (3 minutes)"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "Shiny Potion (3 minutes)"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "Shiny Potion (3 minutes)"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "Mythical Chest and 5 Chest Keys"
+  },
+  {
+   "code": "UPDATE13",
+   "reward": "2 Stat Resets , 40 Soccer Balls , 40 Trial Crystals , 40 Celestial Cor"
+  },
+  {
+   "code": "FIXEDRELICS",
+   "reward": "20 Celestial Cores and Super Energy Potion (15 minutes)"
+  },
+  {
+   "code": "RIMUREBUG",
+   "reward": "5 Celestial Cores , Grimoire Ticket and 100 Trial Coins"
+  },
+  {
+   "code": "UPDATE9",
+   "reward": "Expansion Opener , Grimoire Ticket and 25 Trial Coins"
+  },
+  {
+   "code": "Update8",
+   "reward": "2 Talent Points , 2 Stat Resets , 2 Super Energy , 1 Divine Chest , 10"
+  },
+  {
+   "code": "ClassFix",
+   "reward": "1 Stat Reset , 2 Divine Stones , 2 Family Stones and 100 Trial Coins"
+  },
+  {
+   "code": "Update7",
+   "reward": "Reset Stat , 2 Divine Stones , 2 Family Stones and 100 Trial Coins"
+  },
+  {
+   "code": "Delay6",
+   "reward": "1 Talent Point , 1 Reset Stat , 1 Super Energy Potion (15 minutes) and"
+  },
+  {
+   "code": "Update6",
+   "reward": "2 Talent Points , 2 Reset Stats , 2 Super Energy Potion (15 minutes) ,"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "1 Stat Reset , 2 Skill Essence and 1 Super Energy"
+  },
+  {
+   "code": "TrialFix",
+   "reward": "1 Reset Stats , 2 Skill Essence and 1 Super Energy Potion (15 minutes)"
+  },
+  {
+   "code": "TrialNerf",
+   "reward": "5 Talent Points , 2 Skill Essence and Super Energy Potion (15 minutes)"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "City Key , 2x Damage Potion (15 minutes) and 3x Super Energy (15 minut"
+  },
+  {
+   "code": "sorryshutpls",
+   "reward": "2x Damage Potion (15 minutes) and 3x Super Energy (15 minutes)"
+  },
+  {
+   "code": "SorryForShutdown",
+   "reward": "City Key , 2x Damage Potion (15 minutes) and 3x Super Energy (15 minut"
+  },
+  {
+   "code": "miniupdate",
+   "reward": "Invasion Key , Raid Ticket and 2x Energy Potion (15 minutes)"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "Reset Stats and 3x Super Energy (15 minutes)"
+  },
+  {
+   "code": "BUGSFIXED",
+   "reward": "2 Common Chests , 4 Chest Keys , 3x Super Energy (15 minutes) and Rare"
+  },
+  {
+   "code": "Update2",
+   "reward": "2 Common Chests , 2 Chest Keys and 3x Super Energy (15 minutes)"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "Raid Ticket , Golden Card and 2x Gems Potion (15 minutes)"
+  },
+  {
+   "code": "Update4",
+   "reward": "2 Skill Essence and 3x Super Energy (15 minutes)"
+  },
+  {
+   "code": "KAGUNESFIX",
+   "reward": "2 Skill Essence and 3x Super Energy (15 minutes)"
+  }
+ ],
+ "updated": "2026-08-13T09:57:02.186Z",
+ "source": "https://robloxden.com/game-codes/anime-punch-simulator"
+}

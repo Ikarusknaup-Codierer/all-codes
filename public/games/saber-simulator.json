@@ -1,0 +1,388 @@
+{
+ "slug": "saber-simulator",
+ "name": "Saber Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "ENCHANTER",
+   "reward": "10 Enchant Tokens and 50 Shiny Charms"
+  },
+  {
+   "code": "ABC",
+   "reward": "35 Shiny Charms , 35 Rainbow Charms , and 35 Void Charms"
+  },
+  {
+   "code": "RETRO",
+   "reward": "50 Void Charms"
+  },
+  {
+   "code": "USA250",
+   "reward": "40 Shiny Charms , 40 Rainbow Charms , and 40 Void Charms"
+  },
+  {
+   "code": "TRIDENT",
+   "reward": "30 Shiny Charms , 30 Rainbow Charms , and 30 Void Charms"
+  },
+  {
+   "code": "TROUT",
+   "reward": "40 Rainbow Charms"
+  },
+  {
+   "code": "SCUBA",
+   "reward": "40 Void Charms"
+  },
+  {
+   "code": "RAIN",
+   "reward": "50 Rainbow Charms"
+  },
+  {
+   "code": "HORIZON",
+   "reward": "35 Shiny Charms , 35 Rainbow Charms , and 35 Void Charms"
+  },
+  {
+   "code": "CRISPY",
+   "reward": "35 Rainbow Charms"
+  },
+  {
+   "code": "GALAXY",
+   "reward": "25 Void Charms"
+  },
+  {
+   "code": "FRIED",
+   "reward": "20 Void Charms, 20 Shiny Charms , and 20 Rainbow Charms"
+  },
+  {
+   "code": "FREECHARMS",
+   "reward": "50 Shiny Charms , 50 Rainbow Charms , and 50 Void Charms"
+  },
+  {
+   "code": "BRUH",
+   "reward": "50 Void Charms"
+  },
+  {
+   "code": "CODEEE",
+   "reward": "50 Rainbow Charms"
+  },
+  {
+   "code": "CLASH",
+   "reward": "20 Shiny Charms , 20 Rainbow Charms , and 20 Void Charms"
+  },
+  {
+   "code": "EASTERBUNNY",
+   "reward": "35 Shiny Charms"
+  },
+  {
+   "code": "EASTER26",
+   "reward": "26 Rainbow Charms"
+  },
+  {
+   "code": "CURSED20",
+   "reward": "20 Void Charms"
+  },
+  {
+   "code": "STPATTY",
+   "reward": "33 Void Charms"
+  },
+  {
+   "code": "LUCKYLUCKY",
+   "reward": "123 Shiny Charms"
+  },
+  {
+   "code": "SABERFEB",
+   "reward": "28 Shiny Charms"
+  },
+  {
+   "code": "ALIENPLS",
+   "reward": "30 Void Charms"
+  },
+  {
+   "code": "VALENTINESDAY26",
+   "reward": "50 Rainbow Charms"
+  },
+  {
+   "code": "HEART26",
+   "reward": "26 Shiny, Rainbow, and Void Charms"
+  },
+  {
+   "code": "BOMBCYCLONE",
+   "reward": "50 Rainbow Charms"
+  },
+  {
+   "code": "SNOWDAY",
+   "reward": "100 Shiny Charms"
+  },
+  {
+   "code": "ASLEEP",
+   "reward": "30 Void Charms"
+  },
+  {
+   "code": "AWARE",
+   "reward": "50 Rainbow Charms"
+  },
+  {
+   "code": "HAPPY26",
+   "reward": "25 Shiny, Rainbow, And Void Charms"
+  },
+  {
+   "code": "NEWYEAR26",
+   "reward": "25 Shiny, Rainbow, And Void Charms"
+  },
+  {
+   "code": "DEC25",
+   "reward": "25 Shiny, Rainbow, And Void Charms"
+  },
+  {
+   "code": "WINT3R",
+   "reward": "33 Rainbow Charms"
+  },
+  {
+   "code": "GOBBLE",
+   "reward": "27 Void Charms"
+  },
+  {
+   "code": "PLAZA",
+   "reward": "50 Rainbow Charms"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "31 Void Charms"
+  },
+  {
+   "code": "ELEMENTS",
+   "reward": "50 Shiny Charms"
+  },
+  {
+   "code": "CLANS",
+   "reward": "67 Rainbow Charms"
+  },
+  {
+   "code": "CLASSIC",
+   "reward": "25 Void Charms, 25 Shiny Charms, And 25 Rainbow Charms"
+  },
+  {
+   "code": "DIFFICULTY",
+   "reward": "25 Void Charms"
+  },
+  {
+   "code": "BOSSING",
+   "reward": "100 Shiny Charms"
+  },
+  {
+   "code": "DUNGEONS",
+   "reward": "25 Rainbow Charms"
+  },
+  {
+   "code": "MASTERY",
+   "reward": "50 Shiny Charms"
+  },
+  {
+   "code": "AUTOCRAFT",
+   "reward": "25 Void Charms , 25 Rainbow Charms and 25 Shiny Charms"
+  },
+  {
+   "code": "HAPPY4TH",
+   "reward": "25 Shiny Charms"
+  },
+  {
+   "code": "FIREWORKS",
+   "reward": "25 Rainbow Charms"
+  },
+  {
+   "code": "SEASHORE",
+   "reward": "125 Shiny Charms and 2,000 Beach Balls"
+  },
+  {
+   "code": "SANDY",
+   "reward": "25 Rainbow Charms and 1,000 Beach Balls"
+  },
+  {
+   "code": "BEACH",
+   "reward": "25 Void Charms , 25 Rainbow Charms and 25 Shiny Charms"
+  },
+  {
+   "code": "SUNNY",
+   "reward": "100 Shiny Charms"
+  },
+  {
+   "code": "SUMMERPT2",
+   "reward": "50 Shiny Charms"
+  },
+  {
+   "code": "SUMMERPT1",
+   "reward": "50 Shiny Charms"
+  },
+  {
+   "code": "REVAMP",
+   "reward": "15 Void Charms , 60 Rainbow Charms and 300 Shiny Charms"
+  },
+  {
+   "code": "LEGEND",
+   "reward": "1,000 Crowns"
+  },
+  {
+   "code": "UPDATE100",
+   "reward": "100 Rainbow, 100 Shiny and 100 Void Charms"
+  },
+  {
+   "code": "500M",
+   "reward": "50 Void Charms, 500 Shiny and 50 Rainbow"
+  },
+  {
+   "code": "PETBOOST",
+   "reward": "20 Void Charms"
+  },
+  {
+   "code": "VOIDGG",
+   "reward": "20 Void Charms"
+  },
+  {
+   "code": "WEEKEND",
+   "reward": "20,000 Crowns"
+  },
+  {
+   "code": "OIOI",
+   "reward": "7,500 Crowns"
+  },
+  {
+   "code": "YIPPEE",
+   "reward": "5,000 Crowns"
+  },
+  {
+   "code": "2020",
+   "reward": "10,000 Crowns"
+  },
+  {
+   "code": "SLAYER",
+   "reward": "1,000 Crowns"
+  },
+  {
+   "code": "SABER",
+   "reward": "1,000 Crowns"
+  },
+  {
+   "code": "5000FOLLOWERS",
+   "reward": "5,000 Crowns"
+  },
+  {
+   "code": "ISLANDS",
+   "reward": "1,000 Crowns"
+  },
+  {
+   "code": "MASTER3395",
+   "reward": "1,000 Crowns"
+  },
+  {
+   "code": "ASTRO",
+   "reward": "100 Crowns"
+  },
+  {
+   "code": "ZARCO",
+   "reward": "100 Crowns"
+  },
+  {
+   "code": "100M",
+   "reward": "1,000 Crowns"
+  },
+  {
+   "code": "MIRRAWRXD",
+   "reward": "500 Crowns"
+  },
+  {
+   "code": "ERICK",
+   "reward": "300 Strength"
+  },
+  {
+   "code": "HENRYDEV",
+   "reward": "1,000 Strength"
+  },
+  {
+   "code": "PREZ",
+   "reward": "200 Crowns"
+  },
+  {
+   "code": "GRIM",
+   "reward": "50 Crowns"
+  },
+  {
+   "code": "BOSS",
+   "reward": "1,000 Coins and 200 Crowns"
+  },
+  {
+   "code": "MELIHKARDES",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "COOKIECLIX",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "TELANTHRIC",
+   "reward": "500 Coins and 50 Crowns"
+  },
+  {
+   "code": "STRAW",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "CALIXO",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "MMISTAKEN",
+   "reward": "999 Strength"
+  },
+  {
+   "code": "AIRSTUDIO",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "GOLDEN",
+   "reward": "200 Crowns"
+  },
+  {
+   "code": "RAVEN",
+   "reward": "500 Coins and 50 Crowns"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "150 Coins"
+  },
+  {
+   "code": "DEFILD",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "SUBTOAUSTIN",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "COOKIE",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "JS",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "GRAVY",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "ROBZI",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "RAZOR",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "MIRRORRS",
+   "reward": "10,000 Strength"
+  }
+ ],
+ "updated": "2026-08-13T10:03:29.863Z",
+ "source": "https://robloxden.com/game-codes/saber-simulator"
+}

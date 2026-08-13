@@ -1,0 +1,452 @@
+{
+ "slug": "arm-wrestle-simulator",
+ "name": "Arm Wrestle Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "clantimeupdate",
+   "reward": "a 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "seagodsfury",
+   "reward": "a 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "patrioticbunker",
+   "reward": "+2% To All Strengths and 72 hours of 3x Boosts"
+  },
+  {
+   "code": "weloveyou",
+   "reward": "+5% To All Strengths and 72 hours of 3x Boosts"
+  },
+  {
+   "code": "timetofish",
+   "reward": "3x Stat Boosts for 72 Hours"
+  },
+  {
+   "code": "geckoguy",
+   "reward": "a 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "happy4thofjuly",
+   "reward": "a 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "harborking",
+   "reward": "+1% all strengths and 72h 3x"
+  },
+  {
+   "code": "techisles",
+   "reward": "+1% all strengths and 72h 3x"
+  },
+  {
+   "code": "summerparty",
+   "reward": "+1% all strengths and 72h 3x"
+  },
+  {
+   "code": "toolatepatty",
+   "reward": "+1% all strengths and 72h 3x"
+  },
+  {
+   "code": "weblossom",
+   "reward": "1% Extra Stats and All Stats Boost (72 Hours)"
+  },
+  {
+   "code": "taverntime",
+   "reward": "a 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "timetobrew",
+   "reward": "a 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "breathebro",
+   "reward": "3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "dungeongatedelay",
+   "reward": "a 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "weds67",
+   "reward": "1 Santa Cookie"
+  },
+  {
+   "code": "sorryaboutthat",
+   "reward": "a 3x Boost (72 Hours)"
+  },
+  {
+   "code": "northpole",
+   "reward": "a 3x Boost (72 Hours)"
+  },
+  {
+   "code": "dungeonsopen",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "planetzorp",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "massiveqol",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "merrychristmas",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "woohoomailbox",
+   "reward": "3x Stat Boost And 2 Santa's Cookies"
+  },
+  {
+   "code": "toyfactory",
+   "reward": "3x Stat Boost And 2 Santa's Cookies"
+  },
+  {
+   "code": "christmaspart2",
+   "reward": "3x Stat Boost And 2 Santa's Cookie"
+  },
+  {
+   "code": "qolupdate",
+   "reward": "3x Stat Boost"
+  },
+  {
+   "code": "wildwest",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "eventpassapology",
+   "reward": "Stat Boost"
+  },
+  {
+   "code": "abandonedthemepark",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "mansionunderworld",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "sorryfordelayagain",
+   "reward": "2x Halloween Boosts"
+  },
+  {
+   "code": "playfulminessorry",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "mansionbasement",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "hauntedmansion",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "hollowsorry",
+   "reward": "2x Event Strength Boost For 2 Hours"
+  },
+  {
+   "code": "spookyseason",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "citymines",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "desertmines",
+   "reward": "3x Stat Boost For 72 Hours"
+  },
+  {
+   "code": "playfulmines",
+   "reward": "3x Stat Boost For 48 Hours"
+  },
+  {
+   "code": "world1",
+   "reward": "5% Boost On Bicep, Grip, And Knuckle Strength"
+  },
+  {
+   "code": "soon",
+   "reward": "3x Stat Boost For 24 Hours"
+  },
+  {
+   "code": "vacation",
+   "reward": "3x Stat Boost For 5 Hours"
+  },
+  {
+   "code": "rocket",
+   "reward": "5% Stat Boost And 2 Hours Of 2x Wins"
+  },
+  {
+   "code": "sorryfordelay",
+   "reward": "Stat Boost (72 hours)"
+  },
+  {
+   "code": "welovemining",
+   "reward": "Stat Boost (72 hours)"
+  },
+  {
+   "code": "pyramids",
+   "reward": "Stat Boost (72 hours)"
+  },
+  {
+   "code": "egyptian",
+   "reward": "Stat Boost (72 hours)"
+  },
+  {
+   "code": "21iscoming",
+   "reward": "3x Boost For 48 Hours"
+  },
+  {
+   "code": "brainrot",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "removal",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "glassbridge",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "octogames",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "celebration",
+   "reward": "3x Stat Boosts (48 hours) and 5% Strength Bonus"
+  },
+  {
+   "code": "optimization",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "fixingstuff",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "delay",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "sakura",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "evilducky",
+   "reward": "3x Stat Boosts (72 hours)"
+  },
+  {
+   "code": "banker",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "sorryoops",
+   "reward": "5% Stat Boost and 3x Stat Boost (48 hours)"
+  },
+  {
+   "code": "timetravel",
+   "reward": "5% Stat Boost and 3x Stat Boost (48 hours)"
+  },
+  {
+   "code": "world19",
+   "reward": "5% Stat Boost and 3x Stat Boost (48 hours)"
+  },
+  {
+   "code": "bulk",
+   "reward": "3x Stat Boost (48 hours)"
+  },
+  {
+   "code": "tokenstore",
+   "reward": "3x Stat Boost (48 hours)"
+  },
+  {
+   "code": "superhero",
+   "reward": "3x Stat Boost (48 hours)"
+  },
+  {
+   "code": "captain",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "DRAGON",
+   "reward": "3x Stat Boosts (48 hours) and 1,500 Ninja Yen"
+  },
+  {
+   "code": "snowops",
+   "reward": "3x Stat Boosts (48 hours)"
+  },
+  {
+   "code": "cosmic",
+   "reward": "3x Stat Boost (24 hours)"
+  },
+  {
+   "code": "stocking",
+   "reward": "3x Stat Booost (72 hours) and Christmas Title"
+  },
+  {
+   "code": "frostlands",
+   "reward": "150 Ice Cubes and 3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "polar",
+   "reward": "2x Stat Boost (24 hours)"
+  },
+  {
+   "code": "shiny",
+   "reward": "3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "christmas",
+   "reward": "3x Stat Boosts (72 hours)"
+  },
+  {
+   "code": "Hacker",
+   "reward": "3x Stat Boost (24 hours)"
+  },
+  {
+   "code": "classic",
+   "reward": "3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "clans",
+   "reward": "3x Stat Boost (24 hours)"
+  },
+  {
+   "code": "rifted",
+   "reward": "3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "trainers",
+   "reward": "3x Stat Boost (24 hours)"
+  },
+  {
+   "code": "hauntedmanor",
+   "reward": "3x Stat Boosts (24 hours) and 3,500 Candy"
+  },
+  {
+   "code": "ghosthunting",
+   "reward": "3x Stat Boosts (12 hours) and 1 Halloween Card"
+  },
+  {
+   "code": "spooky",
+   "reward": "3x Stat Boost (24 hours) and 3,500 Candies"
+  },
+  {
+   "code": "hatching",
+   "reward": "Stat Boost (24 hours)"
+  },
+  {
+   "code": "billion",
+   "reward": "3x Stat Boosts (72 Hours)"
+  },
+  {
+   "code": "Heavenly",
+   "reward": "3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "rework",
+   "reward": "3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "paradise",
+   "reward": "3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "wasteland",
+   "reward": "3x Stat Boost (24 hours)"
+  },
+  {
+   "code": "apocalypse",
+   "reward": "3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "energy",
+   "reward": "3x Stat Boost (24 hours)"
+  },
+  {
+   "code": "royalty",
+   "reward": "3x Stat Boosts (24 hours)"
+  },
+  {
+   "code": "performance",
+   "reward": "2x Strength Boost (24 hours)"
+  },
+  {
+   "code": "charms",
+   "reward": "3x Stat Boost (24 hours)"
+  },
+  {
+   "code": "july4th",
+   "reward": "3x Stat Boosts (8 hours)"
+  },
+  {
+   "code": "sharkattack",
+   "reward": "3x Stats Boost (8 hour)"
+  },
+  {
+   "code": "atlantis",
+   "reward": "3x Stats Boost (8 hours)"
+  },
+  {
+   "code": "icecold",
+   "reward": "3x Stat Boost (24 hours)"
+  },
+  {
+   "code": "rewindtime",
+   "reward": "3x Stat Boost (12 hours)"
+  },
+  {
+   "code": "tradeplazasoon",
+   "reward": "3x Stat Boost (4 hours)"
+  },
+  {
+   "code": "slimeonallpets",
+   "reward": "3x Stat Boost (2 hours)"
+  },
+  {
+   "code": "supermembership",
+   "reward": "3x Stat Boost (6 hours)"
+  },
+  {
+   "code": "magicworld",
+   "reward": "3x Stat Boost (6 hours)"
+  },
+  {
+   "code": "thecodehunt",
+   "reward": "3x Stat Boost (2 hours)"
+  },
+  {
+   "code": "800mvisits",
+   "reward": "3x Stat Boosts (8 hours)"
+  },
+  {
+   "code": "5kreactions",
+   "reward": "+15% Strength"
+  },
+  {
+   "code": "500MILLION",
+   "reward": "2x Wins (5 hours)"
+  },
+  {
+   "code": "ITSHULKTIME",
+   "reward": "+15% Strength"
+  },
+  {
+   "code": "LIKES",
+   "reward": "2x Luck (5 hours) and 2x Wins (5 hours)"
+  },
+  {
+   "code": "bigupdatesoon",
+   "reward": "+10% Stats"
+  }
+ ],
+ "updated": "2026-08-13T09:57:00.451Z",
+ "source": "https://robloxden.com/game-codes/arm-wrestle-simulator"
+}

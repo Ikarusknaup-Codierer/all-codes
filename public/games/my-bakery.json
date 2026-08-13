@@ -1,0 +1,20 @@
+{
+ "slug": "my-bakery",
+ "name": "My Bakery",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "1klove",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "100likes",
+   "reward": "1,000 Cash"
+  }
+ ],
+ "updated": "2026-08-13T09:52:41.176Z",
+ "source": "https://robloxden.com/game-codes/my-bakery"
+}

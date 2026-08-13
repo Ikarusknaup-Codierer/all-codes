@@ -1,0 +1,288 @@
+{
+ "slug": "block-mayhem",
+ "name": "Block Mayhem",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "OneMillionVisits",
+   "reward": "500% Luck"
+  },
+  {
+   "code": "2xLuckHurray",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "LEGACY",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "IDKwhatToPut",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "Events",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "PURGATORY",
+   "reward": "Gems"
+  },
+  {
+   "code": "FUSION",
+   "reward": "Gems"
+  },
+  {
+   "code": "Andromeda",
+   "reward": "Gems"
+  },
+  {
+   "code": "TooLongDidntAsk",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "datatstoreworkplease",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "DatastoreIsGoodNow",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "EUPHORIA",
+   "reward": "Gems"
+  },
+  {
+   "code": "QuestsWorking",
+   "reward": "Gems"
+  },
+  {
+   "code": "PleaseGiftMe",
+   "reward": "Gems"
+  },
+  {
+   "code": "TRBisntRARESThahahaLOL",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "PublicPlacer",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "NewYears2023",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "HappyEaster",
+   "reward": "Gems"
+  },
+  {
+   "code": "ClientSpawners",
+   "reward": "Gems"
+  },
+  {
+   "code": "HappyBDAY",
+   "reward": "Gems"
+  },
+  {
+   "code": "CHROMA",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "GOLDEN",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "CYBER",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "bo",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "Only499LeftToGo",
+   "reward": "1 Icy Block"
+  },
+  {
+   "code": "iLoveLife",
+   "reward": "1 Life Block"
+  },
+  {
+   "code": "CRAFTING",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "sorry4bugs",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "ImLonelyOnValentines",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "APRILFOOLS",
+   "reward": "Gems"
+  },
+  {
+   "code": "iAintReadingAllat",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "10Mvisits",
+   "reward": "10,000 Gems"
+  },
+  {
+   "code": "Optimized",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "SUMMER",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "BlockDelayhem",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Release",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "CollectsOffline",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "ConsoleSupport",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "ChaosPlease",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Balancing",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "BugMayhem",
+   "reward": "350 Gems"
+  },
+  {
+   "code": "Mayhem",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Chromatics",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Delayhem",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "RarestBlock",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "bmTickRate",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Buffs",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Fixes",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Abilities",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "NoooMyLuckEvent",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "YESSSmyLuckEventIsBack",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "FinallyFunctioningGame",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "WORKERS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ESCAPETHEMATRIX",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "iLoveFlexxing",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "SorryDelaysAgain",
+   "reward": "Gems"
+  },
+  {
+   "code": "Tesseract",
+   "reward": "Gems"
+  },
+  {
+   "code": "MapOverhaul",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "NewQuests",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "EventsBack",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "Jolly",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "SorryDelay",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "INVERTED",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "DEPTH",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "NEWUPDATE",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "Toxic",
+   "reward": "Gems"
+  },
+  {
+   "code": "FunnyInvert",
+   "reward": "Gems"
+  },
+  {
+   "code": "COMPETITION",
+   "reward": "Gems"
+  },
+  {
+   "code": "OMGLuckEvent",
+   "reward": "500 Gems"
+  }
+ ],
+ "updated": "2026-08-13T09:52:11.723Z",
+ "source": "https://robloxden.com/game-codes/block-mayhem"
+}

@@ -1,0 +1,360 @@
+{
+ "slug": "rebirth-champions-x",
+ "name": "Rebirth Champions X",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "bee",
+   "reward": "Four 2x Luck Boosts"
+  },
+  {
+   "code": "110m",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "celestial",
+   "reward": "4 2x Luck Boost"
+  },
+  {
+   "code": "ice",
+   "reward": "4 2x Luck Boost"
+  },
+  {
+   "code": "air",
+   "reward": "4 2x Luck Boost"
+  },
+  {
+   "code": "city",
+   "reward": "4 2x Luck Boost"
+  },
+  {
+   "code": "forge",
+   "reward": "4 2x Luck Boost"
+  },
+  {
+   "code": "temple",
+   "reward": "4 2x Luck Boost"
+  },
+  {
+   "code": "mine",
+   "reward": "4 2x Luck Boost"
+  },
+  {
+   "code": "haunted",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "scary",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "cowboy",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "castle",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "sand",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "dino",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "rcx",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "sunflower",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "coconut",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "shiny",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "time",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "rainbow",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "zombie",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "swamp",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "frosty",
+   "reward": "4 x2 Luck Boost"
+  },
+  {
+   "code": "130m",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "star",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "nebula",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "sport",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "dark",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "pineapple",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "shell",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "mountain",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "water",
+   "reward": "4 2x Luck Boost"
+  },
+  {
+   "code": "electro",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "earth",
+   "reward": "4 2x Luck Boosts (30 minutes)"
+  },
+  {
+   "code": "school",
+   "reward": "4 2x Luck Boosts (30 minutes)"
+  },
+  {
+   "code": "samurai",
+   "reward": "4 2x Luck Boost (30 minutes)"
+  },
+  {
+   "code": "candy",
+   "reward": "4 2x Luck Boost (30 minutes)"
+  },
+  {
+   "code": "sandbox",
+   "reward": "4 2x Luck Boost (30 minutes)"
+  },
+  {
+   "code": "emoji",
+   "reward": "4 2x Luck Boost (30 minutes)"
+  },
+  {
+   "code": "arcade",
+   "reward": "4 2x Luck Boosts (30 minutes)"
+  },
+  {
+   "code": "egg",
+   "reward": "4 2x Luck Boosts (30 minutes)"
+  },
+  {
+   "code": "easter2024",
+   "reward": "4 2x Luck Boost (30 minutes)"
+  },
+  {
+   "code": "clown",
+   "reward": "4 2x Luck Boost (30 minutes)"
+  },
+  {
+   "code": "fun",
+   "reward": "4 2x Luck Boost (30 minutes)"
+  },
+  {
+   "code": "maze",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "factory",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "wow30000",
+   "reward": "1 Double Rebirt Boost"
+  },
+  {
+   "code": "thanks500likes",
+   "reward": "1 Double Clicks Boost"
+  },
+  {
+   "code": "turkey",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "ghost",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "120m",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "volcanic",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "mushroom",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "fall",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "forest",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "fire",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "futuristic",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "military",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "viking",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "crystal",
+   "reward": "4 Double Luck Boosts"
+  },
+  {
+   "code": "BUNNY",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "EASTER2023",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "FAIRY",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "OMGFREEX3LUCK",
+   "reward": "a 2x Luck Boost"
+  },
+  {
+   "code": "CLOVER",
+   "reward": "a 2x Luck Boost"
+  },
+  {
+   "code": "JUNGLE",
+   "reward": "a 2x Luck Boost"
+  },
+  {
+   "code": "DRAGON",
+   "reward": "a 2x Luck Boost"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 2x Click Boost"
+  },
+  {
+   "code": "ALREADY1500LIKES",
+   "reward": "1 2x Luck Boost"
+  },
+  {
+   "code": "WOW2500LIKES",
+   "reward": "1 2x Rebirth Boost"
+  },
+  {
+   "code": "5KLIKESTHANKS",
+   "reward": "1 2x Rebirth Boost"
+  },
+  {
+   "code": "WOW10KLIKESTHANKS",
+   "reward": "1 2x Rebirth Boost"
+  },
+  {
+   "code": "FREELUCKBOOST",
+   "reward": "1 2x Luck Boost"
+  },
+  {
+   "code": "FREECLICKSOMG",
+   "reward": "1 2x Click Boost"
+  },
+  {
+   "code": "20KTHANKYOU",
+   "reward": "1 2x Click Boost"
+  },
+  {
+   "code": "10MTHANKS",
+   "reward": "2 2x Luck Boosts"
+  },
+  {
+   "code": "THANKSFOR50K",
+   "reward": "1 2x Luck Boost"
+  },
+  {
+   "code": "75KTHANKS",
+   "reward": "2 2x Rebirth Boosts"
+  },
+  {
+   "code": "100KTHANKS",
+   "reward": "2 2x Rebirth Boosts"
+  },
+  {
+   "code": "50M",
+   "reward": "2 2x Luck Boosts"
+  },
+  {
+   "code": "150KTHANKS",
+   "reward": "3 2x Rebirth Boosts"
+  },
+  {
+   "code": "UPDATE32",
+   "reward": "2 2x Luck Boosts"
+  },
+  {
+   "code": "FLOWER",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "175KTHANKS",
+   "reward": "1 10x Click Boost"
+  },
+  {
+   "code": "100M",
+   "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "ANNIVERSARY",
+   "reward": "4 2x Luck Boosts"
+  }
+ ],
+ "updated": "2026-08-13T09:59:55.366Z",
+ "source": "https://robloxden.com/game-codes/rebirth-champions-x"
+}

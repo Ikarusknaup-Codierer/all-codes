@@ -1,0 +1,356 @@
+{
+ "slug": "anime-souls-simulator",
+ "name": "Anime Souls Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "120KLIKES",
+   "reward": "30 of Every Potion , 10 Dark Enchantment Tokens , 10 Magic Essence , 1"
+  },
+  {
+   "code": "UPDATE37",
+   "reward": "20 of Every Potion , 20 Magic Essence , 20 Spirit Orbs , 20 Red Eyes ,"
+  },
+  {
+   "code": "SHUTDOWN",
+   "reward": "15 Passive Rolls , 15 Potions , and 20 Coins"
+  },
+  {
+   "code": "sorryforthequests",
+   "reward": "15 Passive Rolls , 15 Potions , and 20 Coins"
+  },
+  {
+   "code": "sorryforshields",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "badaccessories",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "infinitesouls",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "sorryforglobalboss",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update9",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "sorryguys",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update8",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "70klikes",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update7",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "60KLIKES",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update5",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update4",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "THXGUYS1",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "THXGUYS2",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "45klikes",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "35klikes",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "sorryforshutdowns2",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "UPDATE3DELAY",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "sorryforkaido",
+   "reward": "30 Free Spins"
+  },
+  {
+   "code": "sorryforworld7",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update34",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "battlepass3season",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update33",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "mazter_upgrader",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update32",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update31",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "craftallonmachines",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "Update30",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "stupidbug",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "sorryforupd29delay",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "Update29",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "heroandluckbug",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "Update28",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "surpriseshutdown",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "Update27",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "shieldheroes",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update26",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update25",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update24",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "110klikes",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "shutdownoffixes",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "50kdcmembers",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update23",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "themaztershutdown",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update22",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update21",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update20",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update19",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "bruhheroranks",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update18",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "heroesbug",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "theshutdown",
+   "reward": "Free Bloods"
+  },
+  {
+   "code": "update17",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update16",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update15",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update14",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "onibeautiful",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "90klikes",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "mathbeautiful",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update13",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "defenseveryop",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update12",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "leozimbeautiful",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "1mgroupmembers",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "meteorshowers",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "swordbugged",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update11",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "80klikes",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "morebuffs",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "fastshutdown",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update10",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "UPDATE36",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "update35",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "leozimgamers",
+   "reward": "Free Energy, Souls, And Potions"
+  },
+  {
+   "code": "l3ni",
+   "reward": "1 Luck Potion"
+  },
+  {
+   "code": "HALLOWEENBATTLEPASS",
+   "reward": "Energy, Souls, Potions, And Boosts"
+  },
+  {
+   "code": "Halloweeneventisending",
+   "reward": "Energy, Souls, Potions, And More"
+  },
+  {
+   "code": "Subopen",
+   "reward": "10 Skill Points"
+  },
+  {
+   "code": "Opensamu",
+   "reward": "100 Energy And Free Damage"
+  }
+ ],
+ "updated": "2026-08-13T09:50:23.849Z",
+ "source": "https://robloxden.com/game-codes/anime-souls-simulator"
+}

@@ -1,0 +1,40 @@
+{
+ "slug": "pet-race",
+ "name": "Pet Race",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "release",
+   "reward": "Win Boost"
+  },
+  {
+   "code": "20KMEMBERS",
+   "reward": "Reward"
+  },
+  {
+   "code": "5K",
+   "reward": "5,000 Speed"
+  },
+  {
+   "code": "100KFavorite",
+   "reward": "3 Triple Win Boosts"
+  },
+  {
+   "code": "10KLikes",
+   "reward": "2 Auto Click Boosts"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "Free Boosts"
+  },
+  {
+   "code": "3klikes",
+   "reward": "Free Boosts"
+  }
+ ],
+ "updated": "2026-08-13T09:56:27.690Z",
+ "source": "https://robloxden.com/game-codes/pet-race"
+}

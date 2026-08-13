@@ -1,0 +1,472 @@
+{
+ "slug": "candy-clicking-simulator",
+ "name": "Candy Clicking Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "70KLIKES",
+   "reward": "Boost"
+  },
+  {
+   "code": "65KLIKES",
+   "reward": "Boost"
+  },
+  {
+   "code": "VALENTINESHYPE",
+   "reward": "2 Hours Of 2x Luck Boost"
+  },
+  {
+   "code": "VALENTINES",
+   "reward": "2x Hatching Speed Boost (1 hour)"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "2x Rebirths Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE15",
+   "reward": "15,000 Clicks"
+  },
+  {
+   "code": "UPDATE14",
+   "reward": "14,000 Clicks"
+  },
+  {
+   "code": "130KGROUPMEMBERS",
+   "reward": "2x Rebirths Boost (30 minutes)"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "10,000 Clicks"
+  },
+  {
+   "code": "100kVisits",
+   "reward": "2x Gems Boost (30 minutes)"
+  },
+  {
+   "code": "300Likes",
+   "reward": "3,000 Gems"
+  },
+  {
+   "code": "CAM",
+   "reward": "500 Clicks"
+  },
+  {
+   "code": "UPDATE31",
+   "reward": "31,000 Clicks"
+  },
+  {
+   "code": "UPDATE30",
+   "reward": "30,000 Clicks"
+  },
+  {
+   "code": "UPDATE27",
+   "reward": "27,000 Clicks"
+  },
+  {
+   "code": "UPDATE26",
+   "reward": "26,000 Clicks"
+  },
+  {
+   "code": "FREEIMPOSTER",
+   "reward": "Imposter Pet"
+  },
+  {
+   "code": "PLUSHIE",
+   "reward": "2x Luck Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE40",
+   "reward": "40,000 Clicks"
+  },
+  {
+   "code": "6MEVENT",
+   "reward": "2x Luck Boost (2 hours)"
+  },
+  {
+   "code": "6MVISITS",
+   "reward": "2x Clicks Boost (5 hours)"
+  },
+  {
+   "code": "UPDATE35",
+   "reward": "35,000 Clicks"
+  },
+  {
+   "code": "UPDATE33",
+   "reward": "33,000 Clicks"
+  },
+  {
+   "code": "SUMMER",
+   "reward": "Every Boost (1 hour)"
+  },
+  {
+   "code": "57KLIKES",
+   "reward": "2x Rebirths Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE68",
+   "reward": "68,000 Clicks"
+  },
+  {
+   "code": "UPDATE65",
+   "reward": "65,000 Clicks"
+  },
+  {
+   "code": "11MVISITS",
+   "reward": "2x Gems Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE61",
+   "reward": "61,000 Clicks"
+  },
+  {
+   "code": "OPCODE",
+   "reward": "Every Boost (5 hours)"
+  },
+  {
+   "code": "UPDATE58",
+   "reward": "58,000 Clicks"
+  },
+  {
+   "code": "UPDATE56",
+   "reward": "56,000 Clicks"
+  },
+  {
+   "code": "ROBOT",
+   "reward": "2x Rebirths Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE53",
+   "reward": "53,000 Clicks"
+  },
+  {
+   "code": "UPDATE52",
+   "reward": "52,000 Clicks"
+  },
+  {
+   "code": "SECRET",
+   "reward": "2x Gems Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE49",
+   "reward": "49,000 Clicks"
+  },
+  {
+   "code": "UPDATE47",
+   "reward": "47,000 Clicks"
+  },
+  {
+   "code": "UPDATE46",
+   "reward": "46,000 Clicks"
+  },
+  {
+   "code": "UPDATE44",
+   "reward": "44,000 Clicks"
+  },
+  {
+   "code": "Update2",
+   "reward": "2,000 Clicks"
+  },
+  {
+   "code": "CANDY",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "UPDATE32",
+   "reward": "32,000 Clicks"
+  },
+  {
+   "code": "SPACE",
+   "reward": "2x Luck Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE28",
+   "reward": "28,000 Clicks"
+  },
+  {
+   "code": "GODLY",
+   "reward": "2x Super Rebirth Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE24",
+   "reward": "24,000 Clicks"
+  },
+  {
+   "code": "UPDATE21",
+   "reward": "21,000 Clicks"
+  },
+  {
+   "code": "TOFU",
+   "reward": "2x Luck Boost (2 hours)"
+  },
+  {
+   "code": "18KFAVORITES",
+   "reward": "2x Clicks Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE16",
+   "reward": "16,000 Clicks"
+  },
+  {
+   "code": "FLAMING",
+   "reward": "2x Gems Boost (30 minutes)"
+  },
+  {
+   "code": "UPDATE13",
+   "reward": "13,000 Clicks"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "2x Clicks Boost (1 hour)"
+  },
+  {
+   "code": "Update3",
+   "reward": "3,000 Clicks"
+  },
+  {
+   "code": "UPDATE34",
+   "reward": "34,000 Clicks"
+  },
+  {
+   "code": "MAXLEVELPOTION",
+   "reward": "1 Max Level Potion"
+  },
+  {
+   "code": "UPDATE37",
+   "reward": "37,000 Clicks"
+  },
+  {
+   "code": "17KLIKES",
+   "reward": "2x Rebirths Boost (5 hours)"
+  },
+  {
+   "code": "UPDATE48",
+   "reward": "48,000 Clicks"
+  },
+  {
+   "code": "7MEVENT",
+   "reward": "2x Super Rebirths Boost (2 hours)"
+  },
+  {
+   "code": "DEMON",
+   "reward": "2x Luck Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE43",
+   "reward": "43,000 Clicks"
+  },
+  {
+   "code": "UPDATE41",
+   "reward": "41,000 Clicks"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Clicks"
+  },
+  {
+   "code": "CANDYGOD",
+   "reward": "Candy God Pet"
+  },
+  {
+   "code": "UPDATE74",
+   "reward": "74,000 Clicks"
+  },
+  {
+   "code": "UPDATE66",
+   "reward": "66,000 Clicks"
+  },
+  {
+   "code": "UPDATE63",
+   "reward": "63,000 Clicks"
+  },
+  {
+   "code": "10MEVENT",
+   "reward": "2x Luck Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE60",
+   "reward": "60,000 Clicks"
+  },
+  {
+   "code": "CLOWN",
+   "reward": "2x Super Rebirths Boost (1 hour)"
+  },
+  {
+   "code": "PATRIOTIC",
+   "reward": "2x Luck Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE55",
+   "reward": "55,000 Clicks"
+  },
+  {
+   "code": "SPARKLE",
+   "reward": "2x Luck Boost (1 hour)"
+  },
+  {
+   "code": "ULTIMATE",
+   "reward": "2x Clicks Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE51",
+   "reward": "51,000 Clicks"
+  },
+  {
+   "code": "SUPERHERO",
+   "reward": "2x Luck Boost (1 hour)"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "2x Clicks Boost (1 hour)"
+  },
+  {
+   "code": "Event",
+   "reward": "2x Rebirth Boost (30 minutes)"
+  },
+  {
+   "code": "1kfavorites",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "5MEGG",
+   "reward": "2x Hatching Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE29",
+   "reward": "29,000 Clicks"
+  },
+  {
+   "code": "4MEVENT",
+   "reward": "2x Luck Boost (5 hours)"
+  },
+  {
+   "code": "UPDATE25",
+   "reward": "25,000 Clicks"
+  },
+  {
+   "code": "OMEGA",
+   "reward": "2x Rebirths Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE20",
+   "reward": "20,000 Clicks"
+  },
+  {
+   "code": "UPDATE18",
+   "reward": "17,000 Clicks"
+  },
+  {
+   "code": "2MEGG",
+   "reward": "2x Clicks Boost (1 hour)"
+  },
+  {
+   "code": "BURNT",
+   "reward": "2x Rebirths Boost (30 minutes)"
+  },
+  {
+   "code": "MEGAPETS",
+   "reward": "2x GemsBoost (30 minutes)"
+  },
+  {
+   "code": "UPDATE12",
+   "reward": "12,000 Clicks"
+  },
+  {
+   "code": "GALAXY",
+   "reward": "2x Luck Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE62",
+   "reward": "62,000 Clicks"
+  },
+  {
+   "code": "10MVISITS",
+   "reward": "Every Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE59",
+   "reward": "59,000 Clicks"
+  },
+  {
+   "code": "UPDATE57",
+   "reward": "57,000 Clicks"
+  },
+  {
+   "code": "9MEVENT",
+   "reward": "1 Max Level Potion"
+  },
+  {
+   "code": "UPDATE54",
+   "reward": "54,000 Clicks"
+  },
+  {
+   "code": "DUCK",
+   "reward": "1 Max Level Potion"
+  },
+  {
+   "code": "8MEVENT",
+   "reward": "2x Rebirth Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE50",
+   "reward": "50,000 Clicks"
+  },
+  {
+   "code": "DOMINUS",
+   "reward": "2x Super Rebirth Boost (3 hours)"
+  },
+  {
+   "code": "DOGE",
+   "reward": "2x Luck Boost (2 hours)"
+  },
+  {
+   "code": "UPDATE45",
+   "reward": "45,000 Clicks"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "2x Rebirth Boost (5 hours)"
+  },
+  {
+   "code": "UPDATE42",
+   "reward": "42,000 Clicks"
+  },
+  {
+   "code": "UPDATE39",
+   "reward": "39,000 Clicks"
+  },
+  {
+   "code": "UPDATE38",
+   "reward": "38,000 Clicks"
+  },
+  {
+   "code": "UPDATE36",
+   "reward": "36,000 Clicks"
+  },
+  {
+   "code": "16KLIKES",
+   "reward": "1 Max Level Potion"
+  },
+  {
+   "code": "80KLIKES",
+   "reward": "2x Luck Boost (2 hours)"
+  },
+  {
+   "code": "RAINBOWEGG",
+   "reward": "2x Luck Boost (1 hour)"
+  },
+  {
+   "code": "UPDATE67",
+   "reward": "67,000 Clicks"
+  },
+  {
+   "code": "UPDATE64",
+   "reward": "64,000 Clicks"
+  }
+ ],
+ "updated": "2026-08-13T09:50:12.587Z",
+ "source": "https://robloxden.com/game-codes/candy-clicking-simulator"
+}

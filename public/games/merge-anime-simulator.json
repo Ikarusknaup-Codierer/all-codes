@@ -1,0 +1,336 @@
+{
+ "slug": "merge-anime-simulator",
+ "name": "Merge Anime Simulator",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Update9",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "12KFAV",
+   "reward": "2 2x money boosts (15 minutes)"
+  },
+  {
+   "code": "10000LIKES",
+   "reward": "3 2x gem boosts (10 minutes)"
+  },
+  {
+   "code": "13KFAV",
+   "reward": "2 2x money boosts (15 minutes)"
+  },
+  {
+   "code": "Update17",
+   "reward": "4 2x gem boosts (10 minutes)"
+  },
+  {
+   "code": "4MVISITS",
+   "reward": "10001 Units Rain"
+  },
+  {
+   "code": "11KLIKES",
+   "reward": "4 2x money boosts (15 minutes)"
+  },
+  {
+   "code": "Update18",
+   "reward": "2000 Units Rain"
+  },
+  {
+   "code": "2500FAV",
+   "reward": "Double Money (15 Minutes)"
+  },
+  {
+   "code": "Trade",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "Update10",
+   "reward": "Double Cash Boost"
+  },
+  {
+   "code": "4000LIKES",
+   "reward": "Double Cash Boost"
+  },
+  {
+   "code": "1M200KVISITS",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "5500FAV",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "5000FAV",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "1M100KVISITS",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "4500FAV",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "4000FAV",
+   "reward": "Double Cash Boost"
+  },
+  {
+   "code": "3500FAV",
+   "reward": "Double Money (15 Minutes)"
+  },
+  {
+   "code": "3000FAV",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "Update5",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "Update4",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "Double Money (10 Minutes)"
+  },
+  {
+   "code": "250LIKES",
+   "reward": "Double Money (10 Minutes)"
+  },
+  {
+   "code": "300FAV",
+   "reward": "Double Money (10 Minutes)"
+  },
+  {
+   "code": "Update3",
+   "reward": "2 Potion Money"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "300 Coins"
+  },
+  {
+   "code": "1500Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "1750Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "1000FAV",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "750FAV",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "500FAV",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Shutdown8Fix",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Shutdown7Fix",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Shutdown6Fix",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Shutdown5Fix",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Shutdown4Fix",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Update2",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "200LIKES",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "30KVISITS",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "20KVisits",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Update8",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Update7",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "Update6",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "3000Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "2250FAV",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "2000FAV",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "2750Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "2500Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "1750FAV",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "2250Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "2000Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "1500FAV",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "1250FAV",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "1000Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "1250Likes",
+   "reward": "Coins And Stars"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "Reward"
+  },
+  {
+   "code": "8500LIKES",
+   "reward": "Reward"
+  },
+  {
+   "code": "11KFAV",
+   "reward": "Reward"
+  },
+  {
+   "code": "10KFAV",
+   "reward": "Reward"
+  },
+  {
+   "code": "Update14",
+   "reward": "Reward"
+  },
+  {
+   "code": "7500LIKES",
+   "reward": "Reward"
+  },
+  {
+   "code": "9000FAV",
+   "reward": "Reward"
+  },
+  {
+   "code": "Update13",
+   "reward": "Reward"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "Reward"
+  },
+  {
+   "code": "Update11",
+   "reward": "Reward"
+  },
+  {
+   "code": "1M300KVISITS",
+   "reward": "Reward"
+  },
+  {
+   "code": "1M500KVISITS",
+   "reward": "Reward"
+  },
+  {
+   "code": "7000FAV",
+   "reward": "Reward"
+  },
+  {
+   "code": "6000FAV",
+   "reward": "Reward"
+  },
+  {
+   "code": "Update12",
+   "reward": "Reward"
+  },
+  {
+   "code": "6500LIKES",
+   "reward": "Reward"
+  },
+  {
+   "code": "8000FAV",
+   "reward": "Reward"
+  },
+  {
+   "code": "Update15",
+   "reward": "Reward"
+  },
+  {
+   "code": "TheEye",
+   "reward": "Reward"
+  },
+  {
+   "code": "Fruit",
+   "reward": "Reward"
+  },
+  {
+   "code": "Dungeons",
+   "reward": "Reward"
+  },
+  {
+   "code": "Crystals",
+   "reward": "Reward"
+  },
+  {
+   "code": "Dungeon",
+   "reward": "Reward"
+  },
+  {
+   "code": "Crystal",
+   "reward": "Reward"
+  },
+  {
+   "code": "Update16",
+   "reward": "4 2x gem boosts (10 minutes)"
+  }
+ ],
+ "updated": "2026-08-13T09:57:11.461Z",
+ "source": "https://robloxden.com/game-codes/merge-anime-simulator"
+}

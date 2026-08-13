@@ -23,10 +23,6 @@
    "reward": "50 Tickets , 100 Crystals , and 50 Trait Rerolls . You must be at leas"
   },
   {
-   "code": "Enzo2",
-   "reward": "100 Trait Rerolls . You must be at least Level 100 to use this code"
-  },
-  {
    "code": "ThanksForNitroBoost",
    "reward": "100 Trait Rerolls . You must be at least Level 50 to use this code"
   },
@@ -87,6 +83,10 @@
    "reward": "100 Tickets and 100 Crystals . You must be level 100 to claim this cod"
   },
   {
+   "code": "Enzo2",
+   "reward": "100 Trait Rerolls . You must be at least Level 100 to use this code"
+  },
+  {
    "code": "34KLikes",
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   },
@@ -107,6 +107,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-08-12T20:23:33.253Z",
+ "updated": "2026-08-13T20:12:13.153Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

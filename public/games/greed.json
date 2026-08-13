@@ -7,10 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "1stCode",
+   "code": "REGREED",
+   "reward": "15 Bloodline Rerolls"
+  },
+  {
+   "code": "NEWBEGINING",
+   "reward": "10 Bloodline Reroll"
+  },
+  {
+   "code": "ARTIFACTS",
+   "reward": "5 Bloodline Reroll"
+  },
+  {
+   "code": "SKILLS",
+   "reward": "3,000 Currency and 25 Bloodline Reroll"
+  },
+  {
+   "code": "150KVisits",
    "reward": ""
   }
  ],
- "updated": "2026-08-12T20:24:31.741Z",
+ "updated": "2026-08-13T20:13:06.674Z",
  "source": "https://robloxden.com/game-codes/greed"
 }

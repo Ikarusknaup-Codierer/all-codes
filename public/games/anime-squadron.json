@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "10MilVisits!",
+   "reward": "50 Trait Shards and 2,000 Gold"
+  },
+  {
    "code": "ObtainmentFixed!",
    "reward": "100 Trait Shards and 1,000 Gems"
   },
@@ -17,10 +21,6 @@
   {
    "code": "StarterShinobi!",
    "reward": "a Shuriken , 5,000 Gold , 50 Headbands , 30 Genjutsu Fog Vials , 50 Bi"
-  },
-  {
-   "code": "10MilVisits!",
-   "reward": "50 Trait Shards and 2,000 Gold"
   },
   {
    "code": "UnhumanLeaderSkill!",
@@ -39,6 +39,6 @@
    "reward": "50 Trait Shards , 1,000 Gems , and 2,000 Gold"
   }
  ],
- "updated": "2026-08-12T15:40:11.214Z",
+ "updated": "2026-08-13T20:06:43.437Z",
  "source": "https://robloxden.com/game-codes/anime-squadron"
 }

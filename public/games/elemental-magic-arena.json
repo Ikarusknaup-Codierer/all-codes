@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "100MVISITS",
+   "reward": "100 Diamonds"
+  },
+  {
    "code": "120KLIKES",
    "reward": "3 Souls"
   },
@@ -19,6 +23,6 @@
    "reward": "3 Souls"
   }
  ],
- "updated": "2026-08-12T20:23:26.233Z",
+ "updated": "2026-08-13T20:12:05.988Z",
  "source": "https://robloxden.com/game-codes/elemental-magic-arena"
 }

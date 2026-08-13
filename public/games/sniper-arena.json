@@ -15,14 +15,18 @@
    "reward": "1 Release Case"
   },
   {
-   "code": "FREELIKE1",
-   "reward": "a Random Mystic Knife"
+   "code": "newscrtcase",
+   "reward": "a Secret Crate"
   },
   {
-   "code": "50mvisit",
-   "reward": "a Neon Core Limited Case"
+   "code": "140mvisit",
+   "reward": "1 Secret Case"
+  },
+  {
+   "code": "FREELIKE2",
+   "reward": "a Random Mystic Knife"
   }
  ],
- "updated": "2026-08-12T20:24:07.763Z",
+ "updated": "2026-08-13T20:12:45.617Z",
  "source": "https://robloxden.com/game-codes/sniper-arena"
 }

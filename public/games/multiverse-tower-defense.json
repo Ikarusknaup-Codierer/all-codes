@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HEROBRINE",
+   "reward": "1 Block Crate"
+  },
+  {
    "code": "DAILY_QUESTS",
    "reward": "1 Raid Crate 4"
   },
@@ -47,6 +51,6 @@
    "reward": "a The Boys Crate"
   }
  ],
- "updated": "2026-08-12T15:40:26.429Z",
+ "updated": "2026-08-13T20:06:58.865Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

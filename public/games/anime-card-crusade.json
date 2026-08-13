@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ShadowEvent",
+   "reward": "5 Hyper Luck Potions , 5 Advanced Weather Rerolls , and 5 Boss Chance "
+  },
+  {
+   "code": "WeekendEvent",
+   "reward": "6 Advanced Weather Rerolls , 6 Dungeon Shards , and 6 Hyper Luck Potio"
+  },
+  {
    "code": "UPDT7",
    "reward": "10 Border Potion 3 , 10 Boss Chance , and 3 Advanced Weather"
   },
@@ -31,6 +39,6 @@
    "reward": "20 Luck Potion III , 20 Roll Speed Potion III , and 20 Weather Potion"
   }
  ],
- "updated": "2026-08-12T15:40:40.824Z",
+ "updated": "2026-08-13T20:07:12.808Z",
  "source": "https://robloxden.com/game-codes/anime-card-crusade"
 }

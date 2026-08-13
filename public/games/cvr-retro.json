@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "murtobrokeblocks",
-   "reward": "330 Cash"
-  },
-  {
    "code": "TWU!HOPE!MAPUA!",
    "reward": "385 Cash"
   },
@@ -49,8 +45,12 @@
   {
    "code": "BUILDSAREALMOSTBACK",
    "reward": "200 Cash"
+  },
+  {
+   "code": "murtobrokeblocks",
+   "reward": "330 Cash"
   }
  ],
- "updated": "2026-08-12T15:42:23.046Z",
+ "updated": "2026-08-13T20:09:00.170Z",
  "source": "https://robloxden.com/game-codes/cvr-retro"
 }

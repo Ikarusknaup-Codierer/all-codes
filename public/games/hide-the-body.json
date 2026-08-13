@@ -11,22 +11,18 @@
    "reward": "1 Easter Basket"
   },
   {
-   "code": "NewLobby!",
-   "reward": "1,000 Cash"
+   "code": "UltimateUpdate",
+   "reward": "a Rare Crate"
+  },
+  {
+   "code": "200M",
+   "reward": "rewards"
   },
   {
    "code": "ARCADE",
    "reward": "rewards"
-  },
-  {
-   "code": "OnceCommonCrate",
-   "reward": "a Common Crate"
-  },
-  {
-   "code": "HereBeUpdate",
-   "reward": "rewards"
   }
  ],
- "updated": "2026-08-12T15:42:40.508Z",
+ "updated": "2026-08-13T20:09:17.702Z",
  "source": "https://robloxden.com/game-codes/hide-the-body"
 }

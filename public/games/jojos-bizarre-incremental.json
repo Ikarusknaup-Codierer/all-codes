@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "MOREFINGERS",
+   "reward": "20 John's Fingers"
+  },
+  {
+   "code": "FREEJOHNFINGERS",
+   "reward": "15 John's Fingers"
+  },
+  {
+   "code": "JOHN",
+   "reward": "50,000 XP , 50,000 Yen , 50 Stand Arrows , and 5 Mythical Giftboxes"
+  },
+  {
+   "code": "ROD",
+   "reward": "50,000 XP , 50,000 Yen , 50 Rokakaka , and 5 Mythical Giftboxes"
+  },
+  {
    "code": "GANGWARS",
    "reward": "25,000 Yen , 50 Rokakaka , 3 Mythical Giftboxes , 50 Stand Arrows , an"
   },
@@ -55,6 +71,6 @@
    "reward": "5000 XP , 5000 Yen , 25 Stand Arrow , and 5 Mythical Giftbox"
   }
  ],
- "updated": "2026-08-12T20:23:10.474Z",
+ "updated": "2026-08-13T20:11:51.418Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

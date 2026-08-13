@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BERSERK",
+   "reward": "100 Damage Potions , 2 Golden Drop Rate Totems , 3 Codex EXP Tomes , 1"
+  },
+  {
+   "code": "ORIGIN",
+   "reward": "550 Reroll Traits , 2 Ultra Clovers , and 2 32x Clovers"
+  },
+  {
    "code": "JACKPOT",
    "reward": "2 32x Clovers , 2 Ultra Clovers , and 550 Trait Rerolls"
   },
@@ -131,6 +139,6 @@
    "reward": "6.8k Coins, 67 Traits Rerolls, 7 Coin Potions and 6 Luck Potions"
   }
  ],
- "updated": "2026-08-12T15:40:31.880Z",
+ "updated": "2026-08-13T20:07:04.351Z",
  "source": "https://robloxden.com/game-codes/anime-battle-rng"
 }

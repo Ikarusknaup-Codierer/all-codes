@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "key-summerticket-24294493",
+   "reward": "8 Tickets for Lottery"
+  },
+  {
+   "code": "key-pity-14712728",
+   "reward": "20 Summer Tokens and 2 Evolution Stones"
+  },
+  {
+   "code": "key-dc10000-57416837",
+   "reward": "20 Summer Tokens and 4 Evolution Stones"
+  },
+  {
+   "code": "key-summertoken-45548959",
+   "reward": "10 Summer Tokens"
+  },
+  {
    "code": "udp10",
    "reward": "2 Weapons Stones"
   },
@@ -39,6 +55,6 @@
    "reward": "100 Weapon Stones and 10 Soul Ring Rerolls"
   }
  ],
- "updated": "2026-08-12T15:40:31.380Z",
+ "updated": "2026-08-13T20:07:03.846Z",
  "source": "https://robloxden.com/game-codes/1-dmg-per-revive"
 }

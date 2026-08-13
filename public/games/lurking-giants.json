@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "SORRYFORDELAY",
-   "reward": "200 Coins"
-  },
-  {
    "code": "10MILVISITS",
    "reward": "500 Coins"
   },
   {
    "code": "REDIESFAULT",
    "reward": "200 Coins"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "200 Coins"
   }
  ],
- "updated": "2026-08-12T15:37:26.097Z",
+ "updated": "2026-08-13T20:05:06.527Z",
  "source": "https://robloxden.com/game-codes/lurking-giants"
 }

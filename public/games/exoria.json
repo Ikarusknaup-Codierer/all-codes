@@ -11,18 +11,18 @@
    "reward": "5 Rolls"
   },
   {
-   "code": "GRIND",
-   "reward": "5 Rolls"
+   "code": "MORETOCOME",
+   "reward": ""
   },
   {
-   "code": "FREEROLLS",
-   "reward": "Free Rewards"
+   "code": "MOREROLLS",
+   "reward": "5 Rolls"
   },
   {
    "code": "PATCH",
    "reward": "5 Rolls"
   }
  ],
- "updated": "2026-08-12T15:43:47.854Z",
+ "updated": "2026-08-13T20:10:08.567Z",
  "source": "https://robloxden.com/game-codes/exoria"
 }

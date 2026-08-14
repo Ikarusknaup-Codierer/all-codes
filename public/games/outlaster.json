@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "NEW",
-   "reward": "New"
+   "code": "JUNGLELIFE",
+   "reward": "50 Gems"
   },
   {
-   "code": "STARTER",
-   "reward": "Starter"
+   "code": "GOURDS",
+   "reward": "1 Pumpkin Necklace"
   },
   {
    "code": "SPRING",
@@ -25,8 +25,12 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
+  },
+  {
+   "code": "NEW",
+   "reward": "New"
   }
  ],
- "updated": "2026-08-13T10:03:24.889Z",
+ "updated": "2026-08-14T15:14:10.923Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

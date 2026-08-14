@@ -11,22 +11,22 @@
    "reward": "300 Cash"
   },
   {
-   "code": "30m",
-   "reward": "$300 in-game dollars"
-  },
-  {
-   "code": "transrights",
-   "reward": ""
-  },
-  {
-   "code": "discord",
-   "reward": "500 Cash"
-  },
-  {
    "code": "BUNDLE",
    "reward": "50 Cash"
+  },
+  {
+   "code": "release",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "XMAS",
+   "reward": "50 Cash"
+  },
+  {
+   "code": "MULLETS",
+   "reward": "300 Cash"
   }
  ],
- "updated": "2026-08-13T15:33:33.814Z",
+ "updated": "2026-08-14T15:14:31.883Z",
  "source": "https://robloxden.com/game-codes/captive"
 }

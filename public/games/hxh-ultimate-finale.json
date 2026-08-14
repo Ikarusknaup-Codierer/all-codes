@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "REGIS",
+   "code": "SUB2NIJIXAMORE",
+   "reward": "2x Exp (1 Hour and 30 Minutes)"
+  },
+  {
+   "code": "SUBTOV2GIS",
    "reward": "1 Common Spin"
   },
   {
@@ -15,18 +19,14 @@
    "reward": "1 Affinity Spin"
   },
   {
-   "code": "TELBRIEG",
-   "reward": "1 Uncommon Hatsu Spin"
-  },
-  {
-   "code": "WYDVEDDEN",
-   "reward": "1 Lucky Nen Affinity"
+   "code": "CMONVEDDEN",
+   "reward": "1 Lucky New Reroll"
   },
   {
    "code": "MYBADBRUH",
    "reward": "1 Rare Spin"
   }
  ],
- "updated": "2026-08-13T15:34:33.530Z",
+ "updated": "2026-08-14T15:15:30.142Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

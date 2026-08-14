@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Update1",
+   "code": "Fireball",
    "reward": "Free Rewards"
   },
   {
-   "code": "Magician",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "HADESBOOST",
-   "reward": "a 10 Hour 1.6x XP Boost"
-  },
-  {
-   "code": "FASTLEVELS2",
-   "reward": "a 10 Hour 2x XP Boost"
+   "code": "NEW2021YEAR",
+   "reward": "a 24 Hour 1.5x Crown Boost and a 24 Hour 1.5x XP Boost"
   },
   {
    "code": "SELECTORCH200",
    "reward": "200 Crowns"
+  },
+  {
+   "code": "CURSE300",
+   "reward": "300 Crowns"
+  },
+  {
+   "code": "WARAGES300",
+   "reward": "300 Crowns"
   }
  ],
- "updated": "2026-08-13T15:36:53.649Z",
+ "updated": "2026-08-14T15:17:32.792Z",
  "source": "https://robloxden.com/game-codes/world-of-magic"
 }

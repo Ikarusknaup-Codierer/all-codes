@@ -15,18 +15,18 @@
    "reward": "1,500 School Points"
   },
   {
-   "code": "homework",
-   "reward": "500 Cash"
-  },
-  {
-   "code": "rebirth",
+   "code": "BUSUPDATE",
    "reward": "500 Cash"
   },
   {
    "code": "coolkid",
    "reward": "500 Cash"
+  },
+  {
+   "code": "study",
+   "reward": "500 Cash"
   }
  ],
- "updated": "2026-08-13T09:57:51.683Z",
+ "updated": "2026-08-14T15:13:21.891Z",
  "source": "https://robloxden.com/game-codes/my-school-tycoon"
 }

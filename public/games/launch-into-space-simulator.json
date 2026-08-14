@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "FL_Release",
-   "reward": "5,000 Flight Power"
+   "code": "THANKYOU_FORPLAYING",
+   "reward": "5 MVP Lions"
   },
   {
    "code": "100likes",
    "reward": ""
   },
   {
-   "code": "update1",
+   "code": "250likes",
+   "reward": ""
+  },
+  {
+   "code": "250likeswoo",
    "reward": "Unknown Reward"
   },
   {
    "code": "50klikes",
    "reward": "1 Super Luck Potion (1 hour)"
-  },
-  {
-   "code": "100klikes",
-   "reward": "1 2x Stars Potion (1 hour)"
   }
  ],
- "updated": "2026-08-13T09:54:28.220Z",
+ "updated": "2026-08-14T15:10:26.261Z",
  "source": "https://robloxden.com/game-codes/launch-into-space-simulator"
 }

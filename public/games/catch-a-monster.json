@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "stardust",
+   "reward": "6,000 Drake Coins and 5 Stardust Clusters"
+  },
+  {
    "code": "BUFEXX",
    "reward": "a Shadeflame Egg"
   },
@@ -103,6 +107,6 @@
    "reward": "3 Small XP Potions and 3 Small Coin Potions"
   }
  ],
- "updated": "2026-08-12T20:27:05.893Z",
+ "updated": "2026-08-14T05:50:19.533Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

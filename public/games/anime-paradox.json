@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "QOLPATCH1",
+   "reward": "Gems and Trait Rerolls"
+  },
+  {
+   "code": "SUMMERSOON",
+   "reward": "Gems and Trait Rerolls"
+  },
+  {
+   "code": "HARDWORKING!!",
+   "reward": "Gems and Trait Rerolls"
+  },
+  {
    "code": "TicketVoucherQuest",
    "reward": "50 Trait Rerolls , 5,000 Gems , 35 Stat Chips , and 25 Super Stat Chip"
   },
@@ -59,6 +71,6 @@
    "reward": "50 Trait Rerolls , 1,000 Gems , and 1,512 Gold"
   }
  ],
- "updated": "2026-08-12T20:24:33.441Z",
+ "updated": "2026-08-14T05:48:16.619Z",
  "source": "https://robloxden.com/game-codes/anime-paradox"
 }

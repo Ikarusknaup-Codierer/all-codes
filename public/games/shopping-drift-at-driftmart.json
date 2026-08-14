@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Christmas",
+   "reward": "10,000 Cash"
+  },
+  {
    "code": "thanksgiving",
    "reward": "10,000 Drift Points"
   },
@@ -19,14 +23,10 @@
    "reward": "Reward"
   },
   {
-   "code": "bobthenpc",
-   "reward": "50,000 Drift Points"
-  },
-  {
    "code": "weback",
    "reward": "10,000 Drift Points"
   }
  ],
- "updated": "2026-08-12T20:29:34.729Z",
+ "updated": "2026-08-14T05:53:06.246Z",
  "source": "https://robloxden.com/game-codes/shopping-drift-at-driftmart"
 }

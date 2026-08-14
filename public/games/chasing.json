@@ -11,18 +11,14 @@
    "reward": "5 Rolls"
   },
   {
-   "code": "UPDATE1",
+   "code": "UPDATE3",
+   "reward": "12 Rolls"
+  },
+  {
+   "code": "50KLIKES",
    "reward": "1 Roll"
-  },
-  {
-   "code": "SORRYFORTHELONGWAIT",
-   "reward": "10 Rolls"
-  },
-  {
-   "code": "HAPPY2026",
-   "reward": "8 Rolls"
   }
  ],
- "updated": "2026-08-12T20:27:08.517Z",
+ "updated": "2026-08-14T05:50:22.918Z",
  "source": "https://robloxden.com/game-codes/chasing"
 }

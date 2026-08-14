@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LOTSOFBUGFIXES",
-   "reward": "500 Cursed Crystals , 3,500 Lumens , and 500 Summer Shells"
-  },
-  {
    "code": "190KLIKES",
    "reward": "3,500 Lumens , 250 Cursed Crystals , and 35 Clan Rolls"
   },
@@ -23,8 +19,16 @@
    "reward": "3,500 Lumens and 35 Clan Rolls"
   },
   {
+   "code": "CODE_LIMITED_EVENT!!",
+   "reward": "500 Cursed Crystals and 6 Shadow Essence"
+  },
+  {
    "code": "SUMMERBLADE",
    "reward": "500 Cursed Crystals , 3,500 Lumens , and 50 Clan Rolls"
+  },
+  {
+   "code": "LOTSOFBUGFIXES",
+   "reward": "500 Cursed Crystals , 3,500 Lumens , and 500 Summer Shells"
   },
   {
    "code": "TENSHADOWS",
@@ -43,6 +47,6 @@
    "reward": "3,000 Lumens , 175 Cursed Crystals , and 30 Clan Rolls"
   }
  ],
- "updated": "2026-08-12T20:25:52.903Z",
+ "updated": "2026-08-14T05:49:10.587Z",
  "source": "https://robloxden.com/game-codes/jujutsu-zero"
 }

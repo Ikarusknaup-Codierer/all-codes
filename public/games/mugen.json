@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CHASE",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "MUGENISCOMINGBACK",
-   "reward": "Chase Update Rewards"
-  },
-  {
    "code": "KNICKSIN5",
    "reward": "100K Yen"
   },
@@ -29,8 +21,16 @@
   {
    "code": "REBALANCING",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "CHASE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MUGENISCOMINGBACK",
+   "reward": "Chase Update Rewards"
   }
  ],
- "updated": "2026-08-12T20:30:51.026Z",
+ "updated": "2026-08-14T05:54:37.129Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

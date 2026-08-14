@@ -19,10 +19,14 @@
    "reward": "3,000 EXP"
   },
   {
-   "code": "NEWBIKES",
-   "reward": "Cash"
+   "code": "NEWUPD",
+   "reward": "EXP"
+  },
+  {
+   "code": "SUMMER",
+   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-08-13T05:53:02.837Z",
+ "updated": "2026-08-14T05:57:15.427Z",
  "source": "https://robloxden.com/game-codes/bikeworld"
 }

@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "HOLLOWPURPLEGEAR",
+   "reward": "50 Gear Lucky Spins"
+  },
+  {
+   "code": "SANDVILLAGE",
+   "reward": "75,000 Gold , 5 Raid Tickets , and 5 Frog Eggs"
+  },
+  {
+   "code": "NEWTRAITFEATURE",
+   "reward": "100 Runes"
+  },
+  {
+   "code": "OLDWEAPONSGRINDFIX",
+   "reward": "85 Runes , 20 Raid Tickets , and 50 Weapon Lucky Spins"
+  },
+  {
+   "code": "NEWXPREWARDS",
+   "reward": "100 Gear Lucky Spins and 50,000 Cash"
+  },
+  {
    "code": "SONKING",
    "reward": "60 Runes and 50 Raid Tickets"
   },
@@ -91,6 +111,6 @@
    "reward": "50 Runes"
   }
  ],
- "updated": "2026-08-12T20:26:18.871Z",
+ "updated": "2026-08-14T05:49:33.877Z",
  "source": "https://robloxden.com/game-codes/anime-final-quest"
 }

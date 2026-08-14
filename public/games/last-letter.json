@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SUIII",
-   "reward": "5 Spins"
-  },
-  {
    "code": "450KLIKES",
    "reward": "25K Tokens"
   },
@@ -37,8 +33,12 @@
   {
    "code": "300KLIKES",
    "reward": "20 Spins"
+  },
+  {
+   "code": "SUIII",
+   "reward": "5 Spins"
   }
  ],
- "updated": "2026-08-12T20:27:32.241Z",
+ "updated": "2026-08-14T05:50:48.685Z",
  "source": "https://robloxden.com/game-codes/last-letter"
 }

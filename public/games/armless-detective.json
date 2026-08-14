@@ -11,10 +11,6 @@
    "reward": "2 Random Crates and 70 Coins"
   },
   {
-   "code": "rtdcollab",
-   "reward": "40 Player Points and 1x Suit Crate 1"
-  },
-  {
    "code": "incognitofix",
    "reward": "20 Player Points"
   },
@@ -49,8 +45,12 @@
   {
    "code": "rtdpart2",
    "reward": "50 Player Points and 1 Random Crate"
+  },
+  {
+   "code": "rtdcollab",
+   "reward": "40 Player Points and 1x Suit Crate 1"
   }
  ],
- "updated": "2026-08-12T20:28:46.563Z",
+ "updated": "2026-08-14T05:52:13.405Z",
  "source": "https://robloxden.com/game-codes/armless-detective"
 }

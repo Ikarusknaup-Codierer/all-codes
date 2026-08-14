@@ -11,8 +11,12 @@
    "reward": "an 1,000 Silver"
   },
   {
-   "code": "SNOWGLOBE",
-   "reward": "300"
+   "code": "WONDERLAND2024",
+   "reward": ""
+  },
+  {
+   "code": "NORTHPOLE32",
+   "reward": "100"
   },
   {
    "code": "EASTER2023",
@@ -21,12 +25,8 @@
   {
    "code": "4509413",
    "reward": "100 Silver"
-  },
-  {
-   "code": "COLD",
-   "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-12T20:27:35.693Z",
+ "updated": "2026-08-14T05:50:52.187Z",
  "source": "https://robloxden.com/game-codes/snowman-simulator"
 }

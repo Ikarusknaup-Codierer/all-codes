@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "10MVISITS",
-   "reward": "2 Premium Ingredient Packs"
-  },
-  {
    "code": "FRUITS",
    "reward": "1 Basic Ingredient Pack"
   },
@@ -19,14 +15,18 @@
    "reward": "1 Alien Sprinkler"
   },
   {
-   "code": "67K",
-   "reward": "1 Common Egg"
+   "code": "10MVISITS",
+   "reward": "2 Premium Ingredient Packs"
   },
   {
    "code": "MOONLIT",
    "reward": "1 Void Sprinkler"
+  },
+  {
+   "code": "halloween",
+   "reward": "1 Jack O Fertilizer"
   }
  ],
- "updated": "2026-08-12T20:27:53.244Z",
+ "updated": "2026-08-14T05:51:10.176Z",
  "source": "https://robloxden.com/game-codes/grow-anything"
 }

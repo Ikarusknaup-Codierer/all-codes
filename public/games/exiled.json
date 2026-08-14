@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "NEWMAPCOMING",
+   "code": "30KLIKES",
    "reward": "Free rewards"
   },
   {
-   "code": "CHRISTMAS",
-   "reward": "1,500 Anoms"
+   "code": "BUGFIX",
+   "reward": "Free rewards"
   },
   {
-   "code": "40KFAVORITES",
-   "reward": "1,500 Anoms"
-  },
-  {
-   "code": "180KFAVORITES",
+   "code": "50KLIKES",
    "reward": "500 Tokens"
   },
   {
-   "code": "80KLIKES",
+   "code": "20KLIKES",
+   "reward": "2 Boosts"
+  },
+  {
+   "code": "90KLIKES",
    "reward": "500 Tokens"
   }
  ],
- "updated": "2026-08-13T05:54:51.811Z",
+ "updated": "2026-08-14T05:59:15.758Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

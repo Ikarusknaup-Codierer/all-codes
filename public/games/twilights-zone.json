@@ -19,14 +19,10 @@
    "reward": "100 Volts"
   },
   {
-   "code": "HOLIDAY25",
-   "reward": "250 Volts and 150 Snowflakes"
-  },
-  {
-   "code": "HALLOWEEN",
-   "reward": "150 Volts and 100 Candy Corns"
+   "code": "HOLIDAYDELAY",
+   "reward": "1,000 Snowflakes"
   }
  ],
- "updated": "2026-08-12T20:30:15.691Z",
+ "updated": "2026-08-14T05:53:55.329Z",
  "source": "https://robloxden.com/game-codes/twilights-zone"
 }

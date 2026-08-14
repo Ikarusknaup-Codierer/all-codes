@@ -27,10 +27,6 @@
    "reward": "1 Strength Potion"
   },
   {
-   "code": "1MVISITS",
-   "reward": "1 Luck Potion"
-  },
-  {
    "code": "DRAGONS",
    "reward": "1 Spin"
   },
@@ -107,6 +103,10 @@
    "reward": "1 Luck Potion"
   },
   {
+   "code": "1MVISITS",
+   "reward": "1 Luck Potion"
+  },
+  {
    "code": "RELEASE",
    "reward": "25 Wins"
   },
@@ -119,6 +119,6 @@
    "reward": "2 Trait Rolls"
   }
  ],
- "updated": "2026-08-13T05:51:39.138Z",
+ "updated": "2026-08-14T05:55:11.490Z",
  "source": "https://robloxden.com/game-codes/how-to-train-your-dragon"
 }

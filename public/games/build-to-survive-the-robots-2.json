@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "8K_LIKES",
-   "reward": "3,000 Cash"
-  },
-  {
    "code": "IAMTHEPLYW00D",
    "reward": "Woodbot"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Nutcup",
    "reward": "the Bun Item"
+  },
+  {
+   "code": "8K_LIKES",
+   "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-08-12T20:25:02.099Z",
+ "updated": "2026-08-14T05:48:28.898Z",
  "source": "https://robloxden.com/game-codes/build-to-survive-the-robots-2"
 }

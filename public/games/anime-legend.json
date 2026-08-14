@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "lurex",
-   "reward": "Gift"
+   "code": "FREEPET",
+   "reward": "Coins And Gems"
   },
   {
-   "code": "kobuzo",
+   "code": "ANIM3PLAYTIM3",
+   "reward": "Coins And Gems"
+  },
+  {
+   "code": "vol",
    "reward": "Gift"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "bugsfix",
    "reward": "Gift"
-  },
-  {
-   "code": "antiafk",
-   "reward": "Gift"
   }
  ],
- "updated": "2026-08-12T20:27:11.733Z",
+ "updated": "2026-08-14T05:50:26.123Z",
  "source": "https://robloxden.com/game-codes/anime-legend"
 }

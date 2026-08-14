@@ -19,18 +19,6 @@
    "reward": "325K Cash"
   },
   {
-   "code": "SHIDOU",
-   "reward": "25K Cash"
-  },
-  {
-   "code": "DEMON",
-   "reward": "50K Cash"
-  },
-  {
-   "code": "BANKAI",
-   "reward": "150K Cash"
-  },
-  {
    "code": "BarouNERF",
    "reward": "200k Cash"
   },
@@ -67,6 +55,18 @@
    "reward": "100,000 Cash"
   },
   {
+   "code": "SHIDOU",
+   "reward": "25K Cash"
+  },
+  {
+   "code": "DEMON",
+   "reward": "50K Cash"
+  },
+  {
+   "code": "BANKAI",
+   "reward": "150K Cash"
+  },
+  {
    "code": "SORRYFORDELAYPLS",
    "reward": "400,000 Cash"
   },
@@ -79,6 +79,6 @@
    "reward": "300,000 Cash"
   }
  ],
- "updated": "2026-08-12T20:27:19.217Z",
+ "updated": "2026-08-14T05:50:33.642Z",
  "source": "https://robloxden.com/game-codes/blue-lock-skibidi"
 }

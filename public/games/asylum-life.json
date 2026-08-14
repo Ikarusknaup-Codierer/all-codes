@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BODYGUARD",
+   "reward": "a 3x EXP Booster"
+  },
+  {
    "code": "RECRUIT",
    "reward": "3x EXP Booster"
   },
@@ -15,10 +19,14 @@
    "reward": "the Metal Shard Skin"
   },
   {
-   "code": "ZUDARAN",
+   "code": "Release",
+   "reward": "Free Points"
+  },
+  {
+   "code": "ZOMBIES",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-13T05:54:43.288Z",
+ "updated": "2026-08-14T05:59:06.640Z",
  "source": "https://robloxden.com/game-codes/asylum-life"
 }

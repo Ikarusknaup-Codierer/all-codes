@@ -11,14 +11,6 @@
    "reward": "20 Cash"
   },
   {
-   "code": "500KFAVS",
-   "reward": "20 Cash"
-  },
-  {
-   "code": "Summer",
-   "reward": "20 Cash"
-  },
-  {
    "code": "NEWYEAR2026",
    "reward": "Cash"
   },
@@ -41,8 +33,16 @@
   {
    "code": "HALLOWEEN",
    "reward": "100 Cash"
+  },
+  {
+   "code": "500KFAVS",
+   "reward": "20 Cash"
+  },
+  {
+   "code": "Summer",
+   "reward": "20 Cash"
   }
  ],
- "updated": "2026-08-13T09:51:54.627Z",
+ "updated": "2026-08-14T09:51:08.628Z",
  "source": "https://robloxden.com/game-codes/tea-time-dessert-buffet"
 }

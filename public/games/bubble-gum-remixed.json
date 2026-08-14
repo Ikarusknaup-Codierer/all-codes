@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "luckyeggs",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "summer",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "sorry4thewait",
+   "reward": "the Dark Phoenix"
+  },
+  {
+   "code": "speedy",
+   "reward": "2x Hatch Speed"
+  },
+  {
    "code": "Angelic",
    "reward": "250 hours of 2x Faster Egg Hatching , 2x Increased Luck , and 3x Bette"
   },
@@ -43,6 +59,6 @@
    "reward": "Faster Egg Hatching Boost (12 hours) , Increased Luck Boost (12 hours)"
   }
  ],
- "updated": "2026-08-13T05:57:11.365Z",
+ "updated": "2026-08-14T09:46:26.636Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-remixed"
 }

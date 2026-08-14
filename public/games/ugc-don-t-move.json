@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "10,000 Still Points"
+   "code": "SAVE",
+   "reward": "50,000 Still Points"
   },
   {
-   "code": "PiscesHoodie",
+   "code": "PlatinumHairwithBow",
+   "reward": "100,000 Still Points"
+  },
+  {
+   "code": "HappyEaster",
+   "reward": "90,000 Still Points"
+  },
+  {
+   "code": "SetsComingSoon",
    "reward": "300,000 Still Points"
   },
   {
-   "code": "BlackBunnyHair",
-   "reward": "50,000 Still Points"
+   "code": "PurpleCatHair",
+   "reward": "1,000,000 Still Points"
   }
  ],
- "updated": "2026-08-13T09:52:27.985Z",
+ "updated": "2026-08-14T09:51:41.956Z",
  "source": "https://robloxden.com/game-codes/ugc-don-t-move"
 }

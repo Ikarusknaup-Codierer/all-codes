@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "67",
-   "reward": "67 Pounds and 670,000 Credits"
-  },
-  {
    "code": "pleach",
    "reward": "Pleach Message"
-  },
-  {
-   "code": "67LOOOL",
-   "reward": "670 Quid , 670,000 Yen , 67 Legendary Crates , 100 Common Crates , 70 "
-  },
-  {
-   "code": "compensate",
-   "reward": "6 Tokens"
   },
   {
    "code": "yoyo",
@@ -49,8 +37,20 @@
   {
    "code": "catIoaf",
    "reward": "20,000 Cash"
+  },
+  {
+   "code": "67",
+   "reward": "67 Pounds and 670,000 Credits"
+  },
+  {
+   "code": "67LOOOL",
+   "reward": "670 Quid , 670,000 Yen , 67 Legendary Crates , 100 Common Crates , 70 "
+  },
+  {
+   "code": "compensate",
+   "reward": "6 Tokens"
   }
  ],
- "updated": "2026-08-13T05:54:30.736Z",
+ "updated": "2026-08-14T09:43:55.629Z",
  "source": "https://robloxden.com/game-codes/cursed-tank-simulator"
 }

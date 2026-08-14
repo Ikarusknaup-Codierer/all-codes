@@ -15,18 +15,18 @@
    "reward": "50 Coins"
   },
   {
-   "code": "NewLobby",
-   "reward": ""
-  },
-  {
    "code": "Sweet",
    "reward": ""
   },
   {
-   "code": "NewLobbySweet",
-   "reward": "Free Rewards"
+   "code": "EasterEgg",
+   "reward": "Easter Flashlight And Easter Lantern"
+  },
+  {
+   "code": "NewUpdate",
+   "reward": "Legacy Lantern"
   }
  ],
- "updated": "2026-08-13T05:59:30.456Z",
+ "updated": "2026-08-14T09:47:32.564Z",
  "source": "https://robloxden.com/game-codes/frigid-dusk"
 }

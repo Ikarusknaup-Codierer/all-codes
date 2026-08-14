@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WILCO",
+   "reward": "100 Crystals"
+  },
+  {
    "code": "350KLIKES",
    "reward": "500 Crystals"
   },
@@ -15,18 +19,14 @@
    "reward": "100 Crystals"
   },
   {
-   "code": "WILCO",
-   "reward": "100 Crystals"
-  },
-  {
-   "code": "325KLIKES",
+   "code": "275KLIKES",
    "reward": "500 Crystals"
   },
   {
-   "code": "250KLIKES",
-   "reward": "500 Crystals"
+   "code": "NEWYEAR22",
+   "reward": "1,000 Crystals"
   }
  ],
- "updated": "2026-08-13T15:37:01.597Z",
+ "updated": "2026-08-14T20:03:08.845Z",
  "source": "https://robloxden.com/game-codes/encounters"
 }

@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "75MVISITS",
-   "reward": "75,000 Cash"
+   "code": "5YEARS",
+   "reward": "50,000 Cash"
   },
   {
-   "code": "1MILLFAVS",
-   "reward": "100,000 Cash"
+   "code": "50M5FIVES",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "100MVISITS",
+   "reward": "10,000 Cash"
+  },
+  {
+   "code": "75MVISITS",
+   "reward": "75,000 Cash"
   },
   {
    "code": "SUBSCRIBE",
    "reward": "40,000 Cash"
   }
  ],
- "updated": "2026-08-13T15:38:40.803Z",
+ "updated": "2026-08-14T20:04:27.887Z",
  "source": "https://robloxden.com/game-codes/vehicle-simulator"
 }

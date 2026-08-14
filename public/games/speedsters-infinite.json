@@ -17,8 +17,20 @@
   {
    "code": "KEEPRUNNING",
    "reward": "2 MPH (5 Minutes)"
+  },
+  {
+   "code": "FREEBOST",
+   "reward": "1.26 MPH (10 Minutes)"
+  },
+  {
+   "code": "SPEEDSTERS2026",
+   "reward": "90 MPH"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "180 Gems"
   }
  ],
- "updated": "2026-08-13T20:04:51.552Z",
+ "updated": "2026-08-14T20:08:05.931Z",
  "source": "https://robloxden.com/game-codes/speedsters-infinite"
 }

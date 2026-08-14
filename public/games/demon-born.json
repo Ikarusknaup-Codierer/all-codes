@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "15KLIKES",
+   "reward": "Family Spins"
+  },
+  {
    "code": "3M",
    "reward": "Family Spins"
   },
@@ -43,6 +47,10 @@
    "reward": "30 Spins"
   },
   {
+   "code": "DAYBUGS",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "BDA10",
    "reward": "rewards"
   },
@@ -63,6 +71,6 @@
    "reward": "a Stat Reset"
   }
  ],
- "updated": "2026-08-13T20:06:15.425Z",
+ "updated": "2026-08-14T20:09:35.764Z",
  "source": "https://robloxden.com/game-codes/demon-born"
 }

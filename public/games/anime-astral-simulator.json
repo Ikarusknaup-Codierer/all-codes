@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GATESNOTCLOSINGANYMORE",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "AUTOCOLLECTFINGER",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
    "code": "UPDATE7",
    "reward": "Tickets , Potions , or Boosts"
   },
@@ -195,6 +203,6 @@
    "reward": "Tickets , Potions , or Boosts"
   }
  ],
- "updated": "2026-08-13T15:39:05.571Z",
+ "updated": "2026-08-14T20:04:51.738Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

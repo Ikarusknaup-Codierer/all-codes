@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "1MILLIONVISITS",
-   "reward": "20 Tickets, 5K Black Flash Mastery and 1M Cash"
-  },
-  {
    "code": "10KLIKES",
    "reward": "4 Tickets and 5 Lucky Tickets"
   },
@@ -45,8 +41,12 @@
   {
    "code": "1KLIKES",
    "reward": "30 Tickets"
+  },
+  {
+   "code": "1MILLIONVISITS",
+   "reward": "20 Tickets, 5K Black Flash Mastery and 1M Cash"
   }
  ],
- "updated": "2026-08-13T20:08:38.176Z",
+ "updated": "2026-08-14T20:12:19.654Z",
  "source": "https://robloxden.com/game-codes/itadori-jumping-simulator"
 }

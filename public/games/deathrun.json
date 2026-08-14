@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "woah",
-   "reward": "25 Gems"
+   "code": "decoy",
+   "reward": "5 Decoy Deploy"
+  },
+  {
+   "code": "SCRAPTASTIC",
+   "reward": "50 Scraps"
   },
   {
    "code": "SPOOKYSEASON",
@@ -19,14 +23,10 @@
    "reward": "Coins And Gems"
   },
   {
-   "code": "THANKSGIVING2020",
-   "reward": "40 gems"
-  },
-  {
-   "code": "TOMATOES",
-   "reward": "10 tomatoes"
+   "code": "SEASON4",
+   "reward": "25 gems"
   }
  ],
- "updated": "2026-08-13T15:38:48.687Z",
+ "updated": "2026-08-14T20:04:35.514Z",
  "source": "https://robloxden.com/game-codes/deathrun"
 }

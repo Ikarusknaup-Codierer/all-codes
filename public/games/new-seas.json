@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "WorkingOvertime",
+   "reward": "Freebies"
+  },
+  {
+   "code": "EarlyBird",
+   "reward": "Freebies"
+  },
+  {
+   "code": "LikesMilestone",
+   "reward": "Freebies"
+  },
+  {
+   "code": "askingtomanyquestions",
+   "reward": "Freebies"
+  },
+  {
+   "code": "AfternoonDaze",
+   "reward": "Freebies"
+  },
+  {
+   "code": "WorldGovSoon",
+   "reward": "Freebies"
+  },
+  {
    "code": "fizandroshysurvivedtheblitz",
    "reward": "500 Doubloons"
   },
@@ -451,6 +475,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-08-13T15:41:05.670Z",
+ "updated": "2026-08-14T20:06:37.430Z",
  "source": "https://robloxden.com/game-codes/new-seas"
 }

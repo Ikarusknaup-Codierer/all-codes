@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "RONALDO",
+   "reward": "3 Aura Rerolls"
+  },
+  {
+   "code": "MESSI",
+   "reward": "16 Preworkout"
+  },
+  {
    "code": "WELATEAGAIN",
    "reward": "16 Preworkout"
   },
@@ -39,6 +47,6 @@
    "reward": "3 Aura Rerolls"
   }
  ],
- "updated": "2026-08-13T20:06:10.540Z",
+ "updated": "2026-08-14T20:09:30.314Z",
  "source": "https://robloxden.com/game-codes/looksmax-and-mog"
 }

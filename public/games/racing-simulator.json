@@ -19,14 +19,14 @@
    "reward": "5 Luck Potions and the Frog Pet"
   },
   {
-   "code": "goldenegg",
-   "reward": "the Golden Egg"
-  },
-  {
    "code": "RELEASE1",
    "reward": "1 Speed Potion For 10 Minutes"
+  },
+  {
+   "code": "BOOSTPRO",
+   "reward": "2x 10m Speed Potions"
   }
  ],
- "updated": "2026-08-14T09:44:00.235Z",
+ "updated": "2026-08-15T07:51:13.505Z",
  "source": "https://robloxden.com/game-codes/racing-simulator"
 }

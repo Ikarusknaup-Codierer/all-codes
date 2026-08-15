@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "SECRETCODE",
-   "reward": "10k Cash"
+   "code": "30000MEMBERS",
+   "reward": "Cash"
   },
   {
-   "code": "DEADLYFIGHT",
+   "code": "ESCAPERIGHTNOW",
    "reward": "10,000 Cash"
   },
   {
    "code": "SUNDAY24",
    "reward": "5,000 Cash"
+  },
+  {
+   "code": "UPDATE2024",
+   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-08-14T05:51:25.008Z",
+ "updated": "2026-08-15T07:44:38.914Z",
  "source": "https://robloxden.com/game-codes/life-sentence"
 }

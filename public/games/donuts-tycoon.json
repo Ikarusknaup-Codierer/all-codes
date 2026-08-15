@@ -11,22 +11,22 @@
    "reward": "a 2x Money Boost"
   },
   {
-   "code": "DOUBLECASH",
+   "code": "SANTA",
+   "reward": "100,000 Cash"
+  },
+  {
+   "code": "XMAS",
    "reward": "a 2x Money Boost"
   },
   {
-   "code": "1MVisits",
-   "reward": "a 2x Money Boost"
+   "code": "RADIO",
+   "reward": "100,000 Cash"
   },
   {
-   "code": "NEWYEAR",
-   "reward": "a 2x Money Boost"
-  },
-  {
-   "code": "CANDY",
-   "reward": "75,000 Cash"
+   "code": "JAM",
+   "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-08-14T05:52:50.004Z",
+ "updated": "2026-08-15T07:45:23.857Z",
  "source": "https://robloxden.com/game-codes/donuts-tycoon"
 }

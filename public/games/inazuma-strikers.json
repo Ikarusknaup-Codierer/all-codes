@@ -47,24 +47,8 @@
    "reward": "120,000 Coins and 2 Element Rerolls"
   },
   {
-   "code": "WENESDAY",
-   "reward": "200,000 Coins , 2 Rare Manuals , and 2 Celebration Spins"
-  },
-  {
    "code": "PRAISE",
    "reward": "100k Coins and 2 Element Rerolls"
-  },
-  {
-   "code": "LEAK",
-   "reward": "300k Coins , 1 Rare Manual , and 1 Mythical Manual"
-  },
-  {
-   "code": "STRIKE",
-   "reward": "200k Coins and 1 Rare Manual"
-  },
-  {
-   "code": "JUDE",
-   "reward": "200k Coins and 1 Rare Manual"
   },
   {
    "code": "WORLDCUP",
@@ -107,6 +91,34 @@
    "reward": "20,000 Coins , 1 Rare Manual , 2 Element Rerolls , and 1 Stat Reset"
   },
   {
+   "code": "LosingItem",
+   "reward": "1 Rare Manual"
+  },
+  {
+   "code": "DeathZone",
+   "reward": "2 Hours Double XP , 10,000 Coins , and 3 Uncommon Manuals"
+  },
+  {
+   "code": "WENESDAY",
+   "reward": "200,000 Coins , 2 Rare Manuals , and 2 Celebration Spins"
+  },
+  {
+   "code": "LEAK",
+   "reward": "300k Coins , 1 Rare Manual , and 1 Mythical Manual"
+  },
+  {
+   "code": "STRIKE",
+   "reward": "200k Coins and 1 Rare Manual"
+  },
+  {
+   "code": "JUDE",
+   "reward": "200k Coins and 1 Rare Manual"
+  },
+  {
+   "code": "CHAIN",
+   "reward": "50,000 Coins , 15 Evolution Gems , and 3 Element Rerolls"
+  },
+  {
    "code": "DEFENSE",
    "reward": "1 Rare Manual , 50,000 Coins , and 1 Element Reroll"
   },
@@ -117,22 +129,6 @@
   {
    "code": "EVOLUTION",
    "reward": "40,000 Coins , 1 Rare Manual , and 1 Evolution Reroll"
-  },
-  {
-   "code": "LosingItem",
-   "reward": "1 Rare Manual"
-  },
-  {
-   "code": "DeathZone",
-   "reward": "2 Hours Double XP , 10,000 Coins , and 3 Uncommon Manuals"
-  },
-  {
-   "code": "UPDATE",
-   "reward": "1 Uncommon Manual and 30 Mins Double XP"
-  },
-  {
-   "code": "CHAIN",
-   "reward": "50,000 Coins , 15 Evolution Gems , and 3 Element Rerolls"
   },
   {
    "code": "BALANCE",
@@ -173,8 +169,12 @@
   {
    "code": "NEWCODE",
    "reward": "1 Rare Manual and 1 Stats Reset"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "1 Uncommon Manual and 30 Mins Double XP"
   }
  ],
- "updated": "2026-08-14T05:51:19.225Z",
+ "updated": "2026-08-15T07:44:35.694Z",
  "source": "https://robloxden.com/game-codes/inazuma-strikers"
 }

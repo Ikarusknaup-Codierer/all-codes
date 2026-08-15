@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "1KLIKESTY",
-   "reward": "Freebies"
+   "code": "FREEOUTFIT",
+   "reward": "A Free Outfit"
+  },
+  {
+   "code": "KRAKEN",
+   "reward": "Free Emote"
   },
   {
    "code": "9KLIKES",
@@ -17,8 +21,12 @@
   {
    "code": "8KLIKES",
    "reward": "Freebies"
+  },
+  {
+   "code": "6KLIKES",
+   "reward": "140,000 Coins"
   }
  ],
- "updated": "2026-08-14T05:57:05.704Z",
+ "updated": "2026-08-15T07:48:24.624Z",
  "source": "https://robloxden.com/game-codes/kraken-game"
 }

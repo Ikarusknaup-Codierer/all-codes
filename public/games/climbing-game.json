@@ -15,18 +15,18 @@
    "reward": "1,500 Credits"
   },
   {
+   "code": "community",
+   "reward": "600 Credits"
+  },
+  {
    "code": "likes8",
    "reward": "600 Credits"
   },
   {
-   "code": "likes3",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "highrise",
-   "reward": "$600"
+   "code": "system",
+   "reward": "600 Credits"
   }
  ],
- "updated": "2026-08-14T05:54:59.390Z",
+ "updated": "2026-08-15T07:46:59.132Z",
  "source": "https://robloxden.com/game-codes/climbing-game"
 }

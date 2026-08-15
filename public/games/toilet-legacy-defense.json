@@ -11,11 +11,7 @@
    "reward": "Upgraded Titan TV Man Unit"
   },
   {
-   "code": "UPDATE1",
-   "reward": "400 Coins"
-  },
-  {
-   "code": "room",
+   "code": "Delay",
    "reward": "400 Coins"
   },
   {
@@ -23,10 +19,14 @@
    "reward": "TVMan Skin"
   },
   {
+   "code": "KeonRoot",
+   "reward": "TVMan Skin"
+  },
+  {
    "code": "Mortadela",
    "reward": "TVMan Skin"
   }
  ],
- "updated": "2026-08-14T09:45:37.897Z",
+ "updated": "2026-08-15T07:52:49.644Z",
  "source": "https://robloxden.com/game-codes/toilet-legacy-defense"
 }

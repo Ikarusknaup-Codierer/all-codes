@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "100KMETAL",
-   "reward": "100,000 Metal"
-  },
-  {
    "code": "ITEMSHOPFIXED",
    "reward": "2,500 A-Tokens"
   },
@@ -19,14 +15,18 @@
    "reward": "2,500 A-Tokens"
   },
   {
-   "code": "7MILVISITS",
+   "code": "SPOOKYSZN",
    "reward": ""
   },
   {
-   "code": "SORRY4DELAY2",
-   "reward": "2,500 B-Bucks"
+   "code": "100KMETAL",
+   "reward": "100,000 Metal"
+  },
+  {
+   "code": "VALENTINES2025",
+   "reward": "3,000 B-Bucks"
   }
  ],
- "updated": "2026-08-14T05:56:29.671Z",
+ "updated": "2026-08-15T07:48:04.592Z",
  "source": "https://robloxden.com/game-codes/artemis-royale"
 }

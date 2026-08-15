@@ -11,7 +11,11 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "Release",
+   "code": "UpdateIn41MinsAfterThisPost",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MSI",
    "reward": "Free Rewards"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "GiftFromCic",
    "reward": "45 Tokens"
-  },
-  {
-   "code": "ASecondCode",
-   "reward": "15 Tokens"
   }
  ],
- "updated": "2026-08-14T05:54:04.912Z",
+ "updated": "2026-08-15T07:46:20.848Z",
  "source": "https://robloxden.com/game-codes/money-simulator-ultimate"
 }

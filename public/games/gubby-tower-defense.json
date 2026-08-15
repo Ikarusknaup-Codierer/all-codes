@@ -15,18 +15,18 @@
    "reward": "300 Cash"
   },
   {
-   "code": "200Active",
-   "reward": "+1 Level"
+   "code": "50KVisits",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Tags",
+   "reward": "350 Gubcoins and XP"
   },
   {
    "code": "Modifiers",
    "reward": "750 Gubcoins and XP"
-  },
-  {
-   "code": "HardMode",
-   "reward": "200 Gubcoins and 20 XP"
   }
  ],
- "updated": "2026-08-14T05:55:02.850Z",
+ "updated": "2026-08-15T07:47:01.581Z",
  "source": "https://robloxden.com/game-codes/gubby-tower-defense"
 }

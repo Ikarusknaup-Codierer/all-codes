@@ -15,18 +15,18 @@
    "reward": "1 Fire Blossom Seed and 1 Bluebell Seed"
   },
   {
-   "code": "SweetHourEvent",
-   "reward": "1 Fairy Elixir II and 1 Morning Glory Seed"
-  },
-  {
-   "code": "E8CA45",
-   "reward": "500 Cash"
+   "code": "QueenBeeWait",
+   "reward": "5,000 Coins"
   },
   {
    "code": "SummerEvent",
    "reward": "5,000 Coins and Fire Blossom"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "the Mythic Bee"
   }
  ],
- "updated": "2026-08-14T09:43:34.847Z",
+ "updated": "2026-08-15T07:50:45.983Z",
  "source": "https://robloxden.com/game-codes/build-a-beehive"
 }

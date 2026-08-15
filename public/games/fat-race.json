@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "3M",
-   "reward": "2x Luck Potion"
+   "code": "SUN",
+   "reward": "2x Wins Potion"
+  },
+  {
+   "code": "Rust",
+   "reward": "2x Wins Potion"
   },
   {
    "code": "N1GHT",
    "reward": "2x Wins Potion"
   },
   {
-   "code": "RELEASE",
-   "reward": "15-Minute 2x Wins Potion"
+   "code": "EASTER",
+   "reward": "50 Easter Eggs"
   },
   {
-   "code": "1KLIKES",
-   "reward": "40 Gems and Rare Clover"
-  },
-  {
-   "code": "WELCOME",
-   "reward": "50 Gems and Rare Short Swords"
+   "code": "100LIKES",
+   "reward": "10 Gems and Rare Short Swords"
   }
  ],
- "updated": "2026-08-14T06:03:17.104Z",
+ "updated": "2026-08-15T07:49:58.996Z",
  "source": "https://robloxden.com/game-codes/fat-race"
 }

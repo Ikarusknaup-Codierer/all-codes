@@ -11,6 +11,10 @@
    "reward": "1 3x Cash Boost Potion"
   },
   {
+   "code": "Summer",
+   "reward": "Reward"
+  },
+  {
    "code": "50klikes",
    "reward": "Reward"
   },
@@ -19,14 +23,10 @@
    "reward": "Reward"
   },
   {
-   "code": "15mvisits",
-   "reward": "Reward"
-  },
-  {
-   "code": "40klikes",
+   "code": "verified",
    "reward": "Reward"
   }
  ],
- "updated": "2026-08-14T06:03:58.811Z",
+ "updated": "2026-08-15T07:50:22.758Z",
  "source": "https://robloxden.com/game-codes/factory-rng"
 }

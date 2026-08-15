@@ -15,18 +15,18 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "INFINITYBATTLES",
-   "reward": "the MAC 10"
-  },
-  {
-   "code": "HALLOWEEN",
-   "reward": "100k Cash"
-  },
-  {
-   "code": "cannon",
+   "code": "pvp",
    "reward": "50k Free Cash"
+  },
+  {
+   "code": "carrier",
+   "reward": "50k Free Cash"
+  },
+  {
+   "code": "Pirate",
+   "reward": "50k Cash"
   }
  ],
- "updated": "2026-08-14T09:51:06.238Z",
+ "updated": "2026-08-15T13:48:14.090Z",
  "source": "https://robloxden.com/game-codes/zombie-battle-tycoon"
 }

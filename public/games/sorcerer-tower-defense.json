@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HelicopterHelicopter",
-   "reward": "5,000 Coins"
-  },
-  {
    "code": "CullingGame",
    "reward": "2,000 Culling Points"
   },
@@ -145,8 +141,12 @@
   {
    "code": "JusticeMattersMost",
    "reward": "1,261 Culling Points"
+  },
+  {
+   "code": "HelicopterHelicopter",
+   "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-08-14T09:47:22.482Z",
+ "updated": "2026-08-15T13:44:41.794Z",
  "source": "https://robloxden.com/game-codes/sorcerer-tower-defense"
 }

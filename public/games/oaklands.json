@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SPROUTS",
+   "reward": "100 Sprouts"
+  },
+  {
    "code": "I_LOVE_FIREWORKS",
    "reward": "15 Unboxed Ruby Rocket and 10 Unboxed Cascade of Chaos"
   },
@@ -55,6 +59,6 @@
    "reward": "Lostvorce Property Sign"
   }
  ],
- "updated": "2026-08-14T09:47:52.187Z",
+ "updated": "2026-08-15T13:45:06.509Z",
  "source": "https://robloxden.com/game-codes/oaklands"
 }

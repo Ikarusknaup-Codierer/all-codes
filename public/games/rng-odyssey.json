@@ -11,10 +11,6 @@
    "reward": "1 of Every Potion"
   },
   {
-   "code": "OCTDAY6",
-   "reward": "Reward"
-  },
-  {
    "code": "OCTDAY2",
    "reward": "Reward"
   },
@@ -23,10 +19,14 @@
    "reward": "Free In-Game Rewards"
   },
   {
+   "code": "LEVELS",
+   "reward": "69 Gems"
+  },
+  {
    "code": "THANKYOU",
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-08-14T09:46:35.176Z",
+ "updated": "2026-08-15T13:43:36.641Z",
  "source": "https://robloxden.com/game-codes/rng-odyssey"
 }

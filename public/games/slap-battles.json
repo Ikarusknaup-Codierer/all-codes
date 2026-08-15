@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "1x1x1x1x1x1",
+   "reward": "a free reward"
+  },
+  {
    "code": "TheHaunt",
    "reward": "200"
   },
   {
-   "code": "BATDELAY",
+   "code": "SANTABOSS",
    "reward": "Free Rewards"
   },
   {
-   "code": "HappyNewYear",
-   "reward": "Reward"
-  },
-  {
-   "code": "Pinched",
-   "reward": "200 Null Shards . You need 1,000 Slaps to redeem this code"
-  },
-  {
-   "code": "Beginner",
-   "reward": "75 Slaps . To redeem this code you need to follow @Slap_BattlesRBX on "
+   "code": "mortls",
+   "reward": "250 Null Shards"
   }
  ],
- "updated": "2026-08-14T15:09:41.575Z",
+ "updated": "2026-08-15T13:50:23.777Z",
  "source": "https://robloxden.com/game-codes/slap-battles"
 }

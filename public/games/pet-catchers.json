@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Likes25",
+   "reward": "1 Golden Cherry , 1 Coin Elixir , and 1 Super Lucky Elixir"
+  },
+  {
+   "code": "lucky",
+   "reward": "3 Lucky Elixirs"
+  },
+  {
    "code": "Release",
    "reward": "500 Coins And 1 Coin Elixir"
   },
   {
-   "code": "REBOOT",
-   "reward": "10 Sea Elixirs, 5k Festive Mystery Eggs, 1 Prismatic Sundae, 15 Egg El"
+   "code": "tropical",
+   "reward": "500 Tropical Mystery Eggs And 5k Coconuts"
   },
   {
-   "code": "festival",
-   "reward": "4 Hardcore Tomes, 5 Magic Pendants, 2k Festive Mystery Eggs, 15 Egg El"
-  },
-  {
-   "code": "hardcore",
-   "reward": "4 Hardcore Tomes"
-  },
-  {
-   "code": "brite",
-   "reward": "Brite Pet, Three Coin Elixirs, And 200 Wildberries"
+   "code": "atlantis",
+   "reward": "2 Magic Pendants"
   }
  ],
- "updated": "2026-08-14T15:11:02.132Z",
+ "updated": "2026-08-15T13:51:41.030Z",
  "source": "https://robloxden.com/game-codes/pet-catchers"
 }

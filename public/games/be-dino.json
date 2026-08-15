@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ANNIVERSARY",
-   "reward": "100,000 Gems , a Xenoraptor , an Atrociraptor , a Dread Gigantosaurus "
-  },
-  {
    "code": "ANNIVERSARYFOSSILS",
    "reward": "a Tier 1 Medium Food Radius Fossil , and a Tier 1 Medium Speed Fossil"
   },
@@ -29,8 +25,12 @@
   {
    "code": "AMBER",
    "reward": "Tier 1 Small Growth Amber"
+  },
+  {
+   "code": "ANNIVERSARY",
+   "reward": "100,000 Gems , a Xenoraptor , an Atrociraptor , a Dread Gigantosaurus "
   }
  ],
- "updated": "2026-08-14T05:49:40.431Z",
+ "updated": "2026-08-15T03:12:16.742Z",
  "source": "https://robloxden.com/game-codes/be-dino"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PARTIES",
-   "reward": "1,000 Cash and 2 Spins"
-  },
-  {
    "code": "APRILFOOLS",
    "reward": "2,000 Cash and 2 Spins"
   },
@@ -21,8 +17,12 @@
   {
    "code": "CYBER",
    "reward": "1500 Cash And 1 Wheel Spin"
+  },
+  {
+   "code": "XMAS25",
+   "reward": "2 Wheelspins"
   }
  ],
- "updated": "2026-08-14T05:48:52.367Z",
+ "updated": "2026-08-15T03:11:25.314Z",
  "source": "https://robloxden.com/game-codes/death-in-the-box"
 }

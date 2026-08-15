@@ -47,10 +47,6 @@
    "reward": "3 Trait Rerolls, 1 25000-Roll Pack and 2 5000-Roll Packs"
   },
   {
-   "code": "REROLL",
-   "reward": "3 Trait Rerolls"
-  },
-  {
    "code": "AUTOBATTLE",
    "reward": "500 Gold , 5 1000-Rolls , and 3 Medium Rarity"
   },
@@ -175,10 +171,14 @@
    "reward": "1 25000-Roll Pack"
   },
   {
+   "code": "REROLL",
+   "reward": "3 Trait Rerolls"
+  },
+  {
    "code": "SKIBIDI2026",
    "reward": "1,000 Gold , 5 Medium Shiny Potions , 5 Medium Luck Potions , 3 Boss P"
   }
  ],
- "updated": "2026-08-13T20:10:32.879Z",
+ "updated": "2026-08-15T03:08:11.063Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

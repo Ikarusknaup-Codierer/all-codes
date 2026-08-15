@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "FREEPET",
-   "reward": "Coins And Gems"
-  },
-  {
-   "code": "ANIM3PLAYTIM3",
+   "code": "AURAS",
    "reward": "Coins And Gems"
   },
   {
@@ -25,8 +21,12 @@
   {
    "code": "bugsfix",
    "reward": "Gift"
+  },
+  {
+   "code": "antiafk",
+   "reward": "Gift"
   }
  ],
- "updated": "2026-08-14T05:50:26.123Z",
+ "updated": "2026-08-15T03:12:57.013Z",
  "source": "https://robloxden.com/game-codes/anime-legend"
 }

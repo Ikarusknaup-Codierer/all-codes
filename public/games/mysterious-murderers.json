@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "OCEAN",
-   "reward": "the Waves Sword"
-  },
-  {
    "code": "GREEN",
    "reward": "the Green Heat Sword"
   },
@@ -53,8 +49,12 @@
   {
    "code": "FUTURE",
    "reward": "the Future Laser"
+  },
+  {
+   "code": "OCEAN",
+   "reward": "the Waves Sword"
   }
  ],
- "updated": "2026-08-14T05:52:01.227Z",
+ "updated": "2026-08-15T03:14:10.467Z",
  "source": "https://robloxden.com/game-codes/mysterious-murderers"
 }

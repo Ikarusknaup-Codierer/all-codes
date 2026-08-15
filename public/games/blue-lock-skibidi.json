@@ -15,10 +15,6 @@
    "reward": "20,000 Cash"
   },
   {
-   "code": "SorryForRestartServer",
-   "reward": "325K Cash"
-  },
-  {
    "code": "BarouNERF",
    "reward": "200k Cash"
   },
@@ -55,6 +51,10 @@
    "reward": "100,000 Cash"
   },
   {
+   "code": "SorryForRestartServer",
+   "reward": "325K Cash"
+  },
+  {
    "code": "SHIDOU",
    "reward": "25K Cash"
   },
@@ -79,6 +79,6 @@
    "reward": "300,000 Cash"
   }
  ],
- "updated": "2026-08-14T05:50:33.642Z",
+ "updated": "2026-08-15T03:13:03.521Z",
  "source": "https://robloxden.com/game-codes/blue-lock-skibidi"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "IMPOOR",
+   "reward": "100 Cash"
+  },
+  {
    "code": "FORKLIFT",
    "reward": "1 Forklift Skin"
   },
@@ -23,6 +27,6 @@
    "reward": "1 Unique Warehouse Decoration"
   }
  ],
- "updated": "2026-08-14T05:48:56.118Z",
+ "updated": "2026-08-15T03:11:28.729Z",
  "source": "https://robloxden.com/game-codes/warehouse-manager-tycoon"
 }

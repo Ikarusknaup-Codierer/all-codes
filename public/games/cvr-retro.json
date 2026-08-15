@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BADAPPLE",
+   "reward": "200 Cash"
+  },
+  {
+   "code": "HappyBdayMet!",
+   "reward": "750 Cash"
+  },
+  {
+   "code": "BUILDSAREALMOSTBACK",
+   "reward": "200 Cash"
+  },
+  {
+   "code": "murtobrokeblocks",
+   "reward": "330 Cash"
+  },
+  {
    "code": "TWU!HOPE!MAPUA!",
    "reward": "385 Cash"
   },
@@ -33,24 +49,8 @@
   {
    "code": "WEARESOBACK",
    "reward": "750 Cash"
-  },
-  {
-   "code": "BADAPPLE",
-   "reward": "200 Cash"
-  },
-  {
-   "code": "HappyBdayMet!",
-   "reward": "750 Cash"
-  },
-  {
-   "code": "BUILDSAREALMOSTBACK",
-   "reward": "200 Cash"
-  },
-  {
-   "code": "murtobrokeblocks",
-   "reward": "330 Cash"
   }
  ],
- "updated": "2026-08-13T20:09:00.170Z",
+ "updated": "2026-08-15T03:06:40.376Z",
  "source": "https://robloxden.com/game-codes/cvr-retro"
 }

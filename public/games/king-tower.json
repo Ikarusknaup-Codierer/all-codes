@@ -11,22 +11,22 @@
    "reward": "200 Shards"
   },
   {
-   "code": "INCANTATIONYAY",
+   "code": "NOOOSECRET",
+   "reward": "1,000 Shards"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "300 Shards"
+  },
+  {
+   "code": "UPDATEPART1",
    "reward": "1,000 Coins"
-  },
-  {
-   "code": "ENOUGHTIMEHASPASSED",
-   "reward": "1,000 Coins and 200 Shards"
-  },
-  {
-   "code": "SORRYFORDELAY",
-   "reward": "100 Shards"
   },
   {
    "code": "10KLIKES",
    "reward": "2,000 Coins"
   }
  ],
- "updated": "2026-08-13T20:08:00.569Z",
+ "updated": "2026-08-15T03:06:04.847Z",
  "source": "https://robloxden.com/game-codes/king-tower"
 }

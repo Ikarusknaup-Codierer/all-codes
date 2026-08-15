@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "StartingRelics",
+   "reward": "5 Relics"
+  },
+  {
+   "code": "WelcomeToMCI",
+   "reward": "100 Money Essence"
+  },
+  {
+   "code": "SulfuredBlackBallEnergy",
+   "reward": "2 Crates"
+  },
+  {
    "code": "600559glasses",
    "reward": "67 Money Essence"
   },
@@ -21,20 +33,8 @@
   {
    "code": "YouHaveTimeNow",
    "reward": "69 Money Essence"
-  },
-  {
-   "code": "StartingRelics",
-   "reward": "5 Relics"
-  },
-  {
-   "code": "WelcomeToMCI",
-   "reward": "100 Money Essence"
-  },
-  {
-   "code": "SulfuredBlackBallEnergy",
-   "reward": "2 Crates"
   }
  ],
- "updated": "2026-08-14T05:48:37.611Z",
+ "updated": "2026-08-15T03:11:11.816Z",
  "source": "https://robloxden.com/game-codes/money-clicker-inc"
 }

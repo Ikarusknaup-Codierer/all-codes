@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "YACHT",
-   "reward": "7,500 Coins"
-  },
-  {
-   "code": "BADGES",
-   "reward": "1 All-Star Chest"
-  },
-  {
-   "code": "AUCTION",
-   "reward": "1 All-Star Chest"
-  },
-  {
    "code": "GOODFRIDAY",
    "reward": "one Goal Effect Pack"
   },
@@ -53,8 +41,20 @@
   {
    "code": "FOURTH",
    "reward": "1 All Star Chest"
+  },
+  {
+   "code": "YACHT",
+   "reward": "7,500 Coins"
+  },
+  {
+   "code": "BADGES",
+   "reward": "1 All-Star Chest"
+  },
+  {
+   "code": "AUCTION",
+   "reward": "1 All-Star Chest"
   }
  ],
- "updated": "2026-08-14T05:48:26.230Z",
+ "updated": "2026-08-15T03:11:00.574Z",
  "source": "https://robloxden.com/game-codes/nba-champions-basketball"
 }

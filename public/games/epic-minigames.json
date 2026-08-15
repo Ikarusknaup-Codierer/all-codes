@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ThisWeekOnRobloxTour",
+   "code": "update",
+   "reward": "the New Title"
+  },
+  {
+   "code": "jingle",
+   "reward": "Jingle Bells Gear"
+  },
+  {
+   "code": "GiveMeCoins",
    "reward": "Rewards"
+  },
+  {
+   "code": "plague",
+   "reward": "the Rat Pet"
   },
   {
    "code": "EpicYear2026",
    "reward": "New Year’s Kitty Pet"
-  },
-  {
-   "code": "tunes",
-   "reward": "Musician"
-  },
-  {
-   "code": "SPELLBINDER",
-   "reward": "The Red Strange Effect"
   }
  ],
- "updated": "2026-08-14T20:04:32.808Z",
+ "updated": "2026-08-15T19:13:59.568Z",
  "source": "https://robloxden.com/game-codes/epic-minigames"
 }

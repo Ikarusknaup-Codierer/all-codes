@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Money",
-   "reward": "New Skin"
+   "code": "UPDATE6",
+   "reward": "Bricks Potion"
   },
   {
    "code": "GOLDENPLANETS",
    "reward": "30 Minute Gems Potion"
   },
   {
-   "code": "ILOVECODES",
-   "reward": "5 Minute Bricks Potion"
+   "code": "UPDATE4",
+   "reward": "30 Minute Bricks Potion"
   },
   {
-   "code": "GEMSPOTION",
-   "reward": "5 Minute Gems Potion"
-  },
-  {
-   "code": "officialrelease",
+   "code": "boost",
    "reward": "50 Coins"
+  },
+  {
+   "code": "coinspotion",
+   "reward": "5 Minute Coins Potion"
   }
  ],
- "updated": "2026-08-14T15:17:20.373Z",
+ "updated": "2026-08-15T19:11:23.463Z",
  "source": "https://robloxden.com/game-codes/hole-simulator"
 }

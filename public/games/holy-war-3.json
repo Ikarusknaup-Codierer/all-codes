@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ONEFORMY",
-   "reward": "Exp"
-  },
-  {
-   "code": "GETURRACE2",
+   "code": "GETURMAGIC2",
    "reward": "Magic Spins"
   },
   {
-   "code": "EXPCODEBUGGY",
+   "code": "YOUWANTTRYME",
+   "reward": "Exp"
+  },
+  {
+   "code": "CRISMAGIC",
    "reward": "a reward"
   },
   {
-   "code": "SKILLRACE",
-   "reward": "Race Spins"
+   "code": "CRISRACE",
+   "reward": "a reward"
   },
   {
-   "code": "QUICKEERACE",
-   "reward": "20 Race Spins"
+   "code": "LATENIGHTRACE",
+   "reward": "Race Spins"
   }
  ],
- "updated": "2026-08-14T15:17:43.178Z",
+ "updated": "2026-08-15T19:11:36.249Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

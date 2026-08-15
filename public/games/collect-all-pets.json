@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HeiHei",
-   "reward": "2 hours of x2 Gold Boost"
-  },
-  {
    "code": "Zazu",
    "reward": "2 hours of x2 Metallic Boost"
   },
@@ -203,10 +199,14 @@
    "reward": "2 hours of x2 Gold"
   },
   {
+   "code": "HeiHei",
+   "reward": "2 hours of x2 Gold Boost"
+  },
+  {
    "code": "Louis",
    "reward": "2 hours of x2 Shiny Boost"
   }
  ],
- "updated": "2026-08-14T15:15:01.566Z",
+ "updated": "2026-08-15T19:08:44.745Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

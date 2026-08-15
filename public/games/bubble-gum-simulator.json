@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "RUDOLPH",
-   "reward": "2 Hours of 2x Luck"
-  },
-  {
    "code": "LuckyDay2",
    "reward": "2x Hatch Speed"
   },
@@ -803,6 +799,10 @@
    "reward": "2 Hours of 2x Hatch Speed"
   },
   {
+   "code": "RUDOLPH",
+   "reward": "2 Hours of 2x Luck"
+  },
+  {
    "code": "update15",
    "reward": "Free Rewards"
   },
@@ -1043,6 +1043,6 @@
    "reward": "2 Hours of 2x Hatch Speed"
   }
  ],
- "updated": "2026-08-14T20:04:23.428Z",
+ "updated": "2026-08-15T19:13:48.462Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

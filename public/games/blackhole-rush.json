@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BLACKHOLE",
-   "reward": "5 Spins"
-  },
-  {
-   "code": "BOOST",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "WHITEHOLE",
    "reward": "2,000 Coins"
   },
@@ -23,6 +15,6 @@
    "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-08-14T20:10:05.703Z",
+ "updated": "2026-08-15T19:19:21.712Z",
  "source": "https://robloxden.com/game-codes/blackhole-rush"
 }

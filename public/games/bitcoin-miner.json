@@ -11,10 +11,6 @@
    "reward": "Super Mining Boost"
   },
   {
-   "code": "14TE",
-   "reward": "Super Mining Boost"
-  },
-  {
    "code": "2WP5",
    "reward": "Super Mining Boost"
   },
@@ -105,8 +101,12 @@
   {
    "code": "LS3G",
    "reward": "Super Mining Boost"
+  },
+  {
+   "code": "14TE",
+   "reward": "Super Mining Boost"
   }
  ],
- "updated": "2026-08-14T20:02:53.703Z",
+ "updated": "2026-08-15T19:12:02.559Z",
  "source": "https://robloxden.com/game-codes/bitcoin-miner"
 }

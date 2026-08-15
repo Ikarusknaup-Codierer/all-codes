@@ -11,15 +11,15 @@
    "reward": "the Pastel Trail"
   },
   {
-   "code": "LavaSour",
-   "reward": "Special Bonus"
+   "code": "LavasCoins",
+   "reward": "Special Prize"
+  },
+  {
+   "code": "POTION",
+   "reward": "Forcefield Potion"
   },
   {
    "code": "SNOWB4LLS4D4YS",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "fast",
    "reward": "Unknown Reward"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "Magma Pet"
   }
  ],
- "updated": "2026-08-14T15:14:39.192Z",
+ "updated": "2026-08-15T19:08:21.433Z",
  "source": "https://robloxden.com/game-codes/the-floor-is-lava"
 }

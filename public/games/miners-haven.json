@@ -11,10 +11,6 @@
    "reward": "111 uC of Crystals"
   },
   {
-   "code": "OhSoGenerous",
-   "reward": "the Shiny Guarantee"
-  },
-  {
    "code": "GiveMeMyShinyGuarantee",
    "reward": "1 Shiny Guarantee and 50 UC"
   },
@@ -57,8 +53,12 @@
   {
    "code": "ItsWonderful",
    "reward": "one Iron Flakes Mine"
+  },
+  {
+   "code": "OhSoGenerous",
+   "reward": "the Shiny Guarantee"
   }
  ],
- "updated": "2026-08-14T15:14:16.950Z",
+ "updated": "2026-08-15T19:07:57.843Z",
  "source": "https://robloxden.com/game-codes/miners-haven"
 }

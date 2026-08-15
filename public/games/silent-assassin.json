@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "MerryEaster2019",
-   "reward": "free Easter items"
-  },
-  {
-   "code": "sighted",
-   "reward": "a Camouflage Case"
-  },
-  {
-   "code": "boo",
+   "code": "haunted",
    "reward": "a Halloween Case"
   },
   {
-   "code": "scifi",
-   "reward": "a Future Case"
+   "code": "merrynewyear",
+   "reward": "the Fireworks skin"
+  },
+  {
+   "code": "freecase",
+   "reward": "a Typical Case"
   },
   {
    "code": "spooked",
    "reward": "a Halloween Case"
+  },
+  {
+   "code": "penelope",
+   "reward": "Butter Knife"
   }
  ],
- "updated": "2026-08-14T15:15:31.195Z",
+ "updated": "2026-08-15T19:09:13.717Z",
  "source": "https://robloxden.com/game-codes/silent-assassin"
 }

@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "New",
+   "reward": "Boosts (15 Minutes)"
+  },
+  {
+   "code": "Loot",
+   "reward": "Boosts (15 Minutes)"
+  },
+  {
+   "code": "Skill",
+   "reward": "Boosts (15 Minutes)"
   }
  ],
- "updated": "2026-08-14T20:05:24.478Z",
+ "updated": "2026-08-15T19:14:49.879Z",
  "source": "https://robloxden.com/game-codes/1-loot-evo"
 }

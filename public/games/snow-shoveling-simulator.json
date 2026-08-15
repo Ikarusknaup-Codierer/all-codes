@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "RedTail",
-   "reward": "$500"
+   "code": "IceCreature",
+   "reward": "150 Ice"
   },
   {
-   "code": "FreeMoney",
+   "code": "TheAnt",
+   "reward": "$2,500"
+  },
+  {
+   "code": "yespls",
+   "reward": "$5,000"
+  },
+  {
+   "code": "gearHead",
    "reward": "$1,000"
   },
   {
-   "code": "DiamondSnow",
-   "reward": "Diamond Frosty"
-  },
-  {
-   "code": "iceySlopes",
-   "reward": "$800"
+   "code": "15mVisits",
+   "reward": "$1,500 money"
   }
  ],
- "updated": "2026-08-14T20:04:33.920Z",
+ "updated": "2026-08-15T19:14:00.716Z",
  "source": "https://robloxden.com/game-codes/snow-shoveling-simulator"
 }

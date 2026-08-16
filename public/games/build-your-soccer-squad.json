@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "STORYMODE",
-   "reward": "1 Golden Roll"
-  },
-  {
    "code": "UPDATE",
    "reward": "5 Rerolls and 5 Refreshes"
   },
   {
-   "code": "RANKED",
-   "reward": "1 Golden Roll and 5 Rerolls"
-  },
-  {
    "code": "HATTRICK",
    "reward": "5 Rerolls and 5 Refreshes"
+  },
+  {
+   "code": "STORYMODE",
+   "reward": "1 Golden Roll"
+  },
+  {
+   "code": "RANKED",
+   "reward": "1 Golden Roll and 5 Rerolls"
   }
  ],
- "updated": "2026-08-14T20:06:06.726Z",
+ "updated": "2026-08-16T03:29:58.302Z",
  "source": "https://robloxden.com/game-codes/build-your-soccer-squad"
 }

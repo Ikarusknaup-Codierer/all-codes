@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "3SPINS",
-   "reward": "3 Spin Tickets"
-  },
-  {
    "code": "FREESTARS",
    "reward": "2 Stars"
   },
@@ -21,8 +17,12 @@
   {
    "code": "UPDATE3",
    "reward": "5 Stars"
+  },
+  {
+   "code": "3SPINS",
+   "reward": "3 Spin Tickets"
   }
  ],
- "updated": "2026-08-14T20:06:53.459Z",
+ "updated": "2026-08-16T03:30:39.600Z",
  "source": "https://robloxden.com/game-codes/merge-a-black-hole"
 }

@@ -11,6 +11,10 @@
    "reward": "500 Cash"
   },
   {
+   "code": "SPOTLESSSTART",
+   "reward": "a Beginner Cleaning Boost"
+  },
+  {
    "code": "PETCLEANERS",
    "reward": "a Free Pet Egg"
   },
@@ -19,14 +23,10 @@
    "reward": "a Cash Boost (10 Minutes)"
   },
   {
-   "code": "ROBBIEWASHERE",
-   "reward": "a Mystery Cosmetic"
-  },
-  {
    "code": "SHINYFLOORS",
    "reward": "an Equipment Upgrade Token"
   }
  ],
- "updated": "2026-08-14T20:06:48.736Z",
+ "updated": "2026-08-16T03:30:35.068Z",
  "source": "https://robloxden.com/game-codes/carpet-cleaning-simulator"
 }

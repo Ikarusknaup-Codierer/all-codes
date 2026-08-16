@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "JUNE26",
-   "reward": "100 Credits . Only the first 3,000 players can claim this code"
-  },
-  {
    "code": "SPRINGPART2",
    "reward": "150 Credits . Only the first 3,000 players can claim this code"
   },
@@ -27,10 +23,14 @@
    "reward": "100 Credits . Only the first 2,000 players can claim this code"
   },
   {
+   "code": "JUNE26",
+   "reward": "100 Credits . Only the first 3,000 players can claim this code"
+  },
+  {
    "code": "SPRINGUPDATE",
    "reward": "200 Credits . Only the first 9,000 players can claim this code"
   }
  ],
- "updated": "2026-08-14T20:04:29.502Z",
+ "updated": "2026-08-16T03:29:12.226Z",
  "source": "https://robloxden.com/game-codes/counter-blox"
 }

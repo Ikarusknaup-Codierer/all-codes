@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "1MGROUP!",
-   "reward": "50 Trait Crystals , 25 Equipment Rolls , 25 Stat Lock , 25 Stat Reroll"
-  },
-  {
    "code": "wfade",
    "reward": "50 Trait Crystals, 25 Equipment Rerolls, 25 Stat Rerolls and 2,500 Gem"
   },
@@ -47,6 +43,10 @@
    "reward": "50 Trait Crystals"
   },
   {
+   "code": "1MGROUP!",
+   "reward": "50 Trait Crystals , 25 Equipment Rolls , 25 Stat Lock , 25 Stat Reroll"
+  },
+  {
    "code": "EXPEDITIONS",
    "reward": "30 Equipment Locks and 30 Equipment Rerolls . You must be Level 20 to "
   },
@@ -55,6 +55,6 @@
    "reward": "20 Trait Crystals and 2,500 Gems . You must have the Early Access Role"
   }
  ],
- "updated": "2026-08-14T20:04:48.149Z",
+ "updated": "2026-08-16T03:29:18.589Z",
  "source": "https://robloxden.com/game-codes/anime-expeditions"
 }

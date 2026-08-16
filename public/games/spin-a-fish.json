@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "TRADINGUPD",
+   "reward": "10 Universal Dice"
+  },
+  {
+   "code": "AURAUPD",
+   "reward": "10 Aura Tickets"
+  },
+  {
+   "code": "FISHFIGHTFRENZY",
+   "reward": "300 Combat Credits"
   }
  ],
- "updated": "2026-08-14T20:05:57.318Z",
+ "updated": "2026-08-16T03:29:51.268Z",
  "source": "https://robloxden.com/game-codes/spin-a-fish"
 }

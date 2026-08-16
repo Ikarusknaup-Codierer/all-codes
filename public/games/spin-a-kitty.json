@@ -27,10 +27,6 @@
    "reward": "100 Cash and 10 Basic Dice"
   },
   {
-   "code": "april",
-   "reward": "500 Gems and 100 Amber Dice"
-  },
-  {
    "code": "4KTHANKYOU",
    "reward": "500,000 Cash , 150 Gems , 3 Martian Dice , 15 Lunar Dice , and 25 Blac"
   },
@@ -87,10 +83,14 @@
    "reward": "30 Diamonds, 15 Amber Dice, 3 Hacker Dice, 4 Nexus Dice and 450,000 Ca"
   },
   {
+   "code": "april",
+   "reward": "500 Gems and 100 Amber Dice"
+  },
+  {
    "code": "5KTHANKS",
    "reward": "5 OP Dice , 100 Other Dice , and 2,500,000 Cash"
   }
  ],
- "updated": "2026-08-15T03:08:23.655Z",
+ "updated": "2026-08-16T03:35:21.590Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

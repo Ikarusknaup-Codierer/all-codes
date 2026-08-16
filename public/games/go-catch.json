@@ -11,10 +11,6 @@
    "reward": "2,000 Coins"
   },
   {
-   "code": "UPDATE6",
-   "reward": "20,000 Coins"
-  },
-  {
    "code": "SORRYDELAY",
    "reward": "10,000 Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "UPDATE5",
    "reward": "5,000 Coins"
+  },
+  {
+   "code": "100KTHANK",
+   "reward": "10,000 Coins"
   }
  ],
- "updated": "2026-08-15T03:08:08.647Z",
+ "updated": "2026-08-16T03:35:06.472Z",
  "source": "https://robloxden.com/game-codes/go-catch"
 }

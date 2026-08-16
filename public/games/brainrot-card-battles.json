@@ -139,10 +139,6 @@
    "reward": "50 Gold , 2 Medium Roll Speed Potions , and 3 Medium Luck Potions"
   },
   {
-   "code": "RELEASE",
-   "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
-  },
-  {
    "code": "31KLIKES",
    "reward": "1.5k Gold, 5 Medium Rarity Potions, 5 Medium Luck Potions, 3 Boos Poti"
   },
@@ -177,8 +173,12 @@
   {
    "code": "SKIBIDI2026",
    "reward": "1,000 Gold , 5 Medium Shiny Potions , 5 Medium Luck Potions , 3 Boss P"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-08-15T03:08:11.063Z",
+ "updated": "2026-08-16T03:35:09.019Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

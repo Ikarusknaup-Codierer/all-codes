@@ -31,10 +31,6 @@
    "reward": "100 Gems"
   },
   {
-   "code": "SorryForShutdowns2!",
-   "reward": "100 Gems"
-  },
-  {
    "code": "Release",
    "reward": "2 Potion I Bundle and 50 Gems"
   },
@@ -57,8 +53,12 @@
   {
    "code": "Titans!",
    "reward": "30 Titan Tokens and 100 Gems"
+  },
+  {
+   "code": "SorryForShutdowns2!",
+   "reward": "100 Gems"
   }
  ],
- "updated": "2026-08-14T20:06:36.268Z",
+ "updated": "2026-08-16T03:30:23.758Z",
  "source": "https://robloxden.com/game-codes/anime-universe"
 }

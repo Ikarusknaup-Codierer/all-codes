@@ -11,10 +11,6 @@
    "reward": "3K Cash"
   },
   {
-   "code": "RushedUpdateisAlwaysBad",
-   "reward": "500 Cash"
-  },
-  {
    "code": "Beta",
    "reward": "1K Cash"
   },
@@ -53,8 +49,12 @@
   {
    "code": "RushedUpdateisCompletelyTrash",
    "reward": "1.5K Cash"
+  },
+  {
+   "code": "RushedUpdateisAlwaysBad",
+   "reward": "500 Cash"
   }
  ],
- "updated": "2026-08-15T03:06:14.259Z",
+ "updated": "2026-08-16T03:33:09.369Z",
  "source": "https://robloxden.com/game-codes/united-burst-2"
 }

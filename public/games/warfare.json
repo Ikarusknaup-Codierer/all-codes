@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DRONEWEEK",
-   "reward": "250 Cash"
-  },
-  {
    "code": "SUPREMACY",
    "reward": "Free Rewards . To use this code, you must reach level 10"
   },
@@ -45,8 +41,12 @@
   {
    "code": "ILOVEWARFARE",
    "reward": "250 Cash"
+  },
+  {
+   "code": "DRONEWEEK",
+   "reward": "250 Cash"
   }
  ],
- "updated": "2026-08-15T03:12:39.985Z",
+ "updated": "2026-08-16T07:48:35.549Z",
  "source": "https://robloxden.com/game-codes/warfare"
 }

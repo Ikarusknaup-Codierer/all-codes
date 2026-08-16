@@ -15,16 +15,8 @@
    "reward": "500 Free Gems"
   },
   {
-   "code": "UPDATE4",
-   "reward": "1 Free Spin"
-  },
-  {
    "code": "UPDATE3",
    "reward": "1 Speed Potion"
-  },
-  {
-   "code": "5MVISITS",
-   "reward": "1 Strength Potion"
   },
   {
    "code": "DRAGONS",
@@ -103,6 +95,14 @@
    "reward": "1 Luck Potion"
   },
   {
+   "code": "UPDATE4",
+   "reward": "1 Free Spin"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "1 Strength Potion"
+  },
+  {
    "code": "1MVISITS",
    "reward": "1 Luck Potion"
   },
@@ -119,6 +119,6 @@
    "reward": "2 Trait Rolls"
   }
  ],
- "updated": "2026-08-15T07:47:07.475Z",
+ "updated": "2026-08-16T07:52:37.112Z",
  "source": "https://robloxden.com/game-codes/how-to-train-your-dragon"
 }

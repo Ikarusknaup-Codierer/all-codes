@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "650KMEMBER",
-   "reward": "30,000 Cash"
-  },
-  {
    "code": "SORRYFORDELAY",
    "reward": "50,000 Cash"
   },
@@ -19,10 +15,14 @@
    "reward": "$30,000"
   },
   {
-   "code": "NEWYEAR",
-   "reward": "15,000 Cash"
+   "code": "DRAGRACE",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "THANKYOU2K",
+   "reward": "35,000 Cash"
   }
  ],
- "updated": "2026-08-15T03:12:18.201Z",
+ "updated": "2026-08-16T07:48:14.633Z",
  "source": "https://robloxden.com/game-codes/drift-36"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "100KLIKES",
-   "reward": ""
-  },
-  {
    "code": "CAVE!",
    "reward": "5 Hammer Boxes and 250 Event Currency"
   },
@@ -25,8 +21,12 @@
   {
    "code": "UPDATE2",
    "reward": "30,000 Credits , 3 Hammer Boxes , and 280 Event Currency"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "200,000 Credits , 3 Hammer Boxes , and 280 Event Currency"
   }
  ],
- "updated": "2026-08-15T07:47:02.147Z",
+ "updated": "2026-08-16T07:52:29.419Z",
  "source": "https://robloxden.com/game-codes/forge-master"
 }

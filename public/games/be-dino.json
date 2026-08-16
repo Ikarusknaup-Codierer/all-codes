@@ -11,14 +11,6 @@
    "reward": "a Tier 1 Medium Food Radius Fossil , and a Tier 1 Medium Speed Fossil"
   },
   {
-   "code": "BIRTHDAY",
-   "reward": "10,000 Gems , a Brontosaurs and a Brontosaurus - Birthday"
-  },
-  {
-   "code": "MARSH",
-   "reward": "10,000 Gems , 1 Large XP Boost , 1 Large Growth Boost , 2 Stonecrest C"
-  },
-  {
    "code": "HUGE150K",
    "reward": "20,000 Gems , 1 Allosaurus , 1 Tier 1 Medium XP Fossil , and 1 Tier 1 "
   },
@@ -29,8 +21,16 @@
   {
    "code": "ANNIVERSARY",
    "reward": "100,000 Gems , a Xenoraptor , an Atrociraptor , a Dread Gigantosaurus "
+  },
+  {
+   "code": "BIRTHDAY",
+   "reward": "10,000 Gems , a Brontosaurs and a Brontosaurus - Birthday"
+  },
+  {
+   "code": "MARSH",
+   "reward": "10,000 Gems , 1 Large XP Boost , 1 Large Growth Boost , 2 Stonecrest C"
   }
  ],
- "updated": "2026-08-15T03:12:16.742Z",
+ "updated": "2026-08-16T07:48:13.632Z",
  "source": "https://robloxden.com/game-codes/be-dino"
 }

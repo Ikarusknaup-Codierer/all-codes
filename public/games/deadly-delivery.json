@@ -11,10 +11,6 @@
    "reward": "3 Z-Ray Guns , 3 Bio-Scanners , 3 The Traps , and 30 Gold Bars"
   },
   {
-   "code": "MINIENTITIES",
-   "reward": "10 Mini Coins"
-  },
-  {
    "code": "DDDC50K",
    "reward": "5 Revive Tickets and 5 Gold Bars"
   },
@@ -89,8 +85,12 @@
   {
    "code": "LUCKYCOIN",
    "reward": "3 Z-Ray Guns , 3 Bio Scanners , 3 Traps , and 30 Gold Bars"
+  },
+  {
+   "code": "MINIENTITIES",
+   "reward": "10 Mini Coins"
   }
  ],
- "updated": "2026-08-15T07:44:15.522Z",
+ "updated": "2026-08-16T07:49:54.566Z",
  "source": "https://robloxden.com/game-codes/deadly-delivery"
 }

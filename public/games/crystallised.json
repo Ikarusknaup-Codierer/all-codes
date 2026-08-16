@@ -11,7 +11,11 @@
    "reward": "1,750 SoulGlass"
   },
   {
-   "code": "250LIKES",
+   "code": "100LIKES",
+   "reward": "–"
+  },
+  {
+   "code": "sorryfordelay!",
    "reward": "–"
   },
   {
@@ -19,10 +23,10 @@
    "reward": "800 Soul Glass"
   },
   {
-   "code": "AUGMENTS",
-   "reward": "1,000 SoulGlass"
+   "code": "1KLIKES",
+   "reward": "1,750 SoulGlass"
   }
  ],
- "updated": "2026-08-15T03:10:12.323Z",
+ "updated": "2026-08-16T07:46:45.082Z",
  "source": "https://robloxden.com/game-codes/crystallised"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ZOO1STGIFTA",
-   "reward": "3 Hourglasses and 1 Mint Jelly"
-  },
-  {
    "code": "MERRYTIMES2026",
    "reward": "500 Diamonds and 3 Lucky Tickets"
   },
@@ -61,8 +57,12 @@
   {
    "code": "ZOO1STY2026",
    "reward": "1,000 Diamonds , 60 Climbing Trophies , and 3 Admin Speed Hourglasses"
+  },
+  {
+   "code": "ZOO1STGIFTA",
+   "reward": "3 Hourglasses and 1 Mint Jelly"
   }
  ],
- "updated": "2026-08-15T03:12:40.483Z",
+ "updated": "2026-08-16T07:48:36.056Z",
  "source": "https://robloxden.com/game-codes/build-a-zoo"
 }

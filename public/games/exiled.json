@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "5MVISITS",
-   "reward": "1,000 Tokens"
+   "code": "BUGFIX",
+   "reward": "Free rewards"
   },
   {
-   "code": "EXILEDUPDATE2",
+   "code": "20KLIKES",
+   "reward": "2 Boosts"
+  },
+  {
+   "code": "40KFAVORITES",
    "reward": "1,500 Anoms"
   },
   {
-   "code": "BOOST!",
-   "reward": "x2 Token Boost"
+   "code": "EXILEDUPDATE1",
+   "reward": "2 Revive Tickets"
   },
   {
-   "code": "EXILEDP4TCH",
-   "reward": "500 Tokens"
-  },
-  {
-   "code": "180KFAVORITES",
+   "code": "CHASINGSPARKS",
    "reward": "500 Tokens"
   }
  ],
- "updated": "2026-08-15T07:49:34.286Z",
+ "updated": "2026-08-16T07:54:47.813Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HELLO_JJI",
-   "reward": "50 Spins"
-  },
-  {
    "code": "400K_SUBS",
    "reward": "Spins"
   },
   {
-   "code": "HAPPY_HALLOWEEN",
-   "reward": "100 Spins"
-  },
-  {
-   "code": "CALAMITY_SOON",
+   "code": "CALAMITY_TESTER",
    "reward": "50 Spins"
   },
   {
-   "code": "FUGA_SHUTDOWN",
+   "code": "1M_LIKES",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "PLANT_SOON",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "REND_SPIDERWEB",
    "reward": "25 Spins"
   }
  ],
- "updated": "2026-08-15T07:51:34.578Z",
+ "updated": "2026-08-16T13:47:19.618Z",
  "source": "https://robloxden.com/game-codes/jujutsu-infinite"
 }

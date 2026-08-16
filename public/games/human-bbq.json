@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "ALIEN100",
-   "reward": "Freebies"
-  },
-  {
-   "code": "2500likes",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "CHEST99",
+   "code": "MASTERY1000",
    "reward": "Free Rewards"
   },
   {
@@ -23,10 +15,14 @@
    "reward": "500 Coins and 1 Potassium Skewer"
   },
   {
+   "code": "RELEASE",
+   "reward": "60 Coins"
+  },
+  {
    "code": "21500LIKES",
    "reward": "1 Dash Skewer"
   }
  ],
- "updated": "2026-08-15T07:48:24.057Z",
+ "updated": "2026-08-16T13:45:22.585Z",
  "source": "https://robloxden.com/game-codes/human-bbq"
 }

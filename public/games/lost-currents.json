@@ -11,15 +11,15 @@
    "reward": "10 Gold"
   },
   {
-   "code": "LOSTCURRENTSALPHA",
-   "reward": "20 Gold"
+   "code": "FISHING",
+   "reward": "50 Gold"
   },
   {
-   "code": "DUTCHMAN",
-   "reward": "20 Gold"
+   "code": "30MILVISITS",
+   "reward": "50 Gold"
   },
   {
-   "code": "THEWHALE",
+   "code": "75KLIKES",
    "reward": "20 Gold"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "20 Gold"
   }
  ],
- "updated": "2026-08-15T07:50:47.056Z",
+ "updated": "2026-08-16T13:46:40.151Z",
  "source": "https://robloxden.com/game-codes/lost-currents"
 }

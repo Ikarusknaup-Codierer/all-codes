@@ -11,10 +11,6 @@
    "reward": "Anubis Mask"
   },
   {
-   "code": "byegemstoneevent",
-   "reward": "Geode Wings"
-  },
-  {
    "code": "100ktwitter",
    "reward": "Gemstone Egg"
   },
@@ -25,8 +21,12 @@
   {
    "code": "babygriffplush",
    "reward": "Griff Baby Plush and Baby Griffin Accessory"
+  },
+  {
+   "code": "byegemstoneevent",
+   "reward": "Geode Wings"
   }
  ],
- "updated": "2026-08-15T13:47:50.612Z",
+ "updated": "2026-08-16T13:53:37.167Z",
  "source": "https://robloxden.com/game-codes/griffin-s-destiny"
 }

@@ -23,6 +23,10 @@
    "reward": "100 Coins"
   },
   {
+   "code": "EPICSTACK",
+   "reward": "40 Coins"
+  },
+  {
    "code": "LUCKLOOT",
    "reward": "40 Coins"
   },
@@ -205,12 +209,8 @@
   {
    "code": "MINGLE",
    "reward": "45 Cash"
-  },
-  {
-   "code": "EPICSTACK",
-   "reward": "40 Coins"
   }
  ],
- "updated": "2026-08-15T13:45:44.211Z",
+ "updated": "2026-08-16T13:51:41.795Z",
  "source": "https://robloxden.com/game-codes/squid-game-x"
 }

@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "F3NGISTHEWORSTDEVELOPER",
+   "code": "DeathAuras",
+   "reward": "2,500 Universal Coins"
+  },
+  {
+   "code": "Update8",
    "reward": "5,000 Universal Coins"
   },
   {
-   "code": "SorryForTheWait",
-   "reward": "10,000 Universal Coins"
+   "code": "SorryForTheLongAwait",
+   "reward": "500 Universal"
   },
   {
-   "code": "SorryForDelay",
-   "reward": "10,000 Universal Coins"
+   "code": "2XTPM",
+   "reward": "2,000 Universal"
+  },
+  {
+   "code": "SORRYFORBEINGSTUPID",
+   "reward": "2,000 Universal"
   }
  ],
- "updated": "2026-08-15T13:42:49.619Z",
+ "updated": "2026-08-16T13:49:12.696Z",
  "source": "https://robloxden.com/game-codes/spts-return-of-the-reaper"
 }

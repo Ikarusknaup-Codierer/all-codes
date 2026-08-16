@@ -11,10 +11,6 @@
    "reward": "250 Moonstones"
   },
   {
-   "code": "seashells",
-   "reward": "200 Moonstones"
-  },
-  {
    "code": "42klikes",
    "reward": "250 Moonstones"
   },
@@ -23,10 +19,14 @@
    "reward": "200 Moonstones"
   },
   {
-   "code": "21k",
+   "code": "seashells",
+   "reward": "200 Moonstones"
+  },
+  {
+   "code": "AMARA",
    "reward": "250 Moonstones"
   }
  ],
- "updated": "2026-08-15T07:51:46.831Z",
+ "updated": "2026-08-16T13:47:30.197Z",
  "source": "https://robloxden.com/game-codes/the-vampire-legacies-2"
 }

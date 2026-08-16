@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PATCH",
-   "reward": "30 Ability Rerolls, 5 Clan Rerolls, and 2 Generation Rerolls"
-  },
-  {
    "code": "BREAKINGBARRIERS",
    "reward": "100 Reroll Tokens"
   },
@@ -33,8 +29,12 @@
   {
    "code": "SUPERDOG",
    "reward": "1 Skill Tree Reset , 15 Ability Rerolls , and 250 Reroll Tokens"
+  },
+  {
+   "code": "PATCH",
+   "reward": "30 Ability Rerolls, 5 Clan Rerolls, and 2 Generation Rerolls"
   }
  ],
- "updated": "2026-08-15T13:46:43.844Z",
+ "updated": "2026-08-16T13:52:43.000Z",
  "source": "https://robloxden.com/game-codes/fire-force-online"
 }

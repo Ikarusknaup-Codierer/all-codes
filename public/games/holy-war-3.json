@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "GETURMAGIC2",
-   "reward": "Magic Spins"
+   "code": "STOPASKING",
+   "reward": "20 Magic Spins"
   },
   {
-   "code": "YOUWANTTRYME",
-   "reward": "Exp"
+   "code": "PEEKAPEEKABOO",
+   "reward": "Spins"
   },
   {
-   "code": "CRISMAGIC",
-   "reward": "a reward"
+   "code": "STATRESET10",
+   "reward": "a Stat Reset"
   },
   {
-   "code": "CRISRACE",
-   "reward": "a reward"
+   "code": "STATRESET6",
+   "reward": "a Stat Reset"
   },
   {
-   "code": "LATENIGHTRACE",
-   "reward": "Race Spins"
+   "code": "QUICKEEMAGIC",
+   "reward": "20 Magic Spins"
   }
  ],
- "updated": "2026-08-15T19:11:36.249Z",
+ "updated": "2026-08-16T19:12:34.518Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "CRYS",
-   "reward": "Crys"
-  },
-  {
-   "code": "STARTER",
-   "reward": "Starter"
+   "code": "JUNGLELIFE",
+   "reward": "50 Gems"
   },
   {
    "code": "GOURDS",
    "reward": "1 Pumpkin Necklace"
+  },
+  {
+   "code": "SPRING",
+   "reward": "1 Flower Necklace"
   },
   {
    "code": "GIFT",
@@ -31,6 +31,6 @@
    "reward": "New"
   }
  ],
- "updated": "2026-08-15T19:07:48.966Z",
+ "updated": "2026-08-16T19:08:47.432Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

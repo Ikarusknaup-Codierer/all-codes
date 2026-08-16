@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FORDISHERE",
+   "reward": "rewards"
+  },
+  {
    "code": "ITSCAROLINEONTRACK",
    "reward": "10,000 Cash"
   },
@@ -15,14 +19,14 @@
    "reward": "10,000 Cash"
   },
   {
-   "code": "FIRST_TO_DRIVE_ON_HIGHWAY",
-   "reward": "30k Cash"
+   "code": "TIKTOK",
+   "reward": "A Reward"
   },
   {
-   "code": "RELEASE",
-   "reward": "A Reward"
+   "code": "LATE_VALENTINES_25",
+   "reward": "DTE Boost"
   }
  ],
- "updated": "2026-08-15T13:48:16.646Z",
+ "updated": "2026-08-16T19:02:38.227Z",
  "source": "https://robloxden.com/game-codes/greenville"
 }

@@ -11,22 +11,22 @@
    "reward": "50 Coins"
   },
   {
-   "code": "MULTIVERSE",
+   "code": "EVENT",
+   "reward": "150 Coins"
+  },
+  {
+   "code": "AWESOME",
    "reward": "In-Game Rewards"
   },
   {
-   "code": "79KLIKES",
-   "reward": "200 Coins"
+   "code": "UPDATE6",
+   "reward": "In-Game Rewards"
   },
   {
-   "code": "42KLIKES",
-   "reward": "200 Coins"
-  },
-  {
-   "code": "89KLIKES",
-   "reward": "150 Coins"
+   "code": "5KLIKES",
+   "reward": "In-Game Rewards"
   }
  ],
- "updated": "2026-08-15T13:47:41.006Z",
+ "updated": "2026-08-16T19:02:17.754Z",
  "source": "https://robloxden.com/game-codes/multiverse-battlegrounds"
 }

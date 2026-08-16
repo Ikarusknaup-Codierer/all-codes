@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "22klikes!",
-   "reward": "Reward"
+   "code": "17klikes!",
+   "reward": "some freebies"
   },
   {
    "code": "14klikes",
+   "reward": "Reward"
+  },
+  {
+   "code": "blackiron",
    "reward": "Reward"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "8MVISITS",
    "reward": "the Red Baseball Cap"
-  },
-  {
-   "code": "500",
-   "reward": "500 Trade Bucks"
   }
  ],
- "updated": "2026-08-15T19:09:09.658Z",
+ "updated": "2026-08-16T19:10:13.948Z",
  "source": "https://robloxden.com/game-codes/trade-tower"
 }

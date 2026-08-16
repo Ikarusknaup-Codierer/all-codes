@@ -11,11 +11,7 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "1KLikes",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "Release",
+   "code": "5KLikes",
    "reward": "Free Rewards"
   },
   {
@@ -25,8 +21,12 @@
   {
    "code": "SMITE45",
    "reward": "10,000 Cash"
+  },
+  {
+   "code": "PLSDONATE",
+   "reward": "150,000 Cash"
   }
  ],
- "updated": "2026-08-15T19:03:54.659Z",
+ "updated": "2026-08-16T19:06:40.130Z",
  "source": "https://robloxden.com/game-codes/pls-donate-but-infinite-robux"
 }

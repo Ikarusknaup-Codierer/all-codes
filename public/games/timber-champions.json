@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "UPD20",
+   "code": "luckboost",
+   "reward": "Luck Boost"
+  },
+  {
+   "code": "HELL",
    "reward": "2 Ultra Lucky Boosts"
   },
   {
-   "code": "SPACELAB",
-   "reward": "2 Lucky Boosts"
+   "code": "HEAVEN",
+   "reward": "2 2x Coin Boosts"
   },
   {
-   "code": "TECH",
+   "code": "THANKS20K",
    "reward": "2 Ultra Lucky Boosts"
   },
   {
-   "code": "STEAMPUNK",
+   "code": "5KTHANKS",
    "reward": "2 2x Damage Boosts"
-  },
-  {
-   "code": "10KLIKES",
-   "reward": "2 Lucky Boosts"
   }
  ],
- "updated": "2026-08-15T13:56:17.803Z",
+ "updated": "2026-08-16T19:05:48.324Z",
  "source": "https://robloxden.com/game-codes/timber-champions"
 }

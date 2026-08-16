@@ -15,18 +15,18 @@
    "reward": "1,600 Cash"
   },
   {
-   "code": "GEM",
+   "code": "CRIMSON",
+   "reward": "$5,000"
+  },
+  {
+   "code": "20M",
    "reward": "5,000 Cash"
   },
   {
-   "code": "FUTURE",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "SKATE",
-   "reward": "10,000 Cash"
+   "code": "NINJA",
+   "reward": "the Shuriken"
   }
  ],
- "updated": "2026-08-15T19:07:25.793Z",
+ "updated": "2026-08-16T19:08:24.585Z",
  "source": "https://robloxden.com/game-codes/ohio"
 }

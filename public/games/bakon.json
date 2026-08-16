@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "BlackFriday2020",
-   "reward": "Bacoins"
-  },
-  {
-   "code": "Sorry4Delay",
-   "reward": "Bacoins"
-  },
-  {
-   "code": "100MSurprise",
+   "code": "EventS00n",
    "reward": "Bacoins"
   },
   {
@@ -23,10 +15,18 @@
    "reward": "Bacoins"
   },
   {
-   "code": "5k3tch",
-   "reward": "the Sk3tch Knife"
+   "code": "4YearBirthday",
+   "reward": "4,000 Coins"
+  },
+  {
+   "code": "ThanksKev",
+   "reward": "the Kev Knife"
+  },
+  {
+   "code": "DelayApologies",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-15T19:08:57.220Z",
+ "updated": "2026-08-16T19:10:01.983Z",
  "source": "https://robloxden.com/game-codes/bakon"
 }

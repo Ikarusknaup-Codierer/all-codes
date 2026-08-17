@@ -15,7 +15,11 @@
    "reward": "100 Cash"
   },
   {
-   "code": "500LIKES",
+   "code": "35KLIKES",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "1500likes",
    "reward": "1 Double Cash Booster"
   },
   {
@@ -23,6 +27,6 @@
    "reward": "1 Double Cash booster"
   }
  ],
- "updated": "2026-08-16T07:51:19.920Z",
+ "updated": "2026-08-17T14:00:15.901Z",
  "source": "https://robloxden.com/game-codes/my-card-shop"
 }

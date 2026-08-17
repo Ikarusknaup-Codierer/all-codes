@@ -11,22 +11,22 @@
    "reward": "30,000 Cash"
   },
   {
-   "code": "thankyoufor5klikes",
-   "reward": ""
-  },
-  {
    "code": "120000LIKES",
    "reward": ""
   },
   {
-   "code": "release!",
+   "code": "thankyou4testing!",
    "reward": "Cash"
   },
   {
-   "code": "sorryfordelay!",
+   "code": "sorryforshutdown",
    "reward": "Cash"
+  },
+  {
+   "code": "thankyoufor25klikes",
+   "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-08-16T13:48:37.331Z",
+ "updated": "2026-08-17T14:06:40.002Z",
  "source": "https://robloxden.com/game-codes/skillful"
 }

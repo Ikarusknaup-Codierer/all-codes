@@ -7,7 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "15KLIKES",
+   "code": "UPDATE3",
+   "reward": "Rewards"
+  },
+  {
+   "code": "weareback",
+   "reward": "Freebies"
+  },
+  {
+   "code": "thxforplaying",
    "reward": "Free In-Game Rewards"
   },
   {
@@ -15,18 +23,10 @@
    "reward": "Free In-Game Rewards"
   },
   {
-   "code": "UPDATE13",
-   "reward": "Rewards"
-  },
-  {
-   "code": "55KLIKES",
-   "reward": "1B Cash"
-  },
-  {
-   "code": "UPDATE7",
-   "reward": "3B Cash And 4 Frosty Potions"
+   "code": "30KLIKES",
+   "reward": "3B Cash, A Lucky Potion II, A Speed Potion II, And A Huge Fortune Elix"
   }
  ],
- "updated": "2026-08-16T13:48:32.864Z",
+ "updated": "2026-08-17T14:06:35.334Z",
  "source": "https://robloxden.com/game-codes/soccer-prime-rng"
 }

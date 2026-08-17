@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "EventPart2",
+   "code": "UPD2",
    "reward": "100 Gems"
   },
   {
-   "code": "UPDATE6",
-   "reward": "100 Gems"
+   "code": "UPGRADE",
+   "reward": "a reward"
   },
   {
-   "code": "1M_VISITS",
-   "reward": "200 Gems"
+   "code": "SCARY",
+   "reward": "1 2x Candy Boost"
   },
   {
-   "code": "Crater",
-   "reward": "50 Gems"
+   "code": "X2_GEMS",
+   "reward": "1 2x Gems Boost"
   },
   {
-   "code": "V0LCAN0",
-   "reward": "50 Gems"
+   "code": "S3CR3T_C0D3",
+   "reward": "250 Gems"
   }
  ],
- "updated": "2026-08-16T07:55:02.712Z",
+ "updated": "2026-08-17T14:03:36.101Z",
  "source": "https://robloxden.com/game-codes/insane-button-simulator"
 }

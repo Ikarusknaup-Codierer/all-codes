@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "ONSIDEKILLER",
+   "code": "SUN",
+   "reward": "2x Wins Potion"
+  },
+  {
+   "code": "P4LMS",
    "reward": "Hatch Only Toxic Food Potion"
   },
   {
-   "code": "N1GHT",
-   "reward": "2x Wins Potion"
+   "code": "2M",
+   "reward": "2x Luck Potion"
   },
   {
    "code": "CYB3RPUNK",
    "reward": "2x Wins Potion"
-  },
-  {
-   "code": "LuckyDay",
-   "reward": "15-Minute 2x Luck Potion"
-  },
-  {
-   "code": "EASTER",
-   "reward": "50 Easter Eggs"
   }
  ],
- "updated": "2026-08-16T13:46:02.257Z",
+ "updated": "2026-08-17T14:04:27.275Z",
  "source": "https://robloxden.com/game-codes/fat-race"
 }

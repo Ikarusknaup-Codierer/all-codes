@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "karma",
-   "reward": "300 Coins"
+   "code": "100K",
+   "reward": "250 Coins"
   },
   {
-   "code": "ashes",
-   "reward": "500 Coins"
-  },
-  {
-   "code": "femalewizard",
+   "code": "HOPESOLOS",
    "reward": "250 Coins"
   },
   {
@@ -23,10 +19,14 @@
    "reward": "250 Coins"
   },
   {
-   "code": "AGATHA",
-   "reward": "250 Coins"
+   "code": "witchinghour",
+   "reward": "3,000 Coins"
+  },
+  {
+   "code": "ignite",
+   "reward": "Free Coins"
   }
  ],
- "updated": "2026-08-16T07:53:15.992Z",
+ "updated": "2026-08-17T14:02:16.543Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

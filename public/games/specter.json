@@ -15,10 +15,6 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "SPLASH",
-   "reward": "3 Vault Tokens"
-  },
-  {
    "code": "INFINITY",
    "reward": "5 Vault Tokens"
   },
@@ -81,8 +77,12 @@
   {
    "code": "TRID3NT",
    "reward": "3 Vault Tokens , an Exclusive Outfit , and a Motion Sensor"
+  },
+  {
+   "code": "SPLASH",
+   "reward": "3 Vault Tokens"
   }
  ],
- "updated": "2026-08-16T07:54:10.952Z",
+ "updated": "2026-08-17T14:03:07.248Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

@@ -7,15 +7,19 @@
    "reward": "Description"
   },
   {
+   "code": "limitedtime",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "sorry",
    "reward": "Free Rewards"
   },
   {
-   "code": "newmap",
-   "reward": "3,000 Fossils"
+   "code": "likes1000",
+   "reward": "Free Rewards"
   },
   {
-   "code": "river",
+   "code": "3yearspe",
    "reward": "Fossils"
   },
   {
@@ -23,6 +27,6 @@
    "reward": "1,500 Fossils"
   }
  ],
- "updated": "2026-08-16T07:53:47.750Z",
+ "updated": "2026-08-17T14:02:50.572Z",
  "source": "https://robloxden.com/game-codes/primeval-earth"
 }

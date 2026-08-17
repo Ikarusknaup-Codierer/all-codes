@@ -15,18 +15,18 @@
    "reward": "300 Cash"
   },
   {
-   "code": "1MVisitis",
+   "code": "200Active",
+   "reward": "+1 Level"
+  },
+  {
+   "code": "secretgubby",
    "reward": "Free Rewards"
   },
   {
-   "code": "Endless",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "Tags",
-   "reward": "350 Gubcoins and XP"
+   "code": "1MVisits",
+   "reward": "1 Level"
   }
  ],
- "updated": "2026-08-16T07:52:28.966Z",
+ "updated": "2026-08-17T14:01:31.392Z",
  "source": "https://robloxden.com/game-codes/gubby-tower-defense"
 }

@@ -11,10 +11,6 @@
    "reward": "1,250 Gym Tokens"
   },
   {
-   "code": "WORLDCUP",
-   "reward": "100 Enchantment Crystals and 4 Wheel Spins"
-  },
-  {
    "code": "OVERDRIVE",
    "reward": "8 Free Wheel Spins"
   },
@@ -93,8 +89,12 @@
   {
    "code": "50M",
    "reward": "2 Spins"
+  },
+  {
+   "code": "WORLDCUP",
+   "reward": "100 Enchantment Crystals and 4 Wheel Spins"
   }
  ],
- "updated": "2026-08-16T13:46:27.641Z",
+ "updated": "2026-08-17T14:04:55.374Z",
  "source": "https://robloxden.com/game-codes/gym-star-simulator"
 }

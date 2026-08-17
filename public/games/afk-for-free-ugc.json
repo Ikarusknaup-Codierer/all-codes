@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "EMOTE",
+   "reward": ""
+  },
+  {
    "code": "SORRY4DELAY",
    "reward": ""
   },
   {
-   "code": "SAMMY",
+   "code": "JANDEL",
    "reward": ""
-  },
-  {
-   "code": "OWL",
-   "reward": "20,000 Clicks"
   },
   {
    "code": "RELEASE",
@@ -27,6 +27,6 @@
    "reward": "2,000 Points"
   }
  ],
- "updated": "2026-08-16T07:51:15.543Z",
+ "updated": "2026-08-17T14:00:12.584Z",
  "source": "https://robloxden.com/game-codes/afk-for-free-ugc"
 }

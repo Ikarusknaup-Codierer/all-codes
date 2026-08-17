@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "FOREST",
-   "reward": "Clicks"
-  },
-  {
-   "code": "HAIRS",
-   "reward": "Clicks"
-  },
-  {
-   "code": "REBORN",
+   "code": "HAIR",
    "reward": "Clicks And Potions"
   },
   {
@@ -23,10 +15,18 @@
    "reward": "Clicks And Potions"
   },
   {
-   "code": "CRAFT",
-   "reward": "Extra Boosts"
+   "code": "NEWUGC",
+   "reward": "50,000 Clicks"
+  },
+  {
+   "code": "99NIGHT",
+   "reward": "65,000 Clicks"
+  },
+  {
+   "code": "OWL",
+   "reward": "20,000 Clicks"
   }
  ],
- "updated": "2026-08-16T07:51:07.022Z",
+ "updated": "2026-08-17T14:00:05.389Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

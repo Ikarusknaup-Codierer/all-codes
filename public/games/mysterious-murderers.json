@@ -19,10 +19,6 @@
    "reward": "the Blue Cutlass"
   },
   {
-   "code": "KNIFE",
-   "reward": "the Rainbow Knife"
-  },
-  {
    "code": "SEER",
    "reward": "the Seer Axe"
   },
@@ -51,10 +47,14 @@
    "reward": "the Waves Sword"
   },
   {
+   "code": "KNIFE",
+   "reward": "the Rainbow Knife"
+  },
+  {
    "code": "GUN",
    "reward": "the Rainbow Pistol"
   }
  ],
- "updated": "2026-08-16T07:49:42.525Z",
+ "updated": "2026-08-17T13:58:37.111Z",
  "source": "https://robloxden.com/game-codes/mysterious-murderers"
 }

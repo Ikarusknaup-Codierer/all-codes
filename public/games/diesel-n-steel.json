@@ -7,22 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HAPPYXMAS2025",
-   "reward": "1,500 Cash"
-  },
-  {
-   "code": "PARZIGAMING",
-   "reward": "250 Cash"
-  },
-  {
-   "code": "fk",
-   "reward": "1 Cash Booster, 1 EXP Booster, 350 EXP, And 2,500 Cash"
-  },
-  {
-   "code": "Jameh",
-   "reward": "Reward"
-  },
-  {
    "code": "Milwaukee",
    "reward": "Reward"
   },
@@ -125,8 +109,24 @@
   {
    "code": "JAMBOHATDOGKAYAMOBATO",
    "reward": "250 Cash"
+  },
+  {
+   "code": "HAPPYXMAS2025",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "PARZIGAMING",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "fk",
+   "reward": "1 Cash Booster, 1 EXP Booster, 350 EXP, And 2,500 Cash"
+  },
+  {
+   "code": "Jameh",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-08-16T07:51:24.145Z",
+ "updated": "2026-08-17T14:00:20.949Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

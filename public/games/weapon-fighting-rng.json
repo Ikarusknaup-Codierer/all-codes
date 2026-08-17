@@ -15,18 +15,18 @@
    "reward": "2 Lucky Boost I, 2 Roll Speed Boost I, 2 Stone Boost I, And 2 EXP Boos"
   },
   {
-   "code": "trait",
+   "code": "boss5",
+   "reward": "5 Boss Skip Scrolls"
+  },
+  {
+   "code": "snow",
    "reward": "Boosts"
   },
   {
-   "code": "friend",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "treasure",
-   "reward": "Free Rewards"
+   "code": "mount",
+   "reward": "Boosts"
   }
  ],
- "updated": "2026-08-16T07:53:38.164Z",
+ "updated": "2026-08-17T14:02:41.148Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-rng"
 }

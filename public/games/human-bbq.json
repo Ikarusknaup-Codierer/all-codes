@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "MASTERY1000",
+   "code": "900likes",
+   "reward": "Unknown Reward"
+  },
+  {
+   "code": "TSUNAMI99",
    "reward": "Free Rewards"
   },
   {
@@ -17,12 +21,8 @@
   {
    "code": "RELEASE",
    "reward": "60 Coins"
-  },
-  {
-   "code": "21500LIKES",
-   "reward": "1 Dash Skewer"
   }
  ],
- "updated": "2026-08-16T13:45:22.585Z",
+ "updated": "2026-08-17T14:03:44.896Z",
  "source": "https://robloxden.com/game-codes/human-bbq"
 }

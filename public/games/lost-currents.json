@@ -11,22 +11,22 @@
    "reward": "10 Gold"
   },
   {
-   "code": "FISHING",
-   "reward": "50 Gold"
+   "code": "ISLANDS",
+   "reward": "10 Gold"
   },
   {
-   "code": "30MILVISITS",
-   "reward": "50 Gold"
-  },
-  {
-   "code": "75KLIKES",
+   "code": "LOSTCURRENTSALPHA",
    "reward": "20 Gold"
   },
   {
-   "code": "SUMMER2025",
+   "code": "15MILLIONSOFVISITS",
    "reward": "20 Gold"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "15 Gold"
   }
  ],
- "updated": "2026-08-16T13:46:40.151Z",
+ "updated": "2026-08-17T14:05:09.332Z",
  "source": "https://robloxden.com/game-codes/lost-currents"
 }

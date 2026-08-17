@@ -15,14 +15,18 @@
    "reward": "2x Cash for 15 Minutes"
   },
   {
-   "code": "Release!",
-   "reward": "2x Cash For 15 Minutes"
+   "code": "RELEASE",
+   "reward": "a 5 Minute 2x Cash Boost"
   },
   {
-   "code": "RELEASE",
+   "code": "SOCHILL",
+   "reward": "a 10 Minute 2x Cash Boost"
+  },
+  {
+   "code": "30KFAVS!",
    "reward": "a 5 Minute 2x Cash Boost"
   }
  ],
- "updated": "2026-08-16T13:47:21.530Z",
+ "updated": "2026-08-17T14:05:52.263Z",
  "source": "https://robloxden.com/game-codes/build-a-beach-gym-and-prove-bullies-wrong"
 }

@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DELAYED99",
-   "reward": "25 Gems and Name Title (Fan)"
-  },
-  {
-   "code": "Bachira",
-   "reward": "10,000 Cash"
-  },
-  {
-   "code": "Monster",
-   "reward": "10,000 Cash"
-  },
-  {
    "code": "Nxrdly",
    "reward": "1,000 Yen"
   },
@@ -29,8 +17,20 @@
   {
    "code": "somanyemotes",
    "reward": "10k Cash"
+  },
+  {
+   "code": "DELAYED99",
+   "reward": "25 Gems and Name Title (Fan)"
+  },
+  {
+   "code": "Bachira",
+   "reward": "10,000 Cash"
+  },
+  {
+   "code": "Monster",
+   "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-08-16T07:54:07.668Z",
+ "updated": "2026-08-17T14:03:04.468Z",
  "source": "https://robloxden.com/game-codes/project-egoist"
 }

@@ -15,18 +15,18 @@
    "reward": "2,000 Shillings"
   },
   {
-   "code": "CONSOLE",
-   "reward": "1,000 Shillings"
-  },
-  {
-   "code": "GIFT",
-   "reward": "1 Cabbage Seeds and 1 of Each Sprinkler"
+   "code": "ADMIN",
+   "reward": "7,500 Shillings"
   },
   {
    "code": "DAWN",
    "reward": "1 Dawnfruit Seed"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "2,000 Shillings , 15 Carrot Seeds , and 3 Corn Seeds"
   }
  ],
- "updated": "2026-08-16T03:36:44.439Z",
+ "updated": "2026-08-17T03:32:58.537Z",
  "source": "https://robloxden.com/game-codes/garden-horizons"
 }

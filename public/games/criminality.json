@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "350KL",
-   "reward": "3,000 Cash"
-  },
-  {
-   "code": "WINTER25",
-   "reward": "5,000 Cash"
-  },
-  {
    "code": "BAYONET",
    "reward": "3,000 Cash"
   },
@@ -23,10 +15,18 @@
    "reward": "3,000 Cash and 2x Exp Boost"
   },
   {
-   "code": "HALLOWS2021",
-   "reward": "$7,777 Cash"
+   "code": "350KL",
+   "reward": "3,000 Cash"
+  },
+  {
+   "code": "WINTER25",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "WETHEPEOPLE",
+   "reward": "5k Cash And A Double XP Boost"
   }
  ],
- "updated": "2026-08-15T19:10:30.818Z",
+ "updated": "2026-08-17T03:18:24.739Z",
  "source": "https://robloxden.com/game-codes/criminality"
 }

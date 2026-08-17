@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PARTYBOX",
+   "reward": "650 Confetti"
+  },
+  {
    "code": "5KMEMBERS",
    "reward": "500 Coins"
   },
@@ -23,6 +27,6 @@
    "reward": "500 Confetti"
   }
  ],
- "updated": "2026-08-16T03:29:42.670Z",
+ "updated": "2026-08-17T03:26:07.440Z",
  "source": "https://robloxden.com/game-codes/partybox"
 }

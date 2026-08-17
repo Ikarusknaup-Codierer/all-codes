@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "december23",
-   "reward": "2,500 Points"
-  },
-  {
-   "code": "workingongame",
-   "reward": "No Listed Reward"
-  },
-  {
-   "code": "newlighting",
+   "code": "SMOOTHANIMATIONS",
    "reward": "2,500 Points"
   },
   {
@@ -23,10 +15,18 @@
    "reward": "2,500 Points"
   },
   {
+   "code": "FREEREALISTICLIGHTING",
+   "reward": "2,500 Points"
+  },
+  {
+   "code": "CODEPLS",
+   "reward": "2,500 Points"
+  },
+  {
    "code": "2YEARS",
    "reward": "2,500 Points"
   }
  ],
- "updated": "2026-08-15T19:13:36.444Z",
+ "updated": "2026-08-17T03:21:07.711Z",
  "source": "https://robloxden.com/game-codes/titanic"
 }

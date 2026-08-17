@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "4TH",
-   "reward": "20,000 Cash"
-  },
-  {
    "code": "DELAY",
    "reward": "5,000 Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "20KMEMBERS",
    "reward": "Watersports , Police , and Customization"
+  },
+  {
+   "code": "4TH",
+   "reward": "20,000 Cash"
   }
  ],
- "updated": "2026-08-16T03:30:59.113Z",
+ "updated": "2026-08-17T03:27:35.143Z",
  "source": "https://robloxden.com/game-codes/gull-lake-minnesota"
 }

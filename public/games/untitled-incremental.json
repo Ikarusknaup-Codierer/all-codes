@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Beginner",
+   "reward": "1 Of Each Potion"
+  },
+  {
+   "code": "Constellations",
+   "reward": "1 Rune Bulk Potion and 1 Rune Luck Potion"
+  },
+  {
+   "code": "FAQReader",
+   "reward": "1 Stats Potion"
+  },
+  {
    "code": "RELEASE",
    "reward": "1 Of Each Potion"
   }
  ],
- "updated": "2026-08-15T19:15:12.815Z",
+ "updated": "2026-08-17T03:22:20.400Z",
  "source": "https://robloxden.com/game-codes/untitled-incremental"
 }

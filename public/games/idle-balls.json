@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LEXPLOITERS",
+   "reward": "2x Cash (10 Minutes)"
+  },
+  {
+   "code": "OMNIS",
+   "reward": "5x Luck (5 Minutes)"
+  },
+  {
    "code": "Quests",
    "reward": "2x Luck (5 Minutes)"
   },
@@ -51,6 +59,6 @@
    "reward": "2x Luck (10 Minutes)"
   }
  ],
- "updated": "2026-08-15T19:15:15.930Z",
+ "updated": "2026-08-17T03:22:21.896Z",
  "source": "https://robloxden.com/game-codes/idle-balls"
 }

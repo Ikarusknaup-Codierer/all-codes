@@ -11,20 +11,12 @@
    "reward": "250 Pearls"
   },
   {
-   "code": "FREE188",
-   "reward": "3 Keys"
-  },
-  {
    "code": "RIVALSSUMMER",
    "reward": "3 Tropical Chests"
   },
   {
    "code": "COMMUNITY24",
    "reward": "a Community Wrap"
-  },
-  {
-   "code": "FREE184",
-   "reward": "3 Keys"
   },
   {
    "code": "ELBILLUG",
@@ -43,7 +35,15 @@
    "reward": "1 Key"
   },
   {
+   "code": "free190",
+   "reward": "3 Keys"
+  },
+  {
    "code": "FREE189",
+   "reward": "3 Keys"
+  },
+  {
+   "code": "FREE188",
    "reward": "3 Keys"
   },
   {
@@ -52,6 +52,10 @@
   },
   {
    "code": "FREE186",
+   "reward": "3 Keys"
+  },
+  {
+   "code": "FREE184",
    "reward": "3 Keys"
   },
   {
@@ -67,6 +71,6 @@
    "reward": "3 Keys"
   }
  ],
- "updated": "2026-08-16T03:29:15.395Z",
+ "updated": "2026-08-17T03:25:27.404Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

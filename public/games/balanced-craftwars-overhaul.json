@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "testing",
-   "reward": "Test Vanity"
-  },
-  {
    "code": "GrinchGift",
    "reward": "Pipebomb"
-  },
-  {
-   "code": "2KLIKES",
-   "reward": "Darksteel Chakram"
   },
   {
    "code": "Honk",
    "reward": "Annoying Goose"
   },
   {
+   "code": "M1N1NG",
+   "reward": "1 Darksteel Pickaxe"
+  },
+  {
+   "code": "Fumo",
+   "reward": "1 Fumo"
+  },
+  {
    "code": "SL1M3",
    "reward": "1 Slime Staff"
   }
  ],
- "updated": "2026-08-15T19:12:39.936Z",
+ "updated": "2026-08-17T03:20:06.717Z",
  "source": "https://robloxden.com/game-codes/balanced-craftwars-overhaul"
 }

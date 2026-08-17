@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "1KLIKES",
+   "reward": "3 Race Reroll Mirrors and 3 Stat Reset Scrolls"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "Job Change Mask"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 Fishing Rod , 1 Axe , and 1 Pickaxe"
+  },
+  {
+   "code": "THROUGHTHEPORTAL",
+   "reward": "1 Wooden Glider and 3 Race Reroll Mirrors"
+  },
+  {
    "code": "300LIKES",
    "reward": "3 Race Reroll Mirrors"
   },
@@ -35,6 +51,6 @@
    "reward": "1 Copper Band and 1 Silver Chain"
   }
  ],
- "updated": "2026-08-15T19:15:11.204Z",
+ "updated": "2026-08-17T03:22:18.855Z",
  "source": "https://robloxden.com/game-codes/the-portal"
 }

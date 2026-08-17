@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "2500LIKES",
+   "reward": "1,000 Gems"
+  },
+  {
    "code": "1500LIKES",
    "reward": "500 Gems"
   },
@@ -15,6 +19,6 @@
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-08-16T03:30:48.270Z",
+ "updated": "2026-08-17T03:27:22.265Z",
  "source": "https://robloxden.com/game-codes/anime-figure-simulator"
 }

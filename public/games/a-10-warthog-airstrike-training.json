@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "COMBATREWORK!",
-   "reward": "1M Cash"
-  },
-  {
    "code": "SORRYFORDELAY!",
    "reward": "10K Cash"
   },
@@ -21,8 +17,12 @@
   {
    "code": "MEGAUPDATE!",
    "reward": "50K Cash"
+  },
+  {
+   "code": "COMBATREWORK!",
+   "reward": "1M Cash"
   }
  ],
- "updated": "2026-08-16T03:31:08.671Z",
+ "updated": "2026-08-17T03:27:45.973Z",
  "source": "https://robloxden.com/game-codes/a-10-warthog-airstrike-training"
 }

@@ -15,6 +15,14 @@
    "reward": "5 Rerolls and 5 Refreshes"
   },
   {
+   "code": "500K",
+   "reward": "25 Rerolls , 25 Refreshes , and 25,000 Coins"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "3 Golden Rolls"
+  },
+  {
    "code": "STORYMODE",
    "reward": "1 Golden Roll"
   },
@@ -23,6 +31,6 @@
    "reward": "1 Golden Roll and 5 Rerolls"
   }
  ],
- "updated": "2026-08-16T03:29:58.302Z",
+ "updated": "2026-08-17T03:26:23.306Z",
  "source": "https://robloxden.com/game-codes/build-your-soccer-squad"
 }

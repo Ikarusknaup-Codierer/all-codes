@@ -11,22 +11,22 @@
    "reward": "1,000 Coins"
   },
   {
+   "code": "5000",
+   "reward": "rewards"
+  },
+  {
    "code": "NETHER",
    "reward": "rewards"
   },
   {
-   "code": "FREECHROMA",
-   "reward": "rewards"
+   "code": "FREECOINS",
+   "reward": "Coins"
   },
   {
    "code": "E4ST3R",
    "reward": "2,000 Coins"
-  },
-  {
-   "code": "FREECASH",
-   "reward": "6,000 Coins"
   }
  ],
- "updated": "2026-08-15T19:09:07.499Z",
+ "updated": "2026-08-17T03:17:59.219Z",
  "source": "https://robloxden.com/game-codes/murder-legends"
 }

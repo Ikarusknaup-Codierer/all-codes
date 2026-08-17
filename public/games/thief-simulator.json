@@ -11,22 +11,22 @@
    "reward": "15,000 Cash"
   },
   {
-   "code": "freeexp",
-   "reward": "100 EXP"
+   "code": "noontime",
+   "reward": "Changes the Time of Day to 12:00 AM"
   },
   {
-   "code": "iknowall",
-   "reward": "Learns All of the Tenant Routines from Every Lot in Each Neighborhood"
+   "code": "sostaheist",
+   "reward": "3.5K Cash"
   },
   {
-   "code": "finesse",
-   "reward": "2K Cash"
-  },
-  {
-   "code": "HEADSTART",
+   "code": "20MILLION",
    "reward": "10,000 Cash"
+  },
+  {
+   "code": "FUNWISEFUN",
+   "reward": "7,500 Cash"
   }
  ],
- "updated": "2026-08-15T19:12:28.463Z",
+ "updated": "2026-08-17T03:19:56.334Z",
  "source": "https://robloxden.com/game-codes/thief-simulator"
 }

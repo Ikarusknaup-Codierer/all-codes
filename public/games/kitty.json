@@ -15,14 +15,18 @@
    "reward": "100 BowTies"
   },
   {
-   "code": "titani",
-   "reward": "2,000 Cheese"
+   "code": "FREECHEESE",
+   "reward": "Cheese"
+  },
+  {
+   "code": "NewEnding",
+   "reward": "10,000,000 Cheese"
   },
   {
    "code": "NewMinigame",
    "reward": "5,000,000 Cheese"
   }
  ],
- "updated": "2026-08-15T19:12:03.899Z",
+ "updated": "2026-08-17T03:19:36.204Z",
  "source": "https://robloxden.com/game-codes/kitty"
 }

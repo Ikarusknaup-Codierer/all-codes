@@ -15,18 +15,18 @@
    "reward": "a Regular Spin"
   },
   {
-   "code": "!TestNoJutsu",
+   "code": "!Rojutsu",
+   "reward": "60 Spins and 350,000 XP"
+  },
+  {
+   "code": "!OtherFixes",
+   "reward": "1.5x XP (30 Minutes) and 15 Premium Spins"
+  },
+  {
+   "code": "!MileStone",
    "reward": "a Level Up"
-  },
-  {
-   "code": "!SpinCode1",
-   "reward": "30 Spins And 5 Premium Spins"
-  },
-  {
-   "code": "!ReColor8",
-   "reward": "1 Random Cursed Energy Colour"
   }
  ],
- "updated": "2026-08-15T19:11:29.079Z",
+ "updated": "2026-08-17T03:19:07.190Z",
  "source": "https://robloxden.com/game-codes/rojutsu-blox"
 }

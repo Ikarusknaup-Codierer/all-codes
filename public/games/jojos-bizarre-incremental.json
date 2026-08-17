@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWSTUFF",
+   "reward": "5,000 XP , 50,000 Yen , 10 Stand Arrows , and 5 John's Fingers"
+  },
+  {
    "code": "MOREFINGERS",
    "reward": "20 John's Fingers"
   },
@@ -71,6 +75,6 @@
    "reward": "5000 XP , 5000 Yen , 25 Stand Arrow , and 5 Mythical Giftbox"
   }
  ],
- "updated": "2026-08-16T03:36:19.616Z",
+ "updated": "2026-08-17T03:32:29.017Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

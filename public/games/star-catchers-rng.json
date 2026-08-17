@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LUCKY",
-   "reward": "Lucky Star"
-  },
-  {
    "code": "SUNKISSED",
    "reward": "Boosted Summer Star Odds On Your Next 10 Rolls"
   },
@@ -21,8 +17,12 @@
   {
    "code": "SPOONFUL",
    "reward": "Spoonful Trophy Decor"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "Lucky Star"
   }
  ],
- "updated": "2026-08-16T03:30:38.571Z",
+ "updated": "2026-08-17T03:27:12.383Z",
  "source": "https://robloxden.com/game-codes/star-catchers-rng"
 }

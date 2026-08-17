@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SNIPER",
+   "reward": "2,500 Cash"
+  },
+  {
+   "code": "SCP035",
+   "reward": "2,500 Cash"
+  },
+  {
    "code": "LAZYPATCH",
    "reward": "1,500 Money"
   },
@@ -35,6 +43,6 @@
    "reward": "$2,000 Cash"
   }
  ],
- "updated": "2026-08-16T03:31:28.422Z",
+ "updated": "2026-08-17T03:28:06.550Z",
  "source": "https://robloxden.com/game-codes/scp-roleplay"
 }

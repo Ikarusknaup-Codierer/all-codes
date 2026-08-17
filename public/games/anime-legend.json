@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "AURAS",
+   "reward": "Coins And Gems"
+  },
+  {
    "code": "ANIM3PLAYTIM3",
    "reward": "Coins And Gems"
-  },
-  {
-   "code": "10KLIK3",
-   "reward": "Coins And Gems"
-  },
-  {
-   "code": "release2",
-   "reward": "Gift"
   },
   {
    "code": "vol",
    "reward": "Gift"
   },
   {
-   "code": "RELEASE",
-   "reward": "2,000 Coins and 2,000 Gems"
+   "code": "lurex",
+   "reward": "Gift"
+  },
+  {
+   "code": "antiafk",
+   "reward": "Gift"
   }
  ],
- "updated": "2026-08-16T07:48:51.111Z",
+ "updated": "2026-08-17T08:17:48.034Z",
  "source": "https://robloxden.com/game-codes/anime-legend"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "!PIKAA67CODE",
-   "reward": "67 Ryo"
-  },
-  {
    "code": "!SORRYFORLATECODE",
    "reward": "30,000 EXP"
   },
@@ -21,14 +17,6 @@
   {
    "code": "100EXTRA",
    "reward": "100 Spins"
-  },
-  {
-   "code": "STILLNOMYTHICS",
-   "reward": "500 Spins"
-  },
-  {
-   "code": "500FINAL",
-   "reward": "500 Spins"
   },
   {
    "code": "!FINALRESET",
@@ -73,8 +61,20 @@
   {
    "code": "WELCOME",
    "reward": "Spins"
+  },
+  {
+   "code": "!PIKAA67CODE",
+   "reward": "67 Ryo"
+  },
+  {
+   "code": "STILLNOMYTHICS",
+   "reward": "500 Spins"
+  },
+  {
+   "code": "500FINAL",
+   "reward": "500 Spins"
   }
  ],
- "updated": "2026-08-16T07:49:02.736Z",
+ "updated": "2026-08-17T08:18:01.186Z",
  "source": "https://robloxden.com/game-codes/shinobi-reborn"
 }

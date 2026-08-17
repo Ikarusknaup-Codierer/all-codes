@@ -11,10 +11,6 @@
    "reward": "Silver Antlers"
   },
   {
-   "code": "SS12",
-   "reward": "the Star White Shades"
-  },
-  {
    "code": "SFV",
    "reward": "the Sci-Fi Valk"
   },
@@ -173,8 +169,12 @@
   {
    "code": "HPPCU",
    "reward": "the Hot Pink Pixel Crown"
+  },
+  {
+   "code": "SS12",
+   "reward": "the Star White Shades"
   }
  ],
- "updated": "2026-08-16T03:34:58.722Z",
+ "updated": "2026-08-17T08:13:16.881Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

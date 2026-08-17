@@ -55,10 +55,6 @@
    "reward": "405 Fragments"
   },
   {
-   "code": "WORKSHOPRELEASE",
-   "reward": "405 Fragments"
-  },
-  {
    "code": "MaoAdept",
    "reward": "405 Fragments"
   },
@@ -85,8 +81,12 @@
   {
    "code": "Welcome",
    "reward": "350 Fragments , 500 Condense , and 3 Seeds of Light"
+  },
+  {
+   "code": "WORKSHOPRELEASE",
+   "reward": "405 Fragments"
   }
  ],
- "updated": "2026-08-16T07:47:23.582Z",
+ "updated": "2026-08-17T08:16:11.657Z",
  "source": "https://robloxden.com/game-codes/project-mirror-labyrinth"
 }

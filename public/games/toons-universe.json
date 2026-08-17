@@ -7,10 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "ATLAS",
+   "reward": "150 Malachor"
+  },
+  {
+   "code": "MOCK",
+   "reward": "50 Malachor"
+  },
+  {
+   "code": "JERRY",
+   "reward": "200 Malachor"
+  },
+  {
+   "code": "MISSUDOLLY",
+   "reward": "200 Malachor"
+  },
+  {
    "code": "15MIL",
    "reward": "250 Malachor"
   }
  ],
- "updated": "2026-08-16T03:33:11.934Z",
+ "updated": "2026-08-17T08:11:21.350Z",
  "source": "https://robloxden.com/game-codes/toons-universe"
 }

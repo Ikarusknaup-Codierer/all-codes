@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SummerUpd",
+   "reward": "15,000 Cash"
+  },
+  {
+   "code": "Skins",
+   "reward": "5,000 Cash"
+  },
+  {
    "code": "5HoursDelay",
    "reward": "5,000 Cash"
   },
@@ -67,6 +75,10 @@
    "reward": "50 Traits"
   },
   {
+   "code": "AAtmr",
+   "reward": "30 Traits"
+  },
+  {
    "code": "SorryForHighPricedPages",
    "reward": "1 Sure-Hit Page"
   },
@@ -87,6 +99,6 @@
    "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-08-16T03:34:49.331Z",
+ "updated": "2026-08-17T08:13:06.062Z",
  "source": "https://robloxden.com/game-codes/cursed-tower-defense"
 }

@@ -11,10 +11,6 @@
    "reward": "15 Auric Dice , 5 Radiant Dice , 3 Celestial Dice , $250,000 Cash , an"
   },
   {
-   "code": "LATEGAME",
-   "reward": "10 Spectral Dice , 5 Nebular Dice , 3 Paradox Dice , and 25 Gems"
-  },
-  {
    "code": "MAY23OP",
    "reward": "1 Mirage Dice , 10 Mystical Dice , and 500,000 Cash"
   },
@@ -83,6 +79,10 @@
    "reward": "30 Diamonds, 15 Amber Dice, 3 Hacker Dice, 4 Nexus Dice and 450,000 Ca"
   },
   {
+   "code": "LATEGAME",
+   "reward": "10 Spectral Dice , 5 Nebular Dice , 3 Paradox Dice , and 25 Gems"
+  },
+  {
    "code": "april",
    "reward": "500 Gems and 100 Amber Dice"
   },
@@ -91,6 +91,6 @@
    "reward": "5 OP Dice , 100 Other Dice , and 2,500,000 Cash"
   }
  ],
- "updated": "2026-08-16T03:35:21.590Z",
+ "updated": "2026-08-17T08:13:40.979Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

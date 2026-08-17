@@ -9,8 +9,24 @@
   {
    "code": "NewSzn!",
    "reward": "1 Golden Dice"
+  },
+  {
+   "code": "NOVA",
+   "reward": "50 Boxes"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "10 Boxes and 5 Mega Boxes"
+  },
+  {
+   "code": "DEMONIC",
+   "reward": "5 Omega Boxes"
+  },
+  {
+   "code": "ANGELIC",
+   "reward": "5 Omega Boxes"
   }
  ],
- "updated": "2026-08-16T03:32:35.526Z",
+ "updated": "2026-08-17T08:10:31.770Z",
  "source": "https://robloxden.com/game-codes/brawl-rng"
 }

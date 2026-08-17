@@ -55,10 +55,6 @@
    "reward": "3K Lamp Tokens and 1 Chaos Potion"
   },
   {
-   "code": "FESTPUN",
-   "reward": "2K Lamp Tokens and 2 Genesis Fruits"
-  },
-  {
    "code": "egexos",
    "reward": "20 Treasure Shovels , 2,000 Rift Coins , and 2 Genesis Fruits"
   },
@@ -105,8 +101,12 @@
   {
    "code": "cam",
    "reward": "3 Small XP Potions and 3 Small Coin Potions"
+  },
+  {
+   "code": "FESTPUN",
+   "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-08-16T07:48:46.259Z",
+ "updated": "2026-08-17T08:17:42.649Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

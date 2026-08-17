@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SECONDUPDATE",
+   "reward": "1 Heavenly Pill"
+  },
+  {
+   "code": "LAKE",
+   "reward": "2 Heavenly Tribulation Pills"
+  },
+  {
    "code": "2NDPART",
    "reward": "2 Heavenly Tribulation Pills"
   },
@@ -51,6 +59,6 @@
    "reward": "1 Lucky Reroll"
   }
  ],
- "updated": "2026-08-16T03:35:36.342Z",
+ "updated": "2026-08-17T08:13:55.157Z",
  "source": "https://robloxden.com/game-codes/chasing-immortality"
 }

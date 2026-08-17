@@ -11,10 +11,6 @@
    "reward": "an 1,000 Silver"
   },
   {
-   "code": "ICICLE97",
-   "reward": "100"
-  },
-  {
    "code": "EASTER2023",
    "reward": "750 Silver"
   },
@@ -23,10 +19,14 @@
    "reward": "100 Silver"
   },
   {
-   "code": "COLD",
-   "reward": "500 Coins"
+   "code": "YETI2020",
+   "reward": "220 Silver"
+  },
+  {
+   "code": "GINGERBREAD2020",
+   "reward": "220 Silver"
   }
  ],
- "updated": "2026-08-16T07:49:03.201Z",
+ "updated": "2026-08-17T08:18:01.731Z",
  "source": "https://robloxden.com/game-codes/snowman-simulator"
 }

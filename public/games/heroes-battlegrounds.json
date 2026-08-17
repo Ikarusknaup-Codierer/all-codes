@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LOVESICKKILLERULT",
-   "reward": "5 Emotes"
-  },
-  {
    "code": "SORRYFORMAINTENANCE",
    "reward": "5 Free Emotes"
   },
@@ -25,8 +21,12 @@
   {
    "code": "MOREDELAYSPLEASEPLEASE",
    "reward": "5 Emojis"
+  },
+  {
+   "code": "LOVESICKKILLERULT",
+   "reward": "5 Emotes"
   }
  ],
- "updated": "2026-08-16T03:32:28.839Z",
+ "updated": "2026-08-17T08:10:26.567Z",
  "source": "https://robloxden.com/game-codes/heroes-battlegrounds"
 }

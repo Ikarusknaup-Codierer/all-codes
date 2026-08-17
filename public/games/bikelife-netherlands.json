@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "9MVISITS",
-   "reward": "600 Cash"
-  },
-  {
    "code": "8MVISITS",
    "reward": "400 Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "BIKELIFENETHERLANDS",
    "reward": "400 Cash"
+  },
+  {
+   "code": "9MVISITS",
+   "reward": "600 Cash"
   }
  ],
- "updated": "2026-08-16T07:48:38.997Z",
+ "updated": "2026-08-17T08:17:34.463Z",
  "source": "https://robloxden.com/game-codes/bikelife-netherlands"
 }

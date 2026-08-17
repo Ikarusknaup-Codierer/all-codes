@@ -11,10 +11,6 @@
    "reward": "500 Diamonds and 3 Lucky Tickets"
   },
   {
-   "code": "RABBITHAT30",
-   "reward": "1 Sacred Deer Egg"
-  },
-  {
    "code": "OCEANHEART0",
    "reward": "2 Ocean Heart"
   },
@@ -61,8 +57,12 @@
   {
    "code": "ZOO1STGIFTA",
    "reward": "3 Hourglasses and 1 Mint Jelly"
+  },
+  {
+   "code": "RABBITHAT30",
+   "reward": "1 Sacred Deer Egg"
   }
  ],
- "updated": "2026-08-16T07:48:36.056Z",
+ "updated": "2026-08-17T08:17:31.210Z",
  "source": "https://robloxden.com/game-codes/build-a-zoo"
 }

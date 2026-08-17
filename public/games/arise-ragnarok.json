@@ -11,22 +11,22 @@
    "reward": "3 Igris Dungeon Key"
   },
   {
-   "code": "75KLIKES",
-   "reward": "1 Hour EXP Boost"
+   "code": "45KLIKES",
+   "reward": "5 Class Reroll"
   },
   {
-   "code": "50KLIKES",
-   "reward": "8 Rank E Chests"
+   "code": "40KLIKES",
+   "reward": "2 Stat Resets"
   },
   {
-   "code": "35KFAVS",
+   "code": "30KLIKES",
+   "reward": "3 Class Rerolls"
+  },
+  {
+   "code": "RELEASE",
    "reward": "1 Class Reroll"
-  },
-  {
-   "code": "60KLIKES",
-   "reward": "8 Rank D Chests"
   }
  ],
- "updated": "2026-08-16T07:47:42.204Z",
+ "updated": "2026-08-17T08:16:32.601Z",
  "source": "https://robloxden.com/game-codes/arise-ragnarok"
 }

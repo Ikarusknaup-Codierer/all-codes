@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ZENI",
-   "reward": "15,000 Zeni"
+   "code": "ThanksFor12kLikes!",
+   "reward": "2 Race Spins and 2 Gene Spins"
+  },
+  {
+   "code": "CITYBOYS",
+   "reward": "2 Race Rolls , 3 Aura Rolls , and 1 Gene Roll"
+  },
+  {
+   "code": "WEUP",
+   "reward": "10,000 Zeni"
+  },
+  {
+   "code": "banesbroke",
+   "reward": "2 Gene Spins"
   },
   {
    "code": "COMMONLUPDATE",
    "reward": "1 Race Spin , 3 Aura Spins , and 1 Gene Spin"
-  },
-  {
-   "code": "COMMONBANEBUG",
-   "reward": "2 Gene Spins"
-  },
-  {
-   "code": "BANELDEV",
-   "reward": "1 Race Roll and 3 Aura Spins"
-  },
-  {
-   "code": "COMMONBANEL",
-   "reward": "1 Race Spin"
   }
  ],
- "updated": "2026-08-16T03:31:31.946Z",
+ "updated": "2026-08-17T08:09:56.929Z",
  "source": "https://robloxden.com/game-codes/budokai-z"
 }

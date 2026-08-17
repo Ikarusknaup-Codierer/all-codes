@@ -11,10 +11,6 @@
    "reward": "1K Gold, 5 Medium Luck Potions, 3 Boss Potions, 5 Medium Rarity Potion"
   },
   {
-   "code": "DELAY2",
-   "reward": "2 Trait Rerolls, 1 25,000-Roll Pack and 3 Boss Potions"
-  },
-  {
    "code": "WORLD9",
    "reward": "750 Gold, 5 Medium Luck Potions, 3 Boss Potions and 1 5000-Roll Pack"
   },
@@ -53,10 +49,6 @@
   {
    "code": "TOWER",
    "reward": "500 Gold , 3 1000-Rolls , 3 Boss Potions , and 3 Medium Luck"
-  },
-  {
-   "code": "EVOLUTION",
-   "reward": "1,000 Gold , 1 5000-Roll , 5 Medium Rarity , and 5 Medium Luck"
   },
   {
    "code": "CRAFTING",
@@ -135,8 +127,8 @@
    "reward": "200 Gold , 2 Medium Shiny Potions , 3 Medium Luck Potions , and 1 1,00"
   },
   {
-   "code": "BRAINROT",
-   "reward": "50 Gold , 2 Medium Roll Speed Potions , and 3 Medium Luck Potions"
+   "code": "DELAY2",
+   "reward": "2 Trait Rerolls, 1 25,000-Roll Pack and 3 Boss Potions"
   },
   {
    "code": "31KLIKES",
@@ -171,14 +163,22 @@
    "reward": "3 Trait Rerolls"
   },
   {
+   "code": "EVOLUTION",
+   "reward": "1,000 Gold , 1 5000-Roll , 5 Medium Rarity , and 5 Medium Luck"
+  },
+  {
    "code": "SKIBIDI2026",
    "reward": "1,000 Gold , 5 Medium Shiny Potions , 5 Medium Luck Potions , 3 Boss P"
+  },
+  {
+   "code": "BRAINROT",
+   "reward": "50 Gold , 2 Medium Roll Speed Potions , and 3 Medium Luck Potions"
   },
   {
    "code": "RELEASE",
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-08-16T03:35:09.019Z",
+ "updated": "2026-08-17T08:13:28.113Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

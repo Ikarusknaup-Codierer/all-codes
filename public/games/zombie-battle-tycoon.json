@@ -15,18 +15,18 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "BUNKER",
+   "code": "carrier",
+   "reward": "50k Free Cash"
+  },
+  {
+   "code": "Pirate",
    "reward": "50k Cash"
   },
   {
-   "code": "Mission",
-   "reward": "50k Cash"
-  },
-  {
-   "code": "hardcore",
-   "reward": "50k Cash"
+   "code": "HIDDEN",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-08-16T19:02:37.677Z",
+ "updated": "2026-08-17T19:24:37.010Z",
  "source": "https://robloxden.com/game-codes/zombie-battle-tycoon"
 }

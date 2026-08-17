@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HAPPYBIRTHDAYRF",
-   "reward": "Rewards"
-  },
-  {
    "code": "SUMMERCUP2025",
    "reward": "Free Rewards"
   },
@@ -45,8 +41,12 @@
   {
    "code": "200MILLION",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "HAPPYBIRTHDAYRF",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-08-16T13:54:06.347Z",
+ "updated": "2026-08-17T19:23:26.111Z",
  "source": "https://robloxden.com/game-codes/real-futbol-24"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "BugFixes1124",
+   "reward": "Free Minutes"
+  },
+  {
    "code": "Xmas2025",
    "reward": "90 Minutes"
   },
   {
-   "code": "LateUpdate0317",
-   "reward": "20 Minutes"
+   "code": "Incident0317",
+   "reward": "45 Minutes"
   },
   {
-   "code": "LateUpdate0209",
-   "reward": "Freebies"
-  },
-  {
-   "code": "BoothCleanUp",
+   "code": "Clean15KLikes",
    "reward": "30 Minutes"
   },
   {
-   "code": "NewMapHype",
-   "reward": "25 Minutes"
+   "code": "FixedBlocklist1112",
+   "reward": "Freebies"
   }
  ],
- "updated": "2026-08-16T13:53:17.620Z",
+ "updated": "2026-08-17T19:22:54.721Z",
  "source": "https://robloxden.com/game-codes/booth-game"
 }

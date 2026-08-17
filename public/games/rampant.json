@@ -15,18 +15,18 @@
    "reward": "No Stated Reward"
   },
   {
-   "code": "JUSTRELEASED",
-   "reward": "No Stated Reward"
-  },
-  {
    "code": "rampantreborn",
    "reward": "Golden Crate"
   },
   {
    "code": "v1",
    "reward": "Free Gems (Works Only For Those Who Owned Gamepasses In Version One)"
+  },
+  {
+   "code": "goldencrate",
+   "reward": "Golden Crate"
   }
  ],
- "updated": "2026-08-16T19:02:18.812Z",
+ "updated": "2026-08-17T19:24:16.030Z",
  "source": "https://robloxden.com/game-codes/rampant"
 }

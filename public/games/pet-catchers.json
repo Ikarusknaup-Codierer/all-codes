@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Likes24",
-   "reward": "1 Golden Cherry , 1 Coin Elixir , and 1 Super Lucky Elixir"
-  },
-  {
    "code": "puffer5",
    "reward": "5 Mega Lucky Elixirs And 5 Magic Pendants"
   },
   {
-   "code": "season1",
-   "reward": "4 Hardcore Tomes, 5 Magic Pendants, 2k Festive Mystery Eggs, 15 Egg El"
+   "code": "lucky",
+   "reward": "3 Lucky Elixirs"
   },
   {
-   "code": "easter",
-   "reward": "3 Egg Elixirs And 2000 Mystery Eggs"
+   "code": "ilovefishing",
+   "reward": "3 Sea Elixirs And 1 Seafarer Rune"
   },
   {
-   "code": "puffer",
-   "reward": "5 Mega Lucky Elixirs And 5 Magic Pendants"
+   "code": "void",
+   "reward": "1 Void Cherry"
+  },
+  {
+   "code": "runes",
+   "reward": "1 Fatal Strike Rune , 1 Critical Hit Rune and 1 Seafarer Rune Cherry"
   }
  ],
- "updated": "2026-08-16T19:05:15.293Z",
+ "updated": "2026-08-17T19:27:10.347Z",
  "source": "https://robloxden.com/game-codes/pet-catchers"
 }

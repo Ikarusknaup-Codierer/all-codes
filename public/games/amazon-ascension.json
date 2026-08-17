@@ -7,7 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "FREEUGC",
+   "code": "SHUTDOWN",
    "reward": "Free Rewards"
   },
   {
@@ -15,10 +15,14 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "Ayoub",
+   "code": "Pirarucu",
+   "reward": "400 Silver Dollars"
+  },
+  {
+   "code": "DeltaMaxmus",
    "reward": "400 Silver Dollars"
   }
  ],
- "updated": "2026-08-16T13:49:48.586Z",
+ "updated": "2026-08-17T19:19:34.857Z",
  "source": "https://robloxden.com/game-codes/amazon-ascension"
 }

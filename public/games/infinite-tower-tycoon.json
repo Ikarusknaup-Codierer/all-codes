@@ -11,23 +11,11 @@
    "reward": "$20,000 Cash"
   },
   {
-   "code": "winter2025",
-   "reward": "Cash"
-  },
-  {
    "code": "shinycube",
    "reward": "Cash"
   },
   {
    "code": "nooby1850yt",
-   "reward": "Cash"
-  },
-  {
-   "code": "FLOOR60",
-   "reward": "Cash"
-  },
-  {
-   "code": "RANDOMCODE",
    "reward": "Cash"
   },
   {
@@ -167,6 +155,10 @@
    "reward": "Cash"
   },
   {
+   "code": "winter2025",
+   "reward": "Cash"
+  },
+  {
    "code": "spring2026",
    "reward": "Cash"
   },
@@ -181,8 +173,16 @@
   {
    "code": "SMALLCODE",
    "reward": "Cash"
+  },
+  {
+   "code": "FLOOR60",
+   "reward": "Cash"
+  },
+  {
+   "code": "RANDOMCODE",
+   "reward": "Cash"
   }
  ],
- "updated": "2026-08-16T13:51:06.057Z",
+ "updated": "2026-08-17T19:20:53.541Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

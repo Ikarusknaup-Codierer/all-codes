@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORRESTOCK",
+   "reward": "5x Luck (5 Hours)"
+  },
+  {
+   "code": "SORRYFORRESTOCK2",
+   "reward": "3x Stock Quantity (2 Hours)"
+  },
+  {
+   "code": "BUNGFROEXTRA",
+   "reward": "5x Money Boost (2 Hours)"
+  },
+  {
    "code": "BUNGFRO2LUCK",
    "reward": "5x Luck Boost (2 Hours)"
   },
@@ -55,6 +67,6 @@
    "reward": "a Luffy (Mufei) Character"
   }
  ],
- "updated": "2026-08-17T03:29:10.521Z",
+ "updated": "2026-08-18T08:05:55.836Z",
  "source": "https://robloxden.com/game-codes/roll-an-anime"
 }

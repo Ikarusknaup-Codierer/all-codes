@@ -51,6 +51,14 @@
    "reward": "3 Season Lucky Tickets"
   },
   {
+   "code": "IRONSOULWEEKEND18",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "SEASON2ENDING",
+   "reward": "2 Race Rerolls and 200 Origin Shards"
+  },
+  {
    "code": "EXPEDITIONFIX",
    "reward": "3,000 Coins , 5 Race Rerolls , and 1 Ice Dragon Egg"
   },
@@ -63,6 +71,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-08-17T03:25:33.196Z",
+ "updated": "2026-08-18T08:03:25.198Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

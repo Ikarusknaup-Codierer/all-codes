@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD2",
+   "reward": "2x Power Potion"
+  },
+  {
+   "code": "300KVISITS",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "1000PLAYERS",
+   "reward": "2x Wins Potions"
+  },
+  {
    "code": "WELCOME",
    "reward": "500 Wins"
   },
@@ -19,6 +31,6 @@
    "reward": "2x Power Potion"
   }
  ],
- "updated": "2026-08-17T03:26:18.243Z",
+ "updated": "2026-08-18T08:04:01.099Z",
  "source": "https://robloxden.com/game-codes/1-power-per-click"
 }

@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "CHANDELIERCULT",
+   "code": "BAGGAGES",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "JOHNLUCKY",
+   "reward": "125 Gems"
+  },
+  {
+   "code": "2MVISITS",
    "reward": "100 Gems"
   },
   {
-   "code": "STILLCHRISTMAS",
-   "reward": "75 Gems"
+   "code": "PAINTERSBAG2026",
+   "reward": "the Painters Travel Bag"
+  },
+  {
+   "code": "CHANDELIERCULT",
+   "reward": "100 Gems"
   }
  ],
- "updated": "2026-08-17T08:11:04.355Z",
+ "updated": "2026-08-18T08:08:05.983Z",
  "source": "https://robloxden.com/game-codes/mornia-borderline"
 }

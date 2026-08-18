@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "omg1000likes",
+   "reward": "1 Speed Potion , 1 Luck Potion , and 1 Win Potion"
+  },
+  {
+   "code": "likes100",
+   "reward": "1 Speed Potion and 1 Win Potion"
+  },
+  {
+   "code": "thanks500",
+   "reward": "1 Speed Potion and 1 Luck Potion"
+  },
+  {
    "code": "update2",
    "reward": "1 Speed Potion , 1 Luck Potion , and 1 Win Potion"
   },
@@ -27,6 +39,6 @@
    "reward": "1 Luck Potion, 1 Speed Potion and 1 Win Potion"
   }
  ],
- "updated": "2026-08-17T03:22:41.019Z",
+ "updated": "2026-08-18T08:01:06.080Z",
  "source": "https://robloxden.com/game-codes/speed-training"
 }

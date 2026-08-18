@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "NOR",
+   "reward": "2 Packs"
+  },
+  {
+   "code": "ENG",
+   "reward": "2 Packs"
+  },
+  {
+   "code": "ARG",
+   "reward": "2 Packs"
+  },
+  {
+   "code": "sui",
+   "reward": "2 Packs"
+  },
+  {
+   "code": "2klikes",
+   "reward": "5 Packs"
+  },
+  {
+   "code": "ADMIN",
+   "reward": "5 Packs"
+  },
+  {
    "code": "HAALAND",
    "reward": "Haaland (Base, Bronze, and Silver)"
   },
@@ -51,6 +75,6 @@
    "reward": "1 Pack"
   }
  ],
- "updated": "2026-08-17T08:09:42.753Z",
+ "updated": "2026-08-18T08:06:54.457Z",
  "source": "https://robloxden.com/game-codes/complete-the-sticker-album-2026-football-wc"
 }

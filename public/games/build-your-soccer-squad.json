@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE",
-   "reward": "5 Rerolls and 5 Refreshes"
-  },
-  {
-   "code": "HATTRICK",
-   "reward": "5 Rerolls and 5 Refreshes"
-  },
-  {
    "code": "500K",
    "reward": "25 Rerolls , 25 Refreshes , and 25,000 Coins"
   },
@@ -27,10 +19,18 @@
    "reward": "1 Golden Roll"
   },
   {
+   "code": "UPDATE",
+   "reward": "5 Rerolls and 5 Refreshes"
+  },
+  {
    "code": "RANKED",
    "reward": "1 Golden Roll and 5 Rerolls"
+  },
+  {
+   "code": "HATTRICK",
+   "reward": "5 Rerolls and 5 Refreshes"
   }
  ],
- "updated": "2026-08-17T03:26:23.306Z",
+ "updated": "2026-08-18T08:04:06.984Z",
  "source": "https://robloxden.com/game-codes/build-your-soccer-squad"
 }

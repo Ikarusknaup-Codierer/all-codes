@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "fivemil",
+   "reward": "5 Of Every Potion"
+  },
+  {
    "code": "summerevent",
    "reward": "5 Coin Potions"
   },
@@ -63,6 +67,6 @@
    "reward": "5 Spins"
   }
  ],
- "updated": "2026-08-17T08:11:00.024Z",
+ "updated": "2026-08-18T08:08:01.429Z",
  "source": "https://robloxden.com/game-codes/archer-training"
 }

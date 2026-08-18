@@ -8,11 +8,15 @@
   },
   {
    "code": "VIOLANSEMT",
-   "reward": "5K Cash"
+   "reward": "5,000 Cash"
   },
   {
    "code": "BLACKWAVE",
    "reward": "5K Cash"
+  },
+  {
+   "code": "800LIKES",
+   "reward": "10,000 Cash"
   },
   {
    "code": "200LIKES",
@@ -23,6 +27,6 @@
    "reward": "10K Cash"
   }
  ],
- "updated": "2026-08-17T03:23:18.290Z",
+ "updated": "2026-08-18T08:01:33.673Z",
  "source": "https://robloxden.com/game-codes/blackwave-project"
 }

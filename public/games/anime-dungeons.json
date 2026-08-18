@@ -7,8 +7,28 @@
    "reward": "Description"
   },
   {
+   "code": "800KVISITS",
+   "reward": "10 Trait Rerolls , 500 Gems , and 10 Stat Rerolls"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "10 Trait Rerolls , 500 Gems , and 10 Stat Rerolls"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "20 Trait Rerolls , 2,000 Gems , and 20 Stat Rerolls"
+  },
+  {
+   "code": "DELAY",
+   "reward": "30 Trait Rerolls , 2,500 Gems , and 20 Stat Rerolls"
+  },
+  {
    "code": "300KVISITS",
    "reward": "10 Trait Rerolls , 10 Stat Rerolls , and 500 Gems"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "10 Trait Rerolls , 500 Gems , and 10 Stat Rerolls"
   },
   {
    "code": "ALLAGES",
@@ -27,6 +47,6 @@
    "reward": "20 Trait Rerolls , 20 Stat Rerolls , and 1,000 Gems"
   }
  ],
- "updated": "2026-08-17T03:26:20.741Z",
+ "updated": "2026-08-18T08:04:03.793Z",
  "source": "https://robloxden.com/game-codes/anime-dungeons"
 }

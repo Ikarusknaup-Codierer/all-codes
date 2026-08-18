@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE11",
+   "reward": "250k Cash , 25 Trait Shard , 7 Mythic Fragment , and 1 God Fragment"
+  },
+  {
+   "code": "BLUE",
+   "reward": "200k Cash , 20 Trait Shard , 10 Legendary Fragment , and 5 Mythic Frag"
+  },
+  {
+   "code": "GOALKEEPER",
+   "reward": "150k Cash , 15 Trait Shard , and 7 Legendary Fragment . You must reach"
+  },
+  {
    "code": "UPDATE10",
    "reward": "250,000 Cash , 25 Trait Shards , and 7 Mythic Fragments"
   },
@@ -27,6 +39,6 @@
    "reward": "50,000 Cash , 10 Trait Shards , and 3 Legendary Fragments"
   }
  ],
- "updated": "2026-08-17T08:10:44.129Z",
+ "updated": "2026-08-18T08:07:54.955Z",
  "source": "https://robloxden.com/game-codes/defend-ur-base-with-anime"
 }

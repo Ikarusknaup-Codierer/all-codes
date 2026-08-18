@@ -27,6 +27,18 @@
    "reward": "a Logistics Warehouse"
   },
   {
+   "code": "CHIMERA",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "OUTPOSTS",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "FLAMEON",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "9PLUS10",
    "reward": "1 Premium Crate"
   },
@@ -39,6 +51,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-08-17T03:32:19.716Z",
+ "updated": "2026-08-18T08:06:12.319Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

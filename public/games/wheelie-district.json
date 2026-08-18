@@ -15,18 +15,18 @@
    "reward": "+20 Levels"
   },
   {
-   "code": "FLAWLESSTUNE",
-   "reward": "25K Cash and 5 Levels"
-  },
-  {
-   "code": "UPDATE1",
-   "reward": "10 Levels and Cash Boost"
-  },
-  {
    "code": "UPDATE3",
    "reward": "the completion of Quest 3"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "15 Levels"
+  },
+  {
+   "code": "PATCH1",
+   "reward": "$5,000 and 5 Levels"
   }
  ],
- "updated": "2026-08-17T08:10:16.401Z",
+ "updated": "2026-08-18T08:07:34.470Z",
  "source": "https://robloxden.com/game-codes/wheelie-district"
 }

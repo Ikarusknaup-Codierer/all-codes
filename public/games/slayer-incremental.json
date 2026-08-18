@@ -7,12 +7,28 @@
    "reward": "Description"
   },
   {
+   "code": "Fishing",
+   "reward": "3 of All Potions"
+  },
+  {
+   "code": "NewWorldSoon",
+   "reward": "25 Tickets"
+  },
+  {
    "code": "SmallUpdate",
    "reward": "25 Tickets"
   },
   {
    "code": "NewEvo",
    "reward": "5 of All Potions"
+  },
+  {
+   "code": "Antimatter",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "SoonEvo",
+   "reward": "3 of all Potions"
   },
   {
    "code": "TheCaves",
@@ -31,18 +47,10 @@
    "reward": "3 Rune Luck Potions , 3 Rune Speed Potions , and 3 Damage Potions"
   },
   {
-   "code": "Antimatter",
-   "reward": "25 Tickets"
-  },
-  {
-   "code": "SoonEvo",
-   "reward": "3 of all Potions"
-  },
-  {
    "code": "10KLikes",
    "reward": "1 Hellfire"
   }
  ],
- "updated": "2026-08-17T03:22:35.415Z",
+ "updated": "2026-08-18T08:01:00.686Z",
  "source": "https://robloxden.com/game-codes/slayer-incremental"
 }

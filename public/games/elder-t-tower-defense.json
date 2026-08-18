@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "OctopusUpdate",
+   "reward": "300 Coins"
+  },
+  {
    "code": "TechUpdate",
    "reward": "300 Coins"
   },
@@ -35,6 +39,6 @@
    "reward": "300 Coins"
   }
  ],
- "updated": "2026-08-17T03:25:00.100Z",
+ "updated": "2026-08-18T08:02:49.015Z",
  "source": "https://robloxden.com/game-codes/elder-t-tower-defense"
 }

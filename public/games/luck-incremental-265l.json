@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "3MVISITS",
+   "reward": "2x Rune Luck (1 Hour)"
+  },
+  {
+   "code": "300KMEMBERS",
+   "reward": "2x Trait Luck (1 Hour)"
+  },
+  {
    "code": "150KMEMBERS",
    "reward": "30 Minutes of 2x Rune Luck"
   },
@@ -27,6 +35,6 @@
    "reward": "1K Prestige"
   }
  ],
- "updated": "2026-08-17T03:22:52.852Z",
+ "updated": "2026-08-18T08:01:11.481Z",
  "source": "https://robloxden.com/game-codes/luck-incremental-265l"
 }

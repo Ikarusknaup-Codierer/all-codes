@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "!FIXEDABUG!",
+   "reward": "200 F2P Tickets and 1 Of Each Tier I Potion"
+  },
+  {
+   "code": "UPDATE8",
+   "reward": "200 F2P Tickets and 1 Of Each Tier II Potion"
+  },
+  {
    "code": "GATESNOTCLOSINGANYMORE",
    "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -203,6 +211,6 @@
    "reward": "Tickets , Potions , or Boosts"
   }
  ],
- "updated": "2026-08-17T03:25:32.176Z",
+ "updated": "2026-08-18T08:03:24.116Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

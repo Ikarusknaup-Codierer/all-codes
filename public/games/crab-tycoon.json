@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CRABCAKES",
+   "reward": "55 Cash"
+  },
+  {
+   "code": "SHELLO",
+   "reward": "55 Cash"
+  },
+  {
    "code": "SHELLMATE",
    "reward": "$50 Cash"
   },
@@ -67,6 +75,34 @@
    "reward": "$50 Cash"
   },
   {
+   "code": "CONCRABULATIONS",
+   "reward": "3,450 Cash"
+  },
+  {
+   "code": "PINCHPERFECT",
+   "reward": "12,720 Cash"
+  },
+  {
+   "code": "SHELLABALOO",
+   "reward": "31,210 Cash"
+  },
+  {
+   "code": "DUNEDIGGER",
+   "reward": "23,210 Cash"
+  },
+  {
+   "code": "TIDEPOOL",
+   "reward": "24,550 Cash"
+  },
+  {
+   "code": "RIPTIDE",
+   "reward": "6,430 Cash"
+  },
+  {
+   "code": "BIGDILL",
+   "reward": "124,150 Cash"
+  },
+  {
    "code": "SHELLFIE",
    "reward": "$50 Cash"
   },
@@ -91,6 +127,6 @@
    "reward": "$50 Cash"
   }
  ],
- "updated": "2026-08-17T03:24:22.991Z",
+ "updated": "2026-08-18T08:02:18.776Z",
  "source": "https://robloxden.com/game-codes/crab-tycoon"
 }

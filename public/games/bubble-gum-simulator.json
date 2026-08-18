@@ -11,10 +11,6 @@
    "reward": "2x Hatch Speed"
   },
   {
-   "code": "ChristmasHype",
-   "reward": "2x Luck"
-  },
-  {
    "code": "NEWWORLD",
    "reward": "2x Luck"
   },
@@ -995,6 +991,10 @@
    "reward": "2x Luck"
   },
   {
+   "code": "ChristmasHype",
+   "reward": "2x Luck"
+  },
+  {
    "code": "FrostEgg",
    "reward": "Frost Egg"
   },
@@ -1043,6 +1043,6 @@
    "reward": "2 Hours of 2x Hatch Speed"
   }
  ],
- "updated": "2026-08-17T03:21:16.422Z",
+ "updated": "2026-08-18T08:00:18.708Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

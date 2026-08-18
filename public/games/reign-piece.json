@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RESTRICTED",
+   "reward": "Free Rewards . You must be at least Level 6,000 to use this code"
+  },
+  {
    "code": "SHADOWSARISE",
    "reward": "Freebies . You must be at least Level 6,000 to use this code"
   },
@@ -33,10 +37,6 @@
   {
    "code": "IAMTHESTORM",
    "reward": "Freebies . To use this code, you must at least reach Level 6,000"
-  },
-  {
-   "code": "BLAMEMARKUSFORDROPRATES",
-   "reward": "Rewards . You must be at least level 1,500 to claim this code"
   },
   {
    "code": "SLCSOHUMBLE",
@@ -205,8 +205,12 @@
   {
    "code": "KINGSLC",
    "reward": "1 Mythical Chest and 10 Race Tokens"
+  },
+  {
+   "code": "BLAMEMARKUSFORDROPRATES",
+   "reward": "Rewards . You must be at least level 1,500 to claim this code"
   }
  ],
- "updated": "2026-08-17T08:14:54.431Z",
+ "updated": "2026-08-18T14:10:14.876Z",
  "source": "https://robloxden.com/game-codes/reign-piece"
 }

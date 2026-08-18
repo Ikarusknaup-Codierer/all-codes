@@ -11,10 +11,6 @@
    "reward": "3525 Coins"
   },
   {
-   "code": "20000likes",
-   "reward": "$2,000"
-  },
-  {
    "code": "2mcorrupteds",
    "reward": "Freebies"
   },
@@ -23,10 +19,14 @@
    "reward": "Reward"
   },
   {
-   "code": "firegame",
-   "reward": "Unknown Reward"
+   "code": "20000likes",
+   "reward": "$2,000"
+  },
+  {
+   "code": "tyfor10k",
+   "reward": "$1,500"
   }
  ],
- "updated": "2026-08-17T14:01:27.283Z",
+ "updated": "2026-08-18T14:16:22.571Z",
  "source": "https://robloxden.com/game-codes/corrupted-crossroads"
 }

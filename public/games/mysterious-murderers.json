@@ -35,10 +35,6 @@
    "reward": "the Rainbow Beach Knife"
   },
   {
-   "code": "WAVES",
-   "reward": "the Waves Weapon"
-  },
-  {
    "code": "FUTURE",
    "reward": "the Future Laser"
   },
@@ -53,8 +49,12 @@
   {
    "code": "GUN",
    "reward": "the Rainbow Pistol"
+  },
+  {
+   "code": "WAVES",
+   "reward": "the Waves Weapon"
   }
  ],
- "updated": "2026-08-17T13:58:37.111Z",
+ "updated": "2026-08-18T14:13:58.488Z",
  "source": "https://robloxden.com/game-codes/mysterious-murderers"
 }

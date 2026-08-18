@@ -11,18 +11,18 @@
    "reward": "100 Cash"
   },
   {
-   "code": "LAUNCHDAY",
-   "reward": "2,000 Cash"
-  },
-  {
    "code": "FIRSTSHIFT",
    "reward": "1 Employee"
   },
   {
    "code": "PALLETMASTER",
    "reward": "1 Production Speed Boost"
+  },
+  {
+   "code": "WAREHOUSEPRO",
+   "reward": "1 Unique Warehouse Decoration"
   }
  ],
- "updated": "2026-08-17T08:16:24.944Z",
+ "updated": "2026-08-18T14:11:32.114Z",
  "source": "https://robloxden.com/game-codes/warehouse-manager-tycoon"
 }

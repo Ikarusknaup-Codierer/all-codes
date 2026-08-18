@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "PROMISEDCODE",
+   "reward": "20 Statue Crowns , 20 Soul Manipulator Hands and 3 Million Gold"
+  },
+  {
+   "code": "GAMEMODEUPDATEDELAY",
+   "reward": "100 Gear Lucky Spins , 100 Weapon Lucky Spins , 150k Gold , and 100 Ru"
+  },
+  {
+   "code": "TRAITFEATURE",
+   "reward": "100 Runes"
+  },
+  {
+   "code": "XPREWARDS",
+   "reward": "100 Gear Lucky Spins and 50K Cash"
+  },
+  {
    "code": "HOLLOWPURPLEGEAR",
    "reward": "50 Gear Lucky Spins"
   },
@@ -111,6 +127,6 @@
    "reward": "50 Runes"
   }
  ],
- "updated": "2026-08-17T08:17:01.758Z",
+ "updated": "2026-08-18T14:12:06.004Z",
  "source": "https://robloxden.com/game-codes/anime-final-quest"
 }

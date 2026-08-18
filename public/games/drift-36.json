@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "NEWYEAR",
-   "reward": "15,000 Cash"
+   "code": "825KMEMBER",
+   "reward": "$40,000"
   },
   {
-   "code": "600KVISIT",
+   "code": "100KLIKES",
+   "reward": "$30,000"
+  },
+  {
+   "code": "300ACTIVE",
+   "reward": ""
+  },
+  {
+   "code": "FASTANDRIDERS",
+   "reward": "$20,000"
+  },
+  {
+   "code": "300KVISIT",
    "reward": "30,000 Cash"
-  },
-  {
-   "code": "NEWCARS",
-   "reward": "20,000 Cash"
-  },
-  {
-   "code": "THANKSFOR15K",
-   "reward": "20,000 Cash"
   }
  ],
- "updated": "2026-08-17T08:17:08.362Z",
+ "updated": "2026-08-18T14:12:11.962Z",
  "source": "https://robloxden.com/game-codes/drift-36"
 }

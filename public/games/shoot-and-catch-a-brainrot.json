@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "simplifiedcontrols",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "vnmkandfv",
-   "reward": "Unknown Reward"
-  },
-  {
    "code": "backpack",
+   "reward": "Freebies"
+  },
+  {
+   "code": "spaceship",
    "reward": "Freebies"
   },
   {
@@ -25,8 +21,12 @@
   {
    "code": "asdfxc",
    "reward": "1 Attack Speed Potion"
+  },
+  {
+   "code": "sahurking",
+   "reward": "1 Attack Speed Potion"
   }
  ],
- "updated": "2026-08-17T14:00:26.818Z",
+ "updated": "2026-08-18T14:15:20.341Z",
  "source": "https://robloxden.com/game-codes/shoot-and-catch-a-brainrot"
 }

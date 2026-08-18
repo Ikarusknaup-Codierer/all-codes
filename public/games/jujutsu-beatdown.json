@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BuildingComedian",
-   "reward": "200 Gems"
-  },
-  {
    "code": "RoadmapStart",
    "reward": "250 Gems"
   },
   {
-   "code": "BadFatherBase",
+   "code": "SorryForDelay",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "sorryforshutdown",
    "reward": "100 Gems"
   },
   {
-   "code": "RagaSummon",
-   "reward": "Free Rewards"
+   "code": "THANKS4SUPPORT",
+   "reward": "200 Gems"
   },
   {
-   "code": "sorry4Fps",
-   "reward": "50 Gems"
+   "code": "ShinjukuStrongest",
+   "reward": "200 Gems"
   }
  ],
- "updated": "2026-08-17T14:00:13.665Z",
+ "updated": "2026-08-18T14:15:07.816Z",
  "source": "https://robloxden.com/game-codes/jujutsu-beatdown"
 }

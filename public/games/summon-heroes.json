@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "RIA2026",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "GEAROUTNOW",
+   "reward": "250 Gems and 5 Rare Fusion Crystals"
+  },
+  {
    "code": "SORRY4DELAY",
    "reward": "20 Trait Rerolls"
   },
@@ -79,6 +87,6 @@
    "reward": "10 Trait Rerolls"
   }
  ],
- "updated": "2026-08-17T08:15:12.443Z",
+ "updated": "2026-08-18T14:10:30.727Z",
  "source": "https://robloxden.com/game-codes/summon-heroes"
 }

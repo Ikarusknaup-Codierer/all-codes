@@ -15,18 +15,18 @@
    "reward": "1 Gold Boost and 1 Lucky Boost"
   },
   {
+   "code": "Christmas",
+   "reward": "a prismatic-style reward"
+  },
+  {
    "code": "3000GIFT",
    "reward": ""
   },
   {
-   "code": "Biomes",
-   "reward": "a coin-boosting potion"
-  },
-  {
-   "code": "60KLikes",
-   "reward": "a luck-boosting potion"
+   "code": "5000LIKES",
+   "reward": "a Mystery Reward"
   }
  ],
- "updated": "2026-08-17T08:14:56.586Z",
+ "updated": "2026-08-18T14:10:16.798Z",
  "source": "https://robloxden.com/game-codes/brainrot-riders-titan-smash"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "AutoBattle",
-   "reward": "20,000 Beli , 4 Haki Scrolls , 5 Devil Fruit Rolls , 5 Fighting Style "
-  },
-  {
-   "code": "SAVEDBUILDS",
-   "reward": "20,000 Beli , 3 Haki Scrolls , 4 Devil Fruit Rolls , 4 Fighting Style "
-  },
-  {
    "code": "UPGRADER",
    "reward": "20,000 Beli , 4 Haki Scrolls , 5 Devil Fruit Rolls , 5 Fighting Style "
   },
   {
-   "code": "LASTISLANDPART4",
-   "reward": "20,000 Beli , 4 Haki Scrolls , 5 Devil Fruit Rolls , 5 Fighting Style "
+   "code": "LASTISLANDPART3",
+   "reward": "20,000 Beli , 3 Haki Scrolls , 4 Devil Fruit Rolls , 4 Fighting Style "
+  },
+  {
+   "code": "LASTISLANDPART2",
+   "reward": "20,000 Beli , 3 Haki Scrolls , 4 Devil Fruit Rolls , 4 Fighting Style "
   },
   {
    "code": "LASTISLANDPART1",
    "reward": "20,000 Beli , 3 Haki Scrolls , 4 Devil Fruit Rolls , 4 Fighting Style "
+  },
+  {
+   "code": "NEWUPDATE",
+   "reward": "20,000 Beli , 3 Haki Scrolls , 3 Devil Fruit Rolls , 3 Fighting Style "
   }
  ],
- "updated": "2026-08-17T08:15:13.003Z",
+ "updated": "2026-08-18T14:10:31.202Z",
  "source": "https://robloxden.com/game-codes/fruit-piece-incremental"
 }

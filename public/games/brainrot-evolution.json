@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CHEDDAR",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "PYRO",
    "reward": "2 EXP Potions"
   },
@@ -351,6 +355,6 @@
    "reward": "4 Yoni Crates"
   }
  ],
- "updated": "2026-08-17T08:14:49.931Z",
+ "updated": "2026-08-18T14:10:11.588Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

@@ -29,8 +29,16 @@
   {
    "code": "SENTRY",
    "reward": "750 Seeds"
+  },
+  {
+   "code": "CLASSICMODE",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "PITY",
+   "reward": "750 Seeds"
   }
  ],
- "updated": "2026-08-17T14:01:30.884Z",
+ "updated": "2026-08-18T14:16:25.377Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

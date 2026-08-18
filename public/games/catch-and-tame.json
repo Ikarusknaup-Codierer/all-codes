@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SUBMARINES",
+   "reward": "10 Kelp"
+  },
+  {
    "code": "FARMING",
    "reward": "10 Fruit Basket"
   },
@@ -15,12 +19,12 @@
    "reward": "10 Popcorn"
   },
   {
-   "code": "LABORATORY",
-   "reward": "10 Mushrooms"
-  },
-  {
    "code": "SUNKEN",
    "reward": "10 Forgotten Clams"
+  },
+  {
+   "code": "LABORATORY",
+   "reward": "10 Mushrooms"
   },
   {
    "code": "SUMMEREVENT",
@@ -35,6 +39,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-08-17T08:14:35.108Z",
+ "updated": "2026-08-18T14:09:57.103Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

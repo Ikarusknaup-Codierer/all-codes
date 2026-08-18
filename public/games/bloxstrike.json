@@ -27,6 +27,10 @@
    "reward": "50 Credits"
   },
   {
+   "code": "LORE",
+   "reward": "250 Credits"
+  },
+  {
    "code": "REACTOR",
    "reward": "250 Credits"
   },
@@ -35,6 +39,6 @@
    "reward": "250 Credits"
   }
  ],
- "updated": "2026-08-17T08:16:34.786Z",
+ "updated": "2026-08-18T14:11:40.687Z",
  "source": "https://robloxden.com/game-codes/bloxstrike"
 }

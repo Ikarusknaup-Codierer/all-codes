@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LUCKYLUCKYLUCKY",
-   "reward": "25x Lucky Fighting Style Rerolls , 25x Lucky Race Rerolls , and a Luck"
-  },
-  {
    "code": "EMPEROR",
    "reward": "500,000,000 Zeni , 10x Fighting Style Rerolls , and 10x Race Rerolls"
   },
@@ -49,8 +45,12 @@
   {
    "code": "aprilfools",
    "reward": "1x Common Chest"
+  },
+  {
+   "code": "LUCKYLUCKYLUCKY",
+   "reward": "25x Lucky Fighting Style Rerolls , 25x Lucky Race Rerolls , and a Luck"
   }
  ],
- "updated": "2026-08-17T08:13:02.746Z",
+ "updated": "2026-08-18T14:08:37.866Z",
  "source": "https://robloxden.com/game-codes/dragon-ball-incremental"
 }

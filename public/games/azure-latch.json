@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LATE60KCCUCODE",
+   "reward": "a Random MVP"
+  },
+  {
+   "code": "AIKUANDGOALKEEPERCHANGES",
+   "reward": "10,000 Style Coins and 10,000 Cash"
+  },
+  {
    "code": "BAROUTSPECIAL",
    "reward": "15,000 Style Currency and 15,000 Cash"
   },
@@ -25,6 +33,10 @@
   {
    "code": "QUIET",
    "reward": "X Emote"
+  },
+  {
+   "code": "SORRYFORSHUTDOWN",
+   "reward": "a Random MVP"
   },
   {
    "code": "WOWTHISSUCKSIMSORRY",
@@ -87,6 +99,6 @@
    "reward": "15,000 Style Coins and 15,000 Cash"
   }
  ],
- "updated": "2026-08-17T08:17:11.637Z",
+ "updated": "2026-08-18T14:12:15.194Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

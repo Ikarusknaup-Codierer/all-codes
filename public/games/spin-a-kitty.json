@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AUG1ST",
+   "reward": "50 Gems and 5 Bronze Dice"
+  },
+  {
    "code": "EARLYSTART",
    "reward": "15 Auric Dice , 5 Radiant Dice , 3 Celestial Dice , $250,000 Cash , an"
   },
@@ -15,20 +19,12 @@
    "reward": "1 Mirage Dice , 10 Mystical Dice , and 500,000 Cash"
   },
   {
-   "code": "REALOPCODE",
-   "reward": "5 Martian Dice , 25 Sakura Dice , 35 Amber Dice , and $650,000 Cash"
-  },
-  {
    "code": "superduperopcode",
    "reward": "100 Cash and 10 Basic Dice"
   },
   {
    "code": "4KTHANKYOU",
    "reward": "500,000 Cash , 150 Gems , 3 Martian Dice , 15 Lunar Dice , and 25 Blac"
-  },
-  {
-   "code": "3700CCU",
-   "reward": "$50,000, 125 Gems, and 10 Lunar Dice"
   },
   {
    "code": "3kMembers",
@@ -83,14 +79,22 @@
    "reward": "10 Spectral Dice , 5 Nebular Dice , 3 Paradox Dice , and 25 Gems"
   },
   {
+   "code": "REALOPCODE",
+   "reward": "5 Martian Dice , 25 Sakura Dice , 35 Amber Dice , and $650,000 Cash"
+  },
+  {
    "code": "april",
    "reward": "500 Gems and 100 Amber Dice"
   },
   {
    "code": "5KTHANKS",
    "reward": "5 OP Dice , 100 Other Dice , and 2,500,000 Cash"
+  },
+  {
+   "code": "3700CCU",
+   "reward": "$50,000, 125 Gems, and 10 Lunar Dice"
   }
  ],
- "updated": "2026-08-17T08:13:40.979Z",
+ "updated": "2026-08-18T14:09:08.260Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

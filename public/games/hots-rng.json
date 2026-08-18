@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LOADING",
+   "reward": "50 Eternal Potion II , 5 Eternal Potion III , and 5 Soul's Fate"
+  },
+  {
    "code": "17MVisits",
    "reward": "100 Eternal Potion II , 10 Eternal Potion III , and 5 Soul's Fate"
   },
@@ -147,6 +151,6 @@
    "reward": "Eternal Potions"
   }
  ],
- "updated": "2026-08-17T08:17:02.935Z",
+ "updated": "2026-08-18T14:12:06.929Z",
  "source": "https://robloxden.com/game-codes/hots-rng"
 }

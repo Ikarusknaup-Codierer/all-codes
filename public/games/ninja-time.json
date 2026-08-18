@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "MovesetUIRework!",
+   "reward": "15 Spins of all types"
+  },
+  {
+   "code": "NewChakraJump!",
+   "reward": "15 Spins of all types"
+  },
+  {
+   "code": "ThanksFor3KInterested!",
+   "reward": "50 Spins of all types"
+  },
+  {
    "code": "CustomChakraColors!",
    "reward": "15 Spins of all types"
   },
@@ -43,6 +55,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-08-17T13:58:25.154Z",
+ "updated": "2026-08-18T14:13:47.169Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

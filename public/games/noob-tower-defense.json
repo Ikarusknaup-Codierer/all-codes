@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "IMPOSSIBLE",
+   "reward": "450 Gems and 750 Coins"
+  },
+  {
    "code": "TradePlaza",
    "reward": "450 Coins and 150 Gems"
   },
@@ -15,6 +19,6 @@
    "reward": "300 Gems"
   }
  ],
- "updated": "2026-08-17T08:11:28.982Z",
+ "updated": "2026-08-18T14:07:52.775Z",
  "source": "https://robloxden.com/game-codes/noob-tower-defense"
 }

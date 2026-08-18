@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "happysun",
+   "reward": "2X Energy (30 Minutes)"
+  },
+  {
    "code": "sunshine",
    "reward": "2x Energy (30 Minutes)"
   },
@@ -75,6 +79,6 @@
    "reward": "a 10 Minute 2x Workout Boost"
   }
  ],
- "updated": "2026-08-16T19:12:18.241Z",
+ "updated": "2026-08-18T03:18:25.199Z",
  "source": "https://robloxden.com/game-codes/strongman-simulator"
 }

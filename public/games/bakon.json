@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "EventS00n",
-   "reward": "Bacoins"
-  },
-  {
-   "code": "60MGift",
+   "code": "100MSurprise",
    "reward": "Bacoins"
   },
   {
@@ -19,14 +15,18 @@
    "reward": "4,000 Coins"
   },
   {
-   "code": "ThanksKev",
-   "reward": "the Kev Knife"
+   "code": "Chapter11Thanks",
+   "reward": "the Chromatic Knife"
   },
   {
-   "code": "DelayApologies",
-   "reward": "500 Coins"
+   "code": "Cleetus",
+   "reward": "the Flamingo Knife"
+  },
+  {
+   "code": "Winter2020",
+   "reward": "the Sweet Winter 2020 Knife"
   }
  ],
- "updated": "2026-08-16T19:10:01.983Z",
+ "updated": "2026-08-18T03:17:24.521Z",
  "source": "https://robloxden.com/game-codes/bakon"
 }

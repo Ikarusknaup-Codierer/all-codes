@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "mcsloth",
-   "reward": "$5,000"
+   "code": "UPDATE",
+   "reward": "6,000 Cash"
+  },
+  {
+   "code": "500mil",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "Ruffles",
+   "reward": "5,000 Cash"
   },
   {
    "code": "HONOR24",
    "reward": "Police Week Uniform"
   },
   {
-   "code": "AmazePlays",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "PW23-PATROL",
-   "reward": "1 License Plate and Badge"
-  },
-  {
-   "code": "PW23-SACRIFICE",
-   "reward": "a 24 Hour LEO XP Boost and Badge"
+   "code": "ONPATROL",
+   "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-08-17T03:18:06.233Z",
+ "updated": "2026-08-18T03:19:06.978Z",
  "source": "https://robloxden.com/game-codes/emergency-response-liberty-county"
 }

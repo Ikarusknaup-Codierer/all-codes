@@ -11,22 +11,22 @@
    "reward": "Nep Achievement And \"Woven Insight\" Emote"
   },
   {
-   "code": "VDAY",
-   "reward": "Valentine's Day Reward"
+   "code": "67",
+   "reward": "67 Emote"
+  },
+  {
+   "code": "SHUTDOWN",
+   "reward": "Shutdown Reward"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "500K Visits Reward"
   },
   {
    "code": "3KLIKES",
    "reward": "3K Likes Reward"
-  },
-  {
-   "code": "MERRY_CHRISTMAS",
-   "reward": "Reward"
-  },
-  {
-   "code": "JJS1YEAR",
-   "reward": "50 Cash"
   }
  ],
- "updated": "2026-08-17T03:21:28.343Z",
+ "updated": "2026-08-18T03:21:58.763Z",
  "source": "https://robloxden.com/game-codes/jujutsu-shenanigans"
 }

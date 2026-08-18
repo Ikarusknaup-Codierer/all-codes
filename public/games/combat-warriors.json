@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CHAOS_AND_RAGE",
-   "reward": "2,500 Credits , a Skin Key , and an Enchant Key"
-  },
-  {
    "code": "OK_LATE_AGAIN",
    "reward": "3,000 Credits and 400 Aether"
   },
@@ -19,14 +15,18 @@
    "reward": "67 Credits"
   },
   {
-   "code": "1k_followers",
+   "code": "EVIL_ELF_2",
+   "reward": "1,000 Credits and 500 Aether"
+  },
+  {
+   "code": "management",
    "reward": "Free Rewards"
   },
   {
-   "code": "700k_likes",
-   "reward": "300 Credits and 100 Aether"
+   "code": "joineddiscord",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-17T03:18:58.082Z",
+ "updated": "2026-08-18T03:19:43.654Z",
  "source": "https://robloxden.com/game-codes/combat-warriors"
 }

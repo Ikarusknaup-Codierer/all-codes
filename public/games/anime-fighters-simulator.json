@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "OPCODE1",
+   "reward": "5 Mega Boosts , 100 Wistoria Shards , 150 Passive Tokens , 200 Requiem"
+  },
+  {
    "code": "WISTORIA",
    "reward": "50 Wand Shards"
   },
@@ -295,6 +299,6 @@
    "reward": "5 Easter Time Boosts (30 minutes) , 5 Easter Passive Luck Boosts (30 m"
   }
  ],
- "updated": "2026-08-17T03:19:30.332Z",
+ "updated": "2026-08-18T03:20:17.960Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

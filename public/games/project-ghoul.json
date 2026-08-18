@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "Nutcracker!",
-   "reward": "20 Spins , Materials , Yen , and Boosts"
+   "code": "CombatRework",
+   "reward": "50 Spins and 15 Minutes EXP Boost"
+  },
+  {
+   "code": "BigUPDATEComing",
+   "reward": "100 Spins and 15 Minutes DROP Boost"
+  },
+  {
+   "code": "PG_GroupMember",
+   "reward": "rewards"
   },
   {
    "code": "XMAS2025",
@@ -19,6 +27,6 @@
    "reward": "60 Spins, 1,000 Materials, 4,000 RC, 300,000 Yen, And 60 Minutes Of Bo"
   }
  ],
- "updated": "2026-08-17T03:19:59.053Z",
+ "updated": "2026-08-18T03:20:39.264Z",
  "source": "https://robloxden.com/game-codes/project-ghoul"
 }

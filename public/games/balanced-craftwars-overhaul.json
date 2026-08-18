@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "GrinchGift",
-   "reward": "Pipebomb"
+   "code": "Nice",
+   "reward": "Title: Nice List"
+  },
+  {
+   "code": "SnowmanGift",
+   "reward": "Snowman Decoy"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "Winter Fairy Staff"
   },
   {
    "code": "Honk",
    "reward": "Annoying Goose"
   },
   {
-   "code": "M1N1NG",
-   "reward": "1 Darksteel Pickaxe"
-  },
-  {
-   "code": "Fumo",
-   "reward": "1 Fumo"
-  },
-  {
    "code": "SL1M3",
    "reward": "1 Slime Staff"
   }
  ],
- "updated": "2026-08-17T03:20:06.717Z",
+ "updated": "2026-08-18T03:20:48.104Z",
  "source": "https://robloxden.com/game-codes/balanced-craftwars-overhaul"
 }

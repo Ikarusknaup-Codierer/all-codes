@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "PHROG",
-   "reward": "$1,500"
+   "code": "SPOOKYHALLOWEEN",
+   "reward": "$2,000"
   },
   {
-   "code": "2020BADGES",
+   "code": "DREADJUSTUPDATED",
+   "reward": "$2,500"
+  },
+  {
+   "code": "BUFF",
+   "reward": "$2,500"
+  },
+  {
+   "code": "DISCONNECT",
    "reward": "Unknown Reward"
   },
   {
    "code": "MOLOTOV",
    "reward": "Unknown Reward"
-  },
-  {
-   "code": "PRIVATESERVER",
-   "reward": "1,500 Cash"
-  },
-  {
-   "code": "NOMORECHRISTMAS",
-   "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-08-16T19:07:53.628Z",
+ "updated": "2026-08-18T03:15:25.779Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

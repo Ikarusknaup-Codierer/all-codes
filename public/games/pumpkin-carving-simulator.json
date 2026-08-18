@@ -11,15 +11,11 @@
    "reward": "100 Candy"
   },
   {
-   "code": "Twitter",
-   "reward": "Reward"
+   "code": "Skeleton",
+   "reward": "100 Candy"
   },
   {
-   "code": "Discord",
-   "reward": "Reward"
-  },
-  {
-   "code": "Candycorn",
+   "code": "TrickOrTreat",
    "reward": "100 Candy"
   },
   {
@@ -27,6 +23,6 @@
    "reward": "100 Candy"
   }
  ],
- "updated": "2026-08-17T03:20:30.553Z",
+ "updated": "2026-08-18T03:21:12.638Z",
  "source": "https://robloxden.com/game-codes/pumpkin-carving-simulator"
 }

@@ -11,10 +11,6 @@
    "reward": "350 Cash"
   },
   {
-   "code": "Gang",
-   "reward": "500 Cash"
-  },
-  {
    "code": "Cloth",
    "reward": "350 Cash"
   },
@@ -23,8 +19,8 @@
    "reward": "350 Cash"
   },
   {
-   "code": "SorryDelivery",
-   "reward": "a Delivery Bus"
+   "code": "Gang",
+   "reward": "500 Cash"
   },
   {
    "code": "SorryDelivery2",
@@ -51,6 +47,6 @@
    "reward": "$350"
   }
  ],
- "updated": "2026-08-16T19:08:14.741Z",
+ "updated": "2026-08-18T03:15:47.142Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

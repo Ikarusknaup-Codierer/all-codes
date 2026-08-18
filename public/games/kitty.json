@@ -15,18 +15,18 @@
    "reward": "100 BowTies"
   },
   {
-   "code": "FREECHEESE",
+   "code": "F2TM",
+   "reward": "1,000 Cheese"
+  },
+  {
+   "code": "Raconidas",
+   "reward": "35,000 Cheese"
+  },
+  {
+   "code": "Noodles",
    "reward": "Cheese"
-  },
-  {
-   "code": "NewEnding",
-   "reward": "10,000,000 Cheese"
-  },
-  {
-   "code": "NewMinigame",
-   "reward": "5,000,000 Cheese"
   }
  ],
- "updated": "2026-08-17T03:19:36.204Z",
+ "updated": "2026-08-18T03:20:22.925Z",
  "source": "https://robloxden.com/game-codes/kitty"
 }

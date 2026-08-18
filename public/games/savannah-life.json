@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SCAVENGER",
+   "reward": "350 Coins"
+  },
+  {
    "code": "SPIKY",
    "reward": "400 Coins"
   },
@@ -23,6 +27,6 @@
    "reward": "350 Coins"
   }
  ],
- "updated": "2026-08-17T14:05:36.383Z",
+ "updated": "2026-08-18T19:23:35.956Z",
  "source": "https://robloxden.com/game-codes/savannah-life"
 }

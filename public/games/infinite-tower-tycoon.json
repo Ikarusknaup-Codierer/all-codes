@@ -19,10 +19,6 @@
    "reward": "Cash"
   },
   {
-   "code": "HIDDENCODE",
-   "reward": "Cash"
-  },
-  {
    "code": "CODEPOWER",
    "reward": "Cash"
   },
@@ -181,8 +177,12 @@
   {
    "code": "RANDOMCODE",
    "reward": "Cash"
+  },
+  {
+   "code": "HIDDENCODE",
+   "reward": "Cash"
   }
  ],
- "updated": "2026-08-17T19:20:53.541Z",
+ "updated": "2026-08-18T19:26:59.473Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

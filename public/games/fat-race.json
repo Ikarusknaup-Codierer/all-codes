@@ -15,14 +15,18 @@
    "reward": "Hatch Only Toxic Food Potion"
   },
   {
-   "code": "2M",
-   "reward": "2x Luck Potion"
+   "code": "RELEASE",
+   "reward": "15-Minute 2x Wins Potion"
   },
   {
-   "code": "CYB3RPUNK",
-   "reward": "2x Wins Potion"
+   "code": "LuckyDay",
+   "reward": "15-Minute 2x Luck Potion"
+  },
+  {
+   "code": "Spoiled",
+   "reward": "Hatch Only Toxic Food Potions"
   }
  ],
- "updated": "2026-08-17T14:04:27.275Z",
+ "updated": "2026-08-18T19:22:35.171Z",
  "source": "https://robloxden.com/game-codes/fat-race"
 }

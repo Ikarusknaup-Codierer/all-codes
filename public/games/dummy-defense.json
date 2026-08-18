@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "QualityCode",
+   "reward": "400 Bricks"
+  },
+  {
    "code": "TY25kLikes",
    "reward": "400 Bricks"
   },
   {
-   "code": "NewTowerSpawner",
-   "reward": "300 Bricks"
+   "code": "SystemRework",
+   "reward": "350 Bricks"
   },
   {
-   "code": "BuilderAndCamera",
-   "reward": "250 Bricks"
+   "code": "TY5kLikes",
+   "reward": "400 Bricks"
   }
  ],
- "updated": "2026-08-17T14:02:35.444Z",
+ "updated": "2026-08-18T19:20:50.604Z",
  "source": "https://robloxden.com/game-codes/dummy-defense"
 }

@@ -15,10 +15,6 @@
    "reward": "140 Chrono Shards"
   },
   {
-   "code": "25KMEMBERS",
-   "reward": "280 Chrono Shards"
-  },
-  {
    "code": "FEATURED",
    "reward": "32 TNT Blocks"
   },
@@ -29,8 +25,12 @@
   {
    "code": "30KLIKES",
    "reward": "2 Hours of Double Experience"
+  },
+  {
+   "code": "25KMEMBERS",
+   "reward": "280 Chrono Shards"
   }
  ],
- "updated": "2026-08-17T14:02:58.940Z",
+ "updated": "2026-08-18T19:21:12.166Z",
  "source": "https://robloxden.com/game-codes/subterra"
 }

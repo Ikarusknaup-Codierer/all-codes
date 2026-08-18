@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "coolcode",
-   "reward": ""
-  },
-  {
-   "code": "absolutelyterrible",
-   "reward": "15 Rare Crates"
-  },
-  {
    "code": "notsosmartai",
    "reward": "5,000 Credits"
+  },
+  {
+   "code": "realismisnot_theway",
+   "reward": "1 Legendary Crate"
   },
   {
    "code": "dogkeepers",
@@ -25,8 +21,12 @@
   {
    "code": "ilovepeace",
    "reward": "15,000 Credits"
+  },
+  {
+   "code": "targetaudience",
+   "reward": "5 Legendary Crates"
   }
  ],
- "updated": "2026-08-17T14:00:48.471Z",
+ "updated": "2026-08-18T19:19:24.390Z",
  "source": "https://robloxden.com/game-codes/peacekeepers"
 }

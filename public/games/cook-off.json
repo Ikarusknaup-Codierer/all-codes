@@ -15,14 +15,18 @@
    "reward": "2 New Halloween Themed Counters"
   },
   {
-   "code": "1MVISITS",
-   "reward": "5,000 Cash"
+   "code": "RELEASE",
+   "reward": "750 Cash"
   },
   {
-   "code": "freexp",
-   "reward": "750 EXP"
+   "code": "RECIPE",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "PUMPKIN25",
+   "reward": "the Carved Pumpkin"
   }
  ],
- "updated": "2026-08-17T14:02:02.234Z",
+ "updated": "2026-08-18T19:20:22.483Z",
  "source": "https://robloxden.com/game-codes/cook-off"
 }

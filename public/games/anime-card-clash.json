@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "ARTCONTEST",
+   "reward": "the Crimson Demon Art Contest Skin , the Princess of Light Art Contest"
+  },
+  {
+   "code": "GUILDSPARTTWO5",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
+  },
+  {
+   "code": "GUILDSPARTTWO4",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 2 Boss Chance "
+  },
+  {
+   "code": "GUILDSPARTTWO3",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
+  },
+  {
+   "code": "GUILDSPARTTWO2",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 2 Boss Chance "
+  },
+  {
+   "code": "GUILDSPARTTWO1",
+   "reward": "5 Large Luck Potions , 5 Large Roll Speed Potions , 2 Boss Chance Poti"
+  },
+  {
    "code": "COMMUNITY1",
    "reward": "5 Large Luck Potions , 5 Large Roll Speed Potions , 2 Boss Chance Poti"
   },
@@ -71,6 +95,6 @@
    "reward": "2 50,000x Instant Rolls"
   }
  ],
- "updated": "2026-08-17T14:01:10.448Z",
+ "updated": "2026-08-18T19:19:38.502Z",
  "source": "https://robloxden.com/game-codes/anime-card-clash"
 }

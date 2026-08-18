@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "100K",
+   "code": "SORRY",
+   "reward": "Reward"
+  },
+  {
+   "code": "karma",
+   "reward": "300 Coins"
+  },
+  {
+   "code": "broke",
+   "reward": "3,500 Coins"
+  },
+  {
+   "code": "skams",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "newyearnewme",
    "reward": "250 Coins"
-  },
-  {
-   "code": "HOPESOLOS",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "waterduchess",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "witchinghour",
-   "reward": "3,000 Coins"
-  },
-  {
-   "code": "ignite",
-   "reward": "Free Coins"
   }
  ],
- "updated": "2026-08-17T14:02:16.543Z",
+ "updated": "2026-08-18T19:20:34.974Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

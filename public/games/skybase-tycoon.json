@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "Christmas",
-   "reward": "rewards"
-  },
-  {
-   "code": "0Likes",
-   "reward": "rewards"
+   "code": "19220Likes",
+   "reward": "500 Cash"
   },
   {
    "code": "CODECASH",
@@ -23,14 +19,18 @@
    "reward": "Reward"
   },
   {
-   "code": "Release",
-   "reward": "2,500 Cash"
+   "code": "Chillguy",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "1090Likes",
+   "reward": "1,000 Cash"
   },
   {
    "code": "NEW",
    "reward": "rewards"
   }
  ],
- "updated": "2026-08-17T14:02:45.261Z",
+ "updated": "2026-08-18T19:20:59.004Z",
  "source": "https://robloxden.com/game-codes/skybase-tycoon"
 }

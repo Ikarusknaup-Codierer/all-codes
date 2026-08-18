@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "bigluck",
+   "reward": "3 hours of 2x Luck"
+  },
+  {
+   "code": "bigspeed",
+   "reward": "3 hours of 2x Hatch Speed"
+  },
+  {
+   "code": "bigshiny",
+   "reward": "3 hours of 2x Hatch Speed"
+  },
+  {
    "code": "luckychances",
    "reward": "2x Luck (1 hour)"
   },
@@ -67,6 +79,6 @@
    "reward": "Faster Egg Hatching Boost (12 hours) , Increased Luck Boost (12 hours)"
   }
  ],
- "updated": "2026-08-17T14:07:05.558Z",
+ "updated": "2026-08-18T19:24:50.710Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-remixed"
 }

@@ -8,25 +8,25 @@
   },
   {
    "code": "START",
-   "reward": "20,000 Cash"
+   "reward": "15,000 Cash"
   },
   {
    "code": "EasterWeekend",
    "reward": "15,000 Cash"
   },
   {
+   "code": "aprilfools",
+   "reward": "-15,000 Cash"
+  },
+  {
    "code": "100MILLIONVISITS",
    "reward": "50,000 Cash"
   },
   {
-   "code": "PATCHTWO",
-   "reward": "Reward"
-  },
-  {
-   "code": "INSURANCECLAIM",
-   "reward": "30,000 Cash"
+   "code": "100kGROUP",
+   "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-08-17T19:21:29.021Z",
+ "updated": "2026-08-18T19:27:32.641Z",
  "source": "https://robloxden.com/game-codes/twisted"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SPICY",
+   "reward": "45,000 Cash , a Quantum Sprinklers , 3 Pepper Seeds"
+  },
+  {
+   "code": "FLYTRAP",
+   "reward": "35,000 , a Quantum Sprinkler and an Epic Egg"
+  },
+  {
    "code": "SPIDER",
    "reward": "45,000 Cash , a Banana Seed , and a Quantum Sprinkler"
   },
@@ -59,6 +67,6 @@
    "reward": "45,000 Cash , a Starfruit Seed , and a Quantum Sprinkler"
   }
  ],
- "updated": "2026-08-17T14:01:29.818Z",
+ "updated": "2026-08-18T19:19:53.549Z",
  "source": "https://robloxden.com/game-codes/snatch-a-seed"
 }

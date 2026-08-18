@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "3000LIKE",
-   "reward": "Packs"
+   "code": "12MSOON",
+   "reward": "Exclusive Rewards"
+  },
+  {
+   "code": "45KLIKE",
+   "reward": "Freebies"
+  },
+  {
+   "code": "40KLIKE",
+   "reward": "Freebies"
   },
   {
    "code": "15KLIKE",
    "reward": "Freebies"
   },
   {
-   "code": "20KLIKE",
-   "reward": "Fireworks and Chicken Eggs"
-  },
-  {
    "code": "25KLIKE",
    "reward": "Instant Grow Seed"
   }
  ],
- "updated": "2026-08-17T14:02:54.734Z",
+ "updated": "2026-08-18T19:21:07.724Z",
  "source": "https://robloxden.com/game-codes/grow-an-egg"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY-DELAY-5",
+   "reward": "1 Nightmare Aura , 15 Refined Health Potions , and 5 Burger & Fries"
+  },
+  {
+   "code": "NIGHTMARERAID",
+   "reward": "Magic Dust Booster (1 Hour) , 10 Distilled Health Potions , and 1 Burg"
+  },
+  {
    "code": "REAPER",
    "reward": "4 Distilled Health Potions , 1 Gem Booster (12 Hours) , and 1 Key Boos"
   },
@@ -51,6 +59,6 @@
    "reward": "5 Distilled Health Potion and Sparkler Aura"
   }
  ],
- "updated": "2026-08-17T14:00:58.061Z",
+ "updated": "2026-08-18T19:19:31.104Z",
  "source": "https://robloxden.com/game-codes/dungeon-heroes"
 }

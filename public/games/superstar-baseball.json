@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ASCENDANT",
+   "reward": "5 Lucky Spins"
+  },
+  {
    "code": "PARK",
    "reward": "5 Lucky Spins"
   },
@@ -91,6 +95,6 @@
    "reward": "2 Spins"
   }
  ],
- "updated": "2026-08-17T14:03:52.636Z",
+ "updated": "2026-08-18T19:22:02.067Z",
  "source": "https://robloxden.com/game-codes/superstar-baseball"
 }

@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "Milwaukee",
-   "reward": "Reward"
-  },
-  {
    "code": "2026",
-   "reward": "Reward"
-  },
-  {
-   "code": "compensation",
    "reward": "Reward"
   },
   {
@@ -61,6 +53,14 @@
   {
    "code": "BOSSREI",
    "reward": "500 Cash"
+  },
+  {
+   "code": "nitro",
+   "reward": "7.5k Cash and 500exp"
+  },
+  {
+   "code": "booster",
+   "reward": "7.5k Cash and 500 exp"
   },
   {
    "code": "catcatcatcatcat",
@@ -125,8 +125,16 @@
   {
    "code": "Jameh",
    "reward": "Reward"
+  },
+  {
+   "code": "Milwaukee",
+   "reward": "Reward"
+  },
+  {
+   "code": "compensation",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-08-17T14:00:20.949Z",
+ "updated": "2026-08-18T19:19:14.399Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

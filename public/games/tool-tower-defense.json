@@ -11,22 +11,22 @@
    "reward": "150 Cash"
   },
   {
-   "code": "250KVISITS",
+   "code": "TOWERSKINOVERHAUL",
+   "reward": "200 Money"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "1k Money"
+  },
+  {
+   "code": "5500LIKES",
+   "reward": "250 Money"
+  },
+  {
+   "code": "3700LIKES",
    "reward": "300 Money"
-  },
-  {
-   "code": "HAPPYHOLIDAYS23",
-   "reward": "500 Money"
-  },
-  {
-   "code": "SECRETCODEAGAIN",
-   "reward": "200 Cash"
-  },
-  {
-   "code": "VERYSECRETCODE_SHH",
-   "reward": "200 Cash"
   }
  ],
- "updated": "2026-08-17T19:20:59.150Z",
+ "updated": "2026-08-19T03:15:26.165Z",
  "source": "https://robloxden.com/game-codes/tool-tower-defense"
 }

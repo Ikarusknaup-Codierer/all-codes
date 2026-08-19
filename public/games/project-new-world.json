@@ -11,10 +11,6 @@
    "reward": "5 Race Spins"
   },
   {
-   "code": "PHANTOMSHIP",
-   "reward": "5 Race Spins"
-  },
-  {
    "code": "SPIDERCYBORG",
    "reward": "5 Race Spins"
   },
@@ -43,10 +39,6 @@
    "reward": "5 Race Spins"
   },
   {
-   "code": "OKUCHI",
-   "reward": "5 Race Spins"
-  },
-  {
    "code": "Sub2XenoTy",
    "reward": "20 Minutes of x2 EXP"
   },
@@ -57,10 +49,6 @@
   {
    "code": "HAZESEAS2026",
    "reward": "10 Race Spins"
-  },
-  {
-   "code": "PATCH",
-   "reward": "25 Gems and x2 EXP (15 Minutes)"
   },
   {
    "code": "RELEASE",
@@ -93,8 +81,20 @@
   {
    "code": "Sub2BuilderboyTV",
    "reward": "x2 EXP (20 Minutes)"
+  },
+  {
+   "code": "PHANTOMSHIP",
+   "reward": "5 Race Spins"
+  },
+  {
+   "code": "OKUCHI",
+   "reward": "5 Race Spins"
+  },
+  {
+   "code": "PATCH",
+   "reward": "25 Gems and x2 EXP (15 Minutes)"
   }
  ],
- "updated": "2026-08-18T03:17:11.600Z",
+ "updated": "2026-08-19T03:24:36.663Z",
  "source": "https://robloxden.com/game-codes/project-new-world"
 }

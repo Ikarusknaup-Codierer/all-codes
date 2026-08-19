@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "ANNIVERSARY",
+   "reward": "200 Credits"
+  },
+  {
    "code": "XMAS",
    "reward": "100 Credits"
   },
   {
-   "code": "THANKSGIVING24",
-   "reward": "150 Credits"
-  },
-  {
-   "code": "200K",
-   "reward": "200 Credits"
-  },
-  {
-   "code": "ILOVEBOOGLE",
-   "reward": "100 Credits"
+   "code": "HOUSESKINS",
+   "reward": "300 Credits"
   },
   {
    "code": "BACKTOSCHOOL",
    "reward": "100 Credits"
+  },
+  {
+   "code": "200MILLION",
+   "reward": "170 Credits"
   }
  ],
- "updated": "2026-08-17T19:23:12.909Z",
+ "updated": "2026-08-19T03:17:25.729Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

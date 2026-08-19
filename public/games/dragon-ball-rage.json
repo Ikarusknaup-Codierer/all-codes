@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WowSoRetro",
+   "reward": "1 Random Dragon Ball"
+  },
+  {
    "code": "600KLikesCapsules",
    "reward": "5 Capsules"
   },
@@ -67,10 +71,14 @@
    "reward": "x2 XP Boost (5 minutes)"
   },
   {
+   "code": "RetroEvent",
+   "reward": "2 Dragon Balls"
+  },
+  {
    "code": "HappyEaster2026",
    "reward": "30 Eggs"
   }
  ],
- "updated": "2026-08-18T03:13:08.969Z",
+ "updated": "2026-08-19T03:21:24.840Z",
  "source": "https://robloxden.com/game-codes/dragon-ball-rage"
 }

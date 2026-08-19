@@ -11,11 +11,11 @@
    "reward": "50 Wins"
   },
   {
-   "code": "BugsSquashed",
-   "reward": "Double Power Boost (10 Minutes)"
+   "code": "SFS",
+   "reward": "Double Power Boost (5 Minutes)"
   },
   {
-   "code": "ASFS",
+   "code": "JulUPD",
    "reward": "Boost"
   },
   {
@@ -23,10 +23,10 @@
    "reward": "Double Coins Boost (15 Minutes)"
   },
   {
-   "code": "Secret",
-   "reward": "Super Luck Boost (10 Minutes)"
+   "code": "FeelingLucky",
+   "reward": "Super Luck Boost (5 Minutes)"
   }
  ],
- "updated": "2026-08-17T19:21:59.749Z",
+ "updated": "2026-08-19T03:16:13.611Z",
  "source": "https://robloxden.com/game-codes/missile-simulator"
 }

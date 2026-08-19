@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "MAGMASOON",
+   "reward": "Rewards"
+  },
+  {
+   "code": "SorryForDelay!!",
+   "reward": "8 Hours of Drop, Stats, Exp, Coins, Mastery Boosts , 8 Raid Scrolls , "
+  },
+  {
+   "code": "Crews",
+   "reward": "1 Hour of Drop, Stats, Exp, Coins, Mastery Boosts , 8 Raid Scrolls , 3"
+  },
+  {
+   "code": "LongAwaited",
+   "reward": "1 Hour of Drop, Stats, Exp, Coins, Mastery Boosts , 8 Raid Scrolls , 3"
+  },
+  {
+   "code": "WNewDevs",
+   "reward": "1 Hour of Drop, Stats, Exp, Coins, Mastery Boosts , 8 Raid Scrolls , 3"
+  },
+  {
    "code": "OpCode",
    "reward": "8 Hours of Drop Boosts , 8 Hours of Stats Boosts , 8 Hours of Exp Boos"
   },
@@ -187,10 +207,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "ICEROGUE",
-   "reward": "Rewards"
-  },
-  {
    "code": "TRUEVENOM",
    "reward": "Rewards"
   },
@@ -203,10 +219,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "MAGMASOON",
-   "reward": "Rewards"
-  },
-  {
    "code": "DRAGONBALLS",
    "reward": "Rewards"
   },
@@ -215,6 +227,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-18T03:15:54.633Z",
+ "updated": "2026-08-19T03:23:34.636Z",
  "source": "https://robloxden.com/game-codes/one-fruit"
 }

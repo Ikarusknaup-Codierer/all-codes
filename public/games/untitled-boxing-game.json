@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "lynn",
-   "reward": "7 Lucky Spins"
-  },
-  {
    "code": "3years",
    "reward": "8 Lucky Spins"
   },
@@ -23,22 +19,26 @@
    "reward": "10 Spins"
   },
   {
-   "code": "loveintheair",
-   "reward": "7,999 Cash"
-  },
-  {
    "code": "lovefromubg",
    "reward": "5 Lucky Spins"
   },
   {
-   "code": "justtakethecash",
-   "reward": "15,000 Cash"
-  },
-  {
    "code": "dualemotes",
    "reward": "Free Emote"
+  },
+  {
+   "code": "lynn",
+   "reward": "7 Lucky Spins"
+  },
+  {
+   "code": "loveintheair",
+   "reward": "7,999 Cash"
+  },
+  {
+   "code": "justtakethecash",
+   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-08-17T19:25:10.666Z",
+ "updated": "2026-08-19T03:18:56.634Z",
  "source": "https://robloxden.com/game-codes/untitled-boxing-game"
 }

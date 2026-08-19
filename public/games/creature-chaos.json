@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "30KL",
-   "reward": "Unknown Reward"
+   "code": "RELEASE",
+   "reward": "Free Rewards"
   },
   {
-   "code": "25KL",
-   "reward": "300 Tokens And 150 Points"
-  },
-  {
-   "code": "HALLOWS23",
-   "reward": "300 Tokens And 150 Points"
-  },
-  {
-   "code": "40KL",
-   "reward": "500 Tokens and 150 Points"
+   "code": "GAMERETURN",
+   "reward": "500 Tokens and 500 Points"
   },
   {
    "code": "CR33P3R",
    "reward": "300 Tokens and 150 Points"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "300 Tokens and 150 Points"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "300 Tokens and 150 Points"
   }
  ],
- "updated": "2026-08-18T03:13:11.112Z",
+ "updated": "2026-08-19T03:21:26.758Z",
  "source": "https://robloxden.com/game-codes/creature-chaos"
 }

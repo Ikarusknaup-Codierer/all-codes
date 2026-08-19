@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "THENEWHOPE",
-   "reward": "50000 Credits"
-  },
-  {
-   "code": "ForTheGreatestPurpose",
-   "reward": "50000 Credits"
+   "code": "ForTheGreatestDarkness",
+   "reward": "50 Crystals"
   },
   {
    "code": "OMICRON",
+   "reward": "Rewards"
+  },
+  {
+   "code": "OMEGA",
    "reward": "Rewards"
   },
   {
@@ -23,10 +23,10 @@
    "reward": "Rewards"
   },
   {
-   "code": "IAMTHEONE",
-   "reward": "10000 Credits"
+   "code": "RELEASE",
+   "reward": "100 Speed and 100 Jump"
   }
  ],
- "updated": "2026-08-17T19:27:16.309Z",
+ "updated": "2026-08-19T03:20:45.782Z",
  "source": "https://robloxden.com/game-codes/1-speed-and-1-jump-every-second"
 }

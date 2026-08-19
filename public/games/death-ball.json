@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ROYAL",
-   "reward": "50K Gems"
-  },
-  {
    "code": "MAJESTIC",
    "reward": "Rewards"
   },
@@ -49,8 +45,12 @@
   {
    "code": "MULTIUNBOX",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "ROYAL",
+   "reward": "50K Gems"
   }
  ],
- "updated": "2026-08-17T19:25:11.144Z",
+ "updated": "2026-08-19T03:18:57.169Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

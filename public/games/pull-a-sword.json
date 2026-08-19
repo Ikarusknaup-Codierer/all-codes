@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GIFTING",
+   "reward": "3 Cup Potions"
+  },
+  {
+   "code": "MERRYCHRISTMAS",
+   "reward": "10 Holy Strength Potions , 10 Mega Potions , 10 Dusk Potions , and 10 "
+  },
+  {
+   "code": "ORANGEISHORT",
+   "reward": "4 Mega Potions , 3 Dusk Potions , and 5 Happy Pumpkin Pieces"
+  },
+  {
    "code": "ITSRAINNINGTACOS",
    "reward": "3 Dusk Potions"
   },
@@ -403,6 +415,6 @@
    "reward": "1 Strength Potion , 2 Dark Strength Potions and 1 Mega Potion"
   }
  ],
- "updated": "2026-08-17T19:24:40.330Z",
+ "updated": "2026-08-19T03:18:31.324Z",
  "source": "https://robloxden.com/game-codes/pull-a-sword"
 }

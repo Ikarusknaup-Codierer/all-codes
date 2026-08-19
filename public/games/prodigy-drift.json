@@ -11,14 +11,6 @@
    "reward": "7,500 Cash"
   },
   {
-   "code": "75LIKE",
-   "reward": "$7,500"
-  },
-  {
-   "code": "PLATFORM",
-   "reward": "15,000 Cash"
-  },
-  {
    "code": "RACER",
    "reward": "5,000 Cash"
   },
@@ -165,8 +157,16 @@
   {
    "code": "DelayBlox",
    "reward": "$7,500 Cash"
+  },
+  {
+   "code": "75LIKE",
+   "reward": "$7,500"
+  },
+  {
+   "code": "PLATFORM",
+   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-08-17T19:23:00.788Z",
+ "updated": "2026-08-19T03:17:14.560Z",
  "source": "https://robloxden.com/game-codes/prodigy-drift"
 }

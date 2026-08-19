@@ -7,7 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "SPRING",
+   "code": "bee",
+   "reward": "Free In-Game Boost And Rewards"
+  },
+  {
+   "code": "SATURN",
+   "reward": "2 Ultra Lucky Boosts"
+  },
+  {
+   "code": "TECH",
    "reward": "2 Ultra Lucky Boosts"
   },
   {
@@ -15,18 +23,10 @@
    "reward": "2 Lucky Boosts"
   },
   {
-   "code": "THANKS20K",
-   "reward": "2 Ultra Lucky Boosts"
-  },
-  {
-   "code": "STEAMPUNK",
-   "reward": "2 2x Damage Boosts"
-  },
-  {
-   "code": "CAVE",
-   "reward": "2 Ultra Lucky Boosts"
+   "code": "HEAVEN",
+   "reward": "2 2x Coin Boosts"
   }
  ],
- "updated": "2026-08-17T19:27:41.146Z",
+ "updated": "2026-08-19T03:21:01.701Z",
  "source": "https://robloxden.com/game-codes/timber-champions"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SUMMER",
+   "reward": "10 Luck Potions , 500 Wins , and 10 Rebirth Potions"
+  },
+  {
+   "code": "SUMMERQUEST",
+   "reward": "Freebies"
+  },
+  {
+   "code": "GLASSES",
+   "reward": "10 Luck Potions and 10 Rebirth Potions"
+  },
+  {
    "code": "DESC",
    "reward": "10 Luck Potions , 500 Wins , and 10 Rebirth Potions"
   },
@@ -27,6 +39,6 @@
    "reward": "10 Luck Potions and 10 Rebirth Potions"
   }
  ],
- "updated": "2026-08-18T14:10:04.368Z",
+ "updated": "2026-08-19T19:14:56.181Z",
  "source": "https://robloxden.com/game-codes/outrun-a-speedster"
 }

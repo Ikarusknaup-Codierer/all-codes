@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "25OLYMPUSEVENT25",
+   "reward": "25 Olympus Presents"
+  },
+  {
+   "code": "OLYMPUSEVENT25",
+   "reward": "25 Olympus Presents"
+  },
+  {
    "code": "NEWBIE",
    "reward": "100,000 Cash"
   },
@@ -39,6 +47,6 @@
    "reward": "25 Summer Presents"
   }
  ],
- "updated": "2026-08-18T14:11:16.313Z",
+ "updated": "2026-08-19T19:16:14.491Z",
  "source": "https://robloxden.com/game-codes/idle-defense"
 }

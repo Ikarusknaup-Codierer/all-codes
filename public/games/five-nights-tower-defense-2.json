@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE41",
+   "reward": "5,000 Tokens , 100 Souls , 50 Endo Chips , 50 Soldering Irons , and 5 "
+  },
+  {
+   "code": "CHALLENGES",
+   "reward": "10,000 Tokens , 250 Souls , and 25 Season Presents . You must have a m"
+  },
+  {
+   "code": "VESSEL",
+   "reward": "25,000 Tokens , 350 Souls , 50 Season Presents , and 5 Raid Coins . Yo"
+  },
+  {
    "code": "UPDATE40",
    "reward": "100 Souls , 50 Endo Chips , 50 Soldering Irons , 5,000 Tokens and 5 Se"
   },
@@ -71,6 +83,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-18T14:14:25.295Z",
+ "updated": "2026-08-19T19:19:49.820Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

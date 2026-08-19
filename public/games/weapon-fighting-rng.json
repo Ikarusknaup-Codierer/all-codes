@@ -11,22 +11,22 @@
    "reward": "3 Luck Boosts II , 3 Stone Boosts II , 3 Roll Speed Boosts II , and 3 "
   },
   {
-   "code": "arise2",
-   "reward": "2 Lucky Boost I, 2 Roll Speed Boost I, 2 Stone Boost I, And 2 EXP Boos"
+   "code": "wfr3",
+   "reward": "3 Lucky Boost II, 3 Roll Speed Boost II, 3 Stone Boost II, And 3 EXP B"
+  },
+  {
+   "code": "ticket",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "owl",
+   "reward": "Boosts"
   },
   {
    "code": "friend",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "treasure",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "mount",
-   "reward": "Boosts"
   }
  ],
- "updated": "2026-08-18T19:20:54.955Z",
+ "updated": "2026-08-19T19:23:03.264Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-rng"
 }

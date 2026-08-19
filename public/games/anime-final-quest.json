@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FLAMINGO",
+   "reward": "150,000 Gold and 50 Gear Lucky Spins"
+  },
+  {
+   "code": "TOWERPROTECTION",
+   "reward": "20 Raid Tickets , 50 Weapon Lucky Spins , and 75 Runes"
+  },
+  {
    "code": "PROMISEDCODE",
    "reward": "20 Statue Crowns , 20 Soul Manipulator Hands and 3 Million Gold"
   },
@@ -127,6 +135,6 @@
    "reward": "50 Runes"
   }
  ],
- "updated": "2026-08-18T14:12:06.004Z",
+ "updated": "2026-08-19T19:17:11.301Z",
  "source": "https://robloxden.com/game-codes/anime-final-quest"
 }

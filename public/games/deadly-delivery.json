@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "DDDC50K",
-   "reward": "5 Revive Tickets and 5 Gold Bars"
-  },
-  {
    "code": "DD80KLIKES",
    "reward": "3 Z-Ray Guns , 3 Bio-Scanners , 3 The Traps , and 30 Gold Bars"
-  },
-  {
-   "code": "SPYSKIN",
-   "reward": "the Spy Skin"
   },
   {
    "code": "SEAOFSNOW",
@@ -89,8 +81,16 @@
   {
    "code": "MINIENTITIES",
    "reward": "10 Mini Coins"
+  },
+  {
+   "code": "DDDC50K",
+   "reward": "5 Revive Tickets and 5 Gold Bars"
+  },
+  {
+   "code": "SPYSKIN",
+   "reward": "the Spy Skin"
   }
  ],
- "updated": "2026-08-18T14:13:24.022Z",
+ "updated": "2026-08-19T19:18:38.726Z",
  "source": "https://robloxden.com/game-codes/deadly-delivery"
 }

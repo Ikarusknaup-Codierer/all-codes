@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SUBGAMERROBOT_RESET",
-   "reward": "a free Stat Reset"
+   "code": "JCWK",
+   "reward": "a 2x EXP Boost"
+  },
+  {
+   "code": "ADMINGIVEAWAY",
+   "reward": "20 Minutes of 2x EXP Boost"
   },
   {
    "code": "GAMER_ROBOT_1M",
    "reward": "30 Minutes of 2x Experience Boost"
   },
   {
-   "code": "Axiore",
-   "reward": "20 Minutes of 2x Experience"
+   "code": "Sub2UncleKizaru",
+   "reward": "a Stat Refund"
   },
   {
-   "code": "BIGNEWS",
-   "reward": "a Title"
-  },
-  {
-   "code": "fudd10_v2",
-   "reward": "2 Beli"
+   "code": "rerelease",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-08-18T14:15:01.462Z",
+ "updated": "2026-08-19T19:20:26.639Z",
  "source": "https://robloxden.com/game-codes/blox-fruits-but-admins"
 }

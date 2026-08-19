@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Noob",
+   "reward": "10,000,000 Gold , 5,000,000 Gems , and 100 Reroll Shards"
+  },
+  {
    "code": "FreshStart",
    "reward": "100,000 Money , 25,000 Gems , 1 Beginner Box , 1 Mid Game Box , and 3 "
   },
@@ -53,8 +57,24 @@
   {
    "code": "BwaaTeam",
    "reward": "Gems and Cash"
+  },
+  {
+   "code": "Beerus",
+   "reward": "25 Rogue's Blessings , 250 Clan Rerolls , 20 Lucky Boxes , 150 Mythica"
+  },
+  {
+   "code": "BeerusIsFurious",
+   "reward": "5 of All 2x Potions . You must be at least level 5,000 to claim this c"
+  },
+  {
+   "code": "GodOfDestruction",
+   "reward": "Dragon Ball 1 , Dragon Ball 2 , Dragon Ball 3 , and Cat Food 1 . You m"
+  },
+  {
+   "code": "CatFoodies",
+   "reward": "100,000,000 Coins , 1,500,000 Gems , 500,000 Fragments of Rogue , 20 M"
   }
  ],
- "updated": "2026-08-18T14:13:15.962Z",
+ "updated": "2026-08-19T19:18:30.053Z",
  "source": "https://robloxden.com/game-codes/rogue-piece"
 }

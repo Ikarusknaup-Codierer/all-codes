@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "RTDX",
-   "reward": "2% Tix Boost (180 Minutes)"
-  },
-  {
    "code": "FREETIX",
    "reward": "100 Money"
   },
@@ -57,8 +53,12 @@
   {
    "code": "TRADING",
    "reward": "500 Tix and a 3x Luck Boost"
+  },
+  {
+   "code": "RTDX",
+   "reward": "2% Tix Boost (180 Minutes)"
   }
  ],
- "updated": "2026-08-18T19:19:21.041Z",
+ "updated": "2026-08-19T19:21:23.309Z",
  "source": "https://robloxden.com/game-codes/retro-tower-defense"
 }

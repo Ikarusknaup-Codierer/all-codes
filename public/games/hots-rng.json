@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "yeaa",
+   "reward": "50 Eternal II Potions, 5 Eternal III Potions and 5 Soul's Fate"
+  },
+  {
+   "code": "DelaySr",
+   "reward": "100 Eternal Potion II , 10 Eternal Potion III , and 15 Soul's Fate"
+  },
+  {
    "code": "LOADING",
    "reward": "50 Eternal Potion II , 5 Eternal Potion III , and 5 Soul's Fate"
   },
@@ -151,6 +159,6 @@
    "reward": "Eternal Potions"
   }
  ],
- "updated": "2026-08-18T14:12:06.929Z",
+ "updated": "2026-08-19T19:17:12.427Z",
  "source": "https://robloxden.com/game-codes/hots-rng"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "DELAYDELAY",
+   "reward": "1 Heavenly Tribulation Pill"
+  },
+  {
+   "code": "NOMORECODES",
+   "reward": "2 Heavenly Tribulation Pills"
+  },
+  {
+   "code": "RESTARTRESTART",
+   "reward": "1 Heavenly Pill"
+  },
+  {
    "code": "SECONDUPDATE",
    "reward": "1 Heavenly Pill"
   },
@@ -57,8 +69,12 @@
   {
    "code": "SIXTHUPDATE",
    "reward": "1 Lucky Reroll"
+  },
+  {
+   "code": "ARTRESTART",
+   "reward": "1 Heavenly Pill"
   }
  ],
- "updated": "2026-08-18T14:09:20.685Z",
+ "updated": "2026-08-19T19:14:33.109Z",
  "source": "https://robloxden.com/game-codes/chasing-immortality"
 }

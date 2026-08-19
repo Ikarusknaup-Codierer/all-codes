@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "20KLIKES",
+   "reward": "5,000 Qubits and 3 Crowns"
+  },
+  {
+   "code": "PETEVENT",
+   "reward": "10 Souls"
+  },
+  {
    "code": "REBALANCE",
    "reward": "1K Qubits"
   },
@@ -31,6 +39,6 @@
    "reward": "2 Crowns and 3,000 Qubits"
   }
  ],
- "updated": "2026-08-18T14:13:57.944Z",
+ "updated": "2026-08-19T19:19:16.304Z",
  "source": "https://robloxden.com/game-codes/quantify"
 }

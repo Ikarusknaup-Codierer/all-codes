@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BATTLESIM",
+   "reward": "750 BB"
+  },
+  {
    "code": "THECURSEDONES",
    "reward": "750 BB"
   },
@@ -17,10 +21,6 @@
   {
    "code": "REDACTED",
    "reward": "4x Lunar Impact Packs"
-  },
-  {
-   "code": "CATACLYSM",
-   "reward": "500 BB , 5 Doomspire: Complete Tickets , and the From A Different Time"
   },
   {
    "code": "UMBERGLADIATOR",
@@ -159,10 +159,14 @@
    "reward": "100 BB and 3 Lunar Impacts"
   },
   {
+   "code": "CATACLYSM",
+   "reward": "500 BB , 5 Doomspire: Complete Tickets , and the From A Different Time"
+  },
+  {
    "code": "SPIRESOONTM",
    "reward": ""
   }
  ],
- "updated": "2026-08-18T14:12:03.999Z",
+ "updated": "2026-08-19T19:17:08.375Z",
  "source": "https://robloxden.com/game-codes/blox-cards-tcg"
 }

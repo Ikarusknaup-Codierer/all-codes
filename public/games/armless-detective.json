@@ -19,10 +19,6 @@
    "reward": "2 Random Crates and 70 Coins"
   },
   {
-   "code": "65millionvisits",
-   "reward": "2 Random Crates and 65 Coins"
-  },
-  {
    "code": "crate",
    "reward": "1 Random Crate"
   },
@@ -61,8 +57,12 @@
   {
    "code": "incognitofix",
    "reward": "20 Player Points"
+  },
+  {
+   "code": "65millionvisits",
+   "reward": "2 Random Crates and 65 Coins"
   }
  ],
- "updated": "2026-08-18T14:13:19.979Z",
+ "updated": "2026-08-19T19:18:34.365Z",
  "source": "https://robloxden.com/game-codes/armless-detective"
 }

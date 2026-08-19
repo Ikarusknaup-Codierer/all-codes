@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "2026",
-   "reward": "Reward"
-  },
-  {
-   "code": "TY",
-   "reward": "Cash"
-  },
-  {
    "code": "PATIENCE",
    "reward": "Cash"
   },
@@ -131,10 +123,18 @@
    "reward": "Reward"
   },
   {
+   "code": "2026",
+   "reward": "Reward"
+  },
+  {
    "code": "compensation",
    "reward": "Reward"
+  },
+  {
+   "code": "TY",
+   "reward": "Cash"
   }
  ],
- "updated": "2026-08-18T19:19:14.399Z",
+ "updated": "2026-08-19T19:21:16.356Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

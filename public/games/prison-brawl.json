@@ -15,18 +15,18 @@
    "reward": "750 Cash"
   },
   {
+   "code": "ERICUPDATE",
+   "reward": "2,000 Cash"
+  },
+  {
    "code": "HOTFIX3",
    "reward": "1 Premium Case"
   },
   {
-   "code": "1MILLION!!",
-   "reward": "1 Cyber Case"
-  },
-  {
-   "code": "BUGFIX2",
-   "reward": "1,000 Prison Money"
+   "code": "RELEASE",
+   "reward": "1 Free Case"
   }
  ],
- "updated": "2026-08-18T19:19:43.777Z",
+ "updated": "2026-08-19T19:21:47.426Z",
  "source": "https://robloxden.com/game-codes/prison-brawl"
 }

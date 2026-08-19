@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORDELAYAGAIN",
+   "reward": "300 Coins"
+  },
+  {
+   "code": "25MILVISITS",
+   "reward": "750 Coins"
+  },
+  {
+   "code": "BACKROOMS",
+   "reward": "500 Coins"
+  },
+  {
    "code": "10MILVISITS",
    "reward": "500 Coins"
   },
@@ -19,6 +31,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-08-18T08:01:37.942Z",
+ "updated": "2026-08-19T08:07:03.233Z",
  "source": "https://robloxden.com/game-codes/lurking-giants"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "C38J",
-   "reward": "Super Mining Boost"
-  },
-  {
    "code": "2WP5",
    "reward": "Super Mining Boost"
   },
@@ -103,10 +99,14 @@
    "reward": "Super Mining Boost"
   },
   {
+   "code": "C38J",
+   "reward": "Super Mining Boost"
+  },
+  {
    "code": "14TE",
    "reward": "Super Mining Boost"
   }
  ],
- "updated": "2026-08-18T03:20:22.375Z",
+ "updated": "2026-08-19T08:04:02.808Z",
  "source": "https://robloxden.com/game-codes/bitcoin-miner"
 }

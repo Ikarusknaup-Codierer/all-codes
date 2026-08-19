@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "EASTER2026",
-   "reward": "Easter Cat"
-  },
-  {
    "code": "REINDEER23",
    "reward": "Reindeer Plush"
   },
   {
-   "code": "BEARINGGIFTS",
-   "reward": "Christmas Star Mascot"
+   "code": "CROWNHIM",
+   "reward": "Candy Cane Marker"
   },
   {
    "code": "PYRAMID24",
@@ -25,8 +21,12 @@
   {
    "code": "PYRAMID23",
    "reward": "the Christmas Pyramid 2023"
+  },
+  {
+   "code": "PRESENTSPIN",
+   "reward": "the 2022 Christmas Pyramid"
   }
  ],
- "updated": "2026-08-18T03:20:29.051Z",
+ "updated": "2026-08-19T08:04:08.488Z",
  "source": "https://robloxden.com/game-codes/bloxy-bingo"
 }

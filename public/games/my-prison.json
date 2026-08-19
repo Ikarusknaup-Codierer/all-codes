@@ -15,10 +15,6 @@
    "reward": "350 Cash"
   },
   {
-   "code": "Cactus",
-   "reward": "350 Cash"
-  },
-  {
    "code": "Gang",
    "reward": "500 Cash"
   },
@@ -35,6 +31,10 @@
    "reward": "500 Cash"
   },
   {
+   "code": "Cactus",
+   "reward": "350 Cash"
+  },
+  {
    "code": "Jacuzzi",
    "reward": "500 Cash"
   },
@@ -47,6 +47,6 @@
    "reward": "$350"
   }
  ],
- "updated": "2026-08-18T03:15:47.142Z",
+ "updated": "2026-08-19T07:59:58.758Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

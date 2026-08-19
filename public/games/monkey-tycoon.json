@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "Gorilla",
-   "reward": "Free Reward"
-  },
-  {
    "code": "Orangutan",
    "reward": "Free Reward"
-  },
-  {
-   "code": "Ape",
-   "reward": "1 Million Monkeys"
-  },
-  {
-   "code": "Nevergonnarunaroundanddesertyou",
-   "reward": "1 Million Monkeys"
   },
   {
    "code": "Nevergonnatellalieandhurtyou",
@@ -173,8 +161,20 @@
   {
    "code": "MONKEY",
    "reward": "1 Yellow Monkey"
+  },
+  {
+   "code": "Gorilla",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "Ape",
+   "reward": "1 Million Monkeys"
+  },
+  {
+   "code": "Nevergonnarunaroundanddesertyou",
+   "reward": "1 Million Monkeys"
   }
  ],
- "updated": "2026-08-18T03:19:03.584Z",
+ "updated": "2026-08-19T08:02:50.688Z",
  "source": "https://robloxden.com/game-codes/monkey-tycoon"
 }

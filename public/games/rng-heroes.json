@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "CERBERUS",
+   "reward": "2 XP Potions"
+  },
+  {
+   "code": "SPIDEYBOSS",
+   "reward": "a Galaxy Battery"
+  },
+  {
+   "code": "INFERNOROLL",
+   "reward": "an Inferno Battery"
+  },
+  {
+   "code": "THANKYOU20K",
+   "reward": "3 Gold Potions and 3 XP Potions"
+  },
+  {
+   "code": "GuildsUpdate",
+   "reward": "3 Golden Battery amd 2 Inferno Battery"
+  },
+  {
    "code": "30Thousand",
    "reward": "3 Gold Potions"
   },
@@ -27,6 +47,6 @@
    "reward": "an Assassin Hero"
   }
  ],
- "updated": "2026-08-18T03:18:46.525Z",
+ "updated": "2026-08-19T08:02:35.265Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

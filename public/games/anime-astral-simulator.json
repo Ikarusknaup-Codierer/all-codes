@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "COMMANDMENTS",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "LIONKINGDOM",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "FIXEDRANKS",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "UPDATE8FIXES",
+   "reward": "200 F2P Tickets and 45 Food Boosts"
+  },
+  {
    "code": "!FIXEDABUG!",
    "reward": "200 F2P Tickets and 1 Of Each Tier I Potion"
   },
@@ -211,6 +227,6 @@
    "reward": "Tickets , Potions , or Boosts"
   }
  ],
- "updated": "2026-08-18T08:03:24.116Z",
+ "updated": "2026-08-19T08:08:37.284Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

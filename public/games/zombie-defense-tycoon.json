@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
-   "reward": "Reward"
-  },
-  {
-   "code": "600LIKES",
-   "reward": "Reward"
-  },
-  {
-   "code": "SP00KY",
+   "code": "4000LIK3S",
    "reward": "20,000 Cash"
   },
   {
@@ -23,10 +15,18 @@
    "reward": "100,000 Cash"
   },
   {
+   "code": "HUMVEE",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "1200LIKES",
+   "reward": "20,000 Cash"
+  },
+  {
    "code": "REMASTER1",
    "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-08-18T03:17:45.960Z",
+ "updated": "2026-08-19T08:01:39.169Z",
  "source": "https://robloxden.com/game-codes/zombie-defense-tycoon"
 }

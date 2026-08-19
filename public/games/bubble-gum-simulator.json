@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE81",
+   "reward": "2x Luck (3 Hours)"
+  },
+  {
+   "code": "SORRYSHUTDOWN",
+   "reward": "3x Shiny Chance (2 Hours)"
+  },
+  {
+   "code": "PERMMYTHIC",
+   "reward": "2x Hatch Speed (3 Hours)"
+  },
+  {
+   "code": "MYTHICFALLENANGEL",
+   "reward": "2x Luck (3 Hours)"
+  },
+  {
    "code": "LuckyDay2",
    "reward": "2x Hatch Speed"
   },
@@ -1043,6 +1059,6 @@
    "reward": "2 Hours of 2x Hatch Speed"
   }
  ],
- "updated": "2026-08-18T08:00:18.708Z",
+ "updated": "2026-08-19T08:05:57.643Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

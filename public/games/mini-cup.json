@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Thx5mil",
+   "reward": "2 Gold Packs , 3 Diamond Packs and 2 Galactic Packs"
+  },
+  {
+   "code": "Update4",
+   "reward": "3 Gold Packs 2 Diamond Packs and a Galactic Pack"
+  },
+  {
+   "code": "Update3",
+   "reward": "3 Gold Packs and 2 Diamond Packs"
+  },
+  {
+   "code": "Update2",
+   "reward": "3 Gold Packs and a Diamond Pack"
+  },
+  {
    "code": "THX1MIL",
    "reward": "4 Packs"
   },
@@ -19,6 +35,6 @@
    "reward": "5 Wood Packs and 2 Stone Packs"
   }
  ],
- "updated": "2026-08-18T08:01:40.628Z",
+ "updated": "2026-08-19T08:07:05.728Z",
  "source": "https://robloxden.com/game-codes/mini-cup"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Update",
+   "reward": "3X Cash (10 Minutes)"
+  },
+  {
+   "code": "Cafe",
+   "reward": "5,000 Cash"
+  },
+  {
    "code": "Coffee",
    "reward": "2X Cash (10 Minutes)"
   },
@@ -15,6 +23,6 @@
    "reward": "250 Cash"
   }
  ],
- "updated": "2026-08-18T08:00:43.552Z",
+ "updated": "2026-08-19T08:06:20.027Z",
  "source": "https://robloxden.com/game-codes/own-a-cafe"
 }

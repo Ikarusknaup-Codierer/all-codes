@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "candy",
+   "reward": "5x Luck (10 Minutes)"
+  },
+  {
    "code": "Luckyducky",
    "reward": "the Divine Rubber Duck"
   },
@@ -15,6 +19,6 @@
    "reward": "10x Luck (5 mins)"
   }
  ],
- "updated": "2026-08-18T08:00:28.217Z",
+ "updated": "2026-08-19T08:06:05.763Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

@@ -23,10 +23,6 @@
    "reward": "2 World Class Spins"
   },
   {
-   "code": "SOFISTHEBEST",
-   "reward": "10 World Class Spins and 2 Mythic Spins"
-  },
-  {
    "code": "SOFSQUEST",
    "reward": "2 World Class Spins and 2 Mythic Spins"
   },
@@ -45,8 +41,12 @@
   {
    "code": "ALMOST4KSUBS",
    "reward": "4 World Class Spins"
+  },
+  {
+   "code": "SOFISTHEBEST",
+   "reward": "10 World Class Spins and 2 Mythic Spins"
   }
  ],
- "updated": "2026-08-18T08:01:35.828Z",
+ "updated": "2026-08-19T08:07:01.235Z",
  "source": "https://robloxden.com/game-codes/blr-recreation"
 }

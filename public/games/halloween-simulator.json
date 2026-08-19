@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CASHME",
-   "reward": "Coins"
-  },
-  {
    "code": "RUSSO",
    "reward": "Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "RAZORFISHGAMING",
    "reward": "Coins"
+  },
+  {
+   "code": "MILO",
+   "reward": "Coins"
   }
  ],
- "updated": "2026-08-18T08:00:14.222Z",
+ "updated": "2026-08-19T08:05:53.414Z",
  "source": "https://robloxden.com/game-codes/halloween-simulator"
 }

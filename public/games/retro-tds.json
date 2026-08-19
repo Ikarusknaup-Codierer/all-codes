@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "SF0TH",
-   "reward": "350 Cash"
-  },
-  {
    "code": "FR33Z3R",
    "reward": "200 Cash And XP"
+  },
+  {
+   "code": "TechnobladeNeverDies",
+   "reward": "Techno Tower"
   },
   {
    "code": "Clean",
@@ -27,6 +27,6 @@
    "reward": "400 Cash"
   }
  ],
- "updated": "2026-08-18T03:16:48.906Z",
+ "updated": "2026-08-19T08:00:52.284Z",
  "source": "https://robloxden.com/game-codes/retro-tds"
 }

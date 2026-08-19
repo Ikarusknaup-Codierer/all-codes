@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "100MSurprise",
+   "code": "BlackFriday2020",
+   "reward": "Bacoins"
+  },
+  {
+   "code": "60MGift",
    "reward": "Bacoins"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "the Chromatic Knife"
   },
   {
-   "code": "Cleetus",
-   "reward": "the Flamingo Knife"
-  },
-  {
    "code": "Winter2020",
    "reward": "the Sweet Winter 2020 Knife"
   }
  ],
- "updated": "2026-08-18T03:17:24.521Z",
+ "updated": "2026-08-19T08:01:20.310Z",
  "source": "https://robloxden.com/game-codes/bakon"
 }

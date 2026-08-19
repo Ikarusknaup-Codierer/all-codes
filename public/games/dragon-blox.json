@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NEWSETS",
-   "reward": "5 Premium Wish Tokens"
-  },
-  {
    "code": "MOREUPDATESINC",
    "reward": "10 Premium Wish Tokens"
   },
@@ -19,16 +15,40 @@
    "reward": "10 Premium Wish Tokens"
   },
   {
-   "code": "SUMMERQOL",
-   "reward": "5 Premium Wish Tokens"
-  },
-  {
    "code": "SECRETCODE",
    "reward": "10 Premium Wishes . You must have at least 150 Rebirths to use this co"
   },
   {
+   "code": "NEWSETS",
+   "reward": "5 Premium Wish Tokens"
+  },
+  {
+   "code": "SUMMERQOL",
+   "reward": "5 Premium Wish Tokens"
+  },
+  {
+   "code": "SUMMERUPD",
+   "reward": "5 Premium Wishes"
+  },
+  {
+   "code": "FATHERSDAY",
+   "reward": "5 Premium Wishes and 5 Race Spins"
+  },
+  {
+   "code": "75K",
+   "reward": "5 Premium Wishes and 5 Race Spins"
+  },
+  {
    "code": "FIXESANDQOL",
    "reward": "10 Premium Wishes and 10 Race Spins . You must have at least 150 Rebir"
+  },
+  {
+   "code": "JUNEDB",
+   "reward": "5 Premium Wishes and 5 Race Spins"
+  },
+  {
+   "code": "QUALITYUPDATE",
+   "reward": "5 Premium Wishes and 5 Race Spins"
   },
   {
    "code": "OPTIMIZEDB",
@@ -101,28 +121,8 @@
   {
    "code": "BOOSTED",
    "reward": "10 Premium Wishes"
-  },
-  {
-   "code": "SUMMERUPD",
-   "reward": "5 Premium Wishes"
-  },
-  {
-   "code": "FATHERSDAY",
-   "reward": "5 Premium Wishes and 5 Race Spins"
-  },
-  {
-   "code": "75K",
-   "reward": "5 Premium Wishes and 5 Race Spins"
-  },
-  {
-   "code": "JUNEDB",
-   "reward": "5 Premium Wishes and 5 Race Spins"
-  },
-  {
-   "code": "QUALITYUPDATE",
-   "reward": "5 Premium Wishes and 5 Race Spins"
   }
  ],
- "updated": "2026-08-18T03:17:06.695Z",
+ "updated": "2026-08-19T08:01:05.991Z",
  "source": "https://robloxden.com/game-codes/dragon-blox"
 }

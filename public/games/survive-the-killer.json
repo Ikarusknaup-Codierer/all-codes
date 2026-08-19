@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "MASHEDPOTATOES",
-   "reward": "Purple Pinstripe Knife"
+   "code": "CRAFTING",
+   "reward": "the Iridescent Slycer Crafting Recipe"
   },
   {
-   "code": "CUPID",
-   "reward": "Heartbreaker Knife"
+   "code": "CRATESSOON",
+   "reward": "Patched Knife"
   },
   {
-   "code": "MOREPOWER",
-   "reward": "Machine Dagger"
+   "code": "HAPPYNEWYEAR",
+   "reward": "2022 New Year Slycer Knife"
+  },
+  {
+   "code": "WhatsTheCode",
+   "reward": "300k Knife"
   },
   {
    "code": "OOPSIES",
    "reward": "the Oopsie Daisies Weapon"
-  },
-  {
-   "code": "DESYNC",
-   "reward": "the Broken Clock Knife"
   }
  ],
- "updated": "2026-08-18T03:19:31.411Z",
+ "updated": "2026-08-19T08:03:17.682Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

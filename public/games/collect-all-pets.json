@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Zazu",
-   "reward": "2 hours of x2 Metallic Boost"
-  },
-  {
    "code": "Fortune",
    "reward": "Double Gold Boost (2 Hours)"
   },
@@ -205,8 +201,12 @@
   {
    "code": "Louis",
    "reward": "2 hours of x2 Shiny Boost"
+  },
+  {
+   "code": "Zazu",
+   "reward": "2 hours of x2 Metallic Boost"
   }
  ],
- "updated": "2026-08-18T03:18:55.444Z",
+ "updated": "2026-08-19T08:02:43.384Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

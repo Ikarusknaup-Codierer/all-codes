@@ -7,26 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "7000LIKES",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "B21",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "HELICOPTER",
+   "reward": "4,000 Cash"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "$10k Cash"
+  },
+  {
+   "code": "JUNGLE",
+   "reward": "15,000 Cash"
+  },
+  {
    "code": "NEW",
    "reward": "2,500 Cash"
-  },
-  {
-   "code": "JANUARY",
-   "reward": "1,300 Cash"
-  },
-  {
-   "code": "EPICUPD",
-   "reward": "5k Cash"
-  },
-  {
-   "code": "HOLIDAYS21",
-   "reward": "$25k Cash"
-  },
-  {
-   "code": "EGYPT",
-   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-08-18T03:15:40.011Z",
+ "updated": "2026-08-19T07:59:54.190Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

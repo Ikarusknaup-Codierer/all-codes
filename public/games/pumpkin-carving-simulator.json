@@ -11,18 +11,22 @@
    "reward": "100 Candy"
   },
   {
+   "code": "Monsters",
+   "reward": "100 Candy"
+  },
+  {
+   "code": "Ghosts",
+   "reward": "100 Candy"
+  },
+  {
    "code": "Skeleton",
    "reward": "100 Candy"
   },
   {
-   "code": "TrickOrTreat",
-   "reward": "100 Candy"
-  },
-  {
-   "code": "PumpkinPatch",
+   "code": "Pets",
    "reward": "100 Candy"
   }
  ],
- "updated": "2026-08-18T03:21:12.638Z",
+ "updated": "2026-08-19T08:04:46.455Z",
  "source": "https://robloxden.com/game-codes/pumpkin-carving-simulator"
 }

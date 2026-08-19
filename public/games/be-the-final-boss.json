@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "noherocanwin",
+   "reward": "3 Epic Fusion Shards and 1 Shard Drop Boost"
+  },
+  {
    "code": "raidthecastle",
    "reward": "6 Rare Fusion Shards and 3 Forge Stones"
   },
@@ -59,6 +63,6 @@
    "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-08-18T03:18:35.261Z",
+ "updated": "2026-08-19T08:02:24.230Z",
  "source": "https://robloxden.com/game-codes/be-the-final-boss"
 }

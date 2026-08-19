@@ -27,10 +27,6 @@
    "reward": "25 Dragon Coins and a Manga Present"
   },
   {
-   "code": "900KLIKES",
-   "reward": "150 Crystals"
-  },
-  {
    "code": "RIA2026",
    "reward": "a Developer Gift"
   },
@@ -57,8 +53,12 @@
   {
    "code": "PRIDE26",
    "reward": "the Rainbow Title and a Developer Gift"
+  },
+  {
+   "code": "900KLIKES",
+   "reward": "150 Crystals"
   }
  ],
- "updated": "2026-08-18T03:20:48.755Z",
+ "updated": "2026-08-19T08:04:25.699Z",
  "source": "https://robloxden.com/game-codes/world-zero"
 }

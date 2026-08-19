@@ -11,22 +11,22 @@
    "reward": "300 Cash"
   },
   {
+   "code": "30m",
+   "reward": "$300 in-game dollars"
+  },
+  {
    "code": "blacklivesmatter",
    "reward": "2,000 Cash"
   },
   {
-   "code": "transrights",
-   "reward": ""
+   "code": "release",
+   "reward": "100 Cash"
   },
   {
-   "code": "BUNDLE",
-   "reward": "50 Cash"
-  },
-  {
-   "code": "MULLETS",
-   "reward": "300 Cash"
+   "code": "BEAST4",
+   "reward": "500 Cash"
   }
  ],
- "updated": "2026-08-18T03:16:41.840Z",
+ "updated": "2026-08-19T08:00:45.054Z",
  "source": "https://robloxden.com/game-codes/captive"
 }

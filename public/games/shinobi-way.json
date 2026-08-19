@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "35KLIKES",
+   "reward": "5 Spins"
+  },
+  {
    "code": "EVILFOX",
    "reward": "Double Drops (15 Minutes)"
   },
@@ -19,18 +23,18 @@
    "reward": "10 Spins"
   },
   {
-   "code": "UPDATE05",
-   "reward": "a Stat Refund"
-  },
-  {
    "code": "30KLIKES",
    "reward": "5 Spins"
   },
   {
    "code": "25KLIKES",
    "reward": "10 Spins"
+  },
+  {
+   "code": "UPDATE05",
+   "reward": "a Stat Refund"
   }
  ],
- "updated": "2026-08-18T08:08:16.840Z",
+ "updated": "2026-08-19T14:13:15.322Z",
  "source": "https://robloxden.com/game-codes/shinobi-way"
 }

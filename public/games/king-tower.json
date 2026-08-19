@@ -11,6 +11,10 @@
    "reward": "200 Shards"
   },
   {
+   "code": "NOOOSECRET",
+   "reward": "1,000 Shards"
+  },
+  {
    "code": "FROSTSORCERERSORRY",
    "reward": "1,000 Coins"
   },
@@ -19,14 +23,10 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "SORRYFORDELAY",
-   "reward": "100 Shards"
-  },
-  {
    "code": "10KLIKES",
    "reward": "2,000 Coins"
   }
  ],
- "updated": "2026-08-18T08:08:10.088Z",
+ "updated": "2026-08-19T14:13:09.515Z",
  "source": "https://robloxden.com/game-codes/king-tower"
 }

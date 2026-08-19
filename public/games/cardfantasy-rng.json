@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORDELAY",
+   "reward": "Freebies"
+  },
+  {
+   "code": "REBIRTHUPD1",
+   "reward": "Freebies"
+  },
+  {
+   "code": "GUILDOVERHAUL",
+   "reward": "Freebies"
+  },
+  {
+   "code": "AUTUMNEVENT",
+   "reward": "Freebies"
+  },
+  {
    "code": "REBIRTH",
    "reward": "rewards"
   },
@@ -31,6 +47,6 @@
    "reward": "3 Summer Luck Potions , 20 Roll Speed III , and 20 Shiny Luck III"
   }
  ],
- "updated": "2026-08-18T08:08:17.929Z",
+ "updated": "2026-08-19T14:13:16.328Z",
  "source": "https://robloxden.com/game-codes/cardfantasy-rng"
 }

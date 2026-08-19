@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "AAnever",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "3DDelay",
+   "reward": "70 Traits"
+  },
+  {
    "code": "SummerUpd",
    "reward": "15,000 Cash"
   },
@@ -99,6 +107,6 @@
    "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-08-18T14:08:40.259Z",
+ "updated": "2026-08-19T14:15:23.485Z",
  "source": "https://robloxden.com/game-codes/cursed-tower-defense"
 }

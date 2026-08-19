@@ -7,6 +7,50 @@
    "reward": "Description"
   },
   {
+   "code": "royalcup",
+   "reward": "1 Royal Potion"
+  },
+  {
+   "code": "happycup",
+   "reward": "5 Cocktail Potions"
+  },
+  {
+   "code": "spacegift",
+   "reward": "2 Void Eggs and 5 Timeless Eggs"
+  },
+  {
+   "code": "ancientgift",
+   "reward": "10 Timeless Eggs"
+  },
+  {
+   "code": "clockgift",
+   "reward": "5 Timeless Eggs"
+  },
+  {
+   "code": "voidpair",
+   "reward": "2 Void Eggs"
+  },
+  {
+   "code": "voidcrate",
+   "reward": "1 Void Egg"
+  },
+  {
+   "code": "juiceblend",
+   "reward": "3 Cocktail Potions"
+  },
+  {
+   "code": "cashpeel",
+   "reward": "5 Cash Potions and 10 Bananas"
+  },
+  {
+   "code": "strongfruit",
+   "reward": "5 Power Potions and 10 Apples"
+  },
+  {
+   "code": "carrotluck",
+   "reward": "5 Luck Potions and 10 Carrots"
+  },
+  {
    "code": "voidyy",
    "reward": "2 Void Eggs"
   },
@@ -95,6 +139,6 @@
    "reward": "5 Power Potions and 10 Apple Fruits"
   }
  ],
- "updated": "2026-08-18T08:05:46.632Z",
+ "updated": "2026-08-19T14:11:09.202Z",
  "source": "https://robloxden.com/game-codes/launch-a-wheel"
 }

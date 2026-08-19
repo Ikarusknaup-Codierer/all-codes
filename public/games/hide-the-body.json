@@ -15,18 +15,18 @@
    "reward": "a Rare Crate"
   },
   {
-   "code": "ARCADE",
+   "code": "200M",
    "reward": "rewards"
-  },
-  {
-   "code": "OnceCommonCrate",
-   "reward": "a Common Crate"
   },
   {
    "code": "HereBeUpdate",
    "reward": "rewards"
+  },
+  {
+   "code": "MoreCode",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-08-18T08:09:26.078Z",
+ "updated": "2026-08-19T14:13:49.317Z",
  "source": "https://robloxden.com/game-codes/hide-the-body"
 }

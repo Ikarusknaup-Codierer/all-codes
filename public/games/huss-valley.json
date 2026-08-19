@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE4",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "1000LIKES",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "500PLAYERS",
    "reward": "500 Coins"
   },
   {
-   "code": "UPDATE3",
+   "code": "100LIKES",
    "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-08-18T08:04:02.720Z",
+ "updated": "2026-08-19T14:09:38.166Z",
  "source": "https://robloxden.com/game-codes/huss-valley"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "freshieeventsoon",
+   "reward": "Freebies"
+  },
+  {
+   "code": "ServerMemberMilestone",
+   "reward": "Freebies"
+  },
+  {
+   "code": "NineKFavs",
+   "reward": "Freebies"
+  },
+  {
+   "code": "ValidEvent",
+   "reward": "Freebies"
+  },
+  {
    "code": "WorkingOvertime",
    "reward": "Freebies"
   },
@@ -39,22 +55,6 @@
    "reward": "Freebies"
   },
   {
-   "code": "WakeUpSnow",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "JusticeForBountyHunters",
-   "reward": "4,000 Doubloons"
-  },
-  {
-   "code": "1kDamageBakugo",
-   "reward": "1,000 Doubloons"
-  },
-  {
-   "code": "PlaceYourBetsOnARevive",
-   "reward": "1,200 Doubloons"
-  },
-  {
    "code": "IAMNOTBUFFINGYOURFRUIT",
    "reward": "Free rewards"
   },
@@ -63,75 +63,11 @@
    "reward": "Free rewards"
   },
   {
-   "code": "RevsDoomed",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "JahNotAgain!",
-   "reward": "Free rewards"
-  },
-  {
    "code": "KAGEPIRATES",
    "reward": "Free rewards"
   },
   {
-   "code": "CapturedAndSad",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "BariSorry",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "Ketchup",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "Shambles",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "DragonGone",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "NoMoreSpam!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "DemonHome",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "OwnerBeInactive",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "UpdateHopefullySoon",
-   "reward": "Free rewards"
-  },
-  {
    "code": "2500KLikes",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "10KServerMembers!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "15KGroupMembers!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "7kFavs!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "1MVisits!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "FourHundooPlayers!",
    "reward": "Free rewards"
   },
   {
@@ -143,15 +79,7 @@
    "reward": "Free rewards"
   },
   {
-   "code": "TheLongAwaitIsLifted!",
-   "reward": "Free rewards"
-  },
-  {
    "code": "TheLongAwaitIsLifted2!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "KamiFix",
    "reward": "Free rewards"
   },
   {
@@ -159,59 +87,7 @@
    "reward": "Free rewards"
   },
   {
-   "code": "BANDS2HUNDOS!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "CleanupCrew",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "BANDSSECRETMISSION!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "5KCELEBRATION!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "ThanksForTrustingInSnow",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "BANDSLOVE",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "OneHundooo",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "FiveHundoFavs",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "PlayerSkyRocket",
-   "reward": "Free rewards"
-  },
-  {
    "code": "AlwaysBetOnSinExceedToDeliver!",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "SeishinStronger",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "CloudInClouds",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "ARC2OVER",
-   "reward": "Free rewards"
-  },
-  {
-   "code": "DutyTheSnake!",
    "reward": "Free rewards"
   },
   {
@@ -331,6 +207,158 @@
    "reward": "Doubloons"
   },
   {
+   "code": "MMModsIGotUTomorrow",
+   "reward": "100 Doubloons"
+  },
+  {
+   "code": "YouWillBeDealtWithShortlyJah",
+   "reward": "100 Doubloons"
+  },
+  {
+   "code": "YonkoChild",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "WakeUpSnow",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "JusticeForBountyHunters",
+   "reward": "4,000 Doubloons"
+  },
+  {
+   "code": "1kDamageBakugo",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "PlaceYourBetsOnARevive",
+   "reward": "1,200 Doubloons"
+  },
+  {
+   "code": "RevsDoomed",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "JahNotAgain!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "CapturedAndSad",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BariSorry",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Ketchup",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "Shambles",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "DragonGone",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "NoMoreSpam!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "DemonHome",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "OwnerBeInactive",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "UpdateHopefullySoon",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "10KServerMembers!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "15KGroupMembers!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "7kFavs!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "1MVisits!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "FourHundooPlayers!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "TheLongAwaitIsLifted!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "KamiFix",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BANDS2HUNDOS!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "CleanupCrew",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BANDSSECRETMISSION!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "5KCELEBRATION!",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "ThanksForTrustingInSnow",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "BANDSLOVE",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "OneHundooo",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "FiveHundoFavs",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "PlayerSkyRocket",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "SeishinStronger",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "CloudInClouds",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "ARC2OVER",
+   "reward": "Free rewards"
+  },
+  {
+   "code": "DutyTheSnake!",
+   "reward": "Free rewards"
+  },
+  {
    "code": "IMTAKINGABREAK",
    "reward": "600 Doubloons"
   },
@@ -403,14 +431,6 @@
    "reward": "100 Doubloons"
   },
   {
-   "code": "MMModsIGotUTomorrow",
-   "reward": "100 Doubloons"
-  },
-  {
-   "code": "YouWillBeDealtWithShortlyJah",
-   "reward": "100 Doubloons"
-  },
-  {
    "code": "noodlesforpoodles",
    "reward": "Free rewards"
   },
@@ -425,10 +445,6 @@
   {
    "code": "Arc3Ending",
    "reward": "Free rewards"
-  },
-  {
-   "code": "YonkoChild",
-   "reward": "1,000 Doubloons"
   },
   {
    "code": "IDontCare",
@@ -475,6 +491,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-08-18T08:04:35.212Z",
+ "updated": "2026-08-19T14:10:04.354Z",
  "source": "https://robloxden.com/game-codes/new-seas"
 }

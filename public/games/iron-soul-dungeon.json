@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SEASON2OPEN",
+   "reward": "3 Season Lucky Tickets"
+  },
+  {
+   "code": "IRONSOULWEEKEND18",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "SEASON2ENDING",
+   "reward": "2 Race Rerolls and 200 Origin Shards"
+  },
+  {
    "code": "IRONSOULWEEKEND17",
    "reward": "3 Race Rerolls"
   },
@@ -39,24 +51,12 @@
    "reward": "2,000 Season Vouchers and 160 Origin Shards"
   },
   {
-   "code": "SEASON2OPEN",
-   "reward": "3 Season Lucky Tickets"
-  },
-  {
    "code": "IRONSOULWEEKEND13",
    "reward": "3 Race Rerolls"
   },
   {
    "code": "SEASON2LIVE",
    "reward": "3 Season Lucky Tickets"
-  },
-  {
-   "code": "IRONSOULWEEKEND18",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "SEASON2ENDING",
-   "reward": "2 Race Rerolls and 200 Origin Shards"
   },
   {
    "code": "EXPEDITIONFIX",
@@ -71,6 +71,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-08-18T08:03:25.198Z",
+ "updated": "2026-08-19T14:09:08.820Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

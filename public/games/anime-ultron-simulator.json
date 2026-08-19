@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SINS",
+   "reward": "20,000 Exchange Tokens"
+  },
+  {
+   "code": "30kfavorites",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "2millionvisits",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "LONGDELAY",
+   "reward": "1,000 Gems and 20 of Each Potion"
+  },
+  {
    "code": "SOLO",
    "reward": "100 Gems and 10 of each Potion"
   },
@@ -91,6 +107,6 @@
    "reward": "2 Clover Defense Keys"
   }
  ],
- "updated": "2026-08-18T08:01:10.415Z",
+ "updated": "2026-08-19T14:08:14.631Z",
  "source": "https://robloxden.com/game-codes/anime-ultron-simulator"
 }

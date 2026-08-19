@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "1KLikes",
+   "reward": "5 Luck Potions , 5 Coins Potions , 5 Drop Potions , 25 Pizza , 2 Shiny"
+  },
+  {
+   "code": "ShopTokens",
+   "reward": "Rewards"
+  },
+  {
    "code": "Traits",
    "reward": "25 Trait Tokens, 25 Burgers, 5 Coin Potions and 1 Shiny Dice"
   }
  ],
- "updated": "2026-08-18T08:04:12.470Z",
+ "updated": "2026-08-19T14:09:46.316Z",
  "source": "https://robloxden.com/game-codes/roll-anime-fighters"
 }

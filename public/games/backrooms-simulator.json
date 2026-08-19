@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MEOWDEV",
+   "reward": "300 Coins"
+  },
+  {
    "code": "VERITY",
    "reward": "10 Trait Reroll Crystals"
   },
@@ -31,6 +35,6 @@
    "reward": "2,000 Coins"
   }
  ],
- "updated": "2026-08-18T08:02:47.359Z",
+ "updated": "2026-08-19T14:08:44.565Z",
  "source": "https://robloxden.com/game-codes/backrooms-simulator"
 }

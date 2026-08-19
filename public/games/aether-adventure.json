@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "ResetStatsFree",
+   "reward": "a Free Stats Reset"
+  },
+  {
+   "code": "10KLIKES10SPINS",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "MOON10SPINS",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "MOON5DASHSPINS",
+   "reward": "5 Dash Spins"
   }
  ],
- "updated": "2026-08-18T08:03:38.268Z",
+ "updated": "2026-08-19T14:09:19.289Z",
  "source": "https://robloxden.com/game-codes/aether-adventure"
 }

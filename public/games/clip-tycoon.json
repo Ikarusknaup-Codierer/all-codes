@@ -15,14 +15,18 @@
    "reward": "x2 Money (5 Minutes)"
   },
   {
-   "code": "BUILDING",
-   "reward": "a Money Boost Potion (5 Minutes)"
-  },
-  {
    "code": "REMOTE",
    "reward": "Freebies"
+  },
+  {
+   "code": "1M",
+   "reward": "Freebies"
+  },
+  {
+   "code": "ALARM",
+   "reward": "Money Boost Potion"
   }
  ],
- "updated": "2026-08-18T14:08:49.627Z",
+ "updated": "2026-08-19T14:15:33.788Z",
  "source": "https://robloxden.com/game-codes/clip-tycoon"
 }

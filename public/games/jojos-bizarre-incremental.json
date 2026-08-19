@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY",
+   "reward": "2 Mythical Boxes , 50,000 Yen and 20 Stand Arrows"
+  },
+  {
+   "code": "HUEGONE",
+   "reward": "5 Mythical Boxes , 15,000 Yen and 25 Stand Arrows"
+  },
+  {
    "code": "NEWSTUFF",
    "reward": "5,000 XP , 50,000 Yen , 10 Stand Arrows , and 5 John's Fingers"
   },
@@ -75,6 +83,6 @@
    "reward": "5000 XP , 5000 Yen , 25 Stand Arrow , and 5 Mythical Giftbox"
   }
  ],
- "updated": "2026-08-18T08:06:23.433Z",
+ "updated": "2026-08-19T14:11:40.311Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

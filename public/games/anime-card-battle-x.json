@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "NARUTODELAY",
+   "reward": "200 Climate Rolls , 100 Battle Speed Potions , 5 Weather Tokens , 5 Fo"
+  },
+  {
+   "code": "NEWRAID",
+   "reward": "Potions , Tokens , and Rerolls . You need at least 100,000 rolls to us"
+  },
+  {
+   "code": "NARUTO",
+   "reward": "Potions , Tokens , and Rerolls . You need at least 150,000 rolls to us"
+  },
+  {
+   "code": "FEMBOYWEATHER",
+   "reward": "Potions , Tokens , and Rerolls . You need at least 200,000 rolls to us"
+  },
+  {
+   "code": "UPD10",
+   "reward": "Potions , Tokens , and Rerolls . You need at least 300,000 rolls to us"
+  },
+  {
    "code": "DELAYFATE",
    "reward": "100 Climate Rerolls , 10 Pleiades Four , 250 Battle Speed Potions , 50"
   },
@@ -143,6 +163,6 @@
    "reward": "Potions and Rolls"
   }
  ],
- "updated": "2026-08-18T08:05:56.436Z",
+ "updated": "2026-08-19T14:11:17.807Z",
  "source": "https://robloxden.com/game-codes/anime-card-battle-x"
 }

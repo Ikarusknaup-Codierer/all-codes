@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "CAFEUPDATE",
+   "reward": "25 Golden Fish and 2 Buttered Buns"
+  },
+  {
+   "code": "UPDATELOG3",
+   "reward": "35 Golden Fish"
+  },
+  {
+   "code": "SUMMERTIME",
+   "reward": "50 Golden Fish"
+  },
+  {
    "code": "VOIDLEAK",
    "reward": "50 Golden Fish and 1 Million Coins"
   },
@@ -21,24 +33,8 @@
   {
    "code": "FATCATUPDATE",
    "reward": "30 Golden Fish"
-  },
-  {
-   "code": "CAFEUPDATE",
-   "reward": "25 Golden Fish and 2 Buttered Buns"
-  },
-  {
-   "code": "COFFEE",
-   "reward": "25 Golden Fish and 2 Steamed Milk"
-  },
-  {
-   "code": "UPDATELOG3",
-   "reward": "35 Golden Fish"
-  },
-  {
-   "code": "SUMMERTIME",
-   "reward": "50 Golden Fish"
   }
  ],
- "updated": "2026-08-18T08:05:32.209Z",
+ "updated": "2026-08-19T14:10:55.613Z",
  "source": "https://robloxden.com/game-codes/care-for-cats"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SWORD",
-   "reward": "500 Stardusts"
-  },
-  {
    "code": "CASH",
    "reward": "777"
   },
@@ -23,6 +19,10 @@
    "reward": "300 Tickets"
   },
   {
+   "code": "SWORD",
+   "reward": "500 Stardusts"
+  },
+  {
    "code": "RAIN",
    "reward": "500 Stardust"
   },
@@ -31,6 +31,6 @@
    "reward": "1K Coins"
   }
  ],
- "updated": "2026-08-18T08:07:02.222Z",
+ "updated": "2026-08-19T14:12:13.067Z",
  "source": "https://robloxden.com/game-codes/tower-adventure"
 }

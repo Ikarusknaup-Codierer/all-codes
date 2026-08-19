@@ -5,8 +5,48 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "EarlyGame",
+   "reward": "20 Pokeballs , 10 Super Potions , 10 Revives , 10 Full Heals , 10 UMV "
+  },
+  {
+   "code": "RoPowerFreebie",
+   "reward": "Shiny RoPower (1 Hour) and Legend RoPower (1 Hour) . You must have 1 G"
+  },
+  {
+   "code": "MidGame",
+   "reward": "10 Quick Balls , 10 Full Heals , 10 Revives , 10 Hyper Potions , 30,00"
+  },
+  {
+   "code": "BreederPack",
+   "reward": "a Destiny Knot , an Everstone , a Soothe Bell , 2,000 Tix , and 80 BP "
+  },
+  {
+   "code": "EVPack",
+   "reward": "10 PP Max , 10 of each EV Vitamin , 200 BP , 10,000 Tix , and 75,000 P"
+  },
+  {
+   "code": "CollectorPack",
+   "reward": "3 Lucky Eggs , 20 Rare Candies , 20 Link Stones , 20 Luxury Balls , 20"
+  },
+  {
+   "code": "PermanentPackage",
+   "reward": "4,500 BP , 45,000 Tix , 450,000 Pokedollars , Legend RoPower (2 Hours)"
+  },
+  {
+   "code": "EndGame",
+   "reward": "10 UMV Batteries , a Macho Brace , an Ability Capsule , an Ability Pat"
+  },
+  {
+   "code": "CompetitivePack",
+   "reward": "an Ability Patch , an Ability Capsule , 10 Bottle Caps , 100,000 Poked"
+  },
+  {
+   "code": "ChampionOfRoria",
+   "reward": "20 UMV Batteries , 10 Bottle Caps , 10 Ability Capsules , 5 Ability Pa"
   }
  ],
- "updated": "2026-08-18T08:03:37.217Z",
+ "updated": "2026-08-19T14:09:18.336Z",
  "source": "https://robloxden.com/game-codes/pokemon-brick-bronze-roria-conquest-1skh"
 }

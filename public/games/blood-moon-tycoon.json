@@ -11,10 +11,6 @@
    "reward": "2,500 Rubies"
   },
   {
-   "code": "holidaycheer",
-   "reward": "1,000 Sapphires"
-  },
-  {
    "code": "winterwealth",
    "reward": "2,500 Sapphires"
   },
@@ -25,8 +21,12 @@
   {
    "code": "corrupted",
    "reward": "1,000 Gamma Gems"
+  },
+  {
+   "code": "itsabouttime",
+   "reward": "1,000 Sapphires"
   }
  ],
- "updated": "2026-08-18T08:03:11.068Z",
+ "updated": "2026-08-19T14:08:59.259Z",
  "source": "https://robloxden.com/game-codes/blood-moon-tycoon"
 }

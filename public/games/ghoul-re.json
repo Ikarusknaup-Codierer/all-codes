@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "GPCAPREMOVAL",
+   "reward": "1000 GP"
+  },
+  {
+   "code": "HTHGAMES",
+   "reward": "500 GP"
+  },
+  {
+   "code": "GREBUGFIXES",
+   "reward": "500 GP"
+  },
+  {
+   "code": "HTH",
+   "reward": "1,000 GP"
+  },
+  {
    "code": "grewillbegreatagain",
    "reward": "300 GP"
   },
@@ -23,6 +39,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-08-18T08:07:42.405Z",
+ "updated": "2026-08-19T14:12:45.176Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

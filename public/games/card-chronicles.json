@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORMAINTENANCE!",
+   "reward": "rewards . You must have at least 50,000 Rolls to use this code"
+  },
+  {
+   "code": "LARPMONSTER!",
+   "reward": "rewards . You must have at least 50,000 Rolls to use this code"
+  },
+  {
+   "code": "NEWSTORYMAP!",
+   "reward": "rewards . You must have at least 50,000 Rolls to use this code"
+  },
+  {
+   "code": "RAIDS!",
+   "reward": "35 Luck Potion IIIs , 35 Roll Speed Potion IIIs , and 15 Trait Rerolls"
+  },
+  {
    "code": "WORLDCUP!",
    "reward": "Free Rewards . You must have at least 50,000 Rolls to use this code"
   },
@@ -95,6 +111,6 @@
    "reward": "3x Luck Potion III , 3x Roll Speed Potion III , 3x Battle Speed Potion"
   }
  ],
- "updated": "2026-08-18T08:01:47.172Z",
+ "updated": "2026-08-19T14:08:21.021Z",
  "source": "https://robloxden.com/game-codes/card-chronicles"
 }

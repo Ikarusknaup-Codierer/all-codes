@@ -15,6 +15,10 @@
    "reward": "50 Souls , 550,000 EXP , 150,000 DT , and 200 G"
   },
   {
+   "code": "TUTORIALCODE",
+   "reward": "40 Souls, 35,000 XP, 38,000 DT, 500 Gold"
+  },
+  {
    "code": "FREEGOLD",
    "reward": "1 Exp , 1 Soul , 1 DT and 500 Gold"
   },
@@ -33,10 +37,6 @@
   {
    "code": "GGTOUNDERFELL",
    "reward": ""
-  },
-  {
-   "code": "TUTORIALCODE",
-   "reward": "40 Souls, 35,000 XP, 38,000 DT, 500 Gold"
   },
   {
    "code": "SORRYGENO2",
@@ -127,6 +127,6 @@
    "reward": "1 Exp , 1 Soul , 1 DT , 500 Gold , 1 Life Ink , 1 Life Genosans and 1 "
   }
  ],
- "updated": "2026-08-19T03:22:29.438Z",
+ "updated": "2026-08-20T08:10:46.284Z",
  "source": "https://robloxden.com/game-codes/undertale-arena"
 }

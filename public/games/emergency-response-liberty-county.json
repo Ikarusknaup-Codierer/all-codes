@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "PHONE5",
-   "reward": "5,000 Cash"
+   "code": "POLICEWEEK24",
+   "reward": "2x Law Enforcement XP Boost (48 hours)"
   },
   {
-   "code": "OnPatrol1",
-   "reward": "7,500 Cash"
-  },
-  {
-   "code": "WELCOME2024",
-   "reward": "5,000 Cash"
+   "code": "HONOR24",
+   "reward": "Police Week Uniform"
   },
   {
    "code": "PW23-PATROL",
    "reward": "1 License Plate and Badge"
   },
   {
-   "code": "POLICEWEEK23",
-   "reward": "2,500 Cash"
+   "code": "PW23-HONOR",
+   "reward": "1 Uniform and Badge"
+  },
+  {
+   "code": "ONPATROL",
+   "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-08-19T08:02:53.288Z",
+ "updated": "2026-08-20T08:15:47.807Z",
  "source": "https://robloxden.com/game-codes/emergency-response-liberty-county"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ThousandChads",
+   "code": "3500Likes",
+   "reward": "5 Levels"
+  },
+  {
+   "code": "LuckyWeekend",
    "reward": "Reward"
   },
   {
-   "code": "LiberatorMeta",
-   "reward": "10 Liberator"
-  },
-  {
-   "code": "5000Likes",
-   "reward": "10 Upgrade Tokens"
-  },
-  {
-   "code": "7500Likes",
-   "reward": "100 Free Rolls"
+   "code": "GoldRushMillion",
+   "reward": "1,000,000 of 2x Money Boost"
   },
   {
    "code": "225Likes",
    "reward": "750 Money"
+  },
+  {
+   "code": "750Likes",
+   "reward": "5 Levels"
   }
  ],
- "updated": "2026-08-19T03:20:30.314Z",
+ "updated": "2026-08-20T08:09:15.297Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

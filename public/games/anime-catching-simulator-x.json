@@ -11,7 +11,11 @@
    "reward": "300 Gold and 2x Gold Boost (15 minutes)"
   },
   {
-   "code": "JUSTAJOKE",
+   "code": "WEEKENDGIFT",
+   "reward": "5 Money Boosts, 5 Lucky Boosts, And 5 Power Boosts"
+  },
+  {
+   "code": "FAKECODE",
    "reward": "100 Summer Coins"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "100 Summer Coins"
   },
   {
-   "code": "250KLIKES",
-   "reward": "Imortal Bunny Hero, 5 Money Boosts, 5 Lucky Boosts, And 5 Power Boosts"
-  },
-  {
-   "code": "SOCIAL",
-   "reward": "2 Summer Tokens, 500 Title Tokens, And 10K Toilets Coins"
+   "code": "SKIBIDI",
+   "reward": "100 Skibidi Toilets Piece"
   }
  ],
- "updated": "2026-08-19T03:18:56.126Z",
+ "updated": "2026-08-20T08:07:34.367Z",
  "source": "https://robloxden.com/game-codes/anime-catching-simulator-x"
 }

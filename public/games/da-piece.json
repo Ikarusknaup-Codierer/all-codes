@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "K1NGTANK13",
-   "reward": "1,000 XP"
+   "code": "B0SSP1RATE",
+   "reward": "1 Skill Reset"
+  },
+  {
+   "code": "EV1LMAR1NE",
+   "reward": "1 Stat Reset"
+  },
+  {
+   "code": "NAM1SG0LD",
+   "reward": "30,000 Beli"
   },
   {
    "code": "B1GMERA",
    "reward": "1 Stat Reset"
   },
   {
-   "code": "SYRUPV1LLAG3",
-   "reward": "15,000 Beli"
-  },
-  {
-   "code": "L3GENDARY_FRU1T",
-   "reward": "1,000 XP"
-  },
-  {
-   "code": "B1GR3S3T",
-   "reward": "1 Stat Reset"
+   "code": "BLOX_FRUITS",
+   "reward": "a 15 Minute 2x XP Boost"
   }
  ],
- "updated": "2026-08-19T08:00:13.918Z",
+ "updated": "2026-08-20T08:12:53.600Z",
  "source": "https://robloxden.com/game-codes/da-piece"
 }

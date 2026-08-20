@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TAMBRUSHISBACKFNF",
-   "reward": "the FNF Speaker"
-  },
-  {
    "code": "XMAS2O21",
    "reward": "the Candy Cane Animation"
   },
@@ -19,14 +15,18 @@
    "reward": "Candy Cane Animation"
   },
   {
+   "code": "100M",
+   "reward": "500 Points"
+  },
+  {
    "code": "HALFBILLION",
    "reward": "500 Points"
   },
   {
-   "code": "TAMBRUSHISBACK",
-   "reward": "the FNAF Speaker"
+   "code": "9KEYISHERE",
+   "reward": "500 Points"
   }
  ],
- "updated": "2026-08-19T08:01:49.781Z",
+ "updated": "2026-08-20T08:14:41.207Z",
  "source": "https://robloxden.com/game-codes/funky-friday"
 }

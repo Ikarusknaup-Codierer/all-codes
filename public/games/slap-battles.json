@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "TheHaunt",
-   "reward": "200"
+   "code": "MUT4TE",
+   "reward": "100 Null Shards"
   },
   {
-   "code": "DELAYLIS",
-   "reward": "Free Rewards"
+   "code": "1x1x1x1x1x1",
+   "reward": "a free reward"
+  },
+  {
+   "code": "TheHaunt",
+   "reward": "200"
   },
   {
    "code": "SANTABOSS",
@@ -21,12 +25,8 @@
   {
    "code": "BATEVENT",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "Balance",
-   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-19T03:19:39.967Z",
+ "updated": "2026-08-20T08:08:15.842Z",
  "source": "https://robloxden.com/game-codes/slap-battles"
 }

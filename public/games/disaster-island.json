@@ -11,22 +11,22 @@
    "reward": "1 Mini Potion , 1 Giant Potion and 500 Credits"
   },
   {
-   "code": "500LIKES",
-   "reward": "1 Double Credits Boost"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "450 Credits"
-  },
-  {
    "code": "EthanGamerTV",
    "reward": "A Reward"
   },
   {
+   "code": "50KLIKES",
+   "reward": "20 Presents"
+  },
+  {
    "code": "35KLIKES",
    "reward": "1 Mini Potion , 1 Giant Potion and 500 Credits"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "500 Credits and 2x Credit Boost (30 minutes)"
   }
  ],
- "updated": "2026-08-19T08:00:39.875Z",
+ "updated": "2026-08-20T08:13:27.761Z",
  "source": "https://robloxden.com/game-codes/disaster-island"
 }

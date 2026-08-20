@@ -15,14 +15,18 @@
    "reward": "1,000 Cash"
   },
   {
-   "code": "updated",
+   "code": "mysterybox",
    "reward": "Reward"
   },
   {
-   "code": "veryhappy",
+   "code": "comesoon",
+   "reward": "1 Likes Box"
+  },
+  {
+   "code": "betterfuture",
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-19T03:17:54.001Z",
+ "updated": "2026-08-20T08:06:26.696Z",
  "source": "https://robloxden.com/game-codes/hide-and-sneak"
 }

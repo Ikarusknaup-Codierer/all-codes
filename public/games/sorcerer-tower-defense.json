@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "TradingIsBack",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "Delay",
+   "reward": "3,500 Gems"
+  },
+  {
+   "code": "JusticeMattersMost",
+   "reward": "1,261 Culling Points"
+  },
+  {
+   "code": "HelicopterHelicopter",
+   "reward": "5,000 Coins"
+  },
+  {
    "code": "CullingGame",
    "reward": "2,000 Culling Points"
   },
@@ -129,24 +145,8 @@
   {
    "code": "NewLobby",
    "reward": "999 Coins"
-  },
-  {
-   "code": "TradingIsBack",
-   "reward": "1,000 Gems"
-  },
-  {
-   "code": "Delay",
-   "reward": "3,500 Gems"
-  },
-  {
-   "code": "JusticeMattersMost",
-   "reward": "1,261 Culling Points"
-  },
-  {
-   "code": "HelicopterHelicopter",
-   "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-08-18T19:26:33.424Z",
+ "updated": "2026-08-20T03:20:53.324Z",
  "source": "https://robloxden.com/game-codes/sorcerer-tower-defense"
 }

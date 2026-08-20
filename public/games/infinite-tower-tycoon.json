@@ -19,14 +19,6 @@
    "reward": "Cash"
   },
   {
-   "code": "CODEPOWER",
-   "reward": "Cash"
-  },
-  {
-   "code": "WEAPON",
-   "reward": "Cash"
-  },
-  {
    "code": "DEATH",
    "reward": "Cash"
   },
@@ -80,10 +72,6 @@
   },
   {
    "code": "500LIKES",
-   "reward": "10,000 Cash"
-  },
-  {
-   "code": "RELEASE",
    "reward": "10,000 Cash"
   },
   {
@@ -181,8 +169,20 @@
   {
    "code": "HIDDENCODE",
    "reward": "Cash"
+  },
+  {
+   "code": "CODEPOWER",
+   "reward": "Cash"
+  },
+  {
+   "code": "WEAPON",
+   "reward": "Cash"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-08-18T19:26:59.473Z",
+ "updated": "2026-08-20T03:21:23.392Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "FANPAGE",
-   "reward": "2,000 Rubies"
-  },
-  {
-   "code": "JOXTER2024",
-   "reward": "3,000 Rubies"
-  },
-  {
-   "code": "HUGGYNIGHT2024",
+   "code": "200MVISITS",
    "reward": "500 Emeralds"
   },
   {
-   "code": "WEWILLNOTGIVEUP",
+   "code": "DOGGDAY2024",
+   "reward": "a reward"
+  },
+  {
+   "code": "SPIDERBACKPACK",
+   "reward": "a reward"
+  },
+  {
+   "code": "VALENTINEDAY2023",
    "reward": "a reward"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "600 Gems"
   }
  ],
- "updated": "2026-08-18T19:25:16.282Z",
+ "updated": "2026-08-20T03:19:46.257Z",
  "source": "https://robloxden.com/game-codes/project-monster"
 }

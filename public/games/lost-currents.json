@@ -11,22 +11,22 @@
    "reward": "10 Gold"
   },
   {
-   "code": "20MILLIONSOFVISITS",
+   "code": "SCIENTIST",
    "reward": "20 Gold"
   },
   {
-   "code": "15MILLIONSOFVISITS",
+   "code": "50KLIKES",
+   "reward": "15 Gold"
+  },
+  {
+   "code": "SINGLEPLAYER",
    "reward": "20 Gold"
   },
   {
-   "code": "10MILLIONSOFVISITS",
-   "reward": "25 Gold"
-  },
-  {
-   "code": "TRIDENT",
-   "reward": "25 Gold"
+   "code": "SUMMER2025",
+   "reward": "20 Gold"
   }
  ],
- "updated": "2026-08-18T19:23:12.485Z",
+ "updated": "2026-08-20T03:17:15.473Z",
  "source": "https://robloxden.com/game-codes/lost-currents"
 }

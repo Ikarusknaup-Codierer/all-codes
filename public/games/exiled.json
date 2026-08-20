@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "20MVISITS",
+   "reward": "Free rewards"
+  },
+  {
    "code": "30KLIKES",
    "reward": "Free rewards"
   },
   {
-   "code": "2RELEASE",
-   "reward": ""
+   "code": "BUGFIX",
+   "reward": "Free rewards"
   },
   {
-   "code": "RELEASE",
-   "reward": "1,500 Tokens"
-  },
-  {
-   "code": "10MILLIONVISITS",
-   "reward": "1,000 Tokens"
-  },
-  {
-   "code": "BEWITCHEDMYSTERIES",
+   "code": "50KLIKES",
    "reward": "500 Tokens"
+  },
+  {
+   "code": "DOUBLETOKENSFIX",
+   "reward": "2 Revive Tickets"
   }
  ],
- "updated": "2026-08-18T19:21:39.767Z",
+ "updated": "2026-08-20T03:15:05.435Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

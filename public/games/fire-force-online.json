@@ -7,22 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PREUPDATECODE3",
-   "reward": "5 Ability Rerolls and 100 Reroll Tokens"
-  },
-  {
-   "code": "PREUPDATECODE2",
-   "reward": "60 Reroll Tokens and 2 Generation Tokens"
-  },
-  {
-   "code": "SUPERDOG",
-   "reward": "1 Skill Tree Reset , 15 Ability Rerolls , and 250 Reroll Tokens"
-  },
-  {
-   "code": "PATCH",
-   "reward": "30 Ability Rerolls, 5 Clan Rerolls, and 2 Generation Rerolls"
-  },
-  {
    "code": "BREAKINGBARRIERS",
    "reward": "100 Reroll Tokens"
   },
@@ -31,10 +15,18 @@
    "reward": "30 Ability Rerolls and 200 Reroll Tokens"
   },
   {
+   "code": "PREUPDATECODE3",
+   "reward": "5 Ability Rerolls and 100 Reroll Tokens"
+  },
+  {
+   "code": "PREUPDATECODE2",
+   "reward": "60 Reroll Tokens and 2 Generation Tokens"
+  },
+  {
    "code": "PREUPDATECODE1",
    "reward": "50 Reroll Tokens and 5 Clan Rerolls"
   }
  ],
- "updated": "2026-08-19T03:16:37.353Z",
+ "updated": "2026-08-20T03:23:31.373Z",
  "source": "https://robloxden.com/game-codes/fire-force-online"
 }

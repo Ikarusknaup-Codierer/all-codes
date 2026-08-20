@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "KapsiHotFix",
+   "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins"
+  },
+  {
+   "code": "SorryRestart",
+   "reward": "50 Lucky Weapon Spins , 50 Lucky Perk Spins , and 50 Traits"
+  },
+  {
+   "code": "Halberd!",
+   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
+  },
+  {
+   "code": "BossRushRefresh!",
+   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
+  },
+  {
+   "code": "SaveHZ!",
+   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
+  },
+  {
    "code": "KatanaEvo",
    "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
   },
@@ -151,6 +171,6 @@
    "reward": "30 Lucky Weapon Spins and 30 Lucky Perk Spins"
   }
  ],
- "updated": "2026-08-18T19:19:37.063Z",
+ "updated": "2026-08-20T03:14:22.844Z",
  "source": "https://robloxden.com/game-codes/hunty-zombie"
 }

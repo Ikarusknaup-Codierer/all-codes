@@ -11,22 +11,22 @@
    "reward": "150 Cash"
   },
   {
-   "code": "TOWERSKINOVERHAUL",
-   "reward": "200 Money"
-  },
-  {
-   "code": "1MVISITS",
-   "reward": "1k Money"
+   "code": "2000MEMBERS",
+   "reward": "400 Money"
   },
   {
    "code": "5500LIKES",
    "reward": "250 Money"
   },
   {
-   "code": "3700LIKES",
+   "code": "4000LIKES",
    "reward": "300 Money"
+  },
+  {
+   "code": "ONEYEAR",
+   "reward": "750 Money"
   }
  ],
- "updated": "2026-08-19T03:15:26.165Z",
+ "updated": "2026-08-20T03:22:05.229Z",
  "source": "https://robloxden.com/game-codes/tool-tower-defense"
 }

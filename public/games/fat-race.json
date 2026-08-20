@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SUN",
-   "reward": "2x Wins Potion"
-  },
-  {
    "code": "P4LMS",
    "reward": "Hatch Only Toxic Food Potion"
   },
   {
-   "code": "RELEASE",
-   "reward": "15-Minute 2x Wins Potion"
+   "code": "N1GHT",
+   "reward": "2x Wins Potion"
   },
   {
-   "code": "LuckyDay",
-   "reward": "15-Minute 2x Luck Potion"
+   "code": "CYB3RPUNK",
+   "reward": "2x Wins Potion"
   },
   {
    "code": "Spoiled",
    "reward": "Hatch Only Toxic Food Potions"
+  },
+  {
+   "code": "EASTER",
+   "reward": "50 Easter Eggs"
   }
  ],
- "updated": "2026-08-18T19:22:35.171Z",
+ "updated": "2026-08-20T03:16:30.711Z",
  "source": "https://robloxden.com/game-codes/fat-race"
 }

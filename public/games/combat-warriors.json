@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "OK_LATE_AGAIN",
-   "reward": "3,000 Credits and 400 Aether"
-  },
-  {
    "code": "BOARDWALK",
    "reward": "67 Credits"
   },
   {
-   "code": "NEPTUNEDAY2",
-   "reward": "250 Aether and 500 Credits"
+   "code": "VALENTINES_SORRY",
+   "reward": "500 Minimum/ 2500 Maximum Credits and 250 Aether"
   },
   {
-   "code": "WHOKONGDELAY",
-   "reward": "300 Aether and 750-2,000 Credits"
+   "code": "I_SENSE_DANGER",
+   "reward": "250 Aether And 500-2,500 Credits"
+  },
+  {
+   "code": "WinterWarrior",
+   "reward": "50,000 Coins"
+  },
+  {
+   "code": "imdone",
+   "reward": "A Free Reward"
   }
  ],
- "updated": "2026-08-19T08:03:29.395Z",
+ "updated": "2026-08-20T14:12:09.179Z",
  "source": "https://robloxden.com/game-codes/combat-warriors"
 }

@@ -51,16 +51,16 @@
    "reward": "Rewards . To use this code, you must at least reach 10,000 Rolls"
   },
   {
-   "code": "UPDATE3",
-   "reward": "250 Crystals"
-  },
-  {
    "code": "THANKSFORPLAYING",
    "reward": "150 Crystals and 10 Epic Boxes"
   },
   {
    "code": "FairyForest",
    "reward": "250 Crystals , 5 Basic Luck Potions , 5 Basic Coin Potions , 5 Basic D"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "250 Crystals"
   },
   {
    "code": "TYFORSUPPORT1",
@@ -75,6 +75,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-08-19T14:10:35.130Z",
+ "updated": "2026-08-20T14:19:38.831Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

@@ -7,28 +7,28 @@
    "reward": "Description"
   },
   {
-   "code": "gravitytraining",
-   "reward": "15 Skill Points , 500,000 Zeni , and 500,000,000 Power Level"
-  },
-  {
-   "code": "otherworldage",
-   "reward": "5 Senzu Beans , 300,000 Zeni , and 300,000,000 Power Level"
-  },
-  {
-   "code": "conquestupgrades",
-   "reward": "1,000,000 Zeni and 1,000,000,000 Power Level"
-  },
-  {
-   "code": "1000members",
-   "reward": "25 Skill Points , 2,500,000 Zeni , and 2,500,000,000 Power Level"
-  },
-  {
-   "code": "thanks",
-   "reward": "20 Skill Points , 2,000,000 Zeni , 2,000,000,000 Power Level , and 5 S"
-  },
-  {
    "code": "thankyou",
    "reward": "20 Skill Points , 2,000,000 Zeni , 1,000,000,000 Base Power , and 5 Se"
+  },
+  {
+   "code": "HYBRIDHOPE",
+   "reward": "10 Skill Points , 750,000 Zeni , and 750,000,000 Base Power"
+  },
+  {
+   "code": "EVILAWAKENS",
+   "reward": "12 Skill Points , 1,000,000 Zeni , and 1,000,000,000 Base Power"
+  },
+  {
+   "code": "DREAMLEGACY",
+   "reward": "500,000 Zeni , and 10 Senzu Beans"
+  },
+  {
+   "code": "OMNIGUARD",
+   "reward": "20 Skill Points , 2,000,000 Zeni , and 2.500,000,000 Base Power"
+  },
+  {
+   "code": "600likes",
+   "reward": "15 Skill Points , 750,000 Zeni , and 750,000,000 Base Power"
   },
   {
    "code": "legendarywrath",
@@ -51,10 +51,30 @@
    "reward": "10 Skill Points , 500,000 Zeni , and 250,000,000 Power"
   },
   {
+   "code": "gravitytraining",
+   "reward": "15 Skill Points , 500,000 Zeni , and 500,000,000 Power Level"
+  },
+  {
+   "code": "otherworldage",
+   "reward": "5 Senzu Beans , 300,000 Zeni , and 300,000,000 Power Level"
+  },
+  {
+   "code": "conquestupgrades",
+   "reward": "1,000,000 Zeni and 1,000,000,000 Power Level"
+  },
+  {
+   "code": "1000members",
+   "reward": "25 Skill Points , 2,500,000 Zeni , and 2,500,000,000 Power Level"
+  },
+  {
+   "code": "thanks",
+   "reward": "20 Skill Points , 2,000,000 Zeni , 2,000,000,000 Power Level , and 5 S"
+  },
+  {
    "code": "100likes",
    "reward": "5 Skill Points , 250,000 Zeni , and 100,000,000 Base Power"
   }
  ],
- "updated": "2026-08-19T14:10:18.551Z",
+ "updated": "2026-08-20T14:19:18.496Z",
  "source": "https://robloxden.com/game-codes/bitball-z"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "joinDiscord",
+   "reward": "a Free Boost (30 Minutes)"
+  },
+  {
    "code": "update",
    "reward": "100% Boost"
   },
@@ -15,6 +19,6 @@
    "reward": "10K Coins"
   }
  ],
- "updated": "2026-08-19T14:08:12.736Z",
+ "updated": "2026-08-20T14:17:00.362Z",
  "source": "https://robloxden.com/game-codes/mini-rome-empire"
 }

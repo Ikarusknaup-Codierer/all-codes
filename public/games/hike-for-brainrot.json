@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SORRY",
-   "reward": "10 Jump Boosts"
-  },
-  {
    "code": "JUMPSTART",
    "reward": "55K Cash and 10 Jump Boosts"
   },
@@ -21,8 +17,12 @@
   {
    "code": "UPD2",
    "reward": "1 Godly Crate"
+  },
+  {
+   "code": "SORRY",
+   "reward": "10 Jump Boosts"
   }
  ],
- "updated": "2026-08-19T14:11:03.786Z",
+ "updated": "2026-08-20T14:20:23.745Z",
  "source": "https://robloxden.com/game-codes/hike-for-brainrot"
 }

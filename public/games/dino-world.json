@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BOYZ",
+   "reward": "500 Fossils and 25 Crude Oil"
+  },
+  {
    "code": "DAST",
    "reward": "500 Fossils and 25 Crude Oil"
   },
@@ -17,8 +21,20 @@
   {
    "code": "INFSTONE",
    "reward": "500 Fossils and 25 Crude Oil"
+  },
+  {
+   "code": "Sorry4DelAY",
+   "reward": "100 Fossils and 50 Crude Oil"
+  },
+  {
+   "code": "14Kfav",
+   "reward": "100 Fossils and 50 Crude Oil"
+  },
+  {
+   "code": "DNA",
+   "reward": "100 Fossils and 50 Crude Oil"
   }
  ],
- "updated": "2026-08-19T08:06:17.448Z",
+ "updated": "2026-08-20T14:15:08.459Z",
  "source": "https://robloxden.com/game-codes/dino-world"
 }

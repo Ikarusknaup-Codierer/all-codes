@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "355LIKES!",
-   "reward": "2,000 Yen"
-  },
-  {
    "code": "DELAYED",
    "reward": "rewards"
   },
@@ -25,8 +21,12 @@
   {
    "code": "SORRYFORBUGS!",
    "reward": "rewards"
+  },
+  {
+   "code": "20CCU",
+   "reward": "Characters"
   }
  ],
- "updated": "2026-08-19T14:09:28.213Z",
+ "updated": "2026-08-20T14:18:21.345Z",
  "source": "https://robloxden.com/game-codes/build-an-anime-squad"
 }

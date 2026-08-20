@@ -31,10 +31,6 @@
    "reward": "2x Luck"
   },
   {
-   "code": "HAMMIEISBADATROCKETLEAGUE",
-   "reward": "2x Luck"
-  },
-  {
    "code": "MYTHICAL",
    "reward": "3x Shiny Chance"
   },
@@ -1023,6 +1019,10 @@
    "reward": "2x Luck"
   },
   {
+   "code": "HAMMIEISBADATROCKETLEAGUE",
+   "reward": "2x Luck"
+  },
+  {
    "code": "GOLEMITE",
    "reward": "the Twitter Golem Pet"
   },
@@ -1059,6 +1059,6 @@
    "reward": "2 Hours of 2x Hatch Speed"
   }
  ],
- "updated": "2026-08-19T08:05:57.643Z",
+ "updated": "2026-08-20T14:14:47.066Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

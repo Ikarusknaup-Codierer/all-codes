@@ -27,10 +27,6 @@
    "reward": "1 Pride Swarm Snack"
   },
   {
-   "code": "DELICIOUSFINWICK",
-   "reward": "a Misprint 5 Stars Random Tinted Garracude"
-  },
-  {
    "code": "TintSeed",
    "reward": "3 Tint Seeds"
   },
@@ -247,6 +243,10 @@
    "reward": "3 Island Vouchers"
   },
   {
+   "code": "DELICIOUSFINWICK",
+   "reward": "a Misprint 5 Stars Random Tinted Garracude"
+  },
+  {
    "code": "WRaps",
    "reward": "the 6 Stars Double Tinted Wrappy"
   },
@@ -255,6 +255,6 @@
    "reward": "Chain Boost"
   }
  ],
- "updated": "2026-08-19T08:03:32.850Z",
+ "updated": "2026-08-20T14:12:12.041Z",
  "source": "https://robloxden.com/game-codes/doodle-world"
 }

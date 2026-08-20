@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "25KLIKES",
-   "reward": "Evil Piggy Pet"
+   "code": "10KLIKES",
+   "reward": "x2 Speed (10 Minutes)"
   },
   {
-   "code": "RELEASE",
-   "reward": "10 Minutes Of X2 Speed"
+   "code": "40KLIKES",
+   "reward": "X2 Speed Boost For 10 Minutes"
   },
   {
    "code": "185KLikes",
@@ -23,6 +23,6 @@
    "reward": "1 Chicken Pet"
   }
  ],
- "updated": "2026-08-19T08:03:12.255Z",
+ "updated": "2026-08-20T14:11:53.518Z",
  "source": "https://robloxden.com/game-codes/speed-run-simulator"
 }

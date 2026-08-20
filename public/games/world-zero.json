@@ -23,10 +23,6 @@
    "reward": "25 Dragon Coins and a Manga Present"
   },
   {
-   "code": "ANIME26",
-   "reward": "25 Dragon Coins and a Manga Present"
-  },
-  {
    "code": "RIA2026",
    "reward": "a Developer Gift"
   },
@@ -47,6 +43,10 @@
    "reward": "2x July 4th Aura"
   },
   {
+   "code": "ANIME26",
+   "reward": "25 Dragon Coins and a Manga Present"
+  },
+  {
    "code": "WILDFIRE",
    "reward": "an Exclusive Wildfire Dragon Plushie"
   },
@@ -59,6 +59,6 @@
    "reward": "150 Crystals"
   }
  ],
- "updated": "2026-08-19T08:04:25.699Z",
+ "updated": "2026-08-20T14:13:08.109Z",
  "source": "https://robloxden.com/game-codes/world-zero"
 }

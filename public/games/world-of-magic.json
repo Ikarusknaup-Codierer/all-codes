@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Brooms",
+   "code": "Update1",
    "reward": "Free Rewards"
   },
   {
-   "code": "HADESBOOST",
-   "reward": "a 10 Hour 1.6x XP Boost"
-  },
-  {
-   "code": "HALLOWEENBOOST",
-   "reward": "a 24 Hour 1.5x Crown Boost and a 24 Hour 1.5x XP Boost"
-  },
-  {
-   "code": "GREATHOLIDAYZ",
-   "reward": "a 24 Hour 2x Crown Boost and a 24 Hour 2x XP Boost"
+   "code": "LOOT5",
+   "reward": "a 5 Hour 1.5x Crown Boost"
   },
   {
    "code": "WEKNOW10",
    "reward": "a 10 Hour 1.5x XP Boost"
+  },
+  {
+   "code": "SELECTORCH200",
+   "reward": "200 Crowns"
+  },
+  {
+   "code": "DEEPSEA300",
+   "reward": "300 Crowns"
   }
  ],
- "updated": "2026-08-19T08:03:39.034Z",
+ "updated": "2026-08-20T14:12:19.206Z",
  "source": "https://robloxden.com/game-codes/world-of-magic"
 }

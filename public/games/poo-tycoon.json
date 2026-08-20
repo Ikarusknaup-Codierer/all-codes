@@ -11,22 +11,22 @@
    "reward": "Double Cash Boost For 2 Minutes"
   },
   {
-   "code": "UPDATE5",
+   "code": "RELEASE",
    "reward": ""
   },
   {
-   "code": "NewYears",
-   "reward": "15 Minute Poobux Boost"
+   "code": "6MIL",
+   "reward": "a 10 Minute 2x Poobux Boost"
+  },
+  {
+   "code": "10THOUSAND",
+   "reward": "a 15 Minute 2x Poobux Boost"
   },
   {
    "code": "IdidApoop",
    "reward": "a 10 Minute 2x Poobux Boost"
-  },
-  {
-   "code": "mushroom",
-   "reward": "a 5 Minute 2x Poobux Boost"
   }
  ],
- "updated": "2026-08-19T08:04:05.416Z",
+ "updated": "2026-08-20T14:12:47.426Z",
  "source": "https://robloxden.com/game-codes/poo-tycoon"
 }

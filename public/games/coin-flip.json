@@ -5,8 +5,52 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SORRY4INCONVENIENCE",
+   "reward": "20 Matrix Chests"
+  },
+  {
+   "code": "SHARDS",
+   "reward": "20 Shards , 20 Prisms , and 20 Cores"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "10 Matrix Chests"
+  },
+  {
+   "code": "REFINERY",
+   "reward": "1,000 Shards , 100 Prisms , and 100 Cores"
+  },
+  {
+   "code": "LDEVS",
+   "reward": "10 Matrix Chests"
+  },
+  {
+   "code": "BugFix2",
+   "reward": "an Exclusive Chest"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "a Double Coin Boost , a Double Luck Boost , a Double Flip Speed Boost "
+  },
+  {
+   "code": "BLACKHOLE",
+   "reward": "2 Double Coin Boosts , 2 Double Luck Boosts , 2 Double Flip Speed Boos"
+  },
+  {
+   "code": "CHESTS!",
+   "reward": "5 Exclusive Chests , 9 Legendary Chests , and a Double Luck Boost"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "2 Exclusive Chests"
+  },
+  {
+   "code": "POTIONS",
+   "reward": "an assortment of Lucky, Coin, and Flip Speed Potions"
   }
  ],
- "updated": "2026-08-19T14:09:17.390Z",
+ "updated": "2026-08-20T14:18:09.404Z",
  "source": "https://robloxden.com/game-codes/coin-flip"
 }

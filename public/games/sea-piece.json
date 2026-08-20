@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "Millionare!",
-   "reward": "500 Million Beli"
+   "code": "SECONDSEA!",
+   "reward": "123 Beli"
+  },
+  {
+   "code": "Sorry!",
+   "reward": "2x Exp For 10 Minutes"
+  },
+  {
+   "code": "Big20",
+   "reward": "1,000,000 Beli"
   },
   {
    "code": "1000Likes",
@@ -17,12 +25,8 @@
   {
    "code": "500Likes",
    "reward": "Double XP For 15 Minutes"
-  },
-  {
-   "code": "Sub2Taklaman",
-   "reward": "Double XP For 15 Minutes"
   }
  ],
- "updated": "2026-08-19T08:02:55.855Z",
+ "updated": "2026-08-20T14:11:43.829Z",
  "source": "https://robloxden.com/game-codes/sea-piece"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DEMONKING",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "GODDESS",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
    "code": "COMMANDMENTS",
    "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -227,6 +235,6 @@
    "reward": "Tickets , Potions , or Boosts"
   }
  ],
- "updated": "2026-08-19T08:08:37.284Z",
+ "updated": "2026-08-20T14:16:48.072Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

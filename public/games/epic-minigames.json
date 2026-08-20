@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "HallowsEver",
-   "reward": "Rewards"
-  },
-  {
-   "code": "darkmist",
-   "reward": "Smoke Effect"
+   "code": "explored",
+   "reward": "the Explorer Title"
   },
   {
    "code": "EpicYear2026",
    "reward": "New Year’s Kitty Pet"
+  },
+  {
+   "code": "ENERGY",
+   "reward": "a Plasma Effect"
   }
  ],
- "updated": "2026-08-19T08:06:01.808Z",
+ "updated": "2026-08-20T14:14:51.474Z",
  "source": "https://robloxden.com/game-codes/epic-minigames"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Halloween2022",
+   "code": "FreeCoins",
+   "reward": "Coins"
+  },
+  {
+   "code": "MSC2000",
+   "reward": "Coins"
+  },
+  {
+   "code": "MSC1450",
+   "reward": "25 Coins"
+  },
+  {
+   "code": "MSC1200",
+   "reward": "40 Coins"
+  },
+  {
+   "code": "MSC975",
    "reward": "20 Coins"
-  },
-  {
-   "code": "MSC1350",
-   "reward": "20 Coins"
-  },
-  {
-   "code": "MSC900",
-   "reward": "30 Coins"
-  },
-  {
-   "code": "MSC740",
-   "reward": "20 Coins"
-  },
-  {
-   "code": "YYA640",
-   "reward": "an exclusive in-game chat tag"
   }
  ],
- "updated": "2026-08-19T14:13:42.565Z",
+ "updated": "2026-08-20T19:49:32.662Z",
  "source": "https://robloxden.com/game-codes/custom-minigames"
 }

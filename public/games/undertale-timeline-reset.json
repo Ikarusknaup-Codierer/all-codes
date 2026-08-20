@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "EMERALDSSS",
-   "reward": "15 Tier Five Keys"
+   "code": "ITEMS5",
+   "reward": "Free Rewards"
   },
   {
-   "code": "NEWEVENT",
-   "reward": "6,000 Souls"
+   "code": "PUBLICRELEASE",
+   "reward": "Free Souls"
+  },
+  {
+   "code": "EMERALDSSS",
+   "reward": "15 Tier Five Keys"
   },
   {
    "code": "MoreCodes",
@@ -21,12 +25,8 @@
   {
    "code": "CODESCODESCODES",
    "reward": "6 Tier IV Keys"
-  },
-  {
-   "code": "INEEDMONEY",
-   "reward": "300 Souls"
   }
  ],
- "updated": "2026-08-19T14:11:22.988Z",
+ "updated": "2026-08-20T19:47:30.564Z",
  "source": "https://robloxden.com/game-codes/undertale-timeline-reset"
 }

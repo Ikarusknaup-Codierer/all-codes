@@ -7,16 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "70KFAVORITES",
-   "reward": "30 Moon Essence"
-  },
-  {
    "code": "11KLIKES",
    "reward": "30 Moon Essence"
   },
   {
    "code": "6MVISITS",
    "reward": "200 Boss Tokens"
+  },
+  {
+   "code": "FREESP",
+   "reward": "250 SP"
+  },
+  {
+   "code": "70KFAVORITES",
+   "reward": "30 Moon Essence"
   },
   {
    "code": "9KLIKES",
@@ -33,10 +37,6 @@
   {
    "code": "4MVISITS",
    "reward": "225 Boss Tokens"
-  },
-  {
-   "code": "FREESP",
-   "reward": "250 SP"
   },
   {
    "code": "200KMEMBERS",
@@ -63,6 +63,6 @@
    "reward": "25 Moon Essence"
   }
  ],
- "updated": "2026-08-19T14:14:32.676Z",
+ "updated": "2026-08-20T19:50:22.448Z",
  "source": "https://robloxden.com/game-codes/get-1-skill-point-every-second"
 }

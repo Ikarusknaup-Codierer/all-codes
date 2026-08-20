@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LiuSeven",
+   "reward": "405 Fragments"
+  },
+  {
    "code": "Mnestic",
    "reward": "405 Fragments"
   },
@@ -33,10 +37,6 @@
   {
    "code": "UrbanPlague",
    "reward": "405 Fragments"
-  },
-  {
-   "code": "OfficeDelay",
-   "reward": "1,620 Fragments"
   },
   {
    "code": "NepoOffice",
@@ -83,10 +83,14 @@
    "reward": "350 Fragments , 500 Condense , and 3 Seeds of Light"
   },
   {
+   "code": "OfficeDelay",
+   "reward": "1,620 Fragments"
+  },
+  {
    "code": "WORKSHOPRELEASE",
    "reward": "405 Fragments"
   }
  ],
- "updated": "2026-08-19T19:16:19.538Z",
+ "updated": "2026-08-20T19:53:36.773Z",
  "source": "https://robloxden.com/game-codes/project-mirror-labyrinth"
 }

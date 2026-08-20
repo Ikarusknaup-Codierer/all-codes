@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "RALLY",
-   "reward": "7,500 Coins"
-  },
-  {
    "code": "GOODFRIDAY",
    "reward": "one Goal Effect Pack"
   },
@@ -43,6 +39,10 @@
    "reward": "1 All-Star Chest"
   },
   {
+   "code": "RALLY",
+   "reward": "7,500 Coins"
+  },
+  {
    "code": "FOURTH",
    "reward": "1 All Star Chest"
   },
@@ -59,6 +59,6 @@
    "reward": "1 All-Star Chest"
   }
  ],
- "updated": "2026-08-19T19:16:09.172Z",
+ "updated": "2026-08-20T19:53:27.144Z",
  "source": "https://robloxden.com/game-codes/nba-champions-basketball"
 }

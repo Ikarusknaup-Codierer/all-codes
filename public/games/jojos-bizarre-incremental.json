@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ECON1000",
+   "reward": "100,000 Yen , 30 Stand Arrows , and 30 Rokakaka"
+  },
+  {
+   "code": "EACHPE",
+   "reward": "100,000 Yen , 30 Stand Arrows , and 30 Rokakaka"
+  },
+  {
    "code": "SORRY",
    "reward": "2 Mythical Boxes , 50,000 Yen and 20 Stand Arrows"
   },
@@ -83,6 +91,6 @@
    "reward": "5000 XP , 5000 Yen , 25 Stand Arrow , and 5 Mythical Giftbox"
   }
  ],
- "updated": "2026-08-19T14:11:40.311Z",
+ "updated": "2026-08-20T19:47:41.919Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

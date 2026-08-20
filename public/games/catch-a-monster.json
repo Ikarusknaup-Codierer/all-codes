@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "PSYPEON",
-   "reward": "Pure Chaos Elixir"
+   "code": "PZYGLOR",
+   "reward": "1 Skyprisim Egg"
   },
   {
-   "code": "RALNEMP",
-   "reward": "Task Points and 1 Chaos Potion"
+   "code": "PSYPEON",
+   "reward": "Pure Chaos Elixir"
   },
   {
    "code": "stardust",
@@ -33,10 +33,6 @@
   {
    "code": "DMUPNER",
    "reward": "1 Shadeflame Egg"
-  },
-  {
-   "code": "DORENI",
-   "reward": "2,000 Drake Coins and 1 Legendary Chest"
   },
   {
    "code": "EVENTBUFF",
@@ -111,10 +107,18 @@
    "reward": "3 Small XP Potions and 3 Small Coin Potions"
   },
   {
+   "code": "RALNEMP",
+   "reward": "Task Points and 1 Chaos Potion"
+  },
+  {
+   "code": "DORENI",
+   "reward": "2,000 Drake Coins and 1 Legendary Chest"
+  },
+  {
    "code": "FESTPUN",
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-08-19T19:17:49.927Z",
+ "updated": "2026-08-20T19:54:59.901Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

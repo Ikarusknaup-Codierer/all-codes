@@ -15,18 +15,6 @@
    "reward": "rewards"
   },
   {
-   "code": "NEBULA",
-   "reward": "250 Credits"
-  },
-  {
-   "code": "KNICKS",
-   "reward": "250 Credits"
-  },
-  {
-   "code": "BIRTHDAYBOYMALONI",
-   "reward": "50 Credits"
-  },
-  {
    "code": "LORE",
    "reward": "250 Credits"
   },
@@ -37,8 +25,20 @@
   {
    "code": "FREEDOM",
    "reward": "250 Credits"
+  },
+  {
+   "code": "NEBULA",
+   "reward": "250 Credits"
+  },
+  {
+   "code": "KNICKS",
+   "reward": "250 Credits"
+  },
+  {
+   "code": "BIRTHDAYBOYMALONI",
+   "reward": "50 Credits"
   }
  ],
- "updated": "2026-08-19T19:16:42.257Z",
+ "updated": "2026-08-20T19:53:59.479Z",
  "source": "https://robloxden.com/game-codes/bloxstrike"
 }

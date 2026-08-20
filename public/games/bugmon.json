@@ -15,18 +15,18 @@
    "reward": "rewards"
   },
   {
-   "code": "TY20KLIKES",
-   "reward": "a Shiny Egg and a Mythic Treasure Chest"
-  },
-  {
    "code": "BM10KLIKES",
    "reward": "a Shiny Egg"
+  },
+  {
+   "code": "BMTY5K",
+   "reward": "1 Legendary Egg"
   },
   {
    "code": "BM1KLIKES",
    "reward": "a Rare Treasure Chest"
   }
  ],
- "updated": "2026-08-19T14:13:50.257Z",
+ "updated": "2026-08-20T19:49:40.527Z",
  "source": "https://robloxden.com/game-codes/bugmon"
 }

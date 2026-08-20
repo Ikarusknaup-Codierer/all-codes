@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "LOWGRAPHICS",
-   "reward": "15 Rerolls"
-  },
-  {
-   "code": "FORGEWEEKENDS8",
+   "code": "FORGEWEEKENDS11",
    "reward": "10 Rerolls"
   },
   {
-   "code": "QOL!",
-   "reward": "10 Race Rerolls"
+   "code": "SORRYFORDELAYY",
+   "reward": "10 Rerolls"
   },
   {
    "code": "PEAK!",
    "reward": "10 Rerolls"
   },
   {
-   "code": "SORRYFORBUGS",
+   "code": "100KLIKES",
    "reward": "10 Rerolls"
+  },
+  {
+   "code": "MAZE",
+   "reward": "5 Rerolls And 3 Fungi's Potions"
   }
  ],
- "updated": "2026-08-19T19:17:05.080Z",
+ "updated": "2026-08-20T19:54:18.238Z",
  "source": "https://robloxden.com/game-codes/the-forge"
 }

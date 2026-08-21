@@ -15,14 +15,18 @@
    "reward": "100 BowTies"
   },
   {
-   "code": "mortadela",
-   "reward": "2,000 Cheese"
+   "code": "WOWCHEESE",
+   "reward": "Cheese"
   },
   {
-   "code": "CoesDix",
-   "reward": "500 Cheese"
+   "code": "Tytex",
+   "reward": "1,000 Cheese"
+  },
+  {
+   "code": "Kitty1Year",
+   "reward": "1,500,000,000 Cheese"
   }
  ],
- "updated": "2026-08-20T14:12:45.243Z",
+ "updated": "2026-08-21T19:17:34.206Z",
  "source": "https://robloxden.com/game-codes/kitty"
 }

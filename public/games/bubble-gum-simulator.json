@@ -55,10 +55,6 @@
    "reward": "6 Hours of 2x Hatch Speed"
   },
   {
-   "code": "20HOURLUCK",
-   "reward": "20 Hours of 2x Luck"
-  },
-  {
    "code": "MINIME",
    "reward": "2,500 Coins"
   },
@@ -1023,6 +1019,10 @@
    "reward": "2x Luck"
   },
   {
+   "code": "20HOURLUCK",
+   "reward": "20 Hours of 2x Luck"
+  },
+  {
    "code": "GOLEMITE",
    "reward": "the Twitter Golem Pet"
   },
@@ -1059,6 +1059,6 @@
    "reward": "2 Hours of 2x Hatch Speed"
   }
  ],
- "updated": "2026-08-20T14:14:47.066Z",
+ "updated": "2026-08-21T19:19:02.686Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

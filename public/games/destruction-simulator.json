@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "update1hype",
-   "reward": "24 Hour X2 XP Boost"
-  },
-  {
-   "code": "saletime",
-   "reward": "48 Hour X2 XP Boost"
+   "code": "cit",
+   "reward": ""
   },
   {
    "code": "UPDATE7",
    "reward": "Free Rewards"
   },
   {
-   "code": "1500PROMO",
-   "reward": "100 Diamonds"
+   "code": "IDK",
+   "reward": "50,000 Cash"
   },
   {
-   "code": "PUMPKINTIME",
+   "code": "RELEASE",
+   "reward": "a Double Coins Boost for 60 Minutes"
+  },
+  {
+   "code": "EPICVOLCANO",
    "reward": "a Double Coins Boost for 60 Minutes"
   }
  ],
- "updated": "2026-08-20T14:14:01.155Z",
+ "updated": "2026-08-21T19:18:22.140Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

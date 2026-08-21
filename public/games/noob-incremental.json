@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SOMEFIXUPDATE",
+   "reward": "25 Card Tokens"
+  },
+  {
    "code": "SPACEREALMISOUT!",
    "reward": "20 2x Rune Luck Potions, 20 2x Rune Speed Potions, 20 2x Rune Bulk Pot"
   },
@@ -55,6 +59,6 @@
    "reward": "10% Rune Luck (Active) . You must paste it in the Special Code box to "
   }
  ],
- "updated": "2026-08-20T14:21:49.283Z",
+ "updated": "2026-08-21T19:24:19.882Z",
  "source": "https://robloxden.com/game-codes/noob-incremental"
 }

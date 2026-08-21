@@ -31,10 +31,6 @@
    "reward": "2x Alien XP (30 Minutes)"
   },
   {
-   "code": "10ALIENSUNLOCKED",
-   "reward": "5,000 DNA Coins and 2x XP (15 Minutes)"
-  },
-  {
    "code": "WORLDEVENTFIXED",
    "reward": "Freebies"
   },
@@ -109,8 +105,12 @@
   {
    "code": "10KWILDDOGAWK",
    "reward": "10,000 DNA Coins"
+  },
+  {
+   "code": "10ALIENSUNLOCKED",
+   "reward": "5,000 DNA Coins and 2x XP (15 Minutes)"
   }
  ],
- "updated": "2026-08-20T14:17:41.814Z",
+ "updated": "2026-08-21T19:21:48.775Z",
  "source": "https://robloxden.com/game-codes/benverse"
 }

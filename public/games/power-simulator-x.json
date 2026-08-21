@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "GUILD",
-   "reward": "500 Coins"
+   "code": "70KLIKES",
+   "reward": "500 Tokens and 2 Aura Rolls"
   },
   {
-   "code": "50KLIKES",
-   "reward": "500 Tokens"
+   "code": "45KLIKES",
+   "reward": "400 Tokens and 2 Aura Rerolls"
   },
   {
-   "code": "UPDATEDAY",
-   "reward": "2K Coins and 2 Aura Rerolls"
-  },
-  {
-   "code": "20KLIKES",
-   "reward": "250 Tokens and 2 Aura Rerolls"
+   "code": "10KLIKES",
+   "reward": "200 Tokens and 2 Aura Rerolls"
   },
   {
    "code": "5KLIKES",
    "reward": "100 Tokens and 1 Aura Reroll"
+  },
+  {
+   "code": "LAUNCHDAY",
+   "reward": "Tokens"
   }
  ],
- "updated": "2026-08-20T14:20:40.930Z",
+ "updated": "2026-08-21T19:24:00.604Z",
  "source": "https://robloxden.com/game-codes/power-simulator-x"
 }

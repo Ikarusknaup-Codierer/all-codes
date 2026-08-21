@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "THANKSFOR30KLIKES",
+   "reward": "7 Perfect Stat Engrams , 7 Stat Engrams , 7 Trait Rerolls , and 777 Ge"
+  },
+  {
+   "code": "THANKSFOR20KLIKES",
+   "reward": "5 Trait Rerolls , 2,500 Gold , and 500 Gems"
+  },
+  {
    "code": "NewChapter",
    "reward": "100 Trait Rerolls"
   },
@@ -59,20 +67,12 @@
    "reward": "15 Trait Rerolls , 5 Stat Engram , and 1,000 Gems"
   },
   {
-   "code": "4LEAFCLOVER",
-   "reward": "25 Trait Rerolls , 10 Perfect Stat Engram , and 1,500 Gems"
-  },
-  {
-   "code": "THANKSFOR30KLIKES",
-   "reward": "7 Perfect Stat Engrams , 7 Stat Engrams , 7 Trait Rerolls , and 777 Ge"
-  },
-  {
-   "code": "THANKSFOR20KLIKES",
-   "reward": "5 Trait Rerolls , 2,500 Gold , and 500 Gems"
-  },
-  {
    "code": "FixedEvent",
    "reward": "25 Trait Rerolls , 10 Stat Engram , and 1,500 Gems"
+  },
+  {
+   "code": "4LEAFCLOVER",
+   "reward": "25 Trait Rerolls , 10 Perfect Stat Engram , and 1,500 Gems"
   },
   {
    "code": "UPD2",
@@ -87,6 +87,6 @@
    "reward": "15 Trait Rerolls , 15 Stat Engram , and 1,500 Gems"
   }
  ],
- "updated": "2026-08-20T14:16:13.538Z",
+ "updated": "2026-08-21T19:20:16.189Z",
  "source": "https://robloxden.com/game-codes/anime-final-strike"
 }

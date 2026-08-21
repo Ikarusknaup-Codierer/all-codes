@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LIONSANDTIGERS",
+   "reward": "2,000 Cash"
+  },
+  {
    "code": "EASTER",
    "reward": "5,000 Cash"
   },
@@ -19,14 +23,10 @@
    "reward": "2,500 Cash"
   },
   {
-   "code": "10MVISITS",
-   "reward": "1,500 Cash"
-  },
-  {
-   "code": "UPVOTEFORUPDATES",
+   "code": "THANKYOU",
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-08-20T14:14:44.120Z",
+ "updated": "2026-08-21T19:18:59.699Z",
  "source": "https://robloxden.com/game-codes/zoo-tycoon"
 }

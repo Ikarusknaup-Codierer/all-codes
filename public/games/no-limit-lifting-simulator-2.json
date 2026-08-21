@@ -13,8 +13,16 @@
   {
    "code": "UPDATE",
    "reward": "a Pet Fox"
+  },
+  {
+   "code": "50KVISITS",
+   "reward": "rewards"
+  },
+  {
+   "code": "NEWGAME",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-08-20T14:19:23.842Z",
+ "updated": "2026-08-21T19:23:20.822Z",
  "source": "https://robloxden.com/game-codes/no-limit-lifting-simulator-2"
 }

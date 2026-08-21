@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Anime",
+   "reward": "a SuperPlerts Potion"
+  },
+  {
+   "code": "Sand",
+   "reward": "a SuperPlerts Potion"
+  },
+  {
+   "code": "PSA",
+   "reward": "a SuperPlerts Potion"
+  },
+  {
+   "code": "Ghost",
+   "reward": "a SuperPlerts Potion"
+  },
+  {
    "code": "quest",
    "reward": "5 Plert Potions"
   },
@@ -27,6 +43,6 @@
    "reward": "2 Insta Hatch Tokens"
   }
  ],
- "updated": "2026-08-20T14:19:31.312Z",
+ "updated": "2026-08-21T19:23:26.127Z",
  "source": "https://robloxden.com/game-codes/slime-card-collection"
 }

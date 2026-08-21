@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "130KLIKES",
-   "reward": "1 Recruit Case"
-  },
-  {
    "code": "100MOG",
    "reward": "the Exclusive OG Knife"
   },
@@ -35,6 +31,10 @@
    "reward": "1,000 Coins . You must be at least level 5 to redeem this code"
   },
   {
+   "code": "130KLIKES",
+   "reward": "1 Recruit Case"
+  },
+  {
    "code": "120KLIKES",
    "reward": "a Free Case"
   },
@@ -47,6 +47,6 @@
    "reward": "a Recruit Case"
   }
  ],
- "updated": "2026-08-20T19:48:50.103Z",
+ "updated": "2026-08-21T19:26:53.471Z",
  "source": "https://robloxden.com/game-codes/murder-duels"
 }

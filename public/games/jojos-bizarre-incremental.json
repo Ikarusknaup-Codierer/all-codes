@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LSCAPE",
+   "reward": "100,000 Yen , 100,000 XP , 50 Stand Arrows , and 50 Rokakaka"
+  },
+  {
+   "code": "WSTARR",
+   "reward": "100,000 Yen , 100,000 XP , and 1 Legendary Giftbox"
+  },
+  {
    "code": "ECON1000",
    "reward": "100,000 Yen , 30 Stand Arrows , and 30 Rokakaka"
   },
@@ -85,12 +93,8 @@
   {
    "code": "BIZARRE",
    "reward": "1 Stand Arrow , 2,500 XP , and 1,000 Yen"
-  },
-  {
-   "code": "DELAYS",
-   "reward": "5000 XP , 5000 Yen , 25 Stand Arrow , and 5 Mythical Giftbox"
   }
  ],
- "updated": "2026-08-20T19:47:41.919Z",
+ "updated": "2026-08-21T19:25:32.807Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

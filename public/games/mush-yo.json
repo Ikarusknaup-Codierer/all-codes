@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "boatsfix",
+   "reward": ""
+  },
+  {
    "code": "BIRTHDAY",
    "reward": "500 Credits"
   },
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "CHRISTMAS",
-   "reward": "30 Credits"
-  },
-  {
    "code": "3MVISITS",
    "reward": "100 Credits"
   }
  ],
- "updated": "2026-08-20T03:18:11.004Z",
+ "updated": "2026-08-21T08:07:25.395Z",
  "source": "https://robloxden.com/game-codes/mush-yo"
 }

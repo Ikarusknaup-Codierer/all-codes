@@ -11,11 +11,7 @@
    "reward": "Rabbit Pet"
   },
   {
-   "code": "TOPSPEED",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "TOFUU",
+   "code": "1MVISITS",
    "reward": "Free Rewards"
   },
   {
@@ -25,8 +21,12 @@
   {
    "code": "CR1T1C4L",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-20T03:24:24.800Z",
+ "updated": "2026-08-21T08:12:15.511Z",
  "source": "https://robloxden.com/game-codes/super-speed-tycoon"
 }

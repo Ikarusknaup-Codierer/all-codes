@@ -11,6 +11,10 @@
    "reward": "15,000 Cash"
   },
   {
+   "code": "America250",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "EasterWeekend",
    "reward": "15,000 Cash"
   },
@@ -19,14 +23,10 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "PATCHTWO",
+   "code": "10MIL",
    "reward": "Reward"
-  },
-  {
-   "code": "50M",
-   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-08-20T03:21:33.431Z",
+ "updated": "2026-08-21T08:09:49.473Z",
  "source": "https://robloxden.com/game-codes/twisted"
 }

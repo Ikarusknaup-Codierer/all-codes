@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FAV",
+   "reward": "a special skin"
+  },
+  {
    "code": "1MILLION",
    "reward": "250 Skulls"
   },
@@ -15,6 +19,6 @@
    "reward": "2 Spins"
   }
  ],
- "updated": "2026-08-20T03:21:43.635Z",
+ "updated": "2026-08-21T08:09:59.814Z",
  "source": "https://robloxden.com/game-codes/be-a-snake"
 }

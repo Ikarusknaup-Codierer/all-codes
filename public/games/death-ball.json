@@ -11,10 +11,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "CUSTOMIZE",
-   "reward": "30,000 Gems"
-  },
-  {
    "code": "ASCEND",
    "reward": "50,000 Gems"
   },
@@ -49,8 +45,12 @@
   {
    "code": "ROYAL",
    "reward": "50K Gems"
+  },
+  {
+   "code": "CUSTOMIZE",
+   "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-08-20T03:25:54.347Z",
+ "updated": "2026-08-21T08:12:36.905Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

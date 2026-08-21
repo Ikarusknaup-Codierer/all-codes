@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "REPLAYJAILBIRD",
+   "reward": "1 Locker Crate"
+  },
+  {
+   "code": "JAILBIRDELITE",
+   "reward": "1 Elite Crate"
+  },
+  {
+   "code": "MIRAGON",
+   "reward": "1 Elite Crate"
+  },
+  {
    "code": "SMILEYOVERHAUL",
    "reward": "1 Exp Booster and 1 Cash Booster"
   },
@@ -51,6 +63,6 @@
    "reward": "1 Regular Crate and 1 Cash Booster"
   }
  ],
- "updated": "2026-08-20T03:17:18.785Z",
+ "updated": "2026-08-21T08:06:53.844Z",
  "source": "https://robloxden.com/game-codes/jailbird"
 }

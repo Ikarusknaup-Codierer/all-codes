@@ -19,14 +19,6 @@
    "reward": "Cash"
   },
   {
-   "code": "DEATH",
-   "reward": "Cash"
-  },
-  {
-   "code": "DAMAGE",
-   "reward": "Cash"
-  },
-  {
    "code": "ILIKECODES",
    "reward": "Cash"
   },
@@ -71,10 +63,6 @@
    "reward": "Cash"
   },
   {
-   "code": "500LIKES",
-   "reward": "10,000 Cash"
-  },
-  {
    "code": "25klikes",
    "reward": "Free Cash"
   },
@@ -87,20 +75,12 @@
    "reward": "Exclusive Reward"
   },
   {
-   "code": "4thofjuly2025",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "summer2025",
    "reward": "Free Rewards"
   },
   {
    "code": "15klikes",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "halloween2024",
-   "reward": "Free Cash"
   },
   {
    "code": "3klikes",
@@ -179,10 +159,30 @@
    "reward": "Cash"
   },
   {
+   "code": "DEATH",
+   "reward": "Cash"
+  },
+  {
+   "code": "DAMAGE",
+   "reward": "Cash"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "10,000 Cash"
+  },
+  {
    "code": "RELEASE",
    "reward": "10,000 Cash"
+  },
+  {
+   "code": "4thofjuly2025",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "halloween2024",
+   "reward": "Free Cash"
   }
  ],
- "updated": "2026-08-20T03:21:23.392Z",
+ "updated": "2026-08-21T08:09:39.540Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

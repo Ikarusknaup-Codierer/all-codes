@@ -11,6 +11,10 @@
    "reward": "1,000 Wood"
   },
   {
+   "code": "happy",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "fun",
    "reward": "Free Rewards"
   },
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "Boat",
-   "reward": "5,000 Wood , 5 Coins , 10 Bread , and 5 Meat"
-  },
-  {
-   "code": "Priates",
-   "reward": "5,000 Wood and Food"
+   "code": "PETS",
+   "reward": "5,000 Wood, 5 Coins, 10 Bread, and 5 Meat"
   }
  ],
- "updated": "2026-08-19T19:21:58.429Z",
+ "updated": "2026-08-21T03:36:16.549Z",
  "source": "https://robloxden.com/game-codes/my-dream-island"
 }

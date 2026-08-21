@@ -11,22 +11,22 @@
    "reward": "Coconuts, Coins, And Gems"
   },
   {
-   "code": "and_let_me_know",
+   "code": "500likes",
+   "reward": "1,200 Coins"
+  },
+  {
+   "code": "discord",
+   "reward": "Reward"
+  },
+  {
+   "code": "elven_forest",
+   "reward": "Reward"
+  },
+  {
+   "code": "transfer",
    "reward": "60 Gems"
-  },
-  {
-   "code": "come_little_boy",
-   "reward": "70 Gems"
-  },
-  {
-   "code": "2500likes",
-   "reward": "2,000 Coins"
-  },
-  {
-   "code": "i_hate_dupe",
-   "reward": "70 Gems"
   }
  ],
- "updated": "2026-08-20T03:15:09.770Z",
+ "updated": "2026-08-21T03:38:51.206Z",
  "source": "https://robloxden.com/game-codes/units-battlegrounds"
 }

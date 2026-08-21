@@ -11,22 +11,22 @@
    "reward": "69 Coins"
   },
   {
-   "code": "BackRooms",
+   "code": "RELEASE",
    "reward": "200 MemBits"
   },
   {
-   "code": "DiscordGuys",
-   "reward": "250 MemBits"
+   "code": "release!",
+   "reward": "200 Coins"
   },
   {
-   "code": "Mine",
+   "code": "FLOPPA",
+   "reward": "3 Trait Rolls"
+  },
+  {
+   "code": "LobotomyDash",
    "reward": "100 MemBits"
-  },
-  {
-   "code": "GRIFFIN",
-   "reward": "250 MemBits"
   }
  ],
- "updated": "2026-08-20T03:18:14.191Z",
+ "updated": "2026-08-21T03:41:07.404Z",
  "source": "https://robloxden.com/game-codes/meme-tower-defense"
 }

@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "NEW140KLIKES",
-   "reward": "400 Gems and 50 Points"
-  },
-  {
    "code": "SORRYFORDELAY2",
    "reward": "250 Gems And 5 Supreme Crates"
   },
   {
-   "code": "EVENT",
-   "reward": "200 Spring Coins"
+   "code": "DATAFIXED",
+   "reward": "150 Gems"
+  },
+  {
+   "code": "WOOPS",
+   "reward": "100 Gems"
   },
   {
    "code": "LIKES40K",
    "reward": "200 Gems"
   }
  ],
- "updated": "2026-08-20T03:15:02.133Z",
+ "updated": "2026-08-21T03:38:43.630Z",
  "source": "https://robloxden.com/game-codes/aura-battles"
 }

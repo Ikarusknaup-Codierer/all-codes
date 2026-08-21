@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
+   "code": "DRONES",
+   "reward": "30,000 Money"
+  },
+  {
    "code": "BUGFIXES",
    "reward": "Reward"
   },
   {
-   "code": "SORRY",
-   "reward": "Reward"
-  },
-  {
-   "code": "SAVEMTC",
+   "code": "IHELDTHELINE",
    "reward": "Reward"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-08-20T03:15:25.107Z",
+ "updated": "2026-08-21T03:38:58.187Z",
  "source": "https://robloxden.com/game-codes/multicrew-tank-combat"
 }

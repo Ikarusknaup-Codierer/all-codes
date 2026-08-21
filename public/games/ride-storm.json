@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PATCH",
-   "reward": "1,500 Cash"
-  },
-  {
    "code": "30MVISITS",
    "reward": "5K Cash"
   },
@@ -49,8 +45,12 @@
   {
    "code": "THANKSFORPLAYING",
    "reward": "10,000 Cash"
+  },
+  {
+   "code": "PATCH",
+   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-08-19T19:18:27.626Z",
+ "updated": "2026-08-21T03:33:12.101Z",
  "source": "https://robloxden.com/game-codes/ride-storm"
 }

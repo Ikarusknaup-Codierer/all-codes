@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PATIENCE",
-   "reward": "Cash"
-  },
-  {
-   "code": "PHASE2",
-   "reward": "Cash"
-  },
-  {
    "code": "GIFTING",
    "reward": "Cash"
   },
@@ -23,24 +15,8 @@
    "reward": "3,000 Cash"
   },
   {
-   "code": "SorryForBugs",
-   "reward": "2,000 Cash"
-  },
-  {
    "code": "SWEETPOTATOLOVER",
    "reward": "200 Cash"
-  },
-  {
-   "code": "PISO",
-   "reward": "1 Cash"
-  },
-  {
-   "code": "CADEZ",
-   "reward": "2,000 Cash"
-  },
-  {
-   "code": "TEX",
-   "reward": "1,000 Cash"
   },
   {
    "code": "BOSSREI",
@@ -133,8 +109,32 @@
   {
    "code": "TY",
    "reward": "Cash"
+  },
+  {
+   "code": "PATIENCE",
+   "reward": "Cash"
+  },
+  {
+   "code": "PHASE2",
+   "reward": "Cash"
+  },
+  {
+   "code": "SorryForBugs",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "PISO",
+   "reward": "1 Cash"
+  },
+  {
+   "code": "CADEZ",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "TEX",
+   "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-08-19T19:21:16.356Z",
+ "updated": "2026-08-21T03:35:38.732Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

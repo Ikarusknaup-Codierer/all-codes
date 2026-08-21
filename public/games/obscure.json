@@ -7,11 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "100KLIKES",
-   "reward": "Free Rewards"
+   "code": "Likes25000Reached",
+   "reward": "Reward"
   },
   {
-   "code": "Likes15000Reached",
+   "code": "Likes4500Reached",
    "reward": "Reward"
   },
   {
@@ -19,14 +19,14 @@
    "reward": "Reward"
   },
   {
-   "code": "Likes100Reached",
+   "code": "Likes500Reached",
    "reward": "Reward"
   },
   {
-   "code": "OGPlayers",
+   "code": "FirstPlayer",
    "reward": "Reward"
   }
  ],
- "updated": "2026-08-19T19:18:49.574Z",
+ "updated": "2026-08-21T03:33:28.674Z",
  "source": "https://robloxden.com/game-codes/obscure"
 }

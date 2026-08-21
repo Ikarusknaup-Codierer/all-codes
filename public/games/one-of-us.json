@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "10KLIKES",
+   "code": "7KLIKES",
    "reward": ""
   },
   {
-   "code": "1KLIKES",
+   "code": "2KLIKES",
+   "reward": ""
+  },
+  {
+   "code": "LAUNCHDAY",
    "reward": ""
   },
   {
@@ -19,14 +23,10 @@
    "reward": "725 Coins"
   },
   {
-   "code": "XDEMON",
-   "reward": "Xdemon Killer"
-  },
-  {
-   "code": "18KLIKES",
-   "reward": "600 Coins"
+   "code": "15KLIKES",
+   "reward": "575 Coins"
   }
  ],
- "updated": "2026-08-19T19:19:35.976Z",
+ "updated": "2026-08-21T03:34:05.848Z",
  "source": "https://robloxden.com/game-codes/one-of-us"
 }

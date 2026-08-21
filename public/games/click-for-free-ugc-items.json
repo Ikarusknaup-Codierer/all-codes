@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HAIRS",
-   "reward": "Clicks"
-  },
-  {
    "code": "DEER",
    "reward": "Clicks And UGC Rewards"
   },
@@ -19,14 +15,18 @@
    "reward": "Clicks And Potions"
   },
   {
-   "code": "UGC",
-   "reward": "20,000 Clicks and 150 Gems"
+   "code": "POTIONS",
+   "reward": "Clicks And Potions"
   },
   {
-   "code": "EMOTE",
-   "reward": "50,000 Clicks and 250 Gems"
+   "code": "15KLIKES",
+   "reward": "Extra Boosts"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "Extra Boosts"
   }
  ],
- "updated": "2026-08-19T19:20:25.049Z",
+ "updated": "2026-08-21T03:34:51.602Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

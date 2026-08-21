@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "deepsea",
+   "reward": "25 Shells"
+  },
+  {
+   "code": "MerryChristmas",
+   "reward": "25 Shells"
+  },
+  {
+   "code": "c00lkid",
+   "reward": "25 Shells"
+  },
+  {
    "code": "Volcano",
    "reward": "25 Shells"
   },
   {
-   "code": "130klikes",
-   "reward": "Shells"
-  },
-  {
-   "code": "110klikes",
-   "reward": "25 Shells"
-  },
-  {
-   "code": "SorryForBugs",
-   "reward": "25 Shells"
-  },
-  {
-   "code": "KrakenAndGardener",
+   "code": "8kPlayer",
    "reward": "25 Shells"
   }
  ],
- "updated": "2026-08-19T19:19:08.132Z",
+ "updated": "2026-08-21T03:33:43.890Z",
  "source": "https://robloxden.com/game-codes/survive-on-a-raft"
 }

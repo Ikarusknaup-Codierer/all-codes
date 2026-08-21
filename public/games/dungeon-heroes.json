@@ -15,6 +15,10 @@
    "reward": "Magic Dust Booster (1 Hour) , 10 Distilled Health Potions , and 1 Burg"
   },
   {
+   "code": "FREEAURA",
+   "reward": "Light Aura"
+  },
+  {
    "code": "REAPER",
    "reward": "4 Distilled Health Potions , 1 Gem Booster (12 Hours) , and 1 Key Boos"
   },
@@ -47,10 +51,6 @@
    "reward": "the Ghost Pirate Aura , 5 Shrimp Fried Rice , 5 Distilled Health Potio"
   },
   {
-   "code": "FREEAURA",
-   "reward": "Light Aura"
-  },
-  {
    "code": "SAKURA",
    "reward": "3 Distilled Health Potions , 4 Luck Boosters (1 Hour) , and 4 Gem Boos"
   },
@@ -59,6 +59,6 @@
    "reward": "5 Distilled Health Potion and Sparkler Aura"
   }
  ],
- "updated": "2026-08-19T19:21:33.884Z",
+ "updated": "2026-08-21T03:35:55.715Z",
  "source": "https://robloxden.com/game-codes/dungeon-heroes"
 }

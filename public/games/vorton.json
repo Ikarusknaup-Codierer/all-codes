@@ -11,10 +11,6 @@
    "reward": "the Breakfast Hat"
   },
   {
-   "code": "Recycled",
-   "reward": "the Recycled Top Hat"
-  },
-  {
    "code": "Overcharged",
    "reward": "the Broken Light Bulb"
   },
@@ -31,10 +27,14 @@
    "reward": "1 Chessboard"
   },
   {
+   "code": "Recycled",
+   "reward": "the Recycled Top Hat"
+  },
+  {
    "code": "Apple",
    "reward": "Apple"
   }
  ],
- "updated": "2026-08-19T19:20:50.235Z",
+ "updated": "2026-08-21T03:35:14.384Z",
  "source": "https://robloxden.com/game-codes/vorton"
 }

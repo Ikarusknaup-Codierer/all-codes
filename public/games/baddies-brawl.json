@@ -11,10 +11,6 @@
    "reward": "2 Style Spins"
   },
   {
-   "code": "star",
-   "reward": "2 Hourly Wheel Spins"
-  },
-  {
    "code": "frost",
    "reward": "200 Stars"
   },
@@ -177,8 +173,12 @@
   {
    "code": "goldheart",
    "reward": "100 Stars"
+  },
+  {
+   "code": "star",
+   "reward": "2 Hourly Wheel Spins"
   }
  ],
- "updated": "2026-08-20T03:14:59.940Z",
+ "updated": "2026-08-21T03:38:41.661Z",
  "source": "https://robloxden.com/game-codes/baddies-brawl"
 }

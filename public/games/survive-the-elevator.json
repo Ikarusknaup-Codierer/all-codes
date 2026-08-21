@@ -11,10 +11,6 @@
    "reward": "free rewards"
   },
   {
-   "code": "itemhoarder",
-   "reward": "5 Coins"
-  },
-  {
    "code": "fuelupman",
    "reward": "5 Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "down100floors",
    "reward": "5 Cash"
+  },
+  {
+   "code": "elevatorforever",
+   "reward": "25 Coins"
   }
  ],
- "updated": "2026-08-19T19:18:13.356Z",
+ "updated": "2026-08-21T03:33:03.963Z",
  "source": "https://robloxden.com/game-codes/survive-the-elevator"
 }

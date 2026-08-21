@@ -7,11 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "ASSASSIN",
-   "reward": "Gems and Stars"
+   "code": "AURAS",
+   "reward": "Coins And Gems"
   },
   {
-   "code": "AURAS",
+   "code": "ANIM3PLAYTIM3",
    "reward": "Coins And Gems"
   },
   {
@@ -19,14 +19,14 @@
    "reward": "Coins And Gems"
   },
   {
-   "code": "lurex",
+   "code": "release2",
    "reward": "Gift"
   },
   {
-   "code": "kobuzo",
+   "code": "antiafk",
    "reward": "Gift"
   }
  ],
- "updated": "2026-08-19T19:17:54.149Z",
+ "updated": "2026-08-21T03:32:51.865Z",
  "source": "https://robloxden.com/game-codes/anime-legend"
 }

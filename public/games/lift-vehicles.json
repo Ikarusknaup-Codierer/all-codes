@@ -11,10 +11,6 @@
    "reward": "Boost x2 (33 Minutes)"
   },
   {
-   "code": "SPODER",
-   "reward": "an Epic Spider Pet"
-  },
-  {
    "code": "B16_MSCL3",
    "reward": "200 Strength"
   },
@@ -23,10 +19,14 @@
    "reward": "a free Rare Pet"
   },
   {
-   "code": "LIKES1500",
-   "reward": "15 Coins"
+   "code": "1Million",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "STR3NGTH",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-08-20T08:15:23.203Z",
+ "updated": "2026-08-21T14:13:55.674Z",
  "source": "https://robloxden.com/game-codes/lift-vehicles"
 }

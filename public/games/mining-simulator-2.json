@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Update55",
+   "code": "Update54",
    "reward": "6 Hours Lucky Boost"
   },
   {
-   "code": "UPDATE47",
+   "code": "Scary",
+   "reward": "4 Hours Super Lucky Boost"
+  },
+  {
+   "code": "UPDATE46",
    "reward": "1 6 Hour Lucky Boost"
   },
   {
-   "code": "FESTIVE",
-   "reward": "1 4 Hour Super Lucky Boost"
+   "code": "GEMS",
+   "reward": "50 Gems"
   },
   {
-   "code": "UPDATE34",
-   "reward": "1 6 Hour Lucky Boost"
-  },
-  {
-   "code": "SPRING",
-   "reward": "1 4 Hour Super Lucky Boost"
+   "code": "SUPERLUCKY",
+   "reward": "1 30 Minute Super Lucky Boost"
   }
  ],
- "updated": "2026-08-20T08:12:55.089Z",
+ "updated": "2026-08-21T14:11:45.929Z",
  "source": "https://robloxden.com/game-codes/mining-simulator-2"
 }

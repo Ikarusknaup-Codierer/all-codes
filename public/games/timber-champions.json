@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "SPRING",
+   "code": "VOID",
+   "reward": "2 Ultra Lucky Boosts"
+  },
+  {
+   "code": "GALAXY",
    "reward": "2 Ultra Lucky Boosts"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "2 Ultra Lucky Boosts"
   },
   {
-   "code": "5KTHANKS",
-   "reward": "2 2x Damage Boosts"
-  },
-  {
-   "code": "CAVE",
-   "reward": "2 Ultra Lucky Boosts"
+   "code": "2023",
+   "reward": "2 Lucky Boosts"
   }
  ],
- "updated": "2026-08-20T08:09:57.949Z",
+ "updated": "2026-08-21T14:09:35.818Z",
  "source": "https://robloxden.com/game-codes/timber-champions"
 }

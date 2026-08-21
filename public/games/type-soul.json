@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BalanceStage",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "TheSecretIsInUpdateLogs",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "ItNearlyCameHome",
    "reward": "Free Rerolls"
   },
@@ -39,6 +47,6 @@
    "reward": "Free Elixirs , Rerolls , and Other Rewards"
   }
  ],
- "updated": "2026-08-20T08:08:14.797Z",
+ "updated": "2026-08-21T14:08:25.160Z",
  "source": "https://robloxden.com/game-codes/type-soul"
 }

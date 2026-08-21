@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PLSDONATES15",
-   "reward": "15 Giftbux"
-  },
-  {
    "code": "HAUNTED",
    "reward": "30 Giftbux"
   },
@@ -37,8 +33,12 @@
   {
    "code": "PIXEL",
    "reward": "a Pixel Playground Booth"
+  },
+  {
+   "code": "PLSDONATES15",
+   "reward": "15 Giftbux"
   }
  ],
- "updated": "2026-08-20T08:12:56.762Z",
+ "updated": "2026-08-21T14:11:46.923Z",
  "source": "https://robloxden.com/game-codes/pls-donate"
 }

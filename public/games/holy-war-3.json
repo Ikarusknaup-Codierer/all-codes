@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "ANDAGEEN",
-   "reward": "Exp"
+   "code": "STATRESET2",
+   "reward": "a Stat Reset"
+  },
+  {
+   "code": "RESETME7",
+   "reward": "a Stat Reset"
   },
   {
    "code": "100K",
@@ -19,14 +23,10 @@
    "reward": "Spins"
   },
   {
-   "code": "HERENOWSHOO",
-   "reward": "some free spins"
-  },
-  {
-   "code": "SINOFMAINE",
-   "reward": "5,000 Experience"
+   "code": "ESTEBAN",
+   "reward": "a reward"
   }
  ],
- "updated": "2026-08-20T08:15:12.082Z",
+ "updated": "2026-08-21T14:13:46.580Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

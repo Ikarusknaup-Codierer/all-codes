@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Fate",
-   "reward": "2x Crystal Boost"
-  },
-  {
    "code": "1000Likes",
    "reward": "2x Gold Boost"
   },
@@ -19,14 +15,18 @@
    "reward": "Free Boosts"
   },
   {
-   "code": "Halloween",
+   "code": "Release",
    "reward": "Free Boosts"
+  },
+  {
+   "code": "Bleach",
+   "reward": "2x Crystal Boost"
   },
   {
    "code": "10KLikes",
    "reward": "2 10 Minute 2x Gold Boosts"
   }
  ],
- "updated": "2026-08-20T08:11:54.858Z",
+ "updated": "2026-08-21T14:10:56.686Z",
  "source": "https://robloxden.com/game-codes/anime-artifacts-simulator-2"
 }

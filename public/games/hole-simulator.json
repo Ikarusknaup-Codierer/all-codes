@@ -11,22 +11,22 @@
    "reward": "New Skin"
   },
   {
-   "code": "RAINBOWPLANETS",
-   "reward": "1 Coin Potion"
-  },
-  {
-   "code": "FREEGEMS",
-   "reward": "10 Gems"
-  },
-  {
    "code": "OASISWORLD",
    "reward": "Coins Potion"
   },
   {
-   "code": "blizmid",
-   "reward": "10 Gems"
+   "code": "EXTRAGEMS",
+   "reward": "5 Minute Gems Potion"
+  },
+  {
+   "code": "snuglife",
+   "reward": "5 Minute Coins Potion"
+  },
+  {
+   "code": "GEMSPOTION",
+   "reward": "5 Minute Gems Potion"
   }
  ],
- "updated": "2026-08-20T14:12:13.650Z",
+ "updated": "2026-08-21T14:15:10.100Z",
  "source": "https://robloxden.com/game-codes/hole-simulator"
 }

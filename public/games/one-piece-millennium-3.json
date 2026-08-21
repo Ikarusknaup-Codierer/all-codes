@@ -11,6 +11,10 @@
    "reward": "6,000,000 Beli"
   },
   {
+   "code": "SpookyReset!",
+   "reward": "1 Stat Reset"
+  },
+  {
    "code": "BeenaWhile!",
    "reward": "5,000,000 Beli"
   },
@@ -21,12 +25,8 @@
   {
    "code": "LongTimeCode!",
    "reward": "14,000,000 Beli"
-  },
-  {
-   "code": "HalloweenCode!",
-   "reward": "12,000,000 Beli"
   }
  ],
- "updated": "2026-08-20T08:13:48.910Z",
+ "updated": "2026-08-21T14:12:33.111Z",
  "source": "https://robloxden.com/game-codes/one-piece-millennium-3"
 }

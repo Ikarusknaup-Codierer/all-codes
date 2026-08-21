@@ -23,14 +23,6 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "600KLIKES",
-   "reward": "1,000 Coins"
-  },
-  {
-   "code": "580KLIKES",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "SUMMER",
    "reward": "the Summer Effect Case"
   },
@@ -39,7 +31,15 @@
    "reward": "the Summer Skin Case"
   },
   {
+   "code": "600KLIKES",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "590KLIKES",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "580KLIKES",
    "reward": "1,000 Coins"
   },
   {
@@ -71,6 +71,6 @@
    "reward": "10,000 Coins"
   }
  ],
- "updated": "2026-08-20T08:07:04.952Z",
+ "updated": "2026-08-21T14:08:03.911Z",
  "source": "https://robloxden.com/game-codes/basketball-legends"
 }

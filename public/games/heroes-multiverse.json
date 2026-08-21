@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HAPPYEASTER",
-   "reward": "20,000 Coins"
-  },
-  {
    "code": "100KCOINS",
    "reward": "Free Coins"
   },
@@ -19,14 +15,18 @@
    "reward": "Free Coins"
   },
   {
-   "code": "SIDEYE",
+   "code": "CHAOS",
    "reward": "Free Coins"
   },
   {
-   "code": "13KLIKES",
-   "reward": "12,000 Coins"
+   "code": "BACKERINO",
+   "reward": "50,000 Coins"
+  },
+  {
+   "code": "SAYHELLO",
+   "reward": "Free Coins"
   }
  ],
- "updated": "2026-08-20T08:11:29.697Z",
+ "updated": "2026-08-21T14:10:42.594Z",
  "source": "https://robloxden.com/game-codes/heroes-multiverse"
 }

@@ -7,30 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "7000LIKES",
-   "reward": "20,000 Cash"
+   "code": "NEW",
+   "reward": "2,500 Cash"
   },
   {
-   "code": "B21",
-   "reward": "Free Cash"
+   "code": "AIRPORTUPD",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "JANUARY",
+   "reward": "1,300 Cash"
   },
   {
    "code": "UPDATE",
    "reward": "Free Cash"
   },
   {
-   "code": "PIRATES",
-   "reward": "1,000 Cash"
-  },
-  {
-   "code": "2023",
-   "reward": "8,000 Cash"
-  },
-  {
-   "code": "NEW",
-   "reward": "2,500 Cash"
+   "code": "PORTTYCOON",
+   "reward": "3,700 Cash"
   }
  ],
- "updated": "2026-08-20T08:12:30.354Z",
+ "updated": "2026-08-21T14:11:26.533Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

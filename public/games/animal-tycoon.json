@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "tenkay",
-   "reward": "100K Coins"
-  },
-  {
    "code": "500likes",
    "reward": "1,000 Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "animalvalentinestycoon",
    "reward": "2,500 Coins"
+  },
+  {
+   "code": "5KLikes",
+   "reward": "100,000 Coins"
   }
  ],
- "updated": "2026-08-20T08:10:18.101Z",
+ "updated": "2026-08-21T14:09:48.792Z",
  "source": "https://robloxden.com/game-codes/animal-tycoon"
 }

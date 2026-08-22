@@ -15,18 +15,18 @@
    "reward": "400 Shards"
   },
   {
-   "code": "FISHPOND",
-   "reward": "500 Shards and 2 Octopus Feed"
-  },
-  {
    "code": "LOVE",
    "reward": "10 Valentine's Tickets and 1 Love Potion"
   },
   {
    "code": "BUGFIX01",
    "reward": "100 Star Shards , 2 Drop Luck Potions , and 1 Speed Potion"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "100 Star Shards , 5 Small Oxygen Pods , and 1 Speed Potion"
   }
  ],
- "updated": "2026-08-20T19:52:52.831Z",
+ "updated": "2026-08-22T03:14:52.949Z",
  "source": "https://robloxden.com/game-codes/abyss"
 }

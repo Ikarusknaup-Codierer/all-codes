@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FROSTYHOLIDAYS",
-   "reward": "10,000 Coins"
-  },
-  {
    "code": "CHRISTMASESSENCE",
    "reward": "10 Diamonds"
   },
@@ -25,8 +21,12 @@
   {
    "code": "GEMSEEKER",
    "reward": "10 Diamonds"
+  },
+  {
+   "code": "100kLIKES",
+   "reward": "the Limited UGC"
   }
  ],
- "updated": "2026-08-20T19:53:30.303Z",
+ "updated": "2026-08-22T03:15:42.676Z",
  "source": "https://robloxden.com/game-codes/kingdom-of-essentia-tycoon"
 }

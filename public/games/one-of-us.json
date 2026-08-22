@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "7KLIKES",
+   "code": "12KLIKES",
    "reward": ""
   },
   {
-   "code": "2KLIKES",
+   "code": "9KLIKES",
+   "reward": ""
+  },
+  {
+   "code": "8KLIKES",
    "reward": ""
   },
   {
@@ -19,14 +23,10 @@
    "reward": ""
   },
   {
-   "code": "40KLIKES",
-   "reward": "725 Coins"
-  },
-  {
-   "code": "15KLIKES",
-   "reward": "575 Coins"
+   "code": "18KLIKES",
+   "reward": "600 Coins"
   }
  ],
- "updated": "2026-08-21T03:34:05.848Z",
+ "updated": "2026-08-22T03:18:48.962Z",
  "source": "https://robloxden.com/game-codes/one-of-us"
 }

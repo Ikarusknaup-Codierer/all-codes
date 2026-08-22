@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "WOODURY",
+   "reward": "4,000 Wanderer's Coins and a Splash Isle Rift III"
+  },
+  {
+   "code": "SYLVAR",
+   "reward": "a Conduit Egg"
+  },
+  {
+   "code": "VORTUR",
+   "reward": "2,000 Wanderer’s Coins and 2 Splash Isle Rifts III"
+  },
+  {
    "code": "PZYGLOR",
    "reward": "1 Skyprisim Egg"
   },
@@ -107,6 +119,10 @@
    "reward": "3 Small XP Potions and 3 Small Coin Potions"
   },
   {
+   "code": "acrospike",
+   "reward": "XP Potions and Coin Potions"
+  },
+  {
    "code": "RALNEMP",
    "reward": "Task Points and 1 Chaos Potion"
   },
@@ -119,6 +135,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-08-20T19:54:59.901Z",
+ "updated": "2026-08-22T03:16:56.086Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

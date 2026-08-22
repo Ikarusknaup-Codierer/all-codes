@@ -19,10 +19,6 @@
    "reward": "10 Spins"
   },
   {
-   "code": "1MVISITS",
-   "reward": "10 Spins"
-  },
-  {
    "code": "30KLIKES",
    "reward": "5 Spins"
   },
@@ -31,10 +27,14 @@
    "reward": "10 Spins"
   },
   {
+   "code": "1MVISITS",
+   "reward": "10 Spins"
+  },
+  {
    "code": "UPDATE05",
    "reward": "a Stat Refund"
   }
  ],
- "updated": "2026-08-20T19:49:05.080Z",
+ "updated": "2026-08-22T03:11:19.118Z",
  "source": "https://robloxden.com/game-codes/shinobi-way"
 }

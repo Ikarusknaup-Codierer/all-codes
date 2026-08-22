@@ -11,12 +11,8 @@
    "reward": "¥500,000"
   },
   {
-   "code": "GoodFriday24",
-   "reward": "150,000 RMB of in-game currency"
-  },
-  {
-   "code": "SnowMap",
-   "reward": "150,000 RMB of in-game currency"
+   "code": "COMPENSATION",
+   "reward": "This code requires you to join our ROBLOX group"
   },
   {
    "code": "SummerGift",
@@ -25,8 +21,12 @@
   {
    "code": "DatalossCompensation",
    "reward": "400,000 RMB of In-Game Cash"
+  },
+  {
+   "code": "CNY2025",
+   "reward": "¥300,000"
   }
  ],
- "updated": "2026-08-20T19:55:38.773Z",
+ "updated": "2026-08-22T03:17:08.847Z",
  "source": "https://robloxden.com/game-codes/tang-county-hebei"
 }

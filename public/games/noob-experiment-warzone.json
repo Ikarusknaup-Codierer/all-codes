@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
-   "reward": "25 Screws"
+   "code": "Sorryforbugs",
+   "reward": "100 Screws"
+  },
+  {
+   "code": "SIMPLE10",
+   "reward": "10 Screws"
   },
   {
    "code": "WereSorryForTheData",
@@ -17,12 +21,8 @@
   {
    "code": "ROGUEST62",
    "reward": "50 Screws"
-  },
-  {
-   "code": "RONOOB2450",
-   "reward": "20 Screws"
   }
  ],
- "updated": "2026-08-20T19:49:01.490Z",
+ "updated": "2026-08-22T03:11:16.708Z",
  "source": "https://robloxden.com/game-codes/noob-experiment-warzone"
 }

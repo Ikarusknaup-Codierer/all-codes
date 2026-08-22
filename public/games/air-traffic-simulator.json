@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "JAMAICA",
-   "reward": "250 AirMiles"
-  },
-  {
-   "code": "CROATIA",
-   "reward": "250 AirMiles"
+   "code": "CROSSWIND",
+   "reward": "500 AirMiles"
   },
   {
    "code": "RETURN",
    "reward": "Free Rewards"
   },
   {
-   "code": "RELEASE",
-   "reward": "200 AirMiles"
+   "code": "NEW",
+   "reward": "Rewards"
   },
   {
-   "code": "NEW",
+   "code": "MULTIPLAYER",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-08-20T19:52:31.815Z",
+ "updated": "2026-08-22T03:14:32.696Z",
  "source": "https://robloxden.com/game-codes/air-traffic-simulator"
 }

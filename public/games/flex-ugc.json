@@ -11,14 +11,6 @@
    "reward": "Silver Antlers"
   },
   {
-   "code": "SFV",
-   "reward": "the Sci-Fi Valk"
-  },
-  {
-   "code": "3321",
-   "reward": "the Chrome Y2K Wing Shades"
-  },
-  {
    "code": "Koshipillow3",
    "reward": "a Koshi Pillow"
   },
@@ -173,8 +165,16 @@
   {
    "code": "SS12",
    "reward": "the Star White Shades"
+  },
+  {
+   "code": "SFV",
+   "reward": "the Sci-Fi Valk"
+  },
+  {
+   "code": "3321",
+   "reward": "the Chrome Y2K Wing Shades"
   }
  ],
- "updated": "2026-08-20T19:50:58.117Z",
+ "updated": "2026-08-22T03:13:02.396Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

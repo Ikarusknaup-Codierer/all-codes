@@ -19,10 +19,6 @@
    "reward": "1 Beli , 1 Gem , 1 Exp , and 2 Shadow Crests"
   },
   {
-   "code": "YUJIMODULOISHERE!",
-   "reward": "1 Beli , 1 Gem , 1 Exp , and 6 Cursed Fragment"
-  },
-  {
    "code": "SUNGJINWOOV2SOON!",
    "reward": "1 Beli, 1 Gem , 1 Exp , 2 Heian FOrbidden Scroll , 6 Cursed Fragment ,"
   },
@@ -49,8 +45,12 @@
   {
    "code": "FUSIONPIECE!",
    "reward": "35,000 Beli , 700 Gems , 1 EXP , and 5 Roll Essence"
+  },
+  {
+   "code": "YUJIMODULOISHERE!",
+   "reward": "1 Beli , 1 Gem , 1 Exp , and 6 Cursed Fragment"
   }
  ],
- "updated": "2026-08-20T19:48:54.051Z",
+ "updated": "2026-08-22T03:11:10.861Z",
  "source": "https://robloxden.com/game-codes/fusion-piece"
 }

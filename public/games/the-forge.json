@@ -11,22 +11,22 @@
    "reward": "10 Rerolls"
   },
   {
-   "code": "SORRYFORDELAYY",
-   "reward": "10 Rerolls"
-  },
-  {
    "code": "PEAK!",
    "reward": "10 Rerolls"
   },
   {
-   "code": "100KLIKES",
-   "reward": "10 Rerolls"
+   "code": "SORRYFORSHUTDOWN",
+   "reward": "Free Rerolls"
+  },
+  {
+   "code": "300K!",
+   "reward": "5 Rerolls And 1 Luck Totem"
   },
   {
    "code": "MAZE",
    "reward": "5 Rerolls And 3 Fungi's Potions"
   }
  ],
- "updated": "2026-08-20T19:54:18.238Z",
+ "updated": "2026-08-22T03:16:24.409Z",
  "source": "https://robloxden.com/game-codes/the-forge"
 }

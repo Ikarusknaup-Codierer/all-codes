@@ -35,6 +35,10 @@
    "reward": "X Emote"
   },
   {
+   "code": "CHAMPIONS",
+   "reward": "an Exclusive Emote"
+  },
+  {
    "code": "SORRYFORSHUTDOWN",
    "reward": "a Random MVP"
   },
@@ -99,6 +103,6 @@
    "reward": "15,000 Style Coins and 15,000 Cash"
   }
  ],
- "updated": "2026-08-20T19:54:32.700Z",
+ "updated": "2026-08-22T03:16:37.079Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

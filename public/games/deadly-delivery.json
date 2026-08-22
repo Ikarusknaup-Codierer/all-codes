@@ -19,10 +19,6 @@
    "reward": "3 Z-Ray Guns , 3 Bio-Scanners , and 30 Gold Bars"
   },
   {
-   "code": "DAPHNE",
-   "reward": "3 Love Chocolate and 10 Gold Bars"
-  },
-  {
    "code": "DD20KLIKES",
    "reward": "2 Z-Ray Gun And 2 Bio-Scanners"
   },
@@ -89,8 +85,12 @@
   {
    "code": "SPYSKIN",
    "reward": "the Spy Skin"
+  },
+  {
+   "code": "DAPHNE",
+   "reward": "3 Love Chocolate and 10 Gold Bars"
   }
  ],
- "updated": "2026-08-21T03:33:18.694Z",
+ "updated": "2026-08-22T03:18:04.685Z",
  "source": "https://robloxden.com/game-codes/deadly-delivery"
 }

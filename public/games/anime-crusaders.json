@@ -59,10 +59,6 @@
    "reward": "60 Rerolls . You must be at least level 15 to claim this code"
   },
   {
-   "code": "TACOLOL",
-   "reward": "25 Rerolls and 1,500 Gems"
-  },
-  {
    "code": "APIBACKUP",
    "reward": "25 Rerolls and Gems . You must be at least level 10 to claim this code"
   },
@@ -229,8 +225,12 @@
   {
    "code": "Follow32_A1",
    "reward": "1 New Style"
+  },
+  {
+   "code": "TACOLOL",
+   "reward": "25 Rerolls and 1,500 Gems"
   }
  ],
- "updated": "2026-08-21T03:35:06.395Z",
+ "updated": "2026-08-22T03:19:44.461Z",
  "source": "https://robloxden.com/game-codes/anime-crusaders"
 }

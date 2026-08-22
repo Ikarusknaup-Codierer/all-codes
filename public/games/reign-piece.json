@@ -47,10 +47,6 @@
    "reward": "Freebies . You need to be at least level 4,500 to redeem this code"
   },
   {
-   "code": "LIMITEDCODE",
-   "reward": "Freebies . You need to be at least level 1,000 to redeem this code"
-  },
-  {
    "code": "ANTIMAGIC",
    "reward": "Freebies . You need to be at least level 4,000 to redeem this code"
   },
@@ -109,6 +105,10 @@
   {
    "code": "BLAMEMARKUSFORDROPRATES",
    "reward": "Rewards . You must be at least level 1,500 to claim this code"
+  },
+  {
+   "code": "LIMITEDCODE",
+   "reward": "Freebies . You need to be at least level 1,000 to redeem this code"
   },
   {
    "code": "ENELEVENT",
@@ -215,6 +215,6 @@
    "reward": "1 Mythical Chest and 10 Race Tokens"
   }
  ],
- "updated": "2026-08-20T19:52:29.784Z",
+ "updated": "2026-08-22T03:14:30.739Z",
  "source": "https://robloxden.com/game-codes/reign-piece"
 }

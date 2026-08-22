@@ -11,10 +11,6 @@
    "reward": "Tokens"
   },
   {
-   "code": "ExoticSnipe",
-   "reward": "Extra Tokens"
-  },
-  {
    "code": "ZumaDeluxePowerLeague",
    "reward": "75,000 Tokens"
   },
@@ -25,8 +21,12 @@
   {
    "code": "EpicReturnOfCodes",
    "reward": "75,000 Tokens"
+  },
+  {
+   "code": "NewSPTLEraComing",
+   "reward": "125,000 Tokens"
   }
  ],
- "updated": "2026-08-20T19:54:26.588Z",
+ "updated": "2026-08-22T03:16:31.755Z",
  "source": "https://robloxden.com/game-codes/super-power-training-league"
 }

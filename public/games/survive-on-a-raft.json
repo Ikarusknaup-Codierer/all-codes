@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "deepsea",
+   "code": "TridentCrossbow",
+   "reward": "200 Shells"
+  },
+  {
+   "code": "175klikes",
    "reward": "25 Shells"
   },
   {
@@ -15,18 +19,14 @@
    "reward": "25 Shells"
   },
   {
-   "code": "c00lkid",
+   "code": "90klikes",
    "reward": "25 Shells"
   },
   {
-   "code": "Volcano",
-   "reward": "25 Shells"
-  },
-  {
-   "code": "8kPlayer",
-   "reward": "25 Shells"
+   "code": "50klikes",
+   "reward": "Shells"
   }
  ],
- "updated": "2026-08-21T03:33:43.890Z",
+ "updated": "2026-08-22T03:18:27.278Z",
  "source": "https://robloxden.com/game-codes/survive-on-a-raft"
 }

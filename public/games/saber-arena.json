@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ILOVESBA",
-   "reward": "20,000 Credits"
-  },
-  {
    "code": "DUELS2",
    "reward": "20,000 Credits"
   },
@@ -19,10 +15,14 @@
    "reward": "Free Rewards"
   },
   {
+   "code": "ILOVESBA",
+   "reward": "20,000 Credits"
+  },
+  {
    "code": "BOUNTIES4",
    "reward": "20,000 Credits"
   }
  ],
- "updated": "2026-08-20T19:49:47.498Z",
+ "updated": "2026-08-22T03:11:56.863Z",
  "source": "https://robloxden.com/game-codes/saber-arena"
 }

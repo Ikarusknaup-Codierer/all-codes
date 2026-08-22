@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TAKEFLIGHT",
-   "reward": "100 Gems"
-  },
-  {
    "code": "AIRSUPPORT",
    "reward": "150 Gems"
   },
@@ -19,14 +15,18 @@
    "reward": "100 Gems . To use this code, you must first join the VIREAL Roblox Com"
   },
   {
-   "code": "FOLLOWAVALLACHI",
-   "reward": "Reward"
+   "code": "TAKEFLIGHT",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "miniempire",
+   "reward": "300 Diamonds, Hero EXP And Gold"
   },
   {
    "code": "LATEBATTLEPASS",
    "reward": "200 Gems"
   }
  ],
- "updated": "2026-08-21T03:35:34.626Z",
+ "updated": "2026-08-22T07:47:56.607Z",
  "source": "https://robloxden.com/game-codes/mini-empires"
 }

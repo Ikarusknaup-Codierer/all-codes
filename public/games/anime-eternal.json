@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Update60Part2",
+   "reward": "Jellies , Potions , Summer Potions , Credits , Keys , and Stat Resets"
+  },
+  {
+   "code": "Update60Delay",
+   "reward": "Jellies , Potions , Summer Potions , Credits , Keys , and Stat Resets"
+  },
+  {
+   "code": "Update60",
+   "reward": "Jellies , Potions , Summer Potions , Credits , Keys , and Stat Resets"
+  },
+  {
    "code": "Update59P2",
    "reward": "Credits, Jellies and Potions"
   },
@@ -183,6 +195,6 @@
    "reward": "Potions , Avatar Souls , and Credits"
   }
  ],
- "updated": "2026-08-21T03:37:22.574Z",
+ "updated": "2026-08-22T07:49:41.984Z",
  "source": "https://robloxden.com/game-codes/anime-eternal"
 }

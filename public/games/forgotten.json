@@ -31,10 +31,6 @@
    "reward": "Red Larva"
   },
   {
-   "code": "summer",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "1mil",
    "reward": "1,000,000 Cash"
   },
@@ -61,8 +57,12 @@
   {
    "code": "makimaandkaizer",
    "reward": "250,000"
+  },
+  {
+   "code": "summer",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-08-21T03:36:57.833Z",
+ "updated": "2026-08-22T07:49:17.605Z",
  "source": "https://robloxden.com/game-codes/forgotten"
 }

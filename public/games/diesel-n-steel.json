@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "GIFTING",
-   "reward": "Cash"
-  },
-  {
    "code": "BUGFIXES",
    "reward": "3,000 Cash"
-  },
-  {
-   "code": "SWEETPOTATOLOVER",
-   "reward": "200 Cash"
-  },
-  {
-   "code": "BOSSREI",
-   "reward": "500 Cash"
   },
   {
    "code": "nitro",
@@ -119,8 +107,16 @@
    "reward": "Cash"
   },
   {
+   "code": "GIFTING",
+   "reward": "Cash"
+  },
+  {
    "code": "SorryForBugs",
    "reward": "2,000 Cash"
+  },
+  {
+   "code": "SWEETPOTATOLOVER",
+   "reward": "200 Cash"
   },
   {
    "code": "PISO",
@@ -133,8 +129,12 @@
   {
    "code": "TEX",
    "reward": "1,000 Cash"
+  },
+  {
+   "code": "BOSSREI",
+   "reward": "500 Cash"
   }
  ],
- "updated": "2026-08-21T03:35:38.732Z",
+ "updated": "2026-08-22T07:48:00.484Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

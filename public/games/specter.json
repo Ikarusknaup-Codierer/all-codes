@@ -19,16 +19,8 @@
    "reward": "5 Vault Tokens"
   },
   {
-   "code": "THEHORSEISHERE",
-   "reward": "20,000 Cash"
-  },
-  {
    "code": "VOICECHAT",
    "reward": "3 Vault Tokens And 1 Spectrum Collection Cases"
-  },
-  {
-   "code": "HALLOW1",
-   "reward": "6 Vault Tokens, Spirit Box And A Free Wicked Collection Case"
   },
   {
    "code": "GALLERY",
@@ -81,8 +73,16 @@
   {
    "code": "SPLASH",
    "reward": "3 Vault Tokens"
+  },
+  {
+   "code": "THEHORSEISHERE",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "HALLOW1",
+   "reward": "6 Vault Tokens, Spirit Box And A Free Wicked Collection Case"
   }
  ],
- "updated": "2026-08-21T03:38:36.106Z",
+ "updated": "2026-08-22T07:50:56.644Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

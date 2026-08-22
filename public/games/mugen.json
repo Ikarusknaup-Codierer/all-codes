@@ -15,10 +15,6 @@
    "reward": "100K Yen"
   },
   {
-   "code": "JAPANGEN1",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "CHASE",
    "reward": "Free Rewards"
   },
@@ -27,10 +23,14 @@
    "reward": "Chase Update Rewards"
   },
   {
+   "code": "JAPANGEN1",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "REBALANCING",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-21T03:36:03.005Z",
+ "updated": "2026-08-22T07:48:23.727Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

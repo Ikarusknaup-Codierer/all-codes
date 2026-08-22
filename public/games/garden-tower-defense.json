@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CLAN",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "BASE",
+   "reward": "750 Seeds"
+  },
+  {
    "code": "HYDRO",
    "reward": "500 Seeds"
   },
@@ -39,6 +47,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-08-21T03:35:31.144Z",
+ "updated": "2026-08-22T07:47:53.699Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

@@ -11,22 +11,22 @@
    "reward": "10 Skill Spins"
   },
   {
-   "code": "leorioop",
+   "code": "negativeexp",
+   "reward": "5 Free Spins For Nen, 5 Free Spins For Family, 5 Free Spins For Color,"
+  },
+  {
+   "code": "7klikes",
    "reward": "1 Reset Stats"
   },
   {
-   "code": "15kuMoon",
+   "code": "UZUMAKI",
    "reward": "10 Free Spins For Nen, 10 Free Spins For Family, 10 Free Spins For Col"
   },
   {
-   "code": "6klikes",
-   "reward": "5 Free Spins For Nen, Family, 5 Free Spins For Color, And 5 Free Spins"
-  },
-  {
-   "code": "sorry4delay",
-   "reward": "5 Free Nen Spins"
+   "code": "sorry4shutdown",
+   "reward": "Free Double Luck For 15 Minutes"
   }
  ],
- "updated": "2026-08-21T08:09:12.578Z",
+ "updated": "2026-08-22T07:55:10.255Z",
  "source": "https://robloxden.com/game-codes/hunter-era"
 }

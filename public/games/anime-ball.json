@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "spinsword",
-   "reward": "5 Wheel Spins"
-  },
-  {
    "code": "grabitquick",
    "reward": "5 Spins And 10K Yen"
-  },
-  {
-   "code": "getboosted",
-   "reward": "Rewards"
   },
   {
    "code": "ymadoingaspacetrip",
    "reward": "Free Rewards"
   },
   {
+   "code": "trainingmode",
+   "reward": "1 Luck Boost"
+  },
+  {
    "code": "BossStudiosTakeover",
    "reward": "Rewards"
+  },
+  {
+   "code": "YOURETHEBEST",
+   "reward": "750 Yen"
   }
  ],
- "updated": "2026-08-21T08:15:18.404Z",
+ "updated": "2026-08-22T13:51:55.791Z",
  "source": "https://robloxden.com/game-codes/anime-ball"
 }

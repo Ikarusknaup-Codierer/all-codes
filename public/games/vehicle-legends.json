@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "200MilVisits",
+   "reward": "40,000 Credits"
+  },
+  {
+   "code": "thxfor100k",
+   "reward": "50,000 Credits"
+  },
+  {
    "code": "V3HICL3L3G3NDS",
    "reward": "A Reward"
   },
@@ -15,18 +23,10 @@
    "reward": "A Bunch Of Free Cash"
   },
   {
-   "code": "NewMapCode",
-   "reward": "Some Free Cash"
-  },
-  {
-   "code": "25MVisitsIsNice",
-   "reward": "A Bunch Of Free Cash"
-  },
-  {
    "code": "Turbocharged",
    "reward": "40,000 Cash"
   }
  ],
- "updated": "2026-08-21T08:14:25.141Z",
+ "updated": "2026-08-22T13:50:59.825Z",
  "source": "https://robloxden.com/game-codes/vehicle-legends"
 }

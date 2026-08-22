@@ -11,10 +11,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "ASCEND",
-   "reward": "50,000 Gems"
-  },
-  {
    "code": "SUGAR",
    "reward": "50K Gems"
   },
@@ -35,10 +31,6 @@
    "reward": "50,000 Gems"
   },
   {
-   "code": "SINISTER",
-   "reward": "30,000 Gems"
-  },
-  {
    "code": "MULTIUNBOX",
    "reward": "Free Rewards"
   },
@@ -49,8 +41,16 @@
   {
    "code": "CUSTOMIZE",
    "reward": "30,000 Gems"
+  },
+  {
+   "code": "ASCEND",
+   "reward": "50,000 Gems"
+  },
+  {
+   "code": "SINISTER",
+   "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-08-21T08:12:36.905Z",
+ "updated": "2026-08-22T13:49:18.651Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "41825XP",
-   "reward": "Double Exp"
-  },
-  {
-   "code": "BADDIES",
-   "reward": "Double XP"
+   "code": "MERRYXMAS25",
+   "reward": "2x EXP"
   },
   {
    "code": "SORRY4DELAY",
@@ -25,8 +21,12 @@
   {
    "code": "DALGONA",
    "reward": "300 Dalgona"
+  },
+  {
+   "code": "150KL",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-21T08:10:06.882Z",
+ "updated": "2026-08-22T13:46:52.819Z",
  "source": "https://robloxden.com/game-codes/pass-the-bomb"
 }

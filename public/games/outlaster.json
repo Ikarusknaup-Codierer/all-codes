@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "JUNGLELIFE",
-   "reward": "50 Gems"
+   "code": "NEW",
+   "reward": "New"
+  },
+  {
+   "code": "RELEASE!",
+   "reward": "2,500 Cash (when making an in-game Robux purchase for the next 24 hour"
   },
   {
    "code": "HORNS",
    "reward": "1 Darkhorn Torch (VIP ONLY)"
-  },
-  {
-   "code": "SPRING",
-   "reward": "1 Flower Necklace"
   },
   {
    "code": "GIFT",
@@ -25,12 +25,8 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
-  },
-  {
-   "code": "NEW",
-   "reward": "New"
   }
  ],
- "updated": "2026-08-21T14:11:56.657Z",
+ "updated": "2026-08-22T19:07:02.610Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

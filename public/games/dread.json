@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "JULY4TH",
-   "reward": "$1,000"
-  },
-  {
-   "code": "LEAPYEAR",
-   "reward": "$750"
-  },
-  {
-   "code": "BDAY",
+   "code": "BUFF",
    "reward": "$2,500"
   },
   {
@@ -25,8 +17,16 @@
   {
    "code": "AA13",
    "reward": "$1,000"
+  },
+  {
+   "code": "KEVLAR",
+   "reward": "Unknown Reward"
+  },
+  {
+   "code": "METAVERSE",
+   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-08-21T14:10:38.787Z",
+ "updated": "2026-08-22T19:05:34.597Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

@@ -27,10 +27,6 @@
    "reward": "25,000,000 RP"
   },
   {
-   "code": "DELAYDIKITADASAPINGAMUK",
-   "reward": "25,000,000 RP"
-  },
-  {
    "code": "DRAGDRIVESIMULATORJUNE26",
    "reward": "35,000,000 RP"
   },
@@ -55,6 +51,10 @@
    "reward": "RP"
   },
   {
+   "code": "DELAYDIKITADASAPINGAMUK",
+   "reward": "25,000,000 RP"
+  },
+  {
    "code": "THX4MILLIONADVCOMMUNITY",
    "reward": "40M RP"
   },
@@ -67,6 +67,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-21T19:18:30.689Z",
+ "updated": "2026-08-22T19:12:46.975Z",
  "source": "https://robloxden.com/game-codes/drag-drive-simulator"
 }

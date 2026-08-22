@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "RIA2026",
-   "reward": "one Billions Theme Potion and one Twin Atlas Preset Potion"
-  },
-  {
-   "code": "DA7THBIRTHDAY2",
-   "reward": "the Sonar Studios Party Hat accessory , the Party Cosmetic Trait Potio"
-  },
-  {
    "code": "SeasonXP2",
    "reward": "1,500 Season Pass XP"
   },
@@ -39,10 +31,18 @@
    "reward": "1 JustyBlox Preset Potion"
   },
   {
+   "code": "RIA2026",
+   "reward": "one Billions Theme Potion and one Twin Atlas Preset Potion"
+  },
+  {
+   "code": "DA7THBIRTHDAY2",
+   "reward": "the Sonar Studios Party Hat accessory , the Party Cosmetic Trait Potio"
+  },
+  {
    "code": "NEW",
    "reward": "Color Shuffle Potion"
   }
  ],
- "updated": "2026-08-21T14:13:22.626Z",
+ "updated": "2026-08-22T19:08:41.293Z",
  "source": "https://robloxden.com/game-codes/dragon-adventures"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PRING2023",
-   "reward": "a Speed Potion"
-  },
-  {
    "code": "yayy400k",
    "reward": "Gold Potion"
   },
@@ -185,8 +181,12 @@
   {
    "code": "BLIZMID",
    "reward": "the Avalanche Weapon"
+  },
+  {
+   "code": "PRING2023",
+   "reward": "a Speed Potion"
   }
  ],
- "updated": "2026-08-21T14:12:00.095Z",
+ "updated": "2026-08-22T19:07:08.585Z",
  "source": "https://robloxden.com/game-codes/treasure-quest"
 }

@@ -11,22 +11,22 @@
    "reward": "a Stat Reset"
   },
   {
-   "code": "RESETME7",
-   "reward": "a Stat Reset"
+   "code": "STOPASKING",
+   "reward": "20 Magic Spins"
   },
   {
-   "code": "100K",
-   "reward": ""
+   "code": "YOUWANTMAGIC",
+   "reward": "100 Magic Spins"
   },
   {
-   "code": "PEEKAPEEKABOO",
-   "reward": "Spins"
+   "code": "DEMONMAGIC",
+   "reward": "Magic Spins"
   },
   {
-   "code": "ESTEBAN",
-   "reward": "a reward"
+   "code": "TELLMEAGAIN",
+   "reward": "a Beta Sword"
   }
  ],
- "updated": "2026-08-21T14:13:46.580Z",
+ "updated": "2026-08-22T19:09:09.518Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

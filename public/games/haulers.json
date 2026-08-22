@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "50KLIKES",
+   "reward": "3x Revives"
+  },
+  {
    "code": "25KLIKES",
    "reward": "10 Rad Tokens"
   },
@@ -23,6 +27,6 @@
    "reward": "3x Revives"
   }
  ],
- "updated": "2026-08-21T14:13:48.969Z",
+ "updated": "2026-08-22T19:09:12.029Z",
  "source": "https://robloxden.com/game-codes/haulers"
 }

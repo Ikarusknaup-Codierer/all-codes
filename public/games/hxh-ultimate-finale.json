@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "MAINE",
-   "reward": "2 Common Spins"
+   "code": "SUBTOINFER",
+   "reward": "1 Lucky Spin"
   },
   {
-   "code": "WYDVEDDEN",
-   "reward": "1 Lucky Nen Affinity"
+   "code": "DROPTHEGAME",
+   "reward": "1 Uncommon New Reroll"
   },
   {
-   "code": "TRUSTTHEPROCESS",
-   "reward": "1 Lucky Nen Affinity"
+   "code": "THEDELAYGOD",
+   "reward": "1 Clan Reroll"
+  },
+  {
+   "code": "SCAMXSCAM",
+   "reward": "1 Clan Reroll"
+  },
+  {
+   "code": "REFUNDURMOM",
+   "reward": "1 Rare Hatsu Reroll"
   }
  ],
- "updated": "2026-08-21T14:14:08.638Z",
+ "updated": "2026-08-22T19:09:32.110Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

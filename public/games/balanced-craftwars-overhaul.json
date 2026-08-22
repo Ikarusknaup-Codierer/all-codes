@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "WinterGift",
-   "reward": "Fishy Treat"
+   "code": "C1RCUSCL0WN",
+   "reward": "Hollow Head"
+  },
+  {
+   "code": "testing",
+   "reward": "Test Vanity"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "Darksteel Chakram"
   },
   {
    "code": "Honk",
    "reward": "Annoying Goose"
   },
   {
-   "code": "R1NG",
-   "reward": "1 Broken Ring of Light"
-  },
-  {
-   "code": "M1N1NG",
-   "reward": "1 Darksteel Pickaxe"
-  },
-  {
    "code": "SL1M3",
    "reward": "1 Slime Staff"
   }
  ],
- "updated": "2026-08-21T19:17:45.718Z",
+ "updated": "2026-08-22T19:12:06.106Z",
  "source": "https://robloxden.com/game-codes/balanced-craftwars-overhaul"
 }

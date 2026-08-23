@@ -11,10 +11,6 @@
    "reward": ""
   },
   {
-   "code": "coolcode",
-   "reward": ""
-  },
-  {
    "code": "absolutelyterrible",
    "reward": "15 Rare Crates"
   },
@@ -23,10 +19,14 @@
    "reward": "5,000 Credits"
   },
   {
-   "code": "targetaudience",
-   "reward": "5 Legendary Crates"
+   "code": "realismisnot_theway",
+   "reward": "1 Legendary Crate"
+  },
+  {
+   "code": "ilovepeace",
+   "reward": "15,000 Credits"
   }
  ],
- "updated": "2026-08-22T07:48:10.368Z",
+ "updated": "2026-08-23T07:57:10.245Z",
  "source": "https://robloxden.com/game-codes/peacekeepers"
 }

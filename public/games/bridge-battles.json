@@ -15,18 +15,18 @@
    "reward": "a Fast Speed Boost"
   },
   {
-   "code": "DONTKILLME",
-   "reward": "a Fast Respawn Boost"
-  },
-  {
    "code": "150MVISITS",
    "reward": "Fast Speed Boost , Fling Others , and 3 Spins"
   },
   {
-   "code": "GETSLOWED",
-   "reward": "1 Slow Others Troll"
+   "code": "IAMSPEED",
+   "reward": "1 Fast Speed Boost"
+  },
+  {
+   "code": "INSTASPAWN",
+   "reward": "1 Fast Respawn Boost"
   }
  ],
- "updated": "2026-08-22T03:12:31.636Z",
+ "updated": "2026-08-23T07:49:50.645Z",
  "source": "https://robloxden.com/game-codes/bridge-battles"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CANCOLLIDE",
+   "reward": "40,000 Coins"
+  },
+  {
    "code": "PATIENCY",
    "reward": "40,000 Coins"
   },
@@ -15,6 +19,6 @@
    "reward": "40K Coins"
   }
  ],
- "updated": "2026-08-22T03:16:38.923Z",
+ "updated": "2026-08-23T07:53:17.130Z",
  "source": "https://robloxden.com/game-codes/train-sim"
 }

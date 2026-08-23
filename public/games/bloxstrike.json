@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "RIANOMINATED2026",
-   "reward": "250 Credits"
-  },
-  {
    "code": "REACTORDELAY",
    "reward": "rewards"
   },
   {
    "code": "LORE",
+   "reward": "250 Credits"
+  },
+  {
+   "code": "RIANOMINATED2026",
    "reward": "250 Credits"
   },
   {
@@ -39,6 +39,6 @@
    "reward": "50 Credits"
   }
  ],
- "updated": "2026-08-22T03:16:09.205Z",
+ "updated": "2026-08-23T07:52:47.336Z",
  "source": "https://robloxden.com/game-codes/bloxstrike"
 }

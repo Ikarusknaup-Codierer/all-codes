@@ -11,10 +11,6 @@
    "reward": "3 Z-Ray Guns , 3 Bio-Scanners , 3 The Traps , and 30 Gold Bars"
   },
   {
-   "code": "SEAOFSNOW",
-   "reward": "3 Revive Tickets , 1 Z-Ray Gun , 1 Bio-Scanner , and 1 The Trap"
-  },
-  {
    "code": "DD60KLIKES",
    "reward": "3 Z-Ray Guns , 3 Bio-Scanners , and 30 Gold Bars"
   },
@@ -87,10 +83,14 @@
    "reward": "the Spy Skin"
   },
   {
+   "code": "SEAOFSNOW",
+   "reward": "3 Revive Tickets , 1 Z-Ray Gun , 1 Bio-Scanner , and 1 The Trap"
+  },
+  {
    "code": "DAPHNE",
    "reward": "3 Love Chocolate and 10 Gold Bars"
   }
  ],
- "updated": "2026-08-22T03:18:04.685Z",
+ "updated": "2026-08-23T07:54:27.630Z",
  "source": "https://robloxden.com/game-codes/deadly-delivery"
 }

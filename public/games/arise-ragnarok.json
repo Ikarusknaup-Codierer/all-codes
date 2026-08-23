@@ -11,22 +11,22 @@
    "reward": "3 Igris Dungeon Key"
   },
   {
-   "code": "90KLIKES",
-   "reward": "5 Rank A Chests"
+   "code": "IGRIS",
+   "reward": "5 Igris Dungeon Chests"
   },
   {
-   "code": "ELF",
-   "reward": "5 Baruka Dungeon Chests"
-  },
-  {
-   "code": "MerryChristmas",
-   "reward": "12 Chests"
-  },
-  {
-   "code": "RELEASE",
+   "code": "35KFAVS",
    "reward": "1 Class Reroll"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "3 Class Rerolls"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-08-22T03:16:07.230Z",
+ "updated": "2026-08-23T07:52:45.436Z",
  "source": "https://robloxden.com/game-codes/arise-ragnarok"
 }

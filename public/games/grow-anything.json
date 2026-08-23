@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FRUITS",
-   "reward": "1 Basic Ingredient Pack"
-  },
-  {
    "code": "ALIEN",
    "reward": "1 Alien Sprinkler"
   },
@@ -19,14 +15,18 @@
    "reward": "2 Premium Ingredient Packs"
   },
   {
-   "code": "OCEAN",
+   "code": "FRUITS",
    "reward": "1 Basic Ingredient Pack"
   },
   {
-   "code": "first",
+   "code": "MOONLIT",
    "reward": "1 Void Sprinkler"
+  },
+  {
+   "code": "30K",
+   "reward": "1 Meteor Pack"
   }
  ],
- "updated": "2026-08-22T03:17:09.810Z",
+ "updated": "2026-08-23T07:53:48.101Z",
  "source": "https://robloxden.com/game-codes/grow-anything"
 }

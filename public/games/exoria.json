@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ELFUPDATE",
+   "reward": "x2 EXP (15 min)"
+  },
+  {
    "code": "INFINITYDUNGEON",
    "reward": "5 Rolls"
   },
   {
-   "code": "MOREROLLS",
+   "code": "CONSOLE",
    "reward": "5 Rolls"
   }
  ],
- "updated": "2026-08-22T03:12:52.918Z",
+ "updated": "2026-08-23T07:50:05.039Z",
  "source": "https://robloxden.com/game-codes/exoria"
 }

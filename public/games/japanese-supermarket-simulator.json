@@ -11,22 +11,22 @@
    "reward": "30 Minute XP Boost"
   },
   {
-   "code": "GAMEON",
-   "reward": "an EXP Boost (30 mins)"
-  },
-  {
    "code": "MakingMoney",
    "reward": "x2 Coin Boost (30 Minutes)"
   },
   {
-   "code": "WHOOPS",
-   "reward": "2,000 Coins"
+   "code": "EXTRAXP",
+   "reward": "30 Minute Double EXP Boost"
   },
   {
-   "code": "10KLIKES",
+   "code": "TISTHESEASON",
+   "reward": "3 Present Wraps"
+  },
+  {
+   "code": "MINTYBONUS",
    "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-08-22T07:48:41.999Z",
+ "updated": "2026-08-23T07:57:40.326Z",
  "source": "https://robloxden.com/game-codes/japanese-supermarket-simulator"
 }

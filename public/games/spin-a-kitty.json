@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "op2",
+   "reward": "5M Cash , 50 Gems , and 10 Astral Dice"
+  },
+  {
+   "code": "play",
+   "reward": "15 Gold Dice"
+  },
+  {
+   "code": "real",
+   "reward": "15 Gold Dice"
+  },
+  {
+   "code": "mani",
+   "reward": "3 Astral Dice and 25 Gems"
+  },
+  {
+   "code": "meowcode",
+   "reward": "10 Gold Dice and 25 Gems"
+  },
+  {
+   "code": "catdmin_abuse",
+   "reward": "50 Obsidian Dice"
+  },
+  {
+   "code": "Op",
+   "reward": "5 Astral Dice and 150 Gems"
+  },
+  {
    "code": "AUG1ST",
    "reward": "50 Gems and 5 Bronze Dice"
   },
@@ -95,6 +123,6 @@
    "reward": "5 Eternal Dice"
   }
  ],
- "updated": "2026-08-22T03:13:19.359Z",
+ "updated": "2026-08-23T07:50:23.001Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Heatwave",
+   "reward": "10 Epic+ Rolls"
+  },
+  {
+   "code": "Riptide",
+   "reward": "5 Epic+ Rolls"
+  },
+  {
+   "code": "Sunburn",
+   "reward": "1 Luck Potion III"
+  },
+  {
+   "code": "Coconut",
+   "reward": "2 Haste Potion II"
+  },
+  {
+   "code": "Lifeguard",
+   "reward": "1 Greed Potion III"
+  },
+  {
    "code": "Summer5",
    "reward": "Haste Potion II"
   },
@@ -327,6 +347,6 @@
    "reward": "10x Luck Potion III"
   }
  ],
- "updated": "2026-08-22T03:13:00.807Z",
+ "updated": "2026-08-23T07:50:11.299Z",
  "source": "https://robloxden.com/game-codes/hazbin-hotel-hells-fortune"
 }

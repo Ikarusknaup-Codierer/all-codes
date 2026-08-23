@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "FIXEDDD",
+   "reward": "1 Heavenly Tribulation Pill"
+  },
+  {
+   "code": "1MILVISITS",
+   "reward": "10,000 SF"
+  },
+  {
+   "code": "1MILVISITS2",
+   "reward": "10 Heavenly Tribulation Pills"
+  },
+  {
+   "code": "1MILVISITS3",
+   "reward": "10,000 KP"
+  },
+  {
+   "code": "1MILVISITS4",
+   "reward": "10 Inner Tokens"
+  },
+  {
    "code": "DELAYDELAY",
    "reward": "1 Heavenly Tribulation Pill"
   },
@@ -75,6 +95,6 @@
    "reward": "1 Heavenly Pill"
   }
  ],
- "updated": "2026-08-22T03:14:06.208Z",
+ "updated": "2026-08-23T07:51:04.476Z",
  "source": "https://robloxden.com/game-codes/chasing-immortality"
 }

@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "CROSSWIND",
+   "code": "4THOFJULY",
    "reward": "500 AirMiles"
+  },
+  {
+   "code": "RTO",
+   "reward": "250 AirMiles"
   },
   {
    "code": "RETURN",
    "reward": "Free Rewards"
   },
   {
-   "code": "NEW",
-   "reward": "Rewards"
+   "code": "GATWICK",
+   "reward": "300 AirMiles"
   },
   {
-   "code": "MULTIPLAYER",
+   "code": "NEW",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-08-22T03:14:32.696Z",
+ "updated": "2026-08-23T07:51:29.827Z",
  "source": "https://robloxden.com/game-codes/air-traffic-simulator"
 }

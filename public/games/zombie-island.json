@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AirStrike",
+   "reward": "1,000 Diamonds"
+  },
+  {
    "code": "Katana",
    "reward": "1,000 Diamonds"
   },
@@ -35,6 +39,6 @@
    "reward": "1,000 Diamonds"
   }
  ],
- "updated": "2026-08-21T19:21:21.187Z",
+ "updated": "2026-08-23T03:33:46.170Z",
  "source": "https://robloxden.com/game-codes/zombie-island"
 }

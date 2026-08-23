@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "divinecommunity",
-   "reward": "1.25x Rarity Luck , 1.25x Roll Speed , 1.3x Rune Bulk , 1.3x Rune Luck"
-  },
-  {
    "code": "ConradoWatchedMeHidingThisCode",
    "reward": "10 Tickets"
   },
@@ -55,10 +51,14 @@
    "reward": "2 Of Each Potions"
   },
   {
+   "code": "divinecommunity",
+   "reward": "1.25x Rarity Luck , 1.25x Roll Speed , 1.3x Rune Bulk , 1.3x Rune Luck"
+  },
+  {
    "code": "100kvisits",
    "reward": "25 Tickets"
   }
  ],
- "updated": "2026-08-21T19:21:01.583Z",
+ "updated": "2026-08-23T03:33:28.686Z",
  "source": "https://robloxden.com/game-codes/divine-rarities"
 }

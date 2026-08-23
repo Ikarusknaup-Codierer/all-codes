@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SplashCourse2026",
-   "reward": "2 New Colors and Leftover Summer Egg Tokens"
-  },
-  {
    "code": "SUPERDNA",
    "reward": "25 S-DNA"
   },
@@ -51,6 +47,10 @@
    "reward": "the Twitter Ornithomimus"
   },
   {
+   "code": "SplashCourse2026",
+   "reward": "2 New Colors and Leftover Summer Egg Tokens"
+  },
+  {
    "code": "MEGADODO",
    "reward": "Megadodo Skin"
   },
@@ -59,6 +59,6 @@
    "reward": "10,000 DNA"
   }
  ],
- "updated": "2026-08-21T19:20:55.608Z",
+ "updated": "2026-08-23T03:33:23.336Z",
  "source": "https://robloxden.com/game-codes/dinosaur-simulator"
 }

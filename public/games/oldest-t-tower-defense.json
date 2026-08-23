@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ClockUpdate",
+   "reward": "200 Coins"
+  },
+  {
    "code": "EndlessUpdate",
    "reward": "200 Coins"
   },
@@ -47,6 +51,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-08-21T19:24:52.310Z",
+ "updated": "2026-08-23T03:37:07.492Z",
  "source": "https://robloxden.com/game-codes/oldest-t-tower-defense"
 }

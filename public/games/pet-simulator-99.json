@@ -11,8 +11,12 @@
    "reward": "Damage Potion V"
   },
   {
-   "code": "HugeUnicornDragon",
-   "reward": "Huge Unicorn Dragon"
+   "code": "BagOfDiamonds",
+   "reward": "Bag Of Diamonds"
+  },
+  {
+   "code": "BallonHoverboard",
+   "reward": "Ballon Hoverboard"
   },
   {
    "code": "PFB96CG9472D",
@@ -21,12 +25,8 @@
   {
    "code": "pet-259e210a1b",
    "reward": "Huge Cat Pet"
-  },
-  {
-   "code": "pet-45a33a2dca",
-   "reward": "Huge Dragon Pet"
   }
  ],
- "updated": "2026-08-21T19:19:08.807Z",
+ "updated": "2026-08-23T03:32:13.820Z",
  "source": "https://robloxden.com/game-codes/pet-simulator-99"
 }

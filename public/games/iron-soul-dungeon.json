@@ -11,6 +11,18 @@
    "reward": "3 Season Lucky Tickets"
   },
   {
+   "code": "IRONSOULWEEKEND19",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "SEASON3EXPAND",
+   "reward": "2,000 Season Vouchers and 160 Origin Shards"
+  },
+  {
+   "code": "SEASON3LIMITED",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "IRONSOULWEEKEND18",
    "reward": "3 Race Rerolls"
   },
@@ -71,6 +83,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-08-21T19:22:07.018Z",
+ "updated": "2026-08-23T03:34:29.874Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

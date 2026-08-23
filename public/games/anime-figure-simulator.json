@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE4",
-   "reward": "1,000 Gems , 1,000 Cash , and 1 Luck Potion III"
-  },
-  {
    "code": "2500LIKES",
    "reward": "1,000 Gems"
   },
@@ -21,8 +17,12 @@
   {
    "code": "2000LIKES",
    "reward": "500 Gems"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "1,000 Gems , 1,000 Cash , and 1 Luck Potion III"
   }
  ],
- "updated": "2026-08-21T19:23:23.481Z",
+ "updated": "2026-08-23T03:35:41.857Z",
  "source": "https://robloxden.com/game-codes/anime-figure-simulator"
 }

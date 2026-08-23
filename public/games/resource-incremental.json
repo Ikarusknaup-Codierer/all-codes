@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "10KLikes",
+   "reward": "3 All Potions"
+  },
+  {
+   "code": "1MVisits",
+   "reward": "50 Tickets and 100 Diamonds"
+  },
+  {
    "code": "5KLikes",
    "reward": "3 All Potions"
   },
@@ -39,6 +47,6 @@
    "reward": "+1 All Potions"
   }
  ],
- "updated": "2026-08-21T19:22:57.319Z",
+ "updated": "2026-08-23T03:35:16.596Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

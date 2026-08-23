@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ENDLESSTOWER",
+   "reward": "1 Dmg Potion , 1 Unbroken Potion , 1 Wisdom Potion , 1 Cooldown Potion"
+  },
+  {
    "code": "BBDC65K",
    "reward": "3 Red Orbs and 3 Igniters"
   },
@@ -63,6 +67,6 @@
    "reward": "10 Thunder"
   }
  ],
- "updated": "2026-08-21T19:26:27.962Z",
+ "updated": "2026-08-23T03:38:04.420Z",
  "source": "https://robloxden.com/game-codes/broken-blade"
 }

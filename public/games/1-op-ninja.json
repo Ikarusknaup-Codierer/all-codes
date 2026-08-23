@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Dust",
+   "reward": "600 Soul Force"
+  },
+  {
+   "code": "honor",
+   "reward": "Honor Protection (20 Lives) and x10 Honor (20 Kills)"
+  },
+  {
+   "code": "storm",
+   "reward": "Auto Train (1h)"
+  },
+  {
+   "code": "itsoverninethousand",
+   "reward": "x10 Damage (1h)"
+  },
+  {
+   "code": "WELCOMEBACK",
+   "reward": "Auto Train (24h) , Auto Upgrade (24h) , x5 Soul Force (24h) , x5 Ninju"
+  },
+  {
    "code": "KITSUNE",
    "reward": "600 Soul Force"
   },
@@ -23,6 +43,6 @@
    "reward": "1 Hour Auto Train, 1 Hour Auto Upgrade, 15-Minute All Boost and 100 Bu"
   }
  ],
- "updated": "2026-08-21T19:22:32.449Z",
+ "updated": "2026-08-23T03:34:54.406Z",
  "source": "https://robloxden.com/game-codes/1-op-ninja"
 }

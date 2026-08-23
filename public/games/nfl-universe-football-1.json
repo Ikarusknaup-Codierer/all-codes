@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BLACKOUT",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "FRESHPACK",
    "reward": "1 Play Maker Pack"
   },
@@ -27,6 +31,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-08-22T13:49:00.808Z",
+ "updated": "2026-08-23T19:05:29.034Z",
  "source": "https://robloxden.com/game-codes/nfl-universe-football-1"
 }

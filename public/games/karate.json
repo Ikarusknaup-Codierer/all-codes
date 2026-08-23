@@ -11,22 +11,22 @@
    "reward": "375 Yen"
   },
   {
-   "code": "PBE",
-   "reward": "1 hour of 2x ESP"
+   "code": "THANKS4EXP",
+   "reward": "1,500 EXP"
   },
   {
-   "code": "CHERRRYBLOSSOM",
+   "code": "MERRYCHRISTMAS",
+   "reward": "an unspecified reward"
+  },
+  {
+   "code": "CHERRYBLOSSOM",
    "reward": "500 Yen"
   },
   {
-   "code": "DEMON",
-   "reward": "1-Hour Double EXP"
-  },
-  {
-   "code": "TURKEYTIME",
-   "reward": "2x Exp Boost (1 hour)"
+   "code": "BLITZ",
+   "reward": "1 Hour Of 2x XP"
   }
  ],
- "updated": "2026-08-22T13:48:39.691Z",
+ "updated": "2026-08-23T19:05:04.141Z",
  "source": "https://robloxden.com/game-codes/karate"
 }

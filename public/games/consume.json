@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "1kl1kes",
-   "reward": "1,000 Cultist Coins"
-  },
-  {
    "code": "2mvisits",
    "reward": "2,000 Cultist Coins"
   },
@@ -37,8 +33,12 @@
   {
    "code": "100kfavourites",
    "reward": "2,500 Coins"
+  },
+  {
+   "code": "1kl1kes",
+   "reward": "1,000 Cultist Coins"
   }
  ],
- "updated": "2026-08-22T13:45:55.178Z",
+ "updated": "2026-08-23T19:03:49.644Z",
  "source": "https://robloxden.com/game-codes/consume"
 }

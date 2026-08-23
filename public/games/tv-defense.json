@@ -31,10 +31,6 @@
    "reward": "600 Firecrackers"
   },
   {
-   "code": "ETHEL",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "VALENTINE2026",
    "reward": "500 Pixel Heart"
   },
@@ -101,8 +97,12 @@
   {
    "code": "APRILFOOL",
    "reward": "3,000 Coins"
+  },
+  {
+   "code": "ETHEL",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-22T13:51:54.700Z",
+ "updated": "2026-08-23T19:08:19.624Z",
  "source": "https://robloxden.com/game-codes/tv-defense"
 }

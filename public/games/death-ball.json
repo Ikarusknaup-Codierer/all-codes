@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PETAL",
+   "reward": "30,000 Gems"
+  },
+  {
+   "code": "VELVET",
+   "reward": "50,000 Gems"
+  },
+  {
    "code": "MAJESTIC",
    "reward": "Rewards"
   },
@@ -51,6 +59,6 @@
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-08-22T13:49:18.651Z",
+ "updated": "2026-08-23T19:05:47.188Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

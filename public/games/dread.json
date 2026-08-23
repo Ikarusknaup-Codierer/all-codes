@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "BUFF",
-   "reward": "$2,500"
+   "code": "FIB",
+   "reward": "$750"
+  },
+  {
+   "code": "LEAPYEAR",
+   "reward": "$750"
   },
   {
    "code": "BLUBLU",
@@ -21,12 +25,8 @@
   {
    "code": "KEVLAR",
    "reward": "Unknown Reward"
-  },
-  {
-   "code": "METAVERSE",
-   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-08-22T19:05:34.597Z",
+ "updated": "2026-08-23T19:12:22.356Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

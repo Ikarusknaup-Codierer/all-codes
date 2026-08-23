@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ROOFTOP",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "BASEMENT",
    "reward": "Free Rewards"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Rewards"
   },
   {
+   "code": "DISCOUNTS",
+   "reward": "30k Cash"
+  },
+  {
    "code": "NEWCARS",
    "reward": "30,000 Cash"
   }
  ],
- "updated": "2026-08-22T13:47:15.064Z",
+ "updated": "2026-08-23T19:04:03.753Z",
  "source": "https://robloxden.com/game-codes/millionaire-mansion-tycoon"
 }

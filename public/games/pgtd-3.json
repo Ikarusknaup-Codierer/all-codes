@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "UpdateSoon",
-   "reward": "20 Levels"
+   "code": "tokens",
+   "reward": "150 Upgrade Tokens"
   },
   {
-   "code": "LuckyWeekend",
-   "reward": "Reward"
+   "code": "14KLIKES",
+   "reward": "50 Upgrade Tokens"
   },
   {
-   "code": "LevelsAreUseless",
-   "reward": "50,000 XP"
-  },
-  {
-   "code": "5000Likes",
-   "reward": "10 Upgrade Tokens"
+   "code": "3MVisits",
+   "reward": "50 Stars"
   },
   {
    "code": "Sorry4Shutdowns",
    "reward": "100 Stars"
+  },
+  {
+   "code": "750Likes",
+   "reward": "5 Levels"
   }
  ],
- "updated": "2026-08-22T13:53:49.886Z",
+ "updated": "2026-08-23T19:10:09.615Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

@@ -11,10 +11,6 @@
    "reward": ""
   },
   {
-   "code": "BIRTHDAY",
-   "reward": "500 Credits"
-  },
-  {
    "code": "easter",
    "reward": "Credits"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "3MVISITS",
+   "code": "valentinesday",
    "reward": "100 Credits"
+  },
+  {
+   "code": "CHRISTMAS",
+   "reward": "30 Credits"
   }
  ],
- "updated": "2026-08-22T07:53:37.391Z",
+ "updated": "2026-08-23T13:52:36.617Z",
  "source": "https://robloxden.com/game-codes/mush-yo"
 }

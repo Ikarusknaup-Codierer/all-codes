@@ -7,7 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "5000LikesWow",
+   "code": "10kFavesWow",
    "reward": "Freebies"
   },
   {
@@ -15,18 +15,18 @@
    "reward": "Freebies"
   },
   {
-   "code": "3000LikesYay",
-   "reward": "Freebies"
-  },
-  {
-   "code": "15kThanks",
-   "reward": "free Rewards"
-  },
-  {
-   "code": "THANKSFOR400",
+   "code": "LAUNCH",
    "reward": "1 Golden Scroll"
+  },
+  {
+   "code": "2KWOWTHANKS",
+   "reward": "1 Glowing Scroll"
+  },
+  {
+   "code": "3KTHANKYOUSOMUCH",
+   "reward": "1 Glowing Scroll"
   }
  ],
- "updated": "2026-08-22T07:52:42.902Z",
+ "updated": "2026-08-23T13:51:38.040Z",
  "source": "https://robloxden.com/game-codes/flower-simulator"
 }

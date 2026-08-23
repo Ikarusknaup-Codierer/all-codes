@@ -11,18 +11,22 @@
    "reward": "69 Coins"
   },
   {
-   "code": "ENDLESS",
-   "reward": "250 MemBits"
-  },
-  {
    "code": "SorryForDelay",
    "reward": "250 MemBits"
   },
   {
-   "code": "4500Likes",
-   "reward": "750 MemBits"
+   "code": "FLOPPA",
+   "reward": "3 Trait Rolls"
+  },
+  {
+   "code": "EVENT",
+   "reward": "1000 MemBits"
+  },
+  {
+   "code": "DeadlyCompany",
+   "reward": "250 MemBits"
   }
  ],
- "updated": "2026-08-22T07:52:50.161Z",
+ "updated": "2026-08-23T13:51:45.201Z",
  "source": "https://robloxden.com/game-codes/meme-tower-defense"
 }

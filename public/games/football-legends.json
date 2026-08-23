@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "PARKHELMETS",
+   "reward": "1 Summer Trail Case"
+  },
+  {
+   "code": "CATCH",
+   "reward": "1 Summer Skin Case"
+  },
+  {
+   "code": "60KLIKES",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "HURDLE",
    "reward": "2K Coins"
   },
@@ -27,6 +39,6 @@
    "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-08-22T13:45:51.440Z",
+ "updated": "2026-08-23T13:54:18.241Z",
  "source": "https://robloxden.com/game-codes/football-legends"
 }

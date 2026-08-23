@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SUBGAMERROBOT_RESET",
-   "reward": "a free Stat Reset"
-  },
-  {
    "code": "GAMER_ROBOT_1M",
    "reward": "30 Minutes of 2x Experience Boost"
   },
@@ -19,14 +15,18 @@
    "reward": "15 Minutes of 2x Experience"
   },
   {
-   "code": "SUB2NOOBMASTER123",
-   "reward": "a 2x EXP Boost"
+   "code": "Bluxxy",
+   "reward": "a Boost"
   },
   {
    "code": "3klikes",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "SORRYFORSHUTDOWN",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-08-22T07:47:26.496Z",
+ "updated": "2026-08-23T13:47:33.406Z",
  "source": "https://robloxden.com/game-codes/blox-fruits-but-admins"
 }

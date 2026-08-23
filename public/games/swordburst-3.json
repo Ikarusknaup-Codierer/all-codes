@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "OBLIVION",
-   "reward": "150 Gems"
-  },
-  {
    "code": "BLACKFRIDAY",
    "reward": "150 Gems"
   },
   {
    "code": "SWORDBURST",
    "reward": "Reward"
+  },
+  {
+   "code": "GEMS250",
+   "reward": "250 Gems"
   },
   {
    "code": "INFERNUM",
@@ -27,6 +27,6 @@
    "reward": "1 Crystal Key"
   }
  ],
- "updated": "2026-08-22T07:54:53.562Z",
+ "updated": "2026-08-23T13:53:32.697Z",
  "source": "https://robloxden.com/game-codes/swordburst-3"
 }

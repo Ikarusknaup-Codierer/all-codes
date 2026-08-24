@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PART2",
-   "reward": "125 Cash"
-  },
-  {
    "code": "ILOVEYALL",
    "reward": "1 Love Skin (Common) , 1 Love '23 Skin (Common) , and 1 Lovely Skin (C"
   },
@@ -27,10 +23,14 @@
    "reward": "$100 Cash"
   },
   {
+   "code": "PART2",
+   "reward": "125 Cash"
+  },
+  {
    "code": "100MILLY",
    "reward": "the 100M Knife"
   }
  ],
- "updated": "2026-08-23T03:38:48.701Z",
+ "updated": "2026-08-24T08:35:10.355Z",
  "source": "https://robloxden.com/game-codes/mm2-aim-trainer-2"
 }

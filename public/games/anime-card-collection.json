@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SummerCode1",
+   "reward": "1,000 Summer Tokens"
+  },
+  {
    "code": "SummerCode",
    "reward": "1,000 Summer Tokens"
   },
@@ -243,6 +247,6 @@
    "reward": "500 Cash and 1 Ninja Pack"
   }
  ],
- "updated": "2026-08-23T07:51:22.396Z",
+ "updated": "2026-08-24T08:39:06.391Z",
  "source": "https://robloxden.com/game-codes/anime-card-collection"
 }

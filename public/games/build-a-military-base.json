@@ -27,6 +27,18 @@
    "reward": "a Logistics Warehouse"
   },
   {
+   "code": "2XSPEED",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "NEMESIS",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "QOL",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "123BUGFIX",
    "reward": "a Headquarters"
   },
@@ -55,6 +67,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-08-23T03:36:30.162Z",
+ "updated": "2026-08-24T08:32:46.772Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

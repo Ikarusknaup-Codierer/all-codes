@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "GUILD",
-   "reward": "500 Coins"
-  },
-  {
    "code": "50KLIKES",
    "reward": "500 Tokens"
   },
   {
    "code": "30KLIKES",
    "reward": "250 Coins and 2 Aura Rerolls"
+  },
+  {
+   "code": "UPDATEDAY",
+   "reward": "2K Coins and 2 Aura Rerolls"
   },
   {
    "code": "10KLIKES",
@@ -27,6 +27,6 @@
    "reward": "Tokens"
   }
  ],
- "updated": "2026-08-23T03:36:22.725Z",
+ "updated": "2026-08-24T08:32:38.688Z",
  "source": "https://robloxden.com/game-codes/power-simulator-x"
 }

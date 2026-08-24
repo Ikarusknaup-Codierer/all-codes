@@ -7,26 +7,30 @@
    "reward": "Description"
   },
   {
-   "code": "4THOFJULY",
-   "reward": "500 AirMiles"
+   "code": "AUGUST",
+   "reward": "200 AirMiles"
   },
   {
-   "code": "RTO",
-   "reward": "250 AirMiles"
+   "code": "LEMI",
+   "reward": "200 AirMiles"
   },
   {
-   "code": "RETURN",
-   "reward": "Free Rewards"
+   "code": "SKBO",
+   "reward": "200 AirMiles"
   },
   {
-   "code": "GATWICK",
-   "reward": "300 AirMiles"
+   "code": "OTTAWA",
+   "reward": "Rewards"
+  },
+  {
+   "code": "100k",
+   "reward": "Rewards"
   },
   {
    "code": "NEW",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-08-23T07:51:29.827Z",
+ "updated": "2026-08-24T08:39:15.458Z",
  "source": "https://robloxden.com/game-codes/air-traffic-simulator"
 }

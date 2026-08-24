@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HBDSIN20",
+   "reward": "650 GP"
+  },
+  {
+   "code": "FRICKGRANPA",
+   "reward": "350 GP"
+  },
+  {
    "code": "GPCAPREMOVAL",
    "reward": "1000 GP"
   },
@@ -39,6 +47,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-08-23T03:38:09.290Z",
+ "updated": "2026-08-24T08:34:35.924Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

@@ -15,12 +15,12 @@
    "reward": "123 Cash"
   },
   {
-   "code": "DIFFICULT",
-   "reward": "150 Cash"
-  },
-  {
    "code": "HELLO",
    "reward": "100 Cash"
+  },
+  {
+   "code": "DIFFICULT",
+   "reward": "150 Cash"
   },
   {
    "code": "MUSEUM",
@@ -39,6 +39,6 @@
    "reward": "100 Cash"
   }
  ],
- "updated": "2026-08-23T03:38:31.208Z",
+ "updated": "2026-08-24T08:34:52.735Z",
  "source": "https://robloxden.com/game-codes/tactical-swat-simulator"
 }

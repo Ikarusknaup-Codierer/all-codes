@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "30KMEMBERS",
+   "reward": "1,000 Gems and 15 Trait Rerolls"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "500 Gems , 10 Trait Rerolls , and 10 Stat Rerolls"
+  },
+  {
    "code": "1MVISITS",
    "reward": "2,500 Gems and 50 Trait Rerolls"
   },
@@ -51,6 +59,6 @@
    "reward": "20 Trait Rerolls , 20 Stat Rerolls , and 1,000 Gems"
   }
  ],
- "updated": "2026-08-23T03:35:01.468Z",
+ "updated": "2026-08-24T08:31:17.896Z",
  "source": "https://robloxden.com/game-codes/anime-dungeons"
 }

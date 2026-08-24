@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "GIVEBREAD",
+   "code": "ZENI",
+   "reward": "15,000 Zeni"
+  },
+  {
+   "code": "WEUP",
    "reward": "10,000 Zeni"
   },
   {
-   "code": "BANELDEV",
-   "reward": "1 Race Roll and 3 Aura Spins"
-  },
-  {
-   "code": "ThanksFor10kLikes!",
-   "reward": "3 Race Spins and 3 Gene Spins"
+   "code": "BUDOBAD",
+   "reward": "1 Race Spin and 1 Aura Spin"
   }
  ],
- "updated": "2026-08-23T03:38:43.194Z",
+ "updated": "2026-08-24T08:35:05.599Z",
  "source": "https://robloxden.com/game-codes/budokai-z"
 }

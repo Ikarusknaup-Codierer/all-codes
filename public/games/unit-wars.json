@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "3MVisits",
-   "reward": "2 Raid Eggs, 5 Double Trait Potions and 15 Steaks"
-  },
-  {
    "code": "25kFavorites",
    "reward": "2 Season 2 Eggs, 5 Double Luck Potions and 15 Power Nuts"
   },
@@ -57,8 +53,12 @@
   {
    "code": "10kLikes",
    "reward": "10 Food Crates, 1 Double Luck Potion and 10 Power Nut"
+  },
+  {
+   "code": "3MVisits",
+   "reward": "2 Raid Eggs, 5 Double Trait Potions and 15 Steaks"
   }
  ],
- "updated": "2026-08-23T07:49:54.508Z",
+ "updated": "2026-08-24T08:37:29.553Z",
  "source": "https://robloxden.com/game-codes/unit-wars"
 }

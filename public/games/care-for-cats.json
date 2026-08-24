@@ -11,7 +11,7 @@
    "reward": "25K Firefly Dust"
   },
   {
-   "code": "UPDATELOG2",
+   "code": "UPDATELOG3",
    "reward": "35 Golden Fish"
   },
   {
@@ -19,14 +19,14 @@
    "reward": "25 Golden Fish and 2 Buttered Buns"
   },
   {
-   "code": "FATCATUPDATE",
-   "reward": "30 Golden Fish"
+   "code": "COFFEE",
+   "reward": "25 Golden Fish and 2 Steamed Milk"
   },
   {
-   "code": "CAREFORCATS",
-   "reward": "Free rewards"
+   "code": "SORRYFORBUGS",
+   "reward": ""
   }
  ],
- "updated": "2026-08-23T03:36:03.235Z",
+ "updated": "2026-08-24T08:32:25.896Z",
  "source": "https://robloxden.com/game-codes/care-for-cats"
 }

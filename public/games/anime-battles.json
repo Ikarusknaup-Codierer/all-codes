@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Update6",
+   "reward": "100 Gems and 2 Of Each Potion"
+  },
+  {
+   "code": "Eternal",
+   "reward": "100 Gems and 1 Of Each Super Potion"
+  },
+  {
+   "code": "WOWGEMS",
+   "reward": "500 Gems"
+  },
+  {
    "code": "Update5",
    "reward": "100 Gems, 2 Damage Potions, 2 Energy Potions, 2 Luck Potions, 2 Roll S"
   },
@@ -99,6 +111,6 @@
    "reward": "50 Gems , 3 Energy Potions , 3 Luck Potions , 50 Yen , and 5 Ki Tokens"
   }
  ],
- "updated": "2026-08-23T03:35:52.573Z",
+ "updated": "2026-08-24T08:32:14.193Z",
  "source": "https://robloxden.com/game-codes/anime-battles"
 }

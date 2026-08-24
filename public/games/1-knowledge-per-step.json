@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1",
+   "reward": "5 Spins"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "5 Spins"
+  },
+  {
+   "code": "2KVISITS",
+   "reward": "5 Spins"
+  },
+  {
    "code": "RELEASE",
    "reward": "50 Wins"
   }
  ],
- "updated": "2026-08-23T03:36:46.156Z",
+ "updated": "2026-08-24T08:33:04.830Z",
  "source": "https://robloxden.com/game-codes/1-knowledge-per-step"
 }

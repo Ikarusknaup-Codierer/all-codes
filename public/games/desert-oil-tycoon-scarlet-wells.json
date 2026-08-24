@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "250CCU",
-   "reward": "Rewards"
-  },
-  {
    "code": "500LIKES",
-   "reward": "Rewards"
-  },
-  {
-   "code": "1000LIKES",
    "reward": "Rewards"
   },
   {
@@ -25,8 +17,16 @@
   {
    "code": "PERFORMANCE",
    "reward": "Rewards"
+  },
+  {
+   "code": "DESTRUCTION",
+   "reward": "Rewards"
+  },
+  {
+   "code": "BOOSTER",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-08-23T03:40:12.266Z",
+ "updated": "2026-08-24T08:36:26.471Z",
  "source": "https://robloxden.com/game-codes/desert-oil-tycoon-scarlet-wells"
 }

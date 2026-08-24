@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "upd11",
+   "reward": "2 Evolution Stones"
+  },
+  {
+   "code": "relic",
+   "reward": "5 Relic Rerolls , 5 Relic Resets , and 10,000 Hell Stone"
+  },
+  {
+   "code": "key-hellstone-86271112",
+   "reward": "100,000 Hell Stones"
+  },
+  {
    "code": "key-summerticket-24294493",
    "reward": "8 Tickets for Lottery"
   },
@@ -55,6 +67,6 @@
    "reward": "100 Weapon Stones and 10 Soul Ring Rerolls"
   }
  ],
- "updated": "2026-08-23T03:36:02.762Z",
+ "updated": "2026-08-24T08:32:25.396Z",
  "source": "https://robloxden.com/game-codes/1-dmg-per-revive"
 }

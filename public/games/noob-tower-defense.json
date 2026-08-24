@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ENCHANTOVERHAUL",
+   "reward": "500 Gems and 500 Coins"
+  },
+  {
    "code": "IMPOSSIBLE",
    "reward": "450 Gems and 750 Coins"
   },
@@ -23,6 +27,6 @@
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-08-23T03:40:01.851Z",
+ "updated": "2026-08-24T08:36:18.921Z",
  "source": "https://robloxden.com/game-codes/noob-tower-defense"
 }

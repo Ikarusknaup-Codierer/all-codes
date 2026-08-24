@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "starrynight",
+   "reward": "3 Of Each Potion"
+  },
+  {
    "code": "fivemil",
    "reward": "5 Of Every Potion"
   },
@@ -67,6 +71,6 @@
    "reward": "5 Spins"
   }
  ],
- "updated": "2026-08-23T03:39:00.230Z",
+ "updated": "2026-08-24T08:35:21.636Z",
  "source": "https://robloxden.com/game-codes/archer-training"
 }

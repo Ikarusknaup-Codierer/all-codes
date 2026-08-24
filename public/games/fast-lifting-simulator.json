@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORDELAY",
+   "reward": "2.35B Strength"
+  },
+  {
+   "code": "EASYCOINS",
+   "reward": "3.75B Coins"
+  },
+  {
    "code": "7KMEMBERS",
    "reward": "70% Coins"
   },
@@ -19,6 +27,6 @@
    "reward": "12% Strength"
   }
  ],
- "updated": "2026-08-23T03:34:41.190Z",
+ "updated": "2026-08-24T08:31:01.777Z",
  "source": "https://robloxden.com/game-codes/fast-lifting-simulator"
 }

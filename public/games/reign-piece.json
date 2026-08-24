@@ -75,10 +75,6 @@
    "reward": "Freebies . You must be at least level 500 to use this code"
   },
   {
-   "code": "ANOSUPDATE",
-   "reward": "Freebies . You must be at least level 3000 to use this code"
-  },
-  {
    "code": "FREECLANRELICS",
    "reward": "Free Rewards"
   },
@@ -87,19 +83,11 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "SDSUPDATE",
-   "reward": "Freebies"
-  },
-  {
    "code": "PRIDEVSLOVE",
    "reward": "Freebies"
   },
   {
    "code": "1500CCU!",
-   "reward": "Freebies . You must be at least level 1,000 to claim this code"
-  },
-  {
-   "code": "SOVEREIGN",
    "reward": "Freebies . You must be at least level 1,000 to claim this code"
   },
   {
@@ -119,6 +107,10 @@
    "reward": "Freebies . You need to be at least level 1,000 to redeem this code"
   },
   {
+   "code": "ANOSUPDATE",
+   "reward": "Freebies . You must be at least level 3000 to use this code"
+  },
+  {
    "code": "ENELEVENT",
    "reward": "Free Rewards"
   },
@@ -129,6 +121,14 @@
   {
    "code": "REQSMET!",
    "reward": "50k Yen, 1.5k Crystals, 45 Race Tokens, 5 Mythical Chests, 3 Daily Spi"
+  },
+  {
+   "code": "SDSUPDATE",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SOVEREIGN",
+   "reward": "Freebies . You must be at least level 1,000 to claim this code"
   },
   {
    "code": "HUGEUPDATE",
@@ -223,6 +223,6 @@
    "reward": "1 Mythical Chest and 10 Race Tokens"
   }
  ],
- "updated": "2026-08-23T07:51:27.851Z",
+ "updated": "2026-08-24T08:39:13.035Z",
  "source": "https://robloxden.com/game-codes/reign-piece"
 }

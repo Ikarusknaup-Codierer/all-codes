@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "oneyear",
+   "reward": "5K Gems"
+  },
+  {
    "code": "wave",
    "reward": "1000 Gem"
   },
@@ -17,8 +21,12 @@
   {
    "code": "bbtd",
    "reward": "300 Gems"
+  },
+  {
+   "code": "goat",
+   "reward": "500 Gems"
   }
  ],
- "updated": "2026-08-23T07:56:48.705Z",
+ "updated": "2026-08-24T14:33:01.434Z",
  "source": "https://robloxden.com/game-codes/brainrot-tower-defense"
 }

@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "Endless",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "Summer",
    "reward": "In-Game Rewards"
+  },
+  {
+   "code": "200Active",
+   "reward": "+1 Level"
+  },
+  {
+   "code": "50KVisits",
+   "reward": "Free Rewards"
   },
   {
    "code": "Quests",
@@ -21,12 +25,8 @@
   {
    "code": "Perks",
    "reward": "300 Cash"
-  },
-  {
-   "code": "Modifiers",
-   "reward": "750 Gubcoins and XP"
   }
  ],
- "updated": "2026-08-23T13:47:52.418Z",
+ "updated": "2026-08-24T14:34:40.687Z",
  "source": "https://robloxden.com/game-codes/gubby-tower-defense"
 }

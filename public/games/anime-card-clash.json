@@ -55,6 +55,26 @@
    "reward": "Legacy Skin"
   },
   {
+   "code": "CHAINSAW5",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
+  },
+  {
+   "code": "CHAINSAW4",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 2 Boss Chance "
+  },
+  {
+   "code": "CHAINSAW3",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
+  },
+  {
+   "code": "CHAINSAW2",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 2 Boss Chance "
+  },
+  {
+   "code": "CHAINSAW1",
+   "reward": "5 Large Luck Potions , 5 Large Roll Speed Potions , 2 Boss Chance Poti"
+  },
+  {
    "code": "SORRYFORDELAY2",
    "reward": "20 250,000x Instant Roll Tickets"
   },
@@ -103,6 +123,6 @@
    "reward": "2 50,000x Instant Rolls"
   }
  ],
- "updated": "2026-08-23T13:47:44.826Z",
+ "updated": "2026-08-24T14:34:32.095Z",
  "source": "https://robloxden.com/game-codes/anime-card-clash"
 }

@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "BODYGUARD",
-   "reward": "a 3x EXP Booster"
-  },
-  {
    "code": "RECRUIT",
    "reward": "3x EXP Booster"
   },
   {
    "code": "DOOMSDAY",
    "reward": "the Metal Shard Skin"
+  },
+  {
+   "code": "RETIREMENT",
+   "reward": "2x EXP Booster"
   }
  ],
- "updated": "2026-08-23T13:50:01.104Z",
+ "updated": "2026-08-24T14:36:57.480Z",
  "source": "https://robloxden.com/game-codes/asylum-life"
 }

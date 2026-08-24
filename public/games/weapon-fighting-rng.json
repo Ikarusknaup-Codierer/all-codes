@@ -11,22 +11,22 @@
    "reward": "3 Luck Boosts II , 3 Stone Boosts II , 3 Roll Speed Boosts II , and 3 "
   },
   {
-   "code": "snow",
-   "reward": "Boosts"
+   "code": "boss5",
+   "reward": "5 Boss Skip Scrolls"
   },
   {
-   "code": "trait",
-   "reward": "Boosts"
-  },
-  {
-   "code": "treasure",
+   "code": "friend",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "boss",
+   "reward": "5 Boss Skip Scrolls"
   },
   {
    "code": "arise",
    "reward": "2 Luck Boosts I , 2 Stone Boosts I , 2 Roll Speed Boosts I , and 2 EXP"
   }
  ],
- "updated": "2026-08-23T13:48:25.702Z",
+ "updated": "2026-08-24T14:35:20.185Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-rng"
 }

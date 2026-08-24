@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "thanksfor10mil",
+   "reward": "1,000 Coins and a free, limited decoration"
+  },
+  {
    "code": "darkoaster",
    "reward": "500 Coins"
   },
@@ -27,6 +31,6 @@
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-23T07:53:23.507Z",
+ "updated": "2026-08-24T14:29:30.294Z",
  "source": "https://robloxden.com/game-codes/coaster-operator"
 }

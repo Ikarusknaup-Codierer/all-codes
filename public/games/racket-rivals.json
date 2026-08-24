@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SCORE",
+   "reward": "750 Yen"
+  },
+  {
+   "code": "CARD",
+   "reward": "750 Yen"
+  },
+  {
    "code": "500M",
    "reward": "a 200 Yen , a Spirit Pack , 2 Standard Packs , a Rackets Pack , and a "
   },
@@ -43,6 +51,6 @@
    "reward": "1,000 Yen"
   }
  ],
- "updated": "2026-08-23T13:47:59.023Z",
+ "updated": "2026-08-24T14:34:48.339Z",
  "source": "https://robloxden.com/game-codes/racket-rivals"
 }

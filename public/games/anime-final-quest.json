@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FIXESDONE",
+   "reward": "100 Raid Tickets , 150 Runes , and 10 Soul Manipulator Hands"
+  },
+  {
+   "code": "TEMPEST",
+   "reward": "55 Raid Tickets , 100 Weapon Lucky Spins , 100 Runes , and 150,000 Gol"
+  },
+  {
+   "code": "CYBORGEVO",
+   "reward": "80 Gear Lucky Spins and 50,000 Gold"
+  },
+  {
    "code": "NEZHADELAYAPOLOGY",
    "reward": "100 Raid Tickets , 100 Lucky Weapon Spins , 100 Runes , 1,000,000 Gold"
   },
@@ -139,6 +151,6 @@
    "reward": "50 Runes"
   }
  ],
- "updated": "2026-08-23T07:53:53.970Z",
+ "updated": "2026-08-24T14:30:04.060Z",
  "source": "https://robloxden.com/game-codes/anime-final-quest"
 }

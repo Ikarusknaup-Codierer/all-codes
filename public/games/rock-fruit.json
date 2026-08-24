@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MiniUpdate3",
+   "reward": "5 Lucky Potions , 5 EXP Potions , 5 Diamond Potions , and 25,000,000 B"
+  },
+  {
+   "code": "KFC",
+   "reward": "10 Item Potions and 2,500 Diamonds"
+  },
+  {
    "code": "UPDATE2",
    "reward": "2,500 Gems and 10 2x Luck Potions"
   },
@@ -47,6 +55,6 @@
    "reward": "500 Gems and a Lucky Drops Boost"
   }
  ],
- "updated": "2026-08-23T07:54:35.547Z",
+ "updated": "2026-08-24T14:30:50.637Z",
  "source": "https://robloxden.com/game-codes/rock-fruit"
 }

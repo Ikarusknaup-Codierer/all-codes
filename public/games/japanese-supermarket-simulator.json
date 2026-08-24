@@ -11,22 +11,22 @@
    "reward": "30 Minute XP Boost"
   },
   {
-   "code": "MakingMoney",
-   "reward": "x2 Coin Boost (30 Minutes)"
+   "code": "INSTOCK",
+   "reward": "the restocker (1 Hour)"
   },
   {
-   "code": "EXTRAXP",
-   "reward": "30 Minute Double EXP Boost"
+   "code": "EXTRAHANDS",
+   "reward": "the cashier (1 Hour)"
   },
   {
-   "code": "TISTHESEASON",
-   "reward": "3 Present Wraps"
+   "code": "PAYDAY",
+   "reward": "1,500 Coins"
   },
   {
-   "code": "MINTYBONUS",
-   "reward": "1,000 Coins"
+   "code": "CLEANUP",
+   "reward": "1 Hour Janitor Free Trial"
   }
  ],
- "updated": "2026-08-23T07:57:40.326Z",
+ "updated": "2026-08-24T14:33:58.389Z",
  "source": "https://robloxden.com/game-codes/japanese-supermarket-simulator"
 }

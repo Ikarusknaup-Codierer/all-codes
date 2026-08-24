@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "OVERL0RD",
+   "reward": "an Armory Collection Case , 5 Vault Tokens , and 20,000 Cash"
+  },
+  {
    "code": "SPECTER3",
    "reward": "Free Rewards"
   },
@@ -17,14 +21,6 @@
   {
    "code": "INFINITY",
    "reward": "5 Vault Tokens"
-  },
-  {
-   "code": "VOICECHAT",
-   "reward": "3 Vault Tokens And 1 Spectrum Collection Cases"
-  },
-  {
-   "code": "GALLERY",
-   "reward": "3 Vault Tokens And An EMF Reader Skin"
   },
   {
    "code": "LABORDAY25",
@@ -79,10 +75,18 @@
    "reward": "20,000 Cash"
   },
   {
+   "code": "VOICECHAT",
+   "reward": "3 Vault Tokens And 1 Spectrum Collection Cases"
+  },
+  {
    "code": "HALLOW1",
    "reward": "6 Vault Tokens, Spirit Box And A Free Wicked Collection Case"
+  },
+  {
+   "code": "GALLERY",
+   "reward": "3 Vault Tokens And An EMF Reader Skin"
   }
  ],
- "updated": "2026-08-23T13:49:51.085Z",
+ "updated": "2026-08-24T14:36:47.986Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

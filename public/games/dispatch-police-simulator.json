@@ -15,10 +15,6 @@
    "reward": "321 Cash"
   },
   {
-   "code": "SHIELDS",
-   "reward": "111 Cash"
-  },
-  {
    "code": "CONSTRUCTION",
    "reward": "210 Cash"
   },
@@ -67,10 +63,14 @@
    "reward": "222 Cash"
   },
   {
+   "code": "SHIELDS",
+   "reward": "111 Cash"
+  },
+  {
    "code": "NAVIGATE",
    "reward": "120 Cash"
   }
  ],
- "updated": "2026-08-23T07:56:46.852Z",
+ "updated": "2026-08-24T14:32:59.846Z",
  "source": "https://robloxden.com/game-codes/dispatch-police-simulator"
 }

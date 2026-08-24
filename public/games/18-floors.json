@@ -15,10 +15,6 @@
    "reward": "500 Credits"
   },
   {
-   "code": "cowabunga",
-   "reward": "500 Credits"
-  },
-  {
    "code": "dotEXE",
    "reward": "500 Credits"
   },
@@ -89,8 +85,12 @@
   {
    "code": "SixKLikes",
    "reward": "500 Credits"
+  },
+  {
+   "code": "cowabunga",
+   "reward": "500 Credits"
   }
  ],
- "updated": "2026-08-23T13:47:36.702Z",
+ "updated": "2026-08-24T14:34:23.602Z",
  "source": "https://robloxden.com/game-codes/18-floors"
 }

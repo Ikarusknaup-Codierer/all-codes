@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "FROSTYPOWER",
+   "code": "LASH10",
    "reward": "Freebies"
   },
   {
-   "code": "CHRISTMASESSENCE",
-   "reward": "10 Diamonds"
+   "code": "FROSTYCHRISTMAS",
+   "reward": "30,000 Coins"
+  },
+  {
+   "code": "FROSTYHOLIDAYS",
+   "reward": "10,000 Coins"
   },
   {
    "code": "FROSTYBOOST",
@@ -21,12 +25,8 @@
   {
    "code": "FROSTYCOINS",
    "reward": "10,000 Coins"
-  },
-  {
-   "code": "100kLIKES",
-   "reward": "the Limited UGC"
   }
  ],
- "updated": "2026-08-23T07:52:21.540Z",
+ "updated": "2026-08-24T14:28:27.737Z",
  "source": "https://robloxden.com/game-codes/kingdom-of-essentia-tycoon"
 }

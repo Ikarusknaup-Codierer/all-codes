@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TOTHETOP",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "L1KE",
-   "reward": "7,500 Cash"
-  },
-  {
    "code": "UPD1",
    "reward": "5,000 Cash"
   },
@@ -165,8 +157,16 @@
   {
    "code": "RACER",
    "reward": "5,000 Cash"
+  },
+  {
+   "code": "TOTHETOP",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "L1KE",
+   "reward": "7,500 Cash"
   }
  ],
- "updated": "2026-08-23T19:07:01.972Z",
+ "updated": "2026-08-24T19:55:41.820Z",
  "source": "https://robloxden.com/game-codes/prodigy-drift"
 }

@@ -11,10 +11,6 @@
    "reward": "25% off all routes"
   },
   {
-   "code": "50CHRISTMAS",
-   "reward": "50% Sale For All Metro Routes Until New Years Eve"
-  },
-  {
    "code": "XPRESSMAS",
    "reward": "40% off all Stepford Express trains"
   },
@@ -25,8 +21,12 @@
   {
    "code": "FREE500",
    "reward": "500 Points"
+  },
+  {
+   "code": "SCR500K",
+   "reward": "50% off all trains"
   }
  ],
- "updated": "2026-08-23T13:50:00.102Z",
+ "updated": "2026-08-24T19:46:38.410Z",
  "source": "https://robloxden.com/game-codes/stepford-county-railway"
 }

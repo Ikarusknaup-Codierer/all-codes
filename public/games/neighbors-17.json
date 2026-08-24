@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "ANNIVERSARY",
+   "reward": "200 Credits"
+  },
+  {
    "code": "CUPID",
    "reward": "125 Credits"
   },
   {
-   "code": "XMAS",
+   "code": "HAWK",
    "reward": "100 Credits"
   },
   {
-   "code": "SPOOKY",
-   "reward": "100 Credits"
+   "code": "THANKSGIVING24",
+   "reward": "150 Credits"
   },
   {
-   "code": "100K",
-   "reward": "100 Credits"
-  },
-  {
-   "code": "200MILLION",
-   "reward": "170 Credits"
+   "code": "40K",
+   "reward": "125 Credits"
   }
  ],
- "updated": "2026-08-23T19:05:24.343Z",
+ "updated": "2026-08-24T19:54:15.929Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

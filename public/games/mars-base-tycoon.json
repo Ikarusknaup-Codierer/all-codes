@@ -11,6 +11,10 @@
    "reward": "1,000 Cash"
   },
   {
+   "code": "1000LIKES",
+   "reward": ""
+  },
+  {
    "code": "like",
    "reward": "5,000 Cash"
   },
@@ -21,12 +25,8 @@
   {
    "code": "100",
    "reward": "1,000 Cash"
-  },
-  {
-   "code": "thanks",
-   "reward": "Reward"
   }
  ],
- "updated": "2026-08-23T13:56:32.982Z",
+ "updated": "2026-08-24T19:52:20.285Z",
  "source": "https://robloxden.com/game-codes/mars-base-tycoon"
 }

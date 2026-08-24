@@ -19,10 +19,6 @@
    "reward": "Cash"
   },
   {
-   "code": "ILIKECODES",
-   "reward": "Cash"
-  },
-  {
    "code": "EZZZ",
    "reward": "Cash"
   },
@@ -167,6 +163,10 @@
    "reward": "Cash"
   },
   {
+   "code": "ILIKECODES",
+   "reward": "Cash"
+  },
+  {
    "code": "500LIKES",
    "reward": "10,000 Cash"
   },
@@ -183,6 +183,6 @@
    "reward": "Free Cash"
   }
  ],
- "updated": "2026-08-23T13:54:46.626Z",
+ "updated": "2026-08-24T19:51:26.426Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

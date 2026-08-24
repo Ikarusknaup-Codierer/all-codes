@@ -15,18 +15,18 @@
    "reward": "1,500 EXP"
   },
   {
-   "code": "MERRYCHRISTMAS",
+   "code": "FESTIVE",
+   "reward": "No Listed Reward"
+  },
+  {
+   "code": "B00ST",
+   "reward": "No Listed Reward"
+  },
+  {
+   "code": "WINTERWONDERLAND",
    "reward": "an unspecified reward"
-  },
-  {
-   "code": "CHERRYBLOSSOM",
-   "reward": "500 Yen"
-  },
-  {
-   "code": "BLITZ",
-   "reward": "1 Hour Of 2x XP"
   }
  ],
- "updated": "2026-08-23T19:05:04.141Z",
+ "updated": "2026-08-24T19:53:59.035Z",
  "source": "https://robloxden.com/game-codes/karate"
 }

@@ -11,10 +11,6 @@
    "reward": "250 Moonstones"
   },
   {
-   "code": "sunshine",
-   "reward": "200 Moonstones"
-  },
-  {
    "code": "TVL6BDAY",
    "reward": "250 Moonstones"
   },
@@ -23,10 +19,14 @@
    "reward": "200 Moonstones"
   },
   {
-   "code": "bounty",
-   "reward": "1,000 Moonstones"
+   "code": "21k",
+   "reward": "250 Moonstones"
+  },
+  {
+   "code": "c-release",
+   "reward": "250 Moonstones"
   }
  ],
- "updated": "2026-08-23T13:52:34.741Z",
+ "updated": "2026-08-24T19:49:12.796Z",
  "source": "https://robloxden.com/game-codes/the-vampire-legacies-2"
 }

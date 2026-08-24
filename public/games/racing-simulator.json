@@ -15,18 +15,18 @@
    "reward": "2x 10m Luck Potions"
   },
   {
-   "code": "goldenegg",
-   "reward": "the Golden Egg"
-  },
-  {
-   "code": "MERRY2",
-   "reward": "2 Speed Potions For 10 Minutes"
+   "code": "luckyfrog",
+   "reward": "5 Luck Potions and the Frog Pet"
   },
   {
    "code": "RELEASE1",
    "reward": "1 Speed Potion For 10 Minutes"
+  },
+  {
+   "code": "THANKSFORPLAYING",
+   "reward": "Free Potions"
   }
  ],
- "updated": "2026-08-23T13:52:17.954Z",
+ "updated": "2026-08-24T19:48:54.688Z",
  "source": "https://robloxden.com/game-codes/racing-simulator"
 }

@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "release",
+   "code": "joineddiscord",
+   "reward": "80,000 Coins"
+  },
+  {
+   "code": "300KLikes",
    "reward": "Reward"
   },
   {
-   "code": "JOINDDISCORD",
-   "reward": "80,000 Coins"
+   "code": "release",
+   "reward": "Reward"
   },
   {
    "code": "WINTERWARRIOR",
@@ -21,12 +25,8 @@
   {
    "code": "73M1LL1ON",
    "reward": "100,000 Coins"
-  },
-  {
-   "code": "ACTIVEWIZARD20K",
-   "reward": "150,000 Coins"
   }
  ],
- "updated": "2026-08-22T19:06:45.575Z",
+ "updated": "2026-08-24T03:34:54.584Z",
  "source": "https://robloxden.com/game-codes/war-simulator"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "NewPotions",
+   "reward": "3 of All New Potions"
+  },
+  {
+   "code": "NewWorld",
+   "reward": "30 Tickets"
+  },
+  {
+   "code": "BigUpdate",
+   "reward": "2 of All Potions"
+  },
+  {
    "code": "Fishing",
    "reward": "3 of All Potions"
   },
@@ -47,6 +59,6 @@
    "reward": "1 Hellfire"
   }
  ],
- "updated": "2026-08-23T03:32:28.935Z",
+ "updated": "2026-08-24T03:41:21.719Z",
  "source": "https://robloxden.com/game-codes/slayer-incremental"
 }

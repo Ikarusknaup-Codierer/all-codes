@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "1BVISITS",
-   "reward": "the 1B Knife"
-  },
-  {
    "code": "BACK",
    "reward": "5,000 Coins"
+  },
+  {
+   "code": "1BVISITS",
+   "reward": "the 1B Knife"
   },
   {
    "code": "MAYFIFTH",
@@ -31,6 +31,6 @@
    "reward": "2,500 Coins"
   }
  ],
- "updated": "2026-08-22T19:13:46.469Z",
+ "updated": "2026-08-24T03:40:21.056Z",
  "source": "https://robloxden.com/game-codes/murderers-vs-sheriffs"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "OffGrid",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "BuildModeUpdate",
+   "reward": "350 Cash"
+  },
+  {
    "code": "WorkshopBuff",
    "reward": "350 Cash"
   },
@@ -47,6 +55,6 @@
    "reward": "$350"
   }
  ],
- "updated": "2026-08-22T19:06:32.494Z",
+ "updated": "2026-08-24T03:34:48.675Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

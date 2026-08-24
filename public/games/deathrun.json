@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "SCRAPTASTIC",
-   "reward": "50 Scraps"
+   "code": "woah",
+   "reward": "25 Gems"
   },
   {
-   "code": "GLADIEGGOR",
-   "reward": "Coins And Gems"
+   "code": "Rudolf",
+   "reward": "25 Gems And Some Snowballs"
+  },
+  {
+   "code": "F2TM",
+   "reward": "200 Coins, An F2TM Trail, And 10 Gems"
   },
   {
    "code": "SEASON4",
@@ -21,12 +25,8 @@
   {
    "code": "THANKSGIVING2020",
    "reward": "40 gems"
-  },
-  {
-   "code": "TOMATOES",
-   "reward": "10 tomatoes"
   }
  ],
- "updated": "2026-08-22T19:12:42.400Z",
+ "updated": "2026-08-24T03:39:49.473Z",
  "source": "https://robloxden.com/game-codes/deathrun"
 }

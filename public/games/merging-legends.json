@@ -19,10 +19,6 @@
    "reward": "50 Diamond Circles"
   },
   {
-   "code": "SecretCode2025",
-   "reward": "150 Emerald Circles"
-  },
-  {
    "code": "FreeEmerald",
    "reward": "5 Emerald Circles"
   },
@@ -53,8 +49,12 @@
   {
    "code": "RussoTalks",
    "reward": "50 Diamond Circles"
+  },
+  {
+   "code": "SecretCode2025",
+   "reward": "150 Emerald Circles"
   }
  ],
- "updated": "2026-08-22T19:12:02.960Z",
+ "updated": "2026-08-24T03:39:14.369Z",
  "source": "https://robloxden.com/game-codes/merging-legends"
 }

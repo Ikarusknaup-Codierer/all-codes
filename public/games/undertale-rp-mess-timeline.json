@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "billsans",
-   "reward": "500 Gold"
-  },
-  {
    "code": "goldgoldgold",
    "reward": "500 Gold"
   },
@@ -19,10 +15,14 @@
    "reward": "500 Souls"
   },
   {
+   "code": "billsans",
+   "reward": "500 Gold"
+  },
+  {
    "code": "spdustsans",
    "reward": "500 Gold"
   }
  ],
- "updated": "2026-08-23T03:32:47.662Z",
+ "updated": "2026-08-24T03:41:40.769Z",
  "source": "https://robloxden.com/game-codes/undertale-rp-mess-timeline"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "600KLIKES",
-   "reward": "200 Coins and 1 Paper Box"
-  },
-  {
    "code": "WEAREBACK",
    "reward": "500 Coins"
   },
@@ -23,10 +19,14 @@
    "reward": "200 Coins and the Elven Countess Hairpiece"
   },
   {
+   "code": "500KLIKES",
+   "reward": "200 Coins and 1 Paper Box"
+  },
+  {
    "code": "ITSASECRET",
    "reward": "150 Coins"
   }
  ],
- "updated": "2026-08-22T19:11:09.411Z",
+ "updated": "2026-08-24T03:38:49.799Z",
  "source": "https://robloxden.com/game-codes/flicker"
 }

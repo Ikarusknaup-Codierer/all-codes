@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "BigUPDATEComing",
-   "reward": "100 Spins and 15 Minutes DROP Boost"
-  },
-  {
    "code": "CombatRework",
    "reward": "50 Spins and 15 Minutes EXP Boost"
+  },
+  {
+   "code": "BigUPDATEComing",
+   "reward": "100 Spins and 15 Minutes DROP Boost"
   },
   {
    "code": "XMAS2025",
@@ -23,6 +23,6 @@
    "reward": "60 Spins, 1,000 Materials, 4,000 RC, 300,000 Yen, And 60 Minutes Of Bo"
   }
  ],
- "updated": "2026-08-22T19:11:05.566Z",
+ "updated": "2026-08-24T03:38:46.203Z",
  "source": "https://robloxden.com/game-codes/project-ghoul"
 }

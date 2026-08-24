@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "45000",
+   "reward": "500 Coins"
+  },
+  {
    "code": "40KWOW",
    "reward": "500 Coins"
   },
@@ -19,14 +23,10 @@
    "reward": "500 Coins"
   },
   {
-   "code": "ThanksForYourSupport",
-   "reward": "500 Coins"
-  },
-  {
    "code": "LevelUpTime",
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-23T03:33:22.826Z",
+ "updated": "2026-08-24T03:42:11.403Z",
  "source": "https://robloxden.com/game-codes/shred"
 }

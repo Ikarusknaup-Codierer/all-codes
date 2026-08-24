@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "JETPACK",
+   "reward": "5 Lucky Ability Spins"
+  },
+  {
+   "code": "UPDATE_82",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "ROKETTO",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
    "code": "UPDATE_81",
    "reward": "5 Lucky Style Spins"
   },
@@ -43,6 +55,6 @@
    "reward": "5 Lucky Ability Spins"
   }
  ],
- "updated": "2026-08-23T03:33:25.464Z",
+ "updated": "2026-08-24T03:42:16.963Z",
  "source": "https://robloxden.com/game-codes/volleyball-legends"
 }

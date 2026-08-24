@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "STATRESET2",
+   "code": "PROJECTHERO10",
+   "reward": "Exp"
+  },
+  {
+   "code": "STATRESET8",
    "reward": "a Stat Reset"
   },
   {
-   "code": "STOPASKING",
-   "reward": "20 Magic Spins"
+   "code": "STATRESET5",
+   "reward": "a Stat Reset"
   },
   {
-   "code": "YOUWANTMAGIC",
-   "reward": "100 Magic Spins"
+   "code": "LATENIGHTRACE",
+   "reward": "Race Spins"
   },
   {
-   "code": "DEMONMAGIC",
-   "reward": "Magic Spins"
-  },
-  {
-   "code": "TELLMEAGAIN",
-   "reward": "a Beta Sword"
+   "code": "2BIGLOAD",
+   "reward": "30 Magic Spins"
   }
  ],
- "updated": "2026-08-22T19:09:09.518Z",
+ "updated": "2026-08-24T03:36:50.802Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ATOMIC",
+   "reward": "20 Lucky Rolls"
+  },
+  {
+   "code": "WORLD2",
+   "reward": "10 Lucky Rolls"
+  },
+  {
    "code": "GUILD",
    "reward": "10 Lucky Rolls"
   },
@@ -39,6 +47,6 @@
    "reward": "20 Lucky Rolls"
   }
  ],
- "updated": "2026-08-23T03:33:45.680Z",
+ "updated": "2026-08-24T03:42:36.758Z",
  "source": "https://robloxden.com/game-codes/excuse-me-sir"
 }

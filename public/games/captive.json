@@ -11,22 +11,22 @@
    "reward": "300 Cash"
   },
   {
-   "code": "KREW",
-   "reward": "Free Cash"
-  },
-  {
-   "code": "SPOOKY",
-   "reward": "A Special Reward"
-  },
-  {
    "code": "glorious",
    "reward": "2,000 Cash"
   },
   {
-   "code": "snowday",
-   "reward": "100 Cash"
+   "code": "discord",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "BUNDLE",
+   "reward": "50 Cash"
+  },
+  {
+   "code": "FROSTY",
+   "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-08-22T19:07:31.446Z",
+ "updated": "2026-08-24T03:35:21.538Z",
  "source": "https://robloxden.com/game-codes/captive"
 }

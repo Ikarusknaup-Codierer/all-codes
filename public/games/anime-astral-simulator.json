@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE9",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "ONIPUNCHI",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "MONSTERS",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "UPD9FIXE",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
    "code": "DEMONKING",
    "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -235,6 +251,6 @@
    "reward": "Tickets , Potions , or Boosts"
   }
  ],
- "updated": "2026-08-23T03:33:24.846Z",
+ "updated": "2026-08-24T03:42:13.788Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

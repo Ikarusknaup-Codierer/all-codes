@@ -7,20 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "AIRPORT",
-   "reward": "1,000 Cash"
+   "code": "EASTER",
+   "reward": "20,000 Cash"
   },
   {
-   "code": "AIRPORTUPD",
-   "reward": "1,500 Cash"
+   "code": "HELICOPTER",
+   "reward": "4,000 Cash"
   },
   {
-   "code": "UPDATE3",
-   "reward": "5K Cash"
+   "code": "EPICUPD",
+   "reward": "5k Cash"
   },
   {
-   "code": "RELEASE",
-   "reward": "5K Cash"
+   "code": "EGYPT",
+   "reward": "15,000 Cash"
   },
   {
    "code": "2023",
@@ -31,6 +31,6 @@
    "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-08-23T19:13:18.940Z",
+ "updated": "2026-08-25T03:22:31.688Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

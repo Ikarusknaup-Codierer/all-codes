@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "USA250",
-   "reward": "the USA T-Rex Dinosaur"
-  },
-  {
    "code": "70KL1KES",
    "reward": "450 Bones"
   },
@@ -53,8 +49,12 @@
   {
    "code": "FOLLOWERS",
    "reward": "150 Bones"
+  },
+  {
+   "code": "USA250",
+   "reward": "the USA T-Rex Dinosaur"
   }
  ],
- "updated": "2026-08-23T19:11:27.241Z",
+ "updated": "2026-08-25T03:21:29.267Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

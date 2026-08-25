@@ -11,10 +11,6 @@
    "reward": "A Reward"
   },
   {
-   "code": "BOOSTS",
-   "reward": "A Reward"
-  },
-  {
    "code": "UPDATE1",
    "reward": "A Reward"
   },
@@ -25,8 +21,12 @@
   {
    "code": "RELEASE",
    "reward": "100 Coins and Money Boost (5 minutes)"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "Money Boost (5 minutes)"
   }
  ],
- "updated": "2026-08-23T19:11:32.398Z",
+ "updated": "2026-08-25T03:21:32.677Z",
  "source": "https://robloxden.com/game-codes/ai-tycoon"
 }

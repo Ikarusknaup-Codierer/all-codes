@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "EA_CC",
+   "reward": "1,500 Shards and 5 Cases . This code requires you to join the Creator "
+  },
+  {
+   "code": "EA_GOLD",
+   "reward": "4,000 Shards , 10 Cases , and a Serialized Hammer . This code requires"
+  },
+  {
+   "code": "EA_SILVER",
+   "reward": "1,500 Shards and 5 Cases . This code requires you to invite 7 players"
+  },
+  {
+   "code": "EA_BRONZE",
+   "reward": "500 Shards and 2 Cases . This code requires you to invite 3 players"
   }
  ],
- "updated": "2026-08-24T03:37:02.912Z",
+ "updated": "2026-08-25T03:25:29.313Z",
  "source": "https://robloxden.com/game-codes/killstreak"
 }

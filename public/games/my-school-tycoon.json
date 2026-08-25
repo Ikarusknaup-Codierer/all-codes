@@ -15,18 +15,18 @@
    "reward": "1,500 School Points"
   },
   {
-   "code": "newupdate",
+   "code": "GYMUPDATE",
    "reward": "500 Cash"
   },
   {
-   "code": "BUSUPDATE",
-   "reward": "500 Cash"
+   "code": "THIRDFLOOR",
+   "reward": "3,000 Cash"
   },
   {
-   "code": "coolkid",
+   "code": "study",
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-08-23T19:12:24.424Z",
+ "updated": "2026-08-25T03:21:59.830Z",
  "source": "https://robloxden.com/game-codes/my-school-tycoon"
 }

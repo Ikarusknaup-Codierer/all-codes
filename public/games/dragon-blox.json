@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RAIDSHOP",
+   "reward": "10 Premium Wish Tokens , 10 Race Spins , and 50 Raid Tickets . You mus"
+  },
+  {
    "code": "MOREUPDATESINC",
    "reward": "10 Premium Wish Tokens"
   },
@@ -17,6 +21,10 @@
   {
    "code": "SECRETCODE",
    "reward": "10 Premium Wishes . You must have at least 150 Rebirths to use this co"
+  },
+  {
+   "code": "SSJBRETURNS",
+   "reward": "5 Premium Wish Tokens and 5 Race Spins"
   },
   {
    "code": "NEWSETS",
@@ -123,6 +131,6 @@
    "reward": "10 Premium Wishes"
   }
  ],
- "updated": "2026-08-24T03:35:38.914Z",
+ "updated": "2026-08-25T03:24:15.197Z",
  "source": "https://robloxden.com/game-codes/dragon-blox"
 }

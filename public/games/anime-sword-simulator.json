@@ -11,22 +11,18 @@
    "reward": "Giyuu Pet"
   },
   {
-   "code": "UPDATE8",
+   "code": "AWAITSEASON",
+   "reward": "Two Triple Energy Boosts"
+  },
+  {
+   "code": "UPDATE9",
    "reward": "10 Minute Energy Potion, 10 Minute Gems Potion, 10 Minute Damage Potio"
-  },
-  {
-   "code": "KAIGAMES",
-   "reward": "10 Minute Lucky Potion, 10 Minute Damage Potion"
-  },
-  {
-   "code": "SAMUZERA",
-   "reward": "10 Minute Lucky Potion, 10 Minute Damage Potion"
   },
   {
    "code": "ZAGASTA",
    "reward": "10 Minute Lucky Potion, 10 Minute Damage Potion"
   }
  ],
- "updated": "2026-08-23T19:10:19.733Z",
+ "updated": "2026-08-25T03:20:35.535Z",
  "source": "https://robloxden.com/game-codes/anime-sword-simulator"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Update38",
+   "code": "Update57",
    "reward": "6 Hours Lucky Boost"
   },
   {
-   "code": "Christmas",
-   "reward": "4 Hours Super Lucky Boost"
-  },
-  {
-   "code": "UPDATE32",
+   "code": "UPDATE42",
    "reward": "1 6 Hour Lucky Boost"
   },
   {
-   "code": "ELEMENT",
+   "code": "EXTRALUCK",
+   "reward": "1 30 Minute Super Lucky Boost"
+  },
+  {
+   "code": "PIXEL",
    "reward": "1 4 Hour Super Lucky Boost"
   },
   {
-   "code": "UPDATE35",
+   "code": "UPDATE22",
    "reward": "1 6 Hour Lucky Boost"
   }
  ],
- "updated": "2026-08-23T19:13:40.204Z",
+ "updated": "2026-08-25T03:22:40.778Z",
  "source": "https://robloxden.com/game-codes/mining-simulator-2"
 }

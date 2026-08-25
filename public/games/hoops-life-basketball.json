@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BugFix",
+   "code": "Spooky",
+   "reward": "100 Halloween Coins"
+  },
+  {
+   "code": "HLFutureSoon",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "NewPlaza",
    "reward": "100 Coins"
-  },
-  {
-   "code": "RepRewards",
-   "reward": "100 XP"
-  },
-  {
-   "code": "GreenVFX",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "RevampedDribbles",
-   "reward": "250 Coins"
   },
   {
    "code": "50XP",
    "reward": "50 EXP"
+  },
+  {
+   "code": "100XP",
+   "reward": "100 EXP"
   }
  ],
- "updated": "2026-08-24T03:34:48.126Z",
+ "updated": "2026-08-25T03:23:27.468Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

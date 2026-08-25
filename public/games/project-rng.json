@@ -15,11 +15,11 @@
    "reward": "1,000 Cash"
   },
   {
-   "code": "SORRYBUFF",
-   "reward": "Luck 100% For 300 Seconds"
+   "code": "YOUCANROLL",
+   "reward": "Unknown Reward"
   },
   {
-   "code": "UPDATEBUFF",
+   "code": "SORRYBUFF",
    "reward": "Luck 100% For 300 Seconds"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-08-23T19:05:51.841Z",
+ "updated": "2026-08-25T03:17:16.926Z",
  "source": "https://robloxden.com/game-codes/project-rng"
 }

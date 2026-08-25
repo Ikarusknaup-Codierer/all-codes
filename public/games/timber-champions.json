@@ -11,22 +11,22 @@
    "reward": "Free In-Game Boost And Rewards"
   },
   {
-   "code": "GALAXY",
-   "reward": "2 Ultra Lucky Boosts"
+   "code": "luckboost",
+   "reward": "Luck Boost"
   },
   {
-   "code": "TECH",
-   "reward": "2 Ultra Lucky Boosts"
+   "code": "SPACELAB",
+   "reward": "2 Lucky Boosts"
   },
   {
-   "code": "5KTHANKS",
-   "reward": "2 2x Damage Boosts"
+   "code": "CHRISTMAS",
+   "reward": "3 2x Coin Boosts"
   },
   {
-   "code": "15M",
-   "reward": "2 Ultra Lucky Boosts"
+   "code": "CANDY",
+   "reward": "2 2x Candy Boosts"
   }
  ],
- "updated": "2026-08-23T19:10:30.973Z",
+ "updated": "2026-08-25T03:20:46.103Z",
  "source": "https://robloxden.com/game-codes/timber-champions"
 }

@@ -15,14 +15,18 @@
    "reward": "a Regular Spin"
   },
   {
-   "code": "!1MVisits",
-   "reward": "50 Spins"
+   "code": "!PremiumSpin1",
+   "reward": "10 Premium Spins"
   },
   {
-   "code": "!PremiumSpin4",
-   "reward": "20 Premium Spins"
+   "code": "!EXPCode1",
+   "reward": "500,000 XP"
+  },
+  {
+   "code": "!Data2",
+   "reward": "200 Premium Spins, 50,000 Yen And 1M EXP"
   }
  ],
- "updated": "2026-08-23T19:17:41.355Z",
+ "updated": "2026-08-25T03:22:59.074Z",
  "source": "https://robloxden.com/game-codes/rojutsu-blox"
 }

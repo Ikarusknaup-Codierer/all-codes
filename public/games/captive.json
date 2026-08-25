@@ -11,22 +11,22 @@
    "reward": "300 Cash"
   },
   {
+   "code": "SORRY",
+   "reward": "2,000 Cash"
+  },
+  {
    "code": "glorious",
    "reward": "2,000 Cash"
   },
   {
-   "code": "discord",
+   "code": "release",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "BEAST4",
    "reward": "500 Cash"
-  },
-  {
-   "code": "BUNDLE",
-   "reward": "50 Cash"
-  },
-  {
-   "code": "FROSTY",
-   "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-08-24T03:35:21.538Z",
+ "updated": "2026-08-25T03:23:58.615Z",
  "source": "https://robloxden.com/game-codes/captive"
 }

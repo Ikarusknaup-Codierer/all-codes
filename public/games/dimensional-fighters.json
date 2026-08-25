@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PEIE22",
-   "reward": "Energy Cube"
-  },
-  {
    "code": "PEIE11",
    "reward": "2,000 Coins"
   },
@@ -467,6 +463,10 @@
    "reward": "Exp Book"
   },
   {
+   "code": "PEIE22",
+   "reward": "Energy Cube"
+  },
+  {
    "code": "RYNS22",
    "reward": "Energy Cube"
   },
@@ -487,6 +487,6 @@
    "reward": "1 Exp Book"
   }
  ],
- "updated": "2026-08-23T19:13:04.926Z",
+ "updated": "2026-08-25T03:22:25.451Z",
  "source": "https://robloxden.com/game-codes/dimensional-fighters"
 }

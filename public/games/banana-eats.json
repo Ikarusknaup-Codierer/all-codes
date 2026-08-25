@@ -19,10 +19,14 @@
    "reward": "a Party Bones Skin"
   },
   {
-   "code": "HEARTS",
-   "reward": "the Candy Heart Beacon"
+   "code": "FREELOOT",
+   "reward": "200 Coins"
+  },
+  {
+   "code": "DIPPINGINTOINSANITY",
+   "reward": "Dipped Banana Beacon"
   }
  ],
- "updated": "2026-08-24T03:36:25.660Z",
+ "updated": "2026-08-25T03:24:57.750Z",
  "source": "https://robloxden.com/game-codes/banana-eats"
 }

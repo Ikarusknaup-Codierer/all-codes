@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "nohacking",
-   "reward": "A Free Orange Sparkle Board & A Trail"
+   "code": "star",
+   "reward": "1,000 Credits"
   },
   {
-   "code": "starsub",
-   "reward": "2,000 Credits"
-  },
-  {
-   "code": "HOLIDAY",
-   "reward": "A Candy Cane Board And Snowflake Wheels"
-  },
-  {
-   "code": "vacation",
+   "code": "NEWPARK",
    "reward": "Free Credits"
   },
   {
    "code": "retromada",
    "reward": "Free Credits"
+  },
+  {
+   "code": "250K",
+   "reward": "2,500 Credits"
+  },
+  {
+   "code": "100K",
+   "reward": "3,000 Credits"
   }
  ],
- "updated": "2026-08-23T19:10:45.113Z",
+ "updated": "2026-08-25T03:20:57.703Z",
  "source": "https://robloxden.com/game-codes/skate-park"
 }

@@ -11,10 +11,6 @@
    "reward": "One-Life Kris"
   },
   {
-   "code": "JARONA",
-   "reward": "50 Souls , 550,000 EXP , 150,000 DT , and 200 G"
-  },
-  {
    "code": "TUTORIALCODE",
    "reward": "40 Souls, 35,000 XP, 38,000 DT, 500 Gold"
   },
@@ -23,8 +19,8 @@
    "reward": "1 Exp , 1 Soul , 1 DT and 500 Gold"
   },
   {
-   "code": "4KLIKES",
-   "reward": ""
+   "code": "JARONA",
+   "reward": "50 Souls , 550,000 EXP , 150,000 DT , and 200 G"
   },
   {
    "code": "4KLIKES2",
@@ -127,6 +123,6 @@
    "reward": "1 Exp , 1 Soul , 1 DT , 500 Gold , 1 Life Ink , 1 Life Genosans and 1 "
   }
  ],
- "updated": "2026-08-23T19:10:52.295Z",
+ "updated": "2026-08-25T03:21:02.650Z",
  "source": "https://robloxden.com/game-codes/undertale-arena"
 }

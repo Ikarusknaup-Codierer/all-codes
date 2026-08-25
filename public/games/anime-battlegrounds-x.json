@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "plzwork",
-   "reward": "200 Gems"
-  },
-  {
    "code": "update1",
    "reward": "Free Gems"
   },
@@ -23,10 +19,14 @@
    "reward": "15 Wish Shards"
   },
   {
-   "code": "NEWYEAR",
+   "code": "ONEPEAS",
+   "reward": "150 Gems"
+  },
+  {
+   "code": "DAILYWORD",
    "reward": "15 Wish Shards"
   }
  ],
- "updated": "2026-08-24T03:36:38.258Z",
+ "updated": "2026-08-25T03:25:08.417Z",
  "source": "https://robloxden.com/game-codes/anime-battlegrounds-x"
 }

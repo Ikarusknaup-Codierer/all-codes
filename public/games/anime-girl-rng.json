@@ -47,10 +47,6 @@
    "reward": "75 Premium Potion Crates , 75 Premium Goodie Crates , and 1 Glitched P"
   },
   {
-   "code": "MBAPPESPECIAL",
-   "reward": "1 Sovereign Pot and 1 Omega Pot"
-  },
-  {
    "code": "SOULSOCIETY",
    "reward": "1 Sovereign Pot"
   },
@@ -79,10 +75,6 @@
    "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates"
   },
   {
-   "code": "YOKOSO",
-   "reward": "1 Sovereign Pot , 25 Premium Potion Crates , and 25 Premium Goodie Cra"
-  },
-  {
    "code": "60KMEMBERS",
    "reward": "25 Premium Potion Crates and 25 Premium Goodie Crates"
   },
@@ -101,6 +93,14 @@
   {
    "code": "5KCCU",
    "reward": "1 Present 3 , 1 Small Luck Pot , 1 Small Haste Pot , 1 Big Luck Pot , "
+  },
+  {
+   "code": "MBAPPESPECIAL",
+   "reward": "1 Sovereign Pot and 1 Omega Pot"
+  },
+  {
+   "code": "YOKOSO",
+   "reward": "1 Sovereign Pot , 25 Premium Potion Crates , and 25 Premium Goodie Cra"
   },
   {
    "code": "OBLITERATETESTERS",
@@ -175,6 +175,6 @@
    "reward": "10,000 Gold 2,000 Astralis , 5 Better Goodie Crate , and 5 Better Poti"
   }
  ],
- "updated": "2026-08-24T14:31:20.189Z",
+ "updated": "2026-08-25T19:49:27.189Z",
  "source": "https://robloxden.com/game-codes/anime-girl-rng"
 }

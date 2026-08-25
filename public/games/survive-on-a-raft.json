@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "TridentCrossbow",
-   "reward": "200 Shells"
-  },
-  {
-   "code": "c00lkid",
+   "code": "175klikes",
    "reward": "25 Shells"
   },
   {
@@ -19,14 +15,18 @@
    "reward": "25 Shells"
   },
   {
+   "code": "90klikes",
+   "reward": "25 Shells"
+  },
+  {
    "code": "Santa",
    "reward": "25 Shells"
   },
   {
-   "code": "FlyingDutchman",
-   "reward": "Shells"
+   "code": "KrakenAndGardener",
+   "reward": "25 Shells"
   }
  ],
- "updated": "2026-08-24T14:31:01.120Z",
+ "updated": "2026-08-25T19:49:08.770Z",
  "source": "https://robloxden.com/game-codes/survive-on-a-raft"
 }

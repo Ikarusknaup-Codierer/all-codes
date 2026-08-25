@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "200KMEMBER",
-   "reward": "200,000 Cash"
-  },
-  {
    "code": "Ilovekazaru",
    "reward": "150,000 Cash"
+  },
+  {
+   "code": "MYSTERYBOX",
+   "reward": "1,000,000 Cash"
   },
   {
    "code": "100KMEMBER",
@@ -27,6 +27,6 @@
    "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-08-24T19:46:59.400Z",
+ "updated": "2026-08-25T19:55:32.498Z",
  "source": "https://robloxden.com/game-codes/steal-a-meme"
 }

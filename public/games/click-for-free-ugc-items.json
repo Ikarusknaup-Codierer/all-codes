@@ -11,22 +11,22 @@
    "reward": "Clicks"
   },
   {
-   "code": "CLICK",
+   "code": "FOREST",
+   "reward": "Clicks"
+  },
+  {
+   "code": "CHRISTMAS",
+   "reward": "Clicks"
+  },
+  {
+   "code": "2025",
    "reward": "Clicks And Potions"
   },
   {
    "code": "3MVISITS",
    "reward": "Extra Boosts"
-  },
-  {
-   "code": "UGC",
-   "reward": "20,000 Clicks and 150 Gems"
-  },
-  {
-   "code": "99NIGHT",
-   "reward": "65,000 Clicks"
   }
  ],
- "updated": "2026-08-24T14:31:52.668Z",
+ "updated": "2026-08-25T19:49:51.325Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

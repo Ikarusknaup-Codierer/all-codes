@@ -11,22 +11,22 @@
    "reward": "a 2x Money Boost"
   },
   {
-   "code": "WOOD",
-   "reward": "1,000 Wood"
+   "code": "HALLOWEEN",
+   "reward": "99,000 Cash"
   },
   {
-   "code": "CASH",
-   "reward": "10,000 Cash"
-  },
-  {
-   "code": "DONUT",
+   "code": "Gingerbread",
    "reward": "a 2x Money Boost"
   },
   {
-   "code": "YUM",
-   "reward": "50,000 Cash"
+   "code": "VANILLA",
+   "reward": "125,000 Cash"
+  },
+  {
+   "code": "XMAS",
+   "reward": "a 2x Money Boost"
   }
  ],
- "updated": "2026-08-24T14:32:39.997Z",
+ "updated": "2026-08-25T19:50:38.652Z",
  "source": "https://robloxden.com/game-codes/donuts-tycoon"
 }

@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "NewGame",
+   "reward": "1,500 in-game currency"
+  },
+  {
+   "code": "Upgrader",
+   "reward": "1,000 in-game currency"
+  },
+  {
+   "code": "COMMUNITY",
+   "reward": "750 Gems"
+  },
+  {
+   "code": "500LIKESISCRAZY",
+   "reward": "3X Cash (5 Minutes) , 50,000 Cash , and 25 Gems"
   }
  ],
- "updated": "2026-08-24T14:34:41.200Z",
+ "updated": "2026-08-25T19:52:23.011Z",
  "source": "https://robloxden.com/game-codes/upgrader"
 }

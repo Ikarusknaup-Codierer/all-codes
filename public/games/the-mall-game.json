@@ -11,10 +11,6 @@
    "reward": "250 Tix"
   },
   {
-   "code": "1MILVISITS",
-   "reward": "100 Tix"
-  },
-  {
    "code": "50KFAVORITES",
    "reward": "100 Tix"
   },
@@ -23,10 +19,14 @@
    "reward": "1 Revive Ticket"
   },
   {
+   "code": "10KLIKES",
+   "reward": "250 Tix and 1 Revive Ticket"
+  },
+  {
    "code": "SORRYHIDERS",
    "reward": "2 Revive Tickets"
   }
  ],
- "updated": "2026-08-24T14:35:15.063Z",
+ "updated": "2026-08-25T19:52:55.945Z",
  "source": "https://robloxden.com/game-codes/the-mall-game"
 }

@@ -5,8 +5,48 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "100,000 Gold , 10,000 Gems , 50 Ember Stones , 50 Xeros Tears , 30 Cry"
+  },
+  {
+   "code": "BETA",
+   "reward": "50,000 Gold , 7,500 Gems , 25 Ember Stones , 15 Crystal Storm Stones ,"
+  },
+  {
+   "code": "OVERGEARED",
+   "reward": "the Astral Blade and 10 Health Potions"
+  },
+  {
+   "code": "RELEASED",
+   "reward": "100,000 Gold , 10,000 Gems , 50 Ember Stones , 100 Xeros Tears , 50 Xe"
+  },
+  {
+   "code": "15KVISIT",
+   "reward": "100,000 Gold , 10,000 Gems , 150 Ember Stones , 120 Crystal Storm Ston"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "100,000 Gold , 10,000 Gems , 100 Xeros Tears , 50 Xerath’s Gems , 100 "
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "100,000 Gold , 10,000 Gems , 50 Ember Stones , 50 Xeros Tears , 30 Cry"
+  },
+  {
+   "code": "LGREED",
+   "reward": "100K Gold, 5K Gems, 10 Raizen Tickets, 25 Ember Stones, 25 Xeros Tears"
+  },
+  {
+   "code": "MAGNUS",
+   "reward": "100K Gold, 5K Gems, 10 Magnus Tickets, 25 Ember Stones, 25 Xeros Tears"
+  },
+  {
+   "code": "100KVISIT",
+   "reward": "100K Gold, 5K Gems, 7 Raizen Tickets, 7 Magnus Tickets, 100 Ember Ston"
   }
  ],
- "updated": "2026-08-24T14:33:57.844Z",
+ "updated": "2026-08-25T19:51:39.242Z",
  "source": "https://robloxden.com/game-codes/overgeared"
 }

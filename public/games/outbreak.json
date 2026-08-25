@@ -11,10 +11,6 @@
    "reward": "a Golden Capsule"
   },
   {
-   "code": "PRION",
-   "reward": "10,000 Coins and 1 Wheel Ticket"
-  },
-  {
    "code": "45KLIKES",
    "reward": "Free Rewards"
   },
@@ -25,8 +21,12 @@
   {
    "code": "35KLIKES",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "250K",
+   "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-08-24T14:35:40.387Z",
+ "updated": "2026-08-25T19:53:32.340Z",
  "source": "https://robloxden.com/game-codes/outbreak"
 }

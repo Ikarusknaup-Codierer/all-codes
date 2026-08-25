@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "VOTEKICK",
+   "reward": "Reward"
+  },
+  {
    "code": "BAHA",
    "reward": "250 Cash"
   },
@@ -139,6 +143,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-08-24T14:33:13.845Z",
+ "updated": "2026-08-25T19:51:10.878Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "RimuruDelay",
+   "reward": "5 Luck Potions , 5 Gem Potions , and 2 ALL Other Potions"
+  },
+  {
+   "code": "Rimuru",
+   "reward": "20 Rogue’s Blessings , 25 Lucky Boxes , 200 Mythic Chests , 200 Legend"
+  },
+  {
    "code": "Noob",
    "reward": "10,000,000 Gold , 5,000,000 Gems , and 100 Reroll Shards"
   },
@@ -75,6 +83,6 @@
    "reward": "100,000,000 Coins , 1,500,000 Gems , 500,000 Fragments of Rogue , 20 M"
   }
  ],
- "updated": "2026-08-24T14:30:36.485Z",
+ "updated": "2026-08-25T19:48:44.664Z",
  "source": "https://robloxden.com/game-codes/rogue-piece"
 }

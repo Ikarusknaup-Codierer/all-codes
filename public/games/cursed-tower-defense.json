@@ -83,6 +83,14 @@
    "reward": "50 Traits"
   },
   {
+   "code": "Register",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "NewBattlepass",
+   "reward": "10,000 Coins"
+  },
+  {
    "code": "AAtmr",
    "reward": "30 Traits"
   },
@@ -107,6 +115,6 @@
    "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-08-24T08:37:43.504Z",
+ "updated": "2026-08-25T14:34:46.721Z",
  "source": "https://robloxden.com/game-codes/cursed-tower-defense"
 }

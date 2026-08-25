@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "splash",
+   "reward": "1 Mythical Chest"
+  },
+  {
+   "code": "RIFDUNCH",
+   "reward": "an Ascension Core , 4,000 Wanderer's Coins , 3 Splash Isle Rift III an"
+  },
+  {
+   "code": "DUNGEONFIXED",
+   "reward": "a Conduit Egg"
+  },
+  {
    "code": "SPLUSH",
    "reward": "1 Mythical Chest"
   },
@@ -139,6 +151,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-08-24T14:29:42.388Z",
+ "updated": "2026-08-25T14:38:15.917Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

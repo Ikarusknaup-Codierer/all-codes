@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SUNDAY",
+   "reward": "$250,000 Cash , 15 Gems , 5 Golden Dice , and 10 Silver Dice"
+  },
+  {
+   "code": "NEWMEMBERS",
+   "reward": "$500,000 Cash , 25 Gems , 10 Glacial Dice , and 15 Aquamarine Dice"
+  },
+  {
    "code": "meowmeowcat",
    "reward": "350 Gems , 50 Aquamarine Dice , 25 Glacial Dice , 5 Pride Dice , and 3"
   },
@@ -35,6 +43,6 @@
    "reward": "100 Gems and 25 Molten Dice"
   }
  ],
- "updated": "2026-08-24T08:33:08.000Z",
+ "updated": "2026-08-25T14:30:42.187Z",
  "source": "https://robloxden.com/game-codes/spin-a-femboy"
 }

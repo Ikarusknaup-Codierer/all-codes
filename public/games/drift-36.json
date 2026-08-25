@@ -11,22 +11,22 @@
    "reward": "$40,000"
   },
   {
-   "code": "SORRYFORDELAY",
-   "reward": "50,000 Cash"
-  },
-  {
-   "code": "100KLIKES",
+   "code": "400KMEMBER",
    "reward": "$30,000"
   },
   {
-   "code": "70KLIKES",
-   "reward": "$15,000"
+   "code": "200ACTIVE",
+   "reward": ""
+  },
+  {
+   "code": "75KLIKES",
+   "reward": "15,000 Cash"
   },
   {
    "code": "NEWBODYKITS",
    "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-08-24T14:29:18.023Z",
+ "updated": "2026-08-25T14:37:54.743Z",
  "source": "https://robloxden.com/game-codes/drift-36"
 }

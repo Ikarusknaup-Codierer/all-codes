@@ -15,18 +15,18 @@
    "reward": "1,000 Cash"
   },
   {
+   "code": "UPDATE500",
+   "reward": "Cash and Spins"
+  },
+  {
    "code": "SPINSRAIN",
    "reward": "Cash and Spins"
   },
   {
-   "code": "1KCCU",
+   "code": "UPDATE1",
    "reward": "Cash and Spins"
-  },
-  {
-   "code": "BUGSFIXED",
-   "reward": "3 Spins and 500 Cash"
   }
  ],
- "updated": "2026-08-24T08:37:13.316Z",
+ "updated": "2026-08-25T14:34:19.132Z",
  "source": "https://robloxden.com/game-codes/camo-or-snipe"
 }

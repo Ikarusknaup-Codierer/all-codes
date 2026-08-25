@@ -15,14 +15,6 @@
    "reward": "12 Lucky Clan Spins and 12 Binding Vow Spins"
   },
   {
-   "code": "Naoya!",
-   "reward": "7 Lucky Clan Spins and 7 Binding Vows"
-  },
-  {
-   "code": "Projection!",
-   "reward": "10 Lucky Clan Spins and 10 Binding Vows"
-  },
-  {
    "code": "TojiAwakens!",
    "reward": "Rewards"
   },
@@ -47,10 +39,18 @@
    "reward": "5 Lucky Clan Spins and 5 Binding Vow Spins"
   },
   {
+   "code": "Naoya!",
+   "reward": "7 Lucky Clan Spins and 7 Binding Vows"
+  },
+  {
+   "code": "Projection!",
+   "reward": "10 Lucky Clan Spins and 10 Binding Vows"
+  },
+  {
    "code": "SubtoEmsis",
    "reward": "6 Lucky Clan Spins and 45 Minutes 2x Raid Rewards"
   }
  ],
- "updated": "2026-08-24T08:40:19.867Z",
+ "updated": "2026-08-25T14:36:05.261Z",
  "source": "https://robloxden.com/game-codes/kaizen"
 }

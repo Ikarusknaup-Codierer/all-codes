@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "ILOVETHENEWPUBLISHINGREQUIREMENTSUPDATE",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "GoingTo2014SecretAdminCode",
    "reward": "Admin Panel"
-  },
-  {
-   "code": "500Players",
-   "reward": "500 Gobucks and 5,000 Tix"
   },
   {
    "code": "GoingTo2014",
@@ -61,8 +53,16 @@
   {
    "code": "TweetROBLOX",
    "reward": "The Bird Says ____"
+  },
+  {
+   "code": "ILOVETHENEWPUBLISHINGREQUIREMENTSUPDATE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "500Players",
+   "reward": "500 Gobucks and 5,000 Tix"
   }
  ],
- "updated": "2026-08-24T08:33:56.192Z",
+ "updated": "2026-08-25T14:31:25.548Z",
  "source": "https://robloxden.com/game-codes/goingto2014"
 }

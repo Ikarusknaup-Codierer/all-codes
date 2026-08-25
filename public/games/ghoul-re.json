@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "KenRework",
+   "reward": "1,000 Ghoul Points"
+  },
+  {
+   "code": "HTHGames2",
+   "reward": "1,000 Ghoul Points"
+  },
+  {
+   "code": "PointLimit",
+   "reward": "1,500 Ghoul Points"
+  },
+  {
+   "code": "SORRYFOR3HOURDELAY",
+   "reward": "900 Ghoul Points"
+  },
+  {
    "code": "HBDSIN20",
    "reward": "650 GP"
   },
@@ -47,6 +63,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-08-24T08:34:35.924Z",
+ "updated": "2026-08-25T14:31:59.536Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "LOWGRAPHICS",
+   "code": "FREE15SPIN",
    "reward": "15 Rerolls"
   },
   {
-   "code": "QOL!",
-   "reward": "10 Race Rerolls"
-  },
-  {
-   "code": "PEAK!",
-   "reward": "10 Rerolls"
-  },
-  {
-   "code": "POSTRELEASEQNA",
-   "reward": "1 Reroll"
+   "code": "MAZE!",
+   "reward": "5 Rerolls And 3 Fungi Potion"
   },
   {
    "code": "MAZE",
    "reward": "5 Rerolls And 3 Fungi's Potions"
+  },
+  {
+   "code": "RAVEN",
+   "reward": "150 Christmas Tickets and 5 Rerolls"
   }
  ],
- "updated": "2026-08-24T14:29:08.317Z",
+ "updated": "2026-08-25T14:37:45.888Z",
  "source": "https://robloxden.com/game-codes/the-forge"
 }

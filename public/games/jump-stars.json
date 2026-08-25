@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "50klikes",
+   "reward": "Reward Unknown"
+  },
+  {
+   "code": "guilds",
+   "reward": "2,000 Gems"
+  },
+  {
    "code": "250klikesyay",
    "reward": "2,500 Gems"
   },
@@ -17,16 +25,8 @@
   {
    "code": "100kInterested",
    "reward": "1,000 Gems"
-  },
-  {
-   "code": "100klikes",
-   "reward": "1,500 Gems"
-  },
-  {
-   "code": "SorryForBugs",
-   "reward": "1,500 Gems"
   }
  ],
- "updated": "2026-08-24T14:29:20.179Z",
+ "updated": "2026-08-25T14:37:56.669Z",
  "source": "https://robloxden.com/game-codes/jump-stars"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CASEYBDAY",
+   "reward": "1 Grade XX Pack and 1 Relic Item"
+  },
+  {
    "code": "25M",
    "reward": "2 Pastel Princess Packs"
   },
@@ -39,6 +43,14 @@
    "reward": "150 Grade Tokens and 1 XX Token"
   },
   {
+   "code": "21M",
+   "reward": "300 Grade Tokens and 1 SS Token"
+  },
+  {
+   "code": "LAUNCH",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "20M",
    "reward": "200 Grade Tokens and 1 Relic Chest"
   },
@@ -59,6 +71,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-08-24T08:35:39.786Z",
+ "updated": "2026-08-25T14:32:56.693Z",
  "source": "https://robloxden.com/game-codes/anime-waifu-card-collection"
 }

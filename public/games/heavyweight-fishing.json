@@ -43,10 +43,6 @@
    "reward": "Free Rewards . You must be at least level 20 to use this code"
   },
   {
-   "code": "WaitForPeak",
-   "reward": "50 Tickets , 100 Crystals , and 50 Trait Rerolls . You must be at leas"
-  },
-  {
    "code": "ThanksForNitroBoost",
    "reward": "100 Trait Rerolls . You must be at least Level 50 to use this code"
   },
@@ -115,6 +111,10 @@
    "reward": "15 Tickets and 25 Crystals . You must be at least level 50 to use this"
   },
   {
+   "code": "WaitForPeak",
+   "reward": "50 Tickets , 100 Crystals , and 50 Trait Rerolls . You must be at leas"
+  },
+  {
    "code": "PEAK",
    "reward": "50 Tickets , 100 Crystals , and 50 Trait Rerolls . You must be at leas"
   },
@@ -147,6 +147,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-08-24T14:27:59.205Z",
+ "updated": "2026-08-25T14:36:43.660Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "937885646",
-   "reward": "the Ultra Kill Sound Effect"
-  },
-  {
    "code": "8508727445",
    "reward": "the Death Kill Sound Effect"
   },
@@ -197,8 +193,12 @@
   {
    "code": "8223869886",
    "reward": "the I will send you to Jesus Kill Sound Effect"
+  },
+  {
+   "code": "937885646",
+   "reward": "the Ultra Kill Sound Effect"
   }
  ],
- "updated": "2026-08-24T08:36:36.845Z",
+ "updated": "2026-08-25T14:33:48.088Z",
  "source": "https://robloxden.com/game-codes/project-viltrumites"
 }

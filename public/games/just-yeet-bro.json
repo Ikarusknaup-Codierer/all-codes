@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "levelup",
+   "reward": "500 Bananas"
+  },
+  {
    "code": "RELEASE",
    "reward": "the Jerome Arm Skin"
   },
@@ -15,6 +19,6 @@
    "reward": "20K Bananas"
   }
  ],
- "updated": "2026-08-24T08:34:18.446Z",
+ "updated": "2026-08-25T14:31:44.228Z",
  "source": "https://robloxden.com/game-codes/just-yeet-bro"
 }

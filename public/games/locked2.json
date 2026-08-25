@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "THROWINPATCH",
+   "reward": "5,000 Yen"
+  },
+  {
+   "code": "THROWINSSHOULDBEFIXED",
+   "reward": "25,000 Yen"
+  },
+  {
    "code": "MAJORUPDATENEXTWEEK",
    "reward": "15K Yen"
   },
@@ -39,6 +47,6 @@
    "reward": "7,500 Yen"
   }
  ],
- "updated": "2026-08-24T08:34:39.268Z",
+ "updated": "2026-08-25T14:32:02.560Z",
  "source": "https://robloxden.com/game-codes/locked2"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MASTERIESAREHERE!",
+   "reward": "25 Card Tokens , 5,000 Enchant Tokens , and 10,000 Normal Dice"
+  },
+  {
    "code": "SOMEFIXUPDATE",
    "reward": "25 Card Tokens"
   },
@@ -43,6 +47,10 @@
    "reward": "1 2x Rune Luck Potion, 1 2x Rune Speed Potion,1 2x Rune Bulk Potion, a"
   },
   {
+   "code": "SORRYSHUTDOWNx",
+   "reward": "25 Card Tokens"
+  },
+  {
    "code": "ANOTHERLITTLEUPDATE",
    "reward": "100 Chests , 25 Golden Chests , 10 Golden Dice , 25 Tickets , 10 Doubl"
   },
@@ -59,6 +67,6 @@
    "reward": "10% Rune Luck (Active) . You must paste it in the Special Code box to "
   }
  ],
- "updated": "2026-08-24T08:32:58.884Z",
+ "updated": "2026-08-25T14:30:31.232Z",
  "source": "https://robloxden.com/game-codes/noob-incremental"
 }

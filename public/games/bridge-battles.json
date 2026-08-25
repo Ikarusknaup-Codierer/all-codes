@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "1M",
+   "reward": "Fast Speed Boost"
+  },
+  {
    "code": "MEMBERS",
    "reward": "200 Cash"
   },
   {
-   "code": "900K",
-   "reward": "a Fast Speed Boost"
-  },
-  {
-   "code": "DONTKILLME",
-   "reward": "a Fast Respawn Boost"
-  },
-  {
-   "code": "BLINDEYE",
-   "reward": "1 Blind Others Troll"
+   "code": "IAMSPEED",
+   "reward": "1 Fast Speed Boost"
   },
   {
    "code": "INSTASPAWN",
    "reward": "1 Fast Respawn Boost"
+  },
+  {
+   "code": "GETSLOWED",
+   "reward": "1 Slow Others Troll"
   }
  ],
- "updated": "2026-08-24T08:37:25.291Z",
+ "updated": "2026-08-25T14:34:29.784Z",
  "source": "https://robloxden.com/game-codes/bridge-battles"
 }

@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "NEWEVENT",
+   "reward": "75 Climate Rerolls , 350 Weather Rerolls , and 5 XP Books I . You need"
+  },
+  {
+   "code": "BLEACHTYBW",
+   "reward": "150 Climate Rerolls , 400 Weather Rerolls , 75 Luck IV Potions , and 7"
+  },
+  {
+   "code": "NEWTOWER",
+   "reward": "300 Battle Speed Potions , 150 Climate Rerolls , 40 Luck IV Potions , "
+  },
+  {
+   "code": "BANKAI",
+   "reward": "200 Battle Speed Potions , 100 Climate Rerolls , 25 Luck IV Potions , "
+  },
+  {
+   "code": "UPD11",
+   "reward": "100 Climate Rerolls , 200 Weather Rerolls , 5 Fountains , and 5 Weathe"
+  },
+  {
+   "code": "BLEACHDELAY",
+   "reward": "300 Climate Rerolls , 1,000 Weather Rerolls , 5 Fountains , and 5 Weat"
+  },
+  {
    "code": "NARUTODELAY",
    "reward": "200 Climate Rolls , 100 Battle Speed Potions , 5 Weather Tokens , 5 Fo"
   },
@@ -163,6 +187,6 @@
    "reward": "Potions and Rolls"
   }
  ],
- "updated": "2026-08-24T08:32:38.143Z",
+ "updated": "2026-08-25T14:30:18.518Z",
  "source": "https://robloxden.com/game-codes/anime-card-battle-x"
 }

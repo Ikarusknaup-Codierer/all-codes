@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMERTIME",
+   "code": "HAPPYEID",
    "reward": ""
   },
   {
-   "code": "WARDROBEPATCH",
+   "code": "RANDOMCOINS",
+   "reward": ""
+  },
+  {
+   "code": "STACKED",
    "reward": "Reward"
   },
   {
-   "code": "FUN",
+   "code": "BEEHIVE",
    "reward": "Reward"
   },
   {
-   "code": "NIGHTLIFE",
-   "reward": "250,000 Coins"
-  },
-  {
-   "code": "HOMEWORLD",
-   "reward": "20,000 Coins"
+   "code": "CRACKEDEGG",
+   "reward": "95,000 Coins"
   }
  ],
- "updated": "2026-08-24T14:28:41.397Z",
+ "updated": "2026-08-25T14:37:21.689Z",
  "source": "https://robloxden.com/game-codes/heroes-online-world"
 }

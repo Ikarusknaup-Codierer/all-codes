@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "GiveMeLeafblower",
+   "reward": "1 Leafblower (for the current rebirth)"
+  },
+  {
+   "code": "GiveMeRake",
+   "reward": "1 Rake (for the current rebirth)"
   }
  ],
- "updated": "2026-08-24T03:39:57.132Z",
+ "updated": "2026-08-25T08:15:39.872Z",
  "source": "https://robloxden.com/game-codes/garden-cleaner-evolution"
 }

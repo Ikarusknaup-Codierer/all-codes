@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Brachiosaurus",
+   "reward": "250 Fossils and 50 Crude Oil"
+  },
+  {
+   "code": "Carnotaurus",
+   "reward": "250 Fossils and 50 Crude Oil"
+  },
+  {
+   "code": "FreeGoldenRaceTicket",
+   "reward": "3 Golden Race Tickets"
+  },
+  {
    "code": "BOYZ",
    "reward": "500 Fossils and 25 Crude Oil"
   },
@@ -35,6 +47,6 @@
    "reward": "100 Fossils and 50 Crude Oil"
   }
  ],
- "updated": "2026-08-24T03:40:26.242Z",
+ "updated": "2026-08-25T08:16:06.757Z",
  "source": "https://robloxden.com/game-codes/dino-world"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BUNGAALUCK2",
+   "reward": "10x Luck (2 Hours)"
+  },
+  {
+   "code": "BUNGAACASH2",
+   "reward": "5x Cash (2 Hours)"
+  },
+  {
    "code": "JACK2RICH",
    "reward": "25x Cash (2 Hours)"
   },
@@ -75,6 +83,6 @@
    "reward": "a Luffy (Mufei) Character"
   }
  ],
- "updated": "2026-08-24T08:32:37.563Z",
+ "updated": "2026-08-25T08:20:48.865Z",
  "source": "https://robloxden.com/game-codes/roll-an-anime"
 }

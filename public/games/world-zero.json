@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "NEWTUTORIAL",
-   "reward": "a Chad Statue"
-  },
-  {
    "code": "JIMOTHY",
    "reward": "the Jimothy Mount"
-  },
-  {
-   "code": "SEASON22",
-   "reward": "50 Guild Coins"
   },
   {
    "code": "925KLIKES",
@@ -27,12 +19,20 @@
    "reward": "25 Dragon Coins and a Manga Present"
   },
   {
+   "code": "NEWTUTORIAL",
+   "reward": "a Chad Statue"
+  },
+  {
    "code": "RIA2026",
    "reward": "a Developer Gift"
   },
   {
    "code": "STOCKBUG",
    "reward": "150 Crystals"
+  },
+  {
+   "code": "SEASON22",
+   "reward": "50 Guild Coins"
   },
   {
    "code": "RAIDDELAY",
@@ -63,6 +63,6 @@
    "reward": "150 Crystals"
   }
  ],
- "updated": "2026-08-24T03:39:18.054Z",
+ "updated": "2026-08-25T08:15:02.768Z",
  "source": "https://robloxden.com/game-codes/world-zero"
 }

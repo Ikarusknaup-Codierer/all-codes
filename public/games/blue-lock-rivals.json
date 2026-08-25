@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "MAGICIAN",
+   "reward": "5 Lucky Style Spins and 5 Lucky Flow Spins"
+  },
+  {
+   "code": "NESSTODAY",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "BIGTRAILERSOON",
+   "reward": "5 Lucky Flows"
+  },
+  {
    "code": "NESSNEXTWEEK",
    "reward": "5 Lucky Style Spins and 5 Lucky Flow Spins"
   },
@@ -35,6 +47,6 @@
    "reward": "5 Lucky Flow"
   }
  ],
- "updated": "2026-08-24T03:40:53.153Z",
+ "updated": "2026-08-25T08:16:51.288Z",
  "source": "https://robloxden.com/game-codes/blue-lock-rivals"
 }

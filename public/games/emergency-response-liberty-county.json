@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "OnPatrol1",
-   "reward": "7,500 Cash"
+   "code": "400mil",
+   "reward": "Exclusive Rewards"
   },
   {
-   "code": "EggHunt2025",
-   "reward": "$6,000"
-  },
-  {
-   "code": "WELCOME2025",
-   "reward": "$5,000"
-  },
-  {
-   "code": "RisingWolf",
+   "code": "PHONE5",
    "reward": "5,000 Cash"
   },
   {
-   "code": "CommunityPhoto",
+   "code": "POLICEWEEK24",
+   "reward": "2x Law Enforcement XP Boost (48 hours)"
+  },
+  {
+   "code": "Ruffles",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "OfficerJohn",
    "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-08-24T03:37:17.263Z",
+ "updated": "2026-08-25T08:13:12.753Z",
  "source": "https://robloxden.com/game-codes/emergency-response-liberty-county"
 }

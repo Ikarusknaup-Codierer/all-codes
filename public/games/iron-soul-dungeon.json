@@ -7,8 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "SCROLLCHARGEFIX",
+   "reward": "3,000 Season Vouchers and 2 Race Rerolls"
+  },
+  {
+   "code": "IRONSOULWEEKEND17",
+   "reward": "3 Race Rerolls"
+  },
+  {
    "code": "SEASON2OPEN",
    "reward": "3 Season Lucky Tickets"
+  },
+  {
+   "code": "200KMEMBERREWARD",
+   "reward": "10 Race Rerolls"
   },
   {
    "code": "IRONSOULWEEKEND19",
@@ -29,10 +41,6 @@
   {
    "code": "SEASON2ENDING",
    "reward": "2 Race Rerolls and 200 Origin Shards"
-  },
-  {
-   "code": "IRONSOULWEEKEND17",
-   "reward": "3 Race Rerolls"
   },
   {
    "code": "SCYTHEWEAPON",
@@ -83,6 +91,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-08-24T03:43:20.490Z",
+ "updated": "2026-08-25T08:18:36.252Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

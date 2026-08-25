@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Kreek",
+   "reward": "250 Cromerium"
+  },
+  {
+   "code": "PermaBlox",
+   "reward": "200 Cromerium"
+  },
+  {
+   "code": "FishesAreReal",
+   "reward": "200 Cromerium"
+  },
+  {
+   "code": "KoolUpdates",
+   "reward": "200 Cromerium"
+  },
+  {
    "code": "Craigs",
    "reward": "500 Cromerium"
   },
@@ -27,6 +43,6 @@
    "reward": "400 Cromerium"
   }
  ],
- "updated": "2026-08-24T03:42:06.324Z",
+ "updated": "2026-08-25T08:17:55.282Z",
  "source": "https://robloxden.com/game-codes/stay-for-fortune"
 }

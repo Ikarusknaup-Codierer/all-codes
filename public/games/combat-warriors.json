@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BOARDWALK",
-   "reward": "67 Credits"
-  },
-  {
-   "code": "imdone",
+   "code": "beginner",
    "reward": "A Free Reward"
   },
   {
-   "code": "NEPTUNE",
-   "reward": "25,500 Minimum Credits, 2,500 Maximum Credits, And 250 Aether"
+   "code": "sliding",
+   "reward": "Free Rewards"
   },
   {
-   "code": "100k_visits",
-   "reward": "1,010 Credits"
+   "code": "newanimsok",
+   "reward": "Free Rewards"
   },
   {
-   "code": "PRESTIGECHANGES",
-   "reward": "250 Aether and 500 Credits"
+   "code": "1m_likes",
+   "reward": "1,000 Coins and 250 Aether"
+  },
+  {
+   "code": "700k_likes",
+   "reward": "300 Credits and 100 Aether"
   }
  ],
- "updated": "2026-08-24T03:38:10.383Z",
+ "updated": "2026-08-25T08:13:59.811Z",
  "source": "https://robloxden.com/game-codes/combat-warriors"
 }

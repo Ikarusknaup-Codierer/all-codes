@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "5MILLION",
-   "reward": "100 Coins And 50 XP"
+   "code": "TEST",
+   "reward": "Test Knife"
   },
   {
-   "code": "PRIDE",
-   "reward": "Pride Knife"
+   "code": "HAPPYNEWYEAR",
+   "reward": "2022 New Year Slycer Knife"
   },
   {
-   "code": "TRICKORTREAT",
-   "reward": "Stab-O'-Lantern Slycer"
+   "code": "700M",
+   "reward": "700M Slycer Knife"
+  },
+  {
+   "code": "luckyduck",
+   "reward": "Slycer"
   },
   {
    "code": "HAVEPRIDE",
    "reward": "Slyce Of Pride"
-  },
-  {
-   "code": "SORRY",
-   "reward": "1000 Cash"
   }
  ],
- "updated": "2026-08-24T03:38:01.055Z",
+ "updated": "2026-08-25T08:13:51.667Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BATTLEPASS!",
+   "reward": "Free Rewards . To use this code, you must at least have 50,000 Rolls"
+  },
+  {
+   "code": "VILLAINS!",
+   "reward": "35 Luck Potions III , 35 Roll Speed Potions III , 5 Legendary Luck Pot"
+  },
+  {
    "code": "SORRYFORMAINTENANCE!",
    "reward": "rewards . You must have at least 50,000 Rolls to use this code"
   },
@@ -111,6 +119,6 @@
    "reward": "3x Luck Potion III , 3x Roll Speed Potion III , 3x Battle Speed Potion"
   }
  ],
- "updated": "2026-08-24T03:42:34.349Z",
+ "updated": "2026-08-25T08:18:13.688Z",
  "source": "https://robloxden.com/game-codes/card-chronicles"
 }

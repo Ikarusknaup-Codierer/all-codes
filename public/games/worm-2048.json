@@ -15,18 +15,18 @@
    "reward": "2x Score Boost (5 minutes)"
   },
   {
-   "code": "3000LIKES",
-   "reward": "a Free Reward"
-  },
-  {
-   "code": "Likes1000",
+   "code": "Likes3000",
    "reward": "2x Score Buff For Three Minutes"
   },
   {
    "code": "Likes20k",
    "reward": "2x Score Buff For Five Minutes"
+  },
+  {
+   "code": "Likes10k",
+   "reward": "2x Score Buff For Four Minutes"
   }
  ],
- "updated": "2026-08-24T19:51:59.161Z",
+ "updated": "2026-08-26T03:41:41.111Z",
  "source": "https://robloxden.com/game-codes/worm-2048"
 }

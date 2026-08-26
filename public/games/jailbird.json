@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Skirmish",
+   "reward": "a Vault Crate"
+  },
+  {
+   "code": "Sorrydelayskirmish",
+   "reward": "a Cosmos Crate"
+  },
+  {
+   "code": "Cargo",
+   "reward": "a Vault Crate"
+  },
+  {
    "code": "REPLAYJAILBIRD",
    "reward": "1 Locker Crate"
   },
@@ -63,6 +75,6 @@
    "reward": "1 Regular Crate and 1 Cash Booster"
   }
  ],
- "updated": "2026-08-24T19:48:42.727Z",
+ "updated": "2026-08-26T03:37:47.231Z",
  "source": "https://robloxden.com/game-codes/jailbird"
 }

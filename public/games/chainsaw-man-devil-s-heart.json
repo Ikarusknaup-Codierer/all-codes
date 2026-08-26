@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Summer2026",
+   "reward": "15,000 Yen"
+  },
+  {
+   "code": "ContractResetMe",
+   "reward": "Contract Reset"
+  },
+  {
+   "code": "Reloading!",
+   "reward": "3 Free Bullets"
+  },
+  {
+   "code": "TheSpire2",
+   "reward": "55 EXP and 8,500 Yen"
+  },
+  {
    "code": "GiveMeMythicalAura",
    "reward": "a Free Aura"
   },
@@ -151,6 +167,6 @@
    "reward": "Skill Point Reset"
   }
  ],
- "updated": "2026-08-24T19:51:37.806Z",
+ "updated": "2026-08-26T03:41:18.382Z",
  "source": "https://robloxden.com/game-codes/chainsaw-man-devil-s-heart"
 }

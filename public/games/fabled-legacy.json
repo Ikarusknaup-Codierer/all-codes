@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TREASURE",
+   "reward": "Tidal Treasure"
+  },
+  {
    "code": "140KLIKES",
    "reward": "100 Gems"
   },
@@ -55,6 +59,6 @@
    "reward": "100 Gems"
   }
  ],
- "updated": "2026-08-24T19:55:48.592Z",
+ "updated": "2026-08-26T03:44:12.414Z",
  "source": "https://robloxden.com/game-codes/fabled-legacy"
 }

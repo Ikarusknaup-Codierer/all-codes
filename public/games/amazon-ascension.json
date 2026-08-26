@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
+   "code": "TRADE",
    "reward": "Free Rewards"
   },
   {
-   "code": "July4th2023",
-   "reward": "400 Silver Dollars"
+   "code": "UPDATE",
+   "reward": "Free Rewards"
   },
   {
-   "code": "Pirarucu",
+   "code": "FREEUGC",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Ayoub",
    "reward": "400 Silver Dollars"
   }
  ],
- "updated": "2026-08-24T19:49:59.277Z",
+ "updated": "2026-08-26T03:39:34.346Z",
  "source": "https://robloxden.com/game-codes/amazon-ascension"
 }

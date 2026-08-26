@@ -19,14 +19,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "SUGAR",
-   "reward": "50K Gems"
-  },
-  {
-   "code": "CANDY",
-   "reward": "30K Gems"
-  },
-  {
    "code": "OCULARUS",
    "reward": "50,000 Gems"
   },
@@ -55,10 +47,18 @@
    "reward": "50,000 Gems"
   },
   {
+   "code": "SUGAR",
+   "reward": "50K Gems"
+  },
+  {
+   "code": "CANDY",
+   "reward": "30K Gems"
+  },
+  {
    "code": "SINISTER",
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-08-24T19:54:36.377Z",
+ "updated": "2026-08-26T03:43:48.464Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

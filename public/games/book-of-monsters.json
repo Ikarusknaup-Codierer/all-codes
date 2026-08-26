@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WelcomeBack",
+   "reward": "1,000 Donuts , 100 Dux and 500 Coins"
+  },
+  {
    "code": "ClassicHalloween",
    "reward": "Free Rewards"
   },
@@ -63,6 +67,6 @@
    "reward": "1,000 Coins and 500 Experience"
   }
  ],
- "updated": "2026-08-24T19:50:58.816Z",
+ "updated": "2026-08-26T03:40:38.705Z",
  "source": "https://robloxden.com/game-codes/book-of-monsters"
 }

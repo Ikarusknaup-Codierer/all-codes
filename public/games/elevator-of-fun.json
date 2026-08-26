@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "50Million",
-   "reward": "100 Coins"
-  },
-  {
    "code": "YourTalkingAndrusha",
    "reward": "Plushie"
   },
@@ -23,18 +19,22 @@
    "reward": "Plushie"
   },
   {
+   "code": "CHRISTMAS2026",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "50Million",
+   "reward": "100 Coins"
+  },
+  {
    "code": "ChocoPie",
    "reward": "Chocopie"
   },
   {
    "code": "BadaBum",
    "reward": "Drum"
-  },
-  {
-   "code": "CHRISTMAS2026",
-   "reward": "100 Coins"
   }
  ],
- "updated": "2026-08-24T19:47:32.117Z",
+ "updated": "2026-08-26T03:36:50.823Z",
  "source": "https://robloxden.com/game-codes/elevator-of-fun"
 }

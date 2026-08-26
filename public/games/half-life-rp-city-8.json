@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "70KLIKES",
-   "reward": "1,000 Tokens and 1,000 Faction Points"
-  },
-  {
    "code": "69KLIKES",
    "reward": "3,000 Tokens and 3,000 Faction Points"
   },
@@ -31,10 +27,14 @@
    "reward": "1,000 Tokens and 500 Faction Points"
   },
   {
+   "code": "70KLIKES",
+   "reward": "1,000 Tokens and 1,000 Faction Points"
+  },
+  {
    "code": "RIFT",
    "reward": "2,000 Medals"
   }
  ],
- "updated": "2026-08-24T19:53:43.468Z",
+ "updated": "2026-08-26T03:43:01.270Z",
  "source": "https://robloxden.com/game-codes/half-life-rp-city-8"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UPD1",
-   "reward": "5,000 Cash"
-  },
-  {
    "code": "DRIFTMAS",
    "reward": "10,000 Cash"
   },
@@ -165,8 +161,12 @@
   {
    "code": "L1KE",
    "reward": "7,500 Cash"
+  },
+  {
+   "code": "UPD1",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-08-24T19:55:41.820Z",
+ "updated": "2026-08-26T03:44:11.822Z",
  "source": "https://robloxden.com/game-codes/prodigy-drift"
 }

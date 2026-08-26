@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "OGFINALGRIND",
-   "reward": "1B Gems, 3x Coin Boost, 3x Gems Boost and 20x Strength Boost"
-  },
-  {
    "code": "OGStrength",
    "reward": "300,000,000 Gems , 120 hours of Auto-Lift , and 2 hours of 2x Strength"
   },
@@ -39,6 +35,10 @@
    "reward": "Auto Lift (3 hours) and 25 Gems"
   },
   {
+   "code": "OGFINALGRIND",
+   "reward": "1B Gems, 3x Coin Boost, 3x Gems Boost and 20x Strength Boost"
+  },
+  {
    "code": "OofVacation",
    "reward": "200M Gems , 10 hours of Auto-Lift , 2 hours of 2x Strength and more"
   },
@@ -47,6 +47,6 @@
    "reward": "25M Gems, 10 Hours Of Auto-Lift, 2 Hours Of 2xStrength And More"
   }
  ],
- "updated": "2026-08-25T03:17:57.994Z",
+ "updated": "2026-08-26T03:45:27.200Z",
  "source": "https://robloxden.com/game-codes/get-huge-simulator-1"
 }

@@ -11,22 +11,22 @@
    "reward": "1,500 Cash"
   },
   {
-   "code": "THIRDFLOOR",
+   "code": "like1500",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "like500",
+   "reward": "20 Money"
+  },
+  {
+   "code": "rebirth",
    "reward": "500 Coins"
   },
   {
-   "code": "study",
-   "reward": "500 Coins"
-  },
-  {
-   "code": "goals",
-   "reward": "500 Coins"
-  },
-  {
-   "code": "newupdate",
+   "code": "GYMUPDATE",
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-24T19:53:52.709Z",
+ "updated": "2026-08-26T03:43:10.120Z",
  "source": "https://robloxden.com/game-codes/school-tycoon"
 }

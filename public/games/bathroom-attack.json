@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DUDE50",
-   "reward": "50 Diamonds"
-  },
-  {
    "code": "TDOG",
    "reward": "50 Diamonds"
   },
@@ -61,8 +57,12 @@
   {
    "code": "DUDE",
    "reward": "50 Diamonds"
+  },
+  {
+   "code": "DUDE50",
+   "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-08-25T03:18:39.117Z",
+ "updated": "2026-08-26T08:11:49.597Z",
  "source": "https://robloxden.com/game-codes/bathroom-attack"
 }

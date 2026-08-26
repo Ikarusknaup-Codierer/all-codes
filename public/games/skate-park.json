@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "star",
-   "reward": "1,000 Credits"
-  },
-  {
-   "code": "NEWPARK",
+   "code": "TisTheSeason",
    "reward": "Free Credits"
   },
   {
-   "code": "retromada",
+   "code": "razor",
    "reward": "Free Credits"
+  },
+  {
+   "code": "REVAMP",
+   "reward": "1,500 Credits"
   },
   {
    "code": "250K",
    "reward": "2,500 Credits"
   },
   {
-   "code": "100K",
-   "reward": "3,000 Credits"
+   "code": "RACE",
+   "reward": "1,000 Credits"
   }
  ],
- "updated": "2026-08-25T03:20:57.703Z",
+ "updated": "2026-08-26T08:13:52.679Z",
  "source": "https://robloxden.com/game-codes/skate-park"
 }

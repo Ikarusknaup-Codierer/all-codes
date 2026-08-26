@@ -11,10 +11,6 @@
    "reward": "Free Cash And Boost"
   },
   {
-   "code": "80KLIKES",
-   "reward": "10,000 Cash And 4 Minutes Of Sugar Rush"
-  },
-  {
    "code": "AMAZINGTYCOON",
    "reward": "2x Money And 5 Minutes Of Sugar Rush"
   },
@@ -101,8 +97,12 @@
   {
    "code": "140KLIKES",
    "reward": "1 25 Minute Double Sugar Rush Boost and 1 2x Multiplier Boost"
+  },
+  {
+   "code": "80KLIKES",
+   "reward": "10,000 Cash And 4 Minutes Of Sugar Rush"
   }
  ],
- "updated": "2026-08-25T03:23:26.019Z",
+ "updated": "2026-08-26T08:16:22.958Z",
  "source": "https://robloxden.com/game-codes/gumball-factory-tycoon"
 }

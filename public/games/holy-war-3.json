@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "STATRESET7",
-   "reward": "a Stat Reset"
+   "code": "ONEFORMY",
+   "reward": "Exp"
+  },
+  {
+   "code": "10MILLYOURWELCOME",
+   "reward": "Magic Spins"
+  },
+  {
+   "code": "APHIREXSTUDIO",
+   "reward": "a reward"
   },
   {
    "code": "MAGICCODEBUGGY",
    "reward": "a reward"
   },
   {
-   "code": "MIRACLEMAFIA",
-   "reward": "5 Magic Spins"
-  },
-  {
-   "code": "GODMAGIC",
-   "reward": "Magic Spins"
-  },
-  {
-   "code": "SpinsAPPLE4",
-   "reward": "Spins"
+   "code": "GODRACE",
+   "reward": "Race Spins"
   }
  ],
- "updated": "2026-08-25T08:12:50.196Z",
+ "updated": "2026-08-26T08:18:25.835Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

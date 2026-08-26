@@ -11,22 +11,22 @@
    "reward": "50 Ichor"
   },
   {
-   "code": "FIFTYMILLION",
+   "code": "SPOOKYSEASON",
+   "reward": "600 Pumpkins"
+  },
+  {
+   "code": "HUNDREDMILLION",
    "reward": "150 Ichor"
   },
   {
-   "code": "EASTER2025",
-   "reward": "100 Easter Baskets"
-  },
-  {
-   "code": "300K",
-   "reward": "Ichor"
-  },
-  {
-   "code": "SKINTICKET",
+   "code": "TENMILLION",
    "reward": "150 Ichor"
+  },
+  {
+   "code": "1BILLION",
+   "reward": "150 Ornaments"
   }
  ],
- "updated": "2026-08-25T08:19:27.257Z",
+ "updated": "2026-08-26T14:34:17.284Z",
  "source": "https://robloxden.com/game-codes/dandy-s-world"
 }

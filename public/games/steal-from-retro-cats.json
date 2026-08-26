@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "35100Likes",
-   "reward": "1M Coins"
-  },
-  {
    "code": "Wumpus",
    "reward": "a Wumpus"
   },
@@ -19,10 +15,14 @@
    "reward": "1 Unstealable Ticket"
   },
   {
+   "code": "35100Likes",
+   "reward": "1M Coins"
+  },
+  {
    "code": "FNAF",
    "reward": "1 Unstealable Ticket"
   }
  ],
- "updated": "2026-08-25T08:17:21.542Z",
+ "updated": "2026-08-26T14:31:57.203Z",
  "source": "https://robloxden.com/game-codes/steal-from-retro-cats"
 }

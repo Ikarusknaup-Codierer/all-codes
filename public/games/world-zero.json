@@ -15,10 +15,6 @@
    "reward": "150 Crystals"
   },
   {
-   "code": "VANE26",
-   "reward": "25 Dragon Coins and a Manga Present"
-  },
-  {
    "code": "NEWTUTORIAL",
    "reward": "a Chad Statue"
   },
@@ -47,6 +43,10 @@
    "reward": "2x July 4th Aura"
   },
   {
+   "code": "VANE26",
+   "reward": "25 Dragon Coins and a Manga Present"
+  },
+  {
    "code": "ANIME26",
    "reward": "25 Dragon Coins and a Manga Present"
   },
@@ -63,6 +63,6 @@
    "reward": "150 Crystals"
   }
  ],
- "updated": "2026-08-25T08:15:02.768Z",
+ "updated": "2026-08-26T14:29:45.277Z",
  "source": "https://robloxden.com/game-codes/world-zero"
 }

@@ -39,10 +39,6 @@
    "reward": "2 Minutes of Each Boost"
   },
   {
-   "code": "water",
-   "reward": "2 Minutes of Each Boost"
-  },
-  {
    "code": "serg",
    "reward": "2 Minutes of Each Boost"
   },
@@ -69,8 +65,12 @@
   {
    "code": "bnv7",
    "reward": "Rewards"
+  },
+  {
+   "code": "water",
+   "reward": "2 Minutes of Each Boost"
   }
  ],
- "updated": "2026-08-25T14:31:27.514Z",
+ "updated": "2026-08-26T14:36:56.397Z",
  "source": "https://robloxden.com/game-codes/build-a-pet-factory"
 }

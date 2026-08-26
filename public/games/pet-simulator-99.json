@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "ExclusiveDragonEgg",
-   "reward": "Exclusive Dragon Egg"
-  },
-  {
-   "code": "HugeCalestialDragon",
-   "reward": "Huge Calestial Dragon"
+   "code": "DamagePotionV",
+   "reward": "Damage Potion V"
   },
   {
    "code": "HugeUnicornDragon",
@@ -23,10 +19,14 @@
    "reward": "Huge Axolotl Pet"
   },
   {
-   "code": "pet-45a33a2dca",
-   "reward": "Huge Dragon Pet"
+   "code": "pet-4060e7deb6",
+   "reward": "Huge Cat Pet"
+  },
+  {
+   "code": "pet-d67518012",
+   "reward": "Huge Dog Pet"
   }
  ],
- "updated": "2026-08-25T08:17:00.768Z",
+ "updated": "2026-08-26T14:31:31.637Z",
  "source": "https://robloxden.com/game-codes/pet-simulator-99"
 }

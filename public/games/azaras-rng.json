@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "3100Likes",
+   "reward": "31 Starlight Potions , 31 Star Potions and 310 Fortune Potions"
+  },
+  {
+   "code": "3000Likes",
+   "reward": "30 Starlight Potions , 30 Star Potions and 300 Fortune Potions"
+  },
+  {
    "code": "154Reactions!",
    "reward": "10 Eternity Potions and 154 Star Potions"
   },
@@ -91,6 +99,6 @@
    "reward": "40 Starlight Potions 80 Star Potions and 10 Eternity Potions"
   }
  ],
- "updated": "2026-08-25T08:17:36.654Z",
+ "updated": "2026-08-26T14:32:13.365Z",
  "source": "https://robloxden.com/game-codes/azaras-rng"
 }

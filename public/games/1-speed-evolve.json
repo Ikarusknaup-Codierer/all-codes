@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "GiveMeASpeedBoost",
+   "code": "150KLikes",
    "reward": "2x Speed Boost (10 Minutes)"
+  },
+  {
+   "code": "2MFavourites",
+   "reward": "2x Wins Boost (10 Minutes)"
   },
   {
    "code": "GiveMeASpin",
    "reward": "1 Wheel Spin"
+  },
+  {
+   "code": "GiveMeASpeedBoost",
+   "reward": "2x Speed Boost (10 Minutes)"
   }
  ],
- "updated": "2026-08-25T08:17:10.582Z",
+ "updated": "2026-08-26T14:31:46.891Z",
  "source": "https://robloxden.com/game-codes/1-speed-evolve"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "1DayDelay",
+   "reward": "200 Trait Rerolls . You must reach Level 30 to use this code"
+  },
+  {
+   "code": "25thHour",
+   "reward": "50 Trait Rerolls and 50 Memoria Shards . You must reach Level 30 to us"
+  },
+  {
+   "code": "LetTheLarpingBegin",
+   "reward": "50 Controller Tokens , 10,000 Gems , and 50,000 Gold . You must reach "
+  },
+  {
    "code": "WhoopsieDaisy",
    "reward": "100 Memoria Shards . To use this code, you must be at least Level 30"
   },
@@ -27,6 +39,6 @@
    "reward": "50 Memoria Shards and 50 Green Essences . You must be level 30 to clai"
   }
  ],
- "updated": "2026-08-25T08:16:02.292Z",
+ "updated": "2026-08-26T14:30:45.959Z",
  "source": "https://robloxden.com/game-codes/anime-vanguards"
 }

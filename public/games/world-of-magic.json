@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "Magician",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "Fireball",
+   "code": "Brooms",
    "reward": "Free Rewards"
   },
   {
@@ -19,14 +15,18 @@
    "reward": "a 10 Hour 1.6x XP Boost"
   },
   {
-   "code": "GREATHOLIDAYZ",
-   "reward": "a 24 Hour 2x Crown Boost and a 24 Hour 2x XP Boost"
+   "code": "FISHINGMASTER",
+   "reward": "a 5 Hour 2x Crown Boost"
   },
   {
-   "code": "SAILS400",
-   "reward": "400 Crowns"
+   "code": "WEKNOW10",
+   "reward": "a 10 Hour 1.5x XP Boost"
+  },
+  {
+   "code": "VASTIRA500",
+   "reward": "500 Crowns"
   }
  ],
- "updated": "2026-08-25T08:14:07.919Z",
+ "updated": "2026-08-26T14:28:53.434Z",
  "source": "https://robloxden.com/game-codes/world-of-magic"
 }

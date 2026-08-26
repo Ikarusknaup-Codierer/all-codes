@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "update1",
+   "reward": "100 Trait Crystals , 25 Equipment Rerolls , 25 Equipment Locks , and 2"
+  },
+  {
+   "code": "ballin!",
+   "reward": "25 Trait Crystals , 10 Equipment Rerolls , and 10 Stat Rerolls"
+  },
+  {
+   "code": "500mvisits",
+   "reward": "50 Trait Crystals , 30 Equipment Rerolls , and 30 Stat Rerolls"
+  },
+  {
+   "code": "sorry4longmaintenance",
+   "reward": "250 Trait Crystals , 25 Stat Locks , and 25 Stat Rerolls"
+  },
+  {
+   "code": "warriorsaga",
+   "reward": "25 Trait Crystals , 25 Equipment Rerolls , and 25 Stat Locks"
+  },
+  {
    "code": "AnotherRestart",
    "reward": "50 Trait Crystals"
   },
@@ -67,6 +87,6 @@
    "reward": "20 Trait Crystals and 2,500 Gems . You must have the Early Access Role"
   }
  ],
- "updated": "2026-08-25T08:19:25.065Z",
+ "updated": "2026-08-26T14:34:15.151Z",
  "source": "https://robloxden.com/game-codes/anime-expeditions"
 }

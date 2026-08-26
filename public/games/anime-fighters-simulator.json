@@ -11,10 +11,6 @@
    "reward": "20 Mega Boosts (all types) , 100 Heavenly Fruits , 100 Cursed Orbs , 2"
   },
   {
-   "code": "OPCODE1",
-   "reward": "5 Mega Boosts , 100 Wistoria Shards , 150 Passive Tokens , 200 Requiem"
-  },
-  {
    "code": "WISTORIA",
    "reward": "50 Wand Shards"
   },
@@ -301,8 +297,12 @@
   {
    "code": "OopsieDaisies!",
    "reward": "5 Easter Time Boosts (30 minutes) , 5 Easter Passive Luck Boosts (30 m"
+  },
+  {
+   "code": "OPCODE1",
+   "reward": "5 Mega Boosts , 100 Wistoria Shards , 150 Passive Tokens , 200 Requiem"
   }
  ],
- "updated": "2026-08-25T08:14:51.319Z",
+ "updated": "2026-08-26T14:29:33.775Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

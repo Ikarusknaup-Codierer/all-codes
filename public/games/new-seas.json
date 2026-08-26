@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Cinema",
+   "reward": "Freebies"
+  },
+  {
+   "code": "JuneIstotallyworking",
+   "reward": "Freebies"
+  },
+  {
+   "code": "WeekendOver",
+   "reward": "Freebies"
+  },
+  {
    "code": "freshieeventsoon",
    "reward": "Freebies"
   },
@@ -217,6 +229,14 @@
   {
    "code": "YonkoChild",
    "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "DoingAlotForTheGame",
+   "reward": "2000 Doubloons"
+  },
+  {
+   "code": "WorkedAllNight",
+   "reward": "1000 Doubloons"
   },
   {
    "code": "WakeUpSnow",
@@ -491,6 +511,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-08-25T08:20:03.933Z",
+ "updated": "2026-08-26T14:34:48.262Z",
  "source": "https://robloxden.com/game-codes/new-seas"
 }

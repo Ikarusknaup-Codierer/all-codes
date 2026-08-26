@@ -7,22 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "4k",
-   "reward": "Pet"
+   "code": "lucky",
+   "reward": "Luck Boost For An Hour"
   },
   {
-   "code": "PETSAREHERE",
-   "reward": "1 Kitty Knight Pet"
+   "code": "titles",
+   "reward": "Gems And Boost"
   },
   {
-   "code": "EASTER",
-   "reward": "1 5x Coins Boost and 1 10x Gems Boost"
-  },
-  {
-   "code": "ULBX",
-   "reward": "1 Bobby-1M Pet"
+   "code": "SHAMPOO",
+   "reward": "1 5x Coins Boost, 1 10x Gems Boost and 1 Scorpio Pet"
   }
  ],
- "updated": "2026-08-25T08:13:55.902Z",
+ "updated": "2026-08-26T14:28:46.026Z",
  "source": "https://robloxden.com/game-codes/shampoo-simulator"
 }

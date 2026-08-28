@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "AUSSIEFISH",
-   "reward": "50 Lumens"
-  },
-  {
    "code": "scruffplushie",
    "reward": "100 Lumens"
+  },
+  {
+   "code": "1TVISITS",
+   "reward": "100 Lumens"
+  },
+  {
+   "code": "NIGHTLAUNCH",
+   "reward": "Unknown Reward"
   },
   {
    "code": "DOUBLESILLY",
@@ -21,12 +25,8 @@
   {
    "code": "A100K",
    "reward": "100 Lumens"
-  },
-  {
-   "code": "NIGHT",
-   "reward": "100 Lumens"
   }
  ],
- "updated": "2026-08-25T19:54:17.610Z",
+ "updated": "2026-08-28T22:02:49.614Z",
  "source": "https://robloxden.com/game-codes/anchored"
 }

@@ -23,18 +23,6 @@
    "reward": "5 Vault Tokens"
   },
   {
-   "code": "LABORDAY25",
-   "reward": "3 Vault Tokens And 2 Splash Collection Cases"
-  },
-  {
-   "code": "ESCAPED",
-   "reward": "a Free Case"
-  },
-  {
-   "code": "JUNE2025",
-   "reward": "a Free Skin"
-  },
-  {
    "code": "AMENITIES",
    "reward": "a Free Case"
   },
@@ -85,8 +73,20 @@
   {
    "code": "GALLERY",
    "reward": "3 Vault Tokens And An EMF Reader Skin"
+  },
+  {
+   "code": "LABORDAY25",
+   "reward": "3 Vault Tokens And 2 Splash Collection Cases"
+  },
+  {
+   "code": "ESCAPED",
+   "reward": "a Free Case"
+  },
+  {
+   "code": "JUNE2025",
+   "reward": "a Free Skin"
   }
  ],
- "updated": "2026-08-25T19:54:08.621Z",
+ "updated": "2026-08-28T22:02:39.707Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

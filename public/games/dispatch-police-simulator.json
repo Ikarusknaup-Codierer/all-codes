@@ -15,18 +15,6 @@
    "reward": "321 Cash"
   },
   {
-   "code": "CONSTRUCTION",
-   "reward": "210 Cash"
-  },
-  {
-   "code": "BIGMAP",
-   "reward": "222 Cash"
-  },
-  {
-   "code": "COPLIFE",
-   "reward": "123 Cash"
-  },
-  {
    "code": "DETECT",
    "reward": "222 Cash"
   },
@@ -67,10 +55,22 @@
    "reward": "111 Cash"
   },
   {
+   "code": "CONSTRUCTION",
+   "reward": "210 Cash"
+  },
+  {
    "code": "NAVIGATE",
    "reward": "120 Cash"
+  },
+  {
+   "code": "BIGMAP",
+   "reward": "222 Cash"
+  },
+  {
+   "code": "COPLIFE",
+   "reward": "123 Cash"
   }
  ],
- "updated": "2026-08-25T19:50:58.375Z",
+ "updated": "2026-08-28T21:59:33.403Z",
  "source": "https://robloxden.com/game-codes/dispatch-police-simulator"
 }

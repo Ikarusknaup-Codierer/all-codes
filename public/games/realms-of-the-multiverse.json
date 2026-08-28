@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "halloween",
+   "code": "whatmouth",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "HOPESOLOS",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "expression",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "broke",
    "reward": "3,500 Coins"
   },
   {
-   "code": "incendia",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "mommy",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "newyearnewme",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "ignite",
-   "reward": "Free Coins"
+   "code": "granger",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-25T19:52:46.252Z",
+ "updated": "2026-08-28T22:01:15.441Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

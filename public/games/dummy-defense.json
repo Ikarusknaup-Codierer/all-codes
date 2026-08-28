@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "TY25kLikes",
-   "reward": "400 Bricks"
-  },
-  {
    "code": "QualityCode",
    "reward": "400 Bricks"
   },
   {
-   "code": "BossSolo",
-   "reward": "350 Bricks"
+   "code": "TY25kLikes",
+   "reward": "400 Bricks"
   },
   {
-   "code": "TitanAndTV",
+   "code": "NewTowerSpawner",
    "reward": "300 Bricks"
+  },
+  {
+   "code": "TY2kLikes",
+   "reward": "400 Bricks"
   }
  ],
- "updated": "2026-08-25T19:54:00.163Z",
+ "updated": "2026-08-28T22:02:32.475Z",
  "source": "https://robloxden.com/game-codes/dummy-defense"
 }

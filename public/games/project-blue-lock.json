@@ -11,10 +11,6 @@
    "reward": "rewards"
   },
   {
-   "code": "WANTSOMESPINS",
-   "reward": "10 Spins"
-  },
-  {
    "code": "READYFORSHIDOU",
    "reward": "20 Spins"
   },
@@ -61,6 +57,10 @@
   {
    "code": "HUGOWUGO",
    "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "WANTSOMESPINS",
+   "reward": "10 Spins"
   },
   {
    "code": "LORENZOSFX",
@@ -991,6 +991,6 @@
    "reward": "30 Spins"
   }
  ],
- "updated": "2026-08-25T19:52:56.699Z",
+ "updated": "2026-08-28T22:01:25.470Z",
  "source": "https://robloxden.com/game-codes/project-blue-lock"
 }

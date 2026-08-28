@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "DeathAuras",
-   "reward": "2,500 Universal Coins"
+   "code": "WeAreSorry!",
+   "reward": "10,000 Universal Coins"
   },
   {
-   "code": "Advent24",
-   "reward": "2,000 Universal Coins"
+   "code": "SorryForDelay",
+   "reward": "10,000 Universal Coins"
+  },
+  {
+   "code": "TYFORSUPPORT",
+   "reward": "1,500 Universal"
   },
   {
    "code": "2XTPM",
    "reward": "2,000 Universal"
   }
  ],
- "updated": "2026-08-25T19:53:44.941Z",
+ "updated": "2026-08-28T22:02:14.939Z",
  "source": "https://robloxden.com/game-codes/spts-return-of-the-reaper"
 }

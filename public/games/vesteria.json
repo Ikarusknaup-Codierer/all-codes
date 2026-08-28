@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ancient",
+   "reward": "a Template Ancient Scroll . You must be at least level 45 or above to "
+  },
+  {
    "code": "megaphone",
    "reward": "a megaphone . Only Roblox Premium subscribers can redeem this code"
   },
@@ -43,6 +47,6 @@
    "reward": "Stat Reset"
   }
  ],
- "updated": "2026-08-26T03:37:31.502Z",
+ "updated": "2026-08-28T22:05:35.622Z",
  "source": "https://robloxden.com/game-codes/vesteria"
 }

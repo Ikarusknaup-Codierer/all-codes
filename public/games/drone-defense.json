@@ -11,6 +11,10 @@
    "reward": "300 Event Shards"
   },
   {
+   "code": "Shutdown",
+   "reward": "a Keybug"
+  },
+  {
    "code": "Evolutions",
    "reward": "200 Keybugs"
   },
@@ -27,34 +31,10 @@
    "reward": "200 Keybugs"
   },
   {
-   "code": "HalloweenUpdate",
-   "reward": "600 Pumpkins"
-  },
-  {
-   "code": "Shutdown",
-   "reward": "1 Keybug"
-  },
-  {
-   "code": "5MILLION",
-   "reward": "1,000 Keybugs"
-  },
-  {
-   "code": "4MILLION",
-   "reward": "400 Keybugs"
-  },
-  {
-   "code": "MerryChristmas",
-   "reward": "1,000 Keybugs"
-  },
-  {
-   "code": "3MILLION",
-   "reward": "500 Keybugs"
-  },
-  {
    "code": "2MILLION",
    "reward": "400 Keybugs"
   }
  ],
- "updated": "2026-08-26T03:36:52.683Z",
+ "updated": "2026-08-28T22:04:59.514Z",
  "source": "https://robloxden.com/game-codes/drone-defense"
 }

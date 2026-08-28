@@ -11,18 +11,22 @@
    "reward": "2x Wins Potion"
   },
   {
-   "code": "DailyDays",
-   "reward": "2x Wins Potion"
+   "code": "2M",
+   "reward": "2x Luck Potion"
   },
   {
    "code": "Spoiled",
    "reward": "Hatch Only Toxic Food Potions"
   },
   {
-   "code": "WELCOME",
-   "reward": "50 Gems and Rare Short Swords"
+   "code": "EASTER",
+   "reward": "50 Easter Eggs"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "40 Gems and Rare Clover"
   }
  ],
- "updated": "2026-08-26T03:37:28.506Z",
+ "updated": "2026-08-28T22:05:33.496Z",
  "source": "https://robloxden.com/game-codes/fat-race"
 }

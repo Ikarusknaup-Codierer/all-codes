@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "welcome",
-   "reward": "30 Spins , 2 Spin Crystals , and 1.5x Exp (20 Minutes)"
-  },
-  {
    "code": "jewelupdategift",
    "reward": "Freebies . You must be at least level 65 to redeem this code"
+  },
+  {
+   "code": "welcome",
+   "reward": "30 Spins , 2 Spin Crystals , and 1.5x Exp (20 Minutes)"
   },
   {
    "code": "startboost2",
    "reward": "30 Spins and 3 Spin Crystals"
   },
   {
-   "code": "10klikes!",
+   "code": "morerng!",
    "reward": "Freebies"
   }
  ],
- "updated": "2026-08-26T03:37:01.611Z",
+ "updated": "2026-08-28T22:05:08.009Z",
  "source": "https://robloxden.com/game-codes/elemental-grounds"
 }

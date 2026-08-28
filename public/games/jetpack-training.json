@@ -19,14 +19,14 @@
    "reward": "1 Starting Potion"
   },
   {
-   "code": "update2",
+   "code": "update1",
    "reward": "20 Wins"
   },
   {
-   "code": "update1",
-   "reward": "20 Wins"
+   "code": "onemillion",
+   "reward": "1 Power Potion"
   }
  ],
- "updated": "2026-08-25T19:52:53.233Z",
+ "updated": "2026-08-28T22:01:22.218Z",
  "source": "https://robloxden.com/game-codes/jetpack-training"
 }

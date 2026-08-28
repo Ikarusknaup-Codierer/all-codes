@@ -19,10 +19,6 @@
    "reward": "a Red Larva Skin"
   },
   {
-   "code": "mastery",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "reopen",
    "reward": "Yellow Larva"
   },
@@ -33,10 +29,6 @@
   {
    "code": "1mil",
    "reward": "1,000,000 Cash"
-  },
-  {
-   "code": "noli",
-   "reward": "50,000 Cash and an Observer Noli Skin"
   },
   {
    "code": "rerelease",
@@ -59,10 +51,18 @@
    "reward": "Freebies"
   },
   {
+   "code": "mastery",
+   "reward": "50,000 Cash"
+  },
+  {
    "code": "summer",
    "reward": "50,000 Cash"
+  },
+  {
+   "code": "noli",
+   "reward": "50,000 Cash and an Observer Noli Skin"
   }
  ],
- "updated": "2026-08-25T19:52:51.094Z",
+ "updated": "2026-08-28T22:01:20.102Z",
  "source": "https://robloxden.com/game-codes/forgotten"
 }

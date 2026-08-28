@@ -43,10 +43,6 @@
    "reward": "500 Gobucks and 2,500 Tix"
   },
   {
-   "code": "SORRYGUYS",
-   "reward": "1,000 Gobucks and 10,000 Tix"
-  },
-  {
    "code": "75kswoop",
    "reward": "the 75K Super Swoop"
   },
@@ -61,8 +57,12 @@
   {
    "code": "500Players",
    "reward": "500 Gobucks and 5,000 Tix"
+  },
+  {
+   "code": "SORRYGUYS",
+   "reward": "1,000 Gobucks and 10,000 Tix"
   }
  ],
- "updated": "2026-08-25T14:31:25.548Z",
+ "updated": "2026-08-28T01:39:17.643Z",
  "source": "https://robloxden.com/game-codes/goingto2014"
 }

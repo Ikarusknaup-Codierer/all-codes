@@ -15,10 +15,6 @@
    "reward": "2x Drop Boost (1 Hour) and 2x Yen Boost (1 Hour)"
   },
   {
-   "code": "!20klikes",
-   "reward": "10 Unstable Appearance Reroll Potions , 5 Unstable Nichirin Appearance"
-  },
-  {
    "code": "!10kfavourites",
    "reward": "5 Unstable Clan Reroll Potions and 5 Unstable Appearance Reroll Potion"
   },
@@ -57,8 +53,12 @@
   {
    "code": "!2mvisits",
    "reward": "1 Unstable Breathing Reset Potion , 3 Unstable BDA Reroll Potions , an"
+  },
+  {
+   "code": "!20klikes",
+   "reward": "10 Unstable Appearance Reroll Potions , 5 Unstable Nichirin Appearance"
   }
  ],
- "updated": "2026-08-25T14:33:07.925Z",
+ "updated": "2026-08-28T01:40:46.111Z",
  "source": "https://robloxden.com/game-codes/untitled-slayer"
 }

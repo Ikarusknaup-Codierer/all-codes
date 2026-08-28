@@ -11,22 +11,22 @@
    "reward": "5-Minute Money Boost Potion"
   },
   {
-   "code": "SUMMER",
-   "reward": "x2 Money (5 Minutes)"
-  },
-  {
    "code": "BUILDING",
    "reward": "a Money Boost Potion (5 Minutes)"
   },
   {
-   "code": "ALARM",
-   "reward": "Money Boost Potion"
+   "code": "REMOTE",
+   "reward": "Freebies"
   },
   {
-   "code": "700K",
+   "code": "1M",
+   "reward": "Freebies"
+  },
+  {
+   "code": "CARS",
    "reward": "Money Boost Potion"
   }
  ],
- "updated": "2026-08-25T14:34:53.506Z",
+ "updated": "2026-08-28T01:42:37.000Z",
  "source": "https://robloxden.com/game-codes/clip-tycoon"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "DungeonPack",
+   "reward": "1 Dungeon Pack , 5 Hyper Luck Potions , and 5 Advanced Weather Rerolls"
+  },
+  {
+   "code": "Sry4Delay",
+   "reward": "1 Dungeon Pack , 5 Hyper Luck Potions , and 5 Advanced Weather Rerolls"
+  },
+  {
+   "code": "AscensionMode",
+   "reward": "1 Dungeon Pack , 5 Hyper Luck Potions , and 5 Advanced Weather Rerolls"
+  },
+  {
+   "code": "CharacterTower",
+   "reward": "1 Dungeon Pack , 5 Hyper Luck Potions , and 5 Advanced Weather Rerolls"
+  },
+  {
    "code": "ShadowEvent",
    "reward": "5 Hyper Luck Potions , 5 Advanced Weather Rerolls , and 5 Boss Chance "
   },
@@ -39,6 +55,6 @@
    "reward": "20 Luck Potion III , 20 Roll Speed Potion III , and 20 Weather Potion"
   }
  ],
- "updated": "2026-08-25T14:32:29.031Z",
+ "updated": "2026-08-28T01:40:01.316Z",
  "source": "https://robloxden.com/game-codes/anime-card-crusade"
 }

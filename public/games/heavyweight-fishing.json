@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BigUPD",
-   "reward": "Free Rewards . You must be at least level 500 to use this code"
-  },
-  {
-   "code": "23MVisits",
-   "reward": "Free Rewards . You must be at least level 50 to use this code"
-  },
-  {
    "code": "24MVisits",
    "reward": "Free Rewards . You must be at least level 50 to use this code"
   },
@@ -24,6 +16,26 @@
   },
   {
    "code": "26MVisits",
+   "reward": "Free Rewards . You must be at least level 50 to use this code"
+  },
+  {
+   "code": "BugAgain",
+   "reward": "25 Tickets and 50 Crystals . You must be level 150 to claim this code"
+  },
+  {
+   "code": "19MVisits",
+   "reward": "15 Tickets and 25 Crystals . You must be level 50 to claim this code"
+  },
+  {
+   "code": "9KActives",
+   "reward": "Free Rewards . You must be at least level 200 to use this code"
+  },
+  {
+   "code": "BigUPD",
+   "reward": "Free Rewards . You must be at least level 500 to use this code"
+  },
+  {
+   "code": "23MVisits",
    "reward": "Free Rewards . You must be at least level 50 to use this code"
   },
   {
@@ -43,12 +55,36 @@
    "reward": "Free Rewards . You must be at least level 20 to use this code"
   },
   {
+   "code": "41KLikes",
+   "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be at least leve"
+  },
+  {
+   "code": "22MVisits",
+   "reward": "15 Tickets and 25 Crystals . You must be at least level 50 to use this"
+  },
+  {
+   "code": "WaitForPeak",
+   "reward": "50 Tickets , 100 Crystals , and 50 Trait Rerolls . You must be at leas"
+  },
+  {
+   "code": "PEAK",
+   "reward": "50 Tickets , 100 Crystals , and 50 Trait Rerolls . You must be at leas"
+  },
+  {
+   "code": "Enzo2",
+   "reward": "100 Trait Rerolls . You must be at least Level 100 to use this code"
+  },
+  {
    "code": "ThanksForNitroBoost",
    "reward": "100 Trait Rerolls . You must be at least Level 50 to use this code"
   },
   {
    "code": "Enzo",
    "reward": "100 Trait Rerolls . You must be at least Level 50 to use this code"
+  },
+  {
+   "code": "40KLikes",
+   "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be at least Leve"
   },
   {
    "code": "20M5Visits",
@@ -63,19 +99,11 @@
    "reward": "100 Trait Rerolls . You must be level 50 to claim this code"
   },
   {
-   "code": "BugAgain",
-   "reward": "25 Tickets and 50 Crystals . You must be level 150 to claim this code"
-  },
-  {
    "code": "FreeReroll",
    "reward": "100 Trait Rerolls . You must be level 50 to claim this code"
   },
   {
    "code": "19M5Visits",
-   "reward": "15 Tickets and 25 Crystals . You must be level 50 to claim this code"
-  },
-  {
-   "code": "19MVisits",
    "reward": "15 Tickets and 25 Crystals . You must be level 50 to claim this code"
   },
   {
@@ -99,34 +127,6 @@
    "reward": "100 Tickets and 100 Crystals . You must be level 100 to claim this cod"
   },
   {
-   "code": "367BUG",
-   "reward": "100 Trait Rerolls"
-  },
-  {
-   "code": "41KLikes",
-   "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be at least leve"
-  },
-  {
-   "code": "22MVisits",
-   "reward": "15 Tickets and 25 Crystals . You must be at least level 50 to use this"
-  },
-  {
-   "code": "WaitForPeak",
-   "reward": "50 Tickets , 100 Crystals , and 50 Trait Rerolls . You must be at leas"
-  },
-  {
-   "code": "PEAK",
-   "reward": "50 Tickets , 100 Crystals , and 50 Trait Rerolls . You must be at leas"
-  },
-  {
-   "code": "Enzo2",
-   "reward": "100 Trait Rerolls . You must be at least Level 100 to use this code"
-  },
-  {
-   "code": "40KLikes",
-   "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be at least Leve"
-  },
-  {
    "code": "34KLikes",
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   },
@@ -147,6 +147,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-08-25T14:36:43.660Z",
+ "updated": "2026-08-28T01:44:42.252Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

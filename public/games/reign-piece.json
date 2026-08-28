@@ -11,44 +11,12 @@
    "reward": "100,000 Yen , 10,000 Crystals , 50 Race Tokens , 5 Clan Relics , and 2"
   },
   {
-   "code": "ICHIGOTYBWUPDATE",
-   "reward": "Free Rewards . You must be at least Level 6,250 to use this code"
-  },
-  {
-   "code": "SHADOWSARISE",
-   "reward": "Freebies . You must be at least Level 6,000 to use this code"
-  },
-  {
-   "code": "LIMITEDCODEREDEEMQUICKWOAH",
-   "reward": "Freebies . You must be at least Level 6,500 to use this code"
-  },
-  {
    "code": "BEGINNERBOOST",
    "reward": "2.5K Yen, 500 Crystals, 20 Race Tokens and 10 Clan Relics"
   },
   {
-   "code": "JUDGEMENTCUT",
-   "reward": "Freebies . To use this code, you must at least reach Level 5,000"
-  },
-  {
-   "code": "IAMTHESTORM",
-   "reward": "Freebies . To use this code, you must at least reach Level 6,000"
-  },
-  {
    "code": "SLCSOHUMBLE",
    "reward": "Freebies . You need to be at least level 1,500 to redeem this code"
-  },
-  {
-   "code": "DEKUVIGILANTE",
-   "reward": "Freebies . You need to be at least level 4,500 to redeem this code"
-  },
-  {
-   "code": "ANTIMAGIC",
-   "reward": "Freebies . You need to be at least level 4,000 to redeem this code"
-  },
-  {
-   "code": "ASTAUPDATE",
-   "reward": "Freebies . You need to be at least level 5,300 to redeem this code"
   },
   {
    "code": "FOUNDTHEGOAT",
@@ -71,12 +39,8 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "PRIDEVSLOVE",
-   "reward": "Freebies"
-  },
-  {
-   "code": "AIZENANDSHADOW",
-   "reward": "Free Rewards"
+   "code": "ICHIGOTYBWUPDATE",
+   "reward": "Free Rewards . You must be at least Level 6,250 to use this code"
   },
   {
    "code": "WELOVESLC",
@@ -87,20 +51,48 @@
    "reward": "Free Rewards . You must be at least Level 6,000 to use this code"
   },
   {
+   "code": "SHADOWSARISE",
+   "reward": "Freebies . You must be at least Level 6,000 to use this code"
+  },
+  {
    "code": "HUGEBALANCINGPATCH",
    "reward": "100,000 Yen , 10,000 Crystals , 3 Daily Spins , and 5 Clan Relics"
+  },
+  {
+   "code": "LIMITEDCODEREDEEMQUICKWOAH",
+   "reward": "Freebies . You must be at least Level 6,500 to use this code"
   },
   {
    "code": "THEFIRSTSLAYER",
    "reward": "Freebies . You must be at least Level 5,000 to use this code"
   },
   {
+   "code": "JUDGEMENTCUT",
+   "reward": "Freebies . To use this code, you must at least reach Level 5,000"
+  },
+  {
+   "code": "IAMTHESTORM",
+   "reward": "Freebies . To use this code, you must at least reach Level 6,000"
+  },
+  {
    "code": "BLAMEMARKUSFORDROPRATES",
    "reward": "Rewards . You must be at least level 1,500 to claim this code"
   },
   {
+   "code": "DEKUVIGILANTE",
+   "reward": "Freebies . You need to be at least level 4,500 to redeem this code"
+  },
+  {
    "code": "LIMITEDCODE",
    "reward": "Freebies . You need to be at least level 1,000 to redeem this code"
+  },
+  {
+   "code": "ANTIMAGIC",
+   "reward": "Freebies . You need to be at least level 4,000 to redeem this code"
+  },
+  {
+   "code": "ASTAUPDATE",
+   "reward": "Freebies . You need to be at least level 5,300 to redeem this code"
   },
   {
    "code": "ANOSUPDATE",
@@ -123,12 +115,20 @@
    "reward": "Freebies"
   },
   {
+   "code": "PRIDEVSLOVE",
+   "reward": "Freebies"
+  },
+  {
    "code": "1500CCU!",
    "reward": "Freebies . You must be at least level 1,000 to claim this code"
   },
   {
    "code": "SOVEREIGN",
    "reward": "Freebies . You must be at least level 1,000 to claim this code"
+  },
+  {
+   "code": "AIZENANDSHADOW",
+   "reward": "Free Rewards"
   },
   {
    "code": "HUGEUPDATE",
@@ -223,6 +223,6 @@
    "reward": "1 Mythical Chest and 10 Race Tokens"
   }
  ],
- "updated": "2026-08-25T14:35:47.566Z",
+ "updated": "2026-08-28T01:43:37.426Z",
  "source": "https://robloxden.com/game-codes/reign-piece"
 }

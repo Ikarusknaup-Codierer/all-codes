@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HELLO",
-   "reward": "10 Lineage Rerolls and 10 Trait Rerolls"
+   "code": "PATCH4",
+   "reward": ""
   },
   {
-   "code": "DELAY1",
+   "code": "GROUP1K",
+   "reward": "This code requires you to join the 7L. Roblox group"
+  },
+  {
+   "code": "VISITS1M",
    "reward": "2 Lineage Rerolls And 2 Trait Rerolls"
   },
   {
-   "code": "GROUP50K",
-   "reward": "1 Lineage Reroll And 1 Trait Reroll"
-  },
-  {
-   "code": "UPDATE2",
+   "code": "THANKYOU",
    "reward": "3 Lineage Rerolls And 3 Trait Rerolls"
   },
   {
-   "code": "PATCH1",
-   "reward": "1 Idol of Rebirth"
+   "code": "PATCH2",
+   "reward": "2 Lineage Rerolls and 2 Trait Rerolls"
   }
  ],
- "updated": "2026-08-25T14:35:45.565Z",
+ "updated": "2026-08-28T01:43:35.075Z",
  "source": "https://robloxden.com/game-codes/magic-and-divinity"
 }

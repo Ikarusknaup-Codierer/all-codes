@@ -7,8 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "BALK",
-   "reward": "1,000 Cash"
+   "code": "JERSEY",
+   "reward": "200 Cash"
+  },
+  {
+   "code": "CORK",
+   "reward": "a Pack"
+  },
+  {
+   "code": "PLATE",
+   "reward": "250 XP"
+  },
+  {
+   "code": "SHIELD",
+   "reward": "2 Packs"
   },
   {
    "code": "2X",
@@ -23,6 +35,6 @@
    "reward": "100 Cash and 400 XP"
   }
  ],
- "updated": "2026-08-26T14:36:41.955Z",
+ "updated": "2026-08-29T12:16:08.919Z",
  "source": "https://robloxden.com/game-codes/baseball-universe-9v9"
 }

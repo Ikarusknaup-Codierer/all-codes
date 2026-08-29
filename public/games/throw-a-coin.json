@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Champion",
+   "reward": "1 Huge Trophy"
+  },
+  {
    "code": "WORLD4",
    "reward": "2 Astral Potion"
   },
@@ -21,12 +25,8 @@
   {
    "code": "Luckyducky",
    "reward": "the Divine Rubber Duck"
-  },
-  {
-   "code": "BIGBANG",
-   "reward": "10x Luck (5 mins)"
   }
  ],
- "updated": "2026-08-26T14:30:44.804Z",
+ "updated": "2026-08-29T12:10:26.775Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

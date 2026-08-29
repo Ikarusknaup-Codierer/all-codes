@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "contract",
-   "reward": "300 Credits"
-  },
-  {
    "code": "CBUNRESTRICTED2",
    "reward": "100 Credits"
   },
@@ -25,8 +21,12 @@
   {
    "code": "SPRINGUPDATE",
    "reward": "200 Credits . Only the first 9,000 players can claim this code"
+  },
+  {
+   "code": "CBVALENTINE",
+   "reward": "150 Credits"
   }
  ],
- "updated": "2026-08-26T14:32:49.582Z",
+ "updated": "2026-08-29T12:12:17.492Z",
  "source": "https://robloxden.com/game-codes/counter-blox"
 }

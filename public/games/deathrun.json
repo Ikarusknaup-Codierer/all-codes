@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SCRAPTASTIC",
+   "code": "decoy",
+   "reward": "5 Decoy Deploy"
+  },
+  {
+   "code": "woah",
+   "reward": "25 Gems"
+  },
+  {
+   "code": "Rudolf",
+   "reward": "25 Gems And Some Snowballs"
+  },
+  {
+   "code": "THRILLER",
    "reward": "50 Scraps"
   },
   {
-   "code": "F2TM",
-   "reward": "200 Coins, An F2TM Trail, And 10 Gems"
-  },
-  {
-   "code": "taiga",
-   "reward": "50 Gems"
-  },
-  {
-   "code": "TOMATOES",
-   "reward": "10 tomatoes"
+   "code": "SEASON10",
+   "reward": "10 Gems and 10 Snowballs"
   }
  ],
- "updated": "2026-08-26T14:30:15.407Z",
+ "updated": "2026-08-29T12:10:01.798Z",
  "source": "https://robloxden.com/game-codes/deathrun"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPD7",
+   "reward": "500 Huss Coins"
+  },
+  {
+   "code": "VISITS1M",
+   "reward": "500 Huss Coins"
+  },
+  {
    "code": "UPDATE6",
    "reward": "500 Huss Coins"
   },
@@ -59,6 +67,6 @@
    "reward": "300 Huss Coins"
   }
  ],
- "updated": "2026-08-26T14:32:51.785Z",
+ "updated": "2026-08-29T12:12:19.868Z",
  "source": "https://robloxden.com/game-codes/escape-huss-valley"
 }

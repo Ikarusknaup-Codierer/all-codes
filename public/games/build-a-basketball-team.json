@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "whoops",
+   "reward": "50 Rerolls and 15 Refreshes"
+  },
+  {
+   "code": "SURPRISE",
+   "reward": "25 Rerolls and 15 Refreshes"
+  },
+  {
    "code": "600k",
    "reward": "50 Rerolls and 15 Refreshes"
   },
@@ -31,6 +39,6 @@
    "reward": "15 Rerolls and 10 Refreshes"
   }
  ],
- "updated": "2026-08-26T14:34:33.434Z",
+ "updated": "2026-08-29T12:14:04.288Z",
  "source": "https://robloxden.com/game-codes/build-a-basketball-team"
 }

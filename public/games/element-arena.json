@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Sorcerer",
+   "reward": "3 Tickets"
+  },
+  {
+   "code": "Update3",
+   "reward": "20 Gems"
+  },
+  {
    "code": "Hacker",
    "reward": "3 Tickets"
   },
@@ -15,6 +23,6 @@
    "reward": "20 Gems"
   }
  ],
- "updated": "2026-08-26T14:33:45.643Z",
+ "updated": "2026-08-29T12:13:14.097Z",
  "source": "https://robloxden.com/game-codes/element-arena"
 }

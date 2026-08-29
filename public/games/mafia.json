@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "ACODE",
+   "reward": "169 Credits"
+  },
+  {
    "code": "MONEYFACE",
    "reward": "200 Credits"
   },
   {
-   "code": "eclipses",
+   "code": "schnabel",
    "reward": "Credits , Tokens , and XP"
   },
   {
-   "code": "raven",
-   "reward": "Credits , Tokens , and XP"
+   "code": "100KMEMBERS",
+   "reward": "500 Credits"
   },
   {
-   "code": "ELEMENTARY",
+   "code": "HOSPITAL",
    "reward": "200 Credits"
   }
  ],
- "updated": "2026-08-26T14:34:42.328Z",
+ "updated": "2026-08-29T12:14:13.787Z",
  "source": "https://robloxden.com/game-codes/mafia"
 }

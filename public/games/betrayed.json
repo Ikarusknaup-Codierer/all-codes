@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PARTY",
+   "reward": "350 Cash"
+  },
+  {
+   "code": "WEARESUPEERSORRY",
+   "reward": "3 Wheel Spins"
+  },
+  {
    "code": "GUBBYRULES",
    "reward": "the Gubby Cosmetic"
   },
@@ -23,6 +31,6 @@
    "reward": "250 Cash"
   }
  ],
- "updated": "2026-08-26T14:37:02.573Z",
+ "updated": "2026-08-29T12:16:23.831Z",
  "source": "https://robloxden.com/game-codes/betrayed"
 }

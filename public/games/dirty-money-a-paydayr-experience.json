@@ -19,14 +19,6 @@
    "reward": "an AKM Assault Rifle , 3 Skill Points , $10,000 Cash , and 10 Backgrou"
   },
   {
-   "code": "PATCH3",
-   "reward": "10 Background Spins , $10,000 Cash , and 3 Skill Points"
-  },
-  {
-   "code": "HOTFIX",
-   "reward": "15 Background Spins , $10,000 Cash , and 3 Skill Points"
-  },
-  {
    "code": "HOTFIX2",
    "reward": "3 Background Spins"
   },
@@ -49,8 +41,16 @@
   {
    "code": "PATCH2",
    "reward": "10 Background Spins , $10,000 Cash , and 3 Skill Points"
+  },
+  {
+   "code": "PATCH3",
+   "reward": "10 Background Spins , $10,000 Cash , and 3 Skill Points"
+  },
+  {
+   "code": "HOTFIX",
+   "reward": "15 Background Spins , $10,000 Cash , and 3 Skill Points"
   }
  ],
- "updated": "2026-08-26T14:33:13.516Z",
+ "updated": "2026-08-29T12:12:42.403Z",
  "source": "https://robloxden.com/game-codes/dirty-money-a-paydayr-experience"
 }

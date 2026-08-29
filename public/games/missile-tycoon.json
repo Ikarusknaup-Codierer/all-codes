@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ZYNOISKING",
+   "reward": "a Base Shield (5 mins)"
+  },
+  {
+   "code": "MISSILEMADNESS",
+   "reward": "5 APR Missiles"
+  },
+  {
    "code": "2-APR",
    "reward": "a 2-APR Missile"
   },
@@ -15,6 +23,6 @@
    "reward": "$500,000 Cash"
   }
  ],
- "updated": "2026-08-26T14:35:32.062Z",
+ "updated": "2026-08-29T12:15:07.874Z",
  "source": "https://robloxden.com/game-codes/missile-tycoon"
 }

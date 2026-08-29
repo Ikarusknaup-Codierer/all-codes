@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "CLAWMACHINE",
+   "reward": "50 Cash"
+  },
+  {
+   "code": "CORALCARNIVAL",
+   "reward": "50 Cash"
+  },
+  {
+   "code": "KELPWANTED",
+   "reward": "25 Cash"
+  },
+  {
    "code": "CRABCAKES",
    "reward": "55 Cash"
   },
@@ -127,6 +139,6 @@
    "reward": "$50 Cash"
   }
  ],
- "updated": "2026-08-26T14:33:44.613Z",
+ "updated": "2026-08-29T12:13:12.999Z",
  "source": "https://robloxden.com/game-codes/crab-tycoon"
 }

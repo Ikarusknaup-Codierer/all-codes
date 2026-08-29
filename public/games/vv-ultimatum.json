@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "update2",
+   "reward": "Rewards"
+  },
+  {
    "code": "GOODMORNING",
    "reward": "50 Ability Rerolls , 25 Clan Rerolls , 10 Experimental Hagyaku Shards "
   },
@@ -15,14 +19,14 @@
    "reward": "10 Ability Rerolls"
   },
   {
-   "code": "SHUTDOWNFIX",
-   "reward": "3x Clan Reroll and 3x Experimental Hagyaku Shard (Rare)"
+   "code": "FEWREROLLS",
+   "reward": "3x Clan Reroll and 3x Ability Reroll"
   },
   {
-   "code": "SDFIX",
-   "reward": "5x Experimental Hogyoku Shards and 3x Reiatsu Color Reroll"
+   "code": "MINIUPDATE",
+   "reward": "10x Clan Reroll , 3x Ability Reroll , 3x Experimental Hogyoku Shard (R"
   }
  ],
- "updated": "2026-08-26T14:34:11.663Z",
+ "updated": "2026-08-29T12:13:40.788Z",
  "source": "https://robloxden.com/game-codes/vv-ultimatum"
 }

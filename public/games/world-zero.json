@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "JIMOTHY",
-   "reward": "the Jimothy Mount"
-  },
-  {
    "code": "925KLIKES",
    "reward": "150 Crystals"
   },
@@ -19,8 +15,8 @@
    "reward": "a Chad Statue"
   },
   {
-   "code": "RIA2026",
-   "reward": "a Developer Gift"
+   "code": "JIMOTHY",
+   "reward": "the Jimothy Mount"
   },
   {
    "code": "STOCKBUG",
@@ -63,6 +59,6 @@
    "reward": "150 Crystals"
   }
  ],
- "updated": "2026-08-26T14:29:45.277Z",
+ "updated": "2026-08-29T12:09:43.547Z",
  "source": "https://robloxden.com/game-codes/world-zero"
 }

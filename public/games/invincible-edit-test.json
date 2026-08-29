@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CODEHERE",
+   "reward": "a Genius Title"
+  },
+  {
    "code": "LARP",
    "reward": "Larper Title and Excuse Me Sir Emote"
   },
@@ -17,8 +21,12 @@
   {
    "code": "TUFF",
    "reward": "a Tuff Title"
+  },
+  {
+   "code": "WEAREBACK",
+   "reward": "a Limited Title and 3 Emotes"
   }
  ],
- "updated": "2026-08-26T14:32:00.693Z",
+ "updated": "2026-08-29T12:11:37.353Z",
  "source": "https://robloxden.com/game-codes/invincible-edit-test"
 }

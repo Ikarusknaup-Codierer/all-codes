@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CURSEDCHILD",
+   "reward": "200 Energy and 150 EXP"
+  },
+  {
    "code": "SORRYBOOGIEWOOGIE",
    "reward": "100 Energy and 50 EXP"
   },
@@ -15,6 +19,6 @@
    "reward": "200 Energy and 50 EXP"
   }
  ],
- "updated": "2026-08-26T14:30:23.905Z",
+ "updated": "2026-08-29T12:10:09.151Z",
  "source": "https://robloxden.com/game-codes/heal-your-injuries"
 }

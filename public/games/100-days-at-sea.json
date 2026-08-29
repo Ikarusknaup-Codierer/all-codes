@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SURVIVOR",
+   "reward": "20 Pearls"
+  },
+  {
    "code": "DECORATE",
    "reward": "20 Pearls"
   },
@@ -31,6 +35,6 @@
    "reward": "20 Pearls"
   }
  ],
- "updated": "2026-08-26T14:30:17.353Z",
+ "updated": "2026-08-29T12:10:03.888Z",
  "source": "https://robloxden.com/game-codes/100-days-at-sea"
 }

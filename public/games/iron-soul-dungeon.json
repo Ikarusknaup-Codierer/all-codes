@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ODYSSEY",
+   "reward": "3 Starwish Cards"
+  },
+  {
+   "code": "SEASONVOUCHER",
+   "reward": "6,000 Season Vouchers"
+  },
+  {
+   "code": "IRONSOULWEEKEND20",
+   "reward": "3 Race Rerolls"
+  },
+  {
    "code": "SCROLLCHARGEFIX",
    "reward": "3,000 Season Vouchers and 2 Race Rerolls"
   },
@@ -17,6 +29,10 @@
   {
    "code": "SEASON2OPEN",
    "reward": "3 Season Lucky Tickets"
+  },
+  {
+   "code": "MAP5COMESOON",
+   "reward": "Rewards"
   },
   {
    "code": "200KMEMBERREWARD",
@@ -91,6 +107,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-08-26T14:33:28.692Z",
+ "updated": "2026-08-29T12:12:55.785Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

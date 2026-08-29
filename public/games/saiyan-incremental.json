@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PATCHNOTES",
+   "reward": "3 Dragon Ball Bulk potion, 3 Dragon Ball Luck potion and 3 Dragon Ball"
+  },
+  {
+   "code": "GOODWILL",
+   "reward": "2x Dragon Ball Bulk potion"
+  },
+  {
    "code": "RELEASE",
    "reward": "20 Tickets"
   },
@@ -19,6 +27,6 @@
    "reward": "1 Of Each Potion"
   }
  ],
- "updated": "2026-08-26T14:34:19.590Z",
+ "updated": "2026-08-29T12:13:49.252Z",
  "source": "https://robloxden.com/game-codes/saiyan-incremental"
 }

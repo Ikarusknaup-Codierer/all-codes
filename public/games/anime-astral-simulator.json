@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SPAWNBOSS",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "HEROTEST",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "SORRYFORUPGRADES",
+   "reward": "500 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "UPDATE9",
    "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -251,6 +263,6 @@
    "reward": "Tickets , Potions , or Boosts"
   }
  ],
- "updated": "2026-08-26T14:32:50.109Z",
+ "updated": "2026-08-29T12:12:18.065Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

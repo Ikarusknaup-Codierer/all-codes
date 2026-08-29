@@ -7,8 +7,28 @@
    "reward": "Description"
   },
   {
-   "code": "DelayedUpdate220",
-   "reward": "5 QI , 5 Spirit Root Spins , and 5 Body Constitution Spins"
+   "code": "QiFix",
+   "reward": "5 Instant Qi"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "5 Instant Qi , 5 Spirit Root Spins , 5 Instant Health , and 5 Body Con"
+  },
+  {
+   "code": "Update220",
+   "reward": "5 Spirit Root Locks , 5 Spirit Root Spins , 5 Body Constitution Locks "
+  },
+  {
+   "code": "12KLikes",
+   "reward": "12 Body Constitution Spins , 50 Forge Shards , 10 Common Chests , 12 S"
+  },
+  {
+   "code": "Blacksmith",
+   "reward": "50 Forge Shards and 10 Common Chests"
+  },
+  {
+   "code": "ForgeShard",
+   "reward": "10 Common Chests and 50 Forge Shards"
   },
   {
    "code": "MRCRAB",
@@ -139,10 +159,14 @@
    "reward": "5 Spirit Root Spins and 5 Body Constitution Spins"
   },
   {
+   "code": "DelayedUpdate220",
+   "reward": "5 QI , 5 Spirit Root Spins , and 5 Body Constitution Spins"
+  },
+  {
    "code": "10KLikes",
    "reward": "7 Spirit Root Spins and 7 Body Constitution Spins"
   }
  ],
- "updated": "2026-08-26T14:32:05.584Z",
+ "updated": "2026-08-29T12:11:42.159Z",
  "source": "https://robloxden.com/game-codes/cultivation-dao-online"
 }

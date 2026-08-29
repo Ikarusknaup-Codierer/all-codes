@@ -19,10 +19,6 @@
    "reward": "Free Rewards . You must be at least level 50 to use this code"
   },
   {
-   "code": "BugAgain",
-   "reward": "25 Tickets and 50 Crystals . You must be level 150 to claim this code"
-  },
-  {
    "code": "19MVisits",
    "reward": "15 Tickets and 25 Crystals . You must be level 50 to claim this code"
   },
@@ -99,6 +95,10 @@
    "reward": "100 Trait Rerolls . You must be level 50 to claim this code"
   },
   {
+   "code": "BugAgain",
+   "reward": "25 Tickets and 50 Crystals . You must be level 150 to claim this code"
+  },
+  {
    "code": "FreeReroll",
    "reward": "100 Trait Rerolls . You must be level 50 to claim this code"
   },
@@ -147,6 +147,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-08-28T01:44:42.252Z",
+ "updated": "2026-08-29T18:13:23.620Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

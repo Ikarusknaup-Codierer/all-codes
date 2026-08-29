@@ -23,16 +23,8 @@
    "reward": "4x Lunar Impact Packs"
   },
   {
-   "code": "UMBERGLADIATOR",
-   "reward": "800 BB and the Favoured Crowd Title"
-  },
-  {
    "code": "TRAINDEFENDER",
    "reward": "Freebies"
-  },
-  {
-   "code": "THETRAINISCOMING",
-   "reward": "500 BB"
   },
   {
    "code": "C0N5TRUCTIVECRITIC1SM",
@@ -41,10 +33,6 @@
   {
    "code": "SHR3KLOV3FOR3TERN1TEE",
    "reward": "4 Foil Matteoka and the Most Amazing Maze Survivor title"
-  },
-  {
-   "code": "ELECTRICITY",
-   "reward": "800 BB"
   },
   {
    "code": "COLDMOLDTEA",
@@ -163,10 +151,22 @@
    "reward": "500 BB , 5 Doomspire: Complete Tickets , and the From A Different Time"
   },
   {
+   "code": "UMBERGLADIATOR",
+   "reward": "800 BB and the Favoured Crowd Title"
+  },
+  {
+   "code": "THETRAINISCOMING",
+   "reward": "500 BB"
+  },
+  {
    "code": "SPIRESOONTM",
    "reward": ""
+  },
+  {
+   "code": "ELECTRICITY",
+   "reward": "800 BB"
   }
  ],
- "updated": "2026-08-28T01:46:16.608Z",
+ "updated": "2026-08-29T18:15:50.333Z",
  "source": "https://robloxden.com/game-codes/blox-cards-tcg"
 }

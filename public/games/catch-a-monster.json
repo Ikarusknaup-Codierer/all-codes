@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "ROLLBK",
+   "reward": "10 Treasure Shovels and 50 Forge Coins"
+  },
+  {
+   "code": "FORGEBUG",
+   "reward": "100 Forge Coin"
+  },
+  {
+   "code": "SCARED",
+   "reward": "1 Dawnflare Egg"
+  },
+  {
+   "code": "EVOBUG",
+   "reward": "10 Treasure Shovels and 1 Dawnflare Egg"
+  },
+  {
+   "code": "CELESTIAL",
+   "reward": "2,000 Straw Coins and 5 Treasure Shovels"
+  },
+  {
    "code": "splash",
    "reward": "1 Mythical Chest"
   },
@@ -151,6 +171,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-08-28T01:45:57.707Z",
+ "updated": "2026-08-29T18:15:27.904Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

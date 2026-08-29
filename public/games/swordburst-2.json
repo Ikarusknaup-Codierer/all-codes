@@ -23,10 +23,6 @@
    "reward": "a 1 Hour boost . You need to be at least Level 100 to redeem this code"
   },
   {
-   "code": "SorryForShutdowns",
-   "reward": "a 30 Minutes boost"
-  },
-  {
    "code": "MiniAtheon",
    "reward": "a 30 Minutes boost"
   },
@@ -65,8 +61,12 @@
   {
    "code": "BGMisgreen",
    "reward": "This code randomizes your head's size"
+  },
+  {
+   "code": "SorryForShutdowns",
+   "reward": "a 30 Minutes boost"
   }
  ],
- "updated": "2026-08-28T01:42:18.162Z",
+ "updated": "2026-08-29T18:11:13.929Z",
  "source": "https://robloxden.com/game-codes/swordburst-2"
 }

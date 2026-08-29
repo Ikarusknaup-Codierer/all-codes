@@ -7,11 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "DELAY",
+   "code": "VOCALOIDS",
    "reward": "50 Coins"
   },
   {
-   "code": "VOCALOIDS",
+   "code": "DELAY",
    "reward": "50 Coins"
   },
   {
@@ -19,6 +19,6 @@
    "reward": "100 Coins"
   }
  ],
- "updated": "2026-08-28T01:41:35.285Z",
+ "updated": "2026-08-29T18:10:31.782Z",
  "source": "https://robloxden.com/game-codes/anime-outfits"
 }

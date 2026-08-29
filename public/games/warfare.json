@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "cag",
+   "reward": "200 Cash"
+  },
+  {
+   "code": "GIVEMECASHPLEASE",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "250 Cash"
+  },
+  {
    "code": "SUPREMACY",
    "reward": "Free Rewards . To use this code, you must reach level 10"
   },
@@ -39,6 +51,6 @@
    "reward": "250 Cash"
   }
  ],
- "updated": "2026-08-28T01:46:28.433Z",
+ "updated": "2026-08-29T18:16:02.226Z",
  "source": "https://robloxden.com/game-codes/warfare"
 }

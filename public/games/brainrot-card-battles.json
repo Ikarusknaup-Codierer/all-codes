@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "GRAZIE",
-   "reward": "Free Rewards . You need at least 50K Rolls to use this code"
+   "code": "SORRY",
+   "reward": "3 Boss Potions and 2 5000-Roll Packs"
   },
   {
-   "code": "SAHUR",
-   "reward": "500 Gold, 5 Medium Rarity Potions and 5 1000-Roll Packs"
+   "code": "50KLIKES",
+   "reward": "2K Gold, 5 Medium Luck Potions, 5 Boss Potions, 1 5000-Roll Pack, 5 Tr"
+  },
+  {
+   "code": "GRAZIE",
+   "reward": "Free Rewards . You need at least 50K Rolls to use this code"
   },
   {
    "code": "UPDATE3",
@@ -27,16 +31,12 @@
    "reward": "750 Gold, 5 Medium Luck Potions, 3 Boss Potions and 1 5000-Roll Pack"
   },
   {
+   "code": "SAHUR",
+   "reward": "500 Gold, 5 Medium Rarity Potions and 5 1000-Roll Packs"
+  },
+  {
    "code": "THANKS",
    "reward": "500 Gold, 3 Medium Luck Potions and 3 1000-Roll Packs"
-  },
-  {
-   "code": "SORRY",
-   "reward": "3 Boss Potions and 2 5000-Roll Packs"
-  },
-  {
-   "code": "50KLIKES",
-   "reward": "2K Gold, 5 Medium Luck Potions, 5 Boss Potions, 1 5000-Roll Pack, 5 Tr"
   },
   {
    "code": "5KPLAYERS",
@@ -183,6 +183,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-08-28T01:42:39.936Z",
+ "updated": "2026-08-29T18:11:35.521Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

@@ -47,6 +47,18 @@
    "reward": "1,000 GP"
   },
   {
+   "code": "KENREUPDATE",
+   "reward": "50 Spins and a 2x Exp Boost (20 Minutes)"
+  },
+  {
+   "code": "NARUSOON",
+   "reward": "35 Spins and a 2x Materials Boost (20 Minutes)"
+  },
+  {
+   "code": "DEVTEAMCOOKING",
+   "reward": "50 Spins"
+  },
+  {
    "code": "grewillbegreatagain",
    "reward": "300 GP"
   },
@@ -63,6 +75,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-08-28T01:39:35.540Z",
+ "updated": "2026-08-29T18:09:15.536Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

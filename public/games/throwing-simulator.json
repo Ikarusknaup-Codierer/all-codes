@@ -35,10 +35,6 @@
    "reward": "a Free Potion"
   },
   {
-   "code": "easter",
-   "reward": "a Free Potion"
-  },
-  {
    "code": "update4",
    "reward": "1 Free Potion"
   },
@@ -55,6 +51,10 @@
    "reward": "1 Ruby Potion, and 1 Strength Potion (20 Minutes)"
   },
   {
+   "code": "easter",
+   "reward": "a Free Potion"
+  },
+  {
    "code": "1mevent",
    "reward": "Money Potion and 2 Luck Potions II"
   },
@@ -63,6 +63,6 @@
    "reward": "5 Enchant Gems , 1 Money Potion , 1 Strength Potion , and 1 Luck Potio"
   }
  ],
- "updated": "2026-08-28T01:41:34.813Z",
+ "updated": "2026-08-29T18:10:30.552Z",
  "source": "https://robloxden.com/game-codes/throwing-simulator"
 }

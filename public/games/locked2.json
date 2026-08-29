@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SRY4SHUTDOWN",
+   "reward": "30,000 Yen"
+  },
+  {
    "code": "THROWINPATCH",
    "reward": "5,000 Yen"
   },
@@ -47,6 +51,6 @@
    "reward": "7,500 Yen"
   }
  ],
- "updated": "2026-08-28T01:39:38.207Z",
+ "updated": "2026-08-29T18:09:16.478Z",
  "source": "https://robloxden.com/game-codes/locked2"
 }

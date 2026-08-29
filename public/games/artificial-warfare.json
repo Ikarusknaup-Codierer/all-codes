@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ripsplitandreflective",
-   "reward": "20 Spins"
-  },
-  {
    "code": "qualityoflife2",
    "reward": "2 Max NPCs And Spins"
   },
@@ -53,8 +49,12 @@
   {
    "code": "timestwoevent",
    "reward": "5 Spins"
+  },
+  {
+   "code": "ripsplitandreflective",
+   "reward": "20 Spins"
   }
  ],
- "updated": "2026-08-28T22:00:15.281Z",
+ "updated": "2026-08-29T18:19:58.764Z",
  "source": "https://robloxden.com/game-codes/artificial-warfare"
 }

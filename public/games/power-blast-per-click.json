@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Release!",
+   "reward": "1,500 Power"
+  },
+  {
+   "code": "ThanksForPlaying!",
+   "reward": "2,500 Power"
+  },
+  {
+   "code": "Made2Play!",
+   "reward": "500 Power"
+  },
+  {
+   "code": "PowerBlast!",
+   "reward": "1,250 Power"
   }
  ],
- "updated": "2026-08-28T01:41:09.507Z",
+ "updated": "2026-08-29T18:10:05.854Z",
  "source": "https://robloxden.com/game-codes/power-blast-per-click"
 }

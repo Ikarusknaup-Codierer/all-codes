@@ -23,6 +23,26 @@
    "reward": "100,000 Money , 25,000 Gems , 1 Beginner Box , 1 Mid Game Box , and 3 "
   },
   {
+   "code": "BwaaTeam",
+   "reward": "Gems and Cash"
+  },
+  {
+   "code": "Beerus",
+   "reward": "25 Rogue's Blessings , 250 Clan Rerolls , 20 Lucky Boxes , 150 Mythica"
+  },
+  {
+   "code": "BeerusIsFurious",
+   "reward": "5 of All 2x Potions . You must be at least level 5,000 to claim this c"
+  },
+  {
+   "code": "GodOfDestruction",
+   "reward": "Dragon Ball 1 , Dragon Ball 2 , Dragon Ball 3 , and Cat Food 1 . You m"
+  },
+  {
+   "code": "CatFoodies",
+   "reward": "100,000,000 Coins , 1,500,000 Gems , 500,000 Fragments of Rogue , 20 M"
+  },
+  {
    "code": "ThanksForWaiting",
    "reward": "75,000 Money , 20,000 Gems , 250 Tokens , 5 Trait Capsules , 3 Race Ca"
   },
@@ -61,28 +81,8 @@
   {
    "code": "BwaaTeamBwaaPet",
    "reward": "Shards , Chest , and Rogue Fragments . You must be level 11,500 to cla"
-  },
-  {
-   "code": "BwaaTeam",
-   "reward": "Gems and Cash"
-  },
-  {
-   "code": "Beerus",
-   "reward": "25 Rogue's Blessings , 250 Clan Rerolls , 20 Lucky Boxes , 150 Mythica"
-  },
-  {
-   "code": "BeerusIsFurious",
-   "reward": "5 of All 2x Potions . You must be at least level 5,000 to claim this c"
-  },
-  {
-   "code": "GodOfDestruction",
-   "reward": "Dragon Ball 1 , Dragon Ball 2 , Dragon Ball 3 , and Cat Food 1 . You m"
-  },
-  {
-   "code": "CatFoodies",
-   "reward": "100,000,000 Coins , 1,500,000 Gems , 500,000 Fragments of Rogue , 20 M"
   }
  ],
- "updated": "2026-08-28T01:47:17.072Z",
+ "updated": "2026-08-29T18:16:52.351Z",
  "source": "https://robloxden.com/game-codes/rogue-piece"
 }

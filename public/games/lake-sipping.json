@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Cthulhu",
+   "reward": "50 Bones"
+  },
+  {
+   "code": "release",
+   "reward": "100 Scales"
+  },
+  {
+   "code": "Mineral",
+   "reward": "2 Class Rerolls"
   }
  ],
- "updated": "2026-08-26T08:17:54.232Z",
+ "updated": "2026-08-29T06:14:12.074Z",
  "source": "https://robloxden.com/game-codes/lake-sipping"
 }

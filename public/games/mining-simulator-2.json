@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "StPatricksPart2",
-   "reward": "4 Hours Lucky Boost"
+   "code": "Update56",
+   "reward": "6 Hours Lucky Boost"
   },
   {
-   "code": "UPDATE46",
-   "reward": "1 6 Hour Lucky Boost"
+   "code": "Thankful",
+   "reward": "Super Lucky Boost (4 hours)"
   },
   {
-   "code": "UPDATE12",
-   "reward": "1 2 Hour Lucky Boost"
-  },
-  {
-   "code": "PUZZLE",
+   "code": "PATRIOTIC",
    "reward": "1 4 Hour Super Lucky Boost"
   },
   {
-   "code": "UPDATE33",
+   "code": "FESTIVE",
+   "reward": "1 4 Hour Super Lucky Boost"
+  },
+  {
+   "code": "UPDATE31",
    "reward": "1 6 Hour Lucky Boost"
   }
  ],
- "updated": "2026-08-26T08:15:37.703Z",
+ "updated": "2026-08-29T06:11:55.145Z",
  "source": "https://robloxden.com/game-codes/mining-simulator-2"
 }

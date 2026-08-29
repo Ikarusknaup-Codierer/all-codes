@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "BETA",
+   "reward": "500 Coins a Catch Speed Potion , and an XP Potion I"
+  },
+  {
+   "code": "WILDTRAP",
+   "reward": "1,000 Coins and a Coin Potion I"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "2,500 Coins , a Mutation Potion I , and a Luck Potion I"
+  },
+  {
+   "code": "SORRY",
+   "reward": "a XP Potion III and a Luck Potion III"
+  },
+  {
+   "code": "COMPENSATION9",
+   "reward": "10,000 Coins , 2 XP Potions IV , 3 Admin Luck I Potions , and 2 Coin P"
+  },
+  {
+   "code": "100KVISIT",
+   "reward": "10,000 Coins , 2 Coin Potions IV , and 2 Luck Potions IV"
+  },
+  {
+   "code": "150KVISIT",
+   "reward": "10,000 Coins , 2 XP Potions IV , and 2 Luck Potions IV"
+  },
+  {
+   "code": "ISLAND3",
+   "reward": "10,000 Coins and an Admin Luck I Potion"
   }
  ],
- "updated": "2026-08-26T08:16:09.858Z",
+ "updated": "2026-08-29T06:12:27.204Z",
  "source": "https://robloxden.com/game-codes/wild-trap"
 }

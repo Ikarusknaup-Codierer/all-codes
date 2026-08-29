@@ -5,8 +5,72 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "DYNASTY",
+   "reward": "$1,000,000"
+  },
+  {
+   "code": "NEMESIS",
+   "reward": "20 Ego"
+  },
+  {
+   "code": "GHOST",
+   "reward": "75 Clan Rerolls"
+  },
+  {
+   "code": "THRONE",
+   "reward": "20 Training Points"
+  },
+  {
+   "code": "APEX",
+   "reward": "$500,000"
+  },
+  {
+   "code": "NEOEGOIST",
+   "reward": "$250,000"
+  },
+  {
+   "code": "NEWGEN",
+   "reward": "10 Training Points"
+  },
+  {
+   "code": "AUTOROLL",
+   "reward": "100 Clan Rerolls"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "$25,000"
+  },
+  {
+   "code": "STRIKER",
+   "reward": "10 Training Points"
+  },
+  {
+   "code": "BLOODLINE",
+   "reward": "3 Clan Rerolls"
+  },
+  {
+   "code": "ROLLS50",
+   "reward": "50 Clan Rerolls"
+  },
+  {
+   "code": "GAUNTLET",
+   "reward": "$15,000"
+  },
+  {
+   "code": "LOKI",
+   "reward": "8 Ego"
+  },
+  {
+   "code": "U20",
+   "reward": "$20,000"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "10 Training Points"
   }
  ],
- "updated": "2026-08-26T08:15:41.616Z",
+ "updated": "2026-08-29T06:11:58.996Z",
  "source": "https://robloxden.com/game-codes/bitlock"
 }

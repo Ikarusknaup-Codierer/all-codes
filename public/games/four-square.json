@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "GLOVES500",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "RELEASE500",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "BIG100",
+   "reward": "100 Cash"
   }
  ],
- "updated": "2026-08-26T08:16:45.746Z",
+ "updated": "2026-08-29T06:13:03.175Z",
  "source": "https://robloxden.com/game-codes/four-square"
 }

@@ -11,22 +11,22 @@
    "reward": "15,000 Cash"
   },
   {
-   "code": "daytime",
-   "reward": "Changes the Time of Day to 8:00 AM"
+   "code": "2star",
+   "reward": "Changes the Police Star Alert to Level 2"
   },
   {
-   "code": "epicitem",
-   "reward": "3K Cash"
+   "code": "stealpickupnew",
+   "reward": "May Have Spawned the Bolthorn Family MkV"
   },
   {
-   "code": "FUNWISEFUN",
-   "reward": "7,500 Cash"
+   "code": "almightysosta",
+   "reward": "10K Cash"
   },
   {
-   "code": "10MILLION",
+   "code": "20MILLION",
    "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-08-26T14:29:40.159Z",
+ "updated": "2026-08-29T06:17:00.152Z",
  "source": "https://robloxden.com/game-codes/thief-simulator"
 }

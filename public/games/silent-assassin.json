@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "NEWYEAR2025",
-   "reward": "some exclusive Items"
+   "code": "merrynewyear",
+   "reward": "the Fireworks skin"
   },
   {
-   "code": "haunted",
-   "reward": "a Halloween Case"
+   "code": "natural",
+   "reward": "a Nature Case"
   },
   {
-   "code": "firstcode",
-   "reward": "the Bubbles skin for the Submachine Gun"
-  },
-  {
-   "code": "spooked",
-   "reward": "a Halloween Case"
+   "code": "solid",
+   "reward": "a Material Case"
   },
   {
    "code": "1year",
    "reward": "a Pattern Case"
+  },
+  {
+   "code": "HOLIDAYS",
+   "reward": "1 Christmas Case"
   }
  ],
- "updated": "2026-08-26T08:18:04.159Z",
+ "updated": "2026-08-29T06:14:22.375Z",
  "source": "https://robloxden.com/game-codes/silent-assassin"
 }

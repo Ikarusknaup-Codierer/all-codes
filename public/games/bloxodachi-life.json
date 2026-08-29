@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "DECOR",
+   "reward": "Party Balloons"
+  },
+  {
+   "code": "HEARTSPARK",
+   "reward": "250 Coins and 1 Love Potion"
+  },
+  {
+   "code": "SANS",
+   "reward": "Sans Party"
+  },
+  {
    "code": "FRESHBREW",
    "reward": "1 Picky Potion and 1 Platonic Tonic"
   },
@@ -31,6 +43,6 @@
    "reward": "1,000 Coins and a Millionth Frog Pet"
   }
  ],
- "updated": "2026-08-26T14:31:09.250Z",
+ "updated": "2026-08-29T06:18:20.013Z",
  "source": "https://robloxden.com/game-codes/bloxodachi-life"
 }

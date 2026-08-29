@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "bugfixesyay",
-   "reward": "1 Daily Crate"
-  },
-  {
    "code": "seasonpush",
    "reward": "Season Points"
   },
@@ -45,8 +41,12 @@
   {
    "code": "seasonrush",
    "reward": "1,000 Season Points"
+  },
+  {
+   "code": "bugfixesyay",
+   "reward": "1 Daily Crate"
   }
  ],
- "updated": "2026-08-26T08:19:28.882Z",
+ "updated": "2026-08-29T06:15:46.547Z",
  "source": "https://robloxden.com/game-codes/military-tycoon"
 }

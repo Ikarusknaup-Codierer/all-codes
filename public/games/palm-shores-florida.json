@@ -11,22 +11,22 @@
    "reward": "Cash"
   },
   {
+   "code": "tinycar",
+   "reward": "Limited Car"
+  },
+  {
    "code": "15KLIKES",
    "reward": "10K Cash"
   },
   {
-   "code": "10KLIKES",
+   "code": "1MVISITS",
    "reward": "10K Cash"
   },
   {
-   "code": "2DOT5KLIKES",
+   "code": "5KLIKES",
    "reward": "10K Cash"
-  },
-  {
-   "code": "1MIL",
-   "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-08-26T08:13:58.040Z",
+ "updated": "2026-08-29T06:10:16.092Z",
  "source": "https://robloxden.com/game-codes/palm-shores-florida"
 }

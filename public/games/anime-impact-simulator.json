@@ -19,14 +19,14 @@
    "reward": "3 3x Mana Boosts"
   },
   {
-   "code": "300KMEMBERS",
-   "reward": "3 3x Train Boosts"
-  },
-  {
    "code": "300KMEMBER",
    "reward": "a 3x Train Boost"
+  },
+  {
+   "code": "150KMEMBER",
+   "reward": "a 3x Mana Boost"
   }
  ],
- "updated": "2026-08-26T08:16:36.730Z",
+ "updated": "2026-08-29T06:12:54.089Z",
  "source": "https://robloxden.com/game-codes/anime-impact-simulator"
 }

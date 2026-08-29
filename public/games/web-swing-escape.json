@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SPEED",
+   "reward": "5,000 Speed"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "100 Wins"
+  },
+  {
+   "code": "SWING",
+   "reward": "10,000 Speed"
+  },
+  {
+   "code": "WINNER",
+   "reward": "8,000 Speed"
+  },
+  {
+   "code": "LAUNCH",
+   "reward": "300 Wins"
   }
  ],
- "updated": "2026-08-26T08:16:44.305Z",
+ "updated": "2026-08-29T06:13:01.568Z",
  "source": "https://robloxden.com/game-codes/web-swing-escape"
 }

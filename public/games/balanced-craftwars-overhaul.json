@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "2KLIKES",
-   "reward": "Darksteel Chakram"
+   "code": "testing",
+   "reward": "Test Vanity"
   },
   {
-   "code": "EASTERTIME",
-   "reward": "Spring Egg"
+   "code": "3KLIKES",
+   "reward": "Death Potion"
   },
   {
    "code": "Honk",
    "reward": "Annoying Goose"
   },
   {
-   "code": "EASTER",
-   "reward": "1 Soldier Egg"
-  },
-  {
    "code": "SL1M3",
    "reward": "1 Slime Staff"
   }
  ],
- "updated": "2026-08-26T14:29:44.629Z",
+ "updated": "2026-08-29T06:17:04.258Z",
  "source": "https://robloxden.com/game-codes/balanced-craftwars-overhaul"
 }

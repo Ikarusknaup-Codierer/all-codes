@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "JAY",
+   "reward": "the Jays Emporium Building"
+  },
+  {
+   "code": "TETRABLOX",
+   "reward": "the Tetrablox Office Building"
+  },
+  {
    "code": "Million",
    "reward": "the 1M Office Building"
   }
  ],
- "updated": "2026-08-26T08:15:42.087Z",
+ "updated": "2026-08-29T06:11:59.510Z",
  "source": "https://robloxden.com/game-codes/craft-a-city"
 }

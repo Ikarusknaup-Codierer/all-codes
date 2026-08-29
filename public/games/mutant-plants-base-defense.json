@@ -5,8 +5,64 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "BUGFIX0983",
+   "reward": "10 Shadow Grenades"
+  },
+  {
+   "code": "UPD1665452",
+   "reward": "10 Frost Grenades"
+  },
+  {
+   "code": "UPD6512356",
+   "reward": "10 Flame Grenades"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "BUGFIX000",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "BUGFIX999",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "BUGFIX785",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "BUGFIX154",
+   "reward": "5 Venom Fruits"
+  },
+  {
+   "code": "BUGFIX652",
+   "reward": "5 Void Fruits"
+  },
+  {
+   "code": "BUGFIX56954",
+   "reward": "5 Shadow Fruits"
+  },
+  {
+   "code": "RELEASE1",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "RELEASE2",
+   "reward": "10 Void Fruits"
+  },
+  {
+   "code": "RELEASE3",
+   "reward": "10 Reversion Fruits"
+  },
+  {
+   "code": "BUGFIX05549",
+   "reward": "10 Void-Grenades"
   }
  ],
- "updated": "2026-08-26T08:15:07.066Z",
+ "updated": "2026-08-29T06:11:24.823Z",
  "source": "https://robloxden.com/game-codes/mutant-plants-base-defense"
 }

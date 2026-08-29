@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SmallUpdate100P",
+   "reward": "100 Points"
+  },
+  {
+   "code": "BlackFlashRework100P",
+   "reward": "100 Points"
+  },
+  {
+   "code": "Favorites3000_100Points",
+   "reward": "100 Points"
+  },
+  {
+   "code": "Visits300k_300Points",
+   "reward": "300 Points"
+  },
+  {
+   "code": "Likes7000_100Points",
+   "reward": "100 Points"
+  },
+  {
+   "code": "daniiWasHere",
+   "reward": "a Fabric and 2 Stones"
   }
  ],
- "updated": "2026-08-26T08:15:41.119Z",
+ "updated": "2026-08-29T06:11:58.517Z",
  "source": "https://robloxden.com/game-codes/jujutsu-culling"
 }

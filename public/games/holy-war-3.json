@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ONEFORMY",
-   "reward": "Exp"
+   "code": "SAGEMODE",
+   "reward": ""
   },
   {
-   "code": "10MILLYOURWELCOME",
+   "code": "HYBRIDDEMON",
+   "reward": "20 Race Spins"
+  },
+  {
+   "code": "SKILLRACE",
+   "reward": "Race Spins"
+  },
+  {
+   "code": "MAGICAWAY",
    "reward": "Magic Spins"
   },
   {
-   "code": "APHIREXSTUDIO",
-   "reward": "a reward"
-  },
-  {
-   "code": "MAGICCODEBUGGY",
-   "reward": "a reward"
-  },
-  {
-   "code": "GODRACE",
-   "reward": "Race Spins"
+   "code": "SINOFMAINE",
+   "reward": "5,000 Experience"
   }
  ],
- "updated": "2026-08-26T08:18:25.835Z",
+ "updated": "2026-08-29T06:14:51.473Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

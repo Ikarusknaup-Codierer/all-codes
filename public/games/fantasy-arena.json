@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "2500Likes",
+   "reward": "100 Burgers"
+  },
+  {
+   "code": "SignUpForAdminAbuse",
+   "reward": "100 Burgers"
+  },
+  {
+   "code": "Gullible",
+   "reward": "100 Burgers"
   }
  ],
- "updated": "2026-08-26T08:16:45.275Z",
+ "updated": "2026-08-29T06:13:02.660Z",
  "source": "https://robloxden.com/game-codes/fantasy-arena"
 }

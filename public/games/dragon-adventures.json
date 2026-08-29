@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SeasonXP2",
-   "reward": "1,500 Season Pass XP"
-  },
-  {
    "code": "SHAMEWING",
    "reward": "1 Shamewing Preset Potion"
   },
@@ -39,10 +35,14 @@
    "reward": "the Sonar Studios Party Hat accessory , the Party Cosmetic Trait Potio"
   },
   {
+   "code": "SeasonXP2",
+   "reward": "1,500 Season Pass XP"
+  },
+  {
    "code": "NEW",
    "reward": "Color Shuffle Potion"
   }
  ],
- "updated": "2026-08-26T08:18:11.030Z",
+ "updated": "2026-08-29T06:14:29.292Z",
  "source": "https://robloxden.com/game-codes/dragon-adventures"
 }

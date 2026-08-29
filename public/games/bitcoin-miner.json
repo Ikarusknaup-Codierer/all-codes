@@ -11,10 +11,6 @@
    "reward": "This code Changes the beta version to the regular version"
   },
   {
-   "code": "B7FQ",
-   "reward": "1 Super Mining Boost"
-  },
-  {
    "code": "ROCKBOOST",
    "reward": "1 Super Mining Boost"
   },
@@ -87,6 +83,10 @@
    "reward": "Super Mining Boost (3 minutes)"
   },
   {
+   "code": "B7FQ",
+   "reward": "1 Super Mining Boost"
+  },
+  {
    "code": "KB34",
    "reward": "1 Super Mining Boost"
   },
@@ -107,6 +107,6 @@
    "reward": "1 Super Mining Boost"
   }
  ],
- "updated": "2026-08-26T14:29:09.369Z",
+ "updated": "2026-08-29T06:16:31.705Z",
  "source": "https://robloxden.com/game-codes/bitcoin-miner"
 }

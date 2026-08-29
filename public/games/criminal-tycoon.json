@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "NUKE",
-   "reward": "20,000 Cash"
+   "code": "TESTREVAMP",
+   "reward": "$50,000"
   },
   {
-   "code": "5K",
-   "reward": "Free Rewards"
+   "code": "SKINS2",
+   "reward": "20 Premium Skin Crates"
   },
   {
-   "code": "REBIRTH2",
-   "reward": "20,000 Cash"
-  },
-  {
-   "code": "USA",
-   "reward": "No Stated Reward"
+   "code": "XMAS",
+   "reward": "50,000 Cash"
   },
   {
    "code": "FREESPIN",
    "reward": "Wheel Spin"
+  },
+  {
+   "code": "100KMEMBERS",
+   "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-08-26T03:44:57.440Z",
+ "updated": "2026-08-29T00:14:25.913Z",
  "source": "https://robloxden.com/game-codes/criminal-tycoon"
 }

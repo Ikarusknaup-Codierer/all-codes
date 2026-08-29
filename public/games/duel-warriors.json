@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GOLD20260813",
+   "reward": "2,000 Gold"
+  },
+  {
+   "code": "GEM20260813",
+   "reward": "50 Gems"
+  },
+  {
    "code": "83f9sh",
    "reward": "3,000 Gold"
   },
@@ -71,6 +79,6 @@
    "reward": "50 Gems"
   }
  ],
- "updated": "2026-08-26T03:38:26.688Z",
+ "updated": "2026-08-29T00:08:48.989Z",
  "source": "https://robloxden.com/game-codes/duel-warriors"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "42klikes",
-   "reward": "250 Moonstones"
-  },
-  {
    "code": "TVL6BDAY",
    "reward": "250 Moonstones"
   },
@@ -19,14 +15,18 @@
    "reward": "200 Moonstones"
   },
   {
-   "code": "bloodmoon25",
-   "reward": "200 Moonstones"
+   "code": "heart",
+   "reward": "200 Coins"
   },
   {
-   "code": "vervain",
+   "code": "harvestwitchshowcase",
+   "reward": "250 Moonstones"
+  },
+  {
+   "code": "cleo",
    "reward": "250 Moonstones"
   }
  ],
- "updated": "2026-08-26T03:38:36.573Z",
+ "updated": "2026-08-29T00:08:52.226Z",
  "source": "https://robloxden.com/game-codes/the-vampire-legacies-2"
 }

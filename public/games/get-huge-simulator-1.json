@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "OGStrength",
-   "reward": "300,000,000 Gems , 120 hours of Auto-Lift , and 2 hours of 2x Strength"
-  },
-  {
    "code": "Medusa",
    "reward": "40,000 Gems, 3 Hours Of Auto-Lift, 30 Minutes Of 2x Strength And More"
   },
@@ -39,6 +35,10 @@
    "reward": "1B Gems, 3x Coin Boost, 3x Gems Boost and 20x Strength Boost"
   },
   {
+   "code": "OGStrength",
+   "reward": "300,000,000 Gems , 120 hours of Auto-Lift , and 2 hours of 2x Strength"
+  },
+  {
    "code": "OofVacation",
    "reward": "200M Gems , 10 hours of Auto-Lift , 2 hours of 2x Strength and more"
   },
@@ -47,6 +47,6 @@
    "reward": "25M Gems, 10 Hours Of Auto-Lift, 2 Hours Of 2xStrength And More"
   }
  ],
- "updated": "2026-08-26T03:45:27.200Z",
+ "updated": "2026-08-29T00:14:52.541Z",
  "source": "https://robloxden.com/game-codes/get-huge-simulator-1"
 }

@@ -11,18 +11,22 @@
    "reward": "375 Yen"
   },
   {
-   "code": "THANKS4EXP",
-   "reward": "1,500 EXP"
+   "code": "FESTIVE",
+   "reward": "No Listed Reward"
   },
   {
-   "code": "CHEESEBURGER",
+   "code": "HOLIDAYCHEER",
    "reward": "an unspecified reward"
   },
   {
-   "code": "FEASTMODEACTIVATED",
-   "reward": "1,000 Yen"
+   "code": "30MILLIONVISITS",
+   "reward": "2,500 Yen"
+  },
+  {
+   "code": "FALLINGLEAVES",
+   "reward": "500 XP"
   }
  ],
- "updated": "2026-08-26T03:43:15.534Z",
+ "updated": "2026-08-29T00:12:50.168Z",
  "source": "https://robloxden.com/game-codes/karate"
 }

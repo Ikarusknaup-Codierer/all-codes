@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BCK2SCH00L",
-   "reward": "1,500 Cash"
-  },
-  {
-   "code": "like1500",
+   "code": "like3000",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "like500",
-   "reward": "20 Money"
-  },
-  {
-   "code": "rebirth",
-   "reward": "500 Coins"
   },
   {
    "code": "GYMUPDATE",
    "reward": "500 Coins"
+  },
+  {
+   "code": "homework",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "study",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "coolkid",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-26T03:43:10.120Z",
+ "updated": "2026-08-29T00:12:44.678Z",
  "source": "https://robloxden.com/game-codes/school-tycoon"
 }

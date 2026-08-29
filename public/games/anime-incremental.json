@@ -11,10 +11,18 @@
    "reward": "3 Card Luck Potion , 3 Card Bulk Potion , 3 Card Speed Potion , and 3 "
   },
   {
+   "code": "500players",
+   "reward": "35 Tickets"
+  },
+  {
    "code": "250likes",
+   "reward": "35 Tickets"
+  },
+  {
+   "code": "sorryfordelay",
    "reward": "35 Tickets"
   }
  ],
- "updated": "2026-08-26T03:42:25.840Z",
+ "updated": "2026-08-29T00:12:02.663Z",
  "source": "https://robloxden.com/game-codes/anime-incremental"
 }

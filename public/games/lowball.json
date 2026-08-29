@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "1MVISITS",
+   "reward": "1 Lucky Potion I , 1 Lucky Potion II , and 1 Godly Potion"
+  },
+  {
+   "code": "SPARKLES",
+   "reward": "2 Godly Potion , 250 Diamonds , and 2 Tip Jar"
+  },
+  {
+   "code": "NEWWEEK",
+   "reward": "1 Jukebox and 150 Diamonds"
+  },
+  {
    "code": "RELEASE",
    "reward": "1 Lucky Potion II and 50 Diamonds"
   }
  ],
- "updated": "2026-08-26T03:42:26.882Z",
+ "updated": "2026-08-29T00:12:03.648Z",
  "source": "https://robloxden.com/game-codes/lowball"
 }

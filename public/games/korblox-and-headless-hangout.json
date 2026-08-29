@@ -11,10 +11,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "KORBLOXFREETIME",
-   "reward": "300 Time"
-  },
-  {
    "code": "COOLTIMEFREE",
    "reward": "500 Time"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Time"
   },
   {
-   "code": "Code46KLikes",
-   "reward": "Time Points"
+   "code": "GETherFLOWERS",
+   "reward": "75,000 Minutes"
+  },
+  {
+   "code": "KORBLOXFREETIME",
+   "reward": "300 Time"
   }
  ],
- "updated": "2026-08-26T03:44:52.610Z",
+ "updated": "2026-08-29T00:14:22.400Z",
  "source": "https://robloxden.com/game-codes/korblox-and-headless-hangout"
 }

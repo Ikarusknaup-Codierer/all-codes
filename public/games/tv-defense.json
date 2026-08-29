@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EP80",
+   "reward": "20 Red Crystals"
+  },
+  {
    "code": "BACKROOM2026",
    "reward": "20 Almond Waters"
   },
@@ -33,10 +37,6 @@
   {
    "code": "VALENTINE2026",
    "reward": "500 Pixel Heart"
-  },
-  {
-   "code": "NEWYEAR2026",
-   "reward": "Gems"
   },
   {
    "code": "CHRISTMAS2026",
@@ -101,8 +101,12 @@
   {
    "code": "ETHEL",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "NEWYEAR2026",
+   "reward": "Gems"
   }
  ],
- "updated": "2026-08-26T03:44:18.280Z",
+ "updated": "2026-08-29T00:13:49.948Z",
  "source": "https://robloxden.com/game-codes/tv-defense"
 }

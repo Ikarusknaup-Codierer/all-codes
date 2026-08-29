@@ -11,10 +11,6 @@
    "reward": "Battleaxe"
   },
   {
-   "code": "HALLOW",
-   "reward": "Hallowscythe"
-  },
-  {
    "code": "SWIRLY",
    "reward": "Swirly Axe"
   },
@@ -25,8 +21,12 @@
   {
    "code": "RAINBOW",
    "reward": "Rainbow"
+  },
+  {
+   "code": "HALLOW",
+   "reward": "Hallowscythe"
   }
  ],
- "updated": "2026-08-26T03:38:49.112Z",
+ "updated": "2026-08-29T00:09:01.234Z",
  "source": "https://robloxden.com/game-codes/free-mm2"
 }

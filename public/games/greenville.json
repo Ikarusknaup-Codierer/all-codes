@@ -11,18 +11,18 @@
    "reward": "rewards"
   },
   {
-   "code": "HIGHWAY_RELEASED",
-   "reward": "30 Minute 1.75x Drive-To-Earn Boost"
+   "code": "30K_CONCURRENT",
+   "reward": "2x Driving Boost (30 minutes)"
+  },
+  {
+   "code": "FIRST_TO_DRIVE_ON_HIGHWAY",
+   "reward": "30k Cash"
   },
   {
    "code": "SPOOKY_25",
    "reward": "1.4x Drive-To-Earn Multiplier For 15 Minutes"
-  },
-  {
-   "code": "1BILLIONVISITS",
-   "reward": "5x Drive to earn (15 minutes)"
   }
  ],
- "updated": "2026-08-26T08:12:23.877Z",
+ "updated": "2026-08-29T00:16:29.616Z",
  "source": "https://robloxden.com/game-codes/greenville"
 }

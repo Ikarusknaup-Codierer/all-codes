@@ -19,10 +19,14 @@
    "reward": "-300 Kroner . This code takes away 300 kroner from your account"
   },
   {
-   "code": "200M",
-   "reward": "1,000 Kroner"
+   "code": "Fraud",
+   "reward": "2 Revives"
+  },
+  {
+   "code": "ApologyTour",
+   "reward": "500 Kroner"
   }
  ],
- "updated": "2026-08-26T03:41:58.898Z",
+ "updated": "2026-08-29T00:11:37.646Z",
  "source": "https://robloxden.com/game-codes/pressure"
 }

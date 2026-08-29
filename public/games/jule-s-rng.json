@@ -23,10 +23,6 @@
    "reward": "5 ??? Potion , 1 ACE Potion , 2 Symbolic Potion , 3 Night Bell , and 3"
   },
   {
-   "code": "SRRYFORDELAY",
-   "reward": "2 Symbolic Potions , 2 Feather Potions , and 250,000 Gems"
-  },
-  {
    "code": "100MVISITS",
    "reward": "1 ??? Potion , 1 ACE Potion , 1 Fortune Potion , 3 Night Bells , and 3"
   },
@@ -105,8 +101,12 @@
   {
    "code": "GEN2",
    "reward": "1,000 Gems and 5 Luck Cores"
+  },
+  {
+   "code": "SRRYFORDELAY",
+   "reward": "2 Symbolic Potions , 2 Feather Potions , and 250,000 Gems"
   }
  ],
- "updated": "2026-08-26T08:12:50.993Z",
+ "updated": "2026-08-29T00:16:56.916Z",
  "source": "https://robloxden.com/game-codes/jule-s-rng"
 }

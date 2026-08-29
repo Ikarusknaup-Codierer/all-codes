@@ -11,22 +11,22 @@
    "reward": "50 Coins"
   },
   {
-   "code": "HALLOWEEN",
+   "code": "EVENT",
+   "reward": "150 Coins"
+  },
+  {
+   "code": "NEWUPDATE",
    "reward": "In-Game Rewards"
   },
   {
-   "code": "64KLIKES",
+   "code": "49KLIKES",
    "reward": "200 Coins"
   },
   {
-   "code": "38KLIKES",
+   "code": "45KLIKES",
    "reward": "200 Coins"
-  },
-  {
-   "code": "91KLIKES",
-   "reward": "150 Coins"
   }
  ],
- "updated": "2026-08-26T08:11:41.439Z",
+ "updated": "2026-08-29T00:15:47.750Z",
  "source": "https://robloxden.com/game-codes/multiverse-battlegrounds"
 }

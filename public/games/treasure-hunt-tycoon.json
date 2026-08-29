@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "like2000",
-   "reward": "100 Gems"
+   "code": "lv5",
+   "reward": "50 Gems"
   },
   {
    "code": "upd08",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "friend",
    "reward": "50 Gems"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "hunter",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "goodluck",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-26T03:41:28.195Z",
+ "updated": "2026-08-29T00:11:09.685Z",
  "source": "https://robloxden.com/game-codes/treasure-hunt-tycoon"
 }

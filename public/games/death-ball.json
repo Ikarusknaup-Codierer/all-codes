@@ -19,10 +19,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "OCULARUS",
-   "reward": "50,000 Gems"
-  },
-  {
    "code": "ALATUS",
    "reward": "30,000 Gems"
   },
@@ -55,10 +51,14 @@
    "reward": "30K Gems"
   },
   {
+   "code": "OCULARUS",
+   "reward": "50,000 Gems"
+  },
+  {
    "code": "SINISTER",
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-08-26T03:43:48.464Z",
+ "updated": "2026-08-29T00:13:20.232Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

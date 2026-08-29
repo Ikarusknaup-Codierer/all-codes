@@ -19,10 +19,6 @@
    "reward": "Cash"
   },
   {
-   "code": "EZZZ",
-   "reward": "Cash"
-  },
-  {
    "code": "BESTGAME",
    "reward": "Cash"
   },
@@ -35,23 +31,7 @@
    "reward": "Cash"
   },
   {
-   "code": "MONEY",
-   "reward": "Cash"
-  },
-  {
    "code": "DRPPRS",
-   "reward": "Cash"
-  },
-  {
-   "code": "PATH",
-   "reward": "Cash"
-  },
-  {
-   "code": "CODEFLOOR",
-   "reward": "Cash"
-  },
-  {
-   "code": "INSANE",
    "reward": "Cash"
   },
   {
@@ -93,10 +73,6 @@
   {
    "code": "2klikes",
    "reward": "18,000 Gold"
-  },
-  {
-   "code": "4thofjuly2026",
-   "reward": "20,000 Cash"
   },
   {
    "code": "valentine2026",
@@ -159,7 +135,27 @@
    "reward": "Cash"
   },
   {
+   "code": "EZZZ",
+   "reward": "Cash"
+  },
+  {
    "code": "CLCTR001",
+   "reward": "Cash"
+  },
+  {
+   "code": "MONEY",
+   "reward": "Cash"
+  },
+  {
+   "code": "PATH",
+   "reward": "Cash"
+  },
+  {
+   "code": "CODEFLOOR",
+   "reward": "Cash"
+  },
+  {
+   "code": "INSANE",
    "reward": "Cash"
   },
   {
@@ -183,6 +179,6 @@
    "reward": "Free Cash"
   }
  ],
- "updated": "2026-08-26T03:41:06.926Z",
+ "updated": "2026-08-29T00:10:48.936Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

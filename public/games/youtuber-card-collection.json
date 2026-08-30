@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "26M",
+   "reward": "2 Pastel Base Packs"
+  },
+  {
    "code": "CASEYBDAY",
    "reward": "a Level Up Potion , 2 Large XP Potions , 3 Medium XP Potions and 4 Sma"
   },
@@ -21,10 +25,6 @@
   {
    "code": "24M",
    "reward": "2 Pastel Common Packs"
-  },
-  {
-   "code": "22M",
-   "reward": "300 Grade Tokens and 1 XX Tokens"
   },
   {
    "code": "RIPBEYOND",
@@ -51,6 +51,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-08-29T12:18:28.504Z",
+ "updated": "2026-08-30T18:16:50.805Z",
  "source": "https://robloxden.com/game-codes/youtuber-card-collection"
 }

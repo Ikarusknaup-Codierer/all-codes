@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "OVERHEAVEN",
+   "reward": "500,000 Coins , 25 Raid Tickets , 25 Trait Rerolls , 15 Normal Ability"
+  },
+  {
+   "code": "MADEINHEAVEN",
+   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "WORLDPASS",
+   "reward": "3 World Boss Tokens"
+  },
+  {
    "code": "50KINTERESTED",
    "reward": "75,000 Coins , 100 Raid Tickets , 100 Trait Rerolls , 100 Normal Abili"
   },
@@ -87,6 +99,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-08-29T12:18:01.387Z",
+ "updated": "2026-08-30T18:16:39.839Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

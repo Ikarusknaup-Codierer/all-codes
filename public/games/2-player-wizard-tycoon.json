@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CAVEUPDATE",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "6000LIKES",
+   "reward": "6,000 Coins"
+  },
+  {
    "code": "5000LIKES",
    "reward": "5,000 Coins"
   },
@@ -31,6 +39,6 @@
    "reward": "999 Coins"
   }
  ],
- "updated": "2026-08-29T12:18:58.478Z",
+ "updated": "2026-08-30T18:16:56.277Z",
  "source": "https://robloxden.com/game-codes/2-player-wizard-tycoon"
 }

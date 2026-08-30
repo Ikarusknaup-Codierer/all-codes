@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NewChair70",
+   "reward": "5 Trait Rerolls"
+  },
+  {
    "code": "Monster3000",
    "reward": "5 Trait Rerolls"
   },
@@ -15,7 +19,7 @@
    "reward": "5 Trait Rerolls"
   },
   {
-   "code": "BrainrotInfinite",
+   "code": "GradeSSS",
    "reward": "5 Grade Tokens"
   },
   {
@@ -23,6 +27,6 @@
    "reward": "5 Grade Tokens"
   }
  ],
- "updated": "2026-08-29T12:16:26.477Z",
+ "updated": "2026-08-30T18:14:37.633Z",
  "source": "https://robloxden.com/game-codes/split-or-steal-brainrot"
 }

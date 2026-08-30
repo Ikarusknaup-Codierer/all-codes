@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FREEPLAYCOINS",
+   "reward": "Rewards"
+  },
+  {
    "code": "WEAREBACK",
    "reward": "a Free In-Game Reward"
   },
@@ -15,6 +19,6 @@
    "reward": "a free in-game reward"
   }
  ],
- "updated": "2026-08-29T12:17:06.082Z",
+ "updated": "2026-08-30T18:15:14.630Z",
  "source": "https://robloxden.com/game-codes/get-tall-and-fall"
 }

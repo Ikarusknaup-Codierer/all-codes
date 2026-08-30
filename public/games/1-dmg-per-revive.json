@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "upd112",
+   "reward": "10 Relic Rerolls , 10 Relic Resets , and 100k Hell Stones"
+  },
+  {
    "code": "relicmodify",
    "reward": "1,000,000 Death Coins"
   },
@@ -71,6 +75,6 @@
    "reward": "100 Weapon Stones and 10 Soul Ring Rerolls"
   }
  ],
- "updated": "2026-08-29T12:15:28.197Z",
+ "updated": "2026-08-30T18:13:30.071Z",
  "source": "https://robloxden.com/game-codes/1-dmg-per-revive"
 }

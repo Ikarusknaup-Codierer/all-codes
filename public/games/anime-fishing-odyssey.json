@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LUCKYROLLS",
+   "reward": "10 Rerolls"
+  },
+  {
    "code": "SUMMERPT2",
    "reward": "2,000 Shells and 15 Trait Rerolls . You need to be level 5 to redeem t"
   },
@@ -47,6 +51,6 @@
    "reward": "100 Gems"
   }
  ],
- "updated": "2026-08-29T12:14:59.388Z",
+ "updated": "2026-08-30T18:13:02.761Z",
  "source": "https://robloxden.com/game-codes/anime-fishing-odyssey"
 }

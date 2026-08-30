@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "WELCOME",
-   "reward": "250 Paw Pennies"
-  },
-  {
-   "code": "WEMISSEDYOUKEVIN",
-   "reward": "25K Firefly Dust"
-  },
-  {
-   "code": "UPDATELOG3",
-   "reward": "35 Golden Fish"
+   "code": "FIREWORKS",
+   "reward": "250 Golden Fish"
   },
   {
    "code": "ALLTHETREATS",
@@ -25,8 +17,16 @@
   {
    "code": "CAFEUPDATE",
    "reward": "25 Golden Fish and 2 Buttered Buns"
+  },
+  {
+   "code": "COFFEE",
+   "reward": "25 Golden Fish and 2 Steamed Milk"
+  },
+  {
+   "code": "UPDATELOG",
+   "reward": "Free rewards"
   }
  ],
- "updated": "2026-08-29T12:15:28.784Z",
+ "updated": "2026-08-30T18:13:30.574Z",
  "source": "https://robloxden.com/game-codes/care-for-cats"
 }

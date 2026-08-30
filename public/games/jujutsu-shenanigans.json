@@ -11,22 +11,22 @@
    "reward": "Nep Achievement And \"Woven Insight\" Emote"
   },
   {
-   "code": "SLATECONCRETE",
-   "reward": "100 Cash"
-  },
-  {
-   "code": "VDAY",
-   "reward": "Valentine's Day Reward"
-  },
-  {
-   "code": "11KLIKESWEDIDIT",
-   "reward": "11K Likes We Did It Reward"
+   "code": "CE_REROLL",
+   "reward": "CE Reroll Reward"
   },
   {
    "code": "ONEMORESHUT",
    "reward": "One More Shut Reward"
+  },
+  {
+   "code": "WHATADELAYISOLD",
+   "reward": "What A Delay Is Old Reward"
+  },
+  {
+   "code": "MERRY_CHRISTMAS",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-08-29T12:10:59.679Z",
+ "updated": "2026-08-30T18:08:49.665Z",
  "source": "https://robloxden.com/game-codes/jujutsu-shenanigans"
 }

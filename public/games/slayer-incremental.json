@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Update15",
+   "reward": "2 of all the top potions"
+  },
+  {
+   "code": "Elementals",
+   "reward": "3 of all Potions"
+  },
+  {
+   "code": "SoonNewEvo",
+   "reward": "50 Tickets"
+  },
+  {
    "code": "NewPotions",
    "reward": "3 of All New Potions"
   },
@@ -47,10 +59,6 @@
    "reward": "4 of all Potions"
   },
   {
-   "code": "IceTree",
-   "reward": "3 Rune Luck Potions , 3 Rune Speed Potions , and 3 Damage Potions"
-  },
-  {
    "code": "Evolutions",
    "reward": "3 Rune Luck Potions , 3 Rune Speed Potions , and 3 Damage Potions"
   },
@@ -59,6 +67,6 @@
    "reward": "1 Hellfire"
   }
  ],
- "updated": "2026-08-29T12:11:28.108Z",
+ "updated": "2026-08-30T18:09:03.677Z",
  "source": "https://robloxden.com/game-codes/slayer-incremental"
 }

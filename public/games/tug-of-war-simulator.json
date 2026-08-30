@@ -15,18 +15,18 @@
    "reward": "5 Wheel Spins"
   },
   {
-   "code": "plsdonate",
-   "reward": "100 Player Tickets"
-  },
-  {
-   "code": "light",
-   "reward": "3 Lantern Eggs"
-  },
-  {
-   "code": "777",
+   "code": "Void",
    "reward": "7 Spins"
+  },
+  {
+   "code": "WOW",
+   "reward": "1 Lantern Egg"
+  },
+  {
+   "code": "delayed",
+   "reward": "5 Spins"
   }
  ],
- "updated": "2026-08-29T00:08:56.578Z",
+ "updated": "2026-08-30T00:17:54.476Z",
  "source": "https://robloxden.com/game-codes/tug-of-war-simulator"
 }

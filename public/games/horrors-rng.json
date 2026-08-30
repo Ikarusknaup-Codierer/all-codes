@@ -19,14 +19,14 @@
    "reward": "1.5x Luck Boost (20 minutes)"
   },
   {
-   "code": "Roll",
-   "reward": "2x Luck Boost"
-  },
-  {
    "code": "RELEASE",
    "reward": "2x Luck Boost (20 minutes)"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "1.5x Luck Boost (15 minutes)"
   }
  ],
- "updated": "2026-08-28T22:02:56.792Z",
+ "updated": "2026-08-30T00:14:17.687Z",
  "source": "https://robloxden.com/game-codes/horrors-rng"
 }

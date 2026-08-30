@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "100KMembers",
+   "reward": "1,000 Credits"
+  },
+  {
+   "code": "90KAY",
+   "reward": "500 Credits"
+  },
+  {
    "code": "Kombat",
    "reward": "500 Credits"
   },
@@ -91,6 +99,6 @@
    "reward": "500 Credits"
   }
  ],
- "updated": "2026-08-28T22:00:36.918Z",
+ "updated": "2026-08-30T00:12:04.463Z",
  "source": "https://robloxden.com/game-codes/18-floors"
 }

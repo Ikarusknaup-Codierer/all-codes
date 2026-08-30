@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "400K_SUBS",
-   "reward": "Spins"
-  },
-  {
-   "code": "RELEASE_SHUTDOWN_SRRY",
-   "reward": "200 Spins"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "200 Spins"
-  },
-  {
-   "code": "PROJECTION_20K",
+   "code": "EXCHANGE_OUT",
    "reward": "100 Spins"
   },
   {
-   "code": "PROJECTION_SOON",
+   "code": "50K_FOLLOWERS",
+   "reward": "50 Spins And A Double Experience Boost"
+  },
+  {
+   "code": "SIX_EYED_CALAMITY",
+   "reward": "200 Spins"
+  },
+  {
+   "code": "SOUL_BUFFS",
+   "reward": "100 Spins"
+  },
+  {
+   "code": "I_LOVE_SHUTDOWNS",
    "reward": "50 Spins"
   }
  ],
- "updated": "2026-08-28T22:05:59.687Z",
+ "updated": "2026-08-30T00:17:10.916Z",
  "source": "https://robloxden.com/game-codes/jujutsu-infinite"
 }

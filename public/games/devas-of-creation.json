@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "DOC30KLikess",
-   "reward": "3500 Essence Tokens, 1 Resurrect Scroll, 1 Weapon Enchant Scroll, 1 Mi"
+   "code": "DOCSpecialReward",
+   "reward": "3 Trait Spins , 3 Inventory Slots , 2 Warehouse Slots , and 150 Factio"
   },
   {
-   "code": "JoinedDOCGroup",
-   "reward": "Resurrect Scroll, 2000 Essence Tokens, and Cooking Mastery Flash"
+   "code": "DOCXmasUPD",
+   "reward": "Free Rewards"
   },
   {
-   "code": "DOC90KLikess",
-   "reward": "1 Resurrect Scroll, 1 Blessed Escape Scroll, 2 Powerful Healing Potion"
-  },
-  {
-   "code": "DOC35KLikess",
-   "reward": "1 Resurrect Scroll, 1 Weapon Enchant Scroll, 1 Armor Enchant Scroll, 1"
+   "code": "DOCWeekendVibe",
+   "reward": "Free Rewards"
   },
   {
    "code": "DOCFortuneCode",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "WeekendEventBoostRewards",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-29T00:09:30.359Z",
+ "updated": "2026-08-30T00:18:29.202Z",
  "source": "https://robloxden.com/game-codes/devas-of-creation"
 }

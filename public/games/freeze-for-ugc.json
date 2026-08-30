@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NEWUGC",
-   "reward": "500 Time"
-  },
-  {
-   "code": "WEEKEND",
-   "reward": "500 Time"
-  },
-  {
    "code": "GOAL2026",
    "reward": "300 Time"
   },
@@ -28,7 +20,7 @@
   },
   {
    "code": "FREEZE",
-   "reward": "300 Time"
+   "reward": "200 Time"
   },
   {
    "code": "UPDATE",
@@ -37,8 +29,16 @@
   {
    "code": "TOILET",
    "reward": "100 Time"
+  },
+  {
+   "code": "NEWUGC",
+   "reward": "500 Time"
+  },
+  {
+   "code": "WEEKEND",
+   "reward": "500 Time"
   }
  ],
- "updated": "2026-08-28T22:01:54.936Z",
+ "updated": "2026-08-30T00:13:22.219Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

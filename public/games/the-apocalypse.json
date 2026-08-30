@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HotHotHot!",
-   "reward": "1 Blaze Kit"
-  },
-  {
    "code": "TheCodeIsALie",
    "reward": "1 Basic Farming Kit"
   },
@@ -21,8 +17,16 @@
   {
    "code": "SubToOmegaEX1",
    "reward": "a Basic Defense Kit and 67 Credits"
+  },
+  {
+   "code": "HotHotHot!",
+   "reward": "1 Blaze Kit"
+  },
+  {
+   "code": "ExpiresFast!",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-28T21:59:51.922Z",
+ "updated": "2026-08-30T00:11:20.620Z",
  "source": "https://robloxden.com/game-codes/the-apocalypse"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "merrynewyear",
-   "reward": "the Fireworks skin"
+   "code": "haunted",
+   "reward": "a Halloween Case"
   },
   {
-   "code": "natural",
-   "reward": "a Nature Case"
+   "code": "peculiar",
+   "reward": "an Unordinary Case"
+  },
+  {
+   "code": "wildlife",
+   "reward": "an Animal Case"
   },
   {
    "code": "solid",
    "reward": "a Material Case"
   },
   {
-   "code": "1year",
-   "reward": "a Pattern Case"
-  },
-  {
-   "code": "HOLIDAYS",
-   "reward": "1 Christmas Case"
+   "code": "festive",
+   "reward": "a Christmas Case"
   }
  ],
- "updated": "2026-08-29T06:14:22.375Z",
+ "updated": "2026-08-30T12:12:51.852Z",
  "source": "https://robloxden.com/game-codes/silent-assassin"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BUGFIX045214",
+   "reward": "10 Shadow Grenades"
+  },
+  {
+   "code": "BUGFIX051223",
+   "reward": "a Common Relic Chest"
+  },
+  {
    "code": "BUGFIX0983",
    "reward": "10 Shadow Grenades"
   },
@@ -63,6 +71,6 @@
    "reward": "10 Void-Grenades"
   }
  ],
- "updated": "2026-08-29T06:11:24.823Z",
+ "updated": "2026-08-30T12:09:58.367Z",
  "source": "https://robloxden.com/game-codes/mutant-plants-base-defense"
 }

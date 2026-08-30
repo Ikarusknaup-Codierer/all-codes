@@ -11,10 +11,6 @@
    "reward": "a Heaven , 15 Soul Tickets , and 5.5milestone title"
   },
   {
-   "code": "duckhunt",
-   "reward": "10 Heavens and 15 Soul Tickets"
-  },
-  {
    "code": "firstsummerevent",
    "reward": "250 Ducks and 2 Nice Creams"
   },
@@ -37,8 +33,12 @@
   {
    "code": "summereventpatch",
    "reward": "4,000 DarkDollars , 500 Ducks , and 2 Spider Ciders"
+  },
+  {
+   "code": "duckhunt",
+   "reward": "10 Heavens and 15 Soul Tickets"
   }
  ],
- "updated": "2026-08-29T06:11:58.043Z",
+ "updated": "2026-08-30T12:10:28.803Z",
  "source": "https://robloxden.com/game-codes/undertale-rng"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ALLKNIFES4",
-   "reward": "1 Exclusive Knife"
-  },
-  {
    "code": "NEWPET",
    "reward": "1 Ice Dragon Pet"
   },
@@ -23,10 +19,14 @@
    "reward": "1 Chroma Gingerblade Knife"
   },
   {
+   "code": "ALLKNIFES2",
+   "reward": "1 Exclusive Knife"
+  },
+  {
    "code": "ALLKNIFES3",
    "reward": "1 Exclusive Knife"
   }
  ],
- "updated": "2026-08-29T06:11:06.964Z",
+ "updated": "2026-08-30T12:09:43.084Z",
  "source": "https://robloxden.com/game-codes/luffy-s-murder-mystery-2"
 }

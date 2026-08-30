@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "release",
+   "code": "joineddiscord",
+   "reward": "80,000 Coins"
+  },
+  {
+   "code": "300KLikes",
    "reward": "Reward"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "the Elsa Pet"
   },
   {
-   "code": "WINTERWARRIOR",
-   "reward": "50,000 Coins"
-  },
-  {
    "code": "73M1LL1ON",
    "reward": "100,000 Coins"
   }
  ],
- "updated": "2026-08-29T06:12:47.586Z",
+ "updated": "2026-08-30T12:11:18.258Z",
  "source": "https://robloxden.com/game-codes/war-simulator"
 }

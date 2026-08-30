@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HOME",
+   "reward": "1,000 Cash"
+  },
+  {
    "code": "LIFE",
    "reward": "1,000 Cash"
   },
@@ -43,6 +47,6 @@
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-08-29T06:15:31.598Z",
+ "updated": "2026-08-30T12:13:55.721Z",
  "source": "https://robloxden.com/game-codes/death-order-simon-says"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "WOW20MWOW",
+   "reward": "500 Coins"
+  },
+  {
    "code": "EH219",
    "reward": "500 Escape Coins And 1 Key"
   },
   {
    "code": "ESCAPE",
    "reward": "1000 Escape Coins"
-  },
-  {
-   "code": "WOW20M",
-   "reward": "500 Coins"
   },
   {
    "code": "PRESENT25",
@@ -27,6 +27,6 @@
    "reward": "300 Coins"
   }
  ],
- "updated": "2026-08-29T06:16:45.982Z",
+ "updated": "2026-08-30T12:15:16.616Z",
  "source": "https://robloxden.com/game-codes/escape-room"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FIXTRADE",
+   "reward": "35 Shiny Charms , 35 Rainbow Charms , and 35 Void Charms"
+  },
+  {
    "code": "CODE78",
    "reward": "10 Enchant Tokens and 40 Rainbow Charms"
   },
@@ -391,6 +395,6 @@
    "reward": "10,000 Strength"
   }
  ],
- "updated": "2026-08-29T06:12:59.535Z",
+ "updated": "2026-08-30T12:11:29.911Z",
  "source": "https://robloxden.com/game-codes/saber-simulator"
 }

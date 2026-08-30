@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CBUNRESTRICTED2",
-   "reward": "100 Credits"
-  },
-  {
    "code": "JUNE26",
    "reward": "100 Credits . Only the first 3,000 players can claim this code"
   },
@@ -19,14 +15,18 @@
    "reward": "150 Credits . Only the first 3,000 players can claim this code"
   },
   {
-   "code": "SPRINGUPDATE",
-   "reward": "200 Credits . Only the first 9,000 players can claim this code"
+   "code": "NEEDCREDITS",
+   "reward": "150 Credits"
   },
   {
-   "code": "CBVALENTINE",
-   "reward": "150 Credits"
+   "code": "SORRYFORDELEAY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FREECASE",
+   "reward": "1 Hiato Case"
   }
  ],
- "updated": "2026-08-29T12:12:17.492Z",
+ "updated": "2026-08-30T12:18:20.145Z",
  "source": "https://robloxden.com/game-codes/counter-blox"
 }

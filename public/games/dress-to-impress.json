@@ -75,10 +75,6 @@
    "reward": "Mermaid Tail and Shell Top"
   },
   {
-   "code": "LANATUTU",
-   "reward": "Skirt"
-  },
-  {
    "code": "ITSJUSTNICHOLAS",
    "reward": "Jacket"
   },
@@ -113,8 +109,12 @@
   {
    "code": "ASHLEYBUNNI",
    "reward": "Bunny Slippers"
+  },
+  {
+   "code": "LANATUTU",
+   "reward": "Skirt"
   }
  ],
- "updated": "2026-08-29T12:10:26.250Z",
+ "updated": "2026-08-30T12:16:43.647Z",
  "source": "https://robloxden.com/game-codes/dress-to-impress"
 }

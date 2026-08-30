@@ -11,22 +11,22 @@
    "reward": "1 Triple Strength Boost"
   },
   {
+   "code": "BuffCode",
+   "reward": "20 Coins & 20 Gems"
+  },
+  {
    "code": "LucasDevs",
    "reward": "50 Coins & 50 Gems"
   },
   {
-   "code": "UPDATE5",
-   "reward": "1 Ultra Lucky Boost"
-  },
-  {
-   "code": "4MVISITS",
-   "reward": "1 Triple Strength Boost"
-  },
-  {
-   "code": "UPDATE2",
+   "code": "15KLIKES",
    "reward": "1 Super Lucky Boost"
+  },
+  {
+   "code": "5KSERVERMEMBERS",
+   "reward": "1 Ultra Lucky Boost, 1 Triple Coins Boost, 1 Triple Strength Boost and"
   }
  ],
- "updated": "2026-08-29T06:16:03.694Z",
+ "updated": "2026-08-30T12:14:40.048Z",
  "source": "https://robloxden.com/game-codes/buffman-simulator"
 }

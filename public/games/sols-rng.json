@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WEARESORRY",
+   "reward": "10 Rainbow Ices , 20 Potion Chests , and 5 Rare Potion Chests"
+  },
+  {
+   "code": "20260815UPD",
+   "reward": "20 Potion Chests and 5 Rare Potion Chests"
+  },
+  {
    "code": "BLAZINGSUN",
    "reward": "3 Hwachaes and 1 Power Battery"
   },
@@ -19,6 +27,6 @@
    "reward": "20 Potion Crates and 5 Rare Potion Chests"
   }
  ],
- "updated": "2026-08-29T06:17:35.584Z",
+ "updated": "2026-08-30T12:15:41.819Z",
  "source": "https://robloxden.com/game-codes/sols-rng"
 }

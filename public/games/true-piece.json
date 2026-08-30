@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "10MILLVISITS",
-   "reward": "3 Perk Spins, 1 Race Spin, And 30 Gems"
-  },
-  {
-   "code": "50KTRUELIKES",
-   "reward": "5 Perk Spins, 50 Gems, And 2 Hour Drop Boost"
-  },
-  {
    "code": "40KLIKES",
    "reward": "2 Perk Spins, 30 Gems, And 1 Hour Drop Boost"
   },
@@ -23,10 +15,18 @@
    "reward": "2 Perk Spins And 1 Hour Drop Boost"
   },
   {
-   "code": "PERKSHOWNOW",
+   "code": "TRUESPINS",
+   "reward": "2 Perk Spins"
+  },
+  {
+   "code": "2KTRUELIKES",
+   "reward": "30 Gems And An XP Boost"
+  },
+  {
+   "code": "SORRYFORSHUTDOWNS",
    "reward": "Free Spins"
   }
  ],
- "updated": "2026-08-29T06:16:11.392Z",
+ "updated": "2026-08-30T12:14:46.907Z",
  "source": "https://robloxden.com/game-codes/true-piece"
 }

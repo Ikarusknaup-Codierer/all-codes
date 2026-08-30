@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "48k",
-   "reward": "Experience"
+   "code": "Spooky",
+   "reward": "100 Halloween Coins"
   },
   {
-   "code": "Skeletorangel",
-   "reward": "250 Coins"
+   "code": "SpookySeason",
+   "reward": "50 Coins"
   },
   {
-   "code": "HLFutureSoon",
-   "reward": "500 Coins"
-  },
-  {
-   "code": "SpinTheWheel",
-   "reward": "2 Spins"
+   "code": "Champion",
+   "reward": "10 Chance Crates"
   },
   {
    "code": "NewMascot",
    "reward": "100 Coins"
+  },
+  {
+   "code": "100XP",
+   "reward": "100 EXP"
   }
  ],
- "updated": "2026-08-29T06:12:41.735Z",
+ "updated": "2026-08-30T12:11:12.168Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

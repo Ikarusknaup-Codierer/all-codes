@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "ALIENCASHEW",
+   "reward": "2x Hatch Speed (12 Hours)"
+  },
+  {
+   "code": "CRASHFIX",
+   "reward": "2x Luck (12 Hours)"
+  },
+  {
+   "code": "UPDATE82",
+   "reward": "2x Luck (3 Hours)"
+  },
+  {
+   "code": "ALIENINVASION",
+   "reward": "2x Hatch Speed (3 Hours)"
+  },
+  {
    "code": "UPDATE81",
    "reward": "2x Luck (3 Hours)"
   },
@@ -703,10 +719,6 @@
    "reward": "2 Hours of 2x Luck"
   },
   {
-   "code": "MYTHICSTREAM",
-   "reward": "2 Hours of 3x Mythic Chance"
-  },
-  {
    "code": "STREAMSPEED",
    "reward": "2 Hours of 2x Hatch Speed"
   },
@@ -1057,8 +1069,12 @@
   {
    "code": "MERCHANT",
    "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
+   "code": "MYTHICSTREAM",
+   "reward": "2 Hours of 3x Mythic Chance"
   }
  ],
- "updated": "2026-08-29T12:11:07.721Z",
+ "updated": "2026-08-30T12:17:19.648Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

@@ -15,18 +15,18 @@
    "reward": "300 Coins"
   },
   {
-   "code": "THUNDERNINJA",
-   "reward": "200 Coins"
-  },
-  {
    "code": "TESTERPAYMENT",
    "reward": "Reward"
   },
   {
-   "code": "SRY4WAIT",
-   "reward": "200 Coins"
+   "code": "SRY4DELAY",
+   "reward": "300 Coins"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-08-29T00:12:54.073Z",
+ "updated": "2026-08-30T06:11:54.127Z",
  "source": "https://robloxden.com/game-codes/rogue-ninja"
 }

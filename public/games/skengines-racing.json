@@ -11,10 +11,6 @@
    "reward": "Some In-Game Freebies"
   },
   {
-   "code": "LOVE24",
-   "reward": "The New Love Hearts Wrap"
-  },
-  {
    "code": "LUCKYME",
    "reward": "A Free Pot Of Gold Accessory"
   },
@@ -23,10 +19,14 @@
    "reward": "10 Blondie Points"
   },
   {
+   "code": "SKEGGHUNT",
+   "reward": "Easter Basket Accessory"
+  },
+  {
    "code": "WHIP",
    "reward": "320 Brownies"
   }
  ],
- "updated": "2026-08-29T00:13:35.864Z",
+ "updated": "2026-08-30T06:12:34.347Z",
  "source": "https://robloxden.com/game-codes/skengines-racing"
 }

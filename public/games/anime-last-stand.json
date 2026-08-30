@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ThankYouForBelieving!",
+   "reward": "20 Cosmic Essence , 20 Water Essence , 20 Nature Essence , 5 Mythic Sp"
+  },
+  {
+   "code": "ShhhThisIsASecret!",
+   "reward": "5 Skill Tree Reset , 30 Technique Shard , and 5,000 Jewel"
+  },
+  {
    "code": "DemonicCyborg",
    "reward": "Evolved Level 50 Genos and 50 Rerolls"
   },
@@ -139,10 +147,30 @@
    "reward": "300 Rerolls And 50 Pearls"
   },
   {
+   "code": "DelaySorryals",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "ALSUPD2",
+   "reward": "15 Rerolls and 2,000 Diamonds"
+  },
+  {
+   "code": "BleachSS",
+   "reward": "5,000 Diamonds"
+  },
+  {
+   "code": "HuntersMark",
+   "reward": "55 Rerolls and Sacrifical"
+  },
+  {
+   "code": "SaveRukia",
+   "reward": "3 Star Dust and 15,000 Diamonds"
+  },
+  {
    "code": "VALENTINEBUGS",
    "reward": "100 Shard Locks"
   }
  ],
- "updated": "2026-08-29T00:13:22.640Z",
+ "updated": "2026-08-30T06:12:21.692Z",
  "source": "https://robloxden.com/game-codes/anime-last-stand"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BLOODREWORK",
+   "reward": "10 Race Spins , 5 Epic Eggs , 1 Mythical Egg , $100,000 , and Double E"
+  },
+  {
    "code": "DEMONBLADE500",
    "reward": "10 Race Spins And 100k Cash"
   },
@@ -19,10 +23,6 @@
    "reward": "5 Race Spins and 3 Stat Refunds"
   },
   {
-   "code": "WOLFREWORK",
-   "reward": "10 Race Spins , 10 Epic Eggs , 5 Mythical Eggs , 100,000 Money , and D"
-  },
-  {
    "code": "WINDREWORK",
    "reward": "10 Race Spins , 5 Epic Eggs , 1 Mythical Egg , 100,000 Money , and Dou"
   },
@@ -31,6 +31,6 @@
    "reward": "5 Race Spins, 2,000 Snowflakes, 50,000 Money, And Double XP For 30 Min"
   }
  ],
- "updated": "2026-08-29T00:15:03.918Z",
+ "updated": "2026-08-30T06:13:56.714Z",
  "source": "https://robloxden.com/game-codes/demon-blade"
 }

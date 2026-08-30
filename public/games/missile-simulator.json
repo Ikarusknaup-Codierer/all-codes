@@ -11,22 +11,22 @@
    "reward": "50 Wins"
   },
   {
-   "code": "JulUPD",
-   "reward": "Boost"
-  },
-  {
-   "code": "Holiday",
-   "reward": "Double Coins Boost (15 Minutes)"
-  },
-  {
-   "code": "Spraden",
-   "reward": "Double Coins Boost (5 Minutes)"
+   "code": "NewYear",
+   "reward": "Double Power Boost (10 Minutes)"
   },
   {
    "code": "Oatsz",
    "reward": "Double Coins Boost (5 Minutes)"
+  },
+  {
+   "code": "Celestial",
+   "reward": "Super Luck Boost (10 Minutes)"
+  },
+  {
+   "code": "FeelingLucky",
+   "reward": "Super Luck Boost (5 Minutes)"
   }
  ],
- "updated": "2026-08-29T00:12:16.442Z",
+ "updated": "2026-08-30T06:11:17.615Z",
  "source": "https://robloxden.com/game-codes/missile-simulator"
 }

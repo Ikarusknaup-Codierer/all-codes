@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SPRING",
-   "reward": "200 Cash"
+   "code": "NEWYEAR2026",
+   "reward": "Cash"
   },
   {
-   "code": "EASTER",
+   "code": "1MVISITS",
+   "reward": "10 Cash"
+  },
+  {
+   "code": "MERRYCHRISTMAS",
+   "reward": "Christmas Stack"
+  },
+  {
+   "code": "CHRISTMAS",
    "reward": "50 Cash"
   },
   {
    "code": "10MVISITS",
    "reward": "20 Cash"
-  },
-  {
-   "code": "3MVISITS",
-   "reward": "10 Cash"
-  },
-  {
-   "code": "5MVISITS",
-   "reward": "10 Cash"
   }
  ],
- "updated": "2026-08-29T00:15:41.163Z",
+ "updated": "2026-08-30T06:14:31.266Z",
  "source": "https://robloxden.com/game-codes/tea-time-dessert-buffet"
 }

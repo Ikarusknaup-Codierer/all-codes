@@ -23,10 +23,6 @@
    "reward": "30,000 Gems"
   },
   {
-   "code": "FATALITY",
-   "reward": "50,000 Gems"
-  },
-  {
    "code": "MULTIUNBOX",
    "reward": "Free Rewards"
   },
@@ -55,10 +51,14 @@
    "reward": "50,000 Gems"
   },
   {
+   "code": "FATALITY",
+   "reward": "50,000 Gems"
+  },
+  {
    "code": "SINISTER",
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-08-29T00:13:20.232Z",
+ "updated": "2026-08-30T06:12:19.514Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

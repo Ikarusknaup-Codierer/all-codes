@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "EASTER25",
+   "code": "SUMMER25",
    "reward": "Free Rewards"
   },
   {
-   "code": "100KL",
-   "reward": "900 Coins"
+   "code": "125KL",
+   "reward": "Double XP"
   },
   {
    "code": "F00L3D",
    "reward": "250 Coins"
   },
   {
-   "code": "NEWLOBBY",
-   "reward": "500 Coins"
-  },
-  {
    "code": "DALGONA",
    "reward": "300 Dalgona"
+  },
+  {
+   "code": "XMAS24",
+   "reward": "200 Snowflakes"
   }
  ],
- "updated": "2026-08-29T00:11:07.211Z",
+ "updated": "2026-08-30T06:10:17.190Z",
  "source": "https://robloxden.com/game-codes/pass-the-bomb"
 }

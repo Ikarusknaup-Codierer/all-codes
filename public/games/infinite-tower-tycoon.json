@@ -19,18 +19,6 @@
    "reward": "Cash"
   },
   {
-   "code": "BESTGAME",
-   "reward": "Cash"
-  },
-  {
-   "code": "HARD",
-   "reward": "Cash"
-  },
-  {
-   "code": "ITT",
-   "reward": "Cash"
-  },
-  {
    "code": "DRPPRS",
    "reward": "Cash"
   },
@@ -139,7 +127,19 @@
    "reward": "Cash"
   },
   {
+   "code": "BESTGAME",
+   "reward": "Cash"
+  },
+  {
+   "code": "HARD",
+   "reward": "Cash"
+  },
+  {
    "code": "CLCTR001",
+   "reward": "Cash"
+  },
+  {
+   "code": "ITT",
    "reward": "Cash"
   },
   {
@@ -179,6 +179,6 @@
    "reward": "Free Cash"
   }
  ],
- "updated": "2026-08-29T00:10:48.936Z",
+ "updated": "2026-08-30T06:10:06.438Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

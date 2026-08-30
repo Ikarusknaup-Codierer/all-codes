@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SUNDAYS",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "LIKING",
-   "reward": "7,500 Cash"
-  },
-  {
    "code": "200MEMBER",
    "reward": "10,000 Cash"
   },
@@ -165,8 +157,16 @@
   {
    "code": "DRIFTMAS",
    "reward": "10,000 Cash"
+  },
+  {
+   "code": "SUNDAYS",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "LIKING",
+   "reward": "7,500 Cash"
   }
  ],
- "updated": "2026-08-29T00:13:42.900Z",
+ "updated": "2026-08-30T06:12:40.330Z",
  "source": "https://robloxden.com/game-codes/prodigy-drift"
 }

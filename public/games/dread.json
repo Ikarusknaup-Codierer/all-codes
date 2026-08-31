@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "SCORPSAINTCRABS",
+   "reward": "$750"
+  },
+  {
+   "code": "FIB",
+   "reward": "$750"
+  },
+  {
    "code": "3YEARS",
    "reward": "$1,000"
   },
   {
-   "code": "BDAYBOT",
-   "reward": "$2,500"
+   "code": "FLAME",
+   "reward": "$1,500"
   },
   {
-   "code": "ANODIZED",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "CHRISTMAS2020",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "DISCONNECT",
+   "code": "MOLOTOV",
    "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-08-30T12:09:46.874Z",
+ "updated": "2026-08-31T12:16:14.781Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

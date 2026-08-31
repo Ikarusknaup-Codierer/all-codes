@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "tokens",
-   "reward": "150 Upgrade Tokens"
-  },
-  {
    "code": "LuckyWeekend",
    "reward": "Reward"
   },
   {
-   "code": "UpgradeTokens",
-   "reward": "10 Upgrade Token"
+   "code": "14KLIKES",
+   "reward": "50 Upgrade Tokens"
+  },
+  {
+   "code": "LiberatorMeta",
+   "reward": "10 Liberator"
   },
   {
    "code": "RegenJumpscare",
@@ -27,6 +27,6 @@
    "reward": "100 Stars"
   }
  ],
- "updated": "2026-08-30T06:16:17.438Z",
+ "updated": "2026-08-31T12:14:28.808Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

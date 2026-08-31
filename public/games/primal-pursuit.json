@@ -11,10 +11,6 @@
    "reward": "450 Bones"
   },
   {
-   "code": "CHRISTMAS",
-   "reward": "200 Candy Canes"
-  },
-  {
    "code": "CAPTAIN",
    "reward": "Captain Pachy"
   },
@@ -53,8 +49,12 @@
   {
    "code": "USA250",
    "reward": "the USA T-Rex Dinosaur"
+  },
+  {
+   "code": "CHRISTMAS",
+   "reward": "200 Candy Canes"
   }
  ],
- "updated": "2026-08-30T12:09:29.186Z",
+ "updated": "2026-08-31T12:15:57.139Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

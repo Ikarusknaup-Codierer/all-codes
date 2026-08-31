@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "AGENTBACON",
+   "reward": "an Access Denied message"
+  },
+  {
+   "code": "CARGO",
+   "reward": "750 Miles"
+  },
+  {
+   "code": "ENDLESS",
+   "reward": "1,000 Miles"
+  },
+  {
+   "code": "FIRSTOFFICERFAIZ",
+   "reward": "500 Miles"
+  },
+  {
+   "code": "GOOSE",
+   "reward": "1,500 Miles"
+  },
+  {
+   "code": "SUPERNOVA",
+   "reward": "2,500 Miles"
+  },
+  {
+   "code": "THECRACK",
+   "reward": "1,000 Miles"
+  },
+  {
+   "code": "WELCOMEABOARD",
+   "reward": "350 Miles"
   }
  ],
- "updated": "2026-08-30T12:10:42.867Z",
+ "updated": "2026-08-31T12:17:12.049Z",
  "source": "https://robloxden.com/game-codes/land-or-die"
 }

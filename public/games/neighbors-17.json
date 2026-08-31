@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "60K",
-   "reward": "60 Credits"
+   "code": "CUPID",
+   "reward": "125 Credits"
   },
   {
-   "code": "SPOOKY",
+   "code": "ELF",
+   "reward": "250 Credits"
+  },
+  {
+   "code": "WINTER24",
    "reward": "100 Credits"
-  },
-  {
-   "code": "200K",
-   "reward": "200 Credits"
   },
   {
    "code": "ILOVEBOOGLE",
@@ -27,6 +27,6 @@
    "reward": "125 Credits"
   }
  ],
- "updated": "2026-08-30T06:12:04.594Z",
+ "updated": "2026-08-31T12:09:57.293Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

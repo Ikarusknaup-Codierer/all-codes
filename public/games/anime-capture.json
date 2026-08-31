@@ -7,6 +7,50 @@
    "reward": "Description"
   },
   {
+   "code": "Update1",
+   "reward": "1 Gems Potion , 1 Damage Potion , 200 F2P Tickets , 1 Luck Potion , 1 "
+  },
+  {
+   "code": "36KFavs",
+   "reward": "1 Drops Potion , 1 Energy Potion , 1 Luck Potion , 100 F2P Tickets , 1"
+  },
+  {
+   "code": "Cursed",
+   "reward": "1 Damage Potion , 1 Gems Potion , 1 Energy Potion , 100 F2P Tickets , "
+  },
+  {
+   "code": "33kFavs",
+   "reward": "100 F2P Tickets , 1 Drops Potion , 1 Luck Potion , 1 Damage Potion , 1"
+  },
+  {
+   "code": "31kFavs",
+   "reward": "100 F2P Tickets , 1 Drops Potion , 1 Luck Potion , 1 Damage Potion , 1"
+  },
+  {
+   "code": "Jujutsuup1",
+   "reward": "1 Energy Potion , 200 F2P Tickets , 1 Damage Potion , 1 Luck Potion , "
+  },
+  {
+   "code": "sorryforshut",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "sorryforshutdown5",
+   "reward": "1 Luck Potion , 100 F2P Tickets , 1 Energy Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "progressionbugfix",
+   "reward": "100 F2P Tickets , 1 Drops Potion , 1 Luck Potion , 1 Damage Potion , 1"
+  },
+  {
+   "code": "sorryforshutdown4",
+   "reward": "100 F2P Tickets , 1 Drops Potion , 1 Luck Potion , 1 Damage Potion , 1"
+  },
+  {
+   "code": "DefenseCursed",
+   "reward": "1 Luck Potion , 100 F2P Tickets , 1 Energy Potion , 1 Drops Potion , 1"
+  },
+  {
    "code": "bugsfixed!",
    "reward": "an Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , "
   },
@@ -115,6 +159,6 @@
    "reward": "an Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , "
   }
  ],
- "updated": "2026-08-30T12:11:32.382Z",
+ "updated": "2026-08-31T12:18:05.633Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

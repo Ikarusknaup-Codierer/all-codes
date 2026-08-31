@@ -7,28 +7,24 @@
    "reward": "Description"
   },
   {
-   "code": "PETAL",
-   "reward": "30,000 Gems"
-  },
-  {
    "code": "VELVET",
    "reward": "50,000 Gems"
-  },
-  {
-   "code": "MAJESTIC",
-   "reward": "Rewards"
-  },
-  {
-   "code": "ALATUS",
-   "reward": "30,000 Gems"
   },
   {
    "code": "MULTIUNBOX",
    "reward": "Free Rewards"
   },
   {
+   "code": "PETAL",
+   "reward": "30,000 Gems"
+  },
+  {
    "code": "ROYAL",
    "reward": "50K Gems"
+  },
+  {
+   "code": "MAJESTIC",
+   "reward": "Rewards"
   },
   {
    "code": "CUSTOMIZE",
@@ -51,6 +47,10 @@
    "reward": "50,000 Gems"
   },
   {
+   "code": "ALATUS",
+   "reward": "30,000 Gems"
+  },
+  {
    "code": "FATALITY",
    "reward": "50,000 Gems"
   },
@@ -59,6 +59,6 @@
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-08-30T06:12:19.514Z",
+ "updated": "2026-08-31T12:10:13.491Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "permamining",
+   "reward": "3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "dropthatnuke",
+   "reward": "3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "goodbyemining",
+   "reward": "3x Stat Boost (72 Hours)"
+  },
+  {
    "code": "clantimeupdate",
    "reward": "a 3x Stat Boost (72 Hours)"
   },
@@ -447,6 +459,6 @@
    "reward": "+10% Stats"
   }
  ],
- "updated": "2026-08-30T12:09:35.822Z",
+ "updated": "2026-08-31T12:16:03.980Z",
  "source": "https://robloxden.com/game-codes/arm-wrestle-simulator"
 }

@@ -11,22 +11,22 @@
    "reward": "300 Gold and 2x Gold Boost (15 minutes)"
   },
   {
-   "code": "UPDATE2",
-   "reward": "5 x1.5 Money Boosts, 5 Lucky Boosts, And 5 2x Power Boosts"
+   "code": "500SOULS",
+   "reward": "500 Souls"
+  },
+  {
+   "code": "DISCORDREWARD2",
+   "reward": "Free Rewards"
   },
   {
    "code": "DISCORDREWARD",
    "reward": "15 Dust And 15 Min Lucky Boost"
   },
   {
-   "code": "SUMMEREVENTS",
-   "reward": "1K Summer Coins And Toilet Noob"
-  },
-  {
-   "code": "SOCIAL",
-   "reward": "2 Summer Tokens, 500 Title Tokens, And 10K Toilets Coins"
+   "code": "THISISAFAKECODE",
+   "reward": "100 Summer Coins"
   }
  ],
- "updated": "2026-08-30T06:14:52.173Z",
+ "updated": "2026-08-31T12:12:50.833Z",
  "source": "https://robloxden.com/game-codes/anime-catching-simulator-x"
 }

@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "379K",
-   "reward": "190 Gold Coins , 375 Gems , 100% Hat Drop (60 Minutes) , and 100% Hat "
-  },
-  {
    "code": "SummerTrials",
    "reward": "2 Box Trial Pass"
-  },
-  {
-   "code": "376K",
-   "reward": "190 Coins , 375 Gems , 100% Attack Speed (60 Minutes) , and 100% Gems "
   },
   {
    "code": "375K",
@@ -41,8 +33,16 @@
   {
    "code": "VeyaramaoBiano",
    "reward": "15% Hatch Speed (20 Minutes)"
+  },
+  {
+   "code": "379K",
+   "reward": "190 Gold Coins , 375 Gems , 100% Hat Drop (60 Minutes) , and 100% Hat "
+  },
+  {
+   "code": "376K",
+   "reward": "190 Coins , 375 Gems , 100% Attack Speed (60 Minutes) , and 100% Gems "
   }
  ],
- "updated": "2026-08-30T12:11:31.454Z",
+ "updated": "2026-08-31T12:18:04.676Z",
  "source": "https://robloxden.com/game-codes/unboxing-simulator"
 }

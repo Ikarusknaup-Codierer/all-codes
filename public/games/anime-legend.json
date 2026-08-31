@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "ANIM3PLAYTIM3",
-   "reward": "Coins And Gems"
-  },
-  {
    "code": "lurex",
    "reward": "Gift"
   },
   {
-   "code": "kobuzo",
+   "code": "chavez",
    "reward": "Gift"
   },
   {
@@ -25,8 +21,12 @@
   {
    "code": "antiafk",
    "reward": "Gift"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "2,000 Coins and 2,000 Gems"
   }
  ],
- "updated": "2026-08-29T18:16:33.590Z",
+ "updated": "2026-08-31T00:14:32.065Z",
  "source": "https://robloxden.com/game-codes/anime-legend"
 }

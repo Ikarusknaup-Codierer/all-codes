@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TECH",
-   "reward": "Freebies"
-  },
-  {
    "code": "2MPLS",
    "reward": "Freebies"
   },
@@ -25,8 +21,12 @@
   {
    "code": "2MWHEN",
    "reward": "Freebies"
+  },
+  {
+   "code": "EVIL",
+   "reward": "3 Galaxy Packs"
   }
  ],
- "updated": "2026-08-30T00:11:02.810Z",
+ "updated": "2026-08-31T00:17:29.792Z",
  "source": "https://robloxden.com/game-codes/unbox-it"
 }

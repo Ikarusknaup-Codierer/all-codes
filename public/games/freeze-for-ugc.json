@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ARTGOAT",
+   "reward": "250 Time"
+  },
+  {
+   "code": "ILOVEUGC",
+   "reward": "1,000 Time"
+  },
+  {
+   "code": "SUNDAY",
+   "reward": "750 Time"
+  },
+  {
    "code": "GOAL2026",
    "reward": "300 Time"
   },
@@ -39,6 +51,6 @@
    "reward": "500 Time"
   }
  ],
- "updated": "2026-08-30T00:13:22.219Z",
+ "updated": "2026-08-31T00:19:48.446Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

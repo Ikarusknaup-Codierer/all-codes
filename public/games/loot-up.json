@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DUNGEON20",
+   "reward": "3 Forge Shards , 1 Ancient Skill Scroll , 2 Magic Ores , 5 Enchant Sto"
+  },
+  {
    "code": "SUMMER",
    "reward": "3 Forge Shards , 1 Ancient Skill Scroll , 2 Magic Ores , 5 Enchant Sto"
   },
@@ -29,12 +33,8 @@
   {
    "code": "COMPANIONS",
    "reward": "3 ForgeShards , an Ancient Skill Scrolls , 2 Magic Ores , 5 Enchant St"
-  },
-  {
-   "code": "4TH",
-   "reward": "3 ForgeShard , 1 Ancient Skill Scroll , 2 Magic Ores , 5 Enchant Stone"
   }
  ],
- "updated": "2026-08-29T18:14:44.230Z",
+ "updated": "2026-08-31T00:14:15.526Z",
  "source": "https://robloxden.com/game-codes/loot-up"
 }

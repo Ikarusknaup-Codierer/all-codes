@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "NIAPLIXISOVERJOYED",
+   "reward": "1 Glitched Potion , 50 Premium Potion Crates , and 50 Premium Goodie C"
+  },
+  {
+   "code": "SUGGESTREWORKS",
+   "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates"
+  },
+  {
+   "code": "NEWREWORKS",
+   "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates"
+  },
+  {
+   "code": "REWORKUPDATE",
+   "reward": "1 Sovereign Pot and 1 Omega Pot"
+  },
+  {
    "code": "STORYGOAT",
    "reward": "1 Sovereign Pot , 50 Premium Potion Crates , and 50 Premium Goodie Cra"
   },
@@ -61,6 +77,38 @@
   {
    "code": "SORRYLOL",
    "reward": "25 Premium Potion Crates and 25 Premium Goodie Crates"
+  },
+  {
+   "code": "THANKYOUIMFULL",
+   "reward": "1 Glitched Potion , 12 Command Seals , 1 Omega Pot , 15 Premium Potion"
+  },
+  {
+   "code": "TYSMFOR8KCCU",
+   "reward": "1 Present 1 , 1 Present 3 , 1 Holy Grail , 15 Premium Potion Crates , "
+  },
+  {
+   "code": "ONEMORECODE",
+   "reward": "1 Sovereign Pot , 1 Glitched Potion , 15 Premium Potion Crates , and 1"
+  },
+  {
+   "code": "GIVEBACKJALTERSHAIR",
+   "reward": "60 Premium Potion Crates and 60 Premium Goodie Crates"
+  },
+  {
+   "code": "NIAPLIXISTHEGOAT",
+   "reward": "1 Holy Grail , 15 Premium Potion Crates , and 15 Premium Goodie Crates"
+  },
+  {
+   "code": "THANKYOUFOR67KCUU",
+   "reward": "1 Sovereign Pot , 1 Omega Pot , 50 Premium Potion Crates , and 50 Prem"
+  },
+  {
+   "code": "STORYGOATISABUMTOMATOEMOJI",
+   "reward": "1 Omega Pot , 50 Premium Potion Crates , and 50 Premium Goodie Crates"
+  },
+  {
+   "code": "SORRY4SHUTDOWNS",
+   "reward": "1 Sovereign Pot , 25 Premium Potion Crates , and 25 Premium Goodie Cra"
   },
   {
    "code": "500HEAVENPOTS",
@@ -155,10 +203,6 @@
    "reward": "3 Premium Potion Crates , 3 Premium Goodie Crates , 10 Better Potion C"
   },
   {
-   "code": "COMPENSATION",
-   "reward": "30 Caller Stars"
-  },
-  {
    "code": "BIGGESTUPDATEYET",
    "reward": "5 Premium Potion Crates , 20 Better Goodie Crates , 2,500 Astralis , a"
   },
@@ -171,6 +215,6 @@
    "reward": "10,000 Gold 2,000 Astralis , 5 Better Goodie Crate , and 5 Better Poti"
   }
  ],
- "updated": "2026-08-29T18:17:53.031Z",
+ "updated": "2026-08-31T00:15:47.469Z",
  "source": "https://robloxden.com/game-codes/anime-girl-rng"
 }

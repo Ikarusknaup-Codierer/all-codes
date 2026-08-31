@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RELEASE",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "BOSSRUSH",
    "reward": "a Major Compensation Chest"
   },
@@ -79,10 +83,6 @@
    "reward": "25 Stars"
   },
   {
-   "code": "RELEASE",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "CONSOLE_FIXED",
    "reward": "50 Stars and a Random GM Blessing chest"
   },
@@ -91,6 +91,6 @@
    "reward": "the Bunny Ears cosmetic"
   }
  ],
- "updated": "2026-08-29T18:11:45.253Z",
+ "updated": "2026-08-31T00:11:46.648Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

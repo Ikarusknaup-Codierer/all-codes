@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ALLSTARGAME",
-   "reward": "one All-Star Chest"
-  },
-  {
    "code": "LA26",
    "reward": "2,000 Coins"
   },
@@ -57,8 +53,12 @@
   {
    "code": "GOODFRIDAY",
    "reward": "one Goal Effect Pack"
+  },
+  {
+   "code": "ALLSTARGAME",
+   "reward": "one All-Star Chest"
   }
  ],
- "updated": "2026-08-29T18:12:43.282Z",
+ "updated": "2026-08-31T00:12:49.305Z",
  "source": "https://robloxden.com/game-codes/nba-champions-basketball"
 }

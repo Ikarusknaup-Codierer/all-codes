@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ANIME",
+   "reward": "Pink Petal Aura , 3 Cappuccino , 4 Prime Rib , 4 Greater Health Potion"
+  },
+  {
    "code": "SORRY-DELAY-5",
    "reward": "1 Nightmare Aura , 15 Refined Health Potions , and 5 Burger & Fries"
   },
@@ -59,6 +63,6 @@
    "reward": "5 Distilled Health Potion and Sparkler Aura"
   }
  ],
- "updated": "2026-08-30T00:11:28.826Z",
+ "updated": "2026-08-31T00:17:59.674Z",
  "source": "https://robloxden.com/game-codes/dungeon-heroes"
 }

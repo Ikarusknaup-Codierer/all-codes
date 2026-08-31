@@ -11,22 +11,26 @@
    "reward": "200 AirMiles"
   },
   {
-   "code": "250YEARS",
+   "code": "RTO",
    "reward": "250 AirMiles"
   },
   {
-   "code": "CLEARED",
-   "reward": "500 AirMiles"
+   "code": "IWANTAIRMILES",
+   "reward": "67 AirMiles"
   },
   {
-   "code": "CROSSWIND",
-   "reward": "500 AirMiles"
+   "code": "MULTIPLAYER",
+   "reward": "Rewards"
+  },
+  {
+   "code": "LONDON",
+   "reward": "300 AirMiles"
   },
   {
    "code": "NEW",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-08-29T18:12:29.104Z",
+ "updated": "2026-08-31T00:12:32.234Z",
  "source": "https://robloxden.com/game-codes/air-traffic-simulator"
 }

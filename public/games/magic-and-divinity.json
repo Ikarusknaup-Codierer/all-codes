@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "QUICK",
-   "reward": "1 Lineage Reroll And 1 Trait Reroll"
-  },
-  {
-   "code": "FAVS20K",
-   "reward": "2 Lineage Rerolls And 2 Trait Rerolls"
+   "code": "VERSION2",
+   "reward": "4 Lineage Rerolls And 4 Trait Rerolls"
   },
   {
    "code": "DELAY1",
+   "reward": "2 Lineage Rerolls And 2 Trait Rerolls"
+  },
+  {
+   "code": "LIKES15K",
    "reward": "2 Lineage Rerolls And 2 Trait Rerolls"
   },
   {
@@ -23,10 +23,10 @@
    "reward": "2 Lineage Rerolls And 2 Trait Rerolls"
   },
   {
-   "code": "PATCH1",
-   "reward": "1 Idol of Rebirth"
+   "code": "THANKYOU",
+   "reward": "3 Lineage Rerolls And 3 Trait Rerolls"
   }
  ],
- "updated": "2026-08-29T18:12:25.726Z",
+ "updated": "2026-08-31T00:12:28.164Z",
  "source": "https://robloxden.com/game-codes/magic-and-divinity"
 }

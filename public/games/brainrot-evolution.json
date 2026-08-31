@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SHARKS",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "Bombondino",
    "reward": "2 EXP Potions"
   },
@@ -359,6 +363,6 @@
    "reward": "4 Yoni Crates"
   }
  ],
- "updated": "2026-08-29T18:12:26.728Z",
+ "updated": "2026-08-31T00:12:29.215Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

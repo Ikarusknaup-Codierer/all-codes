@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "AbsoluteComedy",
+   "code": "HeavenboundComplete",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "MerryChristmas",
    "reward": "200 Gems"
   },
   {
@@ -15,18 +19,14 @@
    "reward": "150 Gems"
   },
   {
-   "code": "YujiAwakening",
+   "code": "SorryForDelay",
    "reward": "250 Gems"
   },
   {
-   "code": "sorryforshutdown",
-   "reward": "100 Gems"
-  },
-  {
-   "code": "ShinjukuStrongest",
-   "reward": "200 Gems"
+   "code": "sorry4Fps",
+   "reward": "50 Gems"
   }
  ],
- "updated": "2026-08-29T18:18:18.198Z",
+ "updated": "2026-08-31T00:16:12.212Z",
  "source": "https://robloxden.com/game-codes/jujutsu-beatdown"
 }

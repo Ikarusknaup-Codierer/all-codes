@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "THIRTYMILLIONVISITS",
-   "reward": "Cash"
+   "code": "FOURTYTHOUSAND",
+   "reward": "15,000 Cash"
   },
   {
-   "code": "SUMMERSHOWERPLS",
-   "reward": "20,000 Cash"
+   "code": "JULY4TH",
+   "reward": "10K Cash"
   },
   {
-   "code": "MOJAVERETURNS",
+   "code": "DANGEROUSWOMAN",
+   "reward": "10K Cash"
+  },
+  {
+   "code": "LASTWORD",
    "reward": "a reward"
   }
  ],
- "updated": "2026-08-29T18:16:38.607Z",
+ "updated": "2026-08-31T00:14:36.232Z",
  "source": "https://robloxden.com/game-codes/mojave-valley"
 }

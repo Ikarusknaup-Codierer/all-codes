@@ -11,22 +11,22 @@
    "reward": "150 Gems"
   },
   {
-   "code": "GrapeSoda",
-   "reward": "500 Candy"
+   "code": "IceCold",
+   "reward": "Triple Coins (1 Minute 30 Seconds)"
+  },
+  {
+   "code": "RazorFish",
+   "reward": "AutoFizz (2 Minutes)"
   },
   {
    "code": "SodaForever",
    "reward": "AutoFizz (2 Minutes)"
   },
   {
-   "code": "EpicSoda",
-   "reward": "Triple Coins (1 Minute 30 Seconds)"
-  },
-  {
    "code": "Beta",
    "reward": "2,000 Candy"
   }
  ],
- "updated": "2026-08-29T18:11:49.560Z",
+ "updated": "2026-08-31T00:11:50.730Z",
  "source": "https://robloxden.com/game-codes/soda-simulator"
 }

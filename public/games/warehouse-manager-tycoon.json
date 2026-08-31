@@ -15,18 +15,18 @@
    "reward": "100 Cash"
   },
   {
-   "code": "LAUNCHDAY",
-   "reward": "2,000 Cash"
-  },
-  {
    "code": "FORKLIFT",
    "reward": "1 Forklift Skin"
   },
   {
    "code": "FIRSTSHIFT",
    "reward": "1 Employee"
+  },
+  {
+   "code": "WAREHOUSEPRO",
+   "reward": "1 Unique Warehouse Decoration"
   }
  ],
- "updated": "2026-08-29T18:14:41.291Z",
+ "updated": "2026-08-31T00:14:12.383Z",
  "source": "https://robloxden.com/game-codes/warehouse-manager-tycoon"
 }

@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "190KLIKES",
+   "reward": "$25,000"
+  },
+  {
    "code": "125KLIKES",
    "reward": "25,000 Cash"
   },
   {
-   "code": "ONEHUNDRED",
-   "reward": "$25,000 Cash"
-  },
-  {
-   "code": "NEWPLANES",
-   "reward": "25k Cash"
+   "code": "THANKSFORSUPPORT",
+   "reward": "25,000 Cash"
   },
   {
    "code": "RELEASE",
    "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-08-29T18:16:58.150Z",
+ "updated": "2026-08-31T00:14:56.458Z",
  "source": "https://robloxden.com/game-codes/flight-world"
 }

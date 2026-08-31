@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "COMPENSATION",
+   "reward": "75,000 Cash"
+  },
+  {
+   "code": "THANKYOUFORWAITING",
+   "reward": "75,000 Cash"
+  },
+  {
+   "code": "SORRY4DATALOSS",
+   "reward": "75,000 Cash"
+  },
+  {
    "code": "SCOOTEREALISM",
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-08-30T18:09:34.104Z",
+ "updated": "2026-08-31T18:16:12.465Z",
  "source": "https://robloxden.com/game-codes/ausom-scooter-world"
 }

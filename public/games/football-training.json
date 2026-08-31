@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "luckharvest",
-   "reward": "5 Luck Potion and 10 Carrot Fruit"
-  },
-  {
    "code": "coreforce",
    "reward": "5 Power Potion and 10 Apple Fruit"
   },
@@ -117,8 +113,12 @@
   {
    "code": "release",
    "reward": "2x Power Potions"
+  },
+  {
+   "code": "luckharvest",
+   "reward": "5 Luck Potion and 10 Carrot Fruit"
   }
  ],
- "updated": "2026-08-30T12:18:16.492Z",
+ "updated": "2026-08-31T18:15:05.440Z",
  "source": "https://robloxden.com/game-codes/football-training"
 }

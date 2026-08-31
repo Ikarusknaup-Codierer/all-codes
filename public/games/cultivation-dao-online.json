@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Update230",
+   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 5 Body Constitution "
+  },
+  {
+   "code": "NewEvent",
+   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 5 Body Constitution "
+  },
+  {
+   "code": "4MVisits",
+   "reward": "5 Spirit Root Spins , 3 Body Constitution Locks , 5 Instant Health , 5"
+  },
+  {
    "code": "QiFix",
    "reward": "5 Instant Qi"
   },
@@ -51,16 +63,8 @@
    "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 2 Instant Health , a"
   },
   {
-   "code": "UpdateV2",
-   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 2 Instant Health , a"
-  },
-  {
    "code": "Locks",
    "reward": "5 Body Constitution Locks and 5 Spirit Root Locks"
-  },
-  {
-   "code": "WAutoclaim",
-   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 5 Body Constitution "
   },
   {
    "code": "TyForPlaying",
@@ -165,8 +169,16 @@
   {
    "code": "10KLikes",
    "reward": "7 Spirit Root Spins and 7 Body Constitution Spins"
+  },
+  {
+   "code": "UpdateV2",
+   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 2 Instant Health , a"
+  },
+  {
+   "code": "WAutoclaim",
+   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 5 Body Constitution "
   }
  ],
- "updated": "2026-08-30T18:09:13.878Z",
+ "updated": "2026-08-31T18:15:50.861Z",
  "source": "https://robloxden.com/game-codes/cultivation-dao-online"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "100KFAVORITES",
-   "reward": "2,500 Cash"
-  },
-  {
    "code": "100KMEMBERS",
    "reward": "10,000 Cash"
   },
@@ -23,10 +19,14 @@
    "reward": "5,000 Cash"
   },
   {
-   "code": "50KMEMBERS",
-   "reward": "2,500 Cash"
+   "code": "10MVISITS",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-08-30T12:16:39.037Z",
+ "updated": "2026-08-31T18:14:19.476Z",
  "source": "https://robloxden.com/game-codes/zoo-tycoon"
 }

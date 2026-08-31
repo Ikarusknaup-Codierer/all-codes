@@ -11,10 +11,6 @@
    "reward": "2 Mutation II Potions"
   },
   {
-   "code": "POTIONSSS",
-   "reward": "2 Mutation II Potions"
-  },
-  {
    "code": "MUTATION2",
    "reward": "2 Mutation II Potions"
   },
@@ -29,8 +25,12 @@
   {
    "code": "WORMHYPE",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "POTIONSSS",
+   "reward": "2 Mutation II Potions"
   }
  ],
- "updated": "2026-08-30T18:11:07.787Z",
+ "updated": "2026-08-31T18:17:50.272Z",
  "source": "https://robloxden.com/game-codes/fish-it"
 }

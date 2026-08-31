@@ -11,10 +11,6 @@
    "reward": "250 Golds , 1 Gold Key , 1 Silver Key and 1 Bronze Key"
   },
   {
-   "code": "NEWYEARS2023",
-   "reward": "250 Gold, Gold Key, Silver Key, Bronze Key"
-  },
-  {
    "code": "CHRISTMAS",
    "reward": "250 Gold, Gold Key, Silver Key, Bronze Key"
   },
@@ -23,10 +19,14 @@
    "reward": "600 Gold"
   },
   {
-   "code": "THANKYOU",
+   "code": "apubum",
+   "reward": "500 Gold"
+  },
+  {
+   "code": "SPECTATE",
    "reward": "2 Bronze Keys and 3 Silver Keys"
   }
  ],
- "updated": "2026-08-30T12:13:13.004Z",
+ "updated": "2026-08-31T18:10:40.428Z",
  "source": "https://robloxden.com/game-codes/the-maze-runner"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "haunted",
+   "code": "sighted",
+   "reward": "a Camouflage Case"
+  },
+  {
+   "code": "boo",
    "reward": "a Halloween Case"
-  },
-  {
-   "code": "peculiar",
-   "reward": "an Unordinary Case"
-  },
-  {
-   "code": "wildlife",
-   "reward": "an Animal Case"
   },
   {
    "code": "solid",
    "reward": "a Material Case"
   },
   {
-   "code": "festive",
-   "reward": "a Christmas Case"
+   "code": "scifi",
+   "reward": "a Future Case"
+  },
+  {
+   "code": "spooked",
+   "reward": "a Halloween Case"
   }
  ],
- "updated": "2026-08-30T12:12:51.852Z",
+ "updated": "2026-08-31T18:10:15.201Z",
  "source": "https://robloxden.com/game-codes/silent-assassin"
 }

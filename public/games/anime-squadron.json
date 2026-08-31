@@ -7,12 +7,24 @@
    "reward": "Description"
   },
   {
+   "code": "BalanceChangesJJK!",
+   "reward": "100 Trait Shards , 3,000 Gems , and 10 Prism"
+  },
+  {
    "code": "SorryForBalancingIssues",
    "reward": "50 Trait Shards , 5,000 Crusader Bills and 2,000 Gems"
   },
   {
    "code": "10MilVisits!",
    "reward": "50 Trait Shards and 2,000 Gold"
+  },
+  {
+   "code": "FreeTanjiroEvo!",
+   "reward": "1 Tanjaros Nichirin , 15 Demon Blood Crystals , 7,500 Gold , 200 Wardi"
+  },
+  {
+   "code": "COMETOMERIKA!",
+   "reward": "3 Perfect Prism and 30 Prism"
   },
   {
    "code": "AdminAbuse!",
@@ -59,6 +71,6 @@
    "reward": "50 Trait Shards , 1,000 Gems , and 2,000 Gold"
   }
  ],
- "updated": "2026-08-30T18:10:09.347Z",
+ "updated": "2026-08-31T18:16:50.475Z",
  "source": "https://robloxden.com/game-codes/anime-squadron"
 }

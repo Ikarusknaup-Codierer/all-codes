@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WEARESORRY",
-   "reward": "10 Rainbow Ices , 20 Potion Chests , and 5 Rare Potion Chests"
-  },
-  {
    "code": "20260815UPD",
    "reward": "20 Potion Chests and 5 Rare Potion Chests"
   },
@@ -25,8 +21,12 @@
   {
    "code": "GargantuaBiome",
    "reward": "20 Potion Crates and 5 Rare Potion Chests"
+  },
+  {
+   "code": "WEARESORRY",
+   "reward": "10 Rainbow Ices , 20 Potion Chests , and 5 Rare Potion Chests"
   }
  ],
- "updated": "2026-08-30T12:15:41.819Z",
+ "updated": "2026-08-31T18:13:22.295Z",
  "source": "https://robloxden.com/game-codes/sols-rng"
 }

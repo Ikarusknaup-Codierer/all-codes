@@ -631,6 +631,10 @@
    "reward": "2 Hours of 2x Luck"
   },
   {
+   "code": "MERCHANT",
+   "reward": "2 Hours of 2x Hatch Speed"
+  },
+  {
    "code": "MYTHIC",
    "reward": "2 Hours of 2x Hatch Speed"
   },
@@ -1067,14 +1071,10 @@
    "reward": "the Spookivus Pet"
   },
   {
-   "code": "MERCHANT",
-   "reward": "2 Hours of 2x Hatch Speed"
-  },
-  {
    "code": "MYTHICSTREAM",
    "reward": "2 Hours of 3x Mythic Chance"
   }
  ],
- "updated": "2026-08-30T12:17:19.648Z",
+ "updated": "2026-08-31T18:14:50.118Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "EASTERSPIRIT",
-   "reward": "2 Gum Lootbags and 10,000 Egg Shaped Ecto"
-  },
-  {
    "code": "GULLIBLE",
    "reward": "2 Ghost Lootbags"
   },
@@ -89,8 +85,12 @@
   {
    "code": "FIREFLY",
    "reward": "the Firefly Pet"
+  },
+  {
+   "code": "EASTERSPIRIT",
+   "reward": "2 Gum Lootbags and 10,000 Egg Shaped Ecto"
   }
  ],
- "updated": "2026-08-30T18:10:16.413Z",
+ "updated": "2026-08-31T18:16:56.612Z",
  "source": "https://robloxden.com/game-codes/ghost-simulator"
 }

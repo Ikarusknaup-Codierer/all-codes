@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Tradinghub",
+   "reward": "5 Revives"
+  },
+  {
+   "code": "LOTSOFBUGS",
+   "reward": "2 Basic Sniper Cases"
+  },
+  {
    "code": "TRADING",
    "reward": "2,500 Cash"
   },
@@ -31,6 +39,6 @@
    "reward": "5,000 Cash and 5 Basic Melee Cases . Redeemable only in FFA MODE"
   }
  ],
- "updated": "2026-08-30T12:16:28.893Z",
+ "updated": "2026-08-31T18:14:13.870Z",
  "source": "https://robloxden.com/game-codes/snipers-vs-runners"
 }

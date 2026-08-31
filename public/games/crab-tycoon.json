@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BARNACLEBASH",
+   "reward": "110 Cash"
+  },
+  {
    "code": "CLAWMACHINE",
    "reward": "50 Cash"
   },
@@ -139,6 +143,6 @@
    "reward": "$50 Cash"
   }
  ],
- "updated": "2026-08-30T18:10:38.238Z",
+ "updated": "2026-08-31T18:17:19.069Z",
  "source": "https://robloxden.com/game-codes/crab-tycoon"
 }

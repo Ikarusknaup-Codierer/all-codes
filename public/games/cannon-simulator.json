@@ -15,18 +15,18 @@
    "reward": "a 2x Coins Boost"
   },
   {
-   "code": "Attacker",
-   "reward": "150 Coins"
-  },
-  {
    "code": "Dream",
    "reward": "1 Double Gems Boost"
   },
   {
-   "code": "5KLIKES",
-   "reward": "a 2x Damage Boost"
+   "code": "Flash",
+   "reward": "1 Faster Attack Boost"
+  },
+  {
+   "code": "FreeBoost",
+   "reward": "1 Double Coins Boost"
   }
  ],
- "updated": "2026-08-30T12:12:28.643Z",
+ "updated": "2026-08-31T18:09:48.988Z",
  "source": "https://robloxden.com/game-codes/cannon-simulator"
 }

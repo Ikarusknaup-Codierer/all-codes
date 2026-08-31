@@ -11,22 +11,22 @@
    "reward": "15,000 Cash"
   },
   {
-   "code": "1star",
-   "reward": "Changes the Police Star Alert to Level 1"
-  },
-  {
-   "code": "nighttime",
-   "reward": "Changes the Time of Day to 0:00 AM"
+   "code": "0star",
+   "reward": "Stops Police Pursuit"
   },
   {
    "code": "solazy",
    "reward": "Skips Objectives in the Story Missions"
   },
   {
-   "code": "PENTHOUSEFUN",
+   "code": "HIDEOUTS",
+   "reward": "10,000 Cash"
+  },
+  {
+   "code": "HEADSTART",
    "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-08-30T12:15:26.065Z",
+ "updated": "2026-08-31T18:13:05.029Z",
  "source": "https://robloxden.com/game-codes/thief-simulator"
 }

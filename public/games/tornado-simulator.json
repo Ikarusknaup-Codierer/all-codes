@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMER",
-   "reward": "20k Cash"
+   "code": "Cyclone",
+   "reward": "15,000 Cash"
+  },
+  {
+   "code": "INDUSTRIAL",
+   "reward": "5,000 Cash"
   },
   {
    "code": "BREEZE",
-   "reward": "10,000 Cash"
-  },
-  {
-   "code": "WHIRLING",
    "reward": "10,000 Cash"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-08-30T12:11:55.283Z",
+ "updated": "2026-08-31T18:09:20.551Z",
  "source": "https://robloxden.com/game-codes/tornado-simulator"
 }

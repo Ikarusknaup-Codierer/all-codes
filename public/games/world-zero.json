@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "HEAVENRAID",
-   "reward": "a Holy Key"
-  },
-  {
    "code": "925KLIKES",
    "reward": "150 Crystals"
   },
   {
    "code": "925LIKES",
    "reward": "150 Crystals"
+  },
+  {
+   "code": "HEAVENRAID",
+   "reward": "a Holy Key"
   },
   {
    "code": "NEWTUTORIAL",
@@ -67,6 +67,6 @@
    "reward": "150 Crystals"
   }
  ],
- "updated": "2026-08-30T12:16:05.528Z",
+ "updated": "2026-08-31T18:13:47.653Z",
  "source": "https://robloxden.com/game-codes/world-zero"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "freelevels",
+   "code": "500k",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "leveluphype",
    "reward": "5 Free Levels"
   },
   {
-   "code": "UPDATE7",
-   "reward": "Free Rewards"
+   "code": "updatealmostready",
+   "reward": "3 Free Levels"
   },
   {
-   "code": "5K",
-   "reward": "5,000 Cash"
+   "code": "update1hype",
+   "reward": "24 Hour X2 XP Boost"
   },
   {
-   "code": "BLACKCLOUDS",
-   "reward": "15,000 Cash"
-  },
-  {
-   "code": "LEVELUP",
-   "reward": "a 5 Level Boost and Double XP for 48 Hours"
+   "code": "turkeytime",
+   "reward": "48 Hour X2 XP Boost"
   }
  ],
- "updated": "2026-08-30T12:15:40.398Z",
+ "updated": "2026-08-31T18:13:20.620Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

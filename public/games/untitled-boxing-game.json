@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "thedoctorwillseeyousoon",
+   "reward": "15 Spins"
+  },
+  {
+   "code": "surgeon",
+   "reward": "5 Lucky Spins"
+  },
+  {
    "code": "3years",
    "reward": "5 Lucky Spins"
   },
@@ -39,6 +47,6 @@
    "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-08-30T06:13:01.631Z",
+ "updated": "2026-08-31T06:20:16.859Z",
  "source": "https://robloxden.com/game-codes/untitled-boxing-game"
 }

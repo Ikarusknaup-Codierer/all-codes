@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "UPGRADE",
-   "reward": "a reward"
+   "code": "ROBLOX",
+   "reward": "1,500 Gems"
   },
   {
-   "code": "Grinch",
-   "reward": "2 2x Snowflake Boosts"
+   "code": "SPOOKYMONTH",
+   "reward": "3 1.5x Stat Boosts"
   },
   {
-   "code": "3M",
-   "reward": "200 Gems"
-  },
-  {
-   "code": "UPDATE4",
+   "code": "RUNES",
    "reward": "100 Gems"
+  },
+  {
+   "code": "1NS4NITY",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "400K",
+   "reward": "250 Gems"
   }
  ],
- "updated": "2026-08-30T00:15:07.560Z",
+ "updated": "2026-08-31T06:12:28.740Z",
  "source": "https://robloxden.com/game-codes/insane-button-simulator"
 }

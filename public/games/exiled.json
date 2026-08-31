@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "20MVISITS",
+   "code": "30KLIKES",
    "reward": "Free rewards"
   },
   {
-   "code": "UPDATEDELAYED",
-   "reward": "Free rewards"
+   "code": "1MVISITS",
+   "reward": "2,500 Anoms"
   },
   {
-   "code": "200KFAVORITES",
-   "reward": "1,000 Tokens"
+   "code": "SORRYFORDELAY",
+   "reward": "500 Tokens"
   },
   {
-   "code": "PLSC0DE!",
-   "reward": "Flex Emote"
+   "code": "80KLIKES",
+   "reward": "500 Tokens"
   },
   {
-   "code": "10MILLIONVISITS",
-   "reward": "1,000 Tokens"
+   "code": "BEWITCHEDMYSTERIES",
+   "reward": "500 Tokens"
   }
  ],
- "updated": "2026-08-30T00:16:10.774Z",
+ "updated": "2026-08-31T06:13:24.877Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

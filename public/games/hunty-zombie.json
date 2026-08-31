@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Anniversary!",
+   "reward": "100 Lucky Spins of Each and 30 Traits"
+  },
+  {
+   "code": "ScytheEvolution!",
+   "reward": "100 Lucky Spins of Each and 30 Traits"
+  },
+  {
+   "code": "Dubstep!",
+   "reward": "100 Lucky Spins of Each and 30 Traits"
+  },
+  {
+   "code": "HappyBirthday!",
+   "reward": "30 Lucky Spins of Each and 20 Traits"
+  },
+  {
+   "code": "PartyBreaker!",
+   "reward": "30 Lucky Spins of Each and 20 Traits"
+  },
+  {
    "code": "Outbreak!",
    "reward": "Free Rewards"
   },
@@ -187,6 +207,6 @@
    "reward": "30 Lucky Weapon Spins and 30 Lucky Perk Spins"
   }
  ],
- "updated": "2026-08-30T00:13:45.548Z",
+ "updated": "2026-08-31T06:11:02.002Z",
  "source": "https://robloxden.com/game-codes/hunty-zombie"
 }

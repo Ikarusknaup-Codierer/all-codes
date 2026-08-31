@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BlackoutMode",
+   "reward": "400 Bricks"
+  },
+  {
    "code": "QualityCode",
    "reward": "400 Bricks"
   },
@@ -15,14 +19,14 @@
    "reward": "400 Bricks"
   },
   {
-   "code": "TitanDummyIsFraudXDD",
-   "reward": "300 Bricks"
+   "code": "TY1500Followers",
+   "reward": "750 Bricks"
   },
   {
-   "code": "SurgeonBotIsTuff",
-   "reward": "400 Bricks"
+   "code": "2kActivePlay",
+   "reward": "1,000 Bricks"
   }
  ],
- "updated": "2026-08-30T00:13:53.262Z",
+ "updated": "2026-08-31T06:11:06.178Z",
  "source": "https://robloxden.com/game-codes/dummy-defense"
 }

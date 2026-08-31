@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Playtime",
+   "reward": "300 Ethyr . You must be a Trusted Player to use this code"
+  },
+  {
    "code": "ancient",
    "reward": "a Template Ancient Scroll . You must be at least level 45 or above to "
   },
@@ -47,6 +51,6 @@
    "reward": "Stat Reset"
   }
  ],
- "updated": "2026-08-30T00:16:56.369Z",
+ "updated": "2026-08-31T06:14:09.979Z",
  "source": "https://robloxden.com/game-codes/vesteria"
 }

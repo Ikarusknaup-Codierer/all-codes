@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FORGWEEKEND!",
+   "reward": ""
+  },
+  {
    "code": "CAVE!",
    "reward": "5 Hammer Boxes and 250 Event Currency"
   },
@@ -21,12 +25,8 @@
   {
    "code": "UPDATE2",
    "reward": "30,000 Credits , 3 Hammer Boxes , and 280 Event Currency"
-  },
-  {
-   "code": "NOMORETROUBLESWITHPETS",
-   "reward": "300,000 Credits"
   }
  ],
- "updated": "2026-08-30T00:14:46.968Z",
+ "updated": "2026-08-31T06:11:54.234Z",
  "source": "https://robloxden.com/game-codes/forge-master"
 }

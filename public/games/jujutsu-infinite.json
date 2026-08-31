@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "EXCHANGE_OUT",
+   "code": "WINTER_END",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "EXCHANGE_20K",
    "reward": "100 Spins"
   },
   {
-   "code": "50K_FOLLOWERS",
-   "reward": "50 Spins And A Double Experience Boost"
+   "code": "HALLOWED_20K",
+   "reward": "100 Spins"
   },
   {
    "code": "SIX_EYED_CALAMITY",
    "reward": "200 Spins"
   },
   {
-   "code": "SOUL_BUFFS",
-   "reward": "100 Spins"
-  },
-  {
-   "code": "I_LOVE_SHUTDOWNS",
-   "reward": "50 Spins"
+   "code": "PATCH_SHUTDOWN",
+   "reward": "25 Spins"
   }
  ],
- "updated": "2026-08-30T00:17:10.916Z",
+ "updated": "2026-08-31T06:14:24.395Z",
  "source": "https://robloxden.com/game-codes/jujutsu-infinite"
 }

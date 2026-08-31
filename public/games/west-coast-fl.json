@@ -15,18 +15,18 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "ThanksGiving",
+   "code": "fireboats",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "yacht",
    "reward": ""
   },
   {
-   "code": "eventfail",
-   "reward": "500,000 Cash"
-  },
-  {
-   "code": "wakeboard",
-   "reward": "25,000 Cash"
+   "code": "revamp",
+   "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-08-30T00:15:25.796Z",
+ "updated": "2026-08-31T06:12:43.564Z",
  "source": "https://robloxden.com/game-codes/west-coast-fl"
 }

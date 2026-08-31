@@ -11,22 +11,22 @@
    "reward": "10 Gold"
   },
   {
-   "code": "SNOWFLAKE",
-   "reward": "50 Gold"
+   "code": "SPOOKY",
+   "reward": "30 Gold"
   },
   {
-   "code": "30MILVISITS",
-   "reward": "50 Gold"
+   "code": "BIOLUMINESCENT",
+   "reward": "30 Gold"
+  },
+  {
+   "code": "20MILLIONSOFVISITS",
+   "reward": "20 Gold"
   },
   {
    "code": "10MILLIONSOFVISITS",
    "reward": "25 Gold"
-  },
-  {
-   "code": "SINGLEPLAYER",
-   "reward": "20 Gold"
   }
  ],
- "updated": "2026-08-30T00:16:27.785Z",
+ "updated": "2026-08-31T06:13:42.798Z",
  "source": "https://robloxden.com/game-codes/lost-currents"
 }

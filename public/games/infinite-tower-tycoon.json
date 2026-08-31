@@ -19,10 +19,6 @@
    "reward": "Cash"
   },
   {
-   "code": "DRPPRS",
-   "reward": "Cash"
-  },
-  {
    "code": "25klikes",
    "reward": "Free Cash"
   },
@@ -147,6 +143,10 @@
    "reward": "Cash"
   },
   {
+   "code": "DRPPRS",
+   "reward": "Cash"
+  },
+  {
    "code": "PATH",
    "reward": "Cash"
   },
@@ -179,6 +179,6 @@
    "reward": "Free Cash"
   }
  ],
- "updated": "2026-08-30T06:10:06.438Z",
+ "updated": "2026-08-31T06:17:20.077Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

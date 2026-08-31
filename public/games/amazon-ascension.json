@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "SHUTDOWN",
+   "code": "TRADE",
    "reward": "Free Rewards"
   },
   {
@@ -19,10 +15,10 @@
    "reward": "400 Silver Dollars"
   },
   {
-   "code": "CalangoBR",
+   "code": "Ayoub",
    "reward": "400 Silver Dollars"
   }
  ],
- "updated": "2026-08-30T00:17:29.455Z",
+ "updated": "2026-08-31T06:14:41.261Z",
  "source": "https://robloxden.com/game-codes/amazon-ascension"
 }

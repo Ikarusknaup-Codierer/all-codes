@@ -11,7 +11,11 @@
    "reward": "100 Coins"
   },
   {
-   "code": "BEST1",
+   "code": "200KVISITS",
+   "reward": "Rewards"
+  },
+  {
+   "code": "300LIKES",
    "reward": "Rewards"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "PURPLOX_YT",
    "reward": "Potions"
-  },
-  {
-   "code": "HELMET",
-   "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-31T06:16:43.196Z",
+ "updated": "2026-09-01T12:24:28.909Z",
  "source": "https://robloxden.com/game-codes/2-player-sparta-tycoon"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "MASTERY1000",
+   "code": "2500likes",
    "reward": "Free Rewards"
   },
   {
-   "code": "HOOMANBBQ",
+   "code": "CHEST99",
    "reward": "Free Rewards"
   },
   {
-   "code": "QUEST300",
-   "reward": "300 Coins"
+   "code": "weekend4",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "60 Coins"
   },
   {
    "code": "21500LIKES",
    "reward": "1 Dash Skewer"
-  },
-  {
-   "code": "zinklog",
-   "reward": "45 Coins"
   }
  ],
- "updated": "2026-08-31T06:13:25.895Z",
+ "updated": "2026-09-01T12:21:18.890Z",
  "source": "https://robloxden.com/game-codes/human-bbq"
 }

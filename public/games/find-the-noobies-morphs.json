@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYLATEUPDATE",
+   "reward": "250 Celestia Stars"
+  },
+  {
+   "code": "SUB4BUNDUN",
+   "reward": "100 Coins and 50 Celestia Stars"
+  },
+  {
+   "code": "GRAVASTARWASHERE",
+   "reward": "100 Celestia Stars"
+  },
+  {
+   "code": "SUB4YULYONROBLOX",
+   "reward": "100 Coins and 50 Celestia Stars"
+  },
+  {
+   "code": "SUB4CODESHUNTERX4",
+   "reward": "100 Coins and 50 Celestia Stars"
+  },
+  {
+   "code": "SUB4KOKODORE",
+   "reward": "100 Coins and 50 Celestia Stars"
+  },
+  {
    "code": "WHITEKNIGHT",
    "reward": "an Exclusive White Knight Noobie"
   },
@@ -53,8 +77,12 @@
   {
    "code": "THANKSFORVERIFIED",
    "reward": "100 Coins"
+  },
+  {
+   "code": "HAPPYANNIVERSARYFTN1",
+   "reward": "Party Noobie Exclusive"
   }
  ],
- "updated": "2026-08-31T12:10:13.964Z",
+ "updated": "2026-09-01T12:27:55.469Z",
  "source": "https://robloxden.com/game-codes/find-the-noobies-morphs"
 }

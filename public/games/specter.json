@@ -15,10 +15,6 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "SPECTER3AGAIN",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "INFINITY",
    "reward": "5 Vault Tokens"
   },
@@ -32,10 +28,6 @@
   },
   {
    "code": "4SYLUM",
-   "reward": "an Exclusive Outfit and 5 Vault Tokens"
-  },
-  {
-   "code": "EASTER2025",
    "reward": "an Exclusive Outfit and 5 Vault Tokens"
   },
   {
@@ -53,6 +45,10 @@
   {
    "code": "TRID3NT",
    "reward": "3 Vault Tokens , an Exclusive Outfit , and a Motion Sensor"
+  },
+  {
+   "code": "SPECTER3AGAIN",
+   "reward": "Free Rewards"
   },
   {
    "code": "SPLASH",
@@ -85,8 +81,12 @@
   {
    "code": "JUNE2025",
    "reward": "a Free Skin"
+  },
+  {
+   "code": "EASTER2025",
+   "reward": "an Exclusive Outfit and 5 Vault Tokens"
   }
  ],
- "updated": "2026-08-31T06:11:12.313Z",
+ "updated": "2026-09-01T12:19:55.809Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

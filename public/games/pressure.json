@@ -19,14 +19,14 @@
    "reward": "-300 Kroner . This code takes away 300 kroner from your account"
   },
   {
-   "code": "YOURTAKINGTOOLONG",
-   "reward": "500 Kroner"
+   "code": "Decay",
+   "reward": "1 Revive"
   },
   {
-   "code": "SMILEYBOMB!!!",
-   "reward": "500 Kroner"
+   "code": "slederman",
+   "reward": "2 Revives"
   }
  ],
- "updated": "2026-08-31T12:09:18.285Z",
+ "updated": "2026-09-01T12:27:06.118Z",
  "source": "https://robloxden.com/game-codes/pressure"
 }

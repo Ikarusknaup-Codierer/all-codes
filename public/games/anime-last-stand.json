@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "RRSFORDAYS!",
+   "reward": "125 Technique Shards , 30 Perfect Stat Cubes , 50 Stat Cubes , and 5 S"
+  },
+  {
+   "code": "WelcomeBack!",
+   "reward": "10,000 Jewels , 25,000 Emeralds , 50 Technique Shards , and 10 Skill T"
+  },
+  {
+   "code": "ALSREVERT",
+   "reward": "100 Technique Shards , 40,000 Emeralds , 10 Mythic Shards , and 20 Ess"
+  },
+  {
+   "code": "ALSWORLD2",
+   "reward": "50 Technique Shards , 15 Mythic Shards , 10,000 Jewels , and 20 Perfec"
+  },
+  {
    "code": "ThankYouForBelieving!",
    "reward": "20 Cosmic Essence , 20 Water Essence , 20 Nature Essence , 5 Mythic Sp"
   },
@@ -171,6 +187,6 @@
    "reward": "100 Shard Locks"
   }
  ],
- "updated": "2026-08-31T12:10:14.618Z",
+ "updated": "2026-09-01T12:27:56.169Z",
  "source": "https://robloxden.com/game-codes/anime-last-stand"
 }

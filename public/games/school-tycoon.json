@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "like1500",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "like500",
    "reward": "20 Money"
+  },
+  {
+   "code": "rebirth",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "BUSUPDATE",
+   "reward": "500 Coins"
   },
   {
    "code": "THIRDFLOOR",
    "reward": "500 Coins"
   },
   {
-   "code": "study",
-   "reward": "500 Coins"
-  },
-  {
-   "code": "coolkid",
+   "code": "goals",
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-08-31T12:09:43.519Z",
+ "updated": "2026-09-01T12:27:31.448Z",
  "source": "https://robloxden.com/game-codes/school-tycoon"
 }

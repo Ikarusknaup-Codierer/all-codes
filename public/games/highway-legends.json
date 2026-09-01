@@ -19,28 +19,8 @@
    "reward": "50K Cash"
   },
   {
-   "code": "7mfavorites",
-   "reward": "45k Cash"
-  },
-  {
-   "code": "85mvisits",
-   "reward": "45k Cash"
-  },
-  {
    "code": "1millionmembers",
    "reward": "45K Cash"
-  },
-  {
-   "code": "5mfavorites",
-   "reward": "$45,000"
-  },
-  {
-   "code": "sorry4rollback",
-   "reward": "100,000 Cash"
-  },
-  {
-   "code": "65mvisits",
-   "reward": "Free Rewards"
   },
   {
    "code": "3mfavorites",
@@ -73,8 +53,28 @@
   {
    "code": "holeinthemap",
    "reward": "40,000 Cash"
+  },
+  {
+   "code": "7mfavorites",
+   "reward": "45k Cash"
+  },
+  {
+   "code": "85mvisits",
+   "reward": "45k Cash"
+  },
+  {
+   "code": "5mfavorites",
+   "reward": "$45,000"
+  },
+  {
+   "code": "sorry4rollback",
+   "reward": "100,000 Cash"
+  },
+  {
+   "code": "65mvisits",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-31T06:17:04.693Z",
+ "updated": "2026-09-01T12:24:51.821Z",
  "source": "https://robloxden.com/game-codes/highway-legends"
 }

@@ -11,22 +11,22 @@
    "reward": "10 Skill Spins"
   },
   {
-   "code": "35klikes",
-   "reward": "10 Free Spins For Nen, 10 Free Spins For Family, 10 Free Spins For Col"
+   "code": "sorry4delay2",
+   "reward": "15 Skill Spins"
+  },
+  {
+   "code": "negativeexp",
+   "reward": "5 Free Spins For Nen, 5 Free Spins For Family, 5 Free Spins For Color,"
   },
   {
    "code": "GenthruOp",
    "reward": "A Free Double XP Boost For 15 Minutes"
   },
   {
-   "code": "30klikes",
-   "reward": "10 Free Spins For Nen, 10 Free Spins For Family, 10 Free Spins For Col"
-  },
-  {
-   "code": "sorry4shutdown",
-   "reward": "Free Double Luck For 15 Minutes"
+   "code": "sorry4delay",
+   "reward": "5 Free Nen Spins"
   }
  ],
- "updated": "2026-08-31T06:15:51.389Z",
+ "updated": "2026-09-01T12:23:31.681Z",
  "source": "https://robloxden.com/game-codes/hunter-era"
 }

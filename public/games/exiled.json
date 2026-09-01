@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "30KLIKES",
+   "code": "UPDATEDELAYED",
    "reward": "Free rewards"
+  },
+  {
+   "code": "ISAGI!",
+   "reward": "5 Style Lucky Spins and 5 Flow Lucky Spins"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "2 Revive Tickets"
   },
   {
    "code": "1MVISITS",
    "reward": "2,500 Anoms"
   },
   {
-   "code": "SORRYFORDELAY",
-   "reward": "500 Tokens"
-  },
-  {
-   "code": "80KLIKES",
-   "reward": "500 Tokens"
-  },
-  {
-   "code": "BEWITCHEDMYSTERIES",
+   "code": "EXILEDP4TCH",
    "reward": "500 Tokens"
   }
  ],
- "updated": "2026-08-31T06:13:24.877Z",
+ "updated": "2026-09-01T12:21:17.842Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "fastspin",
+   "reward": "30 Spins , Fast Spin (30 Minutes) and a Resonated Spin"
+  },
+  {
    "code": "welcome",
    "reward": "30 Spins , 2 Spin Crystals , and 1.5x Exp (20 Minutes)"
   },
@@ -19,10 +23,10 @@
    "reward": "30 Spins and 3 Spin Crystals"
   },
   {
-   "code": "letslevelup",
-   "reward": "15 Resonated Spins and a 2XP Token"
+   "code": "starterspins2",
+   "reward": "Freebies"
   }
  ],
- "updated": "2026-08-31T06:13:44.806Z",
+ "updated": "2026-09-01T12:21:37.987Z",
  "source": "https://robloxden.com/game-codes/elemental-grounds"
 }

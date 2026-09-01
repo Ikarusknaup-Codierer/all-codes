@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "boatsandstuff",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "hello",
    "reward": "50,000 Cash"
   },
   {
-   "code": "fireboats",
+   "code": "boatsandstuff",
    "reward": "50,000 Cash"
   },
   {
-   "code": "yacht",
-   "reward": ""
+   "code": "boatboat",
+   "reward": "25,000 Cash"
+  },
+  {
+   "code": "fwc",
+   "reward": "50,000 Cash"
   },
   {
    "code": "revamp",
    "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-08-31T06:12:43.564Z",
+ "updated": "2026-09-01T12:20:40.177Z",
  "source": "https://robloxden.com/game-codes/west-coast-fl"
 }

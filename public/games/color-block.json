@@ -11,10 +11,6 @@
    "reward": "Free Coins"
   },
   {
-   "code": "like800k",
-   "reward": "Free Cash"
-  },
-  {
    "code": "like700k",
    "reward": "3400 Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "like500k",
    "reward": "Free Cash"
+  },
+  {
+   "code": "like900k",
+   "reward": "3,800 Cash"
   }
  ],
- "updated": "2026-08-31T06:19:24.027Z",
+ "updated": "2026-09-01T12:26:44.084Z",
  "source": "https://robloxden.com/game-codes/color-block"
 }

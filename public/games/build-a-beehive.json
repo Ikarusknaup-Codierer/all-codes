@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "1YTOGETHER",
+   "reward": "1x Fairy Elixir IV, and 1x Butterfly Pink Rose"
+  },
+  {
    "code": "HappyHoliday",
    "reward": "1 Fire Blossom Seed and 1 Bluebell Seed"
   },
   {
-   "code": "SweetHourEvent",
-   "reward": "1 Fairy Elixir II and 1 Morning Glory Seed"
-  },
-  {
-   "code": "E8CA45",
-   "reward": "500 Cash"
+   "code": "QueenBeeWait",
+   "reward": "5,000 Coins"
   },
   {
    "code": "SummerEvent",
@@ -27,6 +27,6 @@
    "reward": "the Mythic Bee"
   }
  ],
- "updated": "2026-08-31T06:13:42.298Z",
+ "updated": "2026-09-01T12:21:35.366Z",
  "source": "https://robloxden.com/game-codes/build-a-beehive"
 }

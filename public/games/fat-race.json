@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "SUN",
+   "reward": "2x Wins Potion"
+  },
+  {
    "code": "6M",
    "reward": "Hatch Only Toxic Food Potion"
   },
   {
-   "code": "ONSIDEKILLER",
-   "reward": "Hatch Only Toxic Food Potion"
+   "code": "3M",
+   "reward": "2x Luck Potion"
   },
   {
    "code": "RELEASE",
    "reward": "15-Minute 2x Wins Potion"
   },
   {
-   "code": "LuckyDay",
-   "reward": "15-Minute 2x Luck Potion"
-  },
-  {
-   "code": "1KLIKES",
-   "reward": "40 Gems and Rare Clover"
+   "code": "WELCOME",
+   "reward": "50 Gems and Rare Short Swords"
   }
  ],
- "updated": "2026-08-31T06:14:08.473Z",
+ "updated": "2026-09-01T12:22:01.956Z",
  "source": "https://robloxden.com/game-codes/fat-race"
 }

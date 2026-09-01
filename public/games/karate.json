@@ -11,18 +11,22 @@
    "reward": "375 Yen"
   },
   {
-   "code": "WINTERSEASON",
-   "reward": "1k EXP"
+   "code": "PATCHEDUP",
+   "reward": "1 Hour of 2x EXP"
   },
   {
-   "code": "CHERRYBLOSSOM",
-   "reward": "500 Yen"
+   "code": "DEMON",
+   "reward": "1-Hour Double EXP"
   },
   {
-   "code": "300KMEMBERS",
+   "code": "LEAFYFUN",
+   "reward": "250 Yen"
+  },
+  {
+   "code": "PUMPKINSPICE",
    "reward": "750 Yen"
   }
  ],
- "updated": "2026-08-31T12:09:47.190Z",
+ "updated": "2026-09-01T12:27:35.080Z",
  "source": "https://robloxden.com/game-codes/karate"
 }

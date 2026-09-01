@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE7",
+   "reward": "100 Gems"
+  },
+  {
    "code": "Ach1evements",
    "reward": "200 Gems"
   },
   {
-   "code": "Event_Part_2",
-   "reward": "10 Pumpkins"
+   "code": "Volcano",
+   "reward": "100 Gems"
   },
   {
-   "code": "Halloween_Event",
-   "reward": "250 Gems"
-  },
-  {
-   "code": "SUPERGHOST!",
-   "reward": "a 1.5x Halloween Stats Boost"
-  },
-  {
-   "code": "BoostsShop",
+   "code": "UPD_8",
    "reward": "a 2x Stats Boost"
   }
  ],
- "updated": "2026-08-31T00:10:44.257Z",
+ "updated": "2026-09-01T00:31:16.044Z",
  "source": "https://robloxden.com/game-codes/insane-button-simulator-2"
 }

@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "FORGEWEEKENDS",
-   "reward": "15 Rerolls"
-  },
-  {
-   "code": "MAZE!",
-   "reward": "5 Rerolls And 3 Fungi Potion"
-  },
-  {
-   "code": "XMAS!",
-   "reward": "5 Rerolls"
-  },
-  {
-   "code": "HEART",
+   "code": "FORGEWEEKENDS10",
    "reward": "10 Rerolls"
+  },
+  {
+   "code": "FORGEWEEKENDS2",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "DELAYCOMPENSATION",
+   "reward": "20 Rerolls and 1 Exp Totem"
+  },
+  {
+   "code": "SORRYFORSHUTDOWN",
+   "reward": "Free Rerolls"
   }
  ],
- "updated": "2026-08-30T18:22:38.897Z",
+ "updated": "2026-09-01T00:29:54.747Z",
  "source": "https://robloxden.com/game-codes/the-forge"
 }

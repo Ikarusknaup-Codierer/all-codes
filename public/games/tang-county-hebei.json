@@ -11,10 +11,6 @@
    "reward": "¥500,000"
   },
   {
-   "code": "SnowMap",
-   "reward": "150,000 RMB of in-game currency"
-  },
-  {
    "code": "PatchV39",
    "reward": "100,000 RMB of in-game currency"
   },
@@ -25,8 +21,12 @@
   {
    "code": "DatalossCompensation",
    "reward": "400,000 RMB of In-Game Cash"
+  },
+  {
+   "code": "CNY2025",
+   "reward": "¥300,000"
   }
  ],
- "updated": "2026-08-30T18:23:38.937Z",
+ "updated": "2026-09-01T00:30:58.879Z",
  "source": "https://robloxden.com/game-codes/tang-county-hebei"
 }

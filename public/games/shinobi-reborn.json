@@ -11,14 +11,6 @@
    "reward": "250 Spins"
   },
   {
-   "code": "!SORRYFORLATECODE",
-   "reward": "30,000 EXP"
-  },
-  {
-   "code": "!NIOREISTHEGOAT",
-   "reward": "999 Tokens"
-  },
-  {
    "code": "100EXTRA",
    "reward": "100 Spins"
   },
@@ -71,6 +63,14 @@
    "reward": "67 Ryo"
   },
   {
+   "code": "!SORRYFORLATECODE",
+   "reward": "30,000 EXP"
+  },
+  {
+   "code": "!NIOREISTHEGOAT",
+   "reward": "999 Tokens"
+  },
+  {
    "code": "STILLNOMYTHICS",
    "reward": "500 Spins"
   },
@@ -79,6 +79,6 @@
    "reward": "500 Spins"
   }
  ],
- "updated": "2026-08-30T18:22:59.717Z",
+ "updated": "2026-09-01T00:30:15.675Z",
  "source": "https://robloxden.com/game-codes/shinobi-reborn"
 }

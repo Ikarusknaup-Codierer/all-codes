@@ -15,18 +15,18 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "RELEASE",
-   "reward": "50 Levels , 50,000 Gold , and the Architect’s Robe (Mythic)"
-  },
-  {
-   "code": "1000LIKES!",
-   "reward": "400 Race Rerolls , 400 Class Rerolls , and 400 Trait Rerolls"
-  },
-  {
    "code": "MASSIVEW",
    "reward": "1,000 Race Rerolls , 1,000 Class Rerolls , and 1,000 Trait Rerolls"
+  },
+  {
+   "code": "100LIKES!",
+   "reward": "100 Race Rerolls , 100 Class Rerolls , and 100 Trait Rerolls"
+  },
+  {
+   "code": "50LIKES!",
+   "reward": "50 Race Rerolls , 50 Class Rerolls , and 50 Trait Rerolls"
   }
  ],
- "updated": "2026-08-30T18:12:49.535Z",
+ "updated": "2026-09-01T00:24:35.141Z",
  "source": "https://robloxden.com/game-codes/solo-leveling-incremental"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Welcome",
+   "reward": "30 Minutes Boost"
+  },
+  {
+   "code": "Swordburst",
+   "reward": "30 Minutes Boost"
+  },
+  {
+   "code": "Upgrade",
+   "reward": "10 Upgrade Crystals (excluding burst5) and 1 Upgrade Protection Scroll"
+  },
+  {
+   "code": "Revive",
+   "reward": "1 Resurrection Crystal"
+  },
+  {
    "code": "ilovered",
    "reward": "Red Equipment and Auras"
   },
@@ -67,6 +83,6 @@
    "reward": "a 30 Minutes boost"
   }
  ],
- "updated": "2026-08-30T18:19:53.365Z",
+ "updated": "2026-09-01T00:29:41.002Z",
  "source": "https://robloxden.com/game-codes/swordburst-2"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PLUSHIECODE",
+   "reward": "10 Cookie Buttons"
+  },
+  {
    "code": "FISHINGCLAW",
    "reward": "10 Sunken Coconuts"
   },
@@ -43,6 +47,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-08-31T00:12:04.706Z",
+ "updated": "2026-09-01T00:32:39.676Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

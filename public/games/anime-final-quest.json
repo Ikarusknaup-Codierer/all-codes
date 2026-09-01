@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BLACKMARKET",
+   "reward": "50 Gear Lucky Spins , 7 Soul Manipulator Hands , and 250,000 Gold"
+  },
+  {
+   "code": "DELAYCODEREDONE",
+   "reward": "50 Raid Tickets , 18 Statue Crowns , 15 Soul Manipulator Hands , 1.3M "
+  },
+  {
    "code": "FIXESDONE",
    "reward": "100 Raid Tickets , 150 Runes , and 10 Soul Manipulator Hands"
   },
@@ -17,6 +25,10 @@
   {
    "code": "CYBORGEVO",
    "reward": "80 Gear Lucky Spins and 50,000 Gold"
+  },
+  {
+   "code": "GOKUBLACK",
+   "reward": "50 Raid Tickets , 100 Runes , 50 Lucky Weapon Spins , and 500,000 Gold"
   },
   {
    "code": "DELAYFORGOKUBLACK",
@@ -155,6 +167,6 @@
    "reward": "50 Runes"
   }
  ],
- "updated": "2026-08-30T18:23:46.106Z",
+ "updated": "2026-09-01T00:31:06.796Z",
  "source": "https://robloxden.com/game-codes/anime-final-quest"
 }

@@ -47,20 +47,12 @@
    "reward": "5,000 Gems"
   },
   {
-   "code": "testersthanks",
-   "reward": "1,000 Gems"
-  },
-  {
    "code": "phoenix",
    "reward": "5,000 Gems"
   },
   {
    "code": "3mvisits",
    "reward": "3,000 Gems"
-  },
-  {
-   "code": "newboss",
-   "reward": "1,000 Gems"
   },
   {
    "code": "thankyou",
@@ -77,8 +69,16 @@
   {
    "code": "adrian",
    "reward": "10 Spins"
+  },
+  {
+   "code": "testersthanks",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "newboss",
+   "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-08-30T18:13:40.488Z",
+ "updated": "2026-09-01T00:25:30.111Z",
  "source": "https://robloxden.com/game-codes/robong-megabonk"
 }

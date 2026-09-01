@@ -11,10 +11,6 @@
    "reward": "1 Block Crate"
   },
   {
-   "code": "DAILY_QUESTS",
-   "reward": "1 Raid Crate 4"
-  },
-  {
    "code": "CC_CODE_8",
    "reward": "new units . TO use this code, you must have the Content Creator Role"
   },
@@ -49,8 +45,12 @@
   {
    "code": "THE_BOYS",
    "reward": "a The Boys Crate"
+  },
+  {
+   "code": "DAILY_QUESTS",
+   "reward": "1 Raid Crate 4"
   }
  ],
- "updated": "2026-08-30T18:14:01.407Z",
+ "updated": "2026-09-01T00:25:50.793Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

@@ -27,6 +27,14 @@
    "reward": "a Logistics Warehouse"
   },
   {
+   "code": "MARAUDER",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "INDEX",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "QOL",
    "reward": "1 Premium Crate"
   },
@@ -51,6 +59,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-08-30T18:13:43.627Z",
+ "updated": "2026-09-01T00:25:32.842Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

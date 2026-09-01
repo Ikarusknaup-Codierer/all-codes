@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WINGEDASSASSINULT",
-   "reward": "5 Free Emotes"
-  },
-  {
    "code": "AZUREMASTERYULT",
    "reward": "5 Blue Flame Mastery Progress"
   },
@@ -25,8 +21,12 @@
   {
    "code": "SORRYFORMAINTENANCE",
    "reward": "5 Free Emotes"
+  },
+  {
+   "code": "WINGEDASSASSINULT",
+   "reward": "5 Free Emotes"
   }
  ],
- "updated": "2026-08-30T18:17:10.822Z",
+ "updated": "2026-09-01T00:28:15.797Z",
  "source": "https://robloxden.com/game-codes/heroes-battlegrounds"
 }

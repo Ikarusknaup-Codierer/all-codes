@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "KIWI",
+   "reward": "5,000 Coins and 7,500 Shards"
+  },
+  {
    "code": "GALANTOSTUDIOS",
    "reward": "25K Coins"
   },
@@ -25,12 +29,8 @@
   {
    "code": "THXFORPLAYING",
    "reward": "5,000 Coins"
-  },
-  {
-   "code": "MORECOINS",
-   "reward": "10,000 Coins"
   }
  ],
- "updated": "2026-08-30T18:19:06.854Z",
+ "updated": "2026-09-01T00:29:29.679Z",
  "source": "https://robloxden.com/game-codes/sleep-for-ugc"
 }

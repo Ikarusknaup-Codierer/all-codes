@@ -19,10 +19,6 @@
    "reward": "3 World Boss Tokens"
   },
   {
-   "code": "50KINTERESTED",
-   "reward": "75,000 Coins , 100 Raid Tickets , 100 Trait Rerolls , 100 Normal Abili"
-  },
-  {
    "code": "25KINTERESTED",
    "reward": "500,000 Coins , 25 Raid Tickets , 25 Trait Rerolls , 15 Normal Ability"
   },
@@ -35,20 +31,8 @@
    "reward": "250000 Coins, 15 Raid Ticket 15 Trait Reroll 4 Normal Ability Spins, 4"
   },
   {
-   "code": "SORRYFORARESTART",
-   "reward": "250,000 Coins , 20 Raid Tickets , 30 Trait Rerolls , 20 Lucky Ability "
-  },
-  {
    "code": "SLEEPYPENGUSECRETCODE67",
    "reward": "1,000,000 Coins , 50 Trait Rerolls , 50 Lucky Ability Spins , 50 Lucky"
-  },
-  {
-   "code": "EYEPATCH",
-   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
-  },
-  {
-   "code": "WHITEREAPER",
-   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
   },
   {
    "code": "MAJORBUGFIX",
@@ -95,10 +79,26 @@
    "reward": "20 Trait Rolls , 250 Summer Coins , 20 Lucky Ability Spins , 15 Lucky "
   },
   {
+   "code": "50KINTERESTED",
+   "reward": "75,000 Coins , 100 Raid Tickets , 100 Trait Rerolls , 100 Normal Abili"
+  },
+  {
+   "code": "SORRYFORARESTART",
+   "reward": "250,000 Coins , 20 Raid Tickets , 30 Trait Rerolls , 20 Lucky Ability "
+  },
+  {
+   "code": "EYEPATCH",
+   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "WHITEREAPER",
+   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
    "code": "PATCHFIXES",
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-08-30T18:16:39.839Z",
+ "updated": "2026-09-01T00:27:45.153Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

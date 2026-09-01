@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "star",
-   "reward": "1,000 Credits"
-  },
-  {
-   "code": "HOLIDAY",
-   "reward": "A Candy Cane Board And Snowflake Wheels"
+   "code": "TisTheSeason",
+   "reward": "Free Credits"
   },
   {
    "code": "vacation",
@@ -23,10 +19,14 @@
    "reward": "1,000 Credits"
   },
   {
-   "code": "100K",
-   "reward": "3,000 Credits"
+   "code": "8K",
+   "reward": "2,000 Credits"
+  },
+  {
+   "code": "7K",
+   "reward": "1,000 Credits"
   }
  ],
- "updated": "2026-08-31T12:15:44.354Z",
+ "updated": "2026-09-01T18:22:35.451Z",
  "source": "https://robloxden.com/game-codes/skate-park"
 }

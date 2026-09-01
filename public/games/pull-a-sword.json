@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "QUIZ",
+   "reward": "2 World Tickets"
+  },
+  {
    "code": "GIFTING",
    "reward": "3 Cup Potions"
   },
@@ -415,6 +419,6 @@
    "reward": "1 Strength Potion , 2 Dark Strength Potions and 1 Mega Potion"
   }
  ],
- "updated": "2026-08-31T12:11:46.302Z",
+ "updated": "2026-09-01T18:19:08.542Z",
  "source": "https://robloxden.com/game-codes/pull-a-sword"
 }

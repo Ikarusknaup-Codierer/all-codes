@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RELEASE",
+   "reward": "5 Wins"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "35 Wins"
   },
@@ -21,12 +25,8 @@
   {
    "code": "7MILLIONSVISITS",
    "reward": "70 Wins"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "5 Wins"
   }
  ],
- "updated": "2026-08-31T12:17:40.774Z",
+ "updated": "2026-09-01T18:24:37.352Z",
  "source": "https://robloxden.com/game-codes/backrooms-race-clicker"
 }

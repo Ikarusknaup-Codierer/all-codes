@@ -15,18 +15,18 @@
    "reward": "1,500 School Points"
   },
   {
-   "code": "newupdate",
-   "reward": "500 Cash"
-  },
-  {
    "code": "homework",
    "reward": "500 Cash"
   },
   {
-   "code": "goals",
+   "code": "THIRDFLOOR",
+   "reward": "3,000 Cash"
+  },
+  {
+   "code": "study",
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-08-31T12:16:16.184Z",
+ "updated": "2026-09-01T18:23:11.629Z",
  "source": "https://robloxden.com/game-codes/my-school-tycoon"
 }

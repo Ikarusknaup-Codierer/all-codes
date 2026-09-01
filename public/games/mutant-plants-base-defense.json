@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BUGFIX74656",
+   "reward": "20 Secret Shards"
+  },
+  {
    "code": "BUGFIX045214",
    "reward": "10 Shadow Grenades"
   },
@@ -71,6 +75,6 @@
    "reward": "10 Void-Grenades"
   }
  ],
- "updated": "2026-08-31T12:16:26.040Z",
+ "updated": "2026-09-01T18:23:22.694Z",
  "source": "https://robloxden.com/game-codes/mutant-plants-base-defense"
 }

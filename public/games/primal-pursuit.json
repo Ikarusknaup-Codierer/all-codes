@@ -19,10 +19,6 @@
    "reward": "Zarc Pistol"
   },
   {
-   "code": "60KL1KES",
-   "reward": "450 Bones"
-  },
-  {
    "code": "MONSTER",
    "reward": "300 Pumpkins"
   },
@@ -53,8 +49,12 @@
   {
    "code": "CHRISTMAS",
    "reward": "200 Candy Canes"
+  },
+  {
+   "code": "60KL1KES",
+   "reward": "450 Bones"
   }
  ],
- "updated": "2026-08-31T12:15:57.139Z",
+ "updated": "2026-09-01T18:22:49.294Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

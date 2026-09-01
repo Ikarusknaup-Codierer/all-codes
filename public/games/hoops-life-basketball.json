@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Spooky",
-   "reward": "100 Halloween Coins"
-  },
-  {
    "code": "CoinsStage",
    "reward": "100 Coins"
   },
   {
-   "code": "BugFix",
+   "code": "Snatchback",
    "reward": "100 Coins"
   },
   {
-   "code": "Mascots",
-   "reward": "250 Coins"
+   "code": "NewContent",
+   "reward": "50 EXP"
+  },
+  {
+   "code": "50XP",
+   "reward": "50 EXP"
   },
   {
    "code": "100XP",
    "reward": "100 EXP"
   }
  ],
- "updated": "2026-08-31T12:17:43.585Z",
+ "updated": "2026-09-01T18:24:38.935Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

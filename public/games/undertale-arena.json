@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "TRYKRIS",
-   "reward": "One-Life Kris"
-  },
-  {
    "code": "TUTORIALCODE",
    "reward": "40 Souls, 35,000 XP, 38,000 DT, 500 Gold"
   },
   {
    "code": "FREEGOLD",
    "reward": "1 Exp , 1 Soul , 1 DT and 500 Gold"
+  },
+  {
+   "code": "TRYKRIS",
+   "reward": "One-Life Kris"
   },
   {
    "code": "JARONA",
@@ -123,6 +123,6 @@
    "reward": "1 Exp , 1 Soul , 1 DT , 500 Gold , 1 Life Ink , 1 Life Genosans and 1 "
   }
  ],
- "updated": "2026-08-31T12:14:56.946Z",
+ "updated": "2026-09-01T18:21:53.939Z",
  "source": "https://robloxden.com/game-codes/undertale-arena"
 }

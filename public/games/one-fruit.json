@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "ThanksForWaiting",
+   "reward": "4 Hours of Drop, Stats, Exp, Coins, and Mastery Boosts , 15 Raid Scrol"
+  },
+  {
+   "code": "MoreToCome",
+   "reward": "1 Hour of Drop, Stats, Exp, Coins, and Mastery Boosts , 8 Raid Scrolls"
+  },
+  {
+   "code": "DarkxTremorBuff",
+   "reward": "1 Hour of Drop, Stats, Exp, Coins, and Mastery Boosts , 8 Raid Scrolls"
+  },
+  {
+   "code": "QualityUpdate",
+   "reward": "1 Hour of Drop, Stats, Exp, Coins, and Mastery Boosts , 8 Raid Scrolls"
+  },
+  {
    "code": "1kInterests",
    "reward": "4 Hours of Drop, Stats, Exp, Coins, and Mastery Boosts , 15 Raid Scrol"
   },
@@ -247,6 +263,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-31T12:16:24.000Z",
+ "updated": "2026-09-01T18:23:20.141Z",
  "source": "https://robloxden.com/game-codes/one-fruit"
 }

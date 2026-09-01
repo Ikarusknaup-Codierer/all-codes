@@ -15,14 +15,10 @@
    "reward": "3,000 Gold and 200 Guild Exp"
   },
   {
-   "code": "RESETSTATS",
-   "reward": "1 Skill Tree Reset"
-  },
-  {
-   "code": "!update30",
-   "reward": "5 Musan Blood, 5 Wipes and 5 Breath Indict"
+   "code": "!MAINTENANCE",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-08-31T18:09:58.749Z",
+ "updated": "2026-09-01T18:26:14.621Z",
  "source": "https://robloxden.com/game-codes/demonfall"
 }

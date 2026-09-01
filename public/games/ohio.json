@@ -11,22 +11,22 @@
    "reward": "Helicopter Keys"
   },
   {
-   "code": "MERRYCHRISTMAS",
-   "reward": "$2,000 Cash"
-  },
-  {
    "code": "RICHINOHIO",
    "reward": "1,600 Cash"
   },
   {
-   "code": "OHIOMOMENT",
-   "reward": "300 Cash"
+   "code": "MANSION",
+   "reward": ""
   },
   {
-   "code": "LUCKY",
-   "reward": "5,000 Cash"
+   "code": "POLICE",
+   "reward": ""
+  },
+  {
+   "code": "TASER",
+   "reward": "the Taser"
   }
  ],
- "updated": "2026-08-31T12:17:47.472Z",
+ "updated": "2026-09-01T18:24:42.084Z",
  "source": "https://robloxden.com/game-codes/ohio"
 }

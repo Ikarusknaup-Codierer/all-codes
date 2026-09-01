@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "LuckyWeekend",
-   "reward": "Reward"
-  },
-  {
    "code": "14KLIKES",
    "reward": "50 Upgrade Tokens"
   },
   {
-   "code": "LiberatorMeta",
-   "reward": "10 Liberator"
+   "code": "GoldRushMillion",
+   "reward": "1,000,000 of 2x Money Boost"
+  },
+  {
+   "code": "1MVisits",
+   "reward": "100 Stars"
+  },
+  {
+   "code": "5000Likes",
+   "reward": "10 Upgrade Tokens"
   },
   {
    "code": "RegenJumpscare",
    "reward": "40 Stars"
-  },
-  {
-   "code": "Sorry4Shutdowns",
-   "reward": "100 Stars"
   }
  ],
- "updated": "2026-08-31T12:14:28.808Z",
+ "updated": "2026-09-01T18:21:24.509Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

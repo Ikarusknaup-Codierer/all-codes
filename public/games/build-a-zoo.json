@@ -23,10 +23,6 @@
    "reward": "Freebies"
   },
   {
-   "code": "ZooFarmers",
-   "reward": "1 Pineapple and 10 Lucky Tickets"
-  },
-  {
    "code": "LandCompensation",
    "reward": "3 Turkey Eggs , 1 Dragon Fruit , and 2,000 Diamonds"
   },
@@ -69,8 +65,12 @@
   {
    "code": "RABBITHAT30",
    "reward": "1 Sacred Deer Egg"
+  },
+  {
+   "code": "ZooFarmers",
+   "reward": "1 Pineapple and 10 Lucky Tickets"
   }
  ],
- "updated": "2026-08-31T00:14:27.963Z",
+ "updated": "2026-09-01T06:21:27.662Z",
  "source": "https://robloxden.com/game-codes/build-a-zoo"
 }

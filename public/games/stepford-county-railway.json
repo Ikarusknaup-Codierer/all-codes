@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HAPPY2026",
-   "reward": "50% Off All Metro Trains"
+   "code": "HOILDAYS",
+   "reward": "25% off all routes"
   },
   {
-   "code": "50CHRISTMAS",
-   "reward": "50% Sale For All Metro Routes Until New Years Eve"
-  },
-  {
-   "code": "UPALLNIGHT",
-   "reward": "Unknown Reward"
+   "code": "TRICKORTREAT",
+   "reward": "20% off all routes"
   },
   {
    "code": "SCR100K",
    "reward": "90% off all routes"
   },
   {
-   "code": "SCR200K",
-   "reward": "20% off everything"
+   "code": "HOLIDAYS",
+   "reward": "25% off all routes"
+  },
+  {
+   "code": "SCR500K",
+   "reward": "50% off all trains"
   }
  ],
- "updated": "2026-08-31T06:12:24.672Z",
+ "updated": "2026-09-01T06:27:35.878Z",
  "source": "https://robloxden.com/game-codes/stepford-county-railway"
 }

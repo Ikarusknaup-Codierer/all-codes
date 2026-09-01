@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "oneyear",
-   "reward": "5K Gems"
-  },
-  {
    "code": "wave",
    "reward": "1000 Gem"
   },
@@ -23,10 +19,14 @@
    "reward": "300 Gems"
   },
   {
-   "code": "Spaxy",
-   "reward": "1 Fish"
+   "code": "oneyear",
+   "reward": "5K Gems"
+  },
+  {
+   "code": "FanumAteAura",
+   "reward": "1 Aura Potion"
   }
  ],
- "updated": "2026-08-31T00:17:32.410Z",
+ "updated": "2026-09-01T06:24:08.605Z",
  "source": "https://robloxden.com/game-codes/brainrot-tower-defense"
 }

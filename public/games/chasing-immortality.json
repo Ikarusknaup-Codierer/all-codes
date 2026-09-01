@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SLEEPINGFR",
+   "reward": "400 SF"
+  },
+  {
    "code": "REDEPEMTION",
    "reward": "10 Tribulation Pills"
   },
@@ -55,12 +59,28 @@
    "reward": "2 Heavenly Tribulation Pills"
   },
   {
-   "code": "2NDPART",
-   "reward": "2 Heavenly Tribulation Pills"
-  },
-  {
    "code": "GAMENEEDSREVIVE",
    "reward": "1 Heavenly Tribulation Pill"
+  },
+  {
+   "code": "PATIENCEISAVIRTUE",
+   "reward": "a Heavens Pill"
+  },
+  {
+   "code": "PATIENCE",
+   "reward": "a Heavens Pill"
+  },
+  {
+   "code": "PLEASEREVIVE",
+   "reward": "300 SF"
+  },
+  {
+   "code": "ARTRESTART",
+   "reward": "1 Heavenly Pill"
+  },
+  {
+   "code": "2NDPART",
+   "reward": "2 Heavenly Tribulation Pills"
   },
   {
    "code": "OUTOFOPENTEST",
@@ -79,30 +99,14 @@
    "reward": "1 Heavens Pill 2.0"
   },
   {
-   "code": "PATIENCEISAVIRTUE",
-   "reward": "a Heavens Pill"
-  },
-  {
-   "code": "PATIENCE",
-   "reward": "a Heavens Pill"
-  },
-  {
    "code": "WHENRELEASE",
    "reward": "200 KP"
   },
   {
-   "code": "PLEASEREVIVE",
-   "reward": "300 SF"
-  },
-  {
    "code": "SIXTHUPDATE",
    "reward": "1 Lucky Reroll"
-  },
-  {
-   "code": "ARTRESTART",
-   "reward": "1 Heavenly Pill"
   }
  ],
- "updated": "2026-08-31T00:12:19.476Z",
+ "updated": "2026-09-01T06:19:46.021Z",
  "source": "https://robloxden.com/game-codes/chasing-immortality"
 }

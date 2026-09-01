@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WHOOSH",
+   "reward": "Tornado Accessory"
+  },
+  {
+   "code": "Verity",
+   "reward": "Jigsaw Mask Accessory"
+  },
+  {
    "code": "Breakfast",
    "reward": "the Breakfast Hat"
   },
@@ -35,6 +43,6 @@
    "reward": "Apple"
   }
  ],
- "updated": "2026-08-31T00:17:27.271Z",
+ "updated": "2026-09-01T06:24:03.665Z",
  "source": "https://robloxden.com/game-codes/vorton"
 }

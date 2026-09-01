@@ -7,12 +7,24 @@
    "reward": "Description"
   },
   {
-   "code": "SORRY",
-   "reward": "3 Boss Potions and 2 5000-Roll Packs"
+   "code": "CURSED",
+   "reward": "Freebies . You need at least 50K Rolls to use this code"
   },
   {
-   "code": "50KLIKES",
-   "reward": "2K Gold, 5 Medium Luck Potions, 5 Boss Potions, 1 5000-Roll Pack, 5 Tr"
+   "code": "SHARD",
+   "reward": "Freebies . You need at least 50K Rolls to use this code"
+  },
+  {
+   "code": "WORLD12",
+   "reward": "Freebies . You need at least 50K Rolls to use this code"
+  },
+  {
+   "code": "ABSOLUTEZERO",
+   "reward": "Freebies . You need at least 250K Rolls to use this code"
+  },
+  {
+   "code": "NEWTRAITSS",
+   "reward": "Freebies . You need at least 10K Rolls to use this code"
   },
   {
    "code": "GRAZIE",
@@ -37,6 +49,14 @@
   {
    "code": "THANKS",
    "reward": "500 Gold, 3 Medium Luck Potions and 3 1000-Roll Packs"
+  },
+  {
+   "code": "SORRY",
+   "reward": "3 Boss Potions and 2 5000-Roll Packs"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "2K Gold, 5 Medium Luck Potions, 5 Boss Potions, 1 5000-Roll Pack, 5 Tr"
   },
   {
    "code": "5KPLAYERS",
@@ -183,6 +203,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-08-31T00:11:37.413Z",
+ "updated": "2026-09-01T06:19:27.082Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WUBBY",
+   "reward": "Unknown Reward"
+  },
+  {
    "code": "600KVISITS",
    "reward": "Unknown Reward"
   },
@@ -21,12 +25,8 @@
   {
    "code": "HOSHISOON",
    "reward": "1,000 Ichor"
-  },
-  {
-   "code": "DANGO",
-   "reward": "3,500 Ichor"
   }
  ],
- "updated": "2026-08-31T00:16:02.368Z",
+ "updated": "2026-09-01T06:22:48.294Z",
  "source": "https://robloxden.com/game-codes/dandys-world-omega-modded"
 }

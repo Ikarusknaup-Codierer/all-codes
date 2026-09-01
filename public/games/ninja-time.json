@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Yata!",
+   "reward": "15 Spins"
+  },
+  {
+   "code": "UltimateRaven!",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "RavensDespair!",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "ThankYouFor7KInterested!",
+   "reward": "25 Spins"
+  },
+  {
+   "code": "Totsuka!",
+   "reward": "15 Spins"
+  },
+  {
    "code": "Wired!",
    "reward": "15 Spins of all types"
   },
@@ -39,6 +59,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-08-31T00:15:01.079Z",
+ "updated": "2026-09-01T06:21:59.102Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

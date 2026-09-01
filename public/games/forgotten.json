@@ -31,10 +31,6 @@
    "reward": "1,000,000 Cash"
   },
   {
-   "code": "rerelease",
-   "reward": "100,000 Cash"
-  },
-  {
    "code": "gamefix",
    "reward": "650,000 Cash"
   },
@@ -61,8 +57,12 @@
   {
    "code": "noli",
    "reward": "50,000 Cash and an Observer Noli Skin"
+  },
+  {
+   "code": "rerelease",
+   "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-08-31T06:10:35.048Z",
+ "updated": "2026-09-01T06:26:09.597Z",
  "source": "https://robloxden.com/game-codes/forgotten"
 }

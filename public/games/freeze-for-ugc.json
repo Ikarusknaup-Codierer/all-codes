@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ALXOBYTE",
+   "reward": "750 Time"
+  },
+  {
    "code": "ARTGOAT",
    "reward": "250 Time"
   },
@@ -45,12 +49,8 @@
   {
    "code": "NEWUGC",
    "reward": "500 Time"
-  },
-  {
-   "code": "WEEKEND",
-   "reward": "500 Time"
   }
  ],
- "updated": "2026-08-31T00:19:48.446Z",
+ "updated": "2026-09-01T06:25:42.551Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

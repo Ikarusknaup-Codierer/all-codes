@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE43",
+   "reward": "5,000 Tokens , 100 Souls , 50 Endo Chips , 50 Soldering Irons , and 5 "
+  },
+  {
+   "code": "BULLDOZER",
+   "reward": "10,000 Tokens , 250 Souls , and 25 Season Presents . You must have a m"
+  },
+  {
+   "code": "MAGICIAN",
+   "reward": "25,000 Tokens , 350 Souls , 50 Season Presents , 5 Anniversary Present"
+  },
+  {
    "code": "Happy12YearsFNAF!",
    "reward": "50 Anniversary Presents , 12,000 Tokens , 1,200 Untradable Souls , 120"
   },
@@ -107,6 +119,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-08-31T00:15:03.434Z",
+ "updated": "2026-09-01T06:22:00.985Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

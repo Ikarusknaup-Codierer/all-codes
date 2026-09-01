@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ASSISTS",
-   "reward": "40,000 Cash"
-  },
-  {
    "code": "IAMAFISH",
    "reward": "20,000 Cash"
   },
@@ -24,6 +20,10 @@
   },
   {
    "code": "QOLUPDATE",
+   "reward": "40,000 Cash"
+  },
+  {
+   "code": "ASSISTS",
    "reward": "40,000 Cash"
   },
   {
@@ -99,6 +99,6 @@
    "reward": "25k Cash"
   }
  ],
- "updated": "2026-08-31T00:14:35.185Z",
+ "updated": "2026-09-01T06:21:34.531Z",
  "source": "https://robloxden.com/game-codes/blue-lock-skibidi"
 }

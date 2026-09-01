@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "DUELS",
+   "reward": "Luxury Crate"
+  },
+  {
    "code": "JUSTFORFUN",
    "reward": "a Primordial Crate"
   },
   {
-   "code": "GENEROCITY",
-   "reward": ""
+   "code": "33KLIKES",
+   "reward": "1,000 Cash"
   },
   {
-   "code": "300KF",
-   "reward": "5,000 Coins and the FAMAS Desert Camo Skin"
+   "code": "ONESHOT",
+   "reward": "A Red AWP"
   },
   {
-   "code": "STREETS",
-   "reward": "2 Street Crates"
+   "code": "HAL9000",
+   "reward": "1 Frostbite Crate"
   }
  ],
- "updated": "2026-08-31T00:16:40.005Z",
+ "updated": "2026-09-01T06:23:21.180Z",
  "source": "https://robloxden.com/game-codes/combat-arena"
 }

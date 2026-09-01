@@ -19,20 +19,20 @@
    "reward": "15 Spins and 10 Uncommon"
   },
   {
-   "code": "2500LesGoo",
-   "reward": "5 Spins and 10 Uncommon Spins"
-  },
-  {
    "code": "3000Likes!",
    "reward": "10 Spins and 20 Uncommon Spins"
   },
   {
-   "code": "3500Likes!!",
-   "reward": "15 Spins and 25 Uncommon Spins"
+   "code": "GibGold",
+   "reward": "50 Gold"
   },
   {
-   "code": "ChristmasTime!",
-   "reward": "25 Spins , 20 Uncommon Spins and 50 Candy Cane"
+   "code": "2500LesGoo",
+   "reward": "5 Spins and 10 Uncommon Spins"
+  },
+  {
+   "code": "3500Likes!!",
+   "reward": "15 Spins and 25 Uncommon Spins"
   },
   {
    "code": "HappyNewYear!",
@@ -45,12 +45,8 @@
   {
    "code": "LennyIzC0ol",
    "reward": "10 Trait Spins"
-  },
-  {
-   "code": "GibGold",
-   "reward": "50 Gold"
   }
  ],
- "updated": "2026-08-31T06:10:52.358Z",
+ "updated": "2026-09-01T06:26:26.772Z",
  "source": "https://robloxden.com/game-codes/world-of-heroes"
 }

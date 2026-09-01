@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "LegendarySuperSaiyan!",
+   "reward": "5 Luck Potions , 5 Gem Potions , and 2 ALL Other Potions . You must be"
+  },
+  {
+   "code": "Broly!",
+   "reward": "35 Rogue’s Blessings , 20 Lucky Boxes , 250 Mythic Chests , 250 Legend"
+  },
+  {
+   "code": "BanishedSaiyan!!",
+   "reward": "15 Rogue’s Blessings , 15 Lucky Boxes , 150 Mythic Chests , 150 Legend"
+  },
+  {
    "code": "RimuruDelay",
    "reward": "5 Luck Potions , 5 Gem Potions , and 2 ALL Other Potions"
   },
@@ -83,6 +95,6 @@
    "reward": "Shards , Chest , and Rogue Fragments . You must be level 11,500 to cla"
   }
  ],
- "updated": "2026-08-31T00:14:50.314Z",
+ "updated": "2026-09-01T06:21:48.813Z",
  "source": "https://robloxden.com/game-codes/rogue-piece"
 }

@@ -31,14 +31,6 @@
    "reward": "750 Seeds"
   },
   {
-   "code": "PROFILE",
-   "reward": "500 Seeds"
-  },
-  {
-   "code": "SENTRY",
-   "reward": "750 Seeds"
-  },
-  {
    "code": "SPRINKLORD",
    "reward": "500 Seeds"
   },
@@ -53,8 +45,16 @@
   {
    "code": "PITY",
    "reward": "750 Seeds"
+  },
+  {
+   "code": "PROFILE",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "SENTRY",
+   "reward": "750 Seeds"
   }
  ],
- "updated": "2026-08-31T00:17:36.817Z",
+ "updated": "2026-09-01T06:24:12.626Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

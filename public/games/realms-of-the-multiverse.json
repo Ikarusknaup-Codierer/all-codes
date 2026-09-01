@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "itstime",
-   "reward": "2,000 Coins"
-  },
-  {
-   "code": "reborn",
-   "reward": "Free Coins"
-  },
-  {
-   "code": "charmed",
+   "code": "ashes",
    "reward": "500 Coins"
   },
   {
-   "code": "littlewitch",
+   "code": "merryxmas",
+   "reward": "Free Coins"
+  },
+  {
+   "code": "witchinghour",
+   "reward": "3,000 Coins"
+  },
+  {
+   "code": "AGATHA",
    "reward": "250 Coins"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "Free Coins"
   }
  ],
- "updated": "2026-08-31T00:19:19.600Z",
+ "updated": "2026-09-01T06:25:27.946Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

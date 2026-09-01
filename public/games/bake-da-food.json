@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "GOLD",
+   "reward": "1K Cash"
+  },
+  {
    "code": "1000LIKES",
    "reward": "1K Cash, 2 Gold Carrots, 1 Gold Tomato and 1 Gold Bacon"
   },
@@ -19,10 +23,10 @@
    "reward": "$5,000"
   },
   {
-   "code": "200LIKES",
-   "reward": "$5,000 , 5 Gold Sausages , and 2 Gold Tomatoes"
+   "code": "UPDATE2",
+   "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-08-31T00:12:17.923Z",
+ "updated": "2026-09-01T06:19:44.541Z",
  "source": "https://robloxden.com/game-codes/bake-da-food"
 }

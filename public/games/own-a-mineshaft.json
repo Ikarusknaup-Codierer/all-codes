@@ -11,12 +11,12 @@
    "reward": "100 Cash"
   },
   {
-   "code": "20KLIKES",
+   "code": "SUNKEN",
    "reward": ""
   },
   {
-   "code": "SUNKEN",
-   "reward": ""
+   "code": "SORRYFORBUGS",
+   "reward": "1 Speed Potion"
   },
   {
    "code": "CRAFTING",
@@ -27,6 +27,6 @@
    "reward": "100 Cash and 1 Luck Potion"
   }
  ],
- "updated": "2026-09-01T06:21:33.087Z",
+ "updated": "2026-09-02T12:21:24.901Z",
  "source": "https://robloxden.com/game-codes/own-a-mineshaft"
 }

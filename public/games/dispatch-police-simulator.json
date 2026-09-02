@@ -15,20 +15,8 @@
    "reward": "321 Cash"
   },
   {
-   "code": "10-4",
-   "reward": "321 Cash"
-  },
-  {
-   "code": "hello",
-   "reward": "141 Cash"
-  },
-  {
    "code": "itsme",
    "reward": "414 Cash"
-  },
-  {
-   "code": "2026",
-   "reward": "123 Cash"
   },
   {
    "code": "RUDOLPH",
@@ -69,8 +57,20 @@
   {
    "code": "DETECT",
    "reward": "222 Cash"
+  },
+  {
+   "code": "10-4",
+   "reward": "321 Cash"
+  },
+  {
+   "code": "hello",
+   "reward": "141 Cash"
+  },
+  {
+   "code": "2026",
+   "reward": "123 Cash"
   }
  ],
- "updated": "2026-09-01T06:24:07.090Z",
+ "updated": "2026-09-02T12:23:56.219Z",
  "source": "https://robloxden.com/game-codes/dispatch-police-simulator"
 }

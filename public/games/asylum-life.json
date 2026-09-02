@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "10K",
+   "reward": "a Notified title"
+  },
+  {
    "code": "RECRUIT",
    "reward": "3x EXP Booster"
   },
   {
-   "code": "VIPREVISIONS",
-   "reward": "a 3x EXP Booster"
-  },
-  {
    "code": "DOOMSDAY",
    "reward": "the Metal Shard Skin"
+  },
+  {
+   "code": "RADIO",
+   "reward": "2x XP Boost"
   }
  ],
- "updated": "2026-09-01T06:26:47.967Z",
+ "updated": "2026-09-02T12:26:28.880Z",
  "source": "https://robloxden.com/game-codes/asylum-life"
 }

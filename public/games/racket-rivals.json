@@ -7,20 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "SCORE",
-   "reward": "750 Yen"
-  },
-  {
-   "code": "CARD",
-   "reward": "750 Yen"
-  },
-  {
    "code": "500M",
    "reward": "a 200 Yen , a Spirit Pack , 2 Standard Packs , a Rackets Pack , and a "
   },
   {
    "code": "SEASON2BUG",
    "reward": "1,500 Season Pass XP"
+  },
+  {
+   "code": "SCORE",
+   "reward": "750 Yen"
+  },
+  {
+   "code": "CARD",
+   "reward": "750 Yen"
   },
   {
    "code": "SPIRIT10",
@@ -51,6 +51,6 @@
    "reward": "1,000 Yen"
   }
  ],
- "updated": "2026-09-01T06:25:17.426Z",
+ "updated": "2026-09-02T12:25:05.352Z",
  "source": "https://robloxden.com/game-codes/racket-rivals"
 }

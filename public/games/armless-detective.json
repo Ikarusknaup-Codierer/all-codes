@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "snowcone",
-   "reward": "20 Seashells and a Summer Crate"
-  },
-  {
-   "code": "snowconedelayed",
-   "reward": "a Summer Crate"
-  },
-  {
    "code": "70millionvisits",
    "reward": "2 Random Crates and 70 Coins"
   },
@@ -43,6 +35,14 @@
    "reward": "20 Credits"
   },
   {
+   "code": "snowcone",
+   "reward": "20 Seashells and a Summer Crate"
+  },
+  {
+   "code": "snowconedelayed",
+   "reward": "a Summer Crate"
+  },
+  {
    "code": "rtdcollab",
    "reward": "40 Player Points and 1x Suit Crate 1"
   },
@@ -55,6 +55,6 @@
    "reward": "2 Random Crates and 65 Coins"
   }
  ],
- "updated": "2026-09-01T06:22:08.890Z",
+ "updated": "2026-09-02T12:21:57.168Z",
  "source": "https://robloxden.com/game-codes/armless-detective"
 }

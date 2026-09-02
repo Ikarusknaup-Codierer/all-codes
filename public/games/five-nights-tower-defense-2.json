@@ -19,10 +19,6 @@
    "reward": "25,000 Tokens , 350 Souls , 50 Season Presents , 5 Anniversary Present"
   },
   {
-   "code": "Happy12YearsFNAF!",
-   "reward": "50 Anniversary Presents , 12,000 Tokens , 1,200 Untradable Souls , 120"
-  },
-  {
    "code": "CCU11k!",
    "reward": "6,000 Untradable Souls and 40 Anniversary Presents"
   },
@@ -111,6 +107,10 @@
    "reward": "2,500 Tokens and 25 Souls"
   },
   {
+   "code": "Happy12YearsFNAF!",
+   "reward": "50 Anniversary Presents , 12,000 Tokens , 1,200 Untradable Souls , 120"
+  },
+  {
    "code": "CCU10k!",
    "reward": "6,000 Untradable Souls and 5 Anniversary Presents"
   },
@@ -119,6 +119,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-01T06:22:00.985Z",
+ "updated": "2026-09-02T12:21:49.759Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

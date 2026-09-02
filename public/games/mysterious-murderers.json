@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BLU3",
+   "reward": "a Blue Domino"
+  },
+  {
+   "code": "MMC",
+   "reward": "a Heart Launcher"
+  },
+  {
    "code": "GREEN",
    "reward": "the Green Heat Sword"
   },
@@ -55,6 +63,6 @@
    "reward": "the Waves Weapon"
   }
  ],
- "updated": "2026-09-01T06:23:05.579Z",
+ "updated": "2026-09-02T12:22:53.141Z",
  "source": "https://robloxden.com/game-codes/mysterious-murderers"
 }

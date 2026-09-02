@@ -11,6 +11,10 @@
    "reward": "1,000 Wood"
   },
   {
+   "code": "better",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "fun",
    "reward": "Free Rewards"
   },
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "boss",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "Rain",
+   "code": "sorry",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-01T06:24:39.255Z",
+ "updated": "2026-09-02T12:24:28.044Z",
  "source": "https://robloxden.com/game-codes/my-dream-island"
 }

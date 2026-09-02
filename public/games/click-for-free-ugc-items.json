@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "REBORN",
-   "reward": "Clicks And Potions"
-  },
-  {
-   "code": "POTIONS",
-   "reward": "Clicks And Potions"
-  },
-  {
-   "code": "UPDATE",
-   "reward": "Extra Boosts"
+   "code": "67",
+   "reward": "Clicks"
   },
   {
    "code": "8KLIKES",
@@ -25,8 +17,16 @@
   {
    "code": "NEWUGC",
    "reward": "50,000 Clicks"
+  },
+  {
+   "code": "99NIGHT",
+   "reward": "65,000 Clicks"
+  },
+  {
+   "code": "EMOTE",
+   "reward": "50,000 Clicks and 250 Gems"
   }
  ],
- "updated": "2026-09-01T06:22:54.806Z",
+ "updated": "2026-09-02T12:22:40.090Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

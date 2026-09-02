@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "CoralCaverns",
+   "reward": "25 Trait Rerolls , 2,500 Gems , and 7,500 Gold"
+  },
+  {
+   "code": "BeatTheHeat",
+   "reward": "65 Trait Rerolls , 2,500 Gems , 25 Stat Chips , and 40 Super Stat Chip"
+  },
+  {
+   "code": "SummaVibes",
+   "reward": "65 Trait Rerolls , 5,000 Gems , 7,500 Gold , and 25 Stat Chips"
+  },
+  {
+   "code": "NoctisBoctisV3",
+   "reward": "3 Trait Rerolls , 3 Gems , and 3 Gold"
+  },
+  {
+   "code": "ExtraShells!!",
+   "reward": "Free rewards"
+  },
+  {
    "code": "QOLPATCH1",
    "reward": "Gems and Trait Rerolls"
   },
@@ -75,6 +95,6 @@
    "reward": "50 Trait Rerolls and 2,000 Gems"
   }
  ],
- "updated": "2026-09-01T06:20:55.581Z",
+ "updated": "2026-09-02T12:20:59.621Z",
  "source": "https://robloxden.com/game-codes/anime-paradox"
 }

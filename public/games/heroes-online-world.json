@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "8KLIKES",
+   "code": "COINTODAY",
+   "reward": "10,000 Gold"
+  },
+  {
+   "code": "1KCOIN",
+   "reward": "10,000 Gold"
+  },
+  {
+   "code": "RAVENISOUT",
    "reward": ""
   },
   {
-   "code": "SIDEYE",
+   "code": "BOMDIA",
    "reward": "Reward"
   },
   {
-   "code": "CELEBRATION",
-   "reward": "Reward"
-  },
-  {
-   "code": "HEY345",
-   "reward": "95,000 Coins"
-  },
-  {
-   "code": "POOKIEBAG",
+   "code": "HAPPYEASTER",
    "reward": "20,000 Coins"
   }
  ],
- "updated": "2026-09-01T06:21:10.218Z",
+ "updated": "2026-09-02T12:21:08.134Z",
  "source": "https://robloxden.com/game-codes/heroes-online-world"
 }

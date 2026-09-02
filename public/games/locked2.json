@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "WORTHTHEWAIT",
+   "reward": "20,000 Yen"
+  },
+  {
+   "code": "KINGSGAMBIT",
+   "reward": "15,000 Yen"
+  },
+  {
+   "code": "BUGFIXESYAY",
+   "reward": "20,000 Yen"
+  },
+  {
+   "code": "SRY4DELAY",
+   "reward": "30,000 Yen"
+  },
+  {
    "code": "SRY4SHUTDOWN",
    "reward": "30,000 Yen"
   },
@@ -51,6 +67,6 @@
    "reward": "7,500 Yen"
   }
  ],
- "updated": "2026-09-01T00:28:16.336Z",
+ "updated": "2026-09-02T06:27:55.502Z",
  "source": "https://robloxden.com/game-codes/locked2"
 }

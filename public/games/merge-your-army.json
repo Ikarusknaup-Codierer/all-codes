@@ -11,10 +11,6 @@
    "reward": "500 Cash"
   },
   {
-   "code": "8KCCU",
-   "reward": ""
-  },
-  {
    "code": "UPDATE3",
    "reward": ""
   },
@@ -25,8 +21,12 @@
   {
    "code": "1KCCU",
    "reward": "5,000 Cash"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "1 Small Damage Potion"
   }
  ],
- "updated": "2026-09-01T06:20:15.579Z",
+ "updated": "2026-09-02T06:33:52.586Z",
  "source": "https://robloxden.com/game-codes/merge-your-army"
 }

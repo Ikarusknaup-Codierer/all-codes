@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "VISITS1M",
+   "code": "UPDATE1",
+   "reward": "This code requires you to join the 7L. Roblox group"
+  },
+  {
+   "code": "LIKES15K",
    "reward": "2 Lineage Rerolls And 2 Trait Rerolls"
   },
   {
-   "code": "FAVS20K",
-   "reward": "2 Lineage Rerolls And 2 Trait Rerolls"
-  },
-  {
-   "code": "FAVS15K",
-   "reward": "2 Lineage Rerolls And 2 Trait Rerolls"
-  },
-  {
-   "code": "UPDATE2",
+   "code": "THANKYOU",
    "reward": "3 Lineage Rerolls And 3 Trait Rerolls"
+  },
+  {
+   "code": "PATCH2",
+   "reward": "2 Lineage Rerolls and 2 Trait Rerolls"
   },
   {
    "code": "PATCH1",
    "reward": "1 Idol of Rebirth"
   }
  ],
- "updated": "2026-09-01T00:33:03.258Z",
+ "updated": "2026-09-02T06:32:49.810Z",
  "source": "https://robloxden.com/game-codes/magic-and-divinity"
 }

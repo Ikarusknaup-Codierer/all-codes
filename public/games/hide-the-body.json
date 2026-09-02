@@ -15,14 +15,18 @@
    "reward": "a Rare Crate"
   },
   {
-   "code": "HereBeUpdate",
+   "code": "NewLobby!",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "ARCADE",
    "reward": "rewards"
   },
   {
-   "code": "MidWeekSecret",
+   "code": "MoreCode",
    "reward": "rewards"
   }
  ],
- "updated": "2026-09-01T00:28:50.037Z",
+ "updated": "2026-09-02T06:28:49.921Z",
  "source": "https://robloxden.com/game-codes/hide-the-body"
 }

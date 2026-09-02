@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EVENTBUG",
+   "reward": "10 Treasure Shovel"
+  },
+  {
    "code": "scaryharvest",
    "reward": "1 Mythical Chest"
   },
@@ -179,6 +183,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-09-01T00:30:12.969Z",
+ "updated": "2026-09-02T06:30:11.138Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

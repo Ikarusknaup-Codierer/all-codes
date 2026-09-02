@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DemolitionChallenges",
+   "reward": "50 Money Essence"
+  },
+  {
+   "code": "DemolitionTiers",
+   "reward": "2 Basic Crates"
+  },
+  {
    "code": "StartingRelics",
    "reward": "5 Relics"
   },
@@ -21,12 +29,8 @@
   {
    "code": "SulfuredBlackBallEnergy",
    "reward": "2 Crates"
-  },
-  {
-   "code": "617091peace",
-   "reward": "50 Money Essence"
   }
  ],
- "updated": "2026-09-01T06:21:05.664Z",
+ "updated": "2026-09-02T06:34:43.892Z",
  "source": "https://robloxden.com/game-codes/money-clicker-inc"
 }

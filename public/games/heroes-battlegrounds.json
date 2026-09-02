@@ -11,10 +11,6 @@
    "reward": "5 Blue Flame Mastery Progress"
   },
   {
-   "code": "MOREDELAYSPLEASEPLEASE",
-   "reward": "5 Emojis"
-  },
-  {
    "code": "LOVESICKKILLERULT",
    "reward": "5 Emotes"
   },
@@ -25,8 +21,12 @@
   {
    "code": "WINGEDASSASSINULT",
    "reward": "5 Free Emotes"
+  },
+  {
+   "code": "MOREDELAYSPLEASEPLEASE",
+   "reward": "5 Emojis"
   }
  ],
- "updated": "2026-09-01T00:28:15.797Z",
+ "updated": "2026-09-02T06:27:54.938Z",
  "source": "https://robloxden.com/game-codes/heroes-battlegrounds"
 }

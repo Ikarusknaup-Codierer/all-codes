@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BloxRevive",
+   "reward": "30 Exotic Fruit , 5 Miracle Birth Fruit , 5 Gorgeous Fruit , and 1 Oth"
+  },
+  {
+   "code": "DungeonAwake",
+   "reward": "10 Capture Contest Ticket"
+  },
+  {
    "code": "FreeShiny",
    "reward": "5 Shiny Cinder Embers"
   },
@@ -71,6 +79,6 @@
    "reward": "a Solitude Crystal"
   }
  ],
- "updated": "2026-08-31T18:17:35.315Z",
+ "updated": "2026-09-02T06:24:29.581Z",
  "source": "https://robloxden.com/game-codes/blox-monsters"
 }

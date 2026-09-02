@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "FORGEWEEKENDS10",
+   "code": "FORGEWEEKENDS9",
    "reward": "10 Rerolls"
   },
   {
-   "code": "FORGEWEEKENDS2",
+   "code": "CRIMSONSAKURA",
+   "reward": "15 Rerolls"
+  },
+  {
+   "code": "FORGEWEEKEND3!",
    "reward": "10 Rerolls"
   },
   {
-   "code": "DELAYCOMPENSATION",
-   "reward": "20 Rerolls and 1 Exp Totem"
-  },
-  {
-   "code": "SORRYFORSHUTDOWN",
-   "reward": "Free Rerolls"
+   "code": "QOL!",
+   "reward": "10 Race Rerolls"
   }
  ],
- "updated": "2026-09-01T00:29:54.747Z",
+ "updated": "2026-09-02T06:29:52.495Z",
  "source": "https://robloxden.com/game-codes/the-forge"
 }

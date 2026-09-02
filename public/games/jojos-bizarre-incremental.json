@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ECHOESACT5",
+   "reward": "3 Mythical Giftboxes , 100,000 XP , 25 Saint's Corpse Parts , and 100,"
+  },
+  {
+   "code": "ECHOESACT4",
+   "reward": "50 Rokakaka , 100,000 Yen , 50 Stand Arrows , and 100,000 XP"
+  },
+  {
+   "code": "CANDYMAN",
+   "reward": "100K XP, 100K Yen and 3 Mythical Giftboxes"
+  },
+  {
    "code": "LSCAPE",
    "reward": "100,000 Yen , 100,000 XP , 50 Stand Arrows , and 50 Rokakaka"
   },
@@ -95,6 +107,6 @@
    "reward": "1 Stand Arrow , 2,500 XP , and 1,000 Yen"
   }
  ],
- "updated": "2026-09-01T00:27:03.915Z",
+ "updated": "2026-09-02T06:26:34.089Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

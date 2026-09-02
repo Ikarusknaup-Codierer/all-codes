@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "visits15m",
+   "reward": "10 Prays"
+  },
+  {
    "code": "upd112",
    "reward": "10 Relic Rerolls , 10 Relic Resets , and 100k Hell Stones"
   },
@@ -75,6 +79,6 @@
    "reward": "100 Weapon Stones and 10 Soul Ring Rerolls"
   }
  ],
- "updated": "2026-09-01T00:25:19.328Z",
+ "updated": "2026-09-02T06:25:05.857Z",
  "source": "https://robloxden.com/game-codes/1-dmg-per-revive"
 }

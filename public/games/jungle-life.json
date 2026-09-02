@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ONEMILLION",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "DUMBO",
    "reward": "400 Coins"
   },
@@ -27,6 +31,6 @@
    "reward": "325 Coins"
   }
  ],
- "updated": "2026-09-01T00:28:32.928Z",
+ "updated": "2026-09-02T06:28:29.824Z",
  "source": "https://robloxden.com/game-codes/jungle-life"
 }

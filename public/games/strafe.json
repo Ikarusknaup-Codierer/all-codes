@@ -19,10 +19,6 @@
    "reward": "1,234 Krones"
   },
   {
-   "code": "STRAFEWORKS",
-   "reward": "EXP and Krones"
-  },
-  {
    "code": "W4TORM3LON",
    "reward": "Krone and EXP"
   },
@@ -89,8 +85,12 @@
   {
    "code": "CHARITY",
    "reward": "-1 Krone . WARNING: This code removes 1 Krone from your balance!"
+  },
+  {
+   "code": "STRAFEWORKS",
+   "reward": "EXP and Krones"
   }
  ],
- "updated": "2026-09-01T00:27:35.697Z",
+ "updated": "2026-09-02T06:27:04.727Z",
  "source": "https://robloxden.com/game-codes/strafe"
 }

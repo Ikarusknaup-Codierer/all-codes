@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "sandcastlewowo",
+   "reward": "a Cash Potion , a Stat Potion and a Scrap Potion"
+  },
+  {
+   "code": "niceboat",
+   "reward": "10 Tickets"
+  },
+  {
+   "code": "freeshellslol",
+   "reward": "1.25 Shells"
+  },
+  {
+   "code": "nicecoconutpalm",
+   "reward": "x1.25 Coconuts"
+  },
+  {
    "code": "Update5",
    "reward": "3 All Potions"
   },
@@ -55,6 +71,6 @@
    "reward": "+1 All Potions"
   }
  ],
- "updated": "2026-09-01T00:24:56.090Z",
+ "updated": "2026-09-02T06:24:52.775Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

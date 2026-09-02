@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Welcomebackhomelorn",
+   "reward": "500 GP"
+  },
+  {
+   "code": "Donatothosewhoknow",
+   "reward": "500 GP"
+  },
+  {
+   "code": "Kencomp",
+   "reward": "800 GP"
+  },
+  {
    "code": "KenRework",
    "reward": "1,000 Ghoul Points"
   },
@@ -79,6 +91,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-09-01T00:28:15.293Z",
+ "updated": "2026-09-02T06:27:54.374Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

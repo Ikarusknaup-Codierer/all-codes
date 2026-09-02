@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "UPDSEP25!",
+   "reward": "Rerolls"
+  },
+  {
    "code": "UPDATEJUNE10",
    "reward": ""
   },
   {
-   "code": "WINTER2025",
+   "code": "HOTLANDS2025",
    "reward": "Free Rewards"
   },
   {
-   "code": "WELOVEUAPLAYERS",
-   "reward": "Free Rewards"
+   "code": "SORRYAFTERTALEDELAY",
+   "reward": "3 Rerolls"
   },
   {
-   "code": "XMASUPDATE2025",
-   "reward": "1 Reroll"
+   "code": "JUNE10UPDATE",
+   "reward": "30 Trait Rerolls"
   }
  ],
- "updated": "2026-09-01T06:21:17.524Z",
+ "updated": "2026-09-02T06:34:56.194Z",
  "source": "https://robloxden.com/game-codes/undertale-adventures"
 }

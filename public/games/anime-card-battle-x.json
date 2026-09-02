@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "ASSASSINS",
+   "reward": "100 CR, 200 WRR, 75 Luck IV and 75 Speed IV . You need 150,000 Rolls t"
+  },
+  {
+   "code": "NEWPACK",
+   "reward": "300 Battle Speed, 125 CR, 50 Luck IV and 50 Speed IV . You need 250,00"
+  },
+  {
+   "code": "TYBWCARDREWORKS",
+   "reward": "200 Battle Speed, 100 CR, 25 Luck IV, 25 Speed IV, 5 Fountain, 5 Weath"
+  },
+  {
+   "code": "CUSTOMCARDPACK",
+   "reward": "150 CR, 250 WRR, 5 Fountain and 5 Weather . You need 450,000 Rolls to "
+  },
+  {
+   "code": "DAILY1",
+   "reward": "225 CR and 250 WRR"
+  },
+  {
    "code": "NEWEVENT",
    "reward": "75 Climate Rerolls , 350 Weather Rerolls , and 5 XP Books I . You need"
   },
@@ -187,6 +207,6 @@
    "reward": "Potions and Rolls"
   }
  ],
- "updated": "2026-09-01T00:25:26.860Z",
+ "updated": "2026-09-02T06:25:10.494Z",
  "source": "https://robloxden.com/game-codes/anime-card-battle-x"
 }

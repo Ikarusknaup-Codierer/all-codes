@@ -11,14 +11,6 @@
    "reward": "70,000 RM"
   },
   {
-   "code": "MIJAISOUT",
-   "reward": "2,000,000 RM"
-  },
-  {
-   "code": "SORRYFORYOURLOSS",
-   "reward": "3,000,000 RM"
-  },
-  {
    "code": "THANKSFORPLAYING",
    "reward": "10,000 Cash"
   },
@@ -27,10 +19,18 @@
    "reward": "Cash"
   },
   {
+   "code": "MIJAISOUT",
+   "reward": "2,000,000 RM"
+  },
+  {
+   "code": "SORRYFORYOURLOSS",
+   "reward": "3,000,000 RM"
+  },
+  {
    "code": "RXDGARAGEONTOP",
    "reward": "30,000 Cash"
   }
  ],
- "updated": "2026-09-01T00:28:09.121Z",
+ "updated": "2026-09-02T06:27:47.621Z",
  "source": "https://robloxden.com/game-codes/moped-drag"
 }

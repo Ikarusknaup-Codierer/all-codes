@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "AIKUDELAY",
+   "reward": "5 Lucky Style Spins and 5 Lucky Flow Spins"
+  },
+  {
+   "code": "SERPENT",
+   "reward": "8 Lucky Style Spins and 8 Lucky Flow Spins"
+  },
+  {
+   "code": "5KCODE",
+   "reward": "5 Lucky Style Spins and 5 Lucky Flow Spins"
+  },
+  {
    "code": "VERYSORRY",
    "reward": "10 Lucky Style Spins , 10 Lucky Flow Spins , and 200 AFKCredits"
   },
@@ -35,6 +47,6 @@
    "reward": "6 Lucky Style Spins , 150 AFKCredits , and 6 Lucky Flow Spins"
   }
  ],
- "updated": "2026-09-01T00:27:44.572Z",
+ "updated": "2026-09-02T06:27:23.811Z",
  "source": "https://robloxden.com/game-codes/soccer-zero"
 }

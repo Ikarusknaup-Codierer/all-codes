@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "adminarbuz",
+   "reward": "970K Cash"
+  },
+  {
+   "code": "givemecash",
+   "reward": "5x Cash Boost (10 Minutes)"
+  },
+  {
+   "code": "toood",
+   "reward": "5x Egg Boost (10 Minutes)"
+  },
+  {
+   "code": "owemgeh",
+   "reward": "the Basic Lucky Block"
+  },
+  {
    "code": "freecasssh!",
    "reward": "x5 Cash Boost (10 Minutes)"
   },
@@ -21,8 +37,12 @@
   {
    "code": "THANKSFOR100K",
    "reward": "3x Eggs (5 Minutes)"
+  },
+  {
+   "code": "eggies",
+   "reward": "Free Cash"
   }
  ],
- "updated": "2026-08-31T18:15:32.747Z",
+ "updated": "2026-09-02T00:28:24.470Z",
  "source": "https://robloxden.com/game-codes/chicken-farm"
 }

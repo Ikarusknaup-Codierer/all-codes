@@ -7,6 +7,42 @@
    "reward": "Description"
   },
   {
+   "code": "SPIN",
+   "reward": "3 Comic Cases"
+  },
+  {
+   "code": "WRAPS",
+   "reward": "the Colorway Case"
+  },
+  {
+   "code": "PICKUP",
+   "reward": "3 Colorway Cases"
+  },
+  {
+   "code": "CONSOLESUPPORT",
+   "reward": "2 Revives"
+  },
+  {
+   "code": "PRECIOUS",
+   "reward": "2 Revives"
+  },
+  {
+   "code": "BOOM",
+   "reward": "2 Grenades and 1 Revive"
+  },
+  {
+   "code": "7500LIKES",
+   "reward": "50 Rad Tokens and 1 Machete"
+  },
+  {
+   "code": "SORRYFIX",
+   "reward": "5 Revives"
+  },
+  {
+   "code": "CHERRYBLOSSOM",
+   "reward": "1 Medkit and 3 Revives"
+  },
+  {
    "code": "5000LIKES",
    "reward": "1 Pump Action"
   },
@@ -31,6 +67,6 @@
    "reward": "3x Revives"
   }
  ],
- "updated": "2026-08-31T18:10:43.125Z",
+ "updated": "2026-09-02T00:23:58.782Z",
  "source": "https://robloxden.com/game-codes/haulers"
 }

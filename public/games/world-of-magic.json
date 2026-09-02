@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Fireball",
+   "code": "Brooms",
    "reward": "Free Rewards"
   },
   {
-   "code": "FISHINGMASTER",
-   "reward": "a 5 Hour 2x Crown Boost"
-  },
-  {
-   "code": "GREATHOLIDAYZ",
-   "reward": "a 24 Hour 2x Crown Boost and a 24 Hour 2x XP Boost"
+   "code": "LOOT5",
+   "reward": "a 5 Hour 1.5x Crown Boost"
   },
   {
    "code": "NEW2021YEAR",
    "reward": "a 24 Hour 1.5x Crown Boost and a 24 Hour 1.5x XP Boost"
   },
   {
-   "code": "PROMETHEUS400",
-   "reward": "400 Crowns"
+   "code": "SELECTORCH200",
+   "reward": "200 Crowns"
+  },
+  {
+   "code": "CURSE300",
+   "reward": "300 Crowns"
   }
  ],
- "updated": "2026-08-31T18:12:24.983Z",
+ "updated": "2026-09-02T00:25:16.614Z",
  "source": "https://robloxden.com/game-codes/world-of-magic"
 }

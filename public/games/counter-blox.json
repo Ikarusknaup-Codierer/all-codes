@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CBUNRESTRICTED2",
-   "reward": "100 Credits"
-  },
-  {
    "code": "JUNE26",
    "reward": "100 Credits . Only the first 3,000 players can claim this code"
   },
@@ -19,14 +15,18 @@
    "reward": "150 Credits . Only the first 3,000 players can claim this code"
   },
   {
-   "code": "THEFORGE",
-   "reward": "100 Credits"
+   "code": "DELAYWIND",
+   "reward": "300 Credits"
   },
   {
-   "code": "BLOXY",
-   "reward": "1 2019 Bloxy Patch"
+   "code": "CBXMASUP8DELAY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HOLIDAY18",
+   "reward": "150 Funds"
   }
  ],
- "updated": "2026-08-31T18:15:05.972Z",
+ "updated": "2026-09-02T00:27:59.500Z",
  "source": "https://robloxden.com/game-codes/counter-blox"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY4DELAY",
+   "reward": "15 Ability Rerolls , 15 Clan Rerolls , and 10 Experimental Hogyoku Sha"
+  },
+  {
    "code": "LINI_MOZZARELLA",
    "reward": "10 Ability Rerolls"
   },
   {
-   "code": "UPDATE1",
-   "reward": "10x Ability Rerolls and 3x Experimental Hogyoku Shards"
+   "code": "35ROLLS",
+   "reward": "35 Ability Rerolls and 1 Build Reset Token"
   },
   {
    "code": "SHUTDOWNFIX",
    "reward": "3x Clan Reroll and 3x Experimental Hagyaku Shard (Rare)"
   },
   {
-   "code": "SDFIX",
-   "reward": "5x Experimental Hogyoku Shards and 3x Reiatsu Color Reroll"
-  },
-  {
-   "code": "day1",
-   "reward": "3 Clan Rerolls , 1 Token Booster , and 1 Focus Elixir"
+   "code": "75KLIKES",
+   "reward": "3x Ability Reroll"
   }
  ],
- "updated": "2026-09-01T00:23:47.189Z",
+ "updated": "2026-09-02T00:30:58.713Z",
  "source": "https://robloxden.com/game-codes/vv-ultimatum"
 }

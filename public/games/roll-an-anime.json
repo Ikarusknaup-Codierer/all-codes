@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FOOD",
+   "reward": "5x Cash (2 Hours)"
+  },
+  {
    "code": "ORIGINAL",
    "reward": "25x Cash (2 Hours)"
   },
@@ -87,6 +91,6 @@
    "reward": "a Luffy (Mufei) Character"
   }
  ],
- "updated": "2026-09-01T00:24:32.505Z",
+ "updated": "2026-09-02T00:31:40.113Z",
  "source": "https://robloxden.com/game-codes/roll-an-anime"
 }

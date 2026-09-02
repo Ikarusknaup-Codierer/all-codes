@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "obsessed",
+   "reward": "1,000 Gold"
+  },
+  {
+   "code": "monster",
+   "reward": "1,000 Souls"
+  },
+  {
    "code": "goldgoldgold",
    "reward": "500 Gold"
   },
@@ -23,6 +31,6 @@
    "reward": "500 Gold"
   }
  ],
- "updated": "2026-08-31T18:15:55.088Z",
+ "updated": "2026-09-02T00:28:46.354Z",
  "source": "https://robloxden.com/game-codes/undertale-rp-mess-timeline"
 }

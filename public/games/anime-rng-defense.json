@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE8",
+   "reward": "1,000 Crystals and 1 Blessed Roll"
+  },
+  {
+   "code": "CAPSULECORP",
+   "reward": "Rewards . You need at least 10,000 Rolls to use this code"
+  },
+  {
+   "code": "WISHEVENT",
+   "reward": "Free Rewards . You need at least 100,000 Rolls to use this code"
+  },
+  {
    "code": "VAHRWELT",
    "reward": "Free Rewards . You need at least 10,000 Rolls to use this code"
   },
@@ -87,6 +99,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-09-01T00:24:25.542Z",
+ "updated": "2026-09-02T00:31:33.967Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

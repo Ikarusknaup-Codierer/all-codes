@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MAGICELEMENTS2",
-   "reward": "25 Spins"
-  },
-  {
    "code": "SECRETCODE",
    "reward": "Code XP"
   },
@@ -21,8 +17,12 @@
   {
    "code": "Fina1lyCodes",
    "reward": "25 Spins"
+  },
+  {
+   "code": "Spin2Win",
+   "reward": "50 Spins"
   }
  ],
- "updated": "2026-08-31T18:12:35.520Z",
+ "updated": "2026-09-02T00:25:26.354Z",
  "source": "https://robloxden.com/game-codes/magic-elements-reborn"
 }

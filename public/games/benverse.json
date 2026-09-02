@@ -23,8 +23,24 @@
    "reward": "5,000 DNA Coins and 3 Stat Reset Scrolls"
   },
   {
+   "code": "CRYSTALKNIGHT",
+   "reward": "30 Minutes of 2x Alien XP"
+  },
+  {
+   "code": "NEWAWAKENING",
+   "reward": "20,000 DNA Coin , 1 Hour of 2x Alien XP , and 1 Hour of 2x Luck"
+  },
+  {
+   "code": "22KFAVORITS",
+   "reward": "10,000 DNA Coin"
+  },
+  {
    "code": "4500KLIKES",
    "reward": "30 Minutes of 2x Luck"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "2x XP (30 Minutes)"
   },
   {
    "code": "4KLIKES",
@@ -33,6 +49,18 @@
   {
    "code": "20KFAVORITS",
    "reward": "2x Alien XP (30 Minutes)"
+  },
+  {
+   "code": "10KWILDDOGAWK",
+   "reward": "10,000 DNA Coins"
+  },
+  {
+   "code": "10ALIENSUNLOCKED",
+   "reward": "5,000 DNA Coins and 2x XP (15 Minutes)"
+  },
+  {
+   "code": "WORLDEVENTFIXED",
+   "reward": "Freebies"
   },
   {
    "code": "TENWORLDSCONQUEROR",
@@ -97,36 +125,8 @@
   {
    "code": "PAK",
    "reward": "2,000 DNA Coins"
-  },
-  {
-   "code": "CRYSTALKNIGHT",
-   "reward": "30 Minutes of 2x Alien XP"
-  },
-  {
-   "code": "NEWAWAKENING",
-   "reward": "20,000 DNA Coin , 1 Hour of 2x Alien XP , and 1 Hour of 2x Luck"
-  },
-  {
-   "code": "22KFAVORITS",
-   "reward": "10,000 DNA Coin"
-  },
-  {
-   "code": "2MVISITS",
-   "reward": "2x XP (30 Minutes)"
-  },
-  {
-   "code": "10KWILDDOGAWK",
-   "reward": "10,000 DNA Coins"
-  },
-  {
-   "code": "10ALIENSUNLOCKED",
-   "reward": "5,000 DNA Coins and 2x XP (15 Minutes)"
-  },
-  {
-   "code": "WORLDEVENTFIXED",
-   "reward": "Freebies"
   }
  ],
- "updated": "2026-08-31T18:16:51.556Z",
+ "updated": "2026-09-02T00:29:41.169Z",
  "source": "https://robloxden.com/game-codes/benverse"
 }

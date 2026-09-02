@@ -11,64 +11,8 @@
    "reward": "1 Season Lucky Ticket and 1 Starwish Card"
   },
   {
-   "code": "ODYSSEY",
-   "reward": "3 Starwish Cards"
-  },
-  {
    "code": "SEASONVOUCHER",
    "reward": "6,000 Season Vouchers"
-  },
-  {
-   "code": "IRONSOULWEEKEND20",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "SCROLLCHARGEFIX",
-   "reward": "3,000 Season Vouchers and 2 Race Rerolls"
-  },
-  {
-   "code": "IRONSOULWEEKEND17",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "SEASON2OPEN",
-   "reward": "3 Season Lucky Tickets"
-  },
-  {
-   "code": "MAP5COMESOON",
-   "reward": "Rewards"
-  },
-  {
-   "code": "200KMEMBERREWARD",
-   "reward": "10 Race Rerolls"
-  },
-  {
-   "code": "IRONSOULWEEKEND19",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "SEASON3EXPAND",
-   "reward": "2,000 Season Vouchers and 160 Origin Shards"
-  },
-  {
-   "code": "SEASON3LIMITED",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "IRONSOULWEEKEND18",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "SEASON2ENDING",
-   "reward": "2 Race Rerolls and 200 Origin Shards"
-  },
-  {
-   "code": "SCYTHEWEAPON",
-   "reward": "200 Origin Shards and 2 Race Rerolls"
-  },
-  {
-   "code": "NEWMAP",
-   "reward": "2 Race Rerolls , 5 Crystal Flakes , and 3 Crystal Prisms"
   },
   {
    "code": "NEWMAPEXPAND",
@@ -91,6 +35,10 @@
    "reward": "2,000 Season Vouchers and 160 Origin Shards"
   },
   {
+   "code": "SEASON2OPEN",
+   "reward": "3 Season Lucky Tickets"
+  },
+  {
    "code": "IRONSOULWEEKEND13",
    "reward": "3 Race Rerolls"
   },
@@ -109,8 +57,60 @@
   {
    "code": "THURSDAYGIFT",
    "reward": "3 S1 Lucky Tickets"
+  },
+  {
+   "code": "ODYSSEY",
+   "reward": "3 Starwish Cards"
+  },
+  {
+   "code": "IRONSOULWEEKEND20",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "MAP5COMESOON",
+   "reward": "Rewards"
+  },
+  {
+   "code": "200KMEMBERREWARD",
+   "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "SCROLLCHARGEFIX",
+   "reward": "3,000 Season Vouchers and 2 Race Rerolls"
+  },
+  {
+   "code": "IRONSOULWEEKEND19",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "SEASON3EXPAND",
+   "reward": "2,000 Season Vouchers and 160 Origin Shards"
+  },
+  {
+   "code": "SEASON3LIMITED",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "IRONSOULWEEKEND18",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "SEASON2ENDING",
+   "reward": "2 Race Rerolls and 200 Origin Shards"
+  },
+  {
+   "code": "IRONSOULWEEKEND17",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "SCYTHEWEAPON",
+   "reward": "200 Origin Shards and 2 Race Rerolls"
+  },
+  {
+   "code": "NEWMAP",
+   "reward": "2 Race Rerolls , 5 Crystal Flakes , and 3 Crystal Prisms"
   }
  ],
- "updated": "2026-08-31T18:17:01.751Z",
+ "updated": "2026-09-02T00:29:51.047Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

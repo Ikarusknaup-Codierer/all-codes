@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "STONEHENGE",
+   "reward": "2x Gold Boost (8 Hours)"
+  },
+  {
    "code": "Fortune",
    "reward": "Double Gold Boost (2 Hours)"
   },
@@ -207,6 +211,6 @@
    "reward": "2 hours of x2 Metallic Boost"
   }
  ],
- "updated": "2026-08-31T18:10:57.622Z",
+ "updated": "2026-09-02T00:24:10.851Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

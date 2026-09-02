@@ -19,10 +19,6 @@
    "reward": "100,000 Monkeys"
   },
   {
-   "code": "statues",
-   "reward": "4.8 Million Monkeys"
-  },
-  {
    "code": "Simian",
    "reward": "Free Rewards"
   },
@@ -173,8 +169,12 @@
   {
    "code": "Nevergonnarunaroundanddesertyou",
    "reward": "1 Million Monkeys"
+  },
+  {
+   "code": "statues",
+   "reward": "4.8 Million Monkeys"
   }
  ],
- "updated": "2026-08-31T18:11:30.563Z",
+ "updated": "2026-09-02T00:24:37.085Z",
  "source": "https://robloxden.com/game-codes/monkey-tycoon"
 }

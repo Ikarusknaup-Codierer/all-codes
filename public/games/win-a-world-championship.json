@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "VISIT5M",
+   "reward": "10K Coins, 5 Cup Tickets, 5 Team Rerolls and 5 Year Rerolls"
+  },
+  {
+   "code": "LIKES10K",
+   "reward": "10K Coins, 5 Cup Tickets, 5 Team Rerolls and 5 Year Rerolls"
+  },
+  {
    "code": "INDEX",
    "reward": "7,500 Coins , 5 Team Rerolls , and 5 Year Rerolls"
   },
@@ -27,6 +35,6 @@
    "reward": "7.5K Coins, 5 Team Rerolls and 5 Year Rerolls"
   }
  ],
- "updated": "2026-09-01T00:24:03.126Z",
+ "updated": "2026-09-02T00:31:12.666Z",
  "source": "https://robloxden.com/game-codes/win-a-world-championship"
 }

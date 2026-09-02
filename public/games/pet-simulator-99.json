@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "pet-code99",
-   "reward": "Exclusive In-Game Reward"
-  },
-  {
-   "code": "HugeCalestialDragon",
-   "reward": "Huge Calestial Dragon"
+   "code": "ExclusiveDragonEgg",
+   "reward": "Exclusive Dragon Egg"
   },
   {
    "code": "PFB96CG9472D",
+   "reward": "Huge Axolotl Pet"
+  },
+  {
+   "code": "DPETUJ44AB89",
    "reward": "Huge Axolotl Pet"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "Huge Dog Pet"
   }
  ],
- "updated": "2026-08-31T18:14:52.369Z",
+ "updated": "2026-09-02T00:27:45.648Z",
  "source": "https://robloxden.com/game-codes/pet-simulator-99"
 }

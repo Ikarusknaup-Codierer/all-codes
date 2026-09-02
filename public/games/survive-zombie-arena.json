@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NODELAYSWAG",
+   "reward": "2x Bloodmoon (48 Hours) , 2x Bloodmoon Crates , and 5,000 Credits"
+  },
+  {
+   "code": "SWAGGYBOI",
+   "reward": "2x Credits (12 Hours) and 2x Bloodmoon Shards (24 Hours)"
+  },
+  {
    "code": "patchboi",
    "reward": "2x Arena Credits (4 Hours)"
   },
@@ -51,6 +59,6 @@
    "reward": "3 Bloodmoon Spins and 2x Bloodmoon Shards (4 Hours)"
   }
  ],
- "updated": "2026-08-31T18:17:21.158Z",
+ "updated": "2026-09-02T00:30:08.031Z",
  "source": "https://robloxden.com/game-codes/survive-zombie-arena"
 }

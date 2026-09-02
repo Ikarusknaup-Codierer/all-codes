@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "KENREUPDATE",
+   "reward": "50 Spins and a 20 Minutes x2 Exp Boost"
+  },
+  {
+   "code": "NARUSOON",
+   "reward": "50 Spins and a 20 Minutes x2 Materials Boost"
+  },
+  {
+   "code": "DEVTEAMCOOKING",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "TYFOR600",
+   "reward": "50 Spins , a 15 Minutes x2 Drop Boost , a 30 Minutes x2 Exp Boost , an"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "100 Spins , a 15 Minutes x2 Drop Boost , a 15 Minutes x2 Material Boos"
+  },
+  {
    "code": "CombatRework",
    "reward": "50 Spins and 15 Minutes EXP Boost"
   },
@@ -23,6 +43,6 @@
    "reward": "60 Spins, 1,000 Materials, 4,000 RC, 300,000 Yen, And 60 Minutes Of Bo"
   }
  ],
- "updated": "2026-08-31T18:12:47.979Z",
+ "updated": "2026-09-02T00:25:38.186Z",
  "source": "https://robloxden.com/game-codes/project-ghoul"
 }

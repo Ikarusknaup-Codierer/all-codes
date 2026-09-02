@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GLOBALEVENT",
+   "reward": "rewards . To use this code, you must at least have 100,000 Rolls"
+  },
+  {
+   "code": "NEWCARDS!",
+   "reward": "rewards . To use this code, you must at least have 50,000 Rolls"
+  },
+  {
    "code": "BATTLEPASS!",
    "reward": "Free Rewards . To use this code, you must at least have 50,000 Rolls"
   },
@@ -119,6 +127,6 @@
    "reward": "3x Luck Potion III , 3x Roll Speed Potion III , 3x Battle Speed Potion"
   }
  ],
- "updated": "2026-08-31T18:16:36.799Z",
+ "updated": "2026-09-02T00:29:24.463Z",
  "source": "https://robloxden.com/game-codes/card-chronicles"
 }

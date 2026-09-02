@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "1kActive",
+   "reward": "200M Beli , 15,000 Gems , and 30 Poneglyphs"
+  },
+  {
+   "code": "ReMultiverseSea",
+   "reward": "150M Beli , 8,000 Gems , and 20 Poneglyphs"
+  },
+  {
    "code": "LimbusCompany!",
    "reward": "2x Drop (60 Minutes)"
   },
@@ -395,6 +403,6 @@
    "reward": "Freebies"
   }
  ],
- "updated": "2026-08-31T18:11:03.277Z",
+ "updated": "2026-09-02T00:24:15.012Z",
  "source": "https://robloxden.com/game-codes/aopg"
 }

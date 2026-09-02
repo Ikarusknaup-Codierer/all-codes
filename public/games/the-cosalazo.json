@@ -11,10 +11,6 @@
    "reward": "500K Cash"
   },
   {
-   "code": "APR2026",
-   "reward": "rewards"
-  },
-  {
    "code": "500kV",
    "reward": "$50,000"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Abril2026",
    "reward": "$100,000"
+  },
+  {
+   "code": "APR2026",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-08-31T18:10:55.956Z",
+ "updated": "2026-09-02T00:24:09.418Z",
  "source": "https://robloxden.com/game-codes/the-cosalazo"
 }

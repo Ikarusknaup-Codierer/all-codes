@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SHINYSBACK",
+   "reward": "20 Shiny Boosts , 20 Mega Boosts (all types) , 1,970 Heavenly Fruit , "
+  },
+  {
    "code": "AKIRACODE",
    "reward": "20 Mega Boosts (all types) , 100 Heavenly Fruits , 100 Cursed Orbs , 2"
   },
@@ -303,6 +307,6 @@
    "reward": "5 Mega Boosts , 100 Wistoria Shards , 150 Passive Tokens , 200 Requiem"
   }
  ],
- "updated": "2026-08-31T18:13:01.553Z",
+ "updated": "2026-09-02T00:25:51.005Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

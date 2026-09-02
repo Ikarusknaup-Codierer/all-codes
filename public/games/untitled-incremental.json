@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Collected",
+   "reward": "10 Wishes"
+  },
+  {
    "code": "Wisps",
    "reward": "5 Wishes"
   },
@@ -27,6 +31,6 @@
    "reward": "1 Of Each Potion"
   }
  ],
- "updated": "2026-08-31T18:13:29.975Z",
+ "updated": "2026-09-02T00:26:19.444Z",
  "source": "https://robloxden.com/game-codes/untitled-incremental"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Miniupdate1",
+   "reward": "50 Trait Rerolls and 50 Memoria Shards"
+  },
+  {
+   "code": "2BVisits",
+   "reward": "200 Trait Rerolls and 200 Memoria Shards"
+  },
+  {
+   "code": "Prepare",
+   "reward": "1 Red Key"
+  },
+  {
    "code": "1DayDelay",
    "reward": "200 Trait Rerolls . You must reach Level 30 to use this code"
   },
@@ -39,6 +51,6 @@
    "reward": "50 Memoria Shards and 50 Green Essences . You must be level 30 to clai"
   }
  ],
- "updated": "2026-08-31T18:14:25.593Z",
+ "updated": "2026-09-02T00:27:17.212Z",
  "source": "https://robloxden.com/game-codes/anime-vanguards"
 }

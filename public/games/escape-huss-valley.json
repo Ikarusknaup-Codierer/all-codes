@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BLACKFLASH",
+   "reward": "500 Huss Coins"
+  },
+  {
+   "code": "SORRYBRO",
+   "reward": "1,000 Huss Coins"
+  },
+  {
+   "code": "DELAYVALLEY",
+   "reward": "1,000 Huss Coins"
+  },
+  {
    "code": "UPD7",
    "reward": "500 Huss Coins"
   },
@@ -67,6 +79,6 @@
    "reward": "300 Huss Coins"
   }
  ],
- "updated": "2026-08-31T18:16:26.153Z",
+ "updated": "2026-09-02T00:29:15.527Z",
  "source": "https://robloxden.com/game-codes/escape-huss-valley"
 }

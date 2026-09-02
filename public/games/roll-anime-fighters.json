@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Crafting",
+   "reward": "65 Crafting Materials , 35 Trait Tokens and 35 Aura Tokens"
+  },
+  {
+   "code": "500CCU",
+   "reward": "5 Luck Potions , 5 Coins Potions , 5 Ultra Luck Potions , 2 Shiny Roll"
+  },
+  {
    "code": "1KLikes",
    "reward": "5 Luck Potions , 5 Coins Potions , 5 Drop Potions , 25 Pizza , 2 Shiny"
   },
@@ -15,10 +23,10 @@
    "reward": "Rewards"
   },
   {
-   "code": "Traits",
-   "reward": "25 Trait Tokens, 25 Burgers, 5 Coin Potions and 1 Shiny Dice"
+   "code": "500Likes",
+   "reward": "20 Aura Tokens, 25 Pizzas and 2 Shiny Rolls"
   }
  ],
- "updated": "2026-08-31T18:18:18.179Z",
+ "updated": "2026-09-02T00:30:38.998Z",
  "source": "https://robloxden.com/game-codes/roll-anime-fighters"
 }

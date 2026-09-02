@@ -7,7 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "CMONROBLOX",
+   "code": "VALENTINES200M",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MERRYXMAS25",
+   "reward": "2x EXP"
+  },
+  {
+   "code": "1KLikes",
    "reward": "Free Rewards"
   },
   {
@@ -15,18 +23,10 @@
    "reward": "250 Coins"
   },
   {
-   "code": "VALENTINE25",
-   "reward": "500 Coins"
-  },
-  {
    "code": "DALGONA",
    "reward": "300 Dalgona"
-  },
-  {
-   "code": "HALLOWS24",
-   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-01T12:25:18.314Z",
+ "updated": "2026-09-02T18:22:41.620Z",
  "source": "https://robloxden.com/game-codes/pass-the-bomb"
 }

@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "no9",
-   "reward": "3 Beast Cells"
-  },
-  {
-   "code": "10iscoming",
+   "code": "beastforce",
    "reward": "3 Beast Cells"
   },
   {
@@ -19,14 +15,18 @@
    "reward": "12 Beast Cells"
   },
   {
-   "code": "NO10",
-   "reward": "9 Beast Cells"
+   "code": "2K",
+   "reward": "12 Beast Cells"
   },
   {
-   "code": "06D",
+   "code": "NARUMI",
    "reward": "6 Beast Cells"
+  },
+  {
+   "code": "BERSERK",
+   "reward": "12 Beast Cells"
   }
  ],
- "updated": "2026-09-01T12:22:37.230Z",
+ "updated": "2026-09-02T18:20:10.979Z",
  "source": "https://robloxden.com/game-codes/beast-force"
 }

@@ -7,20 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "WELCOMEBACK!",
-   "reward": "50 Free Coins"
+   "code": "WEAREBACKWITHUPDATES",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "35KLIKES",
+   "reward": "100 Coins"
   },
   {
    "code": "WELCOMEBACK",
    "reward": "50 Coins"
-  },
-  {
-   "code": "JUSTVUSE123",
-   "reward": "Coins"
-  },
-  {
-   "code": "WEAREBACKWITHUPDATES",
-   "reward": "50 Gems"
   },
   {
    "code": "MOREGEMSWOW",
@@ -31,6 +27,6 @@
    "reward": "80 Coins"
   }
  ],
- "updated": "2026-09-01T12:27:41.714Z",
+ "updated": "2026-09-02T18:24:49.133Z",
  "source": "https://robloxden.com/game-codes/fruit-arena"
 }

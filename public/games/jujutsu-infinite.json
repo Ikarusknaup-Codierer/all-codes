@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HAPPY_THANKSGIVING",
+   "code": "LUNAR_2026",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "HAPPY_OCTOBER",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "200 Spins"
+  },
+  {
+   "code": "SOUL_REWORK_OUT",
    "reward": "100 Spins"
   },
   {
-   "code": "350K_YAY",
-   "reward": "Unknown Spins"
-  },
-  {
-   "code": "50K_FOLLOWERS",
-   "reward": "50 Spins And A Double Experience Boost"
-  },
-  {
-   "code": "TOP_SECRET",
-   "reward": "150 Spins"
-  },
-  {
-   "code": "MECH_MAX",
-   "reward": "150 Spins"
+   "code": "LUNAR_FOLLOWS",
+   "reward": "100 Spins"
   }
  ],
- "updated": "2026-09-01T12:22:20.385Z",
+ "updated": "2026-09-02T18:19:55.847Z",
  "source": "https://robloxden.com/game-codes/jujutsu-infinite"
 }

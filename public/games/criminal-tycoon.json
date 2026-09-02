@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "TESTREVAMP",
-   "reward": "$50,000"
-  },
-  {
-   "code": "MARASPECIAL",
-   "reward": "Premium Cases"
-  },
-  {
-   "code": "CYBER",
+   "code": "TEST",
    "reward": "$20,000"
   },
   {
-   "code": "YE",
-   "reward": "50,000 Cash"
+   "code": "CITY",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "NUKE",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "REBIRTH2",
+   "reward": "20,000 Cash"
   },
   {
    "code": "FREESPIN",
    "reward": "Wheel Spin"
   }
  ],
- "updated": "2026-09-01T18:18:27.428Z",
+ "updated": "2026-09-02T18:26:05.907Z",
  "source": "https://robloxden.com/game-codes/criminal-tycoon"
 }

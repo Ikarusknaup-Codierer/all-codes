@@ -11,12 +11,8 @@
    "reward": "1 Dodo Wand"
   },
   {
-   "code": "ElevateCommunityBad",
-   "reward": "Levels"
-  },
-  {
-   "code": "DiabolicaIsNoSkill",
-   "reward": "Levels"
+   "code": "MisticMagyc",
+   "reward": "10 Levels"
   },
   {
    "code": "5mvisits",
@@ -25,8 +21,12 @@
   {
    "code": "Elevate3",
    "reward": "No Listed Reward"
+  },
+  {
+   "code": "NewMap",
+   "reward": "+5 Levels"
   }
  ],
- "updated": "2026-09-01T12:26:36.695Z",
+ "updated": "2026-09-02T18:23:48.206Z",
  "source": "https://robloxden.com/game-codes/mystic-magic"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ONEMILLION",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "SCAVENGER",
    "reward": "350 Coins"
   },
@@ -21,12 +25,8 @@
   {
    "code": "ELEGANCE",
    "reward": "325 Coins"
-  },
-  {
-   "code": "FLY",
-   "reward": "350 Coins"
   }
  ],
- "updated": "2026-09-01T12:22:51.274Z",
+ "updated": "2026-09-02T18:20:25.022Z",
  "source": "https://robloxden.com/game-codes/savannah-life"
 }

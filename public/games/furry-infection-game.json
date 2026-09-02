@@ -15,18 +15,18 @@
    "reward": "50 Cash"
   },
   {
-   "code": "5000LIKES",
+   "code": "38000LIKES",
+   "reward": ""
+  },
+  {
+   "code": "25000LIKES",
+   "reward": "300 Cash"
+  },
+  {
+   "code": "10000LIKES",
    "reward": "Cash"
-  },
-  {
-   "code": "15000LIKES",
-   "reward": "$350"
-  },
-  {
-   "code": "18000LIKES",
-   "reward": "350 Cash"
   }
  ],
- "updated": "2026-09-01T18:18:30.602Z",
+ "updated": "2026-09-02T18:26:08.857Z",
  "source": "https://robloxden.com/game-codes/furry-infection-game"
 }

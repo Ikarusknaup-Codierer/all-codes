@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "TRADE",
+   "code": "FREEUGC",
    "reward": "Free Rewards"
   },
   {
-   "code": "Metynnis",
+   "code": "July4th2023",
    "reward": "400 Silver Dollars"
   },
   {
    "code": "Pirarucu",
    "reward": "400 Silver Dollars"
+  },
+  {
+   "code": "DeltaMaxmus",
+   "reward": "400 Silver Dollars"
   }
  ],
- "updated": "2026-09-01T12:22:38.774Z",
+ "updated": "2026-09-02T18:20:12.678Z",
  "source": "https://robloxden.com/game-codes/amazon-ascension"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "VELVET",
-   "reward": "50,000 Gems"
-  },
-  {
    "code": "MULTIUNBOX",
    "reward": "Free Rewards"
   },
   {
    "code": "PETAL",
    "reward": "30,000 Gems"
+  },
+  {
+   "code": "VELVET",
+   "reward": "50,000 Gems"
   },
   {
    "code": "ROYAL",
@@ -59,6 +59,6 @@
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-09-01T18:18:03.324Z",
+ "updated": "2026-09-02T18:25:43.652Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

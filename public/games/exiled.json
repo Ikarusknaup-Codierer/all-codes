@@ -7,7 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATEDELAYED",
+   "code": "NEWMAPCOMING",
    "reward": "Free rewards"
   },
   {
@@ -15,18 +15,18 @@
    "reward": "5 Style Lucky Spins and 5 Flow Lucky Spins"
   },
   {
-   "code": "2MVISITS",
-   "reward": "2 Revive Tickets"
+   "code": "BOOST!",
+   "reward": "x2 Token Boost"
   },
   {
-   "code": "1MVISITS",
-   "reward": "2,500 Anoms"
+   "code": "200KFAVORITES",
+   "reward": "1,000 Tokens"
   },
   {
-   "code": "EXILEDP4TCH",
-   "reward": "500 Tokens"
+   "code": "VALENTINED4Y",
+   "reward": "1,000 Tokens"
   }
  ],
- "updated": "2026-09-01T12:21:17.842Z",
+ "updated": "2026-09-02T18:19:08.023Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

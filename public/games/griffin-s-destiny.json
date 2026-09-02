@@ -11,10 +11,6 @@
    "reward": "Anubis Mask"
   },
   {
-   "code": "100ktwitter",
-   "reward": "Gemstone Egg"
-  },
-  {
    "code": "100ktiktok",
    "reward": "Demon Collar Accessory"
   },
@@ -25,8 +21,12 @@
   {
    "code": "byegemstoneevent",
    "reward": "Geode Wings"
+  },
+  {
+   "code": "100ktwitter",
+   "reward": "Gemstone Egg"
   }
  ],
- "updated": "2026-09-01T12:26:40.956Z",
+ "updated": "2026-09-02T18:23:51.602Z",
  "source": "https://robloxden.com/game-codes/griffin-s-destiny"
 }

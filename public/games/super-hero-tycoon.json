@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
+   "code": "MEMBERREWARDS",
+   "reward": "Reward"
+  },
+  {
    "code": "MERRYXMAS",
    "reward": "Reward"
   },
   {
-   "code": "GOKU",
+   "code": "WTGWA021",
    "reward": "Free Rewards"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "S3CRET",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "MEMBERREWARD1",
-   "reward": "the Dynamite Item"
+   "code": "700K",
+   "reward": "Free Aura"
   }
  ],
- "updated": "2026-09-02T00:26:54.789Z",
+ "updated": "2026-09-03T06:23:52.563Z",
  "source": "https://robloxden.com/game-codes/super-hero-tycoon"
 }

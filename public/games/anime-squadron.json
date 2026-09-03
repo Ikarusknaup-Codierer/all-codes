@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "JJKBugFixes2!",
+   "reward": "10 Prisms , 100 Trait Shards , and 50 Reroll Cubes"
+  },
+  {
    "code": "BalanceChangesJJK!",
    "reward": "100 Trait Shards , 3,000 Gems , and 10 Prism"
   },
@@ -17,6 +21,10 @@
   {
    "code": "10MilVisits!",
    "reward": "50 Trait Shards and 2,000 Gold"
+  },
+  {
+   "code": "JJKBugFixes!",
+   "reward": "5 Perfect Cubes , 50 Trait Shards , and 2,000 Gems"
   },
   {
    "code": "FreeTanjiroEvo!",
@@ -71,6 +79,6 @@
    "reward": "50 Trait Shards , 1,000 Gems , and 2,000 Gold"
   }
  ],
- "updated": "2026-09-02T00:29:39.987Z",
+ "updated": "2026-09-03T06:25:58.567Z",
  "source": "https://robloxden.com/game-codes/anime-squadron"
 }

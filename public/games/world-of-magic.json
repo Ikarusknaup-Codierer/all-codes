@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Brooms",
+   "code": "Wicked",
    "reward": "Free Rewards"
   },
   {
-   "code": "LOOT5",
-   "reward": "a 5 Hour 1.5x Crown Boost"
+   "code": "WEKNOW10",
+   "reward": "a 10 Hour 1.5x XP Boost"
   },
   {
-   "code": "NEW2021YEAR",
-   "reward": "a 24 Hour 1.5x Crown Boost and a 24 Hour 1.5x XP Boost"
-  },
-  {
-   "code": "SELECTORCH200",
-   "reward": "200 Crowns"
+   "code": "CHOSENONE",
+   "reward": "a 5 Hour 2x XP Boost"
   },
   {
    "code": "CURSE300",
    "reward": "300 Crowns"
+  },
+  {
+   "code": "WARAGES300",
+   "reward": "300 Crowns"
   }
  ],
- "updated": "2026-09-02T00:25:16.614Z",
+ "updated": "2026-09-03T06:21:58.558Z",
  "source": "https://robloxden.com/game-codes/world-of-magic"
 }

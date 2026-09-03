@@ -11,10 +11,6 @@
    "reward": "This code Changes the beta version to the regular version"
   },
   {
-   "code": "ROCKBOOST",
-   "reward": "1 Super Mining Boost"
-  },
-  {
    "code": "FREELVL",
    "reward": "1 Level"
   },
@@ -101,8 +97,12 @@
   {
    "code": "MOREENERGY",
    "reward": "1 Super Mining Boost"
+  },
+  {
+   "code": "ROCKBOOST",
+   "reward": "1 Super Mining Boost"
   }
  ],
- "updated": "2026-09-02T00:25:31.655Z",
+ "updated": "2026-09-03T06:22:17.679Z",
  "source": "https://robloxden.com/game-codes/bitcoin-miner"
 }

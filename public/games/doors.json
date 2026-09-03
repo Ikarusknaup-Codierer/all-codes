@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FE4R_RBX",
-   "reward": "5 Knobs"
-  },
-  {
    "code": "NO_DATA",
    "reward": "5 Knobs"
   },
@@ -81,8 +77,12 @@
   {
    "code": "SCREECHSUCKS",
    "reward": "25 Doorknobs"
+  },
+  {
+   "code": "FE4R_RBX",
+   "reward": "5 Knobs"
   }
  ],
- "updated": "2026-09-02T00:31:03.121Z",
+ "updated": "2026-09-03T06:27:26.205Z",
  "source": "https://robloxden.com/game-codes/doors"
 }

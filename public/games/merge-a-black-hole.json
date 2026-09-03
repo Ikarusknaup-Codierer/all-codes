@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Sorry4Delay",
+   "reward": "7 Stars and 10 Spin Tickets"
+  },
+  {
+   "code": "PETS",
+   "reward": "3 Spin Tickets and 2x Cash (10 Minutes)"
+  },
+  {
+   "code": "ALIENS",
+   "reward": "200,500 Cash and 10 Stars"
+  },
+  {
    "code": "UPDATE4",
    "reward": "7 Stars"
   },
@@ -31,6 +43,6 @@
    "reward": "3 Spin Tickets"
   }
  ],
- "updated": "2026-09-02T00:31:27.280Z",
+ "updated": "2026-09-03T06:27:48.086Z",
  "source": "https://robloxden.com/game-codes/merge-a-black-hole"
 }

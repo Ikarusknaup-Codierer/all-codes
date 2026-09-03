@@ -11,12 +11,12 @@
    "reward": "3K Coins"
   },
   {
-   "code": "betaend",
-   "reward": "1.5K Coins"
-  },
-  {
    "code": "FULLRELEASE",
    "reward": "2K Coins"
+  },
+  {
+   "code": "BLACKHOLE",
+   "reward": "5 Spins"
   },
   {
    "code": "BOOST",
@@ -27,6 +27,6 @@
    "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-09-02T00:30:22.147Z",
+ "updated": "2026-09-03T06:26:53.257Z",
  "source": "https://robloxden.com/game-codes/blackhole-rush"
 }

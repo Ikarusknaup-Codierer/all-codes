@@ -11,22 +11,22 @@
    "reward": "15,000 Cash"
   },
   {
+   "code": "1star",
+   "reward": "Changes the Police Star Alert to Level 1"
+  },
+  {
    "code": "noontime",
    "reward": "Changes the Time of Day to 12:00 AM"
   },
   {
-   "code": "iknowall",
-   "reward": "Learns All of the Tenant Routines from Every Lot in Each Neighborhood"
+   "code": "clearitems",
+   "reward": "Clears Items Placed in Vehicle"
   },
   {
-   "code": "thieftools",
-   "reward": "A Full Set of Tools"
-  },
-  {
-   "code": "movingup",
-   "reward": "3K Cash"
+   "code": "almightysosta",
+   "reward": "10K Cash"
   }
  ],
- "updated": "2026-09-02T00:25:54.108Z",
+ "updated": "2026-09-03T06:22:41.674Z",
  "source": "https://robloxden.com/game-codes/thief-simulator"
 }

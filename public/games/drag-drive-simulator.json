@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DDSSLAMETRIYADIUPDATE",
+   "reward": "30,000,000 RP"
+  },
+  {
+   "code": "DRAGDRIVESIMULATORJULY26",
+   "reward": "35,000,000 RP"
+  },
+  {
    "code": "DDSTHX150KROADTO175KLIKES",
    "reward": "75,000,000 RP"
   },
@@ -15,16 +23,8 @@
    "reward": "30,000,000 RP"
   },
   {
-   "code": "DDSSLAMETRIYADIUPDATE",
-   "reward": "30,000,000 RP"
-  },
-  {
    "code": "DELAYXIXIORDERANDOUBLE",
    "reward": "25,000,000 RP"
-  },
-  {
-   "code": "DRAGDRIVESIMULATORJULY26",
-   "reward": "35,000,000 RP"
   },
   {
    "code": "DRAGDRIVESIMULATORJUNE26",
@@ -67,6 +67,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-02T00:27:00.736Z",
+ "updated": "2026-09-03T06:23:58.003Z",
  "source": "https://robloxden.com/game-codes/drag-drive-simulator"
 }

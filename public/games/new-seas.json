@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "WheresTheUpdate",
+   "reward": "Freebies"
+  },
+  {
+   "code": "Milestone",
+   "reward": "Freebies"
+  },
+  {
+   "code": "texaspete",
+   "reward": "Freebies"
+  },
+  {
    "code": "Cinema",
    "reward": "Freebies"
   },
@@ -227,8 +239,16 @@
    "reward": "100 Doubloons"
   },
   {
-   "code": "YonkoChild",
-   "reward": "1,000 Doubloons"
+   "code": "ShotgunChanges",
+   "reward": "Freebies"
+  },
+  {
+   "code": "LateNightStress",
+   "reward": "Freebies"
+  },
+  {
+   "code": "Warships",
+   "reward": "Freebies"
   },
   {
    "code": "DoingAlotForTheGame",
@@ -467,6 +487,10 @@
    "reward": "Free rewards"
   },
   {
+   "code": "YonkoChild",
+   "reward": "1,000 Doubloons"
+  },
+  {
    "code": "IDontCare",
    "reward": "1,000 Doubloons"
   },
@@ -511,6 +535,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-09-02T00:31:22.938Z",
+ "updated": "2026-09-03T06:27:45.727Z",
  "source": "https://robloxden.com/game-codes/new-seas"
 }

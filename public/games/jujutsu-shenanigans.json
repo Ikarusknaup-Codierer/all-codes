@@ -11,22 +11,22 @@
    "reward": "Nep Achievement And \"Woven Insight\" Emote"
   },
   {
+   "code": "SHUTDOWN",
+   "reward": "Shutdown Reward"
+  },
+  {
    "code": "17KLIKESCODE",
    "reward": "17K Likes Code Reward"
   },
   {
-   "code": "500KVISITS",
-   "reward": "500K Visits Reward"
+   "code": "2XCTWEEKEND",
+   "reward": "2x CT Weekend Reward"
   },
   {
-   "code": "20MVISITS",
-   "reward": "200 Cash"
-  },
-  {
-   "code": "JJS1YEAR",
-   "reward": "50 Cash"
+   "code": "MERRY_CHRISTMAS",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-09-02T00:28:18.363Z",
+ "updated": "2026-09-03T06:25:15.852Z",
  "source": "https://robloxden.com/game-codes/jujutsu-shenanigans"
 }

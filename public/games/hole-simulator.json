@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "RAINBOWPLANETS",
-   "reward": "1 Coin Potion"
+   "code": "Money",
+   "reward": "New Skin"
   },
   {
-   "code": "UPDATE4",
-   "reward": "30 Minute Bricks Potion"
+   "code": "UPDATE7",
+   "reward": "1 Gem Potion"
   },
   {
-   "code": "EXTRAGEMS",
-   "reward": "5 Minute Gems Potion"
+   "code": "snuglife",
+   "reward": "5 Minute Coins Potion"
+  },
+  {
+   "code": "razorfishgaming",
+   "reward": "5 Minute Bricks Potion"
   },
   {
    "code": "blizmid",
    "reward": "10 Gems"
-  },
-  {
-   "code": "boost",
-   "reward": "50 Coins"
   }
  ],
- "updated": "2026-09-02T00:24:50.797Z",
+ "updated": "2026-09-03T06:21:36.489Z",
  "source": "https://robloxden.com/game-codes/hole-simulator"
 }

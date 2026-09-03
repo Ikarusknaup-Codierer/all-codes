@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "ExclusiveDragonEgg",
-   "reward": "Exclusive Dragon Egg"
+   "code": "CatHoverboard",
+   "reward": "Cat Hoverboard"
   },
   {
    "code": "PFB96CG9472D",
-   "reward": "Huge Axolotl Pet"
-  },
-  {
-   "code": "DPETUJ44AB89",
    "reward": "Huge Axolotl Pet"
   },
   {
@@ -23,10 +19,14 @@
    "reward": "Huge Axolotl Pet"
   },
   {
+   "code": "pet-45a33a2dca",
+   "reward": "Huge Dragon Pet"
+  },
+  {
    "code": "pet-d67518012",
    "reward": "Huge Dog Pet"
   }
  ],
- "updated": "2026-09-02T00:27:45.648Z",
+ "updated": "2026-09-03T06:24:42.657Z",
  "source": "https://robloxden.com/game-codes/pet-simulator-99"
 }

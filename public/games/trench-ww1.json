@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "THETRENCHLIFE",
+   "reward": "the Remnant Of The Keeper"
+  },
+  {
    "code": "2KCCU",
    "reward": "400 Medals"
   },
@@ -27,10 +31,6 @@
    "reward": "800 Medals and 3 Enlisted Cosmetic Crates"
   },
   {
-   "code": "1KCCUREWARD",
-   "reward": "500 Medals, 3 Enlisted Cosmetic Crates, 1 Enlisted Firearm Crate and 1"
-  },
-  {
    "code": "MajorObjectives",
    "reward": "200 Medals and 1 Enlisted Cosmetic Crates"
   },
@@ -41,6 +41,10 @@
   {
    "code": "DMH1AMTESTING",
    "reward": "300 Medals"
+  },
+  {
+   "code": "1KCCUREWARD",
+   "reward": "500 Medals, 3 Enlisted Cosmetic Crates, 1 Enlisted Firearm Crate and 1"
   },
   {
    "code": "MERCILESSWARBOND",
@@ -75,6 +79,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-09-02T00:32:05.861Z",
+ "updated": "2026-09-03T06:28:13.295Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

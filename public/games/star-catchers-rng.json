@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SEASHELLS",
+   "reward": "50 Seashells"
+  },
+  {
    "code": "SUNKISSED",
    "reward": "Boosted Summer Star Odds On Your Next 10 Rolls"
   },
@@ -19,6 +23,6 @@
    "reward": "Spoonful Trophy Decor"
   }
  ],
- "updated": "2026-09-02T00:30:47.098Z",
+ "updated": "2026-09-03T06:27:14.592Z",
  "source": "https://robloxden.com/game-codes/star-catchers-rng"
 }

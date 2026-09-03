@@ -15,10 +15,6 @@
    "reward": "6,000 Season Vouchers"
   },
   {
-   "code": "NEWMAPEXPAND",
-   "reward": "2 Race Rerolls and 200 Origin Shards"
-  },
-  {
    "code": "IRONSOULWEEKEND16",
    "reward": "3 Race Rerolls"
   },
@@ -53,10 +49,6 @@
   {
    "code": "GROCERYFIX",
    "reward": "2 Race Rerolls"
-  },
-  {
-   "code": "THURSDAYGIFT",
-   "reward": "3 S1 Lucky Tickets"
   },
   {
    "code": "ODYSSEY",
@@ -109,8 +101,16 @@
   {
    "code": "NEWMAP",
    "reward": "2 Race Rerolls , 5 Crystal Flakes , and 3 Crystal Prisms"
+  },
+  {
+   "code": "NEWMAPEXPAND",
+   "reward": "2 Race Rerolls and 200 Origin Shards"
+  },
+  {
+   "code": "THURSDAYGIFT",
+   "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-09-02T00:29:51.047Z",
+ "updated": "2026-09-03T06:26:08.501Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

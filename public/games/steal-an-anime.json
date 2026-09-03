@@ -57,8 +57,16 @@
   {
    "code": "FOLLOWCODE",
    "reward": "10 Wheel Spins . In order to redeem this code, you must have at least "
+  },
+  {
+   "code": "SANTA",
+   "reward": "25 Spins"
+  },
+  {
+   "code": "YAREYARE",
+   "reward": "30 Spins"
   }
  ],
- "updated": "2026-09-02T18:19:44.641Z",
+ "updated": "2026-09-03T18:25:43.344Z",
  "source": "https://robloxden.com/game-codes/steal-an-anime"
 }

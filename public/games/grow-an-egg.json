@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "12MVISIT",
+   "reward": "Exclusive Rewards"
+  },
+  {
    "code": "DISCO2",
    "reward": "Exclusive Rewards"
   },
   {
-   "code": "45KLIKE",
-   "reward": "Freebies"
+   "code": "3000LIKE",
+   "reward": "Packs"
   },
   {
-   "code": "15KLIKE",
-   "reward": "Freebies"
+   "code": "20KLIKE",
+   "reward": "Fireworks and Chicken Eggs"
   },
   {
-   "code": "25KLIKE",
-   "reward": "Instant Grow Seed"
+   "code": "750LIKE",
+   "reward": "10 Dino Packs"
   }
  ],
- "updated": "2026-09-02T12:26:02.944Z",
+ "updated": "2026-09-03T18:21:57.074Z",
  "source": "https://robloxden.com/game-codes/grow-an-egg"
 }

@@ -41,8 +41,16 @@
   {
    "code": "freefood",
    "reward": "10 Cheese"
+  },
+  {
+   "code": "SPOOKYLORD",
+   "reward": "100 Yen"
+  },
+  {
+   "code": "TEAMWORK",
+   "reward": "a Clan Token"
   }
  ],
- "updated": "2026-09-02T12:24:21.153Z",
+ "updated": "2026-09-03T18:20:13.491Z",
  "source": "https://robloxden.com/game-codes/sword-league"
 }

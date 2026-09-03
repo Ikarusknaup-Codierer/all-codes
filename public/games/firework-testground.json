@@ -41,8 +41,16 @@
   {
    "code": "RELEASE",
    "reward": "500 Boomcoins and 1 Roman Candle"
+  },
+  {
+   "code": "UPDATE30",
+   "reward": "2,500 BoomCoins"
+  },
+  {
+   "code": "UPDATE28",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-02T12:22:34.123Z",
+ "updated": "2026-09-03T18:18:31.054Z",
  "source": "https://robloxden.com/game-codes/firework-testground"
 }

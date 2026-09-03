@@ -25,8 +25,16 @@
   {
    "code": "DESERT",
    "reward": "500 Coins"
+  },
+  {
+   "code": "MAP3",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "CHALLENGES",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-02T12:28:49.381Z",
+ "updated": "2026-09-03T18:24:21.462Z",
  "source": "https://robloxden.com/game-codes/craft-tower-defense"
 }

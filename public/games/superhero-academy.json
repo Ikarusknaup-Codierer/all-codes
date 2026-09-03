@@ -45,8 +45,16 @@
   {
    "code": "cdchange",
    "reward": "2 Holo Discs"
+  },
+  {
+   "code": "RNG",
+   "reward": "Golden Dice"
+  },
+  {
+   "code": "holodisk",
+   "reward": "2 Holo Discs"
   }
  ],
- "updated": "2026-09-02T12:25:56.668Z",
+ "updated": "2026-09-03T18:21:50.563Z",
  "source": "https://robloxden.com/game-codes/superhero-academy"
 }

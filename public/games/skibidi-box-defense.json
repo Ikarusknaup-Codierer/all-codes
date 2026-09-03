@@ -29,8 +29,16 @@
   {
    "code": "SkibidiBox",
    "reward": "250 Boxes"
+  },
+  {
+   "code": "7500Likes",
+   "reward": "Tokens"
+  },
+  {
+   "code": "Classic",
+   "reward": "Tokens"
   }
  ],
- "updated": "2026-09-02T18:19:23.918Z",
+ "updated": "2026-09-03T18:25:23.605Z",
  "source": "https://robloxden.com/game-codes/skibidi-box-defense"
 }

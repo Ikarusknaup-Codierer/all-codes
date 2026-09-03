@@ -29,8 +29,16 @@
   {
    "code": "GUARD",
    "reward": "30,000 Wins"
+  },
+  {
+   "code": "1000Likes",
+   "reward": "Unknown Reward"
+  },
+  {
+   "code": "5000Likes",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-02T18:19:25.446Z",
+ "updated": "2026-09-03T18:25:25.060Z",
  "source": "https://robloxden.com/game-codes/bomb-digging-simulator"
 }

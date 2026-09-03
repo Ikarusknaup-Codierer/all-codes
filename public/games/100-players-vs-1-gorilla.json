@@ -57,8 +57,16 @@
   {
    "code": "8KLIKES",
    "reward": "100 Bananas"
+  },
+  {
+   "code": "32500LIKES",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "30000LIKES",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-02T12:27:30.309Z",
+ "updated": "2026-09-03T18:23:37.534Z",
  "source": "https://robloxden.com/game-codes/100-players-vs-1-gorilla"
 }

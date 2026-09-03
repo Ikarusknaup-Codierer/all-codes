@@ -111,10 +111,14 @@
    "reward": "1 Speed Boost and 1 Secret Luck Boost"
   },
   {
+   "code": "JUMPHIGH",
+   "reward": "Jump Boost (30 Minutes)"
+  },
+  {
    "code": "IRONMANT",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-02T12:26:56.680Z",
+ "updated": "2026-09-03T18:23:09.192Z",
  "source": "https://robloxden.com/game-codes/climb-and-jump-tower"
 }

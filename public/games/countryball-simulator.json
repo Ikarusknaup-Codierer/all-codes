@@ -29,8 +29,16 @@
   {
    "code": "5mVisits",
    "reward": "10 Skill Points"
+  },
+  {
+   "code": "100k",
+   "reward": "2 Skill Points"
+  },
+  {
+   "code": "5kLikes",
+   "reward": "50 Clay"
   }
  ],
- "updated": "2026-09-02T12:25:19.410Z",
+ "updated": "2026-09-03T18:21:12.855Z",
  "source": "https://robloxden.com/game-codes/countryball-simulator"
 }

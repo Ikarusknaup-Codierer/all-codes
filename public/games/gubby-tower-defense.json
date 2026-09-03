@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "SpeedChanger",
+   "code": "1MVisitis",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "Summer",
-   "reward": "In-Game Rewards"
   },
   {
    "code": "Quests",
@@ -23,10 +19,14 @@
    "reward": "300 Cash"
   },
   {
+   "code": "PlayBaseTD",
+   "reward": "200 Gubcoins and XP"
+  },
+  {
    "code": "Matchmaking",
    "reward": "200 Gubcoins and XP"
   }
  ],
- "updated": "2026-09-02T12:25:48.821Z",
+ "updated": "2026-09-03T18:21:42.567Z",
  "source": "https://robloxden.com/game-codes/gubby-tower-defense"
 }

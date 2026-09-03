@@ -201,8 +201,16 @@
   {
    "code": "welcome",
    "reward": "1x Gold Potion"
+  },
+  {
+   "code": "update22",
+   "reward": "2 Easter Eggs and 3 Amplification Gems"
+  },
+  {
+   "code": "update9",
+   "reward": "1x Gold Potion, 1x Damage Potion and 500 Gold"
   }
  ],
- "updated": "2026-09-02T18:20:19.832Z",
+ "updated": "2026-09-03T18:26:17.360Z",
  "source": "https://robloxden.com/game-codes/reborn-as-skill-master"
 }

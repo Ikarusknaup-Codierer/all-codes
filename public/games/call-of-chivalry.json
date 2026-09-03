@@ -197,8 +197,16 @@
   {
    "code": "1point1million",
    "reward": "2,000 Gold and XP"
+  },
+  {
+   "code": "150KVists",
+   "reward": "450 EXP"
+  },
+  {
+   "code": "OneThousand",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-02T18:19:17.980Z",
+ "updated": "2026-09-03T18:25:17.651Z",
  "source": "https://robloxden.com/game-codes/call-of-chivalry"
 }

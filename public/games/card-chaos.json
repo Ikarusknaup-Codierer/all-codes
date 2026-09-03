@@ -37,8 +37,16 @@
   {
    "code": "BASICQOL",
    "reward": "2500 Cash"
+  },
+  {
+   "code": "WELCOMECONSOLE",
+   "reward": "2,225 Cash"
+  },
+  {
+   "code": "FINALLYRELEASE",
+   "reward": "1,200 Cash"
   }
  ],
- "updated": "2026-09-02T12:27:10.628Z",
+ "updated": "2026-09-03T18:23:19.035Z",
  "source": "https://robloxden.com/game-codes/card-chaos"
 }

@@ -11,22 +11,22 @@
    "reward": "10 Gold"
   },
   {
-   "code": "ISLANDS",
+   "code": "15MILLIONVISITS",
+   "reward": ""
+  },
+  {
+   "code": "BUGFIX",
    "reward": "10 Gold"
   },
   {
-   "code": "LOSTCURRENTSALPHA",
-   "reward": "20 Gold"
+   "code": "HAPPYNEWYEAR",
+   "reward": "15 Gold"
   },
   {
-   "code": "THEWHALE",
-   "reward": "20 Gold"
-  },
-  {
-   "code": "SUMMER2025",
+   "code": "75KLIKES",
    "reward": "20 Gold"
   }
  ],
- "updated": "2026-09-02T18:19:19.963Z",
+ "updated": "2026-09-03T18:25:19.610Z",
  "source": "https://robloxden.com/game-codes/lost-currents"
 }

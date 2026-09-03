@@ -25,8 +25,16 @@
   {
    "code": "100KVisits",
    "reward": "250 Coins"
+  },
+  {
+   "code": "2KFavorites",
+   "reward": "Bux"
+  },
+  {
+   "code": "ThankYouAll",
+   "reward": "Bux"
   }
  ],
- "updated": "2026-09-02T12:25:09.210Z",
+ "updated": "2026-09-03T18:21:02.399Z",
  "source": "https://robloxden.com/game-codes/sword-randomizer"
 }

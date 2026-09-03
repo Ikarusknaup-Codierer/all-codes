@@ -177,8 +177,16 @@
   {
    "code": "COIN",
    "reward": "1,000 Coins"
+  },
+  {
+   "code": "BUGKING",
+   "reward": "Three Luck Potion III"
+  },
+  {
+   "code": "HAPPYSTP",
+   "reward": "20 Luck Potions"
   }
  ],
- "updated": "2026-09-02T12:28:53.440Z",
+ "updated": "2026-09-03T18:24:21.954Z",
  "source": "https://robloxden.com/game-codes/lootify"
 }

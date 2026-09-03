@@ -11,12 +11,12 @@
    "reward": "1 Boost Item"
   },
   {
-   "code": "UPD2",
-   "reward": "250,000 Money"
+   "code": "1klikes",
+   "reward": "5 Boost Items"
   },
   {
-   "code": "quests",
-   "reward": "100,000 Money"
+   "code": "update",
+   "reward": "250,000 Money"
   },
   {
    "code": "release",
@@ -27,6 +27,6 @@
    "reward": "111,111 Cash"
   }
  ],
- "updated": "2026-09-02T12:26:59.691Z",
+ "updated": "2026-09-03T18:23:12.169Z",
  "source": "https://robloxden.com/game-codes/obby-rng"
 }

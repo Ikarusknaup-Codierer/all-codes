@@ -25,8 +25,16 @@
   {
    "code": "1mvisits",
    "reward": "In-Game Rewards"
+  },
+  {
+   "code": "25KVISITS",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "5klikes",
+   "reward": "In-Game Rewards"
   }
  ],
- "updated": "2026-09-02T12:29:03.510Z",
+ "updated": "2026-09-03T18:24:25.943Z",
  "source": "https://robloxden.com/game-codes/build-a-gym"
 }

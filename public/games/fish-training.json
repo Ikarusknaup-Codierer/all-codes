@@ -29,8 +29,16 @@
   {
    "code": "Turtle",
    "reward": "1 Golden Potion"
+  },
+  {
+   "code": "Like",
+   "reward": "2 Wins Potions"
+  },
+  {
+   "code": "Whale",
+   "reward": "1 Golden Potion"
   }
  ],
- "updated": "2026-09-02T18:19:55.135Z",
+ "updated": "2026-09-03T18:25:54.192Z",
  "source": "https://robloxden.com/game-codes/fish-training"
 }

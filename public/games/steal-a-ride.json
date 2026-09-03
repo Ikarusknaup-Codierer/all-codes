@@ -19,10 +19,14 @@
    "reward": "90,000 Cash"
   },
   {
-   "code": "HEIST10",
+   "code": "STEALFAST",
+   "reward": "Reward"
+  },
+  {
+   "code": "CARLOVER",
    "reward": "Reward"
   }
  ],
- "updated": "2026-09-02T12:26:48.347Z",
+ "updated": "2026-09-03T18:23:00.317Z",
  "source": "https://robloxden.com/game-codes/steal-a-ride"
 }

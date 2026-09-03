@@ -29,8 +29,16 @@
   {
    "code": "CRAB",
    "reward": "250 Cash"
+  },
+  {
+   "code": "TOXIC",
+   "reward": "Bonds"
+  },
+  {
+   "code": "Apologies",
+   "reward": "Bonds"
   }
  ],
- "updated": "2026-09-02T12:26:25.034Z",
+ "updated": "2026-09-03T18:22:18.613Z",
  "source": "https://robloxden.com/game-codes/wild-rails-tower-defense"
 }

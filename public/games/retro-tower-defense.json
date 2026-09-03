@@ -45,8 +45,16 @@
   {
    "code": "JOHNDOE",
    "reward": "50 Tix"
+  },
+  {
+   "code": "MMMPIZZA",
+   "reward": "1.15x Money Boost and 1.10x Damage Boost"
+  },
+  {
+   "code": "NEVERMOOR",
+   "reward": "500 Tix and +15% Tix Boost (1 Hour)"
   }
  ],
- "updated": "2026-09-02T12:24:53.397Z",
+ "updated": "2026-09-03T18:20:46.486Z",
  "source": "https://robloxden.com/game-codes/retro-tower-defense"
 }

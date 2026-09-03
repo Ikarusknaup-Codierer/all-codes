@@ -49,8 +49,16 @@
   {
    "code": "welcome",
    "reward": "1 2x Wins Potion"
+  },
+  {
+   "code": "Christmas",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "HalloweenGift",
+   "reward": "1 Halloween Egg"
   }
  ],
- "updated": "2026-09-02T12:22:25.130Z",
+ "updated": "2026-09-03T18:18:22.482Z",
  "source": "https://robloxden.com/game-codes/plane-race-with-99-propellers"
 }

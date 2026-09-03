@@ -29,8 +29,16 @@
   {
    "code": "WELCOME",
    "reward": "5 Coins"
+  },
+  {
+   "code": "40MVISITS",
+   "reward": "40 Coins"
+  },
+  {
+   "code": "PUMPKINKING",
+   "reward": "10 Coins"
   }
  ],
- "updated": "2026-09-02T12:22:56.656Z",
+ "updated": "2026-09-03T18:18:49.674Z",
  "source": "https://robloxden.com/game-codes/fnaf-eternal-nights"
 }

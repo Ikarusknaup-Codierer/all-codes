@@ -233,8 +233,16 @@
   {
    "code": "20000LIKE",
    "reward": "1 Power Potion and 10 Weapon Crystals"
+  },
+  {
+   "code": "FIX15",
+   "reward": "Rewards"
+  },
+  {
+   "code": "FIX10",
+   "reward": "1 Damage Potion, 3 Weapon Crystals, And 10 Raid Keys"
   }
  ],
- "updated": "2026-09-02T12:26:56.170Z",
+ "updated": "2026-09-03T18:23:08.652Z",
  "source": "https://robloxden.com/game-codes/anime-evolution"
 }

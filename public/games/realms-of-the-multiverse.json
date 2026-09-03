@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "littlewitch",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "taversia",
-   "reward": "250 Coins"
+   "code": "halloween",
+   "reward": "3,500 Coins"
   },
   {
    "code": "femalewizard",
@@ -23,10 +19,14 @@
    "reward": "250 Coins"
   },
   {
-   "code": "broke",
-   "reward": "3,500 Coins"
+   "code": "aou",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "granger",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-02T12:25:16.033Z",
+ "updated": "2026-09-03T18:21:09.469Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

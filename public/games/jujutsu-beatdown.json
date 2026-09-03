@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AbsoluteComedy",
+   "reward": "200 Gems"
+  },
+  {
    "code": "FreeFrozen",
    "reward": "222 Gems"
   },
@@ -15,18 +19,14 @@
    "reward": "250 Gems"
   },
   {
-   "code": "MEGUMIRELEASE",
-   "reward": "250 Gems"
-  },
-  {
-   "code": "sorryforshutdown",
-   "reward": "100 Gems"
-  },
-  {
-   "code": "THANKS4SUPPORT",
+   "code": "MerryChristmas",
    "reward": "200 Gems"
+  },
+  {
+   "code": "BadFatherBase",
+   "reward": "100 Gems"
   }
  ],
- "updated": "2026-09-02T12:22:41.555Z",
+ "updated": "2026-09-03T18:18:36.771Z",
  "source": "https://robloxden.com/game-codes/jujutsu-beatdown"
 }

@@ -69,8 +69,16 @@
   {
    "code": "DELAYBOUND",
    "reward": "5 Style Spins and 3 Ego Lucky Spins"
+  },
+  {
+   "code": "IFOLLOWKRIE",
+   "reward": "1 Lucky Spin"
+  },
+  {
+   "code": "SRYFORAIKUDELAY",
+   "reward": "5 Style Lucky Spins"
   }
  ],
- "updated": "2026-09-02T12:24:22.645Z",
+ "updated": "2026-09-03T18:20:15.009Z",
  "source": "https://robloxden.com/game-codes/goalbound"
 }

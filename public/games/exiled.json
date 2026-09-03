@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATEDELAYED",
+   "reward": "Free rewards"
+  },
+  {
    "code": "NEWMAPCOMING",
    "reward": "Free rewards"
   },
   {
-   "code": "ISAGI!",
-   "reward": "5 Style Lucky Spins and 5 Flow Lucky Spins"
+   "code": "BLACKLEG!",
+   "reward": "4 Wheel Spins and 1 Hour Money Boost"
   },
   {
-   "code": "BOOST!",
-   "reward": "x2 Token Boost"
-  },
-  {
-   "code": "200KFAVORITES",
+   "code": "5MVISITS",
    "reward": "1,000 Tokens"
   },
   {
-   "code": "VALENTINED4Y",
-   "reward": "1,000 Tokens"
+   "code": "80KLIKES",
+   "reward": "500 Tokens"
   }
  ],
- "updated": "2026-09-02T18:19:08.023Z",
+ "updated": "2026-09-03T18:25:07.660Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

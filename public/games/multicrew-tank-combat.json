@@ -11,6 +11,10 @@
    "reward": "30,000 Money"
   },
   {
+   "code": "BUGFIXES",
+   "reward": "Reward"
+  },
+  {
    "code": "SORRY",
    "reward": "Reward"
   },
@@ -21,12 +25,8 @@
   {
    "code": "IHELDTHELINE",
    "reward": "Reward"
-  },
-  {
-   "code": "RIAS",
-   "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-09-02T12:26:55.654Z",
+ "updated": "2026-09-03T18:23:08.091Z",
  "source": "https://robloxden.com/game-codes/multicrew-tank-combat"
 }

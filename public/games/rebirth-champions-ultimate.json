@@ -245,8 +245,16 @@
   {
    "code": "mastery",
    "reward": "Potions"
+  },
+  {
+   "code": "grinch",
+   "reward": "Three Christmas Gifts, Ten Christmas Tickets, A Grinch Exclusive Egg, "
+  },
+  {
+   "code": "classic",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-02T18:19:20.944Z",
+ "updated": "2026-09-03T18:25:20.597Z",
  "source": "https://robloxden.com/game-codes/rebirth-champions-ultimate"
 }

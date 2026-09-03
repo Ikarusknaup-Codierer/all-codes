@@ -7,16 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "MYSERVERLUCK",
+   "reward": "2x Server Luck (10 Minutes)"
+  },
+  {
+   "code": "VOODOO",
+   "reward": "3 Tower Keys"
+  },
+  {
    "code": "Icecave",
    "reward": "1 Inferno Battery"
   },
   {
    "code": "CERBERUS",
    "reward": "2 XP Potions"
-  },
-  {
-   "code": "SPIDEYBOSS",
-   "reward": "a Galaxy Battery"
   },
   {
    "code": "INFERNOROLL",
@@ -51,10 +55,18 @@
    "reward": "an Assassin Hero"
   },
   {
+   "code": "LUCK4ALL",
+   "reward": "4x Server Luck (15 Minutes)"
+  },
+  {
    "code": "GALAXYGUILD",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "SPIDEYBOSS",
+   "reward": "a Galaxy Battery"
   }
  ],
- "updated": "2026-09-01T18:26:13.583Z",
+ "updated": "2026-09-03T00:32:27.305Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

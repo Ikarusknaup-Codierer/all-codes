@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
+   "code": "KingOfPirates",
+   "reward": "Free Boosts"
+  },
+  {
    "code": "WallGlitch",
    "reward": "Yen Boost (30 minutes)"
   },
   {
-   "code": "OverhaulUpdate",
+   "code": "Part1Fix",
    "reward": "5 Spins"
   },
   {
@@ -19,10 +23,10 @@
    "reward": "5 Spins"
   },
   {
-   "code": "iWANTLEGENDARY",
-   "reward": "a 10 Minute XP Boost"
+   "code": "RELEASE",
+   "reward": "a 10 Minute Yen Boost"
   }
  ],
- "updated": "2026-09-01T18:25:06.221Z",
+ "updated": "2026-09-03T00:31:19.382Z",
  "source": "https://robloxden.com/game-codes/hero-academia-final-ember"
 }

@@ -11,10 +11,6 @@
    "reward": "Boost x2 (33 Minutes)"
   },
   {
-   "code": "B16_MSCL3",
-   "reward": "200 Strength"
-  },
-  {
    "code": "HAPPY2021",
    "reward": "a free Rare Pet"
   },
@@ -25,8 +21,12 @@
   {
    "code": "STR3NGTH",
    "reward": "Rewards"
+  },
+  {
+   "code": "LIKES1500",
+   "reward": "15 Coins"
   }
  ],
- "updated": "2026-09-02T00:24:02.852Z",
+ "updated": "2026-09-03T00:34:00.137Z",
  "source": "https://robloxden.com/game-codes/lift-vehicles"
 }

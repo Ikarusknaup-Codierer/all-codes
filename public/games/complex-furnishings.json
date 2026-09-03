@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORTHEBUGS",
+   "reward": "100 Money"
+  },
+  {
    "code": "10KEVENT",
    "reward": "50 Money"
   },
@@ -31,6 +35,6 @@
    "reward": "50 Money"
   }
  ],
- "updated": "2026-09-02T00:23:59.820Z",
+ "updated": "2026-09-03T00:33:57.020Z",
  "source": "https://robloxden.com/game-codes/complex-furnishings"
 }

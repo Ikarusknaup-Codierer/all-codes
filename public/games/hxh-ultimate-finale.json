@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SUB2NIJIXAMORE",
-   "reward": "2x Exp (1 Hour and 30 Minutes)"
-  },
-  {
-   "code": "SLY",
-   "reward": "2x Exp (1 Hour and 30 Minutes)"
-  },
-  {
    "code": "REGIS",
    "reward": "1 Common Spin"
   },
@@ -23,10 +15,18 @@
    "reward": "1 Uncommon Spin and 2x Exp (30 Minutes)"
   },
   {
-   "code": "CMONVEDDEN",
-   "reward": "1 Lucky New Reroll"
+   "code": "DROPTHEGAME",
+   "reward": "1 Uncommon New Reroll"
+  },
+  {
+   "code": "MYBADBRUH",
+   "reward": "1 Rare Spin"
+  },
+  {
+   "code": "DANGBRUH",
+   "reward": "1 Rare Hatsu Reroll"
   }
  ],
- "updated": "2026-09-02T00:24:14.407Z",
+ "updated": "2026-09-03T00:34:11.609Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

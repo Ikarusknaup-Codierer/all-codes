@@ -27,10 +27,6 @@
    "reward": "1 Pride Swarm Snack"
   },
   {
-   "code": "TintSeed",
-   "reward": "3 Tint Seeds"
-  },
-  {
    "code": "200KLikes",
    "reward": "2 hours of +1 Chain Booster"
   },
@@ -247,6 +243,10 @@
    "reward": "a Misprint 5 Stars Random Tinted Garracude"
   },
   {
+   "code": "TintSeed",
+   "reward": "3 Tint Seeds"
+  },
+  {
    "code": "WRaps",
    "reward": "the 6 Stars Double Tinted Wrappy"
   },
@@ -255,6 +255,6 @@
    "reward": "Chain Boost"
   }
  ],
- "updated": "2026-09-01T18:28:13.653Z",
+ "updated": "2026-09-03T00:33:06.034Z",
  "source": "https://robloxden.com/game-codes/doodle-world"
 }

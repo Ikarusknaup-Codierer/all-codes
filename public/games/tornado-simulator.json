@@ -11,11 +11,7 @@
    "reward": "20k Cash"
   },
   {
-   "code": "Cyclone",
-   "reward": "15,000 Cash"
-  },
-  {
-   "code": "BREEZE",
+   "code": "WHIRLING",
    "reward": "10,000 Cash"
   },
   {
@@ -25,8 +21,12 @@
   {
    "code": "DISASTER",
    "reward": "5,000 Cash"
+  },
+  {
+   "code": "WHOOSH",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-09-01T18:25:39.270Z",
+ "updated": "2026-09-03T00:32:00.143Z",
  "source": "https://robloxden.com/game-codes/tornado-simulator"
 }

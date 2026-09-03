@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPD10PATCH",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "UPDATE10",
    "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -277,12 +281,8 @@
   {
    "code": "RELEASE",
    "reward": "250 F2P Tickets and 12 Potions"
-  },
-  {
-   "code": "BACKTOASTRAL",
-   "reward": "Tickets , Potions , or Boosts"
   }
  ],
- "updated": "2026-09-02T00:29:13.422Z",
+ "updated": "2026-09-03T00:39:02.263Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

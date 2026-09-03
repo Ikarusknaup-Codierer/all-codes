@@ -11,10 +11,6 @@
    "reward": "1 Mini Potion , 1 Giant Potion and 500 Credits"
   },
   {
-   "code": "1KLIKES",
-   "reward": "500 Credits"
-  },
-  {
    "code": "EASTERISLAND",
    "reward": "150 Emeralds"
   },
@@ -23,10 +19,14 @@
    "reward": "A Reward"
   },
   {
-   "code": "2500LIKES",
-   "reward": "2x Snowballs"
+   "code": "35KLIKES",
+   "reward": "1 Mini Potion , 1 Giant Potion and 500 Credits"
+  },
+  {
+   "code": "10MILLI",
+   "reward": "2x Credit Boost"
   }
  ],
- "updated": "2026-09-01T18:24:53.408Z",
+ "updated": "2026-09-03T00:31:01.010Z",
  "source": "https://robloxden.com/game-codes/disaster-island"
 }

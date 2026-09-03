@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "FL_Release",
-   "reward": "5,000 Flight Power"
-  },
-  {
-   "code": "250likes",
+   "code": "100likes",
    "reward": ""
   },
   {
@@ -25,8 +21,12 @@
   {
    "code": "update1",
    "reward": "Unknown Reward"
+  },
+  {
+   "code": "100klikes",
+   "reward": "1 2x Stars Potion (1 hour)"
   }
  ],
- "updated": "2026-09-01T18:21:18.605Z",
+ "updated": "2026-09-03T00:26:56.568Z",
  "source": "https://robloxden.com/game-codes/launch-into-space-simulator"
 }

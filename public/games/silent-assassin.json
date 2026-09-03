@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "sighted",
-   "reward": "a Camouflage Case"
+   "code": "freecase",
+   "reward": "a Typical Case"
   },
   {
-   "code": "freecoins",
-   "reward": "50 Coins"
+   "code": "natural",
+   "reward": "a Nature Case"
   },
   {
-   "code": "solid",
-   "reward": "a Material Case"
-  },
-  {
-   "code": "newyear2019",
-   "reward": "some exclusive items"
+   "code": "penelope",
+   "reward": "Butter Knife"
   },
   {
    "code": "OYSTER",
    "reward": "the Pearl Assault Rifle Skin"
+  },
+  {
+   "code": "HOLIDAYS",
+   "reward": "1 Christmas Case"
   }
  ],
- "updated": "2026-09-01T18:26:28.888Z",
+ "updated": "2026-09-03T00:32:40.623Z",
  "source": "https://robloxden.com/game-codes/silent-assassin"
 }

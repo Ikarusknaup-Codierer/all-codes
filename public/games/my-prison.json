@@ -19,12 +19,12 @@
    "reward": "350 Cash"
   },
   {
-   "code": "Cloth",
-   "reward": "350 Cash"
-  },
-  {
    "code": "Gang",
    "reward": "500 Cash"
+  },
+  {
+   "code": "Cloth",
+   "reward": "350 Cash"
   },
   {
    "code": "Custom",
@@ -47,6 +47,6 @@
    "reward": "$350"
   }
  ],
- "updated": "2026-09-01T18:24:39.441Z",
+ "updated": "2026-09-03T00:30:40.363Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

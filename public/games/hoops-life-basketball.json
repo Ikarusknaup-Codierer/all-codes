@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "CoinsStage",
-   "reward": "100 Coins"
+   "code": "Season3",
+   "reward": "150 Coins"
   },
   {
-   "code": "Snatchback",
-   "reward": "100 Coins"
+   "code": "Chance",
+   "reward": "10 Chance Crates"
   },
   {
-   "code": "NewContent",
-   "reward": "50 EXP"
+   "code": "GoldRush",
+   "reward": "50 Gold"
   },
   {
-   "code": "50XP",
-   "reward": "50 EXP"
+   "code": "RepRewards",
+   "reward": "100 XP"
   },
   {
    "code": "100XP",
    "reward": "100 EXP"
   }
  ],
- "updated": "2026-09-01T18:24:38.935Z",
+ "updated": "2026-09-03T00:30:39.808Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

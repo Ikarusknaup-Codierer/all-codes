@@ -15,14 +15,18 @@
    "reward": "5,000 Cash"
   },
   {
-   "code": "160kvisits",
-   "reward": "Credits"
+   "code": "100kvisits",
+   "reward": ""
   },
   {
-   "code": "House",
-   "reward": "2,500 Cash"
+   "code": "XMAS",
+   "reward": "Cash"
+  },
+  {
+   "code": "30KFAVORITES",
+   "reward": "25 Credits"
   }
  ],
- "updated": "2026-09-02T00:23:42.185Z",
+ "updated": "2026-09-03T00:33:32.932Z",
  "source": "https://robloxden.com/game-codes/house-builder-tycoon"
 }

@@ -53,8 +53,16 @@
   {
    "code": "RELEASE",
    "reward": "10 Race Spins"
+  },
+  {
+   "code": "5KRACE",
+   "reward": "5 Race Spins"
+  },
+  {
+   "code": "4KRACE",
+   "reward": "5 Race Spins"
   }
  ],
- "updated": "2026-09-02T06:28:30.339Z",
+ "updated": "2026-09-03T12:22:17.135Z",
  "source": "https://robloxden.com/game-codes/echoes-of-heian"
 }

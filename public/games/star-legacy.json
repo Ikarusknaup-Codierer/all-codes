@@ -31,10 +31,6 @@
    "reward": "5K Peli , 17.5K Stars , and 200 Clan Rerolls"
   },
   {
-   "code": "215KVISITS",
-   "reward": "17,500 Stars , 5,000 Peli , and 300 Clan Rerolls"
-  },
-  {
    "code": "VASTO!",
    "reward": "5K Peli, 17.5K Stars and 100 Hollow Masks"
   },
@@ -85,8 +81,16 @@
   {
    "code": "STARPLAYERS",
    "reward": "50 Stars , 5,000 Peli , and 50 Summon Orbs"
+  },
+  {
+   "code": "215KVISITS",
+   "reward": "17,500 Stars , 5,000 Peli , and 300 Clan Rerolls"
+  },
+  {
+   "code": "CURSEDKING!",
+   "reward": "5,000 Stars , 5,000,000 Peli , and 50 Cursed Essence"
   }
  ],
- "updated": "2026-09-02T06:26:47.183Z",
+ "updated": "2026-09-03T12:21:19.480Z",
  "source": "https://robloxden.com/game-codes/star-legacy"
 }

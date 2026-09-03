@@ -33,8 +33,16 @@
   {
    "code": "RELEASE",
    "reward": "50 Silver Coins"
+  },
+  {
+   "code": "QUICKFIXES1",
+   "reward": "Freebies"
+  },
+  {
+   "code": "LOVE4COMMUNITY",
+   "reward": "1 Luck Boost"
   }
  ],
- "updated": "2026-09-02T06:32:51.904Z",
+ "updated": "2026-09-03T12:25:53.920Z",
  "source": "https://robloxden.com/game-codes/currency-incremental"
 }

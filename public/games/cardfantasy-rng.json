@@ -57,8 +57,16 @@
   {
    "code": "BEACHDAY",
    "reward": "3 Summer Luck Potions , 20 Roll Speed III , and 20 Shiny Luck III"
+  },
+  {
+   "code": "LuckyDay",
+   "reward": "8 Luck II Potions , 5 Shiny Luck I Potions , 5 Roll Speed I Potions , "
+  },
+  {
+   "code": "SpeedRun",
+   "reward": "10 Luck I Potions , and 10 Roll Speed II Potions"
   }
  ],
- "updated": "2026-09-02T06:28:29.303Z",
+ "updated": "2026-09-03T12:22:16.153Z",
  "source": "https://robloxden.com/game-codes/cardfantasy-rng"
 }

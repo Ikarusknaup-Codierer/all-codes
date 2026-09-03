@@ -21,8 +21,16 @@
   {
    "code": "ZOMBIE10",
    "reward": "10 Lucky Zombie Spins"
+  },
+  {
+   "code": "HAPPYNEWYEARS",
+   "reward": "20 Lucky Survivor Spins And 20 Lucky Zombie Spins"
+  },
+  {
+   "code": "THANKYOUGUYS",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-02T12:21:15.148Z",
+ "updated": "2026-09-03T12:28:23.588Z",
  "source": "https://robloxden.com/game-codes/plague"
 }

@@ -7,14 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "EX0RI4",
+   "reward": "10 Rolls"
+  },
+  {
+   "code": "EXPBOOSTER",
+   "reward": "15 Minutes of 2x EXP"
+  },
+  {
    "code": "ELFUPDATE",
    "reward": "x2 EXP (15 min)"
   },
   {
    "code": "INFINITYDUNGEON",
    "reward": "5 Rolls"
+  },
+  {
+   "code": "YAY",
+   "reward": "5 Rolls"
+  },
+  {
+   "code": "CONTENTINPROGRESS",
+   "reward": "5 Rolls"
   }
  ],
- "updated": "2026-09-02T06:32:13.752Z",
+ "updated": "2026-09-03T12:25:18.620Z",
  "source": "https://robloxden.com/game-codes/exoria"
 }

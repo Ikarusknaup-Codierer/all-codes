@@ -29,8 +29,16 @@
   {
    "code": "UPDATE",
    "reward": "1 Egg"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "50 Gems and 1 Clover"
+  },
+  {
+   "code": "100LIKES",
+   "reward": "10 Gems and Short Swords"
   }
  ],
- "updated": "2026-09-02T06:30:18.461Z",
+ "updated": "2026-09-03T12:23:53.178Z",
  "source": "https://robloxden.com/game-codes/brainrot-training"
 }

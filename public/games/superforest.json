@@ -37,8 +37,16 @@
   {
    "code": "gag2",
    "reward": "4 Grass Tiles"
+  },
+  {
+   "code": "ILLUSTRIOUS",
+   "reward": "3 Time Potions"
+  },
+  {
+   "code": "3000Likes",
+   "reward": "50,000 Coins"
   }
  ],
- "updated": "2026-09-02T06:30:17.429Z",
+ "updated": "2026-09-03T12:23:52.163Z",
  "source": "https://robloxden.com/game-codes/superforest"
 }

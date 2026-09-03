@@ -69,8 +69,16 @@
   {
    "code": "HOLYSPIN",
    "reward": "1 Spin"
+  },
+  {
+   "code": "GUILDSPIN",
+   "reward": "1 Spin"
+  },
+  {
+   "code": "SECRET25",
+   "reward": "25 Shards"
   }
  ],
- "updated": "2026-09-02T12:21:13.127Z",
+ "updated": "2026-09-03T12:28:21.560Z",
  "source": "https://robloxden.com/game-codes/faith-incremental"
 }

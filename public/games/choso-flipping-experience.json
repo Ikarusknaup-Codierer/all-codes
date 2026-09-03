@@ -101,8 +101,16 @@
   {
    "code": "WORLD3",
    "reward": "Freebies"
+  },
+  {
+   "code": "ANOTHERCODE",
+   "reward": "Misc. Rewards"
+  },
+  {
+   "code": "TRIPLEFIXED",
+   "reward": "a 15 Minute Boost"
   }
  ],
- "updated": "2026-09-02T06:32:35.544Z",
+ "updated": "2026-09-03T12:25:38.664Z",
  "source": "https://robloxden.com/game-codes/choso-flipping-experience"
 }

@@ -19,10 +19,14 @@
    "reward": "Race Reset"
   },
   {
-   "code": "100KVISITS",
-   "reward": "15 Spins"
+   "code": "THXKILLA",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "datafix",
+   "reward": "20 Spins"
   }
  ],
- "updated": "2026-09-02T12:20:58.598Z",
+ "updated": "2026-09-03T12:27:57.517Z",
  "source": "https://robloxden.com/game-codes/slayerbound"
 }

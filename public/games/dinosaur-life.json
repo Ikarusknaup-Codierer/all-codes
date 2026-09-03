@@ -25,8 +25,16 @@
   {
    "code": "FLY",
    "reward": "Coins"
+  },
+  {
+   "code": "SPINO",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "350 Coins"
   }
  ],
- "updated": "2026-09-02T12:22:15.623Z",
+ "updated": "2026-09-03T12:29:33.532Z",
  "source": "https://robloxden.com/game-codes/dinosaur-life"
 }

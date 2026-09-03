@@ -93,8 +93,12 @@
   {
    "code": "oopsWrongValue",
    "reward": "50 Trait Rerolls and 2,000 Gems"
+  },
+  {
+   "code": "DUNGEONINCIDENT",
+   "reward": "10,000 Ragnar and 25 Trait Rerolls"
   }
  ],
- "updated": "2026-09-02T12:20:59.621Z",
+ "updated": "2026-09-03T12:27:58.513Z",
  "source": "https://robloxden.com/game-codes/anime-paradox"
 }

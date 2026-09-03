@@ -45,8 +45,16 @@
   {
    "code": "NewUpdate",
    "reward": "2,000 Cash"
+  },
+  {
+   "code": "gameiskindaback",
+   "reward": "60 Levels"
+  },
+  {
+   "code": "gameisback",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-09-02T06:26:39.430Z",
+ "updated": "2026-09-03T12:21:13.478Z",
  "source": "https://robloxden.com/game-codes/era-of-supes"
 }

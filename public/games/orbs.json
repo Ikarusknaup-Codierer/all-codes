@@ -29,8 +29,16 @@
   {
    "code": "COUCH",
    "reward": "1 Couch"
+  },
+  {
+   "code": "dailyIsBack",
+   "reward": "500,000 Diamonds"
+  },
+  {
+   "code": "newyear2026",
+   "reward": "2026 Orbital"
   }
  ],
- "updated": "2026-09-02T12:22:46.657Z",
+ "updated": "2026-09-03T12:30:01.650Z",
  "source": "https://robloxden.com/game-codes/orbs"
 }

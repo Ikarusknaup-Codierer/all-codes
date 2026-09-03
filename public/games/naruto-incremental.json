@@ -37,8 +37,16 @@
   {
    "code": "FINALLY",
    "reward": "10,000 Ryo and 5,000 XP"
+  },
+  {
+   "code": "HOKAGE",
+   "reward": "2,000 Ryo and 1,000 XP"
+  },
+  {
+   "code": "RASENGAN",
+   "reward": "500 Ryo , 800 XP , and 2 Stat Points"
   }
  ],
- "updated": "2026-09-02T06:29:40.193Z",
+ "updated": "2026-09-03T12:23:17.783Z",
  "source": "https://robloxden.com/game-codes/naruto-incremental"
 }

@@ -29,8 +29,16 @@
   {
    "code": "UPGRADES",
    "reward": "a Coin Boost (5 Minutes)"
+  },
+  {
+   "code": "SECRET",
+   "reward": "a Legendary Pet"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": ""
   }
  ],
- "updated": "2026-09-02T06:32:32.261Z",
+ "updated": "2026-09-03T12:25:33.976Z",
  "source": "https://robloxden.com/game-codes/sword-clickers-simulator"
 }

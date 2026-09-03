@@ -65,8 +65,16 @@
   {
    "code": "Sameek",
    "reward": "1,000 Mon"
+  },
+  {
+   "code": "test",
+   "reward": "Reward"
+  },
+  {
+   "code": "hurts",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-09-02T12:21:31.586Z",
+ "updated": "2026-09-03T12:28:44.223Z",
  "source": "https://robloxden.com/game-codes/boom-sumo"
 }

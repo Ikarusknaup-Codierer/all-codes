@@ -37,8 +37,16 @@
   {
    "code": "UPDATE",
    "reward": "1,000 Gold and 3 Chest"
+  },
+  {
+   "code": "TWOHUNDREDTHOUSAND",
+   "reward": "10,000 Gold , 3 Premium Chests , and 2 Ultimate Chests"
+  },
+  {
+   "code": "ONEHUNDREDTHOUSAND",
+   "reward": "10,000 Gold and 3 Premium Chests"
   }
  ],
- "updated": "2026-09-02T06:28:37.766Z",
+ "updated": "2026-09-03T12:22:20.035Z",
  "source": "https://robloxden.com/game-codes/build-a-kingdom"
 }

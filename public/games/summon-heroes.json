@@ -85,8 +85,16 @@
   {
    "code": "500GEMS",
    "reward": "500 Gems"
+  },
+  {
+   "code": "DIVINE",
+   "reward": "15 Trait Reroll Crystals"
+  },
+  {
+   "code": "LEGEND",
+   "reward": "3 Legendary Fusion Crystals"
   }
  ],
- "updated": "2026-09-02T12:20:25.083Z",
+ "updated": "2026-09-03T12:27:23.248Z",
  "source": "https://robloxden.com/game-codes/summon-heroes"
 }

@@ -37,8 +37,16 @@
   {
    "code": "BLIZZARD",
    "reward": "10 Luck Potions and 10 Rebirth Potions"
+  },
+  {
+   "code": "ANGEL",
+   "reward": "Misc. Potions"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "15 Speed Potions"
   }
  ],
- "updated": "2026-09-02T06:34:06.479Z",
+ "updated": "2026-09-03T12:26:43.589Z",
  "source": "https://robloxden.com/game-codes/outrun-a-speedster"
 }

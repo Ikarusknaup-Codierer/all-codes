@@ -19,10 +19,6 @@
    "reward": "1 Beli , 1 Gem , 1 Exp , and 2 Shadow Crests"
   },
   {
-   "code": "SUKUNAHEIAN!",
-   "reward": "1 Beli , 1 Gem , 1 Exp , 4 Cursed Fragments , and 1 Heian Forbidden Sc"
-  },
-  {
    "code": "YUJIISHERE!",
    "reward": "1 Beli , 1 Gem , 1 Exp , 3 Race Rerolls , and 1 Heian Forbidden Scroll"
   },
@@ -49,8 +45,12 @@
   {
    "code": "SUNGJINWOOV2SOON!",
    "reward": "1 Beli, 1 Gem , 1 Exp , 2 Heian FOrbidden Scroll , 6 Cursed Fragment ,"
+  },
+  {
+   "code": "SUKUNAHEIAN!",
+   "reward": "1 Beli , 1 Gem , 1 Exp , 4 Cursed Fragments , and 1 Heian Forbidden Sc"
   }
  ],
- "updated": "2026-09-02T06:27:30.416Z",
+ "updated": "2026-09-03T12:21:42.055Z",
  "source": "https://robloxden.com/game-codes/fusion-piece"
 }

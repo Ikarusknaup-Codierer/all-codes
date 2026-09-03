@@ -29,8 +29,16 @@
   {
    "code": "Beta",
    "reward": "5 Gems and 1 Common Enchantment Book"
+  },
+  {
+   "code": "thank_you_million",
+   "reward": "450 Gems"
+  },
+  {
+   "code": "achievements_redeem",
+   "reward": "500 Gems"
   }
  ],
- "updated": "2026-09-02T06:34:19.206Z",
+ "updated": "2026-09-03T12:26:49.454Z",
  "source": "https://robloxden.com/game-codes/slime-era-mining-simulator-rpg"
 }

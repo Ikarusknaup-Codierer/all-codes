@@ -41,8 +41,16 @@
   {
    "code": "gift",
    "reward": "50,000 Studs"
+  },
+  {
+   "code": "CNY",
+   "reward": "CNY"
+  },
+  {
+   "code": "Bunny",
+   "reward": "Bunny Pet"
   }
  ],
- "updated": "2026-09-02T18:24:00.860Z",
+ "updated": "2026-09-04T00:26:26.458Z",
  "source": "https://robloxden.com/game-codes/slingshot-race"
 }

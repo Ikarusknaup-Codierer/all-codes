@@ -61,8 +61,16 @@
   {
    "code": "BETA",
    "reward": "1 Luck Boost"
+  },
+  {
+   "code": "ACS45",
+   "reward": "Unknown Reward"
+  },
+  {
+   "code": "EVENT",
+   "reward": "1 Luck Boost"
   }
  ],
- "updated": "2026-09-02T18:18:58.086Z",
+ "updated": "2026-09-04T00:22:17.118Z",
  "source": "https://robloxden.com/game-codes/anime-slashing-simulator"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "STREETWEAR",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "BLACKOUT",
    "reward": "Free Rewards"
   },
@@ -27,6 +23,10 @@
    "reward": "1 Pro Pack"
   },
   {
+   "code": "STREETWEAR",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "INVENTORY",
    "reward": "Free Rewards"
   },
@@ -35,6 +35,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-09-02T18:25:14.168Z",
+ "updated": "2026-09-04T00:27:43.502Z",
  "source": "https://robloxden.com/game-codes/nfl-universe-football-1"
 }

@@ -23,10 +23,14 @@
    "reward": "2 Race Spins"
   },
   {
-   "code": "ANOTHERROLL",
-   "reward": "Race Reroll"
+   "code": "MORESPINS",
+   "reward": "5 Spins, 100XP, And 1,000 Cash"
+  },
+  {
+   "code": "HUGEUPDATESOON",
+   "reward": "5 Spins, 500 Cash, And 100XP"
   }
  ],
- "updated": "2026-09-02T18:22:51.844Z",
+ "updated": "2026-09-04T00:25:11.959Z",
  "source": "https://robloxden.com/game-codes/heroes-awakening"
 }

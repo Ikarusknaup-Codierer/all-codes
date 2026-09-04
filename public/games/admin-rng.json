@@ -85,8 +85,16 @@
   {
    "code": "SORRYDELAY",
    "reward": "1 Super Spin"
+  },
+  {
+   "code": "QUESTS",
+   "reward": "Luck Boost (30 minutes)"
+  },
+  {
+   "code": "POTIONCODE",
+   "reward": "1 Luck Potion"
   }
  ],
- "updated": "2026-09-02T18:20:56.872Z",
+ "updated": "2026-09-04T00:23:09.683Z",
  "source": "https://robloxden.com/game-codes/admin-rng"
 }

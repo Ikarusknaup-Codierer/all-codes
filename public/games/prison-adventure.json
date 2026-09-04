@@ -29,8 +29,16 @@
   {
    "code": "CITY",
    "reward": "20,000 Cash"
+  },
+  {
+   "code": "DAILYB",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "CHRISTMAS2022",
+   "reward": "Free Cash"
   }
  ],
- "updated": "2026-09-02T18:20:33.654Z",
+ "updated": "2026-09-04T00:22:46.553Z",
  "source": "https://robloxden.com/game-codes/prison-adventure"
 }

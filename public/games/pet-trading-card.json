@@ -41,8 +41,16 @@
   {
    "code": "RETWEET",
    "reward": "1 Super Luck Boost (15 minutes)"
+  },
+  {
+   "code": "MAGIC",
+   "reward": "Super Luck Boost"
+  },
+  {
+   "code": "NICE3K",
+   "reward": "Super Luck Potion"
   }
  ],
- "updated": "2026-09-02T18:23:38.401Z",
+ "updated": "2026-09-04T00:26:01.864Z",
  "source": "https://robloxden.com/game-codes/pet-trading-card"
 }

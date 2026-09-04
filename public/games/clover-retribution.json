@@ -49,8 +49,16 @@
   {
    "code": "!lephos601stbirthday",
    "reward": "Corrupted 3 Stars Dragon Ball . You must be in the First Kingdom to re"
+  },
+  {
+   "code": "!chooserace13",
+   "reward": "125 Race Spins but locks you out of choosetrait13 or choosemagic13"
+  },
+  {
+   "code": "!choosemagic999",
+   "reward": "700 Magic Spins"
   }
  ],
- "updated": "2026-09-02T18:23:03.826Z",
+ "updated": "2026-09-04T00:25:24.276Z",
  "source": "https://robloxden.com/game-codes/clover-retribution"
 }

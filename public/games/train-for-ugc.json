@@ -173,8 +173,16 @@
   {
    "code": "FOLLOWDEVS",
    "reward": "30,000 Points"
+  },
+  {
+   "code": "DUAL",
+   "reward": "200,000 Points"
+  },
+  {
+   "code": "2POINTS",
+   "reward": "200,000 Points"
   }
  ],
- "updated": "2026-09-03T00:26:59.940Z",
+ "updated": "2026-09-04T00:31:55.698Z",
  "source": "https://robloxden.com/game-codes/train-for-ugc"
 }

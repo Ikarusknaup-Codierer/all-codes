@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "world2",
-   "reward": "30 Tickets"
-  },
-  {
    "code": "release",
    "reward": "3 Card Luck Potion , 3 Card Bulk Potion , 3 Card Speed Potion , and 3 "
   },
   {
-   "code": "world2soon",
+   "code": "world2",
    "reward": "30 Tickets"
   },
   {
-   "code": "250likes",
+   "code": "celestialinvasion",
+   "reward": "20 Tickets"
+  },
+  {
+   "code": "sorryfordelay",
    "reward": "35 Tickets"
   },
   {
-   "code": "update",
-   "reward": "50 Tickets"
+   "code": "updatecomingsoon",
+   "reward": "25 Tickets"
   }
  ],
- "updated": "2026-09-02T18:23:23.018Z",
+ "updated": "2026-09-04T00:25:44.781Z",
  "source": "https://robloxden.com/game-codes/anime-incremental"
 }

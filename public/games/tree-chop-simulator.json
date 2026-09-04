@@ -25,8 +25,16 @@
   {
    "code": "UPDATE9",
    "reward": "350 Strength"
+  },
+  {
+   "code": "1500LIKES",
+   "reward": "Reward"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "Strength Boost"
   }
  ],
- "updated": "2026-09-03T00:26:01.059Z",
+ "updated": "2026-09-04T00:31:06.906Z",
  "source": "https://robloxden.com/game-codes/tree-chop-simulator"
 }

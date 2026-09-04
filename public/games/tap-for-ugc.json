@@ -25,8 +25,16 @@
   {
    "code": "SPIN",
    "reward": "500 Coins"
+  },
+  {
+   "code": "FREE",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "Crown",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-02T18:23:59.391Z",
+ "updated": "2026-09-04T00:26:24.995Z",
  "source": "https://robloxden.com/game-codes/tap-for-ugc"
 }

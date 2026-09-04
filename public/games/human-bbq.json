@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "CHEST99",
-   "reward": "Free Rewards"
+   "code": "900likes",
+   "reward": "Unknown Reward"
   },
   {
-   "code": "MASTERY1000",
+   "code": "ALIEN100",
+   "reward": "Freebies"
+  },
+  {
+   "code": "2500likes",
    "reward": "Free Rewards"
   },
   {
@@ -19,10 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "zinklog",
-   "reward": "45 Coins"
+   "code": "21500LIKES",
+   "reward": "1 Dash Skewer"
   }
  ],
- "updated": "2026-09-02T18:19:08.534Z",
+ "updated": "2026-09-04T00:22:18.807Z",
  "source": "https://robloxden.com/game-codes/human-bbq"
 }

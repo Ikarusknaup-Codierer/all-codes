@@ -33,8 +33,16 @@
   {
    "code": "release",
    "reward": "1 2x Lucky Potion , 1 2x Wins Potion and 25 Wins"
+  },
+  {
+   "code": "wow1",
+   "reward": "1 x3 Lucky Potion"
+  },
+  {
+   "code": "2M",
+   "reward": "1 2x Strength Potion"
   }
  ],
- "updated": "2026-09-03T00:27:00.476Z",
+ "updated": "2026-09-04T00:31:56.190Z",
  "source": "https://robloxden.com/game-codes/jump-rope-simulator"
 }

@@ -37,8 +37,16 @@
   {
    "code": "UPDATEONE",
    "reward": "5 CursedNotes , 1 Super Luck Potion , 1 Yen Potion and 1 Damage Potion"
+  },
+  {
+   "code": "UPDATESIX",
+   "reward": "Super Luck Potion (30 minutes) , Castle Key , Shiny Potion (30 minutes"
+  },
+  {
+   "code": "UPDATESOON",
+   "reward": "1 CursedNote and 1 Yen Potion"
   }
  ],
- "updated": "2026-09-02T18:25:08.239Z",
+ "updated": "2026-09-04T00:27:37.533Z",
  "source": "https://robloxden.com/game-codes/anime-stars-simulator"
 }

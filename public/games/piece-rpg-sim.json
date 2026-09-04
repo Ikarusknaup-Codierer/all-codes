@@ -45,8 +45,16 @@
   {
    "code": "40KLIKES",
    "reward": "4 Reset Stats Potions , 4 Fast Spin Potions , 4 Race Change Potions , "
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "2 Super XP Potions and 2 Hyper Luck Potions"
+  },
+  {
+   "code": "NEWRACES",
+   "reward": "3 Race Change Potions"
   }
  ],
- "updated": "2026-09-03T00:25:03.216Z",
+ "updated": "2026-09-04T00:30:13.476Z",
  "source": "https://robloxden.com/game-codes/piece-rpg-sim"
 }

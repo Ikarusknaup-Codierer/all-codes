@@ -21,8 +21,16 @@
   {
    "code": "APPLE",
    "reward": "15,000 Time Points"
+  },
+  {
+   "code": "5000LIKES",
+   "reward": "5,000 Time Points"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "500 Time"
   }
  ],
- "updated": "2026-09-02T18:25:02.316Z",
+ "updated": "2026-09-04T00:27:32.158Z",
  "source": "https://robloxden.com/game-codes/ugc-steal-points"
 }

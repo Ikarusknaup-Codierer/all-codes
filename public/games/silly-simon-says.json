@@ -117,8 +117,16 @@
   {
    "code": "merryglow",
    "reward": "Speech Bubble"
+  },
+  {
+   "code": "200kfans",
+   "reward": "200 Coins"
+  },
+  {
+   "code": "100kgroup",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-09-02T18:24:08.629Z",
+ "updated": "2026-09-04T00:26:34.008Z",
  "source": "https://robloxden.com/game-codes/silly-simon-says"
 }

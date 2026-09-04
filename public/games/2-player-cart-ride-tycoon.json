@@ -25,8 +25,16 @@
   {
    "code": "10KLIKES",
    "reward": "30,000 Cash and 30 Cart Coins"
+  },
+  {
+   "code": "UPDATEDAY",
+   "reward": "Unknown Reward"
+  },
+  {
+   "code": "250LIKES",
+   "reward": "25,000 Cash And 10 Coins"
   }
  ],
- "updated": "2026-09-03T00:24:54.548Z",
+ "updated": "2026-09-04T00:29:55.176Z",
  "source": "https://robloxden.com/game-codes/2-player-cart-ride-tycoon"
 }

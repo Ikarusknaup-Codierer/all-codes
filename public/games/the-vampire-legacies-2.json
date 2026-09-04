@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "sunshine",
+   "code": "resurrection",
+   "reward": "200 Coins"
+  },
+  {
+   "code": "winteriscoming",
    "reward": "200 Moonstones"
   },
   {
-   "code": "bloodwitch",
+   "code": "vervain",
    "reward": "250 Moonstones"
   },
   {
-   "code": "21k",
-   "reward": "250 Moonstones"
+   "code": "bounty",
+   "reward": "1,000 Moonstones"
   },
   {
-   "code": "hunter",
-   "reward": "250 Moonstones"
-  },
-  {
-   "code": "moonbday",
+   "code": "muse",
    "reward": "250 Moonstones"
   }
  ],
- "updated": "2026-09-02T18:20:31.085Z",
+ "updated": "2026-09-04T00:22:44.080Z",
  "source": "https://robloxden.com/game-codes/the-vampire-legacies-2"
 }

@@ -57,8 +57,16 @@
   {
    "code": "NEWYEAR26",
    "reward": "100 Gems"
+  },
+  {
+   "code": "DOMAIN",
+   "reward": "100"
+  },
+  {
+   "code": "VANITY",
+   "reward": "100"
   }
  ],
- "updated": "2026-09-02T18:25:49.733Z",
+ "updated": "2026-09-04T00:28:20.656Z",
  "source": "https://robloxden.com/game-codes/fabled-legacy"
 }

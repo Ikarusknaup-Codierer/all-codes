@@ -33,8 +33,16 @@
   {
    "code": "Yoyo",
    "reward": "2x Exp Boost (15 minutes)"
+  },
+  {
+   "code": "solo",
+   "reward": "Double XP For 30 Minutes And A Stat Reset"
+  },
+  {
+   "code": "hohoho",
+   "reward": "Double XP For 15 Minutes And A Stat Reset"
   }
  ],
- "updated": "2026-09-03T00:25:34.666Z",
+ "updated": "2026-09-04T00:30:45.555Z",
  "source": "https://robloxden.com/game-codes/z-piece"
 }

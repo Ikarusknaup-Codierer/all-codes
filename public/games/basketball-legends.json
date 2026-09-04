@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MAGIC",
+   "reward": "a Summer Skin Case"
+  },
+  {
+   "code": "BOTS",
+   "reward": "a Summer Effect Case"
+  },
+  {
    "code": "PARKHELMETS",
    "reward": "a Summer Trail Case"
   },
@@ -83,6 +91,6 @@
    "reward": "10,000 Coins"
   }
  ],
- "updated": "2026-09-03T00:25:56.199Z",
+ "updated": "2026-09-04T00:31:02.023Z",
  "source": "https://robloxden.com/game-codes/basketball-legends"
 }

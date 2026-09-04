@@ -53,8 +53,12 @@
   {
    "code": "VDAY",
    "reward": "1,000 Cash and 5 Chocolates"
+  },
+  {
+   "code": "CashCoinGold",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-09-03T00:24:32.629Z",
+ "updated": "2026-09-04T00:29:33.151Z",
  "source": "https://robloxden.com/game-codes/hex-defender"
 }

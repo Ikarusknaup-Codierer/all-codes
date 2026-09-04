@@ -133,8 +133,16 @@
   {
    "code": "RerollMyAuraPlz!",
    "reward": "Aura Reroll"
+  },
+  {
+   "code": "BugFix5",
+   "reward": "Reward from 5 Options"
+  },
+  {
+   "code": "FameIsOutNow",
+   "reward": "Clan Reroll"
   }
  ],
- "updated": "2026-09-02T18:25:07.541Z",
+ "updated": "2026-09-04T00:27:37.023Z",
  "source": "https://robloxden.com/game-codes/hunter-x-anomaly"
 }

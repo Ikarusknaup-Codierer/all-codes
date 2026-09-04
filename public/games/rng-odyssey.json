@@ -11,11 +11,7 @@
    "reward": "1 of Every Potion"
   },
   {
-   "code": "OCTDAY5",
-   "reward": "Reward"
-  },
-  {
-   "code": "OCTDAY4",
+   "code": "OCTDAY6",
    "reward": "Reward"
   },
   {
@@ -23,10 +19,14 @@
    "reward": "Reward"
   },
   {
-   "code": "SORRY",
-   "reward": "Free In-Game Rewards"
+   "code": "SORRYFORRESTART",
+   "reward": "XP Potion And Luck Potion"
+  },
+  {
+   "code": "OCTDAY1",
+   "reward": "1 Luck Potion"
   }
  ],
- "updated": "2026-09-02T18:21:54.307Z",
+ "updated": "2026-09-04T00:24:09.176Z",
  "source": "https://robloxden.com/game-codes/rng-odyssey"
 }

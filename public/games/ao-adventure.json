@@ -37,8 +37,16 @@
   {
    "code": "MATCH",
    "reward": "500 Coins"
+  },
+  {
+   "code": "AO2025",
+   "reward": "a free floater"
+  },
+  {
+   "code": "GAME",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-02T18:25:13.116Z",
+ "updated": "2026-09-04T00:27:42.412Z",
  "source": "https://robloxden.com/game-codes/ao-adventure"
 }

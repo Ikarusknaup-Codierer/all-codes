@@ -57,8 +57,16 @@
   {
    "code": "25MVisitsSP2",
    "reward": "Stat Reset"
+  },
+  {
+   "code": "SPReset2",
+   "reward": "Stat Points Reset"
+  },
+  {
+   "code": "Shutdown",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-09-02T18:23:41.850Z",
+ "updated": "2026-09-04T00:26:05.507Z",
  "source": "https://robloxden.com/game-codes/striker-odyssey"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TypeBugIsMYFavouriteGame",
+   "reward": "Free Elixirs , Rerolls , and More"
+  },
+  {
    "code": "PALACEUPDATE2060",
    "reward": "Free Elixirs , Rerolls , and More"
   },
@@ -49,8 +53,16 @@
   {
    "code": "SmallPatchYay",
    "reward": "Free Elixirs , Rerolls , and Other Rewards"
+  },
+  {
+   "code": "yesterdayshutdown",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "davehashit10kwow",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-02T18:27:56.232Z",
+ "updated": "2026-09-04T00:29:14.966Z",
  "source": "https://robloxden.com/game-codes/type-soul"
 }

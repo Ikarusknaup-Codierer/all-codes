@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "100KFAVS",
-   "reward": "100K Favorites Wrap And 50 Gold"
-  },
-  {
-   "code": "LaborDay",
-   "reward": "Labor Day 2023 Wrap And 50 Gold"
-  },
-  {
    "code": "hhtiktok",
    "reward": "Tiktok Wrap"
   },
@@ -25,8 +17,16 @@
   {
    "code": "TwitterHavoc",
    "reward": "Twitter Wrap"
+  },
+  {
+   "code": "HarborCommunity",
+   "reward": "Discord Wrap"
+  },
+  {
+   "code": "LaborDay",
+   "reward": "Labor Day 2023 Wrap And 50 Gold"
   }
  ],
- "updated": "2026-09-03T00:25:18.096Z",
+ "updated": "2026-09-04T00:30:27.355Z",
  "source": "https://robloxden.com/game-codes/harbor-havoc"
 }

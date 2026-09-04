@@ -77,8 +77,16 @@
   {
    "code": "DUAL",
    "reward": "Free Limited Time Dual Wield Trial (45 minutes)"
+  },
+  {
+   "code": "LIKES10K",
+   "reward": "20-Minute Luck Boost"
+  },
+  {
+   "code": "LIKES1000",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-03T00:24:47.805Z",
+ "updated": "2026-09-04T00:29:48.669Z",
  "source": "https://robloxden.com/game-codes/anime-combats-simulator"
 }

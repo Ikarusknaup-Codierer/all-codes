@@ -53,8 +53,16 @@
   {
    "code": "BeyondBoundaries",
    "reward": "2,000 Exp"
+  },
+  {
+   "code": "UPDATE14",
+   "reward": "Reward"
+  },
+  {
+   "code": "Release",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-09-02T18:24:52.594Z",
+ "updated": "2026-09-04T00:27:21.475Z",
  "source": "https://robloxden.com/game-codes/animal-evolution-simulator"
 }

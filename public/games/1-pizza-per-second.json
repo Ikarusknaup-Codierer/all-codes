@@ -29,8 +29,16 @@
   {
    "code": "TOKENS",
    "reward": "5 Tokens"
+  },
+  {
+   "code": "GIANT",
+   "reward": "Reward"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-09-02T18:23:18.591Z",
+ "updated": "2026-09-04T00:25:40.216Z",
  "source": "https://robloxden.com/game-codes/1-pizza-per-second"
 }

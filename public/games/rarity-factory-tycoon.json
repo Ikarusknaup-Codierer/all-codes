@@ -61,8 +61,16 @@
   {
    "code": "90percent",
    "reward": "2x Luck Boost (5 minutes)"
+  },
+  {
+   "code": "EASTER",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "2klikes",
+   "reward": "2x Luck Boost"
   }
  ],
- "updated": "2026-09-02T18:25:09.701Z",
+ "updated": "2026-09-04T00:27:38.998Z",
  "source": "https://robloxden.com/game-codes/rarity-factory-tycoon"
 }

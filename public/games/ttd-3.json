@@ -117,8 +117,16 @@
   {
    "code": "LEGACY",
    "reward": "100 Tokens"
+  },
+  {
+   "code": "BLOX",
+   "reward": "125 Tokens"
+  },
+  {
+   "code": "WELCOMETO2022",
+   "reward": "200 Free Tokens"
   }
  ],
- "updated": "2026-09-03T00:24:36.346Z",
+ "updated": "2026-09-04T00:29:38.094Z",
  "source": "https://robloxden.com/game-codes/ttd-3"
 }

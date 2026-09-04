@@ -29,8 +29,16 @@
   {
    "code": "CREEPER",
    "reward": "2 2x Wins Potions (10 minutes) and 10,000 Wins"
+  },
+  {
+   "code": "BUG",
+   "reward": "Freebies"
+  },
+  {
+   "code": "HPCD",
+   "reward": "Freebies"
   }
  ],
- "updated": "2026-09-02T18:25:02.798Z",
+ "updated": "2026-09-04T00:27:32.640Z",
  "source": "https://robloxden.com/game-codes/ride-friend-race"
 }

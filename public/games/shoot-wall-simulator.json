@@ -193,8 +193,16 @@
   {
    "code": "Toilet",
    "reward": "1 Damage Potion"
+  },
+  {
+   "code": "Winter",
+   "reward": "Freebies"
+  },
+  {
+   "code": "Hunter",
+   "reward": "30 Gems"
   }
  ],
- "updated": "2026-09-03T00:25:55.059Z",
+ "updated": "2026-09-04T00:31:01.022Z",
  "source": "https://robloxden.com/game-codes/shoot-wall-simulator"
 }

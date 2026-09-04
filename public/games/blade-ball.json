@@ -69,8 +69,16 @@
   {
    "code": "GIVEMELUCK",
    "reward": "4x Luck in RNG World (10 minutes)"
+  },
+  {
+   "code": "10000LIKES",
+   "reward": "Some Coins"
+  },
+  {
+   "code": "GALAXYSEASON",
+   "reward": "150 Free Stars"
   }
  ],
- "updated": "2026-09-03T06:23:05.503Z",
+ "updated": "2026-09-04T12:20:32.244Z",
  "source": "https://robloxden.com/game-codes/blade-ball"
 }

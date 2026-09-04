@@ -37,8 +37,16 @@
   {
    "code": "CASHME",
    "reward": "25K Cash"
+  },
+  {
+   "code": "MONEYMODE",
+   "reward": "2x Cash Boost (15 Minutes)"
+  },
+  {
+   "code": "GEMRAIN",
+   "reward": "1K Gems"
   }
  ],
- "updated": "2026-09-03T06:27:55.510Z",
+ "updated": "2026-09-04T12:24:40.691Z",
  "source": "https://robloxden.com/game-codes/unbox-a-sneaker"
 }

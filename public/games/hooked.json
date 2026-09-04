@@ -45,8 +45,16 @@
   {
    "code": "JOINHOOKEDDC",
    "reward": "500 Gold"
+  },
+  {
+   "code": "HOOKEDDC10K",
+   "reward": "500 Gold"
+  },
+  {
+   "code": "PROSKILLS",
+   "reward": "50 Skill Shards"
   }
  ],
- "updated": "2026-09-03T06:28:51.782Z",
+ "updated": "2026-09-04T12:25:36.816Z",
  "source": "https://robloxden.com/game-codes/hooked"
 }

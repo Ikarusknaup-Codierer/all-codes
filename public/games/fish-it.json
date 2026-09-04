@@ -11,10 +11,6 @@
    "reward": "Kerupuk Lantern"
   },
   {
-   "code": "CONTRA",
-   "reward": "2 Mutation II Potions"
-  },
-  {
    "code": "MUTATION2",
    "reward": "2 Mutation II Potions"
   },
@@ -31,10 +27,14 @@
    "reward": "Free Rewards"
   },
   {
+   "code": "CONTRA",
+   "reward": "2 Mutation II Potions"
+  },
+  {
    "code": "POTIONSSS",
    "reward": "2 Mutation II Potions"
   }
  ],
- "updated": "2026-09-03T06:26:55.832Z",
+ "updated": "2026-09-04T12:23:46.256Z",
  "source": "https://robloxden.com/game-codes/fish-it"
 }

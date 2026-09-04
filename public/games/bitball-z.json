@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "freeskillpoints",
+   "reward": "500 Skill Points"
+  },
+  {
+   "code": "bob",
+   "reward": "a Skill Point , 1 Zeni , 1 Base Power and a Senzu Bean"
+  },
+  {
    "code": "senzubeanss",
    "reward": "10 Skill Points , 1M Zeni , 750M Base Power , and 25 Senzu Beans"
   },
@@ -91,6 +99,6 @@
    "reward": "5 Skill Points , 250,000 Zeni , and 100,000,000 Base Power"
   }
  ],
- "updated": "2026-09-03T06:28:15.274Z",
+ "updated": "2026-09-04T12:24:59.456Z",
  "source": "https://robloxden.com/game-codes/bitball-z"
 }

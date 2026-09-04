@@ -53,8 +53,16 @@
   {
    "code": "SORRYFORDELAY",
    "reward": "12,000 Cash and 40 Gems"
+  },
+  {
+   "code": "ASTRALCRATE",
+   "reward": "1 Astral Crate"
+  },
+  {
+   "code": "HOLYAURA",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-09-03T06:29:47.624Z",
+ "updated": "2026-09-04T12:26:27.309Z",
  "source": "https://robloxden.com/game-codes/faaah"
 }

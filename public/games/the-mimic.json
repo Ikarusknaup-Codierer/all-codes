@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "HOFDELAY",
+   "reward": "500 Spirits and 2 Revive Credits"
+  },
+  {
    "code": "RAGERELEASE",
    "reward": "800 Spirits and 2 Revive Credits"
+  },
+  {
+   "code": "Sorryforwait",
+   "reward": "1,000 Spirits"
   },
   {
    "code": "4freelives",
@@ -17,12 +25,8 @@
   {
    "code": "NetamoPossessedMe",
    "reward": "800 Spirits and 2 Revive Credits"
-  },
-  {
-   "code": "ThankYouForBeingPatient",
-   "reward": "800 Spirits and 2 Revive Credits"
   }
  ],
- "updated": "2026-09-03T06:27:00.126Z",
+ "updated": "2026-09-04T12:23:50.830Z",
  "source": "https://robloxden.com/game-codes/the-mimic"
 }

@@ -85,8 +85,16 @@
   {
    "code": "EMOTIONALDAMAGE",
    "reward": "80 Points"
+  },
+  {
+   "code": "200KLIKES",
+   "reward": "200 Points and 20 Gems"
+  },
+  {
+   "code": "HALLWAY",
+   "reward": "10 Gems"
   }
  ],
- "updated": "2026-09-03T06:22:01.057Z",
+ "updated": "2026-09-04T12:20:03.044Z",
  "source": "https://robloxden.com/game-codes/the-presentation-experience"
 }

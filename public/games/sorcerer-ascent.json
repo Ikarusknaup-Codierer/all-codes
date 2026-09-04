@@ -97,8 +97,16 @@
   {
    "code": "RELEASE",
    "reward": "1,500 Soul Points"
+  },
+  {
+   "code": "15KLikesCEColor",
+   "reward": "1 Cursed Energy Color Reroll"
+  },
+  {
+   "code": "TradeMaintenance",
+   "reward": "1,500 Soul Points"
   }
  ],
- "updated": "2026-09-03T06:29:38.815Z",
+ "updated": "2026-09-04T12:26:23.238Z",
  "source": "https://robloxden.com/game-codes/sorcerer-ascent"
 }

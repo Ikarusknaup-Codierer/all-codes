@@ -37,8 +37,16 @@
   {
    "code": "PART2",
    "reward": "3 Potions and 5 Tokens"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "3 Potions"
+  },
+  {
+   "code": "VISITS500",
+   "reward": "3 Potions and 5 Tokens"
   }
  ],
- "updated": "2026-09-03T06:29:16.921Z",
+ "updated": "2026-09-04T12:26:02.073Z",
  "source": "https://robloxden.com/game-codes/ascension-incremental"
 }

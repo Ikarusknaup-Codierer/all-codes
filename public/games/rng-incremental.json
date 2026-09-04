@@ -25,8 +25,16 @@
   {
    "code": "AURAS",
    "reward": "2 Coin Potions and 2 Luck Potions"
+  },
+  {
+   "code": "IWISHIKNEW",
+   "reward": "1 Wishing Well Skip"
+  },
+  {
+   "code": "20KVISITS",
+   "reward": "1 of Every Potion"
   }
  ],
- "updated": "2026-09-03T06:25:51.833Z",
+ "updated": "2026-09-04T12:22:54.765Z",
  "source": "https://robloxden.com/game-codes/rng-incremental"
 }

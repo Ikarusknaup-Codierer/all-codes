@@ -53,8 +53,16 @@
   {
    "code": "SUMMERSOON",
    "reward": "20 Luck Potion III , 20 Roll Speed Potion III , and 20 Weather Potion"
+  },
+  {
+   "code": "QOLUPDATE",
+   "reward": "a Reward"
+  },
+  {
+   "code": "QOLUPDATEFIXS",
+   "reward": "a Reward"
   }
  ],
- "updated": "2026-09-03T06:31:02.117Z",
+ "updated": "2026-09-04T12:27:00.015Z",
  "source": "https://robloxden.com/game-codes/anime-card-crusade"
 }

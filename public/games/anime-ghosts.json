@@ -233,8 +233,16 @@
   {
    "code": "EXCHANGE",
    "reward": "2 Damage Potion II , 2 Drop Potion II , 2 Ghost Potion II , 2 Luck Pot"
+  },
+  {
+   "code": "HAPPYEASTER",
+   "reward": "Potions and Gems"
+  },
+  {
+   "code": "45KLIKES",
+   "reward": "50 Gems and 2 All Potions (Tier 2)"
   }
  ],
- "updated": "2026-09-03T06:28:24.058Z",
+ "updated": "2026-09-04T12:25:08.594Z",
  "source": "https://robloxden.com/game-codes/anime-ghosts"
 }

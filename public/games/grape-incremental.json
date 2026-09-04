@@ -29,8 +29,16 @@
   {
    "code": "Grape",
    "reward": "5K Fruits and 100 Honey"
+  },
+  {
+   "code": "Feature",
+   "reward": "1 Rebirth"
+  },
+  {
+   "code": "away",
+   "reward": "1.5x EXP and 1.5x Grape Value"
   }
  ],
- "updated": "2026-09-03T06:24:29.787Z",
+ "updated": "2026-09-04T12:21:37.005Z",
  "source": "https://robloxden.com/game-codes/grape-incremental"
 }

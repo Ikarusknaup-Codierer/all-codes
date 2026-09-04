@@ -11,22 +11,22 @@
    "reward": "Annoying Goose"
   },
   {
+   "code": "Nice",
+   "reward": "Title: Nice List"
+  },
+  {
    "code": "Naughty",
    "reward": "Title: Naughty List"
   },
   {
-   "code": "SantaGift",
-   "reward": "Candy Cane Minigun"
-  },
-  {
-   "code": "M1N1NG",
-   "reward": "1 Darksteel Pickaxe"
+   "code": "GrinchGift",
+   "reward": "Pipebomb"
   },
   {
    "code": "SL1M3",
    "reward": "1 Slime Staff"
   }
  ],
- "updated": "2026-09-03T06:22:45.379Z",
+ "updated": "2026-09-04T12:20:23.165Z",
  "source": "https://robloxden.com/game-codes/balanced-craftwars-overhaul"
 }

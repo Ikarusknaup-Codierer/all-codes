@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "50K",
-   "reward": "x2 Luck (10 Minutes)"
-  },
-  {
-   "code": "SORRYALL",
-   "reward": "Idle Chest (6 hours)"
-  },
-  {
    "code": "DISCORD",
    "reward": "6H Idle Chest"
   },
@@ -24,13 +16,21 @@
   },
   {
    "code": "HEAVENLYRNG",
-   "reward": "a Mythic Soul and 2x Luck"
+   "reward": "2x Luck (10 Minutes)"
   },
   {
    "code": "LUCKX2",
-   "reward": "2x Luck"
+   "reward": "2x Luck (20 Minutes)"
+  },
+  {
+   "code": "50K",
+   "reward": "x2 Luck (10 Minutes)"
+  },
+  {
+   "code": "SORRYALL",
+   "reward": "Idle Chest (6 hours)"
   }
  ],
- "updated": "2026-09-03T06:24:30.709Z",
+ "updated": "2026-09-04T12:21:38.003Z",
  "source": "https://robloxden.com/game-codes/heavenly-cultivation-rng-roll-dao-souls"
 }

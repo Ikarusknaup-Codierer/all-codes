@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "SRY4DELAY",
+   "reward": "700 Crimson"
+  },
+  {
    "code": "DragonHunted",
    "reward": "Free Crimson"
+  },
+  {
+   "code": "SRY4DOWNTIME",
+   "reward": "800 Crimson"
   },
   {
    "code": "IsThisThingOn",
@@ -19,6 +27,6 @@
    "reward": "500 Crimson"
   }
  ],
- "updated": "2026-09-03T06:27:08.596Z",
+ "updated": "2026-09-04T12:23:56.861Z",
  "source": "https://robloxden.com/game-codes/redliner"
 }

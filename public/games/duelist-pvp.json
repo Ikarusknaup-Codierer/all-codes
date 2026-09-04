@@ -117,8 +117,16 @@
   {
    "code": "STAYPOSITIVE",
    "reward": "5K Credits and 400 EXP"
+  },
+  {
+   "code": "thanksfor700ccu",
+   "reward": "10K Credits"
+  },
+  {
+   "code": "FreeCredits",
+   "reward": "1K Credits"
   }
  ],
- "updated": "2026-09-03T06:25:44.503Z",
+ "updated": "2026-09-04T12:22:47.218Z",
  "source": "https://robloxden.com/game-codes/duelist-pvp"
 }

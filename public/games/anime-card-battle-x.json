@@ -205,8 +205,16 @@
   {
    "code": "SECRET1192",
    "reward": "Potions and Rolls"
+  },
+  {
+   "code": "ZAP",
+   "reward": "1 Luck Potion , 2 Luck Potions , 3 Luck Potions , Roll Speed 1 , Roll "
+  },
+  {
+   "code": "3K",
+   "reward": "150x Weather Reroll"
   }
  ],
- "updated": "2026-09-03T06:29:11.609Z",
+ "updated": "2026-09-04T12:25:56.991Z",
  "source": "https://robloxden.com/game-codes/anime-card-battle-x"
 }

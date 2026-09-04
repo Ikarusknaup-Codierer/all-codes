@@ -33,8 +33,16 @@
   {
    "code": "1KLIKES",
    "reward": "300 Cash"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "an Expired Reward"
+  },
+  {
+   "code": "1000FAV",
+   "reward": "an Expired Reward"
   }
  ],
- "updated": "2026-09-03T06:28:23.040Z",
+ "updated": "2026-09-04T12:25:07.537Z",
  "source": "https://robloxden.com/game-codes/naruto-clash-of-ninja"
 }

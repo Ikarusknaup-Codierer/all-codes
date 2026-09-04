@@ -169,8 +169,12 @@
   {
    "code": "Release",
    "reward": "1 Lucky Potion and 25 Tickets"
+  },
+  {
+   "code": "Variance",
+   "reward": "4 of Each Potion"
   }
  ],
- "updated": "2026-09-03T06:28:22.530Z",
+ "updated": "2026-09-04T12:25:07.033Z",
  "source": "https://robloxden.com/game-codes/dice-rolling-incremental"
 }

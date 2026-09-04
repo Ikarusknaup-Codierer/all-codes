@@ -45,8 +45,16 @@
   {
    "code": "2MVISITS",
    "reward": "2x Strength (10 Minutes) and 2x Luck (10 Minutes)"
+  },
+  {
+   "code": "SECONDUPDATE",
+   "reward": "1 Lost Relic Reroll and 5 Minutes of 2x Luck"
+  },
+  {
+   "code": "RADU",
+   "reward": "5 Minutes of 2x Power"
   }
  ],
- "updated": "2026-09-03T06:29:34.587Z",
+ "updated": "2026-09-04T12:26:19.150Z",
  "source": "https://robloxden.com/game-codes/shovel-it"
 }

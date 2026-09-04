@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FixUGCShop!",
+   "reward": "Gems or UGC Items"
+  },
+  {
    "code": "FixUGC!",
    "reward": "10K Gems"
   },
@@ -59,6 +63,6 @@
    "reward": "10K Gems"
   }
  ],
- "updated": "2026-09-03T06:25:05.555Z",
+ "updated": "2026-09-04T12:22:10.186Z",
  "source": "https://robloxden.com/game-codes/ugc-obby-2"
 }

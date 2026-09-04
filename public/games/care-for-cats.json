@@ -11,22 +11,22 @@
    "reward": "250 Golden Fish"
   },
   {
+   "code": "WELCOME",
+   "reward": "250 Paw Pennies"
+  },
+  {
+   "code": "UPDATELOG3",
+   "reward": "35 Golden Fish"
+  },
+  {
    "code": "SUMMERTIME",
    "reward": "50 Golden Fish"
   },
   {
-   "code": "VOIDLEAK",
-   "reward": "50 Golden Fish and 1 Million Coins"
-  },
-  {
-   "code": "ALLTHETREATS",
-   "reward": "10 Fish Jerky and 30 Golden Fish"
-  },
-  {
-   "code": "CAFEUPDATE",
-   "reward": "25 Golden Fish and 2 Buttered Buns"
+   "code": "CAREFORCATS",
+   "reward": "Free rewards"
   }
  ],
- "updated": "2026-09-03T06:28:19.620Z",
+ "updated": "2026-09-04T12:25:04.019Z",
  "source": "https://robloxden.com/game-codes/care-for-cats"
 }

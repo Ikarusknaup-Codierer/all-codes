@@ -477,8 +477,16 @@
   {
    "code": "CHANCE",
    "reward": "the Rock Paper Scissors Item"
+  },
+  {
+   "code": "fifa",
+   "reward": "Soccer Ball"
+  },
+  {
+   "code": "12345",
+   "reward": "Random Item"
   }
  ],
- "updated": "2026-09-03T06:21:52.108Z",
+ "updated": "2026-09-04T12:19:57.243Z",
  "source": "https://robloxden.com/game-codes/pop-it-trading"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "morecashmulti67",
+   "reward": "x2 Cash Multiplier"
+  },
+  {
    "code": "sandcastlewowo",
    "reward": "a Cash Potion , a Stat Potion and a Scrap Potion"
   },
@@ -69,8 +73,16 @@
   {
    "code": "Release",
    "reward": "+1 All Potions"
+  },
+  {
+   "code": "1500ccu",
+   "reward": "5 ALL Potions , 100 Diamonds and 25 Husk"
+  },
+  {
+   "code": "1000ccu",
+   "reward": "75 Tickets"
   }
  ],
- "updated": "2026-09-03T06:28:55.231Z",
+ "updated": "2026-09-04T12:25:40.334Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

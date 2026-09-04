@@ -545,8 +545,16 @@
   {
    "code": "Kingkade",
    "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
+  },
+  {
+   "code": "jack",
+   "reward": "a 10 Minute 2x Luck Boost and a 20 Minute 1.5x Damage Boost"
+  },
+  {
+   "code": "map20",
+   "reward": "a 20 Minute 1.5x Damage Boost and a 10 Minute 2x Luck Boost"
   }
  ],
- "updated": "2026-09-03T06:25:00.714Z",
+ "updated": "2026-09-04T12:22:05.145Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-simulator"
 }

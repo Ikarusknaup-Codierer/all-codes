@@ -65,8 +65,16 @@
   {
    "code": "SCHOOLISCOOL",
    "reward": "40 Transit Skill Points"
+  },
+  {
+   "code": "ZAP",
+   "reward": "5,000 Currency"
+  },
+  {
+   "code": "HUBFRI",
+   "reward": "12,500 Currency"
   }
  ],
- "updated": "2026-09-03T06:23:28.677Z",
+ "updated": "2026-09-04T12:20:47.388Z",
  "source": "https://robloxden.com/game-codes/ultimate-driving"
 }

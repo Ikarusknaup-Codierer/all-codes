@@ -7,12 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "400KFAVS",
+   "reward": "100,000 Cash and a Totem of Stars"
+  },
+  {
    "code": "UPDATE4",
    "reward": "250,000 Cash and 1 Carbotl"
   },
   {
    "code": "5MVISITS",
    "reward": "250K Cash, 1 Glided Hatch Hammer and 1 Totem Of Fortune"
+  },
+  {
+   "code": "20MVISITS",
+   "reward": "250,000 Cash , a Totem Of Fortune and a Gilded Hatch Hammer"
   },
   {
    "code": "100KFAVS",
@@ -27,6 +35,6 @@
    "reward": "100K Cash, 1 Wealth Totem and 1 Fortune Totem"
   }
  ],
- "updated": "2026-09-03T06:23:55.500Z",
+ "updated": "2026-09-04T12:21:06.208Z",
  "source": "https://robloxden.com/game-codes/capybaras-vs-plants"
 }

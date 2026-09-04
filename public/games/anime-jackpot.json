@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BLUEMOON",
-   "reward": "the Luck Potion II"
-  },
-  {
    "code": "500CCUAGAIN",
    "reward": "7 Itsuwari Dice"
   },
@@ -89,8 +85,12 @@
   {
    "code": "EVIL",
    "reward": "7,000 Stars"
+  },
+  {
+   "code": "BLUEMOON",
+   "reward": "the Luck Potion II"
   }
  ],
- "updated": "2026-09-03T06:28:35.670Z",
+ "updated": "2026-09-04T12:25:20.645Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

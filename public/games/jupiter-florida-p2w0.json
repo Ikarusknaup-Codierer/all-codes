@@ -19,6 +19,70 @@
    "reward": "50,000 Cash"
   },
   {
+   "code": "NewPlayers",
+   "reward": "Cash"
+  },
+  {
+   "code": "TripleLimited",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "Stinger",
+   "reward": "Cash"
+  },
+  {
+   "code": "Cavallo",
+   "reward": "Cash"
+  },
+  {
+   "code": "RizaBack",
+   "reward": "Cash"
+  },
+  {
+   "code": "FirstHourBack",
+   "reward": "Cash"
+  },
+  {
+   "code": "CCR",
+   "reward": "Cash"
+  },
+  {
+   "code": "Bedco",
+   "reward": "Cash"
+  },
+  {
+   "code": "August",
+   "reward": "Cash"
+  },
+  {
+   "code": "NewCrabs",
+   "reward": "Cash"
+  },
+  {
+   "code": "FishingV2",
+   "reward": "Cash"
+  },
+  {
+   "code": "JetSkiYacht",
+   "reward": "Cash"
+  },
+  {
+   "code": "BoatCustomize",
+   "reward": "Cash"
+  },
+  {
+   "code": "2xCashWeekend",
+   "reward": "Cash"
+  },
+  {
+   "code": "SuperYacht",
+   "reward": "Cash"
+  },
+  {
+   "code": "KillTheMeg",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "Ween",
    "reward": "Cash"
   },
@@ -131,6 +195,6 @@
    "reward": "30k Cash"
   }
  ],
- "updated": "2026-09-03T06:28:41.810Z",
+ "updated": "2026-09-04T12:25:27.258Z",
  "source": "https://robloxden.com/game-codes/jupiter-florida-p2w0"
 }

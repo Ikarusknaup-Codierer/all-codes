@@ -33,8 +33,16 @@
   {
    "code": "GreatRebalance",
    "reward": "5,000 Gems and 50 Trait Rerolls"
+  },
+  {
+   "code": "TEST1",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "TEST2",
+   "reward": "500 Gems"
   }
  ],
- "updated": "2026-09-03T06:27:33.383Z",
+ "updated": "2026-09-04T12:24:23.686Z",
  "source": "https://robloxden.com/game-codes/manhwa-legends"
 }

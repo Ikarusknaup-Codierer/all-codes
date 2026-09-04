@@ -601,8 +601,12 @@
   {
    "code": "ANNIVERSARYEGG",
    "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "LegendaryHat",
+   "reward": "Legendary Hat Crate"
   }
  ],
- "updated": "2026-09-03T06:22:34.050Z",
+ "updated": "2026-09-04T12:20:17.058Z",
  "source": "https://robloxden.com/game-codes/mining-simulator"
 }

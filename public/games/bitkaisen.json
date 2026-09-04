@@ -93,8 +93,16 @@
   {
    "code": "FAMILYUPDATE",
    "reward": "4,000 Cash , 6 Happiness , and 2 Reputations"
+  },
+  {
+   "code": "DOMAINOPENED",
+   "reward": "200 CE , 15 Mastery , Full Health , and Full Happiness"
+  },
+  {
+   "code": "SHADOWTHREAD",
+   "reward": "$60,000 , 200 CE , 15 Mastery , and 15 Rep"
   }
  ],
- "updated": "2026-09-03T06:25:56.164Z",
+ "updated": "2026-09-04T12:22:59.284Z",
  "source": "https://robloxden.com/game-codes/bitkaisen"
 }

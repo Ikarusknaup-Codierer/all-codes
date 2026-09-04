@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "START",
+   "reward": "1,500 Cash"
+  },
+  {
    "code": "cag",
    "reward": "200 Cash"
   },
@@ -49,8 +53,16 @@
   {
    "code": "ILOVEWARFARE",
    "reward": "250 Cash"
+  },
+  {
+   "code": "SUMMER2026ZLQ6",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "AUGUST2026UU4R",
+   "reward": "150 Cash"
   }
  ],
- "updated": "2026-09-03T12:24:15.201Z",
+ "updated": "2026-09-04T18:19:53.626Z",
  "source": "https://robloxden.com/game-codes/warfare"
 }

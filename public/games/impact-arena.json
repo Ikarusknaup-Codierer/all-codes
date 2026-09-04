@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ProjectionSorcery",
-   "reward": "3.5K Umens and 50 Clan Rolls"
-  },
-  {
    "code": "WOW100KLIKES",
    "reward": "5K Lumens and 100 Clan Rolls"
   },
@@ -21,8 +17,12 @@
   {
    "code": "INFINITE",
    "reward": "4.5K Lumens and 35 Clan Rolls"
+  },
+  {
+   "code": "90KLIKES",
+   "reward": "3K Lumens and 35 Clan Rolls"
   }
  ],
- "updated": "2026-09-03T12:26:34.631Z",
+ "updated": "2026-09-04T18:22:22.441Z",
  "source": "https://robloxden.com/game-codes/impact-arena"
 }

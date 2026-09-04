@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "EATING",
-   "reward": "Bear Skin"
-  },
-  {
    "code": "3RDYEAR",
    "reward": "1 Free Bear Skin"
   },
   {
-   "code": "CIRCUSARRIVAL",
-   "reward": "a 1 Skin , 1 Gear , and 100 Tokens"
+   "code": "4JULY",
+   "reward": "1 Kill Effect"
   },
   {
    "code": "FESTIVE22",
@@ -25,8 +21,12 @@
   {
    "code": "2YEAR",
    "reward": "1 Anniversary Skin , 1 Gear , and 222 Quidz"
+  },
+  {
+   "code": "CURIOUS",
+   "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-03T12:28:01.899Z",
+ "updated": "2026-09-04T18:23:51.902Z",
  "source": "https://robloxden.com/game-codes/bear"
 }

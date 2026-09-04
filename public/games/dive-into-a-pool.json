@@ -19,14 +19,14 @@
    "reward": "100,000 Coins"
   },
   {
-   "code": "halloween",
-   "reward": "2 of Each Potion"
-  },
-  {
    "code": "refresh",
    "reward": "400 Wins"
+  },
+  {
+   "code": "wins",
+   "reward": "300 Wins"
   }
  ],
- "updated": "2026-09-03T18:19:17.670Z",
+ "updated": "2026-09-04T18:26:33.776Z",
  "source": "https://robloxden.com/game-codes/dive-into-a-pool"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SALTY",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "CRIME",
+   "reward": "10,000 Cash"
+  },
+  {
    "code": "TOWTRUCK",
    "reward": "$10,000"
   },
@@ -15,6 +23,6 @@
    "reward": "$10,000"
   }
  ],
- "updated": "2026-09-03T12:24:35.905Z",
+ "updated": "2026-09-04T18:20:16.115Z",
  "source": "https://robloxden.com/game-codes/miami-life-rp"
 }

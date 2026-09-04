@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FiftyEightCode",
+   "reward": "200 Pet Tokens , 200 Trait Tokens , and 200 Grade Tokens"
+  },
+  {
    "code": "SummerCode3",
    "reward": "2,000 Summer Tokens"
   },
@@ -259,10 +263,10 @@
    "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
   },
   {
-   "code": "ANNIDELAY3",
-   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
+   "code": "ANNIDELAY2",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 2 Boss Chance "
   }
  ],
- "updated": "2026-09-03T12:26:21.772Z",
+ "updated": "2026-09-04T18:22:08.946Z",
  "source": "https://robloxden.com/game-codes/anime-card-collection"
 }

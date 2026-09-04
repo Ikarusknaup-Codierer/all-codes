@@ -11,10 +11,6 @@
    "reward": "10K Cash"
   },
   {
-   "code": "PINGOVERHAUL",
-   "reward": "10,000 Style Coins and 15,000 Cash"
-  },
-  {
    "code": "BAROUTSPECIAL",
    "reward": "15,000 Style Currency and 15,000 Cash"
   },
@@ -33,6 +29,10 @@
   {
    "code": "QUIET",
    "reward": "X Emote"
+  },
+  {
+   "code": "PINGOVERHAUL",
+   "reward": "10,000 Style Coins and 15,000 Cash"
   },
   {
    "code": "CHAMPIONS",
@@ -111,6 +111,6 @@
    "reward": "15,000 Style Coins and 15,000 Cash"
   }
  ],
- "updated": "2026-09-03T12:24:07.361Z",
+ "updated": "2026-09-04T18:19:44.938Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

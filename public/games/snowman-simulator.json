@@ -11,6 +11,10 @@
    "reward": "an 1,000 Silver"
   },
   {
+   "code": "SNOWGLOBE",
+   "reward": "300"
+  },
+  {
    "code": "NORTHPOLE32",
    "reward": "100"
   },
@@ -21,12 +25,8 @@
   {
    "code": "4509413",
    "reward": "100 Silver"
-  },
-  {
-   "code": "GINGERBREAD2020",
-   "reward": "220 Silver"
   }
  ],
- "updated": "2026-09-03T18:17:54.440Z",
+ "updated": "2026-09-04T18:25:08.331Z",
  "source": "https://robloxden.com/game-codes/snowman-simulator"
 }

@@ -11,6 +11,10 @@
    "reward": "10,000 Cash"
   },
   {
+   "code": "Christmas",
+   "reward": "2 Tickets"
+  },
+  {
    "code": "Studss",
    "reward": "250 Studs"
   },
@@ -21,12 +25,8 @@
   {
    "code": "Cookies",
    "reward": "3 Cookies"
-  },
-  {
-   "code": "ENERGYYY",
-   "reward": "2 Energy Juice"
   }
  ],
- "updated": "2026-09-03T12:26:06.957Z",
+ "updated": "2026-09-04T18:21:53.303Z",
  "source": "https://robloxden.com/game-codes/dig-brainrots"
 }

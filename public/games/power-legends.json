@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CRASH",
+   "reward": "500B Souls , 500 Qi Tokens , 100K NPC Rerolls , 50T Base TPM , 50K Mas"
+  },
+  {
+   "code": "SUMMER2026",
+   "reward": "Rewards"
+  },
+  {
    "code": "SORRYRESTART",
    "reward": "12 Hours Time Alive"
   },
@@ -31,6 +39,6 @@
    "reward": "500 Billion Souls , 50 Quintillion Tokens , 50 Million Rerolls , and 2"
   }
  ],
- "updated": "2026-09-03T12:23:00.276Z",
+ "updated": "2026-09-04T18:18:30.818Z",
  "source": "https://robloxden.com/game-codes/power-legends"
 }

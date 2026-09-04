@@ -31,10 +31,6 @@
    "reward": "Pink Equipment and Auras"
   },
   {
-   "code": "SorryForThePityIssues",
-   "reward": "a 1 Hour boost . You need to be level 300 to redeem this code"
-  },
-  {
    "code": "SorryForAtheonPityBug",
    "reward": "a 1 Hour boost . You need to be at least Level 100 to redeem this code"
   },
@@ -79,14 +75,14 @@
    "reward": "This code randomizes your head's size"
   },
   {
-   "code": "SorryForShutdowns",
-   "reward": "a 30 Minutes boost"
+   "code": "SorryForThePityIssues",
+   "reward": "a 1 Hour boost . You need to be level 300 to redeem this code"
   },
   {
-   "code": "HappyHunting",
-   "reward": "45 Minutes Boost"
+   "code": "SorryForShutdowns",
+   "reward": "a 30 Minutes boost"
   }
  ],
- "updated": "2026-09-03T12:23:18.776Z",
+ "updated": "2026-09-04T18:18:51.306Z",
  "source": "https://robloxden.com/game-codes/swordburst-2"
 }

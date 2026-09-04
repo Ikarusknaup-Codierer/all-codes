@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LESDIABOLIQUE",
+   "reward": "100,000 XP , 100,000 Yen , 50 Stand Arrows , and 50 Rokakaka"
+  },
+  {
+   "code": "LEDIABOLIQUE",
+   "reward": "100,000 XP , 100,000 Yen , 25 Saint's Corpse Parts , and 3 Mythical Gi"
+  },
+  {
    "code": "ECHOESACT5",
    "reward": "3 Mythical Giftboxes , 100,000 XP , 25 Saint's Corpse Parts , and 100,"
   },
@@ -107,14 +115,14 @@
    "reward": "1 Stand Arrow , 2,500 XP , and 1,000 Yen"
   },
   {
-   "code": "7KFAVS",
-   "reward": "5 Rokakaka , 10 Stand Arrows , and 3 Saint's Corpse Parts"
+   "code": "GOTTACOLLECTEMALL",
+   "reward": "Misc. Rewards"
   },
   {
-   "code": "1KVISITS",
+   "code": "RAIDS",
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-09-03T12:21:09.421Z",
+ "updated": "2026-09-04T18:17:03.602Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

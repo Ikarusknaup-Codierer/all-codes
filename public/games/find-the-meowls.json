@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HappyHolidays",
+   "reward": "25 Winter Coins"
+  },
+  {
    "code": "FreeShards",
    "reward": "10 Shards"
   },
@@ -27,6 +31,6 @@
    "reward": "50 Meowl Coins"
   }
  ],
- "updated": "2026-09-03T12:24:59.030Z",
+ "updated": "2026-09-04T18:20:41.628Z",
  "source": "https://robloxden.com/game-codes/find-the-meowls"
 }

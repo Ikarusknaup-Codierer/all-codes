@@ -73,8 +73,16 @@
   {
    "code": "TRADEME",
    "reward": "100 Heads"
+  },
+  {
+   "code": "stonk",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "WILD",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-09-03T00:32:56.719Z",
+ "updated": "2026-09-04T06:25:03.172Z",
  "source": "https://robloxden.com/game-codes/mega-noob-simulator"
 }

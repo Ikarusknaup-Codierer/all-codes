@@ -33,8 +33,16 @@
   {
    "code": "PLAYGROUND",
    "reward": "1,000 Gems"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-09-03T00:26:45.110Z",
+ "updated": "2026-09-04T06:20:01.166Z",
  "source": "https://robloxden.com/game-codes/jump-simulator"
 }

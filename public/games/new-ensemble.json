@@ -25,8 +25,16 @@
   {
    "code": "FREELEVEL",
    "reward": "150 Levels"
+  },
+  {
+   "code": "BUGSFIX",
+   "reward": "150 Levels"
+  },
+  {
+   "code": "TESTING",
+   "reward": "150 Levels"
   }
  ],
- "updated": "2026-09-03T00:28:33.395Z",
+ "updated": "2026-09-04T06:21:32.915Z",
  "source": "https://robloxden.com/game-codes/new-ensemble"
 }

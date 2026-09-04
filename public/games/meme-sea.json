@@ -45,8 +45,16 @@
   {
    "code": "70KActive",
    "reward": "1,000 Gems"
+  },
+  {
+   "code": "ThankFor200KVisits",
+   "reward": "200,000 Cash"
+  },
+  {
+   "code": "ThankFor1MVisits",
+   "reward": "1,000,000 Cash"
   }
  ],
- "updated": "2026-09-03T00:34:18.613Z",
+ "updated": "2026-09-04T06:26:06.311Z",
  "source": "https://robloxden.com/game-codes/meme-sea"
 }

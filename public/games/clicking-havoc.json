@@ -213,8 +213,16 @@
   {
    "code": "SECRET",
    "reward": "the Mythic Lava Elemental Pet"
+  },
+  {
+   "code": "FREESERVERS",
+   "reward": "Free Boost"
+  },
+  {
+   "code": "TOXIC",
+   "reward": "the Mythic Toxic Bot Pet"
   }
  ],
- "updated": "2026-09-03T00:33:28.084Z",
+ "updated": "2026-09-04T06:25:32.380Z",
  "source": "https://robloxden.com/game-codes/clicking-havoc"
 }

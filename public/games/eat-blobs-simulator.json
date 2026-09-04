@@ -509,8 +509,16 @@
   {
    "code": "TOOMANYCODES",
    "reward": "5,000 Size"
+  },
+  {
+   "code": "COINS",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "COINS2",
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-03T00:26:14.229Z",
+ "updated": "2026-09-04T06:19:39.523Z",
  "source": "https://robloxden.com/game-codes/eat-blobs-simulator"
 }

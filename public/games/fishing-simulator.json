@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "PairOfJacks",
-   "reward": "300"
+   "code": "Angelfish",
+   "reward": "30"
   },
   {
-   "code": "THANKSGIVING",
+   "code": "Leatherjacket",
+   "reward": "20"
+  },
+  {
+   "code": "CarBait",
+   "reward": ""
+  },
+  {
+   "code": "HEARTS",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "MARBLEBDAY",
    "reward": "Free Gems"
-  },
-  {
-   "code": "CoalFish",
-   "reward": "Free Gems"
-  },
-  {
-   "code": "Sub2Myster0y",
-   "reward": "Free Gems"
-  },
-  {
-   "code": "NATIONALGF",
-   "reward": "100,000 Gems"
   }
  ],
- "updated": "2026-09-03T00:27:22.132Z",
+ "updated": "2026-09-04T06:20:27.634Z",
  "source": "https://robloxden.com/game-codes/fishing-simulator"
 }

@@ -37,8 +37,16 @@
   {
    "code": "UPDATE2",
    "reward": "10,000 Cash and a 30 Minute 2x XP Boost"
+  },
+  {
+   "code": "NEWMAGIC",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "20,000 Cash"
   }
  ],
- "updated": "2026-09-03T00:32:43.886Z",
+ "updated": "2026-09-04T06:24:56.038Z",
  "source": "https://robloxden.com/game-codes/un-equal"
 }

@@ -65,8 +65,16 @@
   {
    "code": "THEGUARDIANS",
    "reward": "1,000 Coins"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "75 Money"
+  },
+  {
+   "code": "100KTHUMBSUP",
+   "reward": "3,000 Money"
   }
  ],
- "updated": "2026-09-03T00:29:41.232Z",
+ "updated": "2026-09-04T06:22:31.579Z",
  "source": "https://robloxden.com/game-codes/corridor-of-hell"
 }

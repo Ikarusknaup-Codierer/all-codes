@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "25 Golden Dice"
+  },
+  {
+   "code": "GROUP",
+   "reward": "3 Diamond Dice"
+  },
+  {
+   "code": "HEROES",
+   "reward": "¢50,000"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "FLOOR3",
+   "reward": "250 Gems"
   }
  ],
- "updated": "2026-09-03T00:34:29.796Z",
+ "updated": "2026-09-04T06:26:11.051Z",
  "source": "https://robloxden.com/game-codes/spin-a-superhero"
 }

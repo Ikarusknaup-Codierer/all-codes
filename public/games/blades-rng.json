@@ -41,8 +41,16 @@
   {
    "code": "LUCKWEEKEND",
    "reward": "Special Luck Elixir"
+  },
+  {
+   "code": "FIVESTARLUCK",
+   "reward": "Luck Boost"
+  },
+  {
+   "code": "combatchanges",
+   "reward": "500 Gems"
   }
  ],
- "updated": "2026-09-03T00:28:32.810Z",
+ "updated": "2026-09-04T06:21:32.411Z",
  "source": "https://robloxden.com/game-codes/blades-rng"
 }

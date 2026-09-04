@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "QUACKEDEGGS",
+   "reward": "an Outfit Egg and +50% Bonus Bread"
+  },
+  {
+   "code": "DailyGrind",
+   "reward": "an Outfit Egg"
+  },
+  {
+   "code": "LVLUP",
+   "reward": "Prestige EXP"
+  },
+  {
+   "code": "Like4Eggs",
+   "reward": "an Outfit Egg and +50% Bonus Bread"
   }
  ],
- "updated": "2026-09-03T00:30:16.052Z",
+ "updated": "2026-09-04T06:23:03.001Z",
  "source": "https://robloxden.com/game-codes/duck-duck-tag"
 }

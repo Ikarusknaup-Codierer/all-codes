@@ -15,6 +15,10 @@
    "reward": "* 150 Skill Points"
   },
   {
+   "code": "ANDERSBIRTHDAY",
+   "reward": "35,000 Coins"
+  },
+  {
    "code": "2024V1",
    "reward": "Coins"
   },
@@ -33,10 +37,6 @@
   {
    "code": "UPDATE2",
    "reward": "5 Chest Tokens"
-  },
-  {
-   "code": "ANDERSBIRTHDAY",
-   "reward": "35,000 Coins"
   },
   {
    "code": "HAPPY20K",
@@ -71,6 +71,6 @@
    "reward": "50,000 Coins"
   }
  ],
- "updated": "2026-09-03T00:29:46.633Z",
+ "updated": "2026-09-04T06:22:35.882Z",
  "source": "https://robloxden.com/game-codes/marvel-new-journey"
 }

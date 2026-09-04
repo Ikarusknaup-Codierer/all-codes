@@ -97,8 +97,16 @@
   {
    "code": "FREECASH",
    "reward": "200,000 Cash"
+  },
+  {
+   "code": "320KLIKES",
+   "reward": "320,000 Cash"
+  },
+  {
+   "code": "FREEGEMS",
+   "reward": "6,000 Gems"
   }
  ],
- "updated": "2026-09-03T00:33:50.551Z",
+ "updated": "2026-09-04T06:25:47.694Z",
  "source": "https://robloxden.com/game-codes/airport-tycoon"
 }

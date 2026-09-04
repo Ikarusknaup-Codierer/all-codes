@@ -5,8 +5,52 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "1.5x Lift Speed (30 Minutes)"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "2x Crew XP (30 Minutes)"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "1.5x Stamina Regen (30 Minutes)"
+  },
+  {
+   "code": "UpdateLoL",
+   "reward": "1.5x Gains (15 Minutes) , $10,000 , 20 Whey , 20 Creatine , and 20 Pre"
+  },
+  {
+   "code": "Starter",
+   "reward": "$999 , 5 Whey , 5 Creatine , and Double Gains (60 Minutes)"
+  },
+  {
+   "code": "CrewWorker",
+   "reward": "10 Creatine and Double Crew XP (60 Minutes)"
+  },
+  {
+   "code": "SoloDevIsA_W",
+   "reward": "1.5x Crew XP (30 Minutes) and 1.5x Stamina (30 Minutes)"
+  },
+  {
+   "code": "UPDATE_BRUH",
+   "reward": "1.5x Lift Speed (30 Minutes) and 1.5x Gains (30 Minutes)"
+  },
+  {
+   "code": "BENCHCALIBER",
+   "reward": "1.5x Lift Speed (30 Minutes) and 1.5x Stamina (30 Minutes)"
+  },
+  {
+   "code": "AdminShh",
+   "reward": "67 Cash , 2x Stamina Regen Boost (15 Minutes) , and 2x Lift Speed Boos"
+  },
+  {
+   "code": "Sorry4Bugs",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-09-03T06:21:24.353Z",
+ "updated": "2026-09-04T06:27:14.142Z",
  "source": "https://robloxden.com/game-codes/ultimate-gym-game"
 }

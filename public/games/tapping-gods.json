@@ -73,8 +73,16 @@
   {
    "code": "WOW25M",
    "reward": "20,000 Diamonds"
+  },
+  {
+   "code": "Filtered",
+   "reward": "250 Taps and 250 Diamonds"
+  },
+  {
+   "code": "COOLTAPPER",
+   "reward": "750 Tap Points"
   }
  ],
- "updated": "2026-09-03T00:32:44.408Z",
+ "updated": "2026-09-04T06:24:56.552Z",
  "source": "https://robloxden.com/game-codes/tapping-gods"
 }

@@ -269,8 +269,16 @@
   {
    "code": "20M",
    "reward": "1 +3 Speed Boost"
+  },
+  {
+   "code": "5M",
+   "reward": "2 Tokens To All Boosts"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "1 +1 Energy Boost"
   }
  ],
- "updated": "2026-09-03T00:32:04.185Z",
+ "updated": "2026-09-04T06:24:21.917Z",
  "source": "https://robloxden.com/game-codes/speedman-simulator"
 }

@@ -77,8 +77,16 @@
   {
    "code": "group",
    "reward": "500 Size Increase"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "SPRING",
+   "reward": "5,000 Size Increase"
   }
  ],
- "updated": "2026-09-03T00:26:15.321Z",
+ "updated": "2026-09-04T06:19:40.630Z",
  "source": "https://robloxden.com/game-codes/ball-eating-simulator"
 }

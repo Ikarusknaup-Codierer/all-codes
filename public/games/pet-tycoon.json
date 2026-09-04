@@ -45,8 +45,16 @@
   {
    "code": "play",
    "reward": "150 Diamonds"
+  },
+  {
+   "code": "FirstBirthday",
+   "reward": "100 Tokens and the Cakey Pet"
+  },
+  {
+   "code": "BOOP",
+   "reward": "2x Exp Boost (15 minutes)"
   }
  ],
- "updated": "2026-09-03T00:33:41.282Z",
+ "updated": "2026-09-04T06:25:40.378Z",
  "source": "https://robloxden.com/game-codes/pet-tycoon"
 }

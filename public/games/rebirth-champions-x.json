@@ -353,8 +353,16 @@
   {
    "code": "ANNIVERSARY",
    "reward": "4 2x Luck Boosts"
+  },
+  {
+   "code": "party",
+   "reward": "Four 2x Luck Boosts"
+  },
+  {
+   "code": "mars",
+   "reward": ""
   }
  ],
- "updated": "2026-09-03T00:30:48.990Z",
+ "updated": "2026-09-04T06:23:31.979Z",
  "source": "https://robloxden.com/game-codes/rebirth-champions-x"
 }

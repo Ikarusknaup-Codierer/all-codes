@@ -53,8 +53,16 @@
   {
    "code": "SUNSHINES1",
    "reward": "the Sun Sworn Pet"
+  },
+  {
+   "code": "CALORIES60",
+   "reward": "2,000 Crystals and 650 Fatness"
+  },
+  {
+   "code": "CALORIES120",
+   "reward": "300 Crystals and 140 Fatness"
   }
  ],
- "updated": "2026-09-03T00:33:33.495Z",
+ "updated": "2026-09-04T06:25:37.699Z",
  "source": "https://robloxden.com/game-codes/fat-simulator"
 }

@@ -129,8 +129,16 @@
   {
    "code": "16MVISITS",
    "reward": "25,000 Cash"
+  },
+  {
+   "code": "toogreat",
+   "reward": "Free Reward"
+  },
+  {
+   "code": "fallblock",
+   "reward": "Free Reward"
   }
  ],
- "updated": "2026-09-03T00:27:47.675Z",
+ "updated": "2026-09-04T06:20:49.615Z",
  "source": "https://robloxden.com/game-codes/empire-vi"
 }

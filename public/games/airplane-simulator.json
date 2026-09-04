@@ -37,8 +37,16 @@
   {
    "code": "100K",
    "reward": "60,000 Cash"
+  },
+  {
+   "code": "CONTRACT",
+   "reward": "50k Cash"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "20k Cash"
   }
  ],
- "updated": "2026-09-03T00:32:10.484Z",
+ "updated": "2026-09-04T06:24:27.965Z",
  "source": "https://robloxden.com/game-codes/airplane-simulator"
 }

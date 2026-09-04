@@ -129,8 +129,16 @@
   {
    "code": "NEWYEAR",
    "reward": "a 10 Minute 2x Power Boost"
+  },
+  {
+   "code": "RICH",
+   "reward": "Free Coins"
+  },
+  {
+   "code": "GETRICHQUICK",
+   "reward": "Free Coins"
   }
  ],
- "updated": "2026-09-03T00:34:13.921Z",
+ "updated": "2026-09-04T06:26:04.106Z",
  "source": "https://robloxden.com/game-codes/sword-fighters-simulator"
 }

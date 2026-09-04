@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "4x Luck Boost (10 Minutes)"
+  },
+  {
+   "code": "VOLCANOO",
+   "reward": "4x Luck Boost (10 Minutes)"
+  },
+  {
+   "code": "WeHit30K",
+   "reward": "2x Luck Boost (10 Minutes)"
+  },
+  {
+   "code": "Happy30K",
+   "reward": "2x Luck Boost (10 Minutes)"
   }
  ],
- "updated": "2026-09-03T06:21:22.943Z",
+ "updated": "2026-09-04T06:27:12.639Z",
  "source": "https://robloxden.com/game-codes/build-a-base-and-steal"
 }

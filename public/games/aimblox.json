@@ -29,8 +29,16 @@
   {
    "code": "NEWPLAYER",
    "reward": "500 Aimbux, Peacemaker, and PKA-S Sight"
+  },
+  {
+   "code": "THANKSGIVING25",
+   "reward": "Free Gun Crate"
+  },
+  {
+   "code": "LIKES250K",
+   "reward": "$1,000 Cash"
   }
  ],
- "updated": "2026-09-03T00:28:18.061Z",
+ "updated": "2026-09-04T06:21:17.989Z",
  "source": "https://robloxden.com/game-codes/aimblox"
 }

@@ -29,8 +29,16 @@
   {
    "code": "refund1",
    "reward": "Stat Reset"
+  },
+  {
+   "code": "50klikes",
+   "reward": "2x XP For 30 Minutes"
+  },
+  {
+   "code": "cosmic",
+   "reward": "2 Hours Of All Boosts"
   }
  ],
- "updated": "2026-09-03T06:21:37.186Z",
+ "updated": "2026-09-04T06:27:26.438Z",
  "source": "https://robloxden.com/game-codes/a-hero-s-destiny"
 }

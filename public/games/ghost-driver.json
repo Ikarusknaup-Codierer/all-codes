@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "THANKSFOR1MIL",
+   "reward": "10,000 Cash"
+  },
+  {
+   "code": "SINCEROWASHERE",
+   "reward": "10,000 Cash"
+  },
+  {
    "code": "SORRYFORLATE",
    "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-09-03T00:30:17.626Z",
+ "updated": "2026-09-04T06:23:04.618Z",
  "source": "https://robloxden.com/game-codes/ghost-driver"
 }

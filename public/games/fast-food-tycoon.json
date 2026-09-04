@@ -37,8 +37,16 @@
   {
    "code": "UPDATE3",
    "reward": "100 Gems and 250 Cash"
+  },
+  {
+   "code": "X2CASHBOOST",
+   "reward": "Double Cash Boost For 3 Minutes"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "150 Cash"
   }
  ],
- "updated": "2026-09-03T00:31:02.065Z",
+ "updated": "2026-09-04T06:23:39.057Z",
  "source": "https://robloxden.com/game-codes/fast-food-tycoon"
 }

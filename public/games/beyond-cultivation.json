@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SMALLUPDATE",
+   "reward": "20 Talent/Race Spins . You need to have Qi Refinement Realm or above t"
+  },
+  {
    "code": "TRADING",
    "reward": "20 Race/Talent Spins . You need to have Qi Refinement Realm or above t"
   },
   {
    "code": "BONES",
    "reward": "20 Talent/Race Spins"
+  },
+  {
+   "code": "10KVISITS",
+   "reward": "50 Talent/Race Spins"
   }
  ],
- "updated": "2026-09-03T00:30:59.909Z",
+ "updated": "2026-09-04T06:23:36.903Z",
  "source": "https://robloxden.com/game-codes/beyond-cultivation"
 }

@@ -25,8 +25,16 @@
   {
    "code": "NUKE",
    "reward": "1 Damage Boost"
+  },
+  {
+   "code": "BoostCode2",
+   "reward": "A Free Boost"
+  },
+  {
+   "code": "BoostCode",
+   "reward": "A Free Boost"
   }
  ],
- "updated": "2026-09-03T00:30:45.901Z",
+ "updated": "2026-09-04T06:23:29.385Z",
  "source": "https://robloxden.com/game-codes/smashing-simulator-x"
 }

@@ -77,8 +77,16 @@
   {
    "code": "HOLIDAY",
    "reward": "a 10 Minute 2x Workout Boost"
+  },
+  {
+   "code": "200KBOOM",
+   "reward": "2x Movement Speed"
+  },
+  {
+   "code": "500likes",
+   "reward": "x2 Energy Boost"
   }
  ],
- "updated": "2026-09-03T06:21:13.110Z",
+ "updated": "2026-09-04T06:27:02.117Z",
  "source": "https://robloxden.com/game-codes/strongman-simulator"
 }

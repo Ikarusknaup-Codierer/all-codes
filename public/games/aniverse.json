@@ -37,8 +37,16 @@
   {
    "code": "10KLikes",
    "reward": "150 Coins and 300 Shards"
+  },
+  {
+   "code": "1KLikes",
+   "reward": "100 Coins and 300 Shards"
+  },
+  {
+   "code": "SorryShutdown",
+   "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-03T06:21:33.440Z",
+ "updated": "2026-09-04T06:27:22.643Z",
  "source": "https://robloxden.com/game-codes/aniverse"
 }

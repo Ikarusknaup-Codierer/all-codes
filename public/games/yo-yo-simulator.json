@@ -37,8 +37,16 @@
   {
    "code": "20KFAVORITES",
    "reward": "5,000 Coins"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "10,000 Coins"
   }
  ],
- "updated": "2026-09-03T00:30:37.041Z",
+ "updated": "2026-09-04T06:23:20.979Z",
  "source": "https://robloxden.com/game-codes/yo-yo-simulator"
 }

@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "DAY3HYPE",
+   "code": "REL",
+   "reward": "A Reward"
+  },
+  {
+   "code": "30k",
    "reward": "150 Coins"
   },
   {
@@ -15,18 +19,14 @@
    "reward": "250 Coins"
   },
   {
-   "code": "100k",
-   "reward": "1,500 Coins"
+   "code": "BUGGED",
+   "reward": "500 Cash"
   },
   {
-   "code": "TechnobladeNeverDies",
-   "reward": "Techno Tower"
-  },
-  {
-   "code": "J0HNRBX",
-   "reward": "the John Tower"
+   "code": "GORILLAPRO",
+   "reward": "100 Cash"
   }
  ],
- "updated": "2026-09-03T00:31:52.627Z",
+ "updated": "2026-09-04T06:24:10.910Z",
  "source": "https://robloxden.com/game-codes/retro-tds"
 }

@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "500Likes",
+   "reward": "25 Kills and 1 Revive"
+  },
+  {
+   "code": "SpinTheWheel",
+   "reward": "3 Spins"
+  },
+  {
+   "code": "Update2",
+   "reward": "50 Gold, 75 Kills and 2 Revives"
   }
  ],
- "updated": "2026-09-03T00:34:24.822Z",
+ "updated": "2026-09-04T06:26:08.899Z",
  "source": "https://robloxden.com/game-codes/evolve-and-survive"
 }

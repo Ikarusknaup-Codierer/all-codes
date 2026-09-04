@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "hatchathon",
-   "reward": "1 Prismatic Elixir , 15 Egg Elixirs , 15 Super Lucky Elixirs , and 15 "
-  },
-  {
-   "code": "lucky",
-   "reward": "3 Lucky Elixirs"
+   "code": "Likes24",
+   "reward": "1 Golden Cherry , 1 Coin Elixir , and 1 Super Lucky Elixir"
   },
   {
    "code": "tropical",
@@ -23,10 +19,14 @@
    "reward": "10 Sea Elixirs, 5k Festive Mystery Eggs, 1 Prismatic Sundae, 15 Egg El"
   },
   {
+   "code": "hardcore",
+   "reward": "4 Hardcore Tomes"
+  },
+  {
    "code": "ilovefishing",
    "reward": "3 Sea Elixirs And 1 Seafarer Rune"
   }
  ],
- "updated": "2026-09-03T00:27:10.091Z",
+ "updated": "2026-09-04T06:20:18.893Z",
  "source": "https://robloxden.com/game-codes/pet-catchers"
 }

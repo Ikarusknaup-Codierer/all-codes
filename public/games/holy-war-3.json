@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "YOUWANTTRYME",
-   "reward": "Exp"
+   "code": "SHINOBI",
+   "reward": "the Estarossa's Sword"
   },
   {
-   "code": "TUKTUK",
-   "reward": "5,000,000 EXP"
+   "code": "LATEGOLD",
+   "reward": "50,000 Gold"
   },
   {
-   "code": "SUNBREATHING",
-   "reward": "Spins"
-  },
-  {
-   "code": "STATRESET1",
-   "reward": "a Stat Reset"
-  },
-  {
-   "code": "SOMERACE",
+   "code": "LATENIGHTRACE",
    "reward": "Race Spins"
+  },
+  {
+   "code": "K4RM4",
+   "reward": "15,000 Gold"
+  },
+  {
+   "code": "HBDBANDWIN1",
+   "reward": "150 Race Spins"
   }
  ],
- "updated": "2026-09-03T00:33:52.790Z",
+ "updated": "2026-09-04T06:25:48.803Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

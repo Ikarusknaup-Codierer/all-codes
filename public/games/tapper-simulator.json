@@ -89,8 +89,16 @@
   {
    "code": "WINTER",
    "reward": "a 2x Luck Boost"
+  },
+  {
+   "code": "Heaven",
+   "reward": "a Click Boost"
+  },
+  {
+   "code": "ClickCode1",
+   "reward": "a Click Boost"
   }
  ],
- "updated": "2026-09-03T00:29:42.375Z",
+ "updated": "2026-09-04T06:22:32.667Z",
  "source": "https://robloxden.com/game-codes/tapper-simulator"
 }

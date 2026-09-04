@@ -29,8 +29,16 @@
   {
    "code": "RELEASE",
    "reward": "100 Uncommon Car Parts , 500 Common Car parts , 1 Rare Container , 1 U"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "1 Rare Container , 1 Uncommon Container , and 1 Common Container"
+  },
+  {
+   "code": "100LIKES",
+   "reward": "1 Rare Container , 1 Uncommon Container , and 1 Common Container"
   }
  ],
- "updated": "2026-09-03T00:38:51.634Z",
+ "updated": "2026-09-04T06:26:32.801Z",
  "source": "https://robloxden.com/game-codes/car-flipper"
 }

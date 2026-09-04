@@ -33,8 +33,16 @@
   {
    "code": "1000Likes",
    "reward": "120 Cash"
+  },
+  {
+   "code": "Money",
+   "reward": "$100 Cash"
+  },
+  {
+   "code": "Million!",
+   "reward": "200 Cash"
   }
  ],
- "updated": "2026-09-03T00:27:18.169Z",
+ "updated": "2026-09-04T06:20:24.820Z",
  "source": "https://robloxden.com/game-codes/obby-tycoon"
 }

@@ -49,8 +49,16 @@
   {
    "code": "200KLIKES",
    "reward": "20,000 Tokens"
+  },
+  {
+   "code": "void",
+   "reward": "free Gems"
+  },
+  {
+   "code": "HAPPYNEWYEAR",
+   "reward": "a 1 Hour 2x Winter Tokens Boost"
   }
  ],
- "updated": "2026-09-03T06:21:30.845Z",
+ "updated": "2026-09-04T06:27:20.210Z",
  "source": "https://robloxden.com/game-codes/super-power-fighting-simulator"
 }

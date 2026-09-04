@@ -29,8 +29,16 @@
   {
    "code": "1000X",
    "reward": "10,000 Coins"
+  },
+  {
+   "code": "EASTER",
+   "reward": "Stat And Strength Boost"
+  },
+  {
+   "code": "CHRISTMAS",
+   "reward": "All Boosts"
   }
  ],
- "updated": "2026-09-03T00:29:43.782Z",
+ "updated": "2026-09-04T06:22:33.160Z",
  "source": "https://robloxden.com/game-codes/hero-simulator"
 }

@@ -53,8 +53,16 @@
   {
    "code": "NewUpdate",
    "reward": "5,000 Power"
+  },
+  {
+   "code": "FixedBuged",
+   "reward": ""
+  },
+  {
+   "code": "LikeForUpdates",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-09-03T00:25:37.840Z",
+ "updated": "2026-09-04T06:19:25.075Z",
  "source": "https://robloxden.com/game-codes/kamehameha-simulator"
 }

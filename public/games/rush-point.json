@@ -41,8 +41,16 @@
   {
    "code": "MONEY",
    "reward": "Credits . This code requires you to be at least level 5"
+  },
+  {
+   "code": "SKINS",
+   "reward": "Some Freebies"
+  },
+  {
+   "code": "MOREMAPS",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-03T00:34:14.962Z",
+ "updated": "2026-09-04T06:26:04.644Z",
  "source": "https://robloxden.com/game-codes/rush-point"
 }

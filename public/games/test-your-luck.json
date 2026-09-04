@@ -41,8 +41,16 @@
   {
    "code": "UPDATE213",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "UPDATE210",
+   "reward": "10,000 Gems"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "25,000 Gems And 15,000 Clovers"
   }
  ],
- "updated": "2026-09-03T00:26:26.147Z",
+ "updated": "2026-09-04T06:19:47.615Z",
  "source": "https://robloxden.com/game-codes/test-your-luck"
 }

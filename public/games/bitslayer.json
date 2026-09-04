@@ -7,10 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "SPIN",
+   "reward": "3 Clan Spins"
+  },
+  {
+   "code": "YEN",
+   "reward": "1,000 Yen"
+  },
+  {
+   "code": "FORGE",
+   "reward": "5 Clan Spins and 2,000 Yen"
+  },
+  {
    "code": "CODE3",
    "reward": "3 Clan Spins and 1,500 Yen"
+  },
+  {
+   "code": "UNCSTATUS",
+   "reward": "4 Clan Spins"
+  },
+  {
+   "code": "WorLRizz",
+   "reward": "5 Trait Spins and 5 Clan Spins"
   }
  ],
- "updated": "2026-09-03T00:32:26.228Z",
+ "updated": "2026-09-04T06:24:42.741Z",
  "source": "https://robloxden.com/game-codes/bitslayer"
 }

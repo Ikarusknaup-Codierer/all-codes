@@ -125,8 +125,16 @@
   {
    "code": "EASTER",
    "reward": "a 12 Hour Hatch Boost"
+  },
+  {
+   "code": "LuckyKelo",
+   "reward": "a 12 Hour Luck Boost"
+  },
+  {
+   "code": "5MillionVisits!",
+   "reward": "a 24 Hour Luck Boost"
   }
  ],
- "updated": "2026-09-03T06:22:17.186Z",
+ "updated": "2026-09-04T06:27:57.510Z",
  "source": "https://robloxden.com/game-codes/science-simulator"
 }

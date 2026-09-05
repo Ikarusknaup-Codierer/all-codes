@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Shutdown",
+   "reward": "5 Luck Rolls"
+  },
+  {
+   "code": "50active",
+   "reward": "20 Luck Rolls"
+  },
+  {
+   "code": "ThanksFor100ccuOMG",
+   "reward": "40 Luck Rolls"
+  },
+  {
+   "code": "2kccu",
+   "reward": "1.3 Luck Boost (30 mins)"
   }
  ],
- "updated": "2026-09-04T06:19:54.400Z",
+ "updated": "2026-09-05T06:25:50.677Z",
  "source": "https://robloxden.com/game-codes/start-your-soccer-career"
 }

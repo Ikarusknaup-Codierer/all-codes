@@ -27,14 +27,14 @@
    "reward": "Homus Sampson Character"
   },
   {
-   "code": "SPINPARTY",
-   "reward": "3 Spins"
+   "code": "LUCKYSPIN",
+   "reward": "5 Spins"
   },
   {
-   "code": "MARCHMADNESS",
-   "reward": "10% Luck Boost"
+   "code": "LUCKYDROP",
+   "reward": "5 Spins"
   }
  ],
- "updated": "2026-09-04T00:25:30.168Z",
+ "updated": "2026-09-05T06:20:27.938Z",
  "source": "https://robloxden.com/game-codes/character-rng"
 }

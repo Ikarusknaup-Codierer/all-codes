@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "milo",
+   "code": "star",
    "reward": "1,000 Credits"
   },
   {
    "code": "HOLIDAY",
    "reward": "A Candy Cane Board And Snowflake Wheels"
+  },
+  {
+   "code": "retromada",
+   "reward": "Free Credits"
   },
   {
    "code": "flamingo",
@@ -21,12 +25,8 @@
   {
    "code": "100K",
    "reward": "3,000 Credits"
-  },
-  {
-   "code": "8K",
-   "reward": "2,000 Credits"
   }
  ],
- "updated": "2026-09-04T06:21:22.187Z",
+ "updated": "2026-09-05T06:27:11.671Z",
  "source": "https://robloxden.com/game-codes/skate-park"
 }

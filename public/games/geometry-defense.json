@@ -35,6 +35,10 @@
    "reward": "100 Coins"
   },
   {
+   "code": "choco",
+   "reward": "Rewards"
+  },
+  {
    "code": "fivekay",
    "reward": "100 G-Coins"
   },
@@ -75,6 +79,6 @@
    "reward": "Free G-Coins"
   }
  ],
- "updated": "2026-09-04T00:25:38.743Z",
+ "updated": "2026-09-05T06:20:35.216Z",
  "source": "https://robloxden.com/game-codes/geometry-defense"
 }

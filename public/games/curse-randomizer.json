@@ -29,8 +29,16 @@
   {
    "code": "SurpriseCurse",
    "reward": "Random Curse"
+  },
+  {
+   "code": "80K",
+   "reward": "2 Revives"
+  },
+  {
+   "code": "200Curses",
+   "reward": "a Lucky Wheel Ticket"
   }
  ],
- "updated": "2026-09-04T00:24:08.209Z",
+ "updated": "2026-09-05T06:19:12.204Z",
  "source": "https://robloxden.com/game-codes/curse-randomizer"
 }

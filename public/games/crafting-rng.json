@@ -7,11 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "250LIKES",
+   "code": "500LIKES",
    "reward": "1000x Luck Potion"
   },
   {
-   "code": "2KLIKES",
+   "code": "LAVA",
    "reward": "Freebies"
   },
   {
@@ -19,14 +19,14 @@
    "reward": "2 1,000x Lucky Rolls"
   },
   {
-   "code": "30KLIKES",
-   "reward": "30,000 Gems"
+   "code": "1MVISITS",
+   "reward": "1,000,000 Gems"
   },
   {
-   "code": "15KLIKES",
+   "code": "20KLIKES",
    "reward": "All Tier 4 Boosts (30 minutes)"
   }
  ],
- "updated": "2026-09-04T00:22:26.888Z",
+ "updated": "2026-09-05T06:18:17.805Z",
  "source": "https://robloxden.com/game-codes/crafting-rng"
 }

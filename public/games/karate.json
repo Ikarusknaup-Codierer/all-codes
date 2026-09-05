@@ -11,10 +11,6 @@
    "reward": "375 Yen"
   },
   {
-   "code": "THANKS4EXP",
-   "reward": "1,500 EXP"
-  },
-  {
    "code": "500KGROUPMEMS",
    "reward": "1000 Yen"
   },
@@ -23,10 +19,14 @@
    "reward": "1-Hour Double EXP"
   },
   {
+   "code": "CHEESEBURGER",
+   "reward": "an unspecified reward"
+  },
+  {
    "code": "SWEATERWEATHER",
    "reward": "Booster (1 hour)"
   }
  ],
- "updated": "2026-09-04T00:27:11.400Z",
+ "updated": "2026-09-05T06:22:05.659Z",
  "source": "https://robloxden.com/game-codes/karate"
 }

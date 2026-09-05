@@ -75,14 +75,6 @@
    "reward": "500 Premium Shards , 500 Shard Locks , and 500 Dusk Pearls"
   },
   {
-   "code": "BalancePatch3",
-   "reward": "200 Technique Shards And 20 Pearls"
-  },
-  {
-   "code": "Update83!",
-   "reward": "10 Premium Shards"
-  },
-  {
    "code": "BalancePatch2",
    "reward": "200 Rerolls And 20 Pearls"
   },
@@ -197,8 +189,16 @@
   {
    "code": "VALENTINEBUGS",
    "reward": "100 Shard Locks"
+  },
+  {
+   "code": "BalancePatch3",
+   "reward": "200 Technique Shards And 20 Pearls"
+  },
+  {
+   "code": "Update83!",
+   "reward": "10 Premium Shards"
   }
  ],
- "updated": "2026-09-04T00:27:28.046Z",
+ "updated": "2026-09-05T06:22:22.897Z",
  "source": "https://robloxden.com/game-codes/anime-last-stand"
 }

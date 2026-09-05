@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "TRADE",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "RELEASE",
+   "code": "FREEUGC",
    "reward": "Free Rewards"
   },
   {
@@ -21,8 +17,12 @@
   {
    "code": "CalangoBR",
    "reward": "400 Silver Dollars"
+  },
+  {
+   "code": "DeltaMaxmus",
+   "reward": "400 Silver Dollars"
   }
  ],
- "updated": "2026-09-04T00:22:31.508Z",
+ "updated": "2026-09-05T06:18:19.891Z",
  "source": "https://robloxden.com/game-codes/amazon-ascension"
 }

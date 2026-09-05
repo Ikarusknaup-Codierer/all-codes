@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ART",
+   "reward": "500 Time"
+  },
+  {
+   "code": "MARIE",
+   "reward": "500 Time"
+  },
+  {
+   "code": "ALXO",
+   "reward": "500 Time"
+  },
+  {
    "code": "ALXOBYTE",
    "reward": "750 Time"
   },
@@ -51,10 +63,10 @@
    "reward": "Time"
   },
   {
-   "code": "freetime",
-   "reward": "Time"
+   "code": "sorryforshutdown",
+   "reward": "1,000 Time"
   }
  ],
- "updated": "2026-09-03T18:21:24.594Z",
+ "updated": "2026-09-05T00:27:24.921Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

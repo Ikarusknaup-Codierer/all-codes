@@ -7,11 +7,35 @@
    "reward": "Description"
   },
   {
+   "code": "MEDUSA",
+   "reward": "750 Seeds"
+  },
+  {
+   "code": "BOUNCE",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "SPRINKLORD",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "ELECTROSPROUT",
+   "reward": "750 Seeds"
+  },
+  {
    "code": "CLAN",
    "reward": "500 Seeds"
   },
   {
    "code": "BASE",
+   "reward": "750 Seeds"
+  },
+  {
+   "code": "CLASSICMODE",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "PITY",
    "reward": "750 Seeds"
   },
   {
@@ -31,22 +55,6 @@
    "reward": "750 Seeds"
   },
   {
-   "code": "SPRINKLORD",
-   "reward": "500 Seeds"
-  },
-  {
-   "code": "ELECTROSPROUT",
-   "reward": "750 Seeds"
-  },
-  {
-   "code": "CLASSICMODE",
-   "reward": "500 Seeds"
-  },
-  {
-   "code": "PITY",
-   "reward": "750 Seeds"
-  },
-  {
    "code": "PROFILE",
    "reward": "500 Seeds"
   },
@@ -55,6 +63,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-09-03T18:19:53.671Z",
+ "updated": "2026-09-05T00:25:16.483Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

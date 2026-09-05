@@ -11,10 +11,6 @@
    "reward": "1 3x Cash Boost Potion"
   },
   {
-   "code": "pets",
-   "reward": "Reward"
-  },
-  {
    "code": "15mvisits",
    "reward": "Reward"
   },
@@ -23,10 +19,14 @@
    "reward": "Reward"
   },
   {
+   "code": "90percent",
+   "reward": "Reward"
+  },
+  {
    "code": "verified",
    "reward": "Reward"
   }
  ],
- "updated": "2026-09-03T18:25:16.153Z",
+ "updated": "2026-09-05T00:31:16.671Z",
  "source": "https://robloxden.com/game-codes/factory-rng"
 }

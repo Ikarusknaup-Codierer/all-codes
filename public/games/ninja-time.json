@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DidYouFindIt!",
+   "reward": "Rewards"
+  },
+  {
    "code": "Yata!",
    "reward": "15 Spins"
   },
@@ -59,6 +63,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-09-03T18:18:01.490Z",
+ "updated": "2026-09-05T00:23:41.910Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

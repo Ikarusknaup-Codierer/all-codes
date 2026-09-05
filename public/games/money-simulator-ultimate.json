@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
+   "code": "Release",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "TokensJackpot",
    "reward": "100 Tokens"
   },
   {
-   "code": "UpdatingIn117Minutes",
+   "code": "CodesAreNotDead",
    "reward": "25 Tokens"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "ATipForArtifacts",
    "reward": "41 Tokens"
-  },
-  {
-   "code": "ASecondCode",
-   "reward": "15 Tokens"
   }
  ],
- "updated": "2026-09-03T18:20:07.517Z",
+ "updated": "2026-09-05T00:25:44.881Z",
  "source": "https://robloxden.com/game-codes/money-simulator-ultimate"
 }

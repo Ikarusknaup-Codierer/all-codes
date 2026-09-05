@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "welcome",
+   "reward": "1x Gold Potion"
+  },
+  {
+   "code": "update90",
+   "reward": "Freebies"
+  },
+  {
    "code": "update89",
    "reward": "Freebies"
   },
@@ -197,20 +205,8 @@
   {
    "code": "update41",
    "reward": "5 Flame Boxes"
-  },
-  {
-   "code": "welcome",
-   "reward": "1x Gold Potion"
-  },
-  {
-   "code": "update22",
-   "reward": "2 Easter Eggs and 3 Amplification Gems"
-  },
-  {
-   "code": "update9",
-   "reward": "1x Gold Potion, 1x Damage Potion and 500 Gold"
   }
  ],
- "updated": "2026-09-03T18:26:17.360Z",
+ "updated": "2026-09-05T00:32:14.495Z",
  "source": "https://robloxden.com/game-codes/reborn-as-skill-master"
 }

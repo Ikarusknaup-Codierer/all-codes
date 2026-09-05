@@ -15,18 +15,18 @@
    "reward": "1,000 Cash"
   },
   {
-   "code": "archery",
-   "reward": "2,000 Cash"
-  },
-  {
    "code": "release1000",
    "reward": "Cash"
   },
   {
-   "code": "new500",
+   "code": "archery2000",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "bow500",
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-09-03T18:20:23.456Z",
+ "updated": "2026-09-05T00:26:04.355Z",
  "source": "https://robloxden.com/game-codes/archery-tycoon"
 }

@@ -47,14 +47,14 @@
    "reward": "10 Mystery Ores"
   },
   {
-   "code": "UPD5RESETBREATHINGORART",
-   "reward": "1 Breathing Reset"
+   "code": "UPDATE3RESETRACE",
+   "reward": "Race Reset and Breathing Art Reset"
   },
   {
-   "code": "50SPINSPATCHUPDATE",
-   "reward": "50 Spins"
+   "code": "UPDATE1RESETBREATHINGORART",
+   "reward": "Breathing Art Reset"
   }
  ],
- "updated": "2026-09-03T18:24:55.627Z",
+ "updated": "2026-09-05T00:30:56.454Z",
  "source": "https://robloxden.com/game-codes/weak-legacy-2"
 }

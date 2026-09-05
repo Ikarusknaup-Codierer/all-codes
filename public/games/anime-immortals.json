@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "WOWWOW",
-   "reward": "2 Legendary Orbs Of Potential And 100 Gems"
-  },
-  {
-   "code": "UPDATE10",
+   "code": "UPDATE13",
    "reward": "3 Legendary Orbs Of Potential And 200 Gems"
   },
   {
@@ -19,14 +15,18 @@
    "reward": "3 Orbs of Potential and 200 Gems"
   },
   {
-   "code": "EVENTEND",
-   "reward": "200 Gems , 50 Evil Gems and 5 Valentines Tickets"
+   "code": "CODEPLEASE",
+   "reward": "2 Orbs of Potential and 100 Gems"
   },
   {
-   "code": "WELCOME",
-   "reward": "2 Random Potion Boxes and 50 Gems"
+   "code": "JUSTICE",
+   "reward": "25 Justice Gems and 100 Gems"
+  },
+  {
+   "code": "FRIDAYUPD",
+   "reward": "3 Orbs of Potential"
   }
  ],
- "updated": "2026-09-03T18:25:24.092Z",
+ "updated": "2026-09-05T00:31:25.984Z",
  "source": "https://robloxden.com/game-codes/anime-immortals"
 }

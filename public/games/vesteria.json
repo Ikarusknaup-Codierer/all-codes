@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Playtime",
-   "reward": "300 Ethyr . You must be a Trusted Player to use this code"
-  },
-  {
    "code": "ancient",
    "reward": "a Template Ancient Scroll . You must be at least level 45 or above to "
+  },
+  {
+   "code": "CC",
+   "reward": "a Legendary Fountain Pen Soulbound and a CC Megaphone . You must be a "
   },
   {
    "code": "megaphone",
@@ -51,10 +51,10 @@
    "reward": "Stat Reset"
   },
   {
-   "code": "cactus",
-   "reward": "Free Rewards"
+   "code": "Playtime",
+   "reward": "300 Ethyr . You must be a Trusted Player to use this code"
   }
  ],
- "updated": "2026-09-03T18:25:39.857Z",
+ "updated": "2026-09-05T00:31:44.137Z",
  "source": "https://robloxden.com/game-codes/vesteria"
 }

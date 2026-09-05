@@ -19,10 +19,6 @@
    "reward": "7.5k Cash and 500exp"
   },
   {
-   "code": "BUGFIXES",
-   "reward": "3,000 Cash"
-  },
-  {
    "code": "booster",
    "reward": "7.5k Cash and 500 exp"
   },
@@ -119,6 +115,10 @@
    "reward": "Cash"
   },
   {
+   "code": "BUGFIXES",
+   "reward": "3,000 Cash"
+  },
+  {
    "code": "SorryForBugs",
    "reward": "2,000 Cash"
   },
@@ -147,6 +147,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-09-03T18:19:58.052Z",
+ "updated": "2026-09-05T00:25:30.021Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

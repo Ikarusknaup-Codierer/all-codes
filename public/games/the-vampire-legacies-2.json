@@ -11,6 +11,10 @@
    "reward": "200 Coins"
   },
   {
+   "code": "ancestor",
+   "reward": "200 Coins"
+  },
+  {
    "code": "winteriscoming",
    "reward": "200 Moonstones"
   },
@@ -21,12 +25,8 @@
   {
    "code": "bounty",
    "reward": "1,000 Moonstones"
-  },
-  {
-   "code": "muse",
-   "reward": "250 Moonstones"
   }
  ],
- "updated": "2026-09-04T00:22:44.080Z",
+ "updated": "2026-09-05T00:32:50.822Z",
  "source": "https://robloxden.com/game-codes/the-vampire-legacies-2"
 }

@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Update15",
-   "reward": "2 of all the top potions"
-  },
-  {
    "code": "Elementals",
    "reward": "3 of all Potions"
+  },
+  {
+   "code": "Update15",
+   "reward": "2 of all the top potions"
   },
   {
    "code": "SoonNewEvo",
@@ -63,6 +63,6 @@
    "reward": "1 Hellfire"
   }
  ],
- "updated": "2026-09-04T12:22:31.617Z",
+ "updated": "2026-09-05T18:17:22.494Z",
  "source": "https://robloxden.com/game-codes/slayer-incremental"
 }

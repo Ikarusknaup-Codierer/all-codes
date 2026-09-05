@@ -11,6 +11,10 @@
    "reward": "the Disappointment Title"
   },
   {
+   "code": "secretsakuracode",
+   "reward": "a reroll"
+  },
+  {
    "code": "sakura",
    "reward": "24 Basic Crates and 1,400 Cash"
   },
@@ -19,14 +23,10 @@
    "reward": "3 Basic Crates and $1,000"
   },
   {
-   "code": "isurvived",
+   "code": "bloodmoon",
    "reward": "rewards"
-  },
-  {
-   "code": "release",
-   "reward": "3 Basic Crates"
   }
  ],
- "updated": "2026-09-04T12:21:27.403Z",
+ "updated": "2026-09-05T18:16:18.451Z",
  "source": "https://robloxden.com/game-codes/dig"
 }

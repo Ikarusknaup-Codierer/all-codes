@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DailyRewards",
+   "reward": "200 Coins"
+  },
+  {
    "code": "PencilUpdate",
    "reward": "200 Coins"
   },
@@ -39,6 +43,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-04T12:25:34.356Z",
+ "updated": "2026-09-05T18:21:07.378Z",
  "source": "https://robloxden.com/game-codes/og-old-t-tower-defense"
 }

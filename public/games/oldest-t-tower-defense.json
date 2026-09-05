@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ValentineUpdate",
+   "reward": "200 Coins"
+  },
+  {
    "code": "NewTitansUpdate",
    "reward": "200 Coins"
   },
@@ -55,6 +59,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-04T12:27:27.185Z",
+ "updated": "2026-09-05T18:23:02.477Z",
  "source": "https://robloxden.com/game-codes/oldest-t-tower-defense"
 }

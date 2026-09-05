@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "500CCUAGAIN",
-   "reward": "7 Itsuwari Dice"
-  },
-  {
-   "code": "1KLIKES",
-   "reward": "9,000 Stars"
-  },
-  {
    "code": "BYEBYESUMMER",
    "reward": "1 Summon Potion II"
   },
@@ -89,8 +81,16 @@
   {
    "code": "BLUEMOON",
    "reward": "the Luck Potion II"
+  },
+  {
+   "code": "500CCUAGAIN",
+   "reward": "7 Itsuwari Dice"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "9,000 Stars"
   }
  ],
- "updated": "2026-09-04T12:25:20.645Z",
+ "updated": "2026-09-05T18:20:26.051Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

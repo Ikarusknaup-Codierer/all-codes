@@ -47,10 +47,6 @@
    "reward": "5,000 Gems"
   },
   {
-   "code": "3mvisits",
-   "reward": "3,000 Gems"
-  },
-  {
    "code": "thankyou",
    "reward": "15,000 Gold"
   },
@@ -75,10 +71,14 @@
    "reward": "5,000 Gems"
   },
   {
+   "code": "3mvisits",
+   "reward": "3,000 Gems"
+  },
+  {
    "code": "newboss",
    "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-09-04T12:25:59.529Z",
+ "updated": "2026-09-05T18:21:37.932Z",
  "source": "https://robloxden.com/game-codes/robong-megabonk"
 }

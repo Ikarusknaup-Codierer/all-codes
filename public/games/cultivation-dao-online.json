@@ -15,36 +15,16 @@
    "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 5 Body Constitution "
   },
   {
-   "code": "4MVisits",
-   "reward": "5 Spirit Root Spins , 3 Body Constitution Locks , 5 Instant Health , 5"
+   "code": "MerchantBugFix",
+   "reward": "5 Spirit Root Spins and 5 Body Constitution Spins"
   },
   {
-   "code": "QiFix",
-   "reward": "5 Instant Qi"
+   "code": "DelayedUpdate220",
+   "reward": "5 QI , 5 Spirit Root Spins , and 5 Body Constitution Spins"
   },
   {
-   "code": "SorryForDelay",
-   "reward": "5 Instant Qi , 5 Spirit Root Spins , 5 Instant Health , and 5 Body Con"
-  },
-  {
-   "code": "Update220",
-   "reward": "5 Spirit Root Locks , 5 Spirit Root Spins , 5 Body Constitution Locks "
-  },
-  {
-   "code": "12KLikes",
-   "reward": "12 Body Constitution Spins , 50 Forge Shards , 10 Common Chests , 12 S"
-  },
-  {
-   "code": "Blacksmith",
-   "reward": "50 Forge Shards and 10 Common Chests"
-  },
-  {
-   "code": "ForgeShard",
-   "reward": "10 Common Chests and 50 Forge Shards"
-  },
-  {
-   "code": "MRCRAB",
-   "reward": "5 Spirit Root Spins, 5 Body Constitution Spins, 5 Body Constitution Lo"
+   "code": "VerifiedCommunity",
+   "reward": "5 Instant Health , 1 Body Constitution Spin , 5 Instant Qi , 5 Body Co"
   },
   {
    "code": "Update210",
@@ -57,6 +37,22 @@
   {
    "code": "WaterSerpent",
    "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 2 Instant Health , a"
+  },
+  {
+   "code": "10KLikes",
+   "reward": "7 Spirit Root Spins and 7 Body Constitution Spins"
+  },
+  {
+   "code": "UpdateV2",
+   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 2 Instant Health , a"
+  },
+  {
+   "code": "Locks",
+   "reward": "5 Body Constitution Locks and 5 Spirit Root Locks"
+  },
+  {
+   "code": "WAutoclaim",
+   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 5 Body Constitution "
   },
   {
    "code": "TyForPlaying",
@@ -149,36 +145,8 @@
   {
    "code": "150KCommunityMembers",
    "reward": "5 Spirit Boon Spins, 5 Body Constitutions Spins, 10 Common Chests, 2 I"
-  },
-  {
-   "code": "MerchantBugFix",
-   "reward": "5 Spirit Root Spins and 5 Body Constitution Spins"
-  },
-  {
-   "code": "DelayedUpdate220",
-   "reward": "5 QI , 5 Spirit Root Spins , and 5 Body Constitution Spins"
-  },
-  {
-   "code": "VerifiedCommunity",
-   "reward": "5 Instant Health , 1 Body Constitution Spin , 5 Instant Qi , 5 Body Co"
-  },
-  {
-   "code": "10KLikes",
-   "reward": "7 Spirit Root Spins and 7 Body Constitution Spins"
-  },
-  {
-   "code": "UpdateV2",
-   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 2 Instant Health , a"
-  },
-  {
-   "code": "Locks",
-   "reward": "5 Body Constitution Locks and 5 Spirit Root Locks"
-  },
-  {
-   "code": "WAutoclaim",
-   "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , 5 Body Constitution "
   }
  ],
- "updated": "2026-09-04T12:22:41.129Z",
+ "updated": "2026-09-05T18:17:32.979Z",
  "source": "https://robloxden.com/game-codes/cultivation-dao-online"
 }

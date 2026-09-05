@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "LALAGANG",
+   "reward": "1,500 Cash and a Seasonal Lucky Ticket"
+  },
+  {
+   "code": "ROYALCIRCUS",
+   "reward": "3 Starwish Cards"
+  },
+  {
+   "code": "IRONSOULWEEKEND21",
+   "reward": "3 Race Rerolls"
+  },
+  {
    "code": "Ahjughh",
    "reward": "1 Season Lucky Ticket and 1 Starwish Card"
   },
@@ -111,6 +123,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-09-04T12:23:12.361Z",
+ "updated": "2026-09-05T18:18:07.890Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

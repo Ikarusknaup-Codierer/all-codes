@@ -171,10 +171,14 @@
    "reward": "1 Lucky Potion and 25 Tickets"
   },
   {
+   "code": "CameFromFabs",
+   "reward": "3 All Potions (except Runic)"
+  },
+  {
    "code": "Variance",
    "reward": "4 of Each Potion"
   }
  ],
- "updated": "2026-09-04T12:25:07.033Z",
+ "updated": "2026-09-05T18:20:10.781Z",
  "source": "https://robloxden.com/game-codes/dice-rolling-incremental"
 }

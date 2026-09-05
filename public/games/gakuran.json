@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "idk",
+   "reward": "15 Rerolls"
+  },
+  {
    "code": "EATUP",
    "reward": "20 Rerolls"
   },
@@ -15,14 +19,14 @@
    "reward": "20 Rerolls"
   },
   {
-   "code": "idk",
-   "reward": "15 Rerolls"
+   "code": "MUSICFIXESNOPTIMIZATION",
+   "reward": "25 Rerolls"
   },
   {
-   "code": "MAPUPDATE",
+   "code": "LARPSIMULATOR",
    "reward": "25 Rerolls"
   }
  ],
- "updated": "2026-09-04T12:21:06.712Z",
+ "updated": "2026-09-05T18:16:00.152Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

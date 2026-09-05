@@ -131,14 +131,14 @@
    "reward": "4 Legendary Chests , 100 Emeralds , and 100 Wood"
   },
   {
-   "code": "1000PLAYERSACTIVETYSM",
-   "reward": "1 Destiny Aura Crate , 1 Aura Crate , and 1 Mythic Chest"
+   "code": "SHUTDOWNFORFIXES",
+   "reward": "rewards"
   },
   {
-   "code": "SORRYFORSHUTDOWN4",
-   "reward": "rewards"
+   "code": "AURACRATECODESORRYFORSHUTDOWN",
+   "reward": "1 Aura Crate , 67 Coins , and 67 Gems"
   }
  ],
- "updated": "2026-09-04T12:27:29.184Z",
+ "updated": "2026-09-05T18:23:04.689Z",
  "source": "https://robloxden.com/game-codes/pirate-piece"
 }

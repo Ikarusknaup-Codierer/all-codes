@@ -11,26 +11,34 @@
    "reward": "the 1B Knife"
   },
   {
-   "code": "BACK",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "EGGHUNT",
-   "reward": "Coins"
+   "reward": "1,500 Coins"
   },
   {
    "code": "HOTEL",
-   "reward": "the Flare Gun Skin"
+   "reward": "a Flare Gun Skin"
   },
   {
    "code": "FREE",
-   "reward": "the Sea Sword Skin"
+   "reward": "a Sea Sword Skin"
   },
   {
    "code": "GAME",
    "reward": "2,500 Coins"
+  },
+  {
+   "code": "BACK",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "LUCKYDAY",
+   "reward": "2,222 Extra Coins"
+  },
+  {
+   "code": "SEASON4",
+   "reward": ""
   }
  ],
- "updated": "2026-09-04T12:21:22.136Z",
+ "updated": "2026-09-05T18:16:13.465Z",
  "source": "https://robloxden.com/game-codes/murderers-vs-sheriffs"
 }

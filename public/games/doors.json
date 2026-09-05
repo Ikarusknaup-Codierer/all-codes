@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NO_DATA",
-   "reward": "5 Knobs"
-  },
-  {
    "code": "CRUSADERS",
    "reward": "5 Stardusts"
   },
@@ -83,10 +79,10 @@
    "reward": "5 Knobs"
   },
   {
-   "code": "2BILLIONVISITS",
-   "reward": "100 Doorknobs and 1 Revive"
+   "code": "NO_DATA",
+   "reward": "5 Knobs"
   }
  ],
- "updated": "2026-09-04T12:24:15.349Z",
+ "updated": "2026-09-05T18:19:13.324Z",
  "source": "https://robloxden.com/game-codes/doors"
 }

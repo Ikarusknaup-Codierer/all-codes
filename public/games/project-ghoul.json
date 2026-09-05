@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "NARUKAMIUPDATE",
+   "reward": "50 Spins and 2x 30 Minutes Material Boost"
+  },
+  {
+   "code": "delayedUpdate",
+   "reward": "50 Spins and 2x 30 Minutes Yen Boost"
+  },
+  {
+   "code": "etoSOON",
+   "reward": "30 Spins and 2x 15 Minutes Material Boost"
+  },
+  {
+   "code": "compUpdate2",
+   "reward": "100k Koukaku , 100k Bikaku , 100k Rinkaku , 100k Ukaku , and 2x 30 Min"
+  },
+  {
    "code": "KENREUPDATE",
    "reward": "50 Spins and a 20 Minutes x2 Exp Boost"
   },
@@ -17,6 +33,10 @@
   {
    "code": "DEVTEAMCOOKING",
    "reward": "50 Spins"
+  },
+  {
+   "code": "38klikes",
+   "reward": "Cash and Spins"
   },
   {
    "code": "3000Players!",
@@ -47,6 +67,6 @@
    "reward": "60 Spins, 1,000 Materials, 4,000 RC, 300,000 Yen, And 60 Minutes Of Bo"
   }
  ],
- "updated": "2026-09-04T12:20:12.362Z",
+ "updated": "2026-09-05T18:15:39.902Z",
  "source": "https://robloxden.com/game-codes/project-ghoul"
 }

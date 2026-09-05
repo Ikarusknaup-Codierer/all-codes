@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ThanksFor14kLikes!",
-   "reward": "5 Aura Spins , 5 Race Spins , and 5 Gene Spins"
-  },
-  {
    "code": "ThanksFor13kLikes!",
    "reward": "5 Race Spins , 5 Gene Spins , and 5 Aura Spins"
   },
@@ -19,14 +15,18 @@
    "reward": "5 Gene Spins"
   },
   {
-   "code": "COMMONBANEBUG",
-   "reward": "2 Gene Spins"
+   "code": "CITYBOYS",
+   "reward": "2 Race Rolls , 3 Aura Rolls , and 1 Gene Roll"
   },
   {
-   "code": "ThanksFor10kLikes!",
-   "reward": "3 Race Spins and 3 Gene Spins"
+   "code": "COMMONLUPDATE",
+   "reward": "1 Race Spin , 3 Aura Spins , and 1 Gene Spin"
+  },
+  {
+   "code": "COMMONBANEBUG",
+   "reward": "2 Gene Spins"
   }
  ],
- "updated": "2026-09-04T12:27:54.598Z",
+ "updated": "2026-09-05T18:23:17.132Z",
  "source": "https://robloxden.com/game-codes/budokai-z"
 }

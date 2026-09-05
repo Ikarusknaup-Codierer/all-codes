@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "moreshrineluck321",
+   "reward": "1.25x Shrine Luck"
+  },
+  {
    "code": "morecashmulti67",
    "reward": "x2 Cash Multiplier"
   },
@@ -79,10 +83,10 @@
    "reward": "5 ALL Potions , 100 Diamonds and 25 Husk"
   },
   {
-   "code": "1000ccu",
-   "reward": "75 Tickets"
+   "code": "MiniUpdate",
+   "reward": "10 Diamonds and 25 Red Stars"
   }
  ],
- "updated": "2026-09-04T12:25:40.334Z",
+ "updated": "2026-09-05T18:21:14.587Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

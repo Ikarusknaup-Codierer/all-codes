@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Likes24",
-   "reward": "1 Golden Cherry , 1 Coin Elixir , and 1 Super Lucky Elixir"
+   "code": "hatchathon",
+   "reward": "1 Prismatic Elixir , 15 Egg Elixirs , 15 Super Lucky Elixirs , and 15 "
   },
   {
-   "code": "tropical",
-   "reward": "500 Tropical Mystery Eggs And 5k Coconuts"
+   "code": "Likes24",
+   "reward": "1 Golden Cherry , 1 Coin Elixir , and 1 Super Lucky Elixir"
   },
   {
    "code": "REBOOT",
@@ -27,6 +27,6 @@
    "reward": "3 Sea Elixirs And 1 Seafarer Rune"
   }
  ],
- "updated": "2026-09-04T06:20:18.893Z",
+ "updated": "2026-09-05T12:17:55.599Z",
  "source": "https://robloxden.com/game-codes/pet-catchers"
 }

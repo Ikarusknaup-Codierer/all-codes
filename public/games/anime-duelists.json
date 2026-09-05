@@ -5,8 +5,92 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "4MVISITS",
+   "reward": "100 Gems , 200 Trait Rerolls , 200 Stats Rerolls , 3 Coins III Boosts "
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "250 Gems , 200 Trait Rerolls , 200 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "BATTLEPASS",
+   "reward": "150 Gems , 200 Trait Rerolls , and 200 Stats Rerolls"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "200 Gems , 100 Trait Rerolls , 100 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "200 Gems , 100 Trait Rerolls , 100 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "200 Gems , 100 Trait Rerolls , 100 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "5KPLAYERS",
+   "reward": "200 Gems , 100 Trait Rerolls , 100 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "10KFAVORITES",
+   "reward": "200 Gems , 100 Trait Rerolls , 100 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "200 Gems , 500 Trait Rerolls , 500 Stats Rerolls , 3 Coins III Boosts "
+  },
+  {
+   "code": "7KLIKES",
+   "reward": "200 Gems , 200 Trait Rerolls , 200 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "30KFAVORITES",
+   "reward": "200 Gems , 200 Trait Rerolls , 200 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "20KFAVORITES",
+   "reward": "150 Gems , 500 Trait Rerolls , 500 Stats Rerolls , 3 Coins II Boosts ,"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "250 Gems , 50 Trait Rerolls , 50 Stats Rerolls , 3 Coins II Boosts , 3"
+  },
+  {
+   "code": "3KPLAYERS",
+   "reward": "250 Gems , 50 Trait Rerolls , 50 Stats Rerolls , 3 Coins II Boosts , 3"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "250 Gems , 50 Trait Rerolls , 50 Stats Rerolls , 3 Coins II Boosts , 3"
+  },
+  {
+   "code": "MINIUPDATE",
+   "reward": "250 Gems , 3 Star Speed Boosts , 50 Stats Rerolls , 50 Trait Rerolls ,"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "250 Gems , 50 Trait Rerolls , 50 Stats Rerolls , 3 Star Speed Boosts ,"
+  },
+  {
+   "code": "2KPLAYERS",
+   "reward": "250 Gems , 50 Trait Rerolls , 50 Stats Rerolls , 3 Star Speed Boosts ,"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 Luck , 20 Leveling Shards , 50 Stats Rerolls , 50 Trait Rerolls , an"
+  },
+  {
+   "code": "SHUTDOWN4",
+   "reward": "Rewards"
+  },
+  {
+   "code": "SHUTDOWN3",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-09-04T06:25:08.447Z",
+ "updated": "2026-09-05T12:22:02.307Z",
  "source": "https://robloxden.com/game-codes/anime-duelists"
 }

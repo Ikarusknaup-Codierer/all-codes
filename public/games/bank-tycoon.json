@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "15KLIKES",
+   "code": "BANK",
    "reward": "Free Cash"
   },
   {
-   "code": "PRINT20",
-   "reward": "2,000 Cash"
+   "code": "VERSION3",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "Free Cash"
   },
   {
    "code": "MONEY30",
@@ -21,12 +25,8 @@
   {
    "code": "CASH50",
    "reward": "1,500 Cash"
-  },
-  {
-   "code": "FREECODE",
-   "reward": "1,200 Cash"
   }
  ],
- "updated": "2026-09-04T00:32:14.845Z",
+ "updated": "2026-09-05T12:17:37.549Z",
  "source": "https://robloxden.com/game-codes/bank-tycoon"
 }

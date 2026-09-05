@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPD3",
+   "reward": "$2,000 Cash"
+  },
+  {
+   "code": "UPD5",
+   "reward": "$5,000 Cash"
+  },
+  {
+   "code": "UPD4",
+   "reward": "$4,000 Cash"
+  },
+  {
+   "code": "UPD1",
+   "reward": "$1,000 Cash"
+  },
+  {
+   "code": "UPD2",
+   "reward": "$3,000 Cash"
   }
  ],
- "updated": "2026-09-04T06:26:21.718Z",
+ "updated": "2026-09-05T12:23:10.218Z",
  "source": "https://robloxden.com/game-codes/cluck-or-hide"
 }

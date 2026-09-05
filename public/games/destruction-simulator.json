@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Subby",
-   "reward": "50,000 Coins"
+   "code": "gottagrind",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "freelevels",
+   "reward": "5 Free Levels"
   },
   {
    "code": "turkeytime",
@@ -19,14 +23,10 @@
    "reward": "Free Diamonds"
   },
   {
-   "code": "1500PROMO",
-   "reward": "100 Diamonds"
-  },
-  {
-   "code": "LEVELUP",
-   "reward": "a 5 Level Boost and Double XP for 48 Hours"
+   "code": "NOVICE",
+   "reward": "1,250 Cash"
   }
  ],
- "updated": "2026-09-04T12:20:30.126Z",
+ "updated": "2026-09-05T12:25:25.117Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

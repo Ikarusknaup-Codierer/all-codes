@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CELESTIAL",
+   "reward": "10 Lucky Spins and 1,000 Coins"
+  },
+  {
    "code": "MAPEXPANSION",
    "reward": "500 Coins and 5 Lucky Spins"
   },
@@ -35,6 +39,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-09-04T06:26:48.226Z",
+ "updated": "2026-09-05T12:23:35.071Z",
  "source": "https://robloxden.com/game-codes/horse-racing-legends"
 }

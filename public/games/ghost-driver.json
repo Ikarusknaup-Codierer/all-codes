@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "THANKSFOR250K",
+   "reward": "15,000 Cash"
+  },
+  {
    "code": "THANKSFOR1MIL",
    "reward": "10,000 Cash"
   },
@@ -19,6 +23,6 @@
    "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-09-04T06:23:04.618Z",
+ "updated": "2026-09-05T12:20:06.450Z",
  "source": "https://robloxden.com/game-codes/ghost-driver"
 }

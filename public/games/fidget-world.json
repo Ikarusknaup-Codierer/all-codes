@@ -11,10 +11,6 @@
    "reward": "35 Coins"
   },
   {
-   "code": "Halloween",
-   "reward": "50 Coins"
-  },
-  {
    "code": "Imposter",
    "reward": "Pop It Pack"
   },
@@ -25,8 +21,12 @@
   {
    "code": "sus",
    "reward": "35 Coins"
+  },
+  {
+   "code": "PopPopsicle",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-09-04T06:27:27.978Z",
+ "updated": "2026-09-05T12:24:03.184Z",
  "source": "https://robloxden.com/game-codes/fidget-world"
 }

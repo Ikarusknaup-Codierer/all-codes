@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RADIOACTIVE",
+   "reward": "2x Luck Boost (5 Minutes)"
+  },
+  {
    "code": "UPDATE",
    "reward": "4x Luck Boost (10 Minutes)"
   },
@@ -23,6 +27,6 @@
    "reward": "2x Luck Boost (10 Minutes)"
   }
  ],
- "updated": "2026-09-04T06:27:12.639Z",
+ "updated": "2026-09-05T12:23:55.376Z",
  "source": "https://robloxden.com/game-codes/build-a-base-and-steal"
 }

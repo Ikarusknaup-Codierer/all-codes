@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "firstsummerevent",
-   "reward": "250 Ducks and 2 Nice Creams"
-  },
-  {
    "code": "smalldelaysummer",
    "reward": "5,500 DarkDollars and 3 Heavens"
   },
@@ -37,8 +33,12 @@
   {
    "code": "duckhunt",
    "reward": "10 Heavens and 15 Soul Tickets"
+  },
+  {
+   "code": "firstsummerevent",
+   "reward": "250 Ducks and 2 Nice Creams"
   }
  ],
- "updated": "2026-09-04T06:22:41.283Z",
+ "updated": "2026-09-05T12:19:44.614Z",
  "source": "https://robloxden.com/game-codes/undertale-rng"
 }

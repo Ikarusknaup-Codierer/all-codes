@@ -19,14 +19,14 @@
    "reward": "2x Luck (1 Hour)"
   },
   {
-   "code": "30klikes",
-   "reward": "Double Luck Boost (2 Hours)"
-  },
-  {
    "code": "250KLIKECLICKS",
    "reward": "2x Click Boost (1 Hour)"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "Auto-Click (1 Hour)"
   }
  ],
- "updated": "2026-09-04T06:26:27.013Z",
+ "updated": "2026-09-05T12:23:15.117Z",
  "source": "https://robloxden.com/game-codes/clicker-simulator"
 }

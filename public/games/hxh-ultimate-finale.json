@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SUB2NIJIXAMORE",
-   "reward": "2x Exp (1 Hour and 30 Minutes)"
-  },
-  {
    "code": "TERRA",
    "reward": "1 Affinity Spin"
   },
@@ -19,14 +15,18 @@
    "reward": "2 Common Spins"
   },
   {
-   "code": "INFERNATION",
-   "reward": "5,000 Jenny and 1 Uncommon Spin"
+   "code": "DROPTHEGAME",
+   "reward": "1 Uncommon New Reroll"
   },
   {
-   "code": "SORRY",
+   "code": "MYBADBRUH",
+   "reward": "1 Rare Spin"
+  },
+  {
+   "code": "SCAMXSCAM",
    "reward": "1 Clan Reroll"
   }
  ],
- "updated": "2026-09-04T06:26:02.345Z",
+ "updated": "2026-09-05T12:22:52.630Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

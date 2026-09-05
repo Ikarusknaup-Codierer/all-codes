@@ -11,22 +11,22 @@
    "reward": "3 Perk Spins, 1 Race Spin, And 30 Gems"
   },
   {
+   "code": "100KMEMS",
+   "reward": "3 Perk Spins, 30 Gems, And 1 Hour Drop Boost"
+  },
+  {
    "code": "40KLIKES",
    "reward": "2 Perk Spins, 30 Gems, And 1 Hour Drop Boost"
   },
   {
-   "code": "40KFAVS",
-   "reward": "2 Perk Spins And 30 Gems"
+   "code": "30KLIKES",
+   "reward": "2 Perk Spins And 1 Hour Drop Boost"
   },
   {
    "code": "LETSGO10K",
    "reward": "50 Gems, Drop Boost, And 5 Perk Spins"
-  },
-  {
-   "code": "1KTRUELIKES",
-   "reward": "30 Gems And A Double Drop Boost"
   }
  ],
- "updated": "2026-09-04T12:19:58.267Z",
+ "updated": "2026-09-05T12:24:53.990Z",
  "source": "https://robloxden.com/game-codes/true-piece"
 }

@@ -11,10 +11,6 @@
    "reward": "111 uC of Crystals"
   },
   {
-   "code": "GoldIsVeryHeavy",
-   "reward": "100 Magic Clovers"
-  },
-  {
    "code": "CloverBloom!",
    "reward": "100 Clovers"
   },
@@ -57,8 +53,12 @@
   {
    "code": "GiveMeMyShinyGuarantee",
    "reward": "1 Shiny Guarantee and 50 UC"
+  },
+  {
+   "code": "GoldIsVeryHeavy",
+   "reward": "100 Magic Clovers"
   }
  ],
- "updated": "2026-09-04T06:24:45.861Z",
+ "updated": "2026-09-05T12:21:41.723Z",
  "source": "https://robloxden.com/game-codes/miners-haven"
 }

@@ -11,22 +11,22 @@
    "reward": "1,000 Taps and 1,000 Gems"
   },
   {
+   "code": "TWITTER15K",
+   "reward": "2 Triple Gem Boosts"
+  },
+  {
    "code": "LIKE120K",
    "reward": "2 Triple Damage Boosters"
   },
   {
-   "code": "LIKE10K",
-   "reward": "free rewards"
+   "code": "LIKE750",
+   "reward": "5,000 Gems"
   },
   {
-   "code": "Power",
-   "reward": "100 Gold"
-  },
-  {
-   "code": "Bakon",
-   "reward": "Special Bakon Minion"
+   "code": "Minions",
+   "reward": "Common Miner Minion"
   }
  ],
- "updated": "2026-09-04T06:26:05.788Z",
+ "updated": "2026-09-05T12:22:55.675Z",
  "source": "https://robloxden.com/game-codes/minion-simulator"
 }

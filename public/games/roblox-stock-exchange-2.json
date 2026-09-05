@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "BULLMARKET",
+   "reward": "5,000 Cash and 40 XP"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "20 XP and 7,500 Cash"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-09-04T06:26:22.247Z",
+ "updated": "2026-09-05T12:23:10.703Z",
  "source": "https://robloxden.com/game-codes/roblox-stock-exchange-2"
 }

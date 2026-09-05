@@ -11,10 +11,6 @@
    "reward": "Valentine's Bakery Bear Mascot"
   },
   {
-   "code": "REINDEER23",
-   "reward": "Reindeer Plush"
-  },
-  {
    "code": "GABRIEL",
    "reward": "Candy Cane Marker"
   },
@@ -25,8 +21,12 @@
   {
    "code": "CROWNHIM",
    "reward": "Candy Cane Marker"
+  },
+  {
+   "code": "200MVISITS",
+   "reward": "a 200M Marker"
   }
  ],
- "updated": "2026-09-04T06:28:17.177Z",
+ "updated": "2026-09-05T12:24:24.624Z",
  "source": "https://robloxden.com/game-codes/bloxy-bingo"
 }

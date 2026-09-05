@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "STARTER",
-   "reward": "Starter"
+   "code": "CRYS",
+   "reward": "Crys"
   },
   {
-   "code": "RELEASE!",
-   "reward": "2,500 Cash (when making an in-game Robux purchase for the next 24 hour"
+   "code": "NEW",
+   "reward": "New"
   },
   {
    "code": "HORNS",
@@ -25,12 +25,8 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
-  },
-  {
-   "code": "NEW",
-   "reward": "New"
   }
  ],
- "updated": "2026-09-04T06:24:04.609Z",
+ "updated": "2026-09-05T12:21:03.362Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

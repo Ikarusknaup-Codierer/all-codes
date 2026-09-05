@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "Science",
-   "reward": "50 Sushi Rolls"
-  },
-  {
    "code": "Revamp",
    "reward": "15 Sushi Rolls"
   },
   {
-   "code": "Party",
-   "reward": "10 Sushi Rolls"
+   "code": "Science",
+   "reward": "50 Sushi Rolls"
   },
   {
-   "code": "Carnival",
-   "reward": "5 Sushi Rolls"
+   "code": "Bakery",
+   "reward": "Bakery Rewards"
+  },
+  {
+   "code": "Kohau",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-09-04T12:20:34.272Z",
+ "updated": "2026-09-05T12:25:29.060Z",
  "source": "https://robloxden.com/game-codes/kohau-hibachi-restaurant"
 }

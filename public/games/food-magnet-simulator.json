@@ -15,18 +15,18 @@
    "reward": "a 5 Minute 2x Coins Boost"
   },
   {
+   "code": "500LIKES",
+   "reward": "a 10 Minute Auto Sell Boost"
+  },
+  {
    "code": "ROBLEROM",
    "reward": "the Roblerom Pet"
   },
   {
-   "code": "3M",
-   "reward": "a 25 Minute Auto Sell Boost"
-  },
-  {
-   "code": "5M",
-   "reward": "a 35 Minute Auto Sell Boost"
+   "code": "1000LIKES",
+   "reward": "a 15 Minute Instant Hatch Boost"
   }
  ],
- "updated": "2026-09-04T12:19:48.196Z",
+ "updated": "2026-09-05T12:24:43.983Z",
  "source": "https://robloxden.com/game-codes/food-magnet-simulator"
 }

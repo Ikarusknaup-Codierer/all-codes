@@ -117,8 +117,16 @@
   {
    "code": "SHUTDOWN",
    "reward": "2 Clover Defense Keys"
+  },
+  {
+   "code": "OPMUPDATE",
+   "reward": "500 Gems , 500 Hero Gacha Tokens , and 5 Luck Potions"
+  },
+  {
+   "code": "HERORAID",
+   "reward": "2 Hero Keys , 750 Hero Gacha Tokens , and 5 Damage Potions"
   }
  ],
- "updated": "2026-09-05T12:23:36.586Z",
+ "updated": "2026-09-06T18:22:49.181Z",
  "source": "https://robloxden.com/game-codes/anime-ultron-simulator"
 }

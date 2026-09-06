@@ -7,11 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "SURVIVOR",
+   "code": "CLASSES",
    "reward": "20 Pearls"
   },
   {
-   "code": "POTION",
+   "code": "SURVIVOR",
    "reward": "20 Pearls"
   },
   {
@@ -19,14 +19,14 @@
    "reward": "20 Pearls"
   },
   {
-   "code": "HERO",
+   "code": "ALIENS",
    "reward": "20 Pearls"
   },
   {
-   "code": "ALIENS",
+   "code": "20Pearls",
    "reward": "20 Pearls"
   }
  ],
- "updated": "2026-09-05T18:16:00.685Z",
+ "updated": "2026-09-06T18:25:36.354Z",
  "source": "https://robloxden.com/game-codes/100-days-at-sea"
 }

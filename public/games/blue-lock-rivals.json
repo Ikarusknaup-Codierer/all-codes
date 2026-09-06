@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "DESTROYERMODE",
+   "reward": "5 Lucky Flow Spins"
+  },
+  {
+   "code": "RINTODAY",
+   "reward": "5 Lucky Style Spins and 5 Lucky Flow Spins"
+  },
+  {
+   "code": "FIXESLATERTODAY",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "SORRY4DELAY!!",
+   "reward": "5 Lucky Spins"
+  },
+  {
    "code": "MAGICIAN",
    "reward": "5 Lucky Style Spins and 5 Lucky Flow Spins"
   },
@@ -47,6 +63,6 @@
    "reward": "5 Lucky Flow"
   }
  ],
- "updated": "2026-09-05T18:17:09.056Z",
+ "updated": "2026-09-06T18:26:44.216Z",
  "source": "https://robloxden.com/game-codes/blue-lock-rivals"
 }

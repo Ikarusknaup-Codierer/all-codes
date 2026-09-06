@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TRAININGMANUAL",
+   "reward": "1 Training Manual III"
+  },
+  {
    "code": "MYSERVERLUCK",
    "reward": "2x Server Luck (10 Minutes)"
   },
@@ -67,6 +71,6 @@
    "reward": "a Galaxy Battery"
   }
  ],
- "updated": "2026-09-05T12:21:39.797Z",
+ "updated": "2026-09-06T18:20:38.243Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

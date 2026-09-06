@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "KWAMIBARKK",
-   "reward": "Xmas Barkk"
-  },
-  {
-   "code": "CRITRETROSPECIAL",
-   "reward": "2,500 Coins"
-  },
-  {
    "code": "EIGHTMILLION",
    "reward": "15 Tokens"
   },
@@ -83,6 +75,14 @@
    "reward": "Special Location in New York City"
   },
   {
+   "code": "KWAMIBARKK",
+   "reward": "Xmas Barkk"
+  },
+  {
+   "code": "CRITRETROSPECIAL",
+   "reward": "2,500 Coins"
+  },
+  {
    "code": "MIRPWBR",
    "reward": "5 Tokens"
   },
@@ -91,6 +91,6 @@
    "reward": "5 Tokens"
   }
  ],
- "updated": "2026-09-05T12:24:09.571Z",
+ "updated": "2026-09-06T18:23:25.469Z",
  "source": "https://robloxden.com/game-codes/miraculous-rp"
 }

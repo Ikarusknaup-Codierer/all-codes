@@ -11,10 +11,6 @@
    "reward": "Special Reward"
   },
   {
-   "code": "FACILITY",
-   "reward": "Hat Chest"
-  },
-  {
    "code": "FREECHEST!",
    "reward": "Chest Chest"
   },
@@ -95,14 +91,14 @@
    "reward": "1 Sir Meow Hat"
   },
   {
-   "code": "150k_likes!",
-   "reward": "Effect Chest"
+   "code": "FACILITY",
+   "reward": "Hat Chest"
   },
   {
-   "code": "SUPERLATESORRY",
-   "reward": "the Pride Flag"
+   "code": "NEWCHESTS!!!",
+   "reward": "1 Hat Chest"
   }
  ],
- "updated": "2026-09-05T12:21:26.956Z",
+ "updated": "2026-09-06T18:20:23.419Z",
  "source": "https://robloxden.com/game-codes/super-golf"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "OPENTOP",
+   "reward": "$80,000"
+  },
+  {
    "code": "DUNEDRIFTERS",
    "reward": "$80,000"
   },
@@ -87,14 +91,14 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "CarTrailer",
-   "reward": "75,000 Cash"
+   "code": "450KLikes",
+   "reward": "$45,000"
   },
   {
-   "code": "550KLIKES",
-   "reward": "55,000 Cash"
+   "code": "VOLKSWAGEN",
+   "reward": "100k Cash"
   }
  ],
- "updated": "2026-09-05T12:25:39.914Z",
+ "updated": "2026-09-06T18:24:49.919Z",
  "source": "https://robloxden.com/game-codes/car-dealership-tycoon"
 }

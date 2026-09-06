@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NENHXH",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "YETANOTHERFIXSHUTDOWNOPTIMIZATIONS",
    "reward": "a Damage II Potion , a Luck II Potion , a Power II Potion , a XP II Po"
   },
@@ -295,14 +299,14 @@
    "reward": "250 F2P Tickets and 12 Potions"
   },
   {
-   "code": "SORRYFORSHUTDOWN8",
-   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+   "code": "30KPLAYERS",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   },
   {
    "code": "10KPLAYERS",
    "reward": "150 F2P Tickets , 1 XP Potion , 1 Power Potion , 1 Damage Potion , 1 Y"
   }
  ],
- "updated": "2026-09-05T12:23:28.797Z",
+ "updated": "2026-09-06T18:22:40.547Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

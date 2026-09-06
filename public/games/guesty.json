@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AHOY",
+   "reward": "100 Coins"
+  },
+  {
    "code": "SMARTY",
    "reward": "250 Coins"
   },
@@ -19,6 +23,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-05T12:22:14.328Z",
+ "updated": "2026-09-06T18:21:16.901Z",
  "source": "https://robloxden.com/game-codes/guesty"
 }

@@ -11,6 +11,10 @@
    "reward": "30"
   },
   {
+   "code": "GamInVR",
+   "reward": "500"
+  },
+  {
    "code": "Leatherjacket",
    "reward": "20"
   },
@@ -21,12 +25,8 @@
   {
    "code": "HEARTS",
    "reward": "250 Gems"
-  },
-  {
-   "code": "MARBLEBDAY",
-   "reward": "Free Gems"
   }
  ],
- "updated": "2026-09-05T12:17:58.203Z",
+ "updated": "2026-09-06T18:17:24.802Z",
  "source": "https://robloxden.com/game-codes/fishing-simulator"
 }

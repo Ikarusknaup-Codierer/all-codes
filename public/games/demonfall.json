@@ -15,10 +15,14 @@
    "reward": "3,000 Gold and 200 Guild Exp"
   },
   {
+   "code": "WIPEPOTION",
+   "reward": "1 Wipe Potion"
+  },
+  {
    "code": "!MAINTENANCE",
    "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-05T12:21:40.774Z",
+ "updated": "2026-09-06T18:20:39.330Z",
  "source": "https://robloxden.com/game-codes/demonfall"
 }

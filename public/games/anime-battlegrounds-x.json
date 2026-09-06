@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "launch",
-   "reward": "150 Gems"
+   "code": "update1",
+   "reward": "Free Gems"
   },
   {
    "code": "DIO",
+   "reward": "15 Wish Shards"
+  },
+  {
+   "code": "BIZARRE",
    "reward": "15 Wish Shards"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "10 Wish Shards"
   },
   {
-   "code": "ONEPEAS",
-   "reward": "150 Gems"
-  },
-  {
-   "code": "DAILYWORD",
-   "reward": "15 Wish Shards"
+   "code": "LABOFAWAKENING",
+   "reward": "10 Wish Shards"
   }
  ],
- "updated": "2026-09-05T12:21:36.398Z",
+ "updated": "2026-09-06T18:20:33.863Z",
  "source": "https://robloxden.com/game-codes/anime-battlegrounds-x"
 }

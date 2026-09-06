@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AUG26",
+   "reward": "10 Enchant Tokens and 100 Rainbow Charms"
+  },
+  {
    "code": "600M",
    "reward": "100 Void Charms , 300 Shiny Charms and 200 Rainbow Charms"
   },
@@ -403,10 +407,10 @@
    "reward": "25 Void Charms"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "500 Crowns"
+   "code": "BEAST",
+   "reward": "600 Crowns"
   }
  ],
- "updated": "2026-09-05T12:21:03.823Z",
+ "updated": "2026-09-06T18:19:57.566Z",
  "source": "https://robloxden.com/game-codes/saber-simulator"
 }

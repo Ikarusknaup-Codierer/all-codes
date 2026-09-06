@@ -51,14 +51,14 @@
    "reward": "Corrupted 3 Stars Dragon Ball . You must be in the First Kingdom to re"
   },
   {
-   "code": "!choosetrait10",
-   "reward": "200 Trait Spins but locks you out of chooserace10 or choosemagic10"
+   "code": "!chooserace999",
+   "reward": "700 Race Spins"
   },
   {
-   "code": "!choosemagic999",
-   "reward": "700 Magic Spins"
+   "code": "!magicwonagain",
+   "reward": "45 Trait Spins"
   }
  ],
- "updated": "2026-09-05T06:20:21.792Z",
+ "updated": "2026-09-06T12:19:57.994Z",
  "source": "https://robloxden.com/game-codes/clover-retribution"
 }

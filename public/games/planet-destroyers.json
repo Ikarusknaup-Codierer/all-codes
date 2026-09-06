@@ -8,7 +8,7 @@
   },
   {
    "code": "blackhole",
-   "reward": "Three Double Luck Boosts"
+   "reward": "3 Double Luck Boosts"
   },
   {
    "code": "comet",
@@ -63,12 +63,20 @@
    "reward": "2 2x Luck Boosts"
   },
   {
+   "code": "summer",
+   "reward": "3 2x Luck Boosts"
+  },
+  {
    "code": "magic",
    "reward": "2 2x Damage Boosts"
   },
   {
    "code": "cyber",
    "reward": "2 2x Coins Boosts"
+  },
+  {
+   "code": "tropical",
+   "reward": "2 2x Luck Boosts"
   },
   {
    "code": "lava",
@@ -89,16 +97,8 @@
   {
    "code": "release",
    "reward": "Free Gems"
-  },
-  {
-   "code": "summer",
-   "reward": "3 2x Luck Boosts"
-  },
-  {
-   "code": "tropical",
-   "reward": "2 2x Luck Boosts"
   }
  ],
- "updated": "2026-09-05T06:23:19.630Z",
+ "updated": "2026-09-06T12:23:01.683Z",
  "source": "https://robloxden.com/game-codes/planet-destroyers"
 }

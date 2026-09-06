@@ -15,18 +15,18 @@
    "reward": "3 Speed Potions"
   },
   {
-   "code": "MILLIONS",
-   "reward": "3 Spins"
-  },
-  {
    "code": "PIRATE",
    "reward": "1 Spin"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "100 Speed"
   },
   {
    "code": "UPDATE1",
    "reward": "1 Trophy Potion"
   }
  ],
- "updated": "2026-09-05T06:23:02.448Z",
+ "updated": "2026-09-06T12:22:43.670Z",
  "source": "https://robloxden.com/game-codes/swimming-simulator"
 }

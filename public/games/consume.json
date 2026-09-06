@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "1kplayers",
-   "reward": "3,000 Cultist Coins"
-  },
-  {
-   "code": "consumerelease",
-   "reward": "1,000 Cultist Coins"
-  },
-  {
    "code": "halloween2024",
    "reward": "100 Candy"
   },
@@ -37,8 +29,16 @@
   {
    "code": "2mvisits",
    "reward": "2,000 Cultist Coins"
+  },
+  {
+   "code": "1kplayers",
+   "reward": "3,000 Cultist Coins"
+  },
+  {
+   "code": "consumerelease",
+   "reward": "1,000 Cultist Coins"
   }
  ],
- "updated": "2026-09-05T06:20:27.423Z",
+ "updated": "2026-09-06T12:20:03.979Z",
  "source": "https://robloxden.com/game-codes/consume"
 }

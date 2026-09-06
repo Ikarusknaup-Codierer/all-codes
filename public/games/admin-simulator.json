@@ -15,18 +15,18 @@
    "reward": "Rewards"
   },
   {
-   "code": "elephantkoi",
+   "code": "happyreturns",
+   "reward": "Expired Reward"
+  },
+  {
+   "code": "epicgamerz",
    "reward": "Boosts"
   },
   {
-   "code": "toxicfallout",
-   "reward": "Luck Potion VI (130 minutes)"
-  },
-  {
-   "code": "plutothedog",
-   "reward": "+90% Luck (2 hours)"
+   "code": "22725",
+   "reward": "Luck Potion VI (60 minutes)"
   }
  ],
- "updated": "2026-09-05T06:27:26.296Z",
+ "updated": "2026-09-06T12:26:17.208Z",
  "source": "https://robloxden.com/game-codes/admin-simulator"
 }

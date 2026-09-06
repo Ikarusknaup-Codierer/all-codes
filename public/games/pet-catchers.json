@@ -15,18 +15,18 @@
    "reward": "1 Golden Cherry , 1 Coin Elixir , and 1 Super Lucky Elixir"
   },
   {
-   "code": "REBOOT",
-   "reward": "10 Sea Elixirs, 5k Festive Mystery Eggs, 1 Prismatic Sundae, 15 Egg El"
-  },
-  {
    "code": "hardcore",
    "reward": "4 Hardcore Tomes"
   },
   {
    "code": "ilovefishing",
    "reward": "3 Sea Elixirs And 1 Seafarer Rune"
+  },
+  {
+   "code": "runes",
+   "reward": "1 Fatal Strike Rune , 1 Critical Hit Rune and 1 Seafarer Rune Cherry"
   }
  ],
- "updated": "2026-09-05T12:17:55.599Z",
+ "updated": "2026-09-06T12:26:46.451Z",
  "source": "https://robloxden.com/game-codes/pet-catchers"
 }

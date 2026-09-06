@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BDAY",
-   "reward": "$2,500"
+   "code": "4MIL",
+   "reward": "$1,000"
   },
   {
    "code": "PHROG",
    "reward": "$1,500"
   },
   {
-   "code": "2020BADGES",
+   "code": "NEWYEARS",
+   "reward": "$2,500"
+  },
+  {
+   "code": "DISCONNECT",
    "reward": "Unknown Reward"
   },
   {
-   "code": "SURVIVORSWON",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "ZUPER",
+   "code": "JINGLEBELLS",
    "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-05T12:19:07.251Z",
+ "updated": "2026-09-06T12:27:55.543Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

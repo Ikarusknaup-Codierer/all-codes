@@ -28,7 +28,7 @@
   },
   {
    "code": "premium",
-   "reward": "Exclusive Reward"
+   "reward": "Exclusive Reward . Requires Roblox Plus subscription"
   },
   {
    "code": "15klikes",
@@ -57,10 +57,6 @@
   {
    "code": "2klikes",
    "reward": "18,000 Gold"
-  },
-  {
-   "code": "valentine2026",
-   "reward": "Cash"
   },
   {
    "code": "easter2026",
@@ -179,6 +175,6 @@
    "reward": "Free Cash"
   }
  ],
- "updated": "2026-09-05T06:19:48.036Z",
+ "updated": "2026-09-06T12:19:25.443Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

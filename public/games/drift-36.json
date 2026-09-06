@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "825KMEMBER",
-   "reward": "$40,000"
-  },
-  {
    "code": "650KMEMBER",
    "reward": "30,000 Cash"
+  },
+  {
+   "code": "95KLIKES",
+   "reward": "$15,000"
   },
   {
    "code": "GT500",
@@ -23,6 +23,6 @@
    "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-09-04T18:19:09.544Z",
+ "updated": "2026-09-06T00:26:45.893Z",
  "source": "https://robloxden.com/game-codes/drift-36"
 }

@@ -19,14 +19,6 @@
    "reward": "1,234 Krones"
   },
   {
-   "code": "W4TORM3LON",
-   "reward": "Krone and EXP"
-  },
-  {
-   "code": "STRAFE2025",
-   "reward": "Krone and EXP"
-  },
-  {
    "code": "OVERGROWTH",
    "reward": "50 EXP and 200 Krone"
   },
@@ -89,8 +81,16 @@
   {
    "code": "STRAFEWORKS",
    "reward": "EXP and Krones"
+  },
+  {
+   "code": "W4TORM3LON",
+   "reward": "Krone and EXP"
+  },
+  {
+   "code": "STRAFE2025",
+   "reward": "Krone and EXP"
   }
  ],
- "updated": "2026-09-04T18:17:18.132Z",
+ "updated": "2026-09-06T00:25:51.166Z",
  "source": "https://robloxden.com/game-codes/strafe"
 }

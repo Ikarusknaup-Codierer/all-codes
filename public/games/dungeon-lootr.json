@@ -27,23 +27,11 @@
    "reward": "2 Random GM Blessing chests, 2 Forge Stones, and 1 Reforge Stone"
   },
   {
-   "code": "100KVISIT",
-   "reward": "1 Random GM Blessing chest, 5 Forge Stones, and 2 Reforge Stones"
-  },
-  {
-   "code": "DEMONTIME",
-   "reward": "1 Random GM Blessing chest, 3 Forge Stones, and 1 Reforge Stone"
-  },
-  {
    "code": "BROKENARCHER",
    "reward": "1 Major Compensation Chest"
   },
   {
    "code": "1KLIKES",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "1KFAV",
    "reward": "Free Rewards"
   },
   {
@@ -81,16 +69,8 @@
   {
    "code": "GROUP",
    "reward": "25 Stars"
-  },
-  {
-   "code": "CONSOLE_FIXED",
-   "reward": "50 Stars and a Random GM Blessing chest"
-  },
-  {
-   "code": "EASTER",
-   "reward": "the Bunny Ears cosmetic"
   }
  ],
- "updated": "2026-09-04T18:21:18.507Z",
+ "updated": "2026-09-06T00:28:44.885Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

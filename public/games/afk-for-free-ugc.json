@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "SORRY4DELAY",
-   "reward": ""
-  },
-  {
-   "code": "UGC",
+   "code": "DEER",
    "reward": ""
   },
   {
@@ -19,14 +15,18 @@
    "reward": ""
   },
   {
-   "code": "OWL",
-   "reward": "20,000 Clicks"
+   "code": "NEWUGC",
+   "reward": "50,000 Clicks"
   },
   {
-   "code": "1KMEMBERS",
-   "reward": "2,000 Points"
+   "code": "99NIGHT",
+   "reward": "65,000 Clicks"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Points"
   }
  ],
- "updated": "2026-09-04T18:26:09.967Z",
+ "updated": "2026-09-06T00:33:22.049Z",
  "source": "https://robloxden.com/game-codes/afk-for-free-ugc"
 }

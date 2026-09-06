@@ -11,10 +11,6 @@
    "reward": "5,000 Yen , 1,000 Crytals , 20 Race Tokens , 10 Clan Relics and 5 Rero"
   },
   {
-   "code": "MODULO",
-   "reward": "Free Rewards . You must be at least level 6,500 to use this code"
-  },
-  {
    "code": "BEGINNERBOOST",
    "reward": "2.5K Yen, 500 Crystals, 20 Race Tokens and 10 Clan Relics"
   },
@@ -40,11 +36,23 @@
   },
   {
    "code": "CLANS",
-   "reward": "Free Rewards"
+   "reward": "Free Rewards . You must be at least level 4,500 to use this code"
+  },
+  {
+   "code": "LUNARSHRINE",
+   "reward": "2,500 Yen , 500 Crystals , 20 Race Tokens , and 7 Clan Relics"
+  },
+  {
+   "code": "KOKUSHIBO",
+   "reward": "Rewards . You need to be at least level 6,500 to redeem this code"
   },
   {
    "code": "MOLTENEVENT",
    "reward": "Free Rewards . You need to reach Level 6,500 to use this code"
+  },
+  {
+   "code": "MODULO",
+   "reward": "Free Rewards . You must be at least level 6,500 to use this code"
   },
   {
    "code": "HUECOMUNDOREVAMP",
@@ -227,6 +235,6 @@
    "reward": "1 Mythical Chest and 10 Race Tokens"
   }
  ],
- "updated": "2026-09-04T18:22:10.566Z",
+ "updated": "2026-09-06T00:29:41.703Z",
  "source": "https://robloxden.com/game-codes/reign-piece"
 }

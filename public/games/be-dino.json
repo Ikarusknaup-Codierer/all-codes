@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WEATHER",
-   "reward": "15,000 Gems , 1 Suchomimus , 1 Stonecrest Cryolophosaurus , 1 Allosaur"
-  },
-  {
    "code": "HUGE150K",
    "reward": "20,000 Gems , 1 Allosaurus , 1 Tier 1 Medium XP Fossil , and 1 Tier 1 "
   },
@@ -19,8 +15,8 @@
    "reward": "Tier 1 Small Growth Amber"
   },
   {
-   "code": "ANNIVERSARY",
-   "reward": "100,000 Gems , a Xenoraptor , an Atrociraptor , a Dread Gigantosaurus "
+   "code": "WEATHER",
+   "reward": "15,000 Gems , 1 Suchomimus , 1 Stonecrest Cryolophosaurus , 1 Allosaur"
   },
   {
    "code": "ANNIVERSARYFOSSILS",
@@ -35,6 +31,6 @@
    "reward": "10,000 Gems , 1 Large XP Boost , 1 Large Growth Boost , 2 Stonecrest C"
   }
  ],
- "updated": "2026-09-04T18:24:03.523Z",
+ "updated": "2026-09-06T00:31:40.158Z",
  "source": "https://robloxden.com/game-codes/be-dino"
 }

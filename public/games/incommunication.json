@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "bananas150",
+   "reward": "150 Bananas"
+  },
+  {
+   "code": "remuria",
+   "reward": "50 Bananas"
+  },
+  {
+   "code": "evilthiago",
+   "reward": "51 Bananas"
+  },
+  {
+   "code": "update1",
+   "reward": "750 Bananas"
+  },
+  {
+   "code": "evilcodethatgivesyouonebanana",
+   "reward": "1 Banana"
   }
  ],
- "updated": "2026-09-04T18:24:30.901Z",
+ "updated": "2026-09-06T00:32:15.164Z",
  "source": "https://robloxden.com/game-codes/incommunication"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "FOREST",
-   "reward": "Clicks"
-  },
-  {
-   "code": "HAIRS",
-   "reward": "Clicks"
-  },
-  {
-   "code": "JANDEL",
+   "code": "SAMMY",
    "reward": "Clicks And UGC Rewards"
   },
   {
-   "code": "POTIONS",
-   "reward": "Clicks And Potions"
+   "code": "3MVISITS",
+   "reward": "Extra Boosts"
   },
   {
    "code": "UPDATE",
    "reward": "Extra Boosts"
+  },
+  {
+   "code": "OWL",
+   "reward": "20,000 Clicks"
+  },
+  {
+   "code": "SORRY4DELAY",
+   "reward": "55,000 Clicks"
   }
  ],
- "updated": "2026-09-04T18:24:46.731Z",
+ "updated": "2026-09-06T00:32:31.140Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

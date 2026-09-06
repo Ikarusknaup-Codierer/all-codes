@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "UPDATE2",
    "reward": "2 Spins"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "200 Coins"
   },
   {
    "code": "100KFAV",
@@ -27,6 +27,6 @@
    "reward": "1 Spin"
   }
  ],
- "updated": "2026-09-05T00:25:00.970Z",
+ "updated": "2026-09-06T06:19:00.847Z",
  "source": "https://robloxden.com/game-codes/slime-crushers"
 }

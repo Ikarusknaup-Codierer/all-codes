@@ -11,20 +11,8 @@
    "reward": "100K Cash"
   },
   {
-   "code": "balancing",
-   "reward": "Freebies"
-  },
-  {
    "code": "redlarva",
    "reward": "a Red Larva Skin"
-  },
-  {
-   "code": "reopen",
-   "reward": "Yellow Larva"
-  },
-  {
-   "code": "red2",
-   "reward": "Red Larva"
   },
   {
    "code": "1mil",
@@ -47,8 +35,20 @@
    "reward": "Freebies"
   },
   {
+   "code": "balancing",
+   "reward": "Freebies"
+  },
+  {
    "code": "mastery",
    "reward": "50,000 Cash"
+  },
+  {
+   "code": "reopen",
+   "reward": "Yellow Larva"
+  },
+  {
+   "code": "red2",
+   "reward": "Red Larva"
   },
   {
    "code": "summer",
@@ -63,6 +63,6 @@
    "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-09-05T00:27:55.660Z",
+ "updated": "2026-09-06T06:21:05.261Z",
  "source": "https://robloxden.com/game-codes/forgotten"
 }

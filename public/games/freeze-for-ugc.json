@@ -11,10 +11,6 @@
    "reward": "500 Time"
   },
   {
-   "code": "MARIE",
-   "reward": "500 Time"
-  },
-  {
    "code": "ALXO",
    "reward": "500 Time"
   },
@@ -44,7 +40,7 @@
   },
   {
    "code": "SKIBIDI",
-   "reward": "666 Time"
+   "reward": "200 Time"
   },
   {
    "code": "FREEZE",
@@ -59,14 +55,14 @@
    "reward": "100 Time"
   },
   {
-   "code": "GROUP",
-   "reward": "Time"
+   "code": "MARIE",
+   "reward": "500 Time"
   },
   {
-   "code": "sorryforshutdown",
-   "reward": "1,000 Time"
+   "code": "freetime",
+   "reward": "Time"
   }
  ],
- "updated": "2026-09-05T00:27:24.921Z",
+ "updated": "2026-09-06T06:20:38.811Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

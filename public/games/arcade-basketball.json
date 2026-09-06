@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "JUMPSHOT",
+   "reward": "1 Jumpshot Crate"
+  },
+  {
    "code": "SCHOOL",
    "reward": "1 Meter Crate"
   },
@@ -119,14 +123,14 @@
    "reward": "1 Green Crate . This code requires you to join the Arcade Basketball R"
   },
   {
-   "code": "GREEN2",
-   "reward": "one Green Effects Crate"
+   "code": "WAGER",
+   "reward": "1 Green Effects Crate"
   },
   {
-   "code": "DUNKEDON",
+   "code": "NOVEMBER",
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-05T00:30:44.407Z",
+ "updated": "2026-09-06T06:23:38.989Z",
  "source": "https://robloxden.com/game-codes/arcade-basketball"
 }

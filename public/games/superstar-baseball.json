@@ -47,10 +47,6 @@
    "reward": "2 Free Spins"
   },
   {
-   "code": "HOLLOW",
-   "reward": "10 Lucky Spins"
-  },
-  {
    "code": "COSMIC",
    "reward": "3 Lucky Spins"
   },
@@ -99,14 +95,14 @@
    "reward": "2 Spins"
   },
   {
-   "code": "100KLIKES",
-   "reward": "2 Free Spins"
+   "code": "HOLLOW",
+   "reward": "10 Lucky Spins"
   },
   {
-   "code": "NEWTEAMS",
-   "reward": "5 Style Spins"
+   "code": "TUTORIAL",
+   "reward": "3 Lucky Style Spins"
   }
  ],
- "updated": "2026-09-05T00:27:38.273Z",
+ "updated": "2026-09-06T06:20:50.667Z",
  "source": "https://robloxden.com/game-codes/superstar-baseball"
 }

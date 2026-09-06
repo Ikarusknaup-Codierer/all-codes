@@ -11,10 +11,6 @@
    "reward": "an Armory Collection Case , 5 Vault Tokens , and 20,000 Cash"
   },
   {
-   "code": "SPECTER3",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "INFINITY",
    "reward": "5 Vault Tokens"
   },
@@ -45,6 +41,10 @@
   {
    "code": "TRID3NT",
    "reward": "3 Vault Tokens , an Exclusive Outfit , and a Motion Sensor"
+  },
+  {
+   "code": "SPECTER3",
+   "reward": "Free Rewards"
   },
   {
    "code": "SPECTER3AGAIN",
@@ -87,6 +87,6 @@
    "reward": "an Exclusive Outfit and 5 Vault Tokens"
   }
  ],
- "updated": "2026-09-05T00:29:23.048Z",
+ "updated": "2026-09-06T06:22:23.581Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

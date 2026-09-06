@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMERHEAT",
-   "reward": "1,250 Gym Tokens"
-  },
-  {
    "code": "500M",
    "reward": "Freebies"
   },
@@ -83,6 +79,10 @@
    "reward": "2 Spins"
   },
   {
+   "code": "SUMMERHEAT",
+   "reward": "1,250 Gym Tokens"
+  },
+  {
    "code": "WORLDCUP",
    "reward": "100 Enchantment Crystals and 4 Wheel Spins"
   },
@@ -95,6 +95,6 @@
    "reward": "2x of each Booster"
   }
  ],
- "updated": "2026-09-05T00:32:22.599Z",
+ "updated": "2026-09-06T06:25:16.622Z",
  "source": "https://robloxden.com/game-codes/gym-star-simulator"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "privatematches",
-   "reward": "1,500 Gems"
-  },
-  {
    "code": "tournament",
    "reward": "1,500 Gems"
   },
@@ -23,10 +19,14 @@
    "reward": "2,500 Gems"
   },
   {
-   "code": "Gone",
-   "reward": "3,000 Gems"
+   "code": "group1mthx",
+   "reward": "2,500 Gems"
+  },
+  {
+   "code": "100klikes",
+   "reward": "1,500 Gems"
   }
  ],
- "updated": "2026-09-06T00:26:47.028Z",
+ "updated": "2026-09-07T00:34:12.669Z",
  "source": "https://robloxden.com/game-codes/jump-stars"
 }

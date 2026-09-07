@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "AdminAquarium",
+   "reward": "a Lava Aquarium"
+  },
+  {
+   "code": "MythicFish",
+   "reward": "a Shark"
+  },
+  {
+   "code": "WaterHappy",
+   "reward": "a Random Rare Pet"
   }
  ],
- "updated": "2026-09-05T18:22:21.977Z",
+ "updated": "2026-09-07T00:30:19.410Z",
  "source": "https://robloxden.com/game-codes/1-drain-water-per-click"
 }

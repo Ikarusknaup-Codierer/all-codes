@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE5",
+   "reward": "250,000 Cash , 1 Raygun and 1 Toasty Scroll"
+  },
+  {
+   "code": "30MVISITS",
+   "reward": "250,000 Cash , 1 Gilded Hatch Hammer and 1 Totem of Marrow"
+  },
+  {
+   "code": "550KFAVS",
+   "reward": "1 Totem of Stars and 100,000 Cash"
+  },
+  {
    "code": "400KFAVS",
    "reward": "100,000 Cash and a Totem of Stars"
   },
@@ -35,6 +47,6 @@
    "reward": "100K Cash, 1 Wealth Totem and 1 Fortune Totem"
   }
  ],
- "updated": "2026-09-05T18:15:59.634Z",
+ "updated": "2026-09-07T00:25:13.669Z",
  "source": "https://robloxden.com/game-codes/capybaras-vs-plants"
 }

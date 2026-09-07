@@ -11,14 +11,6 @@
    "reward": "Kerupuk Lantern"
   },
   {
-   "code": "MUTATION2",
-   "reward": "2 Mutation II Potions"
-  },
-  {
-   "code": "YEEHAW",
-   "reward": "a Cowboy Halo"
-  },
-  {
    "code": "DIVING",
    "reward": "2 Luck II Potions"
   },
@@ -33,8 +25,16 @@
   {
    "code": "POTIONSSS",
    "reward": "2 Mutation II Potions"
+  },
+  {
+   "code": "MUTATION2",
+   "reward": "2 Mutation II Potions"
+  },
+  {
+   "code": "YEEHAW",
+   "reward": "a Cowboy Halo"
   }
  ],
- "updated": "2026-09-05T18:18:42.188Z",
+ "updated": "2026-09-07T00:27:18.812Z",
  "source": "https://robloxden.com/game-codes/fish-it"
 }

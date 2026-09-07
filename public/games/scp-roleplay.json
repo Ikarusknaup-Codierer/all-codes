@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WATCHER",
+   "reward": "2,500 Cash"
+  },
+  {
    "code": "SNIPER",
    "reward": "2,500 Cash"
   },
@@ -43,6 +47,6 @@
    "reward": "$2,000 Cash"
   }
  ],
- "updated": "2026-09-05T18:19:40.868Z",
+ "updated": "2026-09-07T00:28:18.248Z",
  "source": "https://robloxden.com/game-codes/scp-roleplay"
 }

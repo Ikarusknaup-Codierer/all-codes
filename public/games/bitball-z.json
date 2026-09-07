@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "225kvisits",
+   "reward": "225 Skill Points , 225,000 Zeni , 225,000,000 Base Power , and 5 Sensu"
+  },
+  {
+   "code": "moreskillpoints",
+   "reward": "450 Skill Points , 1,000,000 Zeni , 750,000,000 Base Power , and 3 Sen"
+  },
+  {
    "code": "freeskillpoints",
    "reward": "500 Skill Points"
   },
@@ -99,6 +107,6 @@
    "reward": "5 Skill Points , 250,000 Zeni , and 100,000,000 Base Power"
   }
  ],
- "updated": "2026-09-05T18:20:02.339Z",
+ "updated": "2026-09-07T00:28:37.614Z",
  "source": "https://robloxden.com/game-codes/bitball-z"
 }

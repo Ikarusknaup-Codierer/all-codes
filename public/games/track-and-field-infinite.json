@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWBATONNEWME",
+   "reward": "1,000 Gold"
+  },
+  {
    "code": "GOOUTSIDE",
    "reward": "500 Gold"
   },
@@ -17,12 +21,8 @@
   {
    "code": "HAPPYHAPPYBDAY",
    "reward": "a Party Baton"
-  },
-  {
-   "code": "NEWBATONNEWME",
-   "reward": "1,000 Gold"
   }
  ],
- "updated": "2026-09-05T18:19:35.069Z",
+ "updated": "2026-09-07T00:28:12.113Z",
  "source": "https://robloxden.com/game-codes/track-and-field-infinite"
 }

@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Update6",
+   "reward": "3 All Potions"
+  },
+  {
+   "code": "Rarities",
+   "reward": "50 Tickets"
+  },
+  {
+   "code": "gymbronice",
+   "reward": "1.25x Strength"
+  },
+  {
+   "code": "okgetthepotions",
+   "reward": "1 All Potion"
+  },
+  {
+   "code": "freecashpot23",
+   "reward": "1 Cash Potion"
+  },
+  {
    "code": "moreshrineluck321",
    "reward": "1.25x Shrine Luck"
   },
@@ -77,16 +97,8 @@
   {
    "code": "Release",
    "reward": "+1 All Potions"
-  },
-  {
-   "code": "1500ccu",
-   "reward": "5 ALL Potions , 100 Diamonds and 25 Husk"
-  },
-  {
-   "code": "MiniUpdate",
-   "reward": "10 Diamonds and 25 Red Stars"
   }
  ],
- "updated": "2026-09-05T18:21:14.587Z",
+ "updated": "2026-09-07T00:29:21.585Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

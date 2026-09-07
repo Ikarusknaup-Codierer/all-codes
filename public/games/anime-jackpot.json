@@ -7,6 +7,42 @@
    "reward": "Description"
   },
   {
+   "code": "GIANTSECRET",
+   "reward": "1 Mutation Luck Potion I"
+  },
+  {
+   "code": "PLSSECRET",
+   "reward": "1 Summon Luck Poton I"
+  },
+  {
+   "code": "YEN26",
+   "reward": "1 Yen Potion I"
+  },
+  {
+   "code": "WEATHER",
+   "reward": "1 Weather Potion"
+  },
+  {
+   "code": "500CCU",
+   "reward": "3 Itsuwari Dice"
+  },
+  {
+   "code": "EVIL",
+   "reward": "7,000 Stars"
+  },
+  {
+   "code": "BLUEMOON",
+   "reward": "the Luck Potion II"
+  },
+  {
+   "code": "500CCUAGAIN",
+   "reward": "7 Itsuwari Dice"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "9,000 Stars"
+  },
+  {
    "code": "BYEBYESUMMER",
    "reward": "1 Summon Potion II"
   },
@@ -53,44 +89,8 @@
   {
    "code": "POTIONUPDATE",
    "reward": "1 Clover Potion"
-  },
-  {
-   "code": "GIANTSECRET",
-   "reward": "1 Mutation Luck Potion I"
-  },
-  {
-   "code": "PLSSECRET",
-   "reward": "1 Summon Luck Poton I"
-  },
-  {
-   "code": "YEN26",
-   "reward": "1 Yen Potion I"
-  },
-  {
-   "code": "WEATHER",
-   "reward": "1 Weather Potion"
-  },
-  {
-   "code": "500CCU",
-   "reward": "3 Itsuwari Dice"
-  },
-  {
-   "code": "EVIL",
-   "reward": "7,000 Stars"
-  },
-  {
-   "code": "BLUEMOON",
-   "reward": "the Luck Potion II"
-  },
-  {
-   "code": "500CCUAGAIN",
-   "reward": "7 Itsuwari Dice"
-  },
-  {
-   "code": "1KLIKES",
-   "reward": "9,000 Stars"
   }
  ],
- "updated": "2026-09-05T18:20:26.051Z",
+ "updated": "2026-09-07T00:29:00.978Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

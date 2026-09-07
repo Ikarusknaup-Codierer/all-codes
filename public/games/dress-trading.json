@@ -11,10 +11,6 @@
    "reward": "9,999 Coins and Birthday Headband"
   },
   {
-   "code": "like1k",
-   "reward": "Reward"
-  },
-  {
    "code": "like2k",
    "reward": "30,000 Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "like4k",
    "reward": "30,000 Coins"
+  },
+  {
+   "code": "like6k",
+   "reward": "30,000 Coins"
   }
  ],
- "updated": "2026-09-06T06:24:12.185Z",
+ "updated": "2026-09-07T12:24:58.039Z",
  "source": "https://robloxden.com/game-codes/dress-trading"
 }

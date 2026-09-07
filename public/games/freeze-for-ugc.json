@@ -7,7 +7,23 @@
    "reward": "Description"
   },
   {
+   "code": "SKIBIDI",
+   "reward": "200 Time"
+  },
+  {
+   "code": "FREEZE",
+   "reward": "200 Time"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "250 Time"
+  },
+  {
    "code": "ART",
+   "reward": "500 Time"
+  },
+  {
+   "code": "MARIE",
    "reward": "500 Time"
   },
   {
@@ -39,30 +55,10 @@
    "reward": "500 Time"
   },
   {
-   "code": "SKIBIDI",
-   "reward": "200 Time"
-  },
-  {
-   "code": "FREEZE",
-   "reward": "200 Time"
-  },
-  {
-   "code": "UPDATE",
-   "reward": "250 Time"
-  },
-  {
    "code": "TOILET",
    "reward": "100 Time"
-  },
-  {
-   "code": "MARIE",
-   "reward": "500 Time"
-  },
-  {
-   "code": "freetime",
-   "reward": "Time"
   }
  ],
- "updated": "2026-09-06T06:20:38.811Z",
+ "updated": "2026-09-07T12:21:44.175Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

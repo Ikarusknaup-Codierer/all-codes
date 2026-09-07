@@ -11,10 +11,6 @@
    "reward": "a 200 Yen , a Spirit Pack , 2 Standard Packs , a Rackets Pack , and a "
   },
   {
-   "code": "SEASON2BUG",
-   "reward": "1,500 Season Pass XP"
-  },
-  {
    "code": "RESTRUCTURING",
    "reward": "2,000 Yen"
   },
@@ -47,6 +43,10 @@
    "reward": "750 Yen"
   },
   {
+   "code": "SEASON2BUG",
+   "reward": "1,500 Season Pass XP"
+  },
+  {
    "code": "SOCCER",
    "reward": "750 Yen"
   },
@@ -59,6 +59,6 @@
    "reward": "1,000 Yen"
   }
  ],
- "updated": "2026-09-06T06:20:11.254Z",
+ "updated": "2026-09-07T12:21:21.671Z",
  "source": "https://robloxden.com/game-codes/racket-rivals"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "12MVISIT",
-   "reward": "Exclusive Rewards"
-  },
-  {
    "code": "DISCO2",
    "reward": "Exclusive Rewards"
   },
@@ -21,8 +17,12 @@
   {
    "code": "40KLIKE",
    "reward": "Freebies"
+  },
+  {
+   "code": "20KLIKE",
+   "reward": "Fireworks and Chicken Eggs"
   }
  ],
- "updated": "2026-09-06T06:21:12.442Z",
+ "updated": "2026-09-07T12:22:16.156Z",
  "source": "https://robloxden.com/game-codes/grow-an-egg"
 }

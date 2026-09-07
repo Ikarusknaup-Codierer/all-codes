@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SRRYRIMULE",
+   "reward": "1 Skill Reset"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "2 Double Power Potions , 2 Double Damage Potions , and 2 Lucky Potions"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "5 Premium Summons , 2 Double Power Potions , 2 Double Damage Potions ,"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "200 Diamonds , 5 Summons , 2 Double Power Potions , 2 Double Damage Po"
+  },
+  {
    "code": "UPDATE05",
    "reward": "200 Diamonds , 10 Summons , 2 Power Potions , 2 Damage Potions , 2 Coi"
   },
@@ -15,14 +31,14 @@
    "reward": "5 Summons , 2 Damage Potions , and 1 Golden Knight Chestplate"
   },
   {
-   "code": "5KCCU",
-   "reward": "200 Diamonds , 1 Double Damage Potion , 1 Double Coins Potion , 1 Luck"
+   "code": "BANNERFIXED",
+   "reward": "15 Summons and 5 Premium Summons"
   },
   {
    "code": "RELEASE",
    "reward": "50,000 Coins , 250 Diamonds , 10 Summons , 1 Double Damage Potion , 1 "
   }
  ],
- "updated": "2026-09-06T06:25:56.151Z",
+ "updated": "2026-09-07T12:26:29.674Z",
  "source": "https://robloxden.com/game-codes/anime-stars"
 }

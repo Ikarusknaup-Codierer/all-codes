@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Wonderful30k",
-   "reward": "2,500 Cash"
-  },
-  {
    "code": "Awesome25k",
    "reward": "Customer Speed (5 Minutes)"
+  },
+  {
+   "code": "Marvelous15k",
+   "reward": "Double Buff (5 Minutes)"
   },
   {
    "code": "Amazing2500",
@@ -27,6 +27,6 @@
    "reward": "Henry Staff Member"
   }
  ],
- "updated": "2026-09-06T12:28:20.267Z",
+ "updated": "2026-09-07T18:25:47.130Z",
  "source": "https://robloxden.com/game-codes/my-supermarket"
 }

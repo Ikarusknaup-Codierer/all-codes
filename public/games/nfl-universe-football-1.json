@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NFLPLAYERS",
+   "reward": "1 Pro Pack"
+  },
+  {
    "code": "FRESHPACK",
    "reward": "1 Play Maker Pack"
   },
@@ -35,6 +39,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-09-06T12:22:17.021Z",
+ "updated": "2026-09-07T18:20:51.383Z",
  "source": "https://robloxden.com/game-codes/nfl-universe-football-1"
 }

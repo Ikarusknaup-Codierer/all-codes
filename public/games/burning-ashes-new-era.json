@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "!frozenpuritytrailer",
+   "reward": "Frozen Purity Trailer"
+  },
+  {
    "code": "!passivebyebye1",
    "reward": "Resets Current Passive"
   },
@@ -287,6 +291,6 @@
    "reward": "Teleport to the church"
   }
  ],
- "updated": "2026-09-06T12:21:00.428Z",
+ "updated": "2026-09-07T18:19:33.316Z",
  "source": "https://robloxden.com/game-codes/burning-ashes-new-era"
 }

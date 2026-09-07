@@ -7,52 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "fivespoke",
-   "reward": "Classic Style Five Spoke Rims"
-  },
-  {
-   "code": "RIA2026",
-   "reward": "Vanguard Rims and 25,000 Cash"
-  },
-  {
-   "code": "telamonbannedme",
-   "reward": "06 Studs Wraps , Modern Studs Wraps , and 09 Studs Wraps"
-  },
-  {
-   "code": "artemisii",
-   "reward": "New Aireless Tires"
-  },
-  {
-   "code": "525klikes",
-   "reward": "Off-Roading Sport Tires"
-  },
-  {
-   "code": "delayworld",
-   "reward": "55 Gold And 75K Cash"
-  },
-  {
-   "code": "goldenranches",
-   "reward": "100 Gold"
-  },
-  {
-   "code": "MEDALTV",
-   "reward": "Free Rims"
-  },
-  {
-   "code": "freeRims",
-   "reward": "R399 Rims"
-  },
-  {
-   "code": "500k",
-   "reward": "LUX 800 'Morikawa' Police Sedan"
-  },
-  {
    "code": "475k",
    "reward": "Tie Dye Wrap"
-  },
-  {
-   "code": "jp_imports",
-   "reward": "Katana Spoilers"
   },
   {
    "code": "elfevent",
@@ -107,6 +63,14 @@
    "reward": "Sparkle Time Wrap"
   },
   {
+   "code": "fivespoke",
+   "reward": "Classic Style Five Spoke Rims"
+  },
+  {
+   "code": "RIA2026",
+   "reward": "Vanguard Rims and 25,000 Cash"
+  },
+  {
    "code": "mustacheuquestion",
    "reward": "the Mustache Front Mod , 30,000 Cash , and the Formula Hazard Light Re"
   },
@@ -121,8 +85,44 @@
   {
    "code": "thankyoutaikyu",
    "reward": "Taikyu Stock Rims and TaikyuGTR Stock Rims"
+  },
+  {
+   "code": "telamonbannedme",
+   "reward": "06 Studs Wraps , Modern Studs Wraps , and 09 Studs Wraps"
+  },
+  {
+   "code": "artemisii",
+   "reward": "New Aireless Tires"
+  },
+  {
+   "code": "525klikes",
+   "reward": "Off-Roading Sport Tires"
+  },
+  {
+   "code": "delayworld",
+   "reward": "55 Gold And 75K Cash"
+  },
+  {
+   "code": "goldenranches",
+   "reward": "100 Gold"
+  },
+  {
+   "code": "MEDALTV",
+   "reward": "Free Rims"
+  },
+  {
+   "code": "freeRims",
+   "reward": "R399 Rims"
+  },
+  {
+   "code": "500k",
+   "reward": "LUX 800 'Morikawa' Police Sedan"
+  },
+  {
+   "code": "jp_imports",
+   "reward": "Katana Spoilers"
   }
  ],
- "updated": "2026-09-06T12:22:29.599Z",
+ "updated": "2026-09-07T18:21:03.970Z",
  "source": "https://robloxden.com/game-codes/drive-world"
 }

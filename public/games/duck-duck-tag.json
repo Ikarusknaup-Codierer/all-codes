@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "COMMUNITYUPD",
+   "reward": "Community Egg and Bread Boost"
+  },
+  {
    "code": "QUACKEDEGGS",
    "reward": "an Outfit Egg and +50% Bonus Bread"
   },
@@ -23,6 +27,6 @@
    "reward": "an Outfit Egg and +50% Bonus Bread"
   }
  ],
- "updated": "2026-09-06T18:18:51.176Z",
+ "updated": "2026-09-07T18:27:27.687Z",
  "source": "https://robloxden.com/game-codes/duck-duck-tag"
 }

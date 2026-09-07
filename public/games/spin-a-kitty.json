@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "coolcode",
+   "reward": "Gems and Dice"
+  },
+  {
    "code": "op2",
    "reward": "5M Cash , 50 Gems , and 10 Astral Dice"
   },
@@ -47,10 +51,6 @@
    "reward": "100 Cash and 10 Basic Dice"
   },
   {
-   "code": "freebie",
-   "reward": "3 Hacker Dice and 100 Gems"
-  },
-  {
    "code": "MACHINES",
    "reward": "350 Gems"
   },
@@ -69,10 +69,6 @@
   {
    "code": "LATEGAME",
    "reward": "10 Spectral Dice , 5 Nebular Dice , 3 Paradox Dice , and 25 Gems"
-  },
-  {
-   "code": "MAY23OP",
-   "reward": "1 Mirage Dice , 10 Mystical Dice , and 500,000 Cash"
   },
   {
    "code": "REALOPCODE",
@@ -95,18 +91,10 @@
    "reward": "$50,000, 125 Gems, and 10 Lunar Dice"
   },
   {
-   "code": "update",
-   "reward": "1,000 Gems"
-  },
-  {
    "code": "censil",
    "reward": "100 Astral Dice"
-  },
-  {
-   "code": "mrcat",
-   "reward": "5 Eternal Dice"
   }
  ],
- "updated": "2026-09-06T00:30:58.468Z",
+ "updated": "2026-09-07T06:26:14.428Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

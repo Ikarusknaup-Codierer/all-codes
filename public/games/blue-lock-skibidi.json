@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BACHIRA",
-   "reward": "40,000 Cash"
-  },
-  {
-   "code": "BEEEEEEEEEEEEEEEEEEEE",
-   "reward": "100,000 Cash"
-  },
-  {
    "code": "QOLUPDATE",
    "reward": "40,000 Cash"
   },
@@ -25,6 +17,14 @@
   {
    "code": "IAMAFISH",
    "reward": "20,000 Cash"
+  },
+  {
+   "code": "BACHIRA",
+   "reward": "40,000 Cash"
+  },
+  {
+   "code": "BEEEEEEEEEEEEEEEEEEEE",
+   "reward": "100,000 Cash"
   },
   {
    "code": "YUKIMIYA",
@@ -95,6 +95,6 @@
    "reward": "25k Cash"
   }
  ],
- "updated": "2026-09-06T00:31:48.497Z",
+ "updated": "2026-09-07T06:27:02.209Z",
  "source": "https://robloxden.com/game-codes/blue-lock-skibidi"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SHARKFUSION",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "SHARKS",
    "reward": "2 EXP Potions"
   },
@@ -371,6 +375,6 @@
    "reward": "1 Void Ticket"
   }
  ],
- "updated": "2026-09-06T00:29:41.143Z",
+ "updated": "2026-09-07T06:25:06.955Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

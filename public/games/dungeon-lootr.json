@@ -11,44 +11,8 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "BOSSRUSH",
-   "reward": "a Major Compensation Chest"
-  },
-  {
-   "code": "MOREEXP",
-   "reward": "a Buff Potion Bundle"
-  },
-  {
    "code": "800LIKES",
    "reward": "2 Random GM Blessing chests"
-  },
-  {
-   "code": "700FAV",
-   "reward": "2 Random GM Blessing chests, 2 Forge Stones, and 1 Reforge Stone"
-  },
-  {
-   "code": "BROKENARCHER",
-   "reward": "1 Major Compensation Chest"
-  },
-  {
-   "code": "1KLIKES",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "100KVISITS",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "JETSTREAM",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "PITY",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "LEVEL_50",
-   "reward": "a Reward"
   },
   {
    "code": "LEVEL_40",
@@ -57,20 +21,8 @@
   {
    "code": "LEVEL_30",
    "reward": "a Reward"
-  },
-  {
-   "code": "ARCHON",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "BETTERQOL",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "GROUP",
-   "reward": "25 Stars"
   }
  ],
- "updated": "2026-09-06T00:28:44.885Z",
+ "updated": "2026-09-07T06:24:17.100Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

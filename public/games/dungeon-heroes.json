@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PIRATESHIP",
-   "reward": "the Ghost Pirate Aura , 1 Gem Booster (1 Hour) , 1 Key Booster (6 Hour"
-  },
-  {
    "code": "LAGFIX",
    "reward": "4 Distilled Health Potions and 4 Potato Soups"
   },
@@ -29,6 +25,10 @@
   {
    "code": "FREEAURA",
    "reward": "Light Aura"
+  },
+  {
+   "code": "PIRATESHIP",
+   "reward": "the Ghost Pirate Aura , 1 Gem Booster (1 Hour) , 1 Key Booster (6 Hour"
   },
   {
    "code": "REAPER",
@@ -71,6 +71,6 @@
    "reward": "5 Distilled Health Potion and Sparkler Aura"
   }
  ],
- "updated": "2026-09-06T06:19:22.650Z",
+ "updated": "2026-09-07T06:30:20.051Z",
  "source": "https://robloxden.com/game-codes/dungeon-heroes"
 }

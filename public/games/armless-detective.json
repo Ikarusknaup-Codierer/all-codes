@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "70millionvisits",
-   "reward": "2 Random Crates and 70 Coins"
-  },
-  {
    "code": "crate",
    "reward": "1 Random Crate"
   },
@@ -43,6 +39,10 @@
    "reward": "a Summer Crate"
   },
   {
+   "code": "70millionvisits",
+   "reward": "2 Random Crates and 70 Coins"
+  },
+  {
    "code": "rtdcollab",
    "reward": "40 Player Points and 1x Suit Crate 1"
   },
@@ -55,6 +55,6 @@
    "reward": "2 Random Crates and 65 Coins"
   }
  ],
- "updated": "2026-09-06T00:32:16.258Z",
+ "updated": "2026-09-07T06:27:20.770Z",
  "source": "https://robloxden.com/game-codes/armless-detective"
 }

@@ -11,7 +11,11 @@
    "reward": "1,200 Cash"
   },
   {
-   "code": "JollySpitFire",
+   "code": "3KLIKES",
+   "reward": "$400"
+  },
+  {
+   "code": "Daniel",
    "reward": "$100"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "$300"
   },
   {
-   "code": "2KLIKES",
-   "reward": "$200"
-  },
-  {
    "code": "Rug3r",
    "reward": "$800"
   }
  ],
- "updated": "2026-09-06T00:31:45.813Z",
+ "updated": "2026-09-07T06:26:59.362Z",
  "source": "https://robloxden.com/game-codes/glare"
 }

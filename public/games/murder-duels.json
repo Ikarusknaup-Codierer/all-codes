@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "160KLIKES",
-   "reward": "1 Recruit Case"
-  },
-  {
    "code": "100MOG",
    "reward": "the Exclusive OG Knife"
-  },
-  {
-   "code": "80KLIKES",
-   "reward": "1 Recruit Case"
-  },
-  {
-   "code": "50KLIKES",
-   "reward": "1 Recruit Case"
   },
   {
    "code": "MATCHMAKINGDELAY",
@@ -32,6 +20,10 @@
   },
   {
    "code": "170KLIKES",
+   "reward": "1 Recruit Case"
+  },
+  {
+   "code": "160KLIKES",
    "reward": "1 Recruit Case"
   },
   {
@@ -57,8 +49,16 @@
   {
    "code": "90KLIKES",
    "reward": "a Recruit Case"
+  },
+  {
+   "code": "80KLIKES",
+   "reward": "1 Recruit Case"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "1 Recruit Case"
   }
  ],
- "updated": "2026-09-06T00:25:59.459Z",
+ "updated": "2026-09-07T06:22:24.353Z",
  "source": "https://robloxden.com/game-codes/murder-duels"
 }

@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "6KCOINS",
-   "reward": ""
-  },
-  {
-   "code": "1KPLAYERS",
-   "reward": ""
+   "code": "NEWMAP2",
+   "reward": "200,000 Coins"
   },
   {
    "code": "COINSBAG",
@@ -25,8 +21,12 @@
   {
    "code": "SLAYORNAY",
    "reward": "Reward"
+  },
+  {
+   "code": "FUN",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-09-06T00:31:31.397Z",
+ "updated": "2026-09-07T06:26:46.184Z",
  "source": "https://robloxden.com/game-codes/heroes-online-world"
 }

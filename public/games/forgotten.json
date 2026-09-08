@@ -11,10 +11,6 @@
    "reward": "100K Cash"
   },
   {
-   "code": "redlarva",
-   "reward": "a Red Larva Skin"
-  },
-  {
    "code": "1mil",
    "reward": "1,000,000 Cash"
   },
@@ -37,6 +33,10 @@
   {
    "code": "balancing",
    "reward": "Freebies"
+  },
+  {
+   "code": "redlarva",
+   "reward": "a Red Larva Skin"
   },
   {
    "code": "mastery",
@@ -63,6 +63,6 @@
    "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-09-07T12:22:09.079Z",
+ "updated": "2026-09-08T18:19:16.616Z",
  "source": "https://robloxden.com/game-codes/forgotten"
 }

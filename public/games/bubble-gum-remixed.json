@@ -79,14 +79,14 @@
    "reward": "Faster Egg Hatching Boost (12 hours) , Increased Luck Boost (12 hours)"
   },
   {
-   "code": "Release",
-   "reward": "Faster Egg Hatching Boost (10 hours) , Increased Luck Boost (10 hours)"
-  },
-  {
    "code": "Harvest",
    "reward": "Faster Egg Hatching Boost (24 hours) , Increased Luck Boost (24 hours)"
+  },
+  {
+   "code": "MEGACODE",
+   "reward": "Faster Egg Hatching Boost (252 hours) , Increased Luck Boost (252 hour"
   }
  ],
- "updated": "2026-09-07T12:27:57.672Z",
+ "updated": "2026-09-08T18:24:46.098Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-remixed"
 }

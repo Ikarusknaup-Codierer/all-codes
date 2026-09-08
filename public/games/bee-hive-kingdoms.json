@@ -107,10 +107,14 @@
    "reward": "1,000 Honey , 1 Sapphire Egg and 1 Cupcake"
   },
   {
-   "code": "BigHoney",
+   "code": "OutofCandy",
+   "reward": "Haste , the Cupcake , the Fruit Punch , and 17 Candy"
+  },
+  {
+   "code": "10KGroup",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-07T12:22:43.114Z",
+ "updated": "2026-09-08T18:19:39.561Z",
  "source": "https://robloxden.com/game-codes/bee-hive-kingdoms"
 }

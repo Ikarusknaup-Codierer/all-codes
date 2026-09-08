@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "20KMEMBERS",
-   "reward": "2 Acceleration Boost"
+   "code": "3KLIKES",
+   "reward": "3 Triple Wins Boost"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "3 Auto Click Boost"
   },
   {
    "code": "5KLIKES",
-   "reward": "a Triple Win Boost"
-  },
-  {
-   "code": "10KFAVORITES",
    "reward": "a Triple Win Boost"
   },
   {
@@ -23,10 +23,10 @@
    "reward": "3 Triple Win Boost"
   },
   {
-   "code": "10MVISITS",
-   "reward": "3 Auto Click Boost"
+   "code": "20KFAVORITES",
+   "reward": "2 Acceleration Boost"
   }
  ],
- "updated": "2026-09-07T12:24:54.027Z",
+ "updated": "2026-09-08T18:21:45.560Z",
  "source": "https://robloxden.com/game-codes/motorcycle-race"
 }

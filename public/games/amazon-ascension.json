@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
+   "code": "UPDATE",
    "reward": "Free Rewards"
   },
   {
-   "code": "DeltaMaxmus",
+   "code": "Metynnis",
+   "reward": "400 Silver Dollars"
+  },
+  {
+   "code": "Pirarucu",
+   "reward": "400 Silver Dollars"
+  },
+  {
+   "code": "Ayoub",
    "reward": "400 Silver Dollars"
   }
  ],
- "updated": "2026-09-07T12:27:09.674Z",
+ "updated": "2026-09-08T18:23:59.854Z",
  "source": "https://robloxden.com/game-codes/amazon-ascension"
 }

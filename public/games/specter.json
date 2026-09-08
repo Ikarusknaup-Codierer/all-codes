@@ -35,10 +35,6 @@
    "reward": "50k Cash"
   },
   {
-   "code": "500M",
-   "reward": "50k Cash"
-  },
-  {
    "code": "TRID3NT",
    "reward": "3 Vault Tokens , an Exclusive Outfit , and a Motion Sensor"
   },
@@ -85,8 +81,12 @@
   {
    "code": "EASTER2025",
    "reward": "an Exclusive Outfit and 5 Vault Tokens"
+  },
+  {
+   "code": "500M",
+   "reward": "50k Cash"
   }
  ],
- "updated": "2026-09-07T12:23:22.652Z",
+ "updated": "2026-09-08T18:20:15.420Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

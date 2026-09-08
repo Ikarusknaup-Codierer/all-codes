@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "PERFORMANCE",
+   "reward": "2 Luck Potion (10 Minutes) , 2 2x Damage Potions (10 Minutes) , 2 2x P"
+  },
+  {
+   "code": "4KLIKES",
+   "reward": "3 Wood Chest , 2 Ninja Chest , 2 Vital Beans , 2 Luck Potion (10 Minut"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "2 Wood Chests , 2 Capsule Chests , 2 Ninja Chests , 2 2x Damage Potion"
+  },
+  {
    "code": "SRRYRIMULE",
    "reward": "1 Skill Reset"
   },
@@ -31,14 +43,14 @@
    "reward": "5 Summons , 2 Damage Potions , and 1 Golden Knight Chestplate"
   },
   {
-   "code": "BANNERFIXED",
-   "reward": "15 Summons and 5 Premium Summons"
+   "code": "5KCCU",
+   "reward": "200 Diamonds , 1 Double Damage Potion , 1 Double Coins Potion , 1 Luck"
   },
   {
    "code": "RELEASE",
    "reward": "50,000 Coins , 250 Diamonds , 10 Summons , 1 Double Damage Potion , 1 "
   }
  ],
- "updated": "2026-09-07T12:26:29.674Z",
+ "updated": "2026-09-08T18:23:20.576Z",
  "source": "https://robloxden.com/game-codes/anime-stars"
 }

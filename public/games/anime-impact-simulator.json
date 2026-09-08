@@ -19,14 +19,14 @@
    "reward": "3 3x Mana Boosts"
   },
   {
-   "code": "500LIKE",
-   "reward": "3x Train"
+   "code": "DELAYEDUPDATE",
+   "reward": "a 3x Mana Boost"
   },
   {
-   "code": "RELEASE",
-   "reward": "500 Energy"
+   "code": "FIRSTUPDATE",
+   "reward": "a 3x Mana Boost"
   }
  ],
- "updated": "2026-09-06T18:19:20.216Z",
+ "updated": "2026-09-08T00:26:23.032Z",
  "source": "https://robloxden.com/game-codes/anime-impact-simulator"
 }

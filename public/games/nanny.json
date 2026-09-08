@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "IwantCASH!",
+   "reward": "250 Cash"
+  },
+  {
    "code": "NewUpdate!",
    "reward": "500 Cash"
   },
@@ -21,12 +25,8 @@
   {
    "code": "50klikes",
    "reward": "250 Cash"
-  },
-  {
-   "code": "IwantCASH!",
-   "reward": "250 Cash"
   }
  ],
- "updated": "2026-09-06T18:20:03.001Z",
+ "updated": "2026-09-08T00:27:07.713Z",
  "source": "https://robloxden.com/game-codes/nanny"
 }

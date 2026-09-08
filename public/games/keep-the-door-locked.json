@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ENDING5",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "NEWUISOON",
+   "reward": "5,000 Cash"
+  },
+  {
    "code": "BLOODMOON",
    "reward": "10,000 Cash and a Jumpscare Token"
   },
@@ -15,10 +23,14 @@
    "reward": "1,000 Cash"
   },
   {
-   "code": "ROOM!",
-   "reward": "3,500 Cash"
+   "code": "BLOODMOON!",
+   "reward": "10,000 Cash and 1 Jumpscare Token"
+  },
+  {
+   "code": "FREECASH",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-09-06T18:22:44.146Z",
+ "updated": "2026-09-08T00:30:02.360Z",
  "source": "https://robloxden.com/game-codes/keep-the-door-locked"
 }

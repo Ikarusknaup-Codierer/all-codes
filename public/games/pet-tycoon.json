@@ -47,14 +47,14 @@
    "reward": "150 Diamonds"
   },
   {
-   "code": "Pig",
-   "reward": "Pig Pet"
-  },
-  {
    "code": "BOOP",
    "reward": "2x Exp Boost (15 minutes)"
+  },
+  {
+   "code": "BLING",
+   "reward": "2x Diamonds Boost (10 minutes)"
   }
  ],
- "updated": "2026-09-06T18:21:37.412Z",
+ "updated": "2026-09-08T00:28:50.315Z",
  "source": "https://robloxden.com/game-codes/pet-tycoon"
 }

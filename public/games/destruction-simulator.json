@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "freebee",
-   "reward": "2,500 Coins"
-  },
-  {
    "code": "turkeytime",
    "reward": "48 Hour X2 XP Boost"
   },
   {
-   "code": "2500CODE",
-   "reward": "100 Diamonds"
+   "code": "UPDATE4",
+   "reward": "Free Diamonds"
   },
   {
    "code": "1000LIKES",
@@ -25,8 +21,12 @@
   {
    "code": "UPDATE3",
    "reward": "Free Diamonds"
+  },
+  {
+   "code": "DIAMOND",
+   "reward": "a Double Bricks Boost for 10 Minutes"
   }
  ],
- "updated": "2026-09-06T18:24:38.112Z",
+ "updated": "2026-09-08T00:32:29.036Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

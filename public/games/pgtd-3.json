@@ -11,12 +11,8 @@
    "reward": "$25,000 of Doubled Money"
   },
   {
-   "code": "2500Likes",
-   "reward": "2,000 Money"
-  },
-  {
-   "code": "ThousandChads",
-   "reward": "Reward"
+   "code": "14KLIKES",
+   "reward": "50 Upgrade Tokens"
   },
   {
    "code": "GoldRushMillion",
@@ -25,8 +21,12 @@
   {
    "code": "10000Likes",
    "reward": "50 Upgrade Tokens"
+  },
+  {
+   "code": "RegenJumpscare",
+   "reward": "40 Stars"
   }
  ],
- "updated": "2026-09-06T18:17:22.920Z",
+ "updated": "2026-09-08T00:25:20.226Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "250KVISIT",
+   "reward": "2 Crates and 1 Potion"
+  },
+  {
    "code": "200KVISIT",
    "reward": "2 Crates and a Luck Potion"
   },
@@ -15,6 +19,6 @@
    "reward": "a Crate and 2 Luck Potions"
   }
  ],
- "updated": "2026-09-06T18:22:46.321Z",
+ "updated": "2026-09-08T00:30:04.975Z",
  "source": "https://robloxden.com/game-codes/cliqueur-danime-waifu"
 }

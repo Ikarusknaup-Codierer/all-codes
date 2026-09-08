@@ -27,14 +27,14 @@
    "reward": "Free Rolls"
   },
   {
-   "code": "SecondChance",
-   "reward": "A Skill Points Reset"
+   "code": "resetpts1",
+   "reward": "Reset Your Skill Points"
   },
   {
-   "code": "resetstats",
-   "reward": "Reset Your Stats"
+   "code": "SummonMaster",
+   "reward": "10 Spirit Spins"
   }
  ],
- "updated": "2026-09-06T18:24:24.923Z",
+ "updated": "2026-09-08T00:32:13.503Z",
  "source": "https://robloxden.com/game-codes/anime-battle-simulator"
 }

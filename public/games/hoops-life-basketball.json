@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Season3",
-   "reward": "150 Coins"
-  },
-  {
    "code": "Skeletorangel",
    "reward": "250 Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "GreenVFX",
    "reward": "250 Coins"
+  },
+  {
+   "code": "50XP",
+   "reward": "50 EXP"
   }
  ],
- "updated": "2026-09-06T18:19:12.870Z",
+ "updated": "2026-09-08T00:26:15.984Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

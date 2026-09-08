@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TIME",
+   "reward": "3 Wheel Spins"
+  },
+  {
+   "code": "AFK",
+   "reward": "5 Soul Points"
+  },
+  {
    "code": "SOON",
    "reward": "5 Soul Points"
   },
@@ -23,6 +31,6 @@
    "reward": "5 Soul Points"
   }
  ],
- "updated": "2026-09-06T18:23:58.670Z",
+ "updated": "2026-09-08T00:31:36.520Z",
  "source": "https://robloxden.com/game-codes/soul-element-battlegrounds"
 }

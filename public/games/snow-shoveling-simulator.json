@@ -11,18 +11,18 @@
    "reward": "$500"
   },
   {
+   "code": "AFlyingAnt",
+   "reward": "Ant’s Parrot"
+  },
+  {
    "code": "DiamondSnow",
    "reward": "Diamond Frosty"
   },
   {
-   "code": "GimmieIce!",
-   "reward": "100 Ice"
-  },
-  {
-   "code": "40m",
-   "reward": "$4,000"
+   "code": "15mVisits",
+   "reward": "$1,500 money"
   }
  ],
- "updated": "2026-09-06T18:18:45.570Z",
+ "updated": "2026-09-08T00:25:55.002Z",
  "source": "https://robloxden.com/game-codes/snow-shoveling-simulator"
 }

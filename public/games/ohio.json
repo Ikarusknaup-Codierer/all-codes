@@ -11,12 +11,8 @@
    "reward": "Helicopter Keys"
   },
   {
-   "code": "MYSTIC",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "CRAFT",
-   "reward": "5,000 Cash and Weapon Parts"
+   "code": "WINTER",
+   "reward": "$5,000"
   },
   {
    "code": "RICHINOHIO",
@@ -25,8 +21,12 @@
   {
    "code": "GEM",
    "reward": "5,000 Cash"
+  },
+  {
+   "code": "30M",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-09-06T18:19:16.081Z",
+ "updated": "2026-09-08T00:26:19.707Z",
  "source": "https://robloxden.com/game-codes/ohio"
 }

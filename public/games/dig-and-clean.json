@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE3",
+   "reward": "2x Luck (30 Minutes)"
+  },
+  {
    "code": "UPDATE2",
    "reward": "5 Instant Cleans"
   },
@@ -19,6 +23,6 @@
    "reward": "10x Luck (10 Minutes)"
   }
  ],
- "updated": "2026-09-07T00:30:08.974Z",
+ "updated": "2026-09-08T00:39:15.671Z",
  "source": "https://robloxden.com/game-codes/dig-and-clean"
 }

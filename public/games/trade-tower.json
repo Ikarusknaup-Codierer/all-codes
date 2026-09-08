@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "17klikes!",
-   "reward": "some freebies"
-  },
-  {
    "code": "22klikes!",
-   "reward": "Reward"
-  },
-  {
-   "code": "14klikes",
    "reward": "Reward"
   },
   {
@@ -23,10 +15,18 @@
    "reward": "Reward"
   },
   {
+   "code": "17KLIKES",
+   "reward": "the Guardian of Earth Hat"
+  },
+  {
    "code": "8MVISITS",
    "reward": "the Red Baseball Cap"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "the Friendly Fedora"
   }
  ],
- "updated": "2026-09-06T18:18:59.557Z",
+ "updated": "2026-09-08T00:26:05.685Z",
  "source": "https://robloxden.com/game-codes/trade-tower"
 }

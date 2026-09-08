@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "update8",
+   "reward": "x5 Cash Boost (10m)"
+  },
+  {
+   "code": "plsbesttier",
+   "reward": "1 Basic Lucky Block"
+  },
+  {
    "code": "adminarbuz",
    "reward": "970K Cash"
   },
@@ -47,6 +55,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-09-07T00:25:53.200Z",
+ "updated": "2026-09-08T00:35:13.164Z",
  "source": "https://robloxden.com/game-codes/chicken-farm"
 }

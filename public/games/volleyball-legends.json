@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE_84",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "SEASON_18",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "PIRATE_SZN",
+   "reward": "5 Lucky Ability Spins"
+  },
+  {
    "code": "MIKAGE_REVIVED",
    "reward": "5 Lucky Style Spins"
   },
@@ -67,6 +79,6 @@
    "reward": "5 Lucky Ability Spins"
   }
  ],
- "updated": "2026-09-06T18:22:41.290Z",
+ "updated": "2026-09-08T00:29:59.458Z",
  "source": "https://robloxden.com/game-codes/volleyball-legends"
 }

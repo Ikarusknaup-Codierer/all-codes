@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "300MVISITS",
+   "reward": "1 Speed Potion (1 Hour)"
+  },
+  {
+   "code": "1MCCU",
+   "reward": "1 Win Potion (1 Hour)"
+  },
+  {
    "code": "100MVISITS",
    "reward": "a 2x Win Potion (30 Minutes)"
   },
@@ -23,14 +31,10 @@
    "reward": "a 2x Speed Potion (30 Minutes)"
   },
   {
-   "code": "50MVISITS",
-   "reward": "2x Win Potion (10 Minutes) and 2x Speed Potion(10 Minutes)"
-  },
-  {
    "code": "CODESYAY",
    "reward": "1 Spin"
   }
  ],
- "updated": "2026-09-07T00:25:52.242Z",
+ "updated": "2026-09-08T00:35:12.003Z",
  "source": "https://robloxden.com/game-codes/speed-monkey-escape"
 }

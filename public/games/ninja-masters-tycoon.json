@@ -15,18 +15,18 @@
    "reward": "500 Coins and 10 Gems"
   },
   {
-   "code": "3MVISITS",
+   "code": "update3EXP",
+   "reward": "1000 EXP"
+  },
+  {
+   "code": "Update11",
    "reward": "Special Rewards"
   },
   {
-   "code": "update",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "Vehicles",
-   "reward": ""
+   "code": "3MVISITS",
+   "reward": "Special Rewards"
   }
  ],
- "updated": "2026-09-06T18:19:08.973Z",
+ "updated": "2026-09-08T00:26:12.717Z",
  "source": "https://robloxden.com/game-codes/ninja-masters-tycoon"
 }

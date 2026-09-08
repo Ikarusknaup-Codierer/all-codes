@@ -271,14 +271,10 @@
    "reward": "1 +3 Speed Boost"
   },
   {
-   "code": "UPDATE4",
-   "reward": "1 +1 Energy Boost"
-  },
-  {
-   "code": "EZ10K",
+   "code": "MORECHANCE",
    "reward": "1 +1 Speed Boost"
   }
  ],
- "updated": "2026-09-06T18:20:15.035Z",
+ "updated": "2026-09-08T00:27:19.758Z",
  "source": "https://robloxden.com/game-codes/speedman-simulator"
 }

@@ -7,6 +7,62 @@
    "reward": "Description"
   },
   {
+   "code": "ARTIFACT",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "TOWER",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "57KFAVS",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "56KFAVS",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "55KFAVS",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "54KFAVS",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "53KFAVS",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "52KFAVS",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "51KFAVS",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "BLEACHUPDATE",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "BUGSFIXES",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "11KLIKES",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
    "code": "sorryforupdshutdowns",
    "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
   },
@@ -259,6 +315,6 @@
    "reward": "an Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , "
   }
  ],
- "updated": "2026-09-06T18:19:26.404Z",
+ "updated": "2026-09-08T00:26:30.847Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

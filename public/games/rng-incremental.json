@@ -27,14 +27,14 @@
    "reward": "2 Coin Potions and 2 Luck Potions"
   },
   {
-   "code": "AETHER",
-   "reward": "2,500 Scrolls"
-  },
-  {
    "code": "20KVISITS",
    "reward": "1 of Every Potion"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "1 Of Every Potion"
   }
  ],
- "updated": "2026-09-07T00:26:24.571Z",
+ "updated": "2026-09-08T06:20:23.490Z",
  "source": "https://robloxden.com/game-codes/rng-incremental"
 }

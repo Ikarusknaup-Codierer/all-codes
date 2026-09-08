@@ -43,6 +43,10 @@
    "reward": "x5 Soul Force (1 hour)"
   },
   {
+   "code": "another",
+   "reward": "x10 Ninjutsu Boost (15 Minutes), x5 Ninjutsu Boost (15 Minutes), x2 Ni"
+  },
+  {
    "code": "SOMETHING",
    "reward": "x10 Ninjutsu (1h) , x10 Soul Force (15m) , Auto Train (1h) , Auto Upgr"
   },
@@ -55,6 +59,6 @@
    "reward": "1 Hour Auto Train, 1 Hour Auto Upgrade, 15-Minute All Boost and 100 Bu"
   }
  ],
- "updated": "2026-09-07T00:27:23.868Z",
+ "updated": "2026-09-08T06:21:15.498Z",
  "source": "https://robloxden.com/game-codes/1-op-ninja"
 }

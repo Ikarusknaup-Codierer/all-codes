@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE9",
+   "reward": "1,000 Crystals and 1 Blessed Roll"
+  },
+  {
    "code": "UPDATE8",
    "reward": "1,000 Crystals and 1 Blessed Roll"
   },
@@ -99,6 +103,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-09-07T00:28:16.321Z",
+ "updated": "2026-09-08T06:22:02.278Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

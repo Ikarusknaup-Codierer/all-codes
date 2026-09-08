@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD5",
+   "reward": "2x Mega Potions"
+  },
+  {
+   "code": "FULLSTEAM",
+   "reward": "a Void Alarm Clock"
+  },
+  {
    "code": "Champion",
    "reward": "1 Huge Trophy"
   },
@@ -31,6 +39,6 @@
    "reward": "5x Luck (10 Minutes)"
   }
  ],
- "updated": "2026-09-07T00:25:36.145Z",
+ "updated": "2026-09-08T06:20:07.317Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

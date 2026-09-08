@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "RAGINGSTARR",
+   "reward": "100,000 XP , 100,000 Yen , 40 Rokakaka , and 2 Mythical Giftboxes"
+  },
+  {
+   "code": "PAPITIO",
+   "reward": "100,000 XP , 100,000 Yen , 50 Stand Arrows , and 40 Rokakaka"
+  },
+  {
+   "code": "VFXWOO",
+   "reward": "100,000 XP , 100,000 Yen , 25 Saint's Corpse Parts , and 25 Strange Ar"
+  },
+  {
+   "code": "BLACKSABBATH",
+   "reward": "100,000 XP , 100,000 Yen , 25 Saint's Corpse Parts , and 3 Mythical Gi"
+  },
+  {
+   "code": "SOULSHRINE",
+   "reward": "100,000 XP , 100,000 Yen , 50 Stand Arrows , and 50 Rokakaka"
+  },
+  {
    "code": "LESDIABOLIQUE",
    "reward": "100,000 XP , 100,000 Yen , 50 Stand Arrows , and 50 Rokakaka"
   },
@@ -115,14 +135,14 @@
    "reward": "1 Stand Arrow , 2,500 XP , and 1,000 Yen"
   },
   {
-   "code": "GOTTACOLLECTEMALL",
-   "reward": "Misc. Rewards"
+   "code": "100LIKES",
+   "reward": "1 Stand Arrow and 1 Rokakaka"
   },
   {
-   "code": "35KVISITS",
-   "reward": "35 Stand Arrows and 35 Rokakaka"
+   "code": "400LIKES",
+   "reward": "4 Stand Arrows and 4 Rokakakas"
   }
  ],
- "updated": "2026-09-07T00:32:07.534Z",
+ "updated": "2026-09-08T06:24:35.102Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

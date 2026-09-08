@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SOULS",
+   "reward": "15 All Potions"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "30 Jade"
+  },
+  {
    "code": "DUNGEONSREVAMP",
    "reward": "20 Jade"
   },
@@ -259,6 +267,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-09-07T06:23:24.556Z",
+ "updated": "2026-09-08T06:27:33.542Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

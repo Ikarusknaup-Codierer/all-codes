@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "CROSSBREED",
-   "reward": "Freebies"
-  },
-  {
    "code": "BARNABY",
-   "reward": "Freebies"
-  },
-  {
-   "code": "WHISPERINGROOTS",
    "reward": "Freebies"
   },
   {
@@ -23,10 +15,18 @@
    "reward": "Freebies"
   },
   {
+   "code": "MFP2026",
+   "reward": "25 Hexadrops"
+  },
+  {
+   "code": "MERRYFROGMAS",
+   "reward": "50 Hexadrops"
+  },
+  {
    "code": "20KLIKES",
    "reward": "120,000 Ribbles"
   }
  ],
- "updated": "2026-09-07T00:34:21.552Z",
+ "updated": "2026-09-08T06:26:06.779Z",
  "source": "https://robloxden.com/game-codes/my-frog-pond"
 }

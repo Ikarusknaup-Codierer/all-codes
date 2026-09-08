@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "sunnycitrus",
-   "reward": "the Orange Sunrise Effect"
-  },
-  {
    "code": "maplesyrup",
    "reward": "the Maple Leaves Effect"
   },
@@ -23,10 +19,14 @@
    "reward": "Leaves Effect"
   },
   {
+   "code": "newinvention",
+   "reward": "the Inventor Title"
+  },
+  {
    "code": "EpicYear2026",
    "reward": "New Year’s Kitty Pet"
   }
  ],
- "updated": "2026-09-06T18:26:13.199Z",
+ "updated": "2026-09-08T06:19:56.789Z",
  "source": "https://robloxden.com/game-codes/epic-minigames"
 }

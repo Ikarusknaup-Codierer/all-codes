@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "GUTSANDDELAY",
+   "reward": "80 Gear Lucky Spin , 100 Weapon Lucky Spin , 1M Gold , 100 Runes , 55 "
+  },
+  {
    "code": "GOKUBLACK",
    "reward": "50 Raid Tickets , 100 Runes , 50 Lucky Weapon Spins , and 500,000 Gold"
   },
@@ -167,6 +171,6 @@
    "reward": "50 Runes"
   }
  ],
- "updated": "2026-09-07T00:35:04.132Z",
+ "updated": "2026-09-08T06:26:23.682Z",
  "source": "https://robloxden.com/game-codes/anime-final-quest"
 }

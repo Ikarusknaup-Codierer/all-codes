@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "ADMINABUSE",
-   "reward": "10 Daily Wheel Spins"
-  },
-  {
    "code": "ILIKEGEMS",
    "reward": "5,000 Gems"
   },
   {
    "code": "BIGBITE",
    "reward": "2,500 Gems"
+  },
+  {
+   "code": "ADMINABUSE",
+   "reward": "10 Daily Wheel Spins"
   },
   {
    "code": "GRADING",
@@ -27,6 +27,6 @@
    "reward": "Freebies"
   }
  ],
- "updated": "2026-09-07T00:31:06.204Z",
+ "updated": "2026-09-08T06:23:57.370Z",
  "source": "https://robloxden.com/game-codes/spin-anime-cards"
 }

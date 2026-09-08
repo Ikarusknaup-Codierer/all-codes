@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "voodoo",
-   "reward": "5,000 Coins"
-  },
-  {
    "code": "cleopatra",
    "reward": "3K Coins"
+  },
+  {
+   "code": "voodoo",
+   "reward": "5,000 Coins"
   },
   {
    "code": "thankyou",
@@ -27,6 +27,6 @@
    "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-09-07T12:20:19.517Z",
+ "updated": "2026-09-08T12:27:55.463Z",
  "source": "https://robloxden.com/game-codes/majika"
 }

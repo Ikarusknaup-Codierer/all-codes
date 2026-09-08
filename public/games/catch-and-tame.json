@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CLOUDUPDATE",
+   "reward": "10 Cloudberries"
+  },
+  {
    "code": "PLUSHIECODE",
    "reward": "10 Cookie Buttons"
   },
@@ -47,6 +51,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-09-07T06:24:24.664Z",
+ "updated": "2026-09-08T12:21:38.702Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

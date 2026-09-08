@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HUBUPDATE",
+   "reward": "200 Shards"
+  },
+  {
    "code": "BLINKYFISH",
    "reward": "the Blinky Mascot Companion"
   },
@@ -71,14 +75,10 @@
    "reward": "1 Spin"
   },
   {
-   "code": "2XSOULSDROP",
-   "reward": "3 2x Souls Boosts"
-  },
-  {
-   "code": "WEEKENDSPINS2",
-   "reward": "2 Spins"
+   "code": "QUICK25",
+   "reward": "25 Shards"
   }
  ],
- "updated": "2026-09-07T06:26:50.249Z",
+ "updated": "2026-09-08T12:24:05.453Z",
  "source": "https://robloxden.com/game-codes/faith-incremental"
 }

@@ -11,18 +11,22 @@
    "reward": "5,000 Universal Coins"
   },
   {
-   "code": "SorryForTheWait",
+   "code": "WeAreSorry!",
    "reward": "10,000 Universal Coins"
+  },
+  {
+   "code": "Advent24",
+   "reward": "2,000 Universal Coins"
+  },
+  {
+   "code": "FINALLYUPDATE",
+   "reward": "300 Universal"
   },
   {
    "code": "NEWMAP",
    "reward": "250 Universal"
-  },
-  {
-   "code": "SORRYFORBEINGSTUPID",
-   "reward": "2,000 Universal"
   }
  ],
- "updated": "2026-09-07T12:21:48.123Z",
+ "updated": "2026-09-08T12:29:04.648Z",
  "source": "https://robloxden.com/game-codes/spts-return-of-the-reaper"
 }

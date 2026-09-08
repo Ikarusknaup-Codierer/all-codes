@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "COMEBACK",
-   "reward": "1 Spin And 3,000 Coins"
+   "code": "20KFAVORITES",
+   "reward": "1 Sports Box"
   },
   {
-   "code": "HEDGEHOG",
+   "code": "SMALLUPDATE",
+   "reward": "1,000 Coins and 2 Sports Boxes"
+  },
+  {
+   "code": "THANKSFORPLAYING",
+   "reward": "1 Sports Box"
+  },
+  {
+   "code": "CLAIMASAP",
    "reward": "1,000 Coins"
   },
   {
-   "code": "5MVISITS",
-   "reward": "1,000 Coins"
-  },
-  {
-   "code": "5KCCU",
-   "reward": "1 Galaxy Box"
-  },
-  {
-   "code": "THANKSFOR15K",
-   "reward": "1 Sports Box and 750 Coins"
+   "code": "7KINTERESTED",
+   "reward": "2 Summer Boxes"
   }
  ],
- "updated": "2026-09-07T06:29:24.692Z",
+ "updated": "2026-09-08T12:26:38.682Z",
  "source": "https://robloxden.com/game-codes/soccer-one-touch"
 }

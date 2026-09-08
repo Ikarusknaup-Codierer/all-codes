@@ -11,10 +11,6 @@
    "reward": "1 Rebirth"
   },
   {
-   "code": "Barrel",
-   "reward": "1 Rebirth and 1 Barrel"
-  },
-  {
    "code": "NOLONGERHALLOWEEN",
    "reward": "2,000,000 Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "TYCOON",
    "reward": "3 Rebirths"
+  },
+  {
+   "code": "QOLUPD",
+   "reward": "40,000 Cash"
   }
  ],
- "updated": "2026-09-07T12:22:10.066Z",
+ "updated": "2026-09-08T12:29:27.461Z",
  "source": "https://robloxden.com/game-codes/breaking-bad-tycoon"
 }

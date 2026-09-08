@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "tinyupdate",
-   "reward": "10 Gold"
-  },
-  {
    "code": "updatefinally",
    "reward": "5 Gold"
   },
@@ -29,10 +25,6 @@
   {
    "code": "delayoops",
    "reward": "5 Gold"
-  },
-  {
-   "code": "76249183",
-   "reward": "Freebies"
   },
   {
    "code": "5kccu",
@@ -59,10 +51,18 @@
    "reward": "5 Gold"
   },
   {
+   "code": "tinyupdate",
+   "reward": "10 Gold"
+  },
+  {
    "code": "20klikes",
    "reward": "15 Gold"
+  },
+  {
+   "code": "76249183",
+   "reward": "Freebies"
   }
  ],
- "updated": "2026-09-07T06:24:23.156Z",
+ "updated": "2026-09-08T12:21:37.184Z",
  "source": "https://robloxden.com/game-codes/dropper-incremental"
 }

@@ -7,22 +7,14 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "800LIKES",
    "reward": "2 Random GM Blessing chests"
   },
   {
-   "code": "LEVEL_40",
-   "reward": "a Reward"
-  },
-  {
-   "code": "LEVEL_30",
-   "reward": "a Reward"
+   "code": "RELEASE",
+   "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-09-07T06:24:17.100Z",
+ "updated": "2026-09-08T12:21:31.608Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

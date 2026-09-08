@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "REVAMP2026",
+   "reward": "15,000 Cash"
+  },
+  {
    "code": "BIGUPDATE",
    "reward": "$5,000 Cash"
   },
@@ -17,10 +21,6 @@
   {
    "code": "60KLIKES",
    "reward": "$2,500"
-  },
-  {
-   "code": "60MVISITS",
-   "reward": "$5,000"
   },
   {
    "code": "PATCH",
@@ -67,6 +67,6 @@
    "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-09-07T06:25:53.634Z",
+ "updated": "2026-09-08T12:23:05.175Z",
  "source": "https://robloxden.com/game-codes/ride-storm"
 }

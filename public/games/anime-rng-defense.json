@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORSHUTDOWN10",
+   "reward": "2,500 Crystals , 3 Divine Rolls , and 2 Limit Breakers"
+  },
+  {
+   "code": "BATTLEPASS",
+   "reward": "Cursed Fingers and Divine Rerolls . You need at least 100,000 Rolls to"
+  },
+  {
+   "code": "PUBLICSAFETYHQ",
+   "reward": "50 Crystals"
+  },
+  {
    "code": "UPDATE9",
    "reward": "1,000 Crystals and 1 Blessed Roll"
   },
@@ -103,6 +115,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-09-08T06:22:02.278Z",
+ "updated": "2026-09-09T12:21:52.991Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

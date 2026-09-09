@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "truelabupdate",
+   "reward": "100 Gems and 350 Coins"
+  },
+  {
+   "code": "fixesnqols",
+   "reward": "250 Gold and 50 Gems"
+  },
+  {
+   "code": "snowdinupdate",
+   "reward": "100 Gems and 350 Gold"
+  },
+  {
+   "code": "frozensans",
+   "reward": "75 Gems and 250 Gold"
+  },
+  {
+   "code": "1mvisits",
+   "reward": "200 Gems and 250 Coins"
+  },
+  {
    "code": "sorryforthetroubles",
    "reward": "250 Gold and 200 Gems"
   },
@@ -27,6 +47,6 @@
    "reward": "25 Gems"
   }
  ],
- "updated": "2026-09-08T06:21:28.132Z",
+ "updated": "2026-09-09T12:21:14.189Z",
  "source": "https://robloxden.com/game-codes/undertale-shattered-realms-rpg"
 }

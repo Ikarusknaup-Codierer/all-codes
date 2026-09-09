@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NEWBLACKHOLES",
+   "reward": "5 Holes , 7 Spin Tickets , and 2x Hole Spawns (5 Minutes)"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "7 Stars"
+  },
+  {
    "code": "Sorry4Delay",
    "reward": "7 Stars and 10 Spin Tickets"
   },
@@ -43,6 +51,6 @@
    "reward": "3 Spin Tickets"
   }
  ],
- "updated": "2026-09-08T06:21:57.826Z",
+ "updated": "2026-09-09T12:21:48.085Z",
  "source": "https://robloxden.com/game-codes/merge-a-black-hole"
 }

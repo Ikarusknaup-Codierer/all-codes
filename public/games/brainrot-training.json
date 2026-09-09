@@ -31,10 +31,14 @@
    "reward": "1 Egg"
   },
   {
-   "code": "1KLIKES",
+   "code": "5KLIKES",
+   "reward": ""
+  },
+  {
+   "code": "updateone",
    "reward": ""
   }
  ],
- "updated": "2026-09-08T06:25:24.664Z",
+ "updated": "2026-09-09T12:25:41.204Z",
  "source": "https://robloxden.com/game-codes/brainrot-training"
 }

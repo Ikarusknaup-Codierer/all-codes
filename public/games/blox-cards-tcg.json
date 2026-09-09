@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PRELUDETOWAR",
+   "reward": "750 BB"
+  },
+  {
    "code": "BATTLESIM",
    "reward": "750 BB"
   },
@@ -167,6 +171,6 @@
    "reward": "800 BB"
   }
  ],
- "updated": "2026-09-08T06:25:26.161Z",
+ "updated": "2026-09-09T12:25:42.853Z",
  "source": "https://robloxden.com/game-codes/blox-cards-tcg"
 }

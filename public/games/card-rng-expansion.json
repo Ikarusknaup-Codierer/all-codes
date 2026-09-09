@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DUNGEONS",
+   "reward": "Rewards"
+  },
+  {
    "code": "CODEBOX",
    "reward": "Rewards"
   },
@@ -51,6 +55,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-09-08T06:25:03.460Z",
+ "updated": "2026-09-09T12:25:16.784Z",
  "source": "https://robloxden.com/game-codes/card-rng-expansion"
 }

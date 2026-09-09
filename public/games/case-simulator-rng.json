@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NEWMAP",
+   "reward": "a Luck Boost"
+  },
+  {
+   "code": "80KLIKES",
+   "reward": "a Luck Boost"
+  },
+  {
    "code": "70KLikes",
    "reward": "25% Luck Boost"
   },
@@ -27,6 +35,6 @@
    "reward": "a Luck Boost"
   }
  ],
- "updated": "2026-09-08T06:24:34.076Z",
+ "updated": "2026-09-09T12:24:44.669Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

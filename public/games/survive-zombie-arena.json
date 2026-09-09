@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Pirate",
+   "reward": "2x Pirate Pass XP (24 hours)"
+  },
+  {
+   "code": "Swaggin",
+   "reward": "2x Credits (12 hours) and a Pirate Chest"
+  },
+  {
+   "code": "Iron",
+   "reward": "20 Pirate Wood and 12 Pirate Iron"
+  },
+  {
    "code": "NODELAYSWAG",
    "reward": "2x Bloodmoon (48 Hours) , 2x Bloodmoon Crates , and 5,000 Credits"
   },
@@ -59,6 +71,6 @@
    "reward": "3 Bloodmoon Spins and 2x Bloodmoon Shards (4 Hours)"
   }
  ],
- "updated": "2026-09-08T06:20:55.064Z",
+ "updated": "2026-09-09T12:20:41.751Z",
  "source": "https://robloxden.com/game-codes/survive-zombie-arena"
 }

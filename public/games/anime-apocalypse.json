@@ -23,18 +23,6 @@
    "reward": "50 Trait Rerolls and 50 Lucky Ability Spins"
   },
   {
-   "code": "OVERHEAVEN",
-   "reward": "500,000 Coins , 25 Raid Tickets , 25 Trait Rerolls , 15 Normal Ability"
-  },
-  {
-   "code": "MADEINHEAVEN",
-   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
-  },
-  {
-   "code": "WORLDPASS",
-   "reward": "3 World Boss Tokens"
-  },
-  {
    "code": "25KINTERESTED",
    "reward": "500,000 Coins , 25 Raid Tickets , 25 Trait Rerolls , 15 Normal Ability"
   },
@@ -95,6 +83,22 @@
    "reward": "20 Trait Rolls , 250 Summer Coins , 20 Lucky Ability Spins , 15 Lucky "
   },
   {
+   "code": "BONUSCODEFORSJW",
+   "reward": "15 Raid Tickets , 30 Trait Rerolls , 1 World Boss Token , 25 Lucky Abi"
+  },
+  {
+   "code": "OVERHEAVEN",
+   "reward": "500,000 Coins , 25 Raid Tickets , 25 Trait Rerolls , 15 Normal Ability"
+  },
+  {
+   "code": "MADEINHEAVEN",
+   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "WORLDPASS",
+   "reward": "3 World Boss Tokens"
+  },
+  {
    "code": "50KINTERESTED",
    "reward": "75,000 Coins , 100 Raid Tickets , 100 Trait Rerolls , 100 Normal Abili"
   },
@@ -115,6 +119,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-09-08T06:24:03.411Z",
+ "updated": "2026-09-09T12:24:10.215Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

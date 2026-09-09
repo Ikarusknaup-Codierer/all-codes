@@ -31,14 +31,6 @@
    "reward": "a Heretic Hat"
   },
   {
-   "code": "FRONTPAGEREWARD",
-   "reward": "400 Medals , 2 Cosmetic Crates , and 1 Fire and Melee Crate"
-  },
-  {
-   "code": "1MVISITS",
-   "reward": "800 Medals and 3 Enlisted Cosmetic Crates"
-  },
-  {
    "code": "MajorObjectives",
    "reward": "200 Medals and 1 Enlisted Cosmetic Crates"
   },
@@ -51,8 +43,16 @@
    "reward": "500 Medals and 3 Unlisted Comestics Crates"
   },
   {
+   "code": "FRONTPAGEREWARD",
+   "reward": "400 Medals , 2 Cosmetic Crates , and 1 Fire and Melee Crate"
+  },
+  {
    "code": "DMH1AMTESTING",
    "reward": "300 Medals"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "800 Medals and 3 Enlisted Cosmetic Crates"
   },
   {
    "code": "1KCCUREWARD",
@@ -91,6 +91,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-09-08T06:22:19.439Z",
+ "updated": "2026-09-09T12:22:12.453Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

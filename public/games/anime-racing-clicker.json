@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AuctionHouse",
+   "reward": "6 x2 Shurikens Potions (20 Minutes)"
+  },
+  {
    "code": "HellSAO",
    "reward": "2 Shurikens Potions , 2 Super Lucky Potions , and 2 x2 Shuriken Potion"
   },
@@ -63,14 +67,14 @@
    "reward": "1 Super Lucky Potion"
   },
   {
-   "code": "FREEPETPLEASE",
-   "reward": "1 Hero"
+   "code": "HeavenBleach",
+   "reward": "2x XP Potion (15 minutes) , 2x Shuriken Potion (15 minutes) and Super "
   },
   {
-   "code": "CHRISTMASEVENT",
-   "reward": "50 Gingerbread"
+   "code": "AMAZINGCOMMUNITY",
+   "reward": "2 Luck Potions"
   }
  ],
- "updated": "2026-09-07T18:25:26.756Z",
+ "updated": "2026-09-09T00:31:09.958Z",
  "source": "https://robloxden.com/game-codes/anime-racing-clicker"
 }

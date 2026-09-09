@@ -11,12 +11,8 @@
    "reward": "$35,000"
   },
   {
-   "code": "THXFOR15KLIKES",
-   "reward": "$30,000 Cash"
-  },
-  {
-   "code": "10kMembers",
-   "reward": "a reward"
+   "code": "10KLIKES",
+   "reward": "$20,000 Cash"
   },
   {
    "code": "RELEASE2023",
@@ -25,8 +21,12 @@
   {
    "code": "THXFOR30KLIKES",
    "reward": "50,000 Cash"
+  },
+  {
+   "code": "1MILLIONVISITS",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-09-07T18:26:16.918Z",
+ "updated": "2026-09-09T00:31:47.334Z",
  "source": "https://robloxden.com/game-codes/my-cafe-tycoon"
 }

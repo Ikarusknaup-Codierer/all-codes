@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1_9",
+   "reward": "250,000 Cash"
+  },
+  {
+   "code": "NEWUI",
+   "reward": "200,000 Cash"
+  },
+  {
    "code": "Chiron",
    "reward": "200,000 Cash"
   },
@@ -23,6 +31,6 @@
    "reward": "200,000 Cash"
   }
  ],
- "updated": "2026-09-07T18:23:07.765Z",
+ "updated": "2026-09-09T00:29:03.528Z",
  "source": "https://robloxden.com/game-codes/brazil-motorfest"
 }

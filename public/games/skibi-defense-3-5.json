@@ -15,10 +15,6 @@
    "reward": "77,000 Credits , 1,500 Multiverse Coins , and 1 WIN Crate"
   },
   {
-   "code": "GSquad",
-   "reward": "7 Lucky Shards, 2 Hours of 2x Credit, 2 Hours of 2x EXP and 1 Hour 3x "
-  },
-  {
    "code": "TraitRemake",
    "reward": "7 Lucky Shards , 7.7K Shards , and a Cursed Key"
   },
@@ -53,6 +49,10 @@
   {
    "code": "alliance",
    "reward": "25,000 Credits , 2x XP Boost (2 Hours) , 2x Credit Boost (2 Hours) , a"
+  },
+  {
+   "code": "GSquad",
+   "reward": "7 Lucky Shards, 2 Hours of 2x Credit, 2 Hours of 2x EXP and 1 Hour 3x "
   },
   {
    "code": "delays",
@@ -199,6 +199,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-09-07T18:22:45.697Z",
+ "updated": "2026-09-09T00:28:41.875Z",
  "source": "https://robloxden.com/game-codes/skibi-defense-3-5"
 }

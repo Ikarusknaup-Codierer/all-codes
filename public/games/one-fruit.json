@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ThankYouAll!!",
+   "reward": "4 Hours of Drop Boosts , 4 Hours of Stats Boosts , 4 Hours of Exp Boos"
+  },
+  {
+   "code": "Bestiary",
+   "reward": "1 Hour of Drop Boosts , 1 Hour of Stats Boosts , 1 Hour of Exp Boosts "
+  },
+  {
+   "code": "Gamblers",
+   "reward": "1 Hour of Drop Boosts , 1 Hour of Stats Boosts , 1 Hour of Exp Boosts "
+  },
+  {
    "code": "ThanksForWaiting",
    "reward": "4 Hours of Drop, Stats, Exp, Coins, and Mastery Boosts , 15 Raid Scrol"
   },
@@ -263,6 +275,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-07T18:24:51.509Z",
+ "updated": "2026-09-09T00:30:39.260Z",
  "source": "https://robloxden.com/game-codes/one-fruit"
 }

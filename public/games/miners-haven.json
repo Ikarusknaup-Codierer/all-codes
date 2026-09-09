@@ -11,10 +11,6 @@
    "reward": "111 uC of Crystals"
   },
   {
-   "code": "CloverBloom!",
-   "reward": "100 Clovers"
-  },
-  {
    "code": "hogog",
    "reward": "Hogog"
   },
@@ -57,8 +53,12 @@
   {
    "code": "GoldIsVeryHeavy",
    "reward": "100 Magic Clovers"
+  },
+  {
+   "code": "CloverBloom!",
+   "reward": "100 Clovers"
   }
  ],
- "updated": "2026-09-08T00:27:46.466Z",
+ "updated": "2026-09-09T00:34:53.094Z",
  "source": "https://robloxden.com/game-codes/miners-haven"
 }

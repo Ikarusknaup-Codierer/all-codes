@@ -7,6 +7,54 @@
    "reward": "Description"
   },
   {
+   "code": "65kfav",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "64kfav",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "13klikes",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "hollow",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "bankai",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "newfighters",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "thanksplayers",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "sorryforbugs1",
+   "reward": "2 Energy Potions , 2 Damage Potions , 2 Gems Potions , 2 Drops Potions"
+  },
+  {
+   "code": "animecapture",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "bugsfixed3",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "thanksforplaying",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "sorryshut3",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
    "code": "ARTIFACT",
    "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
   },
@@ -313,8 +361,12 @@
   {
    "code": "RELEASE",
    "reward": "an Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , "
+  },
+  {
+   "code": "PITYCHALLENGE",
+   "reward": "Potions , 250 F2P Tickets , and a Commander Sword"
   }
  ],
- "updated": "2026-09-08T00:26:30.847Z",
+ "updated": "2026-09-09T00:33:49.839Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

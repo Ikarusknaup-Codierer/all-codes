@@ -11,6 +11,10 @@
    "reward": "1 Prismatic Elixir , 15 Egg Elixirs , 15 Super Lucky Elixirs , and 15 "
   },
   {
+   "code": "Likes24",
+   "reward": "1 Golden Cherry , 1 Coin Elixir , and 1 Super Lucky Elixir"
+  },
+  {
    "code": "Cherry",
    "reward": "1 Golden Cherry"
   },
@@ -19,14 +23,10 @@
    "reward": "4 Hardcore Tomes"
   },
   {
-   "code": "atlantis",
-   "reward": "2 Magic Pendants"
-  },
-  {
-   "code": "runes",
-   "reward": "1 Fatal Strike Rune , 1 Critical Hit Rune and 1 Seafarer Rune Cherry"
+   "code": "ilovefishing",
+   "reward": "3 Sea Elixirs And 1 Seafarer Rune"
   }
  ],
- "updated": "2026-09-07T18:25:11.261Z",
+ "updated": "2026-09-09T00:30:58.223Z",
  "source": "https://robloxden.com/game-codes/pet-catchers"
 }

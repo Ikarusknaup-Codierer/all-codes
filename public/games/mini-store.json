@@ -11,8 +11,12 @@
    "reward": "2,000 Cash"
   },
   {
-   "code": "ThankYou",
-   "reward": "500 Cash"
+   "code": "30klike",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "5000like",
+   "reward": "2,000 Cash"
   },
   {
    "code": "like2000",
@@ -21,12 +25,8 @@
   {
    "code": "500like",
    "reward": "2,000 Cash"
-  },
-  {
-   "code": "like100k",
-   "reward": "2,000 Cash"
   }
  ],
- "updated": "2026-09-07T18:21:16.374Z",
+ "updated": "2026-09-09T00:27:12.177Z",
  "source": "https://robloxden.com/game-codes/mini-store"
 }

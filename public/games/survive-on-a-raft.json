@@ -11,15 +11,15 @@
    "reward": "125 Shells"
   },
   {
-   "code": "valentine",
-   "reward": "125 Shells"
-  },
-  {
-   "code": "175klikes",
-   "reward": "25 Shells"
+   "code": "AccessoryBuff",
+   "reward": "75 Shells"
   },
   {
    "code": "c00lkid",
+   "reward": "25 Shells"
+  },
+  {
+   "code": "110klikes",
    "reward": "25 Shells"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "Shells"
   }
  ],
- "updated": "2026-09-08T12:24:40.655Z",
+ "updated": "2026-09-09T18:22:36.922Z",
  "source": "https://robloxden.com/game-codes/survive-on-a-raft"
 }

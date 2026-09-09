@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FREELIKE4",
-   "reward": "a Random Mystic Knife"
-  },
-  {
    "code": "freecase",
    "reward": "1 Release Case"
   },
@@ -19,7 +15,7 @@
    "reward": "a Secret Crate"
   },
   {
-   "code": "FREELIKE1",
+   "code": "FREELIKE4",
    "reward": "a Random Mystic Knife"
   },
   {
@@ -27,6 +23,6 @@
    "reward": "1 Limited Case"
   }
  ],
- "updated": "2026-09-08T12:23:35.236Z",
+ "updated": "2026-09-09T18:21:16.253Z",
  "source": "https://robloxden.com/game-codes/sniper-arena"
 }

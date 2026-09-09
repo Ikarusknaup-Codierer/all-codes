@@ -11,6 +11,10 @@
    "reward": "500 Cash"
   },
   {
+   "code": "Christmas",
+   "reward": "rewards"
+  },
+  {
    "code": "SEASIDE",
    "reward": "Reward"
   },
@@ -19,18 +23,14 @@
    "reward": "Reward"
   },
   {
-   "code": "13020Likes",
-   "reward": "500 Cash"
-  },
-  {
-   "code": "1090Likes",
-   "reward": "1,000 Cash"
+   "code": "Christmas24",
+   "reward": "5,000 Cash"
   },
   {
    "code": "NEW",
    "reward": "rewards"
   }
  ],
- "updated": "2026-09-08T18:19:10.733Z",
+ "updated": "2026-09-09T18:27:58.061Z",
  "source": "https://robloxden.com/game-codes/skybase-tycoon"
 }

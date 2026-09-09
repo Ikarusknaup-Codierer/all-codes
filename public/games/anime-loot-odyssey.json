@@ -19,14 +19,14 @@
    "reward": "1 Potion"
   },
   {
-   "code": "1MVISITS",
+   "code": "200KVISITS",
    "reward": "1 Coins Potion"
   },
   {
-   "code": "200KVISITS",
-   "reward": "1 Coins Potion"
+   "code": "2KLIKES",
+   "reward": "1 EXP Potion"
   }
  ],
- "updated": "2026-09-08T12:23:38.674Z",
+ "updated": "2026-09-09T18:21:19.057Z",
  "source": "https://robloxden.com/game-codes/anime-loot-odyssey"
 }

@@ -27,14 +27,14 @@
    "reward": "3 Spins"
   },
   {
-   "code": "UPDATE4",
-   "reward": "1 Spin"
-  },
-  {
    "code": "UPDATE3",
    "reward": "1 Speed Potion"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "25 Wins"
   }
  ],
- "updated": "2026-09-08T12:28:00.644Z",
+ "updated": "2026-09-09T18:26:10.583Z",
  "source": "https://robloxden.com/game-codes/dragon-training"
 }

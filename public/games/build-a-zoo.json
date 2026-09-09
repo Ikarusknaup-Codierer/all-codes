@@ -11,14 +11,6 @@
    "reward": "3 Lucky Tickets and 500 Gems"
   },
   {
-   "code": "MERRYTIMES2026",
-   "reward": "500 Diamonds and 3 Lucky Tickets"
-  },
-  {
-   "code": "OCEANHEART0",
-   "reward": "2 Ocean Heart"
-  },
-  {
    "code": "WEEKENDJOY5v",
    "reward": "Freebies"
   },
@@ -59,8 +51,16 @@
    "reward": "3 Hourglasses and 1 Mint Jelly"
   },
   {
+   "code": "MERRYTIMES2026",
+   "reward": "500 Diamonds and 3 Lucky Tickets"
+  },
+  {
    "code": "RABBITHAT30",
    "reward": "1 Sacred Deer Egg"
+  },
+  {
+   "code": "OCEANHEART0",
+   "reward": "2 Ocean Heart"
   },
   {
    "code": "WEEKENDJOY5",
@@ -75,6 +75,6 @@
    "reward": "3 Turkey Eggs , 1 Dragon Fruit , and 2,000 Diamonds"
   }
  ],
- "updated": "2026-09-08T12:25:05.205Z",
+ "updated": "2026-09-09T18:23:04.161Z",
  "source": "https://robloxden.com/game-codes/build-a-zoo"
 }

@@ -15,14 +15,18 @@
    "reward": "100,000 Cash"
   },
   {
+   "code": "VANILLA",
+   "reward": "125,000 Cash"
+  },
+  {
    "code": "2022",
    "reward": "202,200 Cash"
   },
   {
-   "code": "CANDY",
-   "reward": "75,000 Cash"
+   "code": "snowflake",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-09-08T12:27:05.432Z",
+ "updated": "2026-09-09T18:25:11.113Z",
  "source": "https://robloxden.com/game-codes/donuts-tycoon"
 }

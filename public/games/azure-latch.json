@@ -27,6 +27,14 @@
    "reward": "Brother Noah Emote"
   },
   {
+   "code": "MASTERYKAISER",
+   "reward": "10,000 Style Coins and 15,000 Cash"
+  },
+  {
+   "code": "SORRYFORLATERELEASE",
+   "reward": "a Random MVP"
+  },
+  {
    "code": "PINGOVERHAUL",
    "reward": "10,000 Style Coins and 15,000 Cash"
   },
@@ -111,6 +119,6 @@
    "reward": "X Emote"
   }
  ],
- "updated": "2026-09-08T06:27:12.594Z",
+ "updated": "2026-09-09T18:18:58.344Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

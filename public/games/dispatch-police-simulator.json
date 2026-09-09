@@ -15,14 +15,6 @@
    "reward": "321 Cash"
   },
   {
-   "code": "TRAFFIC",
-   "reward": "606 Cash"
-  },
-  {
-   "code": "BIRTHANGRY",
-   "reward": "101 Cash"
-  },
-  {
    "code": "VC",
    "reward": "222 Cash"
   },
@@ -69,8 +61,16 @@
   {
    "code": "RUDOLPH",
    "reward": "111 Cash"
+  },
+  {
+   "code": "TRAFFIC",
+   "reward": "606 Cash"
+  },
+  {
+   "code": "BIRTHANGRY",
+   "reward": "101 Cash"
   }
  ],
- "updated": "2026-09-08T12:26:47.947Z",
+ "updated": "2026-09-09T18:24:52.990Z",
  "source": "https://robloxden.com/game-codes/dispatch-police-simulator"
 }

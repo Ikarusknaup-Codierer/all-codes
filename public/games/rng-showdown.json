@@ -15,14 +15,14 @@
    "reward": "1 Rift Chest"
   },
   {
-   "code": "400kVisits",
-   "reward": "4,000 Coins"
-  },
-  {
    "code": "DiscountedDemon",
    "reward": "1 Demon Chest"
+  },
+  {
+   "code": "SORRY4SHUTDOWN",
+   "reward": "3 Premium Crest Chests"
   }
  ],
- "updated": "2026-09-08T12:25:58.353Z",
+ "updated": "2026-09-09T18:24:04.060Z",
  "source": "https://robloxden.com/game-codes/rng-showdown"
 }

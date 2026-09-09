@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CapsuleEventChanges!",
+   "reward": "40 Devil Capsules"
+  },
+  {
    "code": "JJKBugFixes2!",
    "reward": "10 Prisms , 100 Trait Shards , and 50 Reroll Cubes"
   },
@@ -21,6 +25,14 @@
   {
    "code": "10MilVisits!",
    "reward": "50 Trait Shards and 2,000 Gold"
+  },
+  {
+   "code": "PowerOfRivals!",
+   "reward": "3 Perfect Cubes and 500 Yol"
+  },
+  {
+   "code": "RoyalKnights!",
+   "reward": "15 Prism and 1,000 Yol"
   },
   {
    "code": "JJKBugFixes!",
@@ -79,6 +91,6 @@
    "reward": "50 Trait Shards , 1,000 Gems , and 2,000 Gold"
   }
  ],
- "updated": "2026-09-08T06:20:28.907Z",
+ "updated": "2026-09-09T06:28:34.687Z",
  "source": "https://robloxden.com/game-codes/anime-squadron"
 }

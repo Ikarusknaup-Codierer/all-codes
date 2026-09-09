@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "MERCHANT",
+   "reward": "New Grass Type"
+  },
+  {
+   "code": "BLACKHOLE",
+   "reward": "Rewards"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "600 Cash and 4 Pirate Farmers"
   }
  ],
- "updated": "2026-09-08T00:31:44.955Z",
+ "updated": "2026-09-09T06:24:43.485Z",
  "source": "https://robloxden.com/game-codes/my-grass-farm"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "LONGGAME",
+   "reward": "$750,000 and 15 Training Points"
+  },
+  {
+   "code": "LIKES500",
+   "reward": "$5,000,000 and 100 Clan Rerolls"
+  },
+  {
+   "code": "LIKES600",
+   "reward": "$7,500,000 and 25 Training Points"
+  },
+  {
+   "code": "REROLLS",
+   "reward": "75 Clan Rerolls"
+  },
+  {
    "code": "DYNASTY",
    "reward": "$1,000,000"
   },
@@ -75,6 +91,6 @@
    "reward": "10 Training Points"
   }
  ],
- "updated": "2026-09-08T00:25:47.382Z",
+ "updated": "2026-09-09T06:20:34.186Z",
  "source": "https://robloxden.com/game-codes/bitlock"
 }

@@ -47,14 +47,14 @@
    "reward": "a Stat Reset"
   },
   {
-   "code": "FixBug",
-   "reward": "a Stat Reset"
+   "code": "WHENUPDATE",
+   "reward": "1 Stat Reset"
   },
   {
-   "code": "NEOGAMING",
-   "reward": "10 Heart Gems"
+   "code": "UPDATE2",
+   "reward": "a Stat Reset"
   }
  ],
- "updated": "2026-09-08T00:32:22.875Z",
+ "updated": "2026-09-09T06:25:07.109Z",
  "source": "https://robloxden.com/game-codes/last-pirates"
 }

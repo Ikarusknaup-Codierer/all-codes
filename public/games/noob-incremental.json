@@ -47,6 +47,10 @@
    "reward": "1 2x Rune Luck Potion, 1 2x Rune Speed Potion,1 2x Rune Bulk Potion, a"
   },
   {
+   "code": "SOMEOTHERFIXUPDATE",
+   "reward": "25 Card Tokens"
+  },
+  {
    "code": "YINYANGEXPANSION",
    "reward": "55 Card Tokens"
   },
@@ -79,6 +83,6 @@
    "reward": "10% Rune Luck (Active) . You must paste it in the Special Code box to "
   }
  ],
- "updated": "2026-09-08T00:39:34.371Z",
+ "updated": "2026-09-09T06:27:38.521Z",
  "source": "https://robloxden.com/game-codes/noob-incremental"
 }

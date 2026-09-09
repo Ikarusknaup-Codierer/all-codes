@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "VoidExtension",
+   "reward": "5 Void Chests"
+  },
+  {
    "code": "firstswarm",
    "reward": "3 Common Chests"
   },
@@ -23,6 +27,6 @@
    "reward": "2,500 Keys"
   }
  ],
- "updated": "2026-09-08T00:29:03.590Z",
+ "updated": "2026-09-09T06:22:36.486Z",
  "source": "https://robloxden.com/game-codes/final-swarm"
 }

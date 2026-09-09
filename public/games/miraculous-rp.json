@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HAZE",
-   "reward": "2,500 Coins"
-  },
-  {
    "code": "JUSTBLUE",
    "reward": "2,500 Coins"
   },
@@ -87,10 +83,14 @@
    "reward": "15 Tokens"
   },
   {
+   "code": "HAZE",
+   "reward": "2,500 Coins"
+  },
+  {
    "code": "CASNATLONDON",
    "reward": "5 Tokens"
   }
  ],
- "updated": "2026-09-08T00:30:46.050Z",
+ "updated": "2026-09-09T06:24:05.147Z",
  "source": "https://robloxden.com/game-codes/miraculous-rp"
 }

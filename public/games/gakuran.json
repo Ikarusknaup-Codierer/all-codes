@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "EATUP",
-   "reward": "20 Rerolls"
-  },
-  {
    "code": "SINGALONG",
    "reward": "20 Rerolls"
   },
   {
+   "code": "CQC",
+   "reward": "30 Rerolls"
+  },
+  {
    "code": "idk",
    "reward": "15 Rerolls"
+  },
+  {
+   "code": "EATUP",
+   "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-09-08T00:33:38.908Z",
+ "updated": "2026-09-09T06:25:54.077Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

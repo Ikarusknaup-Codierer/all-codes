@@ -271,10 +271,14 @@
    "reward": "1 +3 Speed Boost"
   },
   {
-   "code": "MORECHANCE",
-   "reward": "1 +1 Speed Boost"
+   "code": "RELEASE",
+   "reward": "100 Energy"
+  },
+  {
+   "code": "1M",
+   "reward": "1,000 Energy"
   }
  ],
- "updated": "2026-09-08T00:27:19.758Z",
+ "updated": "2026-09-09T06:21:16.389Z",
  "source": "https://robloxden.com/game-codes/speedman-simulator"
 }

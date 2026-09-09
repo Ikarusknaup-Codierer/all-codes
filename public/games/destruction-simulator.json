@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "turkeytime",
-   "reward": "48 Hour X2 XP Boost"
+   "code": "REEL",
+   "reward": "10,000 Coins"
   },
   {
-   "code": "UPDATE4",
-   "reward": "Free Diamonds"
+   "code": "freelevels",
+   "reward": "5 Free Levels"
+  },
+  {
+   "code": "turkeytime",
+   "reward": "48 Hour X2 XP Boost"
   },
   {
    "code": "1000LIKES",
@@ -21,12 +25,8 @@
   {
    "code": "UPDATE3",
    "reward": "Free Diamonds"
-  },
-  {
-   "code": "DIAMOND",
-   "reward": "a Double Bricks Boost for 10 Minutes"
   }
  ],
- "updated": "2026-09-08T00:32:29.036Z",
+ "updated": "2026-09-09T06:25:12.667Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Summer2026QoLUpdate",
+   "reward": "2x Shells Boost (3 Hours) and 3 Summer Capsules"
+  },
+  {
+   "code": "ExtraCodeSummer2026",
+   "reward": "50 Trait Rerolls , 50 Perk Rerolls , and 1 Pure Soul"
+  },
+  {
    "code": "1000ccuSummer2026",
    "reward": "a 2x Boost and 10 Lost Chest"
   },
@@ -67,10 +75,10 @@
    "reward": "2x Gold Boost (24 hours)"
   },
   {
-   "code": "MoneyPlease",
-   "reward": ""
+   "code": "updatewhen",
+   "reward": "250 Gems and 50 Rerolls"
   }
  ],
- "updated": "2026-09-08T00:26:43.513Z",
+ "updated": "2026-09-09T06:20:53.111Z",
  "source": "https://robloxden.com/game-codes/ultimate-tower-defense"
 }

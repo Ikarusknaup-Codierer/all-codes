@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SHINOBI",
-   "reward": "the Estarossa's Sword"
-  },
-  {
-   "code": "ONEFORYOU",
+   "code": "NOWHOLDTHIS",
    "reward": "Exp"
   },
   {
-   "code": "100K",
-   "reward": ""
+   "code": "BUGBUGEXP",
+   "reward": "a reward"
   },
   {
-   "code": "YOUWANTGOLD",
-   "reward": "Gold"
+   "code": "SOMERACE",
+   "reward": "Race Spins"
   },
   {
    "code": "TELLMEAGAIN",
    "reward": "a Beta Sword"
+  },
+  {
+   "code": "HAVESOMEMORE",
+   "reward": "40 Magic Spins"
   }
  ],
- "updated": "2026-09-08T00:28:59.197Z",
+ "updated": "2026-09-09T06:22:32.769Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

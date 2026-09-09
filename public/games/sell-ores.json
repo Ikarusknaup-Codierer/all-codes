@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SORRYFORDATA",
+   "reward": "a 24-hour Time Skip"
+  },
+  {
+   "code": "BALANCE",
+   "reward": "a 6-hour Time Skip"
+  },
+  {
+   "code": "PETFUSION",
+   "reward": "a Devil's Growth Gem"
+  },
+  {
+   "code": "EXPANSION",
+   "reward": "a Small Growth Gem"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "$500"
+  },
+  {
+   "code": "ALMIGHTY",
+   "reward": "a 6-hour Time Skip"
   }
  ],
- "updated": "2026-09-08T00:31:45.498Z",
+ "updated": "2026-09-09T06:24:43.974Z",
  "source": "https://robloxden.com/game-codes/sell-ores"
 }

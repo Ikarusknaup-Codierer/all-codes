@@ -27,10 +27,6 @@
    "reward": "2 XP Potions"
   },
   {
-   "code": "INFERNOROLL",
-   "reward": "an Inferno Battery"
-  },
-  {
    "code": "THANKYOU20K",
    "reward": "3 Gold Potions and 3 XP Potions"
   },
@@ -69,8 +65,12 @@
   {
    "code": "SPIDEYBOSS",
    "reward": "a Galaxy Battery"
+  },
+  {
+   "code": "INFERNOROLL",
+   "reward": "an Inferno Battery"
   }
  ],
- "updated": "2026-09-08T00:27:43.826Z",
+ "updated": "2026-09-09T06:21:34.379Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

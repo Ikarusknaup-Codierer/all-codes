@@ -129,8 +129,16 @@
   {
    "code": "EASTER",
    "reward": "15,000 Coins"
+  },
+  {
+   "code": "HULK",
+   "reward": "50,000 Coins"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "250,000 Coins"
   }
  ],
- "updated": "2026-09-08T00:32:27.911Z",
+ "updated": "2026-09-09T06:25:11.675Z",
  "source": "https://robloxden.com/game-codes/giant-dance-off-simulator-1"
 }

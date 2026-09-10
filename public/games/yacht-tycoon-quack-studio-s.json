@@ -27,14 +27,14 @@
    "reward": "750,000 Cash"
   },
   {
-   "code": "CASH",
-   "reward": "500,000 Cash"
-  },
-  {
    "code": "NEWYACHT",
    "reward": "50,000 Cash"
+  },
+  {
+   "code": "Treasure",
+   "reward": "12,500 Cash"
   }
  ],
- "updated": "2026-09-09T00:28:39.654Z",
+ "updated": "2026-09-10T06:23:28.747Z",
  "source": "https://robloxden.com/game-codes/yacht-tycoon-quack-studio-s"
 }

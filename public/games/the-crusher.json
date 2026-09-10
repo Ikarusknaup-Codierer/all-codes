@@ -11,10 +11,6 @@
    "reward": "the Orange Sunrise Effect"
   },
   {
-   "code": "sweetestvalentine",
-   "reward": "Sweetheart Title"
-  },
-  {
    "code": "Sparks",
    "reward": "Sparks Effect"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Valentines2025",
    "reward": "Valentine Title"
+  },
+  {
+   "code": "electro",
+   "reward": "Sparks Effect"
   }
  ],
- "updated": "2026-09-09T00:27:22.387Z",
+ "updated": "2026-09-10T06:22:17.907Z",
  "source": "https://robloxden.com/game-codes/the-crusher"
 }

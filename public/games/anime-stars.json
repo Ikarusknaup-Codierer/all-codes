@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "2MVISITS",
+   "reward": "5 Premium Summons and 2 of Each Potion"
+  },
+  {
    "code": "PERFORMANCE",
    "reward": "2 Luck Potion (10 Minutes) , 2 2x Damage Potions (10 Minutes) , 2 2x P"
   },
@@ -41,16 +45,8 @@
   {
    "code": "ACCESSORIES",
    "reward": "5 Summons , 2 Damage Potions , and 1 Golden Knight Chestplate"
-  },
-  {
-   "code": "5KCCU",
-   "reward": "200 Diamonds , 1 Double Damage Potion , 1 Double Coins Potion , 1 Luck"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "50,000 Coins , 250 Diamonds , 10 Summons , 1 Double Damage Potion , 1 "
   }
  ],
- "updated": "2026-09-08T18:23:20.576Z",
+ "updated": "2026-09-10T00:25:40.511Z",
  "source": "https://robloxden.com/game-codes/anime-stars"
 }

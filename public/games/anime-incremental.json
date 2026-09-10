@@ -11,10 +11,6 @@
    "reward": "3 Card Luck Potion , 3 Card Bulk Potion , 3 Card Speed Potion , and 3 "
   },
   {
-   "code": "world2",
-   "reward": "30 Tickets"
-  },
-  {
    "code": "celestialinvasion",
    "reward": "20 Tickets"
   },
@@ -23,10 +19,14 @@
    "reward": "35 Tickets"
   },
   {
+   "code": "update",
+   "reward": "50 Tickets"
+  },
+  {
    "code": "updatecomingsoon",
    "reward": "25 Tickets"
   }
  ],
- "updated": "2026-09-08T18:26:16.376Z",
+ "updated": "2026-09-10T00:28:56.370Z",
  "source": "https://robloxden.com/game-codes/anime-incremental"
 }

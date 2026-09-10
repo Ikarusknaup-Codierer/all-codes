@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "MINING",
-   "reward": "30 Minutes Of All Tier 4 Boosts"
+   "code": "500LIKES",
+   "reward": "1000x Luck Potion"
   },
   {
    "code": "3KLIKES",
    "reward": "Freebies"
   },
   {
-   "code": "2KLIKES",
-   "reward": "Freebies"
+   "code": "15KLIKES",
+   "reward": "All Tier 4 Boosts (30 minutes)"
   },
   {
-   "code": "20KLIKES",
+   "code": "1KLIKES",
    "reward": "All Tier 4 Boosts (30 minutes)"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-09-08T18:23:57.934Z",
+ "updated": "2026-09-10T00:26:29.885Z",
  "source": "https://robloxden.com/game-codes/crafting-rng"
 }

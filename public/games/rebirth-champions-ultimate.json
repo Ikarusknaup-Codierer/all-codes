@@ -247,14 +247,14 @@
    "reward": "Potions"
   },
   {
-   "code": "firework",
+   "code": "classic",
    "reward": "Free Rewards"
   },
   {
-   "code": "classic",
-   "reward": "Free Rewards"
+   "code": "spring",
+   "reward": "1 Luck Potion"
   }
  ],
- "updated": "2026-09-08T18:21:56.722Z",
+ "updated": "2026-09-10T00:23:54.821Z",
  "source": "https://robloxden.com/game-codes/rebirth-champions-ultimate"
 }

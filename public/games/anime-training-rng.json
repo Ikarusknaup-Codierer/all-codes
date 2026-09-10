@@ -223,14 +223,18 @@
    "reward": "+1 Luck Boost (2 minutes)"
   },
   {
-   "code": "Code1",
-   "reward": "10 Item Lootboxes"
+   "code": "sigma",
+   "reward": "10 Super Rolls, 10 Lucky Rolls, And An Omega Roll"
+  },
+  {
+   "code": "fish",
+   "reward": "A Void Potion"
   },
   {
    "code": "new",
    "reward": "2 Super Roll"
   }
  ],
- "updated": "2026-09-08T18:25:10.040Z",
+ "updated": "2026-09-10T00:27:50.029Z",
  "source": "https://robloxden.com/game-codes/anime-training-rng"
 }

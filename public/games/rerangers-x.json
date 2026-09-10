@@ -43,10 +43,14 @@
    "reward": "1 Asto (Half) , 150 Trait Rerolls , 20,000 Gems , and 100,000 Gold . Y"
   },
   {
-   "code": "RANGERRERELEASE",
-   "reward": "25 Trait Rerolls , 12 Soul Fragments , 1,000 Gems , and 20,000 Sol Tok"
+   "code": "BUILTINMACRO",
+   "reward": "50 Trait Reroll , 2 Sapphire Gear Fragment , 5 Emerald Gear Fragment ,"
+  },
+  {
+   "code": "LATOM",
+   "reward": "50 Trait Rerolls , 50,000 Gold , 2,500 Gems , and 50,000 Sol Tokens"
   }
  ],
- "updated": "2026-09-09T12:22:51.914Z",
+ "updated": "2026-09-10T18:19:41.358Z",
  "source": "https://robloxden.com/game-codes/rerangers-x"
 }

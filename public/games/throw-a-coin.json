@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "candy",
+   "reward": "5x Luck (10 Minutes)"
+  },
+  {
+   "code": "Luckyducky",
+   "reward": "the Divine Rubber Duck"
+  },
+  {
    "code": "WORLD5",
    "reward": "2x Mega Potions"
   },
@@ -23,22 +31,10 @@
    "reward": "2 Astral Potion"
   },
   {
-   "code": "candy",
-   "reward": "5x Luck (10 Minutes)"
-  },
-  {
-   "code": "Luckyducky",
-   "reward": "the Divine Rubber Duck"
-  },
-  {
    "code": "ABRACADABRA",
    "reward": "1 Rainbow Treasure Chest"
-  },
-  {
-   "code": "WORLD3",
-   "reward": "5x Luck (10 Minutes)"
   }
  ],
- "updated": "2026-09-09T06:28:13.955Z",
+ "updated": "2026-09-10T18:17:35.538Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

@@ -11,10 +11,6 @@
    "reward": "4 Book of Celebrations and 3 Grade Takeoff Tickets"
   },
   {
-   "code": "SorryAgain",
-   "reward": "2 Lunacy Bundles"
-  },
-  {
    "code": "ThereWasNoDelay",
    "reward": "1 Lunacy Bundle and 1,300 Lunacy"
   },
@@ -33,8 +29,12 @@
   {
    "code": "THREAD4LIFE",
    "reward": "3,000 Thread"
+  },
+  {
+   "code": "SorryAgain",
+   "reward": "2 Lunacy Bundles"
   }
  ],
- "updated": "2026-09-09T12:25:36.173Z",
+ "updated": "2026-09-10T18:20:08.531Z",
  "source": "https://robloxden.com/game-codes/archived"
 }

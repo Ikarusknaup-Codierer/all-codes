@@ -27,10 +27,6 @@
    "reward": "x10 Damage (1h)"
   },
   {
-   "code": "WELCOMEBACK",
-   "reward": "Auto Train (24h) , Auto Upgrade (24h) , x5 Soul Force (24h) , x5 Ninju"
-  },
-  {
    "code": "KITSUNE",
    "reward": "600 Soul Force"
   },
@@ -47,14 +43,10 @@
    "reward": "x10 Ninjutsu (1h) , x10 Soul Force (15m) , Auto Train (1h) , Auto Upgr"
   },
   {
-   "code": "SEVEN",
-   "reward": "Rewards"
-  },
-  {
-   "code": "DAYFOUR",
-   "reward": "1 Hour Auto Train, 1 Hour Auto Upgrade, 15-Minute All Boost and 100 Bu"
+   "code": "WELCOMEBACK",
+   "reward": "Auto Train (24h) , Auto Upgrade (24h) , x5 Soul Force (24h) , x5 Ninju"
   }
  ],
- "updated": "2026-09-09T12:21:00.505Z",
+ "updated": "2026-09-10T18:18:12.382Z",
  "source": "https://robloxden.com/game-codes/1-op-ninja"
 }

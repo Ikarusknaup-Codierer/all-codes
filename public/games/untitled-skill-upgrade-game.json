@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ButterDOG",
+   "reward": "Rewards . You need to have atleast 2 Rebirths to claim this code"
+  },
+  {
    "code": "starT000",
    "reward": "250 Skill Points"
   },
@@ -15,6 +19,6 @@
    "reward": "400 Skill Points"
   }
  ],
- "updated": "2026-09-09T18:20:09.805Z",
+ "updated": "2026-09-10T18:24:11.112Z",
  "source": "https://robloxden.com/game-codes/untitled-skill-upgrade-game"
 }

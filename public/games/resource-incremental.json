@@ -97,8 +97,12 @@
   {
    "code": "Release",
    "reward": "+1 All Potions"
+  },
+  {
+   "code": "MiniPatch",
+   "reward": "+2 All Potions"
   }
  ],
- "updated": "2026-09-09T12:23:00.258Z",
+ "updated": "2026-09-10T18:19:48.558Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

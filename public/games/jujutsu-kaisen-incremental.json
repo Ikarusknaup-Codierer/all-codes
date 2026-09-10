@@ -63,14 +63,14 @@
    "reward": "25 to All Rolls"
   },
   {
-   "code": "ROLLBACK",
-   "reward": "80 All Rolls"
+   "code": "EASTER",
+   "reward": "50 All Rolls"
   },
   {
-   "code": "QUALITYMOG",
-   "reward": "25 All Rolls"
+   "code": "zero",
+   "reward": "5 To All Rolls"
   }
  ],
- "updated": "2026-09-09T18:19:32.238Z",
+ "updated": "2026-09-10T18:23:37.501Z",
  "source": "https://robloxden.com/game-codes/jujutsu-kaisen-incremental"
 }

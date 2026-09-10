@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DYNAMIC",
+   "reward": "3,000 Cash"
+  },
+  {
    "code": "SORRYABOUTRANKED",
    "reward": "3,000 Cash"
   },
@@ -23,10 +27,18 @@
    "reward": "3,000 Cash"
   },
   {
+   "code": "BUTTERFLY",
+   "reward": "3,000 Cash"
+  },
+  {
+   "code": "Summer",
+   "reward": "3,000 Cash"
+  },
+  {
    "code": "DRAGON",
    "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-09-09T12:21:27.640Z",
+ "updated": "2026-09-10T18:18:31.839Z",
  "source": "https://robloxden.com/game-codes/knife-duels"
 }

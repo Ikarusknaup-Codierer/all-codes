@@ -31,10 +31,6 @@
    "reward": "Pink Equipment and Auras"
   },
   {
-   "code": "CorruptedAtheonPity",
-   "reward": "40 Minutes Boost . You must be level 100 to claim this code"
-  },
-  {
    "code": "Corrupted",
    "reward": "a 30 Minutes Boost"
   },
@@ -81,8 +77,12 @@
   {
    "code": "MiniAtheon",
    "reward": "a 30 Minutes boost"
+  },
+  {
+   "code": "CorruptedAtheonPity",
+   "reward": "40 Minutes Boost . You must be level 100 to claim this code"
   }
  ],
- "updated": "2026-09-09T12:26:18.263Z",
+ "updated": "2026-09-10T18:20:46.266Z",
  "source": "https://robloxden.com/game-codes/swordburst-2"
 }

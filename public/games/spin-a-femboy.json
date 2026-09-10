@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "catwaii",
+   "reward": "5 Molten Dice , 10 Diamond Dice and 20 Platinum Dice"
+  },
+  {
    "code": "ULTRA",
    "reward": "100 Gems , 5 Golden Dice , 3 Diamond Dice and 10 Emerald Dice"
   },
@@ -19,20 +23,12 @@
    "reward": "1,500 Gems"
   },
   {
-   "code": "gemgem9",
-   "reward": "1,200 Gems"
-  },
-  {
    "code": "SUNDAY",
    "reward": "$250,000 Cash , 15 Gems , 5 Golden Dice , and 10 Silver Dice"
   },
   {
    "code": "NEWMEMBERS",
    "reward": "$500,000 Cash , 25 Gems , 10 Glacial Dice , and 15 Aquamarine Dice"
-  },
-  {
-   "code": "meowmeowcat",
-   "reward": "350 Gems , 50 Aquamarine Dice , 25 Glacial Dice , 5 Pride Dice , and 3"
   },
   {
    "code": "KITTYMEOW",
@@ -49,8 +45,40 @@
   {
    "code": "UPDATEOUT",
    "reward": "500 Gems and 15 Diamond Dice"
+  },
+  {
+   "code": "meowmeowcat2",
+   "reward": "350 Gems , 5 Holy Dice and 5 Molten Dice"
+  },
+  {
+   "code": "step1",
+   "reward": "50 Gems and 10 Golden Dice"
+  },
+  {
+   "code": "step2",
+   "reward": "50 Gems and 3 Platinum Dice"
+  },
+  {
+   "code": "step3",
+   "reward": "50 Gems and 3 Platinum Dice"
+  },
+  {
+   "code": "step4",
+   "reward": "3 Platinum Dice"
+  },
+  {
+   "code": "step11",
+   "reward": "50 Gems and 5 Platinum Dice"
+  },
+  {
+   "code": "gemgem9",
+   "reward": "1,200 Gems"
+  },
+  {
+   "code": "meowmeowcat",
+   "reward": "350 Gems , 50 Aquamarine Dice , 25 Glacial Dice , 5 Pride Dice , and 3"
   }
  ],
- "updated": "2026-09-09T12:22:29.597Z",
+ "updated": "2026-09-10T18:19:21.724Z",
  "source": "https://robloxden.com/game-codes/spin-a-femboy"
 }

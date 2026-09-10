@@ -11,10 +11,6 @@
    "reward": "50 Clan Spins, 20 Demon Art Spins, And 2 Daily Spins"
   },
   {
-   "code": "1o0millvisits-_--breathingreset",
-   "reward": "A Breathing Reset"
-  },
-  {
    "code": "3AsTeRRaceReset",
    "reward": "A Race Reset"
   },
@@ -25,8 +21,12 @@
   {
    "code": "1o0MillVisits-_-",
    "reward": "50 Clan Spins, 20 Demon Art Spins, And 2 Daily Spins"
+  },
+  {
+   "code": "SorryForAnotherShutdownLOL",
+   "reward": "40 Spins"
   }
  ],
- "updated": "2026-09-09T06:21:14.410Z",
+ "updated": "2026-09-10T12:21:14.942Z",
  "source": "https://robloxden.com/game-codes/project-slayers"
 }

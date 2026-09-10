@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DOWNTAMA",
+   "reward": "2,500 Yen and 10 Reroll Tokens"
+  },
+  {
    "code": "THISCODEGIVESEXACTLYONEREROLL",
    "reward": "1 Reroll Token"
   },
@@ -19,14 +23,14 @@
    "reward": "3 Reroll Tokens"
   },
   {
-   "code": "STYLEJOBMONEYFIXES",
-   "reward": "6,000 Yen and 2 Reroll Tokens"
-  },
-  {
    "code": "GETACAMCORDER",
    "reward": "1,500 Yen"
+  },
+  {
+   "code": "THANKSFORYOURPATIENCE",
+   "reward": "5 Reroll Tokens"
   }
  ],
- "updated": "2026-09-09T06:27:37.051Z",
+ "updated": "2026-09-10T12:30:16.964Z",
  "source": "https://robloxden.com/game-codes/rintama-high"
 }

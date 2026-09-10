@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1",
+   "reward": "125.02 Gems , 3 Stats Potions , 3 Rune Luck Potions , 3 Rune Bulk Poti"
+  },
+  {
+   "code": "OPSIEDAISY",
+   "reward": "1 Stats Potion , 1 Rune Luck Potion , 1 Rune Bulk Potion , and 1 Rune "
+  },
+  {
    "code": "BUGINCREMENTAL",
    "reward": "2 Stats Potions , 2 Rune Luck Potions , 2 Rune Bulk Potions , and 2 Ru"
   },
@@ -17,8 +25,12 @@
   {
    "code": "TIER7",
    "reward": "125.02 Gems , 1 Stats Potion , 1 Rune Luck Potion , 1 Rune Bulk Potion"
+  },
+  {
+   "code": "TUTORIALREWORK",
+   "reward": "25 Robux Tokens"
   }
  ],
- "updated": "2026-09-09T06:24:00.167Z",
+ "updated": "2026-09-10T12:25:16.005Z",
  "source": "https://robloxden.com/game-codes/magnet-incremental"
 }

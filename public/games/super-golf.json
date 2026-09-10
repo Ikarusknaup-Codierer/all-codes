@@ -11,10 +11,6 @@
    "reward": "Special Reward"
   },
   {
-   "code": "FREECHEST!",
-   "reward": "Chest Chest"
-  },
-  {
    "code": "RUSSO",
    "reward": "Blue Charmer"
   },
@@ -95,10 +91,10 @@
    "reward": "Hat Chest"
   },
   {
-   "code": "SUPERLATESORRY",
-   "reward": "the Pride Flag"
+   "code": "FREECHEST!",
+   "reward": "Chest Chest"
   }
  ],
- "updated": "2026-09-09T06:21:21.914Z",
+ "updated": "2026-09-10T12:21:22.186Z",
  "source": "https://robloxden.com/game-codes/super-golf"
 }

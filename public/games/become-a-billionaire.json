@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "FREEROLLS",
+   "reward": "10 RNG Rolls"
+  },
+  {
+   "code": "CommunityServer",
+   "reward": "10 RNG Rolls"
+  },
+  {
+   "code": "UPDATELOG",
+   "reward": "10 RNG Rolls"
   }
  ],
- "updated": "2026-09-09T06:27:35.484Z",
+ "updated": "2026-09-10T12:30:12.251Z",
  "source": "https://robloxden.com/game-codes/become-a-billionaire"
 }

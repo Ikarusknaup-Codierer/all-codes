@@ -79,14 +79,14 @@
    "reward": "a 10 Minute 2x Workout Boost"
   },
   {
-   "code": "500likes",
-   "reward": "x2 Energy Boost"
-  },
-  {
    "code": "1000likes",
    "reward": "A Boost"
+  },
+  {
+   "code": "TRUEPOWEROF",
+   "reward": "a 2x Workout Speed Buff"
   }
  ],
- "updated": "2026-09-09T06:23:42.209Z",
+ "updated": "2026-09-10T12:24:33.252Z",
  "source": "https://robloxden.com/game-codes/strongman-simulator"
 }

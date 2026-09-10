@@ -11,12 +11,12 @@
    "reward": "the Disappointment Title"
   },
   {
-   "code": "secretsakuracode",
-   "reward": "a reroll"
-  },
-  {
    "code": "sakura",
    "reward": "24 Basic Crates and 1,400 Cash"
+  },
+  {
+   "code": "drills",
+   "reward": "15 Basic Crates and 1,200 Cash"
   },
   {
    "code": "trading",
@@ -27,6 +27,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-09-09T06:26:06.416Z",
+ "updated": "2026-09-10T12:28:05.148Z",
  "source": "https://robloxden.com/game-codes/dig"
 }

@@ -123,10 +123,14 @@
    "reward": "a 1 Hour XP Boost"
   },
   {
-   "code": "ResetSkillPoints3",
-   "reward": "1 Skill Points Reset"
+   "code": "ExpBoost3",
+   "reward": "an EXP Boost"
+  },
+  {
+   "code": "RerollReiatsu3",
+   "reward": "a Reiatsu Reroll"
   }
  ],
- "updated": "2026-09-09T06:22:09.952Z",
+ "updated": "2026-09-10T12:22:23.815Z",
  "source": "https://robloxden.com/game-codes/bleach-era"
 }

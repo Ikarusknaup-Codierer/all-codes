@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SPEED82",
+   "reward": "25,000 Speed"
+  },
+  {
+   "code": "FINISH2",
+   "reward": "40,000 Wins"
+  },
+  {
+   "code": "150KLIKES",
+   "reward": "150,000 Speed"
+  },
+  {
+   "code": "FLASH",
+   "reward": "25,000 Speed"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "2,500 Wins"
+  },
+  {
+   "code": "HEADSET1",
+   "reward": "1 Blue Headset"
+  },
+  {
+   "code": "WINNER4",
+   "reward": "400 Wins"
+  },
+  {
+   "code": "ARIGAMES",
+   "reward": "35,000 Speed and the AriiGames Badge"
   }
  ],
- "updated": "2026-09-09T06:27:35.012Z",
+ "updated": "2026-09-10T12:30:11.707Z",
  "source": "https://robloxden.com/game-codes/1-kitten-keyboard-escape"
 }

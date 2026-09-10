@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WPLAYERS",
-   "reward": "20 Pops"
-  },
-  {
-   "code": "AAFINISHED",
-   "reward": "50 Pops"
-  },
-  {
    "code": "UPD4",
    "reward": "50 Pops"
   },
@@ -23,8 +15,16 @@
    "reward": "20 Pops"
   },
   {
+   "code": "WPLAYERS",
+   "reward": "20 Pops"
+  },
+  {
    "code": "WSUSHIW",
    "reward": "30 Pops"
+  },
+  {
+   "code": "AAFINISHED",
+   "reward": "50 Pops"
   },
   {
    "code": "UPDATE1",
@@ -35,6 +35,6 @@
    "reward": "50 Pops"
   }
  ],
- "updated": "2026-09-09T06:23:40.665Z",
+ "updated": "2026-09-10T12:24:26.885Z",
  "source": "https://robloxden.com/game-codes/pop-for-free-oboz"
 }

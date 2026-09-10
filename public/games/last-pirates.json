@@ -47,14 +47,14 @@
    "reward": "a Stat Reset"
   },
   {
-   "code": "WHENUPDATE",
+   "code": "RESET",
    "reward": "1 Stat Reset"
   },
   {
-   "code": "UPDATE2",
+   "code": "PixelJoe",
    "reward": "a Stat Reset"
   }
  ],
- "updated": "2026-09-09T06:25:07.109Z",
+ "updated": "2026-09-10T12:26:39.881Z",
  "source": "https://robloxden.com/game-codes/last-pirates"
 }

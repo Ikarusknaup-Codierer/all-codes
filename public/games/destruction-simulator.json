@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "REEL",
-   "reward": "10,000 Coins"
-  },
-  {
-   "code": "freelevels",
-   "reward": "5 Free Levels"
+   "code": "gottagrind",
+   "reward": "1,000 Coins"
   },
   {
    "code": "turkeytime",
@@ -25,8 +21,12 @@
   {
    "code": "UPDATE3",
    "reward": "Free Diamonds"
+  },
+  {
+   "code": "LEVELBOOST",
+   "reward": "a 1 Level Boost"
   }
  ],
- "updated": "2026-09-09T06:25:12.667Z",
+ "updated": "2026-09-10T12:26:46.027Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

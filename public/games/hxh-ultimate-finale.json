@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "TERRA",
-   "reward": "1 Affinity Spin"
+   "code": "STAN",
+   "reward": "1 Common Spin"
   },
   {
-   "code": "DROPTHEGAME",
-   "reward": "1 Uncommon New Reroll"
+   "code": "TERRA",
+   "reward": "1 Affinity Spin"
   },
   {
    "code": "SORRY",
@@ -21,8 +21,12 @@
   {
    "code": "WYDVEDDEN",
    "reward": "1 Lucky Nen Affinity"
+  },
+  {
+   "code": "DANGBRUH",
+   "reward": "1 Rare Hatsu Reroll"
   }
  ],
- "updated": "2026-09-09T06:22:44.991Z",
+ "updated": "2026-09-10T12:23:18.889Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

@@ -11,12 +11,12 @@
    "reward": "2x Experience (20 Minutes)"
   },
   {
-   "code": "Chandler",
-   "reward": "0 Cash"
+   "code": "pleasezakineedthis",
+   "reward": "rewards"
   },
   {
-   "code": "KITT_RESET",
-   "reward": "1 Stat Reset"
+   "code": "Chandler",
+   "reward": "0 Cash"
   },
   {
    "code": "SUB2CAPTAINMAUi",
@@ -71,10 +71,6 @@
    "reward": "a 30 Minute 2x XP Boost"
   },
   {
-   "code": "FUDD10_V2",
-   "reward": "$2"
-  },
-  {
    "code": "BLUXXY",
    "reward": "a 20 Minute 2x XP Boost"
   },
@@ -91,10 +87,6 @@
    "reward": "a 20 Minute 2x XP Boost"
   },
   {
-   "code": "ENYU_IS_PRO",
-   "reward": "a 20 Minute 2x XP Boost"
-  },
-  {
    "code": "SUB2FER999",
    "reward": "a 20 Minute 2x XP Boost"
   },
@@ -103,14 +95,18 @@
    "reward": "a 20 Minute 2x XP Boost"
   },
   {
-   "code": "1M60WOWZER",
-   "reward": ""
+   "code": "KITT_RESET",
+   "reward": "1 Stat Reset"
   },
   {
-   "code": "1BILLION",
-   "reward": "2 Hours of 2x Experience"
+   "code": "FUDD10_V2",
+   "reward": "$2"
+  },
+  {
+   "code": "ENYU_IS_PRO",
+   "reward": "a 20 Minute 2x XP Boost"
   }
  ],
- "updated": "2026-09-09T06:25:29.846Z",
+ "updated": "2026-09-10T12:27:05.191Z",
  "source": "https://robloxden.com/game-codes/blox-fruits"
 }

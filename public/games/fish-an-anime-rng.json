@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SACRIFICE",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "ECLIPSE",
+   "reward": "5,000 Gems"
+  },
+  {
    "code": "1000MEMBERS",
    "reward": "5 Cosmic Boxes"
   },
@@ -31,6 +39,6 @@
    "reward": "5 Cosmic Boxes"
   }
  ],
- "updated": "2026-09-09T12:24:41.304Z",
+ "updated": "2026-09-10T12:35:53.288Z",
  "source": "https://robloxden.com/game-codes/fish-an-anime-rng"
 }

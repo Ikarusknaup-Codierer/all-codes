@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SPEED82",
+   "reward": "25,000 Speed"
+  },
+  {
+   "code": "FINISH2",
+   "reward": "40,000 Wins"
+  },
+  {
+   "code": "WINNER4",
+   "reward": "400 Wins"
+  },
+  {
+   "code": "150KLIKES",
+   "reward": "150,000 Speed"
+  },
+  {
+   "code": "HEADSET1",
+   "reward": "the Blue Headset and 50% Speed"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "2,500 Wins"
+  },
+  {
+   "code": "FLASH",
+   "reward": "25,000 Speed"
   }
  ],
- "updated": "2026-09-09T12:23:50.265Z",
+ "updated": "2026-09-10T12:34:55.317Z",
  "source": "https://robloxden.com/game-codes/1-backflip-keyboard-escape"
 }

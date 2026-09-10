@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Blueprint",
+   "reward": "12 Spins"
+  },
+  {
+   "code": "StrongHeu",
+   "reward": "12 Spins"
+  },
+  {
+   "code": "MasterKuruk",
+   "reward": "13 Spins"
+  },
+  {
+   "code": "YokuCinematic",
+   "reward": "17 Spins"
+  },
+  {
+   "code": "Avatardan",
+   "reward": "11 Spins"
+  },
+  {
    "code": "ClanSystemSoon",
    "reward": "6 Spins"
   },
@@ -27,6 +47,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-09T12:23:52.489Z",
+ "updated": "2026-09-10T12:34:57.467Z",
  "source": "https://robloxden.com/game-codes/bending-grounds"
 }

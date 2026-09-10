@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FREESKIN",
+   "reward": "a Free Spin for a random Skin"
+  },
+  {
+   "code": "ROOMCUSTOM",
+   "reward": "15,000 Cash"
+  },
+  {
    "code": "ENDING5",
    "reward": "5,000 Cash"
   },
@@ -15,22 +23,18 @@
    "reward": "5,000 Cash"
   },
   {
+   "code": "BLOODMOON!",
+   "reward": "10,000 Cash and 1 Jumpscare Token"
+  },
+  {
    "code": "BLOODMOON",
    "reward": "10,000 Cash and a Jumpscare Token"
   },
   {
    "code": "MEDAL_QUEST",
    "reward": "1,000 Cash"
-  },
-  {
-   "code": "BLOODMOON!",
-   "reward": "10,000 Cash and 1 Jumpscare Token"
-  },
-  {
-   "code": "ROOM!",
-   "reward": "3,500 Cash"
   }
  ],
- "updated": "2026-09-09T06:23:27.182Z",
+ "updated": "2026-09-10T12:24:11.821Z",
  "source": "https://robloxden.com/game-codes/keep-the-door-locked"
 }

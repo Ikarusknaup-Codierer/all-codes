@@ -11,6 +11,10 @@
    "reward": "some exclusive Items"
   },
   {
+   "code": "MerryEaster2019",
+   "reward": "free Easter items"
+  },
+  {
    "code": "haunted",
    "reward": "a Halloween Case"
   },
@@ -21,12 +25,8 @@
   {
    "code": "solid",
    "reward": "a Material Case"
-  },
-  {
-   "code": "1year",
-   "reward": "a Pattern Case"
   }
  ],
- "updated": "2026-09-09T06:21:41.372Z",
+ "updated": "2026-09-10T12:21:44.734Z",
  "source": "https://robloxden.com/game-codes/silent-assassin"
 }

@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ServerIssues26",
-   "reward": "40 Hearts"
-  },
-  {
-   "code": "Ayato1_And_2",
-   "reward": "1 Million RC , 10 Million Yen , 30 Color Credits , and 20 Hearts"
-  },
-  {
    "code": "Farewell_CRH",
    "reward": "80 Hearts"
   },
@@ -47,6 +39,14 @@
    "reward": "60 Color Credits , 40 Hearts , 1,000,000 RC and 10,000,000 Yen"
   },
   {
+   "code": "ServerIssues26",
+   "reward": "40 Hearts"
+  },
+  {
+   "code": "Ayato1_And_2",
+   "reward": "1 Million RC , 10 Million Yen , 30 Color Credits , and 20 Hearts"
+  },
+  {
    "code": "IwaSpecHotfixShenanigans",
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   },
@@ -63,6 +63,6 @@
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   }
  ],
- "updated": "2026-09-09T06:25:02.296Z",
+ "updated": "2026-09-10T12:26:32.813Z",
  "source": "https://robloxden.com/game-codes/ro-ghoul"
 }

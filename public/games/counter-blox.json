@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "JUNE26",
-   "reward": "100 Credits . Only the first 3,000 players can claim this code"
-  },
-  {
    "code": "SPRINGPART2",
    "reward": "150 Credits . Only the first 3,000 players can claim this code"
   },
@@ -25,8 +21,12 @@
   {
    "code": "GAPPTV",
    "reward": "150 Cash"
+  },
+  {
+   "code": "BLOXY",
+   "reward": "1 2019 Bloxy Patch"
   }
  ],
- "updated": "2026-09-09T06:26:22.145Z",
+ "updated": "2026-09-10T12:28:22.622Z",
  "source": "https://robloxden.com/game-codes/counter-blox"
 }

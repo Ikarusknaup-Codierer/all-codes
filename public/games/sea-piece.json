@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SECONDSEA!",
-   "reward": "123 Beli"
-  },
-  {
    "code": "Update7!",
    "reward": "246,810 Beli"
   },
@@ -19,14 +15,18 @@
    "reward": "Beli And Stat Reset"
   },
   {
-   "code": "10kLikes!",
-   "reward": "2x Exp For 15 Minutes And 250,000 Beli"
-  },
-  {
    "code": "cat!",
    "reward": "Double XP For 5 Minutes"
+  },
+  {
+   "code": "Sub2MtBossG",
+   "reward": "Free Stuff"
+  },
+  {
+   "code": "WORLDS2022!",
+   "reward": "25 Candy"
   }
  ],
- "updated": "2026-09-09T06:24:38.352Z",
+ "updated": "2026-09-10T12:26:04.189Z",
  "source": "https://robloxden.com/game-codes/sea-piece"
 }

@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "gottagrind",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "turkeytime",
    "reward": "48 Hour X2 XP Boost"
+  },
+  {
+   "code": "2500CODE",
+   "reward": "100 Diamonds"
   },
   {
    "code": "1000LIKES",
@@ -23,10 +23,10 @@
    "reward": "Free Diamonds"
   },
   {
-   "code": "LEVELBOOST",
-   "reward": "a 1 Level Boost"
+   "code": "LEVELUP",
+   "reward": "a 5 Level Boost and Double XP for 48 Hours"
   }
  ],
- "updated": "2026-09-10T12:26:46.027Z",
+ "updated": "2026-09-11T18:19:42.098Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

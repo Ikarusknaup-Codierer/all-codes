@@ -479,14 +479,14 @@
    "reward": "the Rock Paper Scissors Item"
   },
   {
-   "code": "knock-knock",
-   "reward": "Doors Item"
+   "code": "12345",
+   "reward": "Random Item"
   },
   {
-   "code": "MADREGATE",
-   "reward": "the Mothergate Item"
+   "code": "pizzatimepizzaria",
+   "reward": "Random New Item"
   }
  ],
- "updated": "2026-09-10T12:26:15.815Z",
+ "updated": "2026-09-11T18:19:15.030Z",
  "source": "https://robloxden.com/game-codes/pop-it-trading"
 }

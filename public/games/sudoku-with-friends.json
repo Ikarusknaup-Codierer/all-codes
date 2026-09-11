@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ITEMDROPBUG",
+   "reward": "10 Gems and 2 Revive Tokens"
+  },
+  {
    "code": "Sudoku550k",
    "reward": "15 Gems, 50 Cash and 5 Revive Tokens"
   },
@@ -19,6 +23,6 @@
    "reward": "17 Gems, 20 Cash and 5 Revive Tokens"
   }
  ],
- "updated": "2026-09-10T12:23:52.797Z",
+ "updated": "2026-09-11T18:18:02.251Z",
  "source": "https://robloxden.com/game-codes/sudoku-with-friends"
 }

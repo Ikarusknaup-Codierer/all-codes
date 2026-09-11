@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE3!",
+   "reward": "Rewards"
+  },
+  {
+   "code": "DUNGEONS!",
+   "reward": "50,000 Rolls"
+  },
+  {
+   "code": "LONGEVITY!",
+   "reward": "Rewards . To use this code, you must at least have 100,000 Rolls"
+  },
+  {
    "code": "LongevityCode",
    "reward": "Free Rewards"
   },
@@ -131,6 +143,6 @@
    "reward": "3x Luck Potion III , 3x Roll Speed Potion III , 3x Battle Speed Potion"
   }
  ],
- "updated": "2026-09-10T12:24:19.798Z",
+ "updated": "2026-09-11T18:18:12.708Z",
  "source": "https://robloxden.com/game-codes/card-chronicles"
 }

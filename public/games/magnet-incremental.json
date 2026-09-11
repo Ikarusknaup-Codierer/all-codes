@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1DOT5",
+   "reward": "136.11 Gems"
+  },
+  {
+   "code": "SMALLDELAY2",
+   "reward": "50 Fire and 250 Trait Tokens"
+  },
+  {
    "code": "UPDATE1",
    "reward": "125.02 Gems , 3 Stats Potions , 3 Rune Luck Potions , 3 Rune Bulk Poti"
   },
@@ -31,6 +39,6 @@
    "reward": "25 Robux Tokens"
   }
  ],
- "updated": "2026-09-10T12:25:16.005Z",
+ "updated": "2026-09-11T18:18:34.153Z",
  "source": "https://robloxden.com/game-codes/magnet-incremental"
 }

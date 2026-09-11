@@ -11,10 +11,6 @@
    "reward": "Easter Cat"
   },
   {
-   "code": "REINDEER23",
-   "reward": "Reindeer Plush"
-  },
-  {
    "code": "25BINGO",
    "reward": "Special Deluxe Marker"
   },
@@ -23,10 +19,14 @@
    "reward": "Candy Cane Marker"
   },
   {
+   "code": "TREE24",
+   "reward": "Neon Christmas Tree Light"
+  },
+  {
    "code": "50BINGO",
    "reward": "the Deluxe Red Marker"
   }
  ],
- "updated": "2026-09-10T12:25:43.454Z",
+ "updated": "2026-09-11T18:18:49.494Z",
  "source": "https://robloxden.com/game-codes/bloxy-bingo"
 }

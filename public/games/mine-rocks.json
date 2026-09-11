@@ -11,10 +11,6 @@
    "reward": "1.25x Geode Multiplier"
   },
   {
-   "code": "100K",
-   "reward": "an Exclusive Pickaxe"
-  },
-  {
    "code": "UPD2",
    "reward": "1 Geodes"
   },
@@ -23,10 +19,14 @@
    "reward": "1 Geodes"
   },
   {
+   "code": "100K",
+   "reward": "an Exclusive Pickaxe"
+  },
+  {
    "code": "CASES",
    "reward": "1.25x Current Geodes *"
   }
  ],
- "updated": "2026-09-10T12:29:05.170Z",
+ "updated": "2026-09-11T18:21:30.629Z",
  "source": "https://robloxden.com/game-codes/mine-rocks"
 }

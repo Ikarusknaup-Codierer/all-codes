@@ -23,10 +23,6 @@
    "reward": "Zarc Pistol"
   },
   {
-   "code": "MONSTER",
-   "reward": "300 Pumpkins"
-  },
-  {
    "code": "PRIMAL",
    "reward": "500 Bones"
   },
@@ -57,8 +53,12 @@
   {
    "code": "60KL1KES",
    "reward": "450 Bones"
+  },
+  {
+   "code": "MONSTER",
+   "reward": "300 Pumpkins"
   }
  ],
- "updated": "2026-09-10T06:27:17.467Z",
+ "updated": "2026-09-11T12:23:41.088Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

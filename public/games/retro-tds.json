@@ -11,6 +11,10 @@
    "reward": "A Reward"
   },
   {
+   "code": "whenpart2",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "30k",
    "reward": "150 Coins"
   },
@@ -21,12 +25,8 @@
   {
    "code": "Spooky!",
    "reward": "150 Cash"
-  },
-  {
-   "code": "BUGGED",
-   "reward": "500 Cash"
   }
  ],
- "updated": "2026-09-10T12:21:07.890Z",
+ "updated": "2026-09-11T12:26:27.600Z",
  "source": "https://robloxden.com/game-codes/retro-tds"
 }

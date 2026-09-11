@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ItsBeenReal",
+   "reward": "15 Gold"
+  },
+  {
+   "code": "10MVisits!",
+   "reward": "10 Gold"
+  },
+  {
    "code": "Terminus",
    "reward": "5 Gold"
   },
@@ -19,6 +27,6 @@
    "reward": "2,000 Cash"
   }
  ],
- "updated": "2026-09-10T12:23:56.910Z",
+ "updated": "2026-09-11T12:28:28.037Z",
  "source": "https://robloxden.com/game-codes/slap-a-zombie"
 }

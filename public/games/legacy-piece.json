@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "minislopupdate!!",
-   "reward": "10,000 shards and 1 Drop potion"
-  },
-  {
    "code": "sorryfordelay5!!",
    "reward": "2 Drop Potions and 10,000 Shards"
   },
@@ -87,10 +83,10 @@
    "reward": "100 Clan Rerolls, 50 Abyssal Chests and 10K Shards"
   },
   {
-   "code": "PIKAFLIGHTFIX",
-   "reward": "75,000 Gold and Double EXP (30 Minutes)"
+   "code": "minislopupdate!!",
+   "reward": "10,000 shards and 1 Drop potion"
   }
  ],
- "updated": "2026-09-10T12:21:53.470Z",
+ "updated": "2026-09-11T12:27:05.617Z",
  "source": "https://robloxden.com/game-codes/legacy-piece"
 }

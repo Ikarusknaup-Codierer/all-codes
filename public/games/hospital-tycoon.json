@@ -71,10 +71,14 @@
    "reward": "a 5 Minute 2x Cash Boost"
   },
   {
-   "code": "100K",
-   "reward": "Ten Minutes Of Double Cash"
+   "code": "BOUNTY",
+   "reward": "5 Minutes of Double Jump"
+  },
+  {
+   "code": "NPC",
+   "reward": "a 10 Minute 2x Cash Boost"
   }
  ],
- "updated": "2026-09-10T12:26:00.840Z",
+ "updated": "2026-09-11T12:29:42.471Z",
  "source": "https://robloxden.com/game-codes/hospital-tycoon"
 }

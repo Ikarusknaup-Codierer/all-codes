@@ -11,22 +11,22 @@
    "reward": "1 Prismatic Elixir , 15 Egg Elixirs , 15 Super Lucky Elixirs , and 15 "
   },
   {
-   "code": "Likes24",
-   "reward": "1 Golden Cherry , 1 Coin Elixir , and 1 Super Lucky Elixir"
-  },
-  {
    "code": "Cherry",
    "reward": "1 Golden Cherry"
   },
   {
-   "code": "tropical",
-   "reward": "500 Tropical Mystery Eggs And 5k Coconuts"
+   "code": "REBOOT",
+   "reward": "10 Sea Elixirs, 5k Festive Mystery Eggs, 1 Prismatic Sundae, 15 Egg El"
   },
   {
    "code": "hardcore",
    "reward": "4 Hardcore Tomes"
+  },
+  {
+   "code": "atlantis",
+   "reward": "2 Magic Pendants"
   }
  ],
- "updated": "2026-09-10T06:26:15.901Z",
+ "updated": "2026-09-11T12:22:42.662Z",
  "source": "https://robloxden.com/game-codes/pet-catchers"
 }

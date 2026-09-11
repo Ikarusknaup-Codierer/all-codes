@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "EASTER",
-   "reward": "20,000 Cash"
-  },
-  {
    "code": "F16",
    "reward": "Free Cash"
   },
@@ -19,18 +15,22 @@
    "reward": "Free Cash"
   },
   {
-   "code": "UPDATE2",
-   "reward": "Cash"
+   "code": "40KLIKES",
+   "reward": "$3k Cash"
   },
   {
-   "code": "RELEASE",
-   "reward": "5K Cash"
+   "code": "PIRATES",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "ATTACK",
+   "reward": "3,000 Cash"
   },
   {
    "code": "NEW",
    "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-09-10T06:25:59.326Z",
+ "updated": "2026-09-11T12:22:27.566Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

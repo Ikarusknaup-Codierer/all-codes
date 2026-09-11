@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SUBTOV2GIS",
+   "reward": "1 Common Spin"
+  },
+  {
    "code": "STAN",
    "reward": "1 Common Spin"
   },
@@ -15,18 +19,14 @@
    "reward": "1 Affinity Spin"
   },
   {
-   "code": "SORRY",
-   "reward": "1 Clan Reroll"
-  },
-  {
-   "code": "WYDVEDDEN",
-   "reward": "1 Lucky Nen Affinity"
+   "code": "CMONVEDDEN",
+   "reward": "1 Lucky New Reroll"
   },
   {
    "code": "DANGBRUH",
    "reward": "1 Rare Hatsu Reroll"
   }
  ],
- "updated": "2026-09-10T12:23:18.889Z",
+ "updated": "2026-09-11T12:28:01.391Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

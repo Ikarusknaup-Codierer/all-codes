@@ -19,10 +19,6 @@
    "reward": "5000 Zeni"
   },
   {
-   "code": "4KSIGNUPS",
-   "reward": "Dragon Ball"
-  },
-  {
    "code": "HaveABall",
    "reward": "A Dragon Ball"
   },
@@ -47,10 +43,6 @@
    "reward": "Five Star Dragon Ball"
   },
   {
-   "code": "2ManyBugs4me",
-   "reward": "Seven Star Dragon Ball"
-  },
-  {
    "code": "HaveSomeExp",
    "reward": "2x XP Boost (20 minutes)"
   },
@@ -73,8 +65,16 @@
   {
    "code": "HappyEaster2026",
    "reward": "30 Eggs"
+  },
+  {
+   "code": "4KSIGNUPS",
+   "reward": "Dragon Ball"
+  },
+  {
+   "code": "2ManyBugs4me",
+   "reward": "Seven Star Dragon Ball"
   }
  ],
- "updated": "2026-09-10T06:26:31.467Z",
+ "updated": "2026-09-11T12:22:56.878Z",
  "source": "https://robloxden.com/game-codes/dragon-ball-rage"
 }

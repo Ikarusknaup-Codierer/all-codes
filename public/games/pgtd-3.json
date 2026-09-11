@@ -11,22 +11,22 @@
    "reward": "$25,000 of Doubled Money"
   },
   {
+   "code": "LuckyWeekend",
+   "reward": "Reward"
+  },
+  {
    "code": "GoldRushMillion",
    "reward": "1,000,000 of 2x Money Boost"
   },
   {
-   "code": "9000Likes",
-   "reward": "100 Stars"
+   "code": "UpgradeTokens",
+   "reward": "10 Upgrade Token"
   },
   {
-   "code": "ExploitFix",
-   "reward": "100 Stars"
-  },
-  {
-   "code": "375Likes",
-   "reward": "3,000 ExpBoost"
+   "code": "275Likes",
+   "reward": "750 MoneyBoost"
   }
  ],
- "updated": "2026-09-10T06:28:06.279Z",
+ "updated": "2026-09-11T12:24:29.212Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

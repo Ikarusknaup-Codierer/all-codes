@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ONEFORYOU",
-   "reward": "Exp"
+   "code": "MELLYMILLY",
+   "reward": "Lostvayne"
   },
   {
-   "code": "10MILLYOURWELCOME",
+   "code": "EXPCODEBUGGY",
+   "reward": "a reward"
+  },
+  {
+   "code": "WESORRY4BUG",
+   "reward": "some free spins"
+  },
+  {
+   "code": "SKILLMAGIC",
    "reward": "Magic Spins"
   },
   {
-   "code": "STATRESET1",
-   "reward": "a Stat Reset"
-  },
-  {
-   "code": "BETARELEASE",
-   "reward": "5 Race Spins"
-  },
-  {
-   "code": "3EXPGANG",
-   "reward": "10,000,000 XP"
+   "code": "RACEAWAY",
+   "reward": "Race Spins"
   }
  ],
- "updated": "2026-09-10T12:22:59.268Z",
+ "updated": "2026-09-11T12:27:48.940Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

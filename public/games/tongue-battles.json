@@ -11,6 +11,10 @@
    "reward": "200 Coins"
   },
   {
+   "code": "like10k",
+   "reward": "Free Coins"
+  },
+  {
    "code": "sword",
    "reward": "Free Coins"
   },
@@ -19,14 +23,10 @@
    "reward": "Free Coins"
   },
   {
-   "code": "tb",
+   "code": "like501k",
    "reward": "Free Coins"
-  },
-  {
-   "code": "l60k",
-   "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-10T06:25:12.437Z",
+ "updated": "2026-09-11T12:21:51.119Z",
  "source": "https://robloxden.com/game-codes/tongue-battles"
 }

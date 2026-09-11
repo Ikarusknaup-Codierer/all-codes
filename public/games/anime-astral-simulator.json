@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "AUTOSPAWNBOSS",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "HUNTERLICENSE",
+   "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "UPDATE11",
    "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -315,6 +323,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-09-10T12:24:08.270Z",
+ "updated": "2026-09-11T12:28:37.404Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

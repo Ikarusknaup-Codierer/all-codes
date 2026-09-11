@@ -19,6 +19,10 @@
    "reward": "1 Rebirth"
   },
   {
+   "code": "50MILLIONVISITS",
+   "reward": "5 Rebirths and 1 Plasma Turret . In order to redeem this code, you mus"
+  },
+  {
    "code": "OG",
    "reward": "1 Rebirth . To redeem this code, you must have the Early Supporter ran"
   },
@@ -29,10 +33,6 @@
   {
    "code": "85KLIKES",
    "reward": "1 Rebirth"
-  },
-  {
-   "code": "50MILLIONVISITS",
-   "reward": "5 Rebirths and 1 Plasma Turret . In order to redeem this code, you mus"
   },
   {
    "code": "WINTER2022",
@@ -91,6 +91,6 @@
    "reward": "800,000 Cash and 800,000 Energy"
   }
  ],
- "updated": "2026-09-10T12:25:35.612Z",
+ "updated": "2026-09-11T12:29:22.304Z",
  "source": "https://robloxden.com/game-codes/survival-zombie-tycoon"
 }

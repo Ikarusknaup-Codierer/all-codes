@@ -15,18 +15,18 @@
    "reward": "Rewards"
   },
   {
-   "code": "Sega",
-   "reward": "Boosts"
+   "code": "25325",
+   "reward": "Luck Potion VI (60 minutes)"
+  },
+  {
+   "code": "stoketheflames",
+   "reward": "+90% Luck Boost (1 hour)"
   },
   {
    "code": "letsmakeadeal",
    "reward": "+%90 Level Boost (1 hour)"
-  },
-  {
-   "code": "enchanted",
-   "reward": "+90% Levels (1 hour)"
   }
  ],
- "updated": "2026-09-10T06:25:54.267Z",
+ "updated": "2026-09-11T12:22:21.120Z",
  "source": "https://robloxden.com/game-codes/admin-simulator"
 }

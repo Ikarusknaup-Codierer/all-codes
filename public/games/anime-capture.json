@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "QOL",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "PotionsTier2",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "Fixes",
+   "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
+  },
+  {
+   "code": "Sorryshut99",
+   "reward": "2 Energy Potion , 2 Damage Potion , 2 Gems Potion , 2 Drops Potion , 2"
+  },
+  {
    "code": "65kfav",
    "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
   },
@@ -367,6 +383,6 @@
    "reward": "Potions , 250 F2P Tickets , and a Commander Sword"
   }
  ],
- "updated": "2026-09-10T06:28:55.411Z",
+ "updated": "2026-09-11T12:25:11.213Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

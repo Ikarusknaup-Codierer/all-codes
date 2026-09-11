@@ -39,10 +39,6 @@
    "reward": "3 Gold Potions"
   },
   {
-   "code": "BossUpdate",
-   "reward": "one Abyss Reaver Crate"
-  },
-  {
    "code": "Batteries",
    "reward": "3 Golden Batteries"
   },
@@ -69,8 +65,12 @@
   {
    "code": "INFERNOROLL",
    "reward": "an Inferno Battery"
+  },
+  {
+   "code": "BossUpdate",
+   "reward": "one Abyss Reaver Crate"
   }
  ],
- "updated": "2026-09-10T12:21:37.863Z",
+ "updated": "2026-09-11T12:26:51.730Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

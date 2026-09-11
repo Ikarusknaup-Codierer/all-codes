@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LVLMEUP!",
+   "reward": "15,000 Coins and 1,500 XP"
+  },
+  {
+   "code": "INEEDMORECODES!",
+   "reward": "a Luck Booster , a Gold Pack and 15,000 Coins"
+  },
+  {
    "code": "QUICKDRAW!",
    "reward": "10,000 Coins , 10 Tickets , and 1 Lucky Booster . Can be redeemed on n"
   },
@@ -31,6 +39,10 @@
    "reward": "Free Rewards"
   },
   {
+   "code": "COIN",
+   "reward": "Rewards"
+  },
+  {
    "code": "FREEMONEYGLITCH",
    "reward": "15,000 Coins"
   },
@@ -39,6 +51,6 @@
    "reward": "15,000 Coins and 1 Lucky Booster"
   }
  ],
- "updated": "2026-09-10T06:20:59.445Z",
+ "updated": "2026-09-11T06:25:16.963Z",
  "source": "https://robloxden.com/game-codes/highschool-hoops-demo"
 }

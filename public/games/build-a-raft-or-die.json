@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BUILDY",
+   "reward": "Rewards"
+  },
+  {
    "code": "builderman",
    "reward": "Coins"
   },
@@ -71,6 +75,6 @@
    "reward": "Coins"
   }
  ],
- "updated": "2026-09-10T06:24:45.582Z",
+ "updated": "2026-09-11T06:28:36.347Z",
  "source": "https://robloxden.com/game-codes/build-a-raft-or-die"
 }

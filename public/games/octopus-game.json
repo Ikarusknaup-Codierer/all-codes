@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "secretcode123willtotallywork",
+   "reward": "$2,000"
+  },
+  {
    "code": "TRADING",
    "reward": "1M Cash And An Outfit"
   },
@@ -39,10 +43,14 @@
    "reward": "1 Outfit Case"
   },
   {
-   "code": "PREUPDATE",
-   "reward": "Cash And Outfit Case"
+   "code": "XMAS",
+   "reward": "a Limited-time Outfit and $2.5 Million"
+  },
+  {
+   "code": "25MVISITS",
+   "reward": "250,000 Cash and 1 Case"
   }
  ],
- "updated": "2026-09-10T00:26:33.328Z",
+ "updated": "2026-09-11T06:22:02.184Z",
  "source": "https://robloxden.com/game-codes/octopus-game"
 }

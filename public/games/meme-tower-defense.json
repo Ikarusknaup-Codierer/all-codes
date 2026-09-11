@@ -11,22 +11,22 @@
    "reward": "69 Coins"
   },
   {
-   "code": "BackRooms",
+   "code": "RELEASE",
    "reward": "200 MemBits"
-  },
-  {
-   "code": "DiscordGuys",
-   "reward": "250 MemBits"
   },
   {
    "code": "1week!",
    "reward": "250 Coins"
   },
   {
-   "code": "EVENT",
-   "reward": "1000 MemBits"
+   "code": "Mine",
+   "reward": "100 MemBits"
+  },
+  {
+   "code": "2500groupMembers",
+   "reward": "MemBits"
   }
  ],
- "updated": "2026-09-10T00:24:07.165Z",
+ "updated": "2026-09-11T06:20:06.765Z",
  "source": "https://robloxden.com/game-codes/meme-tower-defense"
 }

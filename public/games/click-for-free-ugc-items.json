@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "FREUGC",
+   "code": "HAIRS",
    "reward": "Clicks"
+  },
+  {
+   "code": "VALENTINE",
+   "reward": "Clicks And Potions"
   },
   {
    "code": "POTIONS",
@@ -19,14 +23,10 @@
    "reward": "20,000 Clicks and 150 Gems"
   },
   {
-   "code": "99NIGHT",
-   "reward": "65,000 Clicks"
-  },
-  {
-   "code": "OWL",
-   "reward": "20,000 Clicks"
+   "code": "NEWUGC",
+   "reward": "50,000 Clicks"
   }
  ],
- "updated": "2026-09-09T18:22:48.127Z",
+ "updated": "2026-09-11T00:23:28.323Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

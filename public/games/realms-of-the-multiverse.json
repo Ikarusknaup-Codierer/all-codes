@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
-   "reward": "Reward"
+   "code": "halloween",
+   "reward": "3,500 Coins"
   },
   {
-   "code": "taversia",
+   "code": "ashes",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "weareback",
    "reward": "250 Coins"
   },
   {
-   "code": "100K",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "waterduchess",
+   "code": "corruptionn",
    "reward": "250 Coins"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-09T18:26:54.244Z",
+ "updated": "2026-09-11T00:27:51.696Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

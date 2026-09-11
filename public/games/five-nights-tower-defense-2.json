@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE44",
+   "reward": "5,000 Tokens , 100 Souls , 50 Endo Chips , 50 Soldering Irons , and 5 "
+  },
+  {
+   "code": "DJLOLBIT",
+   "reward": "10,000 Tokens , 250 Souls , and 25 Season Presents . You must have a m"
+  },
+  {
+   "code": "MALACHITE",
+   "reward": "25,000 Tokens , 350 Souls , 50 Season Presents , 5 Anniversary Present"
+  },
+  {
    "code": "CHIPSNOFISH",
    "reward": "50 Endo Chips and 15 Springlocks"
   },
@@ -119,6 +131,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-09T18:22:28.362Z",
+ "updated": "2026-09-11T00:22:55.729Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

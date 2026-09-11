@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "10MVISITS",
-   "reward": "25,000 Cash"
-  },
-  {
    "code": "DONOTREDEEM",
    "reward": "30-Minute Luck Boost"
   },
@@ -27,10 +23,14 @@
    "reward": "a 30 Minute Luck Boost"
   },
   {
+   "code": "10MVISITS",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "BIGPLANS",
    "reward": "a 30 Minute Luck Boost and 1,000 Cash"
   }
  ],
- "updated": "2026-09-09T18:24:27.921Z",
+ "updated": "2026-09-11T00:25:11.390Z",
  "source": "https://robloxden.com/game-codes/gone-hunting"
 }

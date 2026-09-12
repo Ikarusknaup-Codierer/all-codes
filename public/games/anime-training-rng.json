@@ -223,14 +223,18 @@
    "reward": "+1 Luck Boost (2 minutes)"
   },
   {
-   "code": "sigma",
-   "reward": "10 Super Rolls, 10 Lucky Rolls, And An Omega Roll"
+   "code": "greg",
+   "reward": "2 Super Rolls And An Omega Roll"
+  },
+  {
+   "code": "50kmembers",
+   "reward": "10 Super Rolls And 10 Lucky Rolls"
   },
   {
    "code": "new",
    "reward": "2 Super Roll"
   }
  ],
- "updated": "2026-09-11T06:23:12.930Z",
+ "updated": "2026-09-12T15:22:28.766Z",
  "source": "https://robloxden.com/game-codes/anime-training-rng"
 }

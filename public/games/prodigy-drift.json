@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MEMBER",
-   "reward": "$5,000 Cash"
-  },
-  {
-   "code": "JOINGROUP",
-   "reward": "7,500 Cash"
-  },
-  {
-   "code": "55LIKER",
-   "reward": "7,500 Cash"
-  },
-  {
    "code": "HAPPYNEWYEAR",
    "reward": "10,000 Cash"
   },
@@ -173,8 +161,20 @@
   {
    "code": "HUNDA",
    "reward": "$10,000 Cash"
+  },
+  {
+   "code": "MEMBER",
+   "reward": "$5,000 Cash"
+  },
+  {
+   "code": "JOINGROUP",
+   "reward": "7,500 Cash"
+  },
+  {
+   "code": "55LIKER",
+   "reward": "7,500 Cash"
   }
  ],
- "updated": "2026-09-11T06:23:59.872Z",
+ "updated": "2026-09-12T15:23:23.586Z",
  "source": "https://robloxden.com/game-codes/prodigy-drift"
 }

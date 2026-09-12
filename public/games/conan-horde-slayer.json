@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TABLE",
+   "reward": "Table Leg Maul"
+  },
+  {
    "code": "FREEGOLD",
    "reward": "50 Gold"
   },
@@ -21,12 +25,8 @@
   {
    "code": "HARBINGER",
    "reward": "60 Gold"
-  },
-  {
-   "code": "TABLE",
-   "reward": "Table Leg Maul"
   }
  ],
- "updated": "2026-09-11T06:22:46.027Z",
+ "updated": "2026-09-12T15:22:03.226Z",
  "source": "https://robloxden.com/game-codes/conan-horde-slayer"
 }

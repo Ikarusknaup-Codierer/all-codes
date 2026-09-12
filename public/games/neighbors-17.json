@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "HAWK",
-   "reward": "100 Credits"
-  },
-  {
-   "code": "ELF",
-   "reward": "250 Credits"
+   "code": "60K",
+   "reward": "60 Credits"
   },
   {
    "code": "WINTER24",
@@ -23,10 +19,14 @@
    "reward": "100 Credits"
   },
   {
-   "code": "ILOVEBOOGLE",
-   "reward": "100 Credits"
+   "code": "200K",
+   "reward": "200 Credits"
+  },
+  {
+   "code": "TREASURE",
+   "reward": "150 Credits"
   }
  ],
- "updated": "2026-09-11T06:24:08.787Z",
+ "updated": "2026-09-12T15:23:32.191Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

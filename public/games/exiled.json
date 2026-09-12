@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATEDELAYED",
+   "reward": "Free rewards"
+  },
+  {
    "code": "NEWMAPCOMING",
    "reward": "Free rewards"
   },
@@ -21,12 +25,8 @@
   {
    "code": "5MVISITS",
    "reward": "1,000 Tokens"
-  },
-  {
-   "code": "80KLIKES",
-   "reward": "500 Tokens"
   }
  ],
- "updated": "2026-09-11T06:19:47.195Z",
+ "updated": "2026-09-12T15:19:30.615Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

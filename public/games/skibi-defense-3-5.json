@@ -39,10 +39,6 @@
    "reward": "Unknown Rewards"
   },
   {
-   "code": "Jeffrey",
-   "reward": "5x Speed Boost"
-  },
-  {
    "code": "TraitRemakeLate",
    "reward": "15 Premium Coins , 77,000 Shards , and 10 Cursed Keys"
   },
@@ -53,6 +49,10 @@
   {
    "code": "GSquad",
    "reward": "7 Lucky Shards, 2 Hours of 2x Credit, 2 Hours of 2x EXP and 1 Hour 3x "
+  },
+  {
+   "code": "Jeffrey",
+   "reward": "5x Speed Boost"
   },
   {
    "code": "delays",
@@ -199,6 +199,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-09-11T06:27:43.493Z",
+ "updated": "2026-09-12T15:26:43.870Z",
  "source": "https://robloxden.com/game-codes/skibi-defense-3-5"
 }

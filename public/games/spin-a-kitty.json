@@ -51,20 +51,16 @@
    "reward": "100 Cash and 10 Basic Dice"
   },
   {
+   "code": "EARLYGAME",
+   "reward": "Rewards"
+  },
+  {
    "code": "MACHINES",
    "reward": "350 Gems"
   },
   {
    "code": "upday",
    "reward": "150 Gems and 3 Saturn Dice"
-  },
-  {
-   "code": "ilikegems",
-   "reward": "350 Gems"
-  },
-  {
-   "code": "KittyTODAY",
-   "reward": "30 Diamonds, 15 Amber Dice, 3 Hacker Dice, 4 Nexus Dice and 450,000 Ca"
   },
   {
    "code": "LATEGAME",
@@ -95,6 +91,6 @@
    "reward": "100 Astral Dice"
   }
  ],
- "updated": "2026-09-10T18:25:02.098Z",
+ "updated": "2026-09-12T04:04:41.854Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

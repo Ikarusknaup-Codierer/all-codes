@@ -39,14 +39,14 @@
    "reward": "3 Potions and 5 Tokens"
   },
   {
-   "code": "map",
-   "reward": "Potions and Attribute Gems"
-  },
-  {
    "code": "VISITS75K",
    "reward": "3 Potions and 1,000 Attribute Gems"
+  },
+  {
+   "code": "INDUSTRY",
+   "reward": "6 Potions and 2,500 Attribute Gems"
   }
  ],
- "updated": "2026-09-10T18:20:02.347Z",
+ "updated": "2026-09-12T03:59:00.416Z",
  "source": "https://robloxden.com/game-codes/ascension-incremental"
 }

@@ -31,10 +31,6 @@
    "reward": "a Heretic Hat"
   },
   {
-   "code": "MajorObjectives",
-   "reward": "200 Medals and 1 Enlisted Cosmetic Crates"
-  },
-  {
    "code": "4MVISITS",
    "reward": "600 Medals"
   },
@@ -57,6 +53,10 @@
   {
    "code": "1KCCUREWARD",
    "reward": "500 Medals, 3 Enlisted Cosmetic Crates, 1 Enlisted Firearm Crate and 1"
+  },
+  {
+   "code": "MajorObjectives",
+   "reward": "200 Medals and 1 Enlisted Cosmetic Crates"
   },
   {
    "code": "MERCILESSWARBOND",
@@ -91,6 +91,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-09-10T18:19:07.372Z",
+ "updated": "2026-09-12T03:58:07.671Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

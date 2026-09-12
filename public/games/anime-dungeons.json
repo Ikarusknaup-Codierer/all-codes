@@ -31,6 +31,10 @@
    "reward": "2,500 Gems and 50 Trait Rerolls"
   },
   {
+   "code": "500KVISITS",
+   "reward": "10 Trait Rerolls , 500 Gems , and 10 Stat Rerolls"
+  },
+  {
    "code": "800KVISITS",
    "reward": "10 Trait Rerolls , 500 Gems , and 10 Stat Rerolls"
   },
@@ -47,16 +51,12 @@
    "reward": "30 Trait Rerolls , 2,500 Gems , and 20 Stat Rerolls"
   },
   {
-   "code": "300KVISITS",
-   "reward": "10 Trait Rerolls , 10 Stat Rerolls , and 500 Gems"
-  },
-  {
-   "code": "500KVISITS",
-   "reward": "10 Trait Rerolls , 500 Gems , and 10 Stat Rerolls"
-  },
-  {
    "code": "ALLAGES",
    "reward": "25 Trait Rerolls , 25 Stat Rerolls , and 2,000 Gems"
+  },
+  {
+   "code": "300KVISITS",
+   "reward": "10 Trait Rerolls , 10 Stat Rerolls , and 500 Gems"
   },
   {
    "code": "EARLYACCESS",
@@ -71,6 +71,6 @@
    "reward": "20 Trait Rerolls , 20 Stat Rerolls , and 1,000 Gems"
   }
  ],
- "updated": "2026-09-10T18:19:48.094Z",
+ "updated": "2026-09-12T03:58:47.454Z",
  "source": "https://robloxden.com/game-codes/anime-dungeons"
 }

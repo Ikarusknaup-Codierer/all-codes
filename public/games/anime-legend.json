@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AURAS",
+   "reward": "Coins And Gems"
+  },
+  {
    "code": "FREEPET",
    "reward": "Coins And Gems"
   },
@@ -15,18 +19,14 @@
    "reward": "Coins And Gems"
   },
   {
-   "code": "vol",
-   "reward": "Gift"
-  },
-  {
    "code": "lurex",
    "reward": "Gift"
   },
   {
-   "code": "antiafk",
+   "code": "chavez",
    "reward": "Gift"
   }
  ],
- "updated": "2026-09-11T00:22:38.758Z",
+ "updated": "2026-09-12T10:24:27.206Z",
  "source": "https://robloxden.com/game-codes/anime-legend"
 }

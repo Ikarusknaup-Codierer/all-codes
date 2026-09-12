@@ -11,10 +11,6 @@
    "reward": "a 2x Money Boost"
   },
   {
-   "code": "PUMPKIN",
-   "reward": "100,000 Cash"
-  },
-  {
    "code": "VANILLA",
    "reward": "125,000 Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "snowflake",
    "reward": "50,000 Cash"
+  },
+  {
+   "code": "IRON",
+   "reward": "1,000 Iron"
   }
  ],
- "updated": "2026-09-11T00:25:58.280Z",
+ "updated": "2026-09-12T10:26:50.928Z",
  "source": "https://robloxden.com/game-codes/donuts-tycoon"
 }

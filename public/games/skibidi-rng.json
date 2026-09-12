@@ -71,10 +71,14 @@
    "reward": "2 Potions"
   },
   {
-   "code": "5000Members",
+   "code": "50kVisits",
+   "reward": "X3 Fortune 2 Potion, X2 Fortune 1 Potion, And X2 Luck Potion"
+  },
+  {
+   "code": "600Likes",
    "reward": "Free Potions"
   }
  ],
- "updated": "2026-09-11T00:29:13.938Z",
+ "updated": "2026-09-12T10:29:48.916Z",
  "source": "https://robloxden.com/game-codes/skibidi-rng"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WELCOME",
+   "reward": "5 Coins"
+  },
+  {
    "code": "COB",
    "reward": "3 Coins"
   },
@@ -25,20 +29,8 @@
   {
    "code": "GOLDENFREDDY",
    "reward": "5 Coins"
-  },
-  {
-   "code": "WELCOME",
-   "reward": "5 Coins"
-  },
-  {
-   "code": "40MVISITS",
-   "reward": "40 Coins"
-  },
-  {
-   "code": "COREDASMAMINHAS",
-   "reward": "2 Coins"
   }
  ],
- "updated": "2026-09-11T00:25:06.576Z",
+ "updated": "2026-09-12T10:26:03.294Z",
  "source": "https://robloxden.com/game-codes/fnaf-eternal-nights"
 }

@@ -15,10 +15,6 @@
    "reward": "300,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
   },
   {
-   "code": "SHIN",
-   "reward": "100,000 Coins and 2 Elemental Rolls"
-  },
-  {
    "code": "CATAPULT",
    "reward": "120,000 Coins , 60 Minutes Double EXP , 60 Minutes Double Coins , 1 El"
   },
@@ -107,6 +103,10 @@
    "reward": "200,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
   },
   {
+   "code": "SHIN",
+   "reward": "100,000 Coins and 2 Elemental Rolls"
+  },
+  {
    "code": "WENESDAY",
    "reward": "200,000 Coins , 2 Rare Manuals , and 2 Celebration Spins"
   },
@@ -183,6 +183,6 @@
    "reward": "1 Uncommon Manual and 30 Mins Double XP"
   }
  ],
- "updated": "2026-09-11T00:24:07.352Z",
+ "updated": "2026-09-12T10:25:13.314Z",
  "source": "https://robloxden.com/game-codes/inazuma-strikers"
 }

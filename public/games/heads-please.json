@@ -13,8 +13,24 @@
   {
    "code": "sryforquest3",
    "reward": "3 Corrupted Shard"
+  },
+  {
+   "code": "Trinity",
+   "reward": "3 Coins , 3 Enchant Books , and 3 Accessory Tickets"
+  },
+  {
+   "code": "ThankYouFor1kCCU",
+   "reward": "Drinks"
+  },
+  {
+   "code": "sorryforlagging",
+   "reward": "Drinks"
+  },
+  {
+   "code": "2kCCU",
+   "reward": "10 Enchant Books and 10 Accessory Tickets"
   }
  ],
- "updated": "2026-09-11T00:25:52.121Z",
+ "updated": "2026-09-12T10:26:44.928Z",
  "source": "https://robloxden.com/game-codes/heads-please"
 }

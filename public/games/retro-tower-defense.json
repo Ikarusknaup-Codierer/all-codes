@@ -47,14 +47,14 @@
    "reward": "50 Tix"
   },
   {
-   "code": "TRADING",
-   "reward": "500 Tix and a 3x Luck Boost"
-  },
-  {
    "code": "NEVERMOOR",
    "reward": "500 Tix and +15% Tix Boost (1 Hour)"
+  },
+  {
+   "code": "HappyBDAYBelow",
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-11T00:26:43.731Z",
+ "updated": "2026-09-12T10:27:32.340Z",
  "source": "https://robloxden.com/game-codes/retro-tower-defense"
 }

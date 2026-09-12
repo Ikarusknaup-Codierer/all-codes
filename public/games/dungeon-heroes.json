@@ -27,6 +27,18 @@
    "reward": "Light Aura"
   },
   {
+   "code": "LOVE",
+   "reward": "Rewards"
+  },
+  {
+   "code": "HAPPY",
+   "reward": "Rewards"
+  },
+  {
+   "code": "CAT",
+   "reward": "Rewards"
+  },
+  {
    "code": "PIRATESHIP",
    "reward": "the Ghost Pirate Aura , 1 Gem Booster (1 Hour) , 1 Key Booster (6 Hour"
   },
@@ -71,6 +83,6 @@
    "reward": "5 Distilled Health Potion and Sparkler Aura"
   }
  ],
- "updated": "2026-09-11T00:26:19.799Z",
+ "updated": "2026-09-12T10:27:10.705Z",
  "source": "https://robloxden.com/game-codes/dungeon-heroes"
 }

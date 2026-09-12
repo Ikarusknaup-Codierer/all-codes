@@ -11,10 +11,6 @@
    "reward": "1 Manta Ray"
   },
   {
-   "code": "SPECIAL10M",
-   "reward": "101 Gems , 10,101 Money , and 1 Random Arcana Fish"
-  },
-  {
    "code": "ZH8GG0",
    "reward": "1 Yellowfin Tuna"
   },
@@ -37,8 +33,12 @@
   {
    "code": "W1W0KDE70K",
    "reward": "50 Gems and 100 Money"
+  },
+  {
+   "code": "SPECIAL10M",
+   "reward": "101 Gems , 10,101 Money , and 1 Random Arcana Fish"
   }
  ],
- "updated": "2026-09-11T00:26:16.493Z",
+ "updated": "2026-09-12T10:27:07.933Z",
  "source": "https://robloxden.com/game-codes/become-a-deep-sea-explorer"
 }

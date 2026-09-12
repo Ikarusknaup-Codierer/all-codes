@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Treasure",
+   "reward": "rewards . Use this code in the second code redemption section"
+  },
+  {
+   "code": "SORRYFORBUGS",
+   "reward": "5 of all Potions and 30 Diamonds"
+  },
+  {
+   "code": "100CCU",
+   "reward": "3 of all Potions and 15 Diamonds"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "3 of all Potions and 30 Tickets"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "5 of all Potions and 20 Diamonds"
   }
  ],
- "updated": "2026-09-11T00:22:56.307Z",
+ "updated": "2026-09-12T10:24:36.087Z",
  "source": "https://robloxden.com/game-codes/treasure-incremental"
 }

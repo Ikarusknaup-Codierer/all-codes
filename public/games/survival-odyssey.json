@@ -119,14 +119,14 @@
    "reward": "2,500 Coins"
   },
   {
-   "code": "Release",
+   "code": "content",
    "reward": ""
   },
   {
-   "code": "QuickFix",
-   "reward": "10,000 Coins"
+   "code": "QOLUPDATE",
+   "reward": "3,500 Coins"
   }
  ],
- "updated": "2026-09-11T00:30:10.579Z",
+ "updated": "2026-09-12T10:30:41.345Z",
  "source": "https://robloxden.com/game-codes/survival-odyssey"
 }

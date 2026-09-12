@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "IDKWHATTONAMETHISCODE",
+   "code": "JULY4TH",
    "reward": "$1,000"
   },
   {
-   "code": "EGGSPLOSION",
+   "code": "EASTER",
+   "reward": "$750"
+  },
+  {
+   "code": "PHROG",
+   "reward": "$1,500"
+  },
+  {
+   "code": "NEWYEARS",
    "reward": "$2,500"
   },
   {
-   "code": "KALASH",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "LOCKNLOAD",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "SURVIVORSWON",
-   "reward": "Unknown Reward"
+   "code": "PACKJET",
+   "reward": "$1,000"
   }
  ],
- "updated": "2026-09-11T12:23:02.576Z",
+ "updated": "2026-09-12T20:25:36.610Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

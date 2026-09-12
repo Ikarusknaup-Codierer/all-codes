@@ -11,16 +11,16 @@
    "reward": "Free Cash"
   },
   {
+   "code": "30KLIKES",
+   "reward": "Free Cash"
+  },
+  {
    "code": "UPDATE",
    "reward": "Free Cash"
   },
   {
-   "code": "40KLIKES",
-   "reward": "$3k Cash"
-  },
-  {
-   "code": "PIRATES",
-   "reward": "1,000 Cash"
+   "code": "UPDATE2",
+   "reward": "Cash"
   },
   {
    "code": "ATTACK",
@@ -31,6 +31,6 @@
    "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-09-11T12:22:27.566Z",
+ "updated": "2026-09-12T20:24:56.802Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

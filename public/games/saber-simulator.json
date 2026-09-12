@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MAGIC",
+   "reward": "50 Void Charms , 50 Shiny Charms , and 50 Rainbow Charms"
+  },
+  {
    "code": "AUG26",
    "reward": "10 Enchant Tokens and 100 Rainbow Charms"
   },
@@ -407,10 +411,10 @@
    "reward": "Charms"
   },
   {
-   "code": "BEAST",
-   "reward": "600 Crowns"
+   "code": "XMAS",
+   "reward": "500 Crowns"
   }
  ],
- "updated": "2026-09-11T12:25:20.693Z",
+ "updated": "2026-09-12T20:28:09.468Z",
  "source": "https://robloxden.com/game-codes/saber-simulator"
 }

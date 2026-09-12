@@ -23,10 +23,6 @@
    "reward": "Green Whoosh Hair"
   },
   {
-   "code": "SEASON9",
-   "reward": "Speed Potion"
-  },
-  {
    "code": "292024",
    "reward": "Luck Potion"
   },
@@ -93,8 +89,12 @@
   {
    "code": "FREECHEST!",
    "reward": "Chest Chest"
+  },
+  {
+   "code": "SEASON9",
+   "reward": "Speed Potion"
   }
  ],
- "updated": "2026-09-11T12:26:41.042Z",
+ "updated": "2026-09-12T20:29:39.441Z",
  "source": "https://robloxden.com/game-codes/super-golf"
 }

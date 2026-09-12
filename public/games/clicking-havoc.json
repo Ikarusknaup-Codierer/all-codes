@@ -215,10 +215,14 @@
    "reward": "the Mythic Lava Elemental Pet"
   },
   {
-   "code": "400KVISITS",
-   "reward": "1 2x Clicks Boost"
+   "code": "UPDATE25",
+   "reward": "20 Minutes Of 2x Boss Damage And 2x Luck"
+  },
+  {
+   "code": "VOID",
+   "reward": "the Mythic Void Star Shine Pet"
   }
  ],
- "updated": "2026-09-11T12:27:33.474Z",
+ "updated": "2026-09-12T20:30:39.147Z",
  "source": "https://robloxden.com/game-codes/clicking-havoc"
 }

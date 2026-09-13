@@ -7,30 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SukunaBuff",
-   "reward": "8 Lucky Clan Spins and 8 Binding Vow Spins"
-  },
-  {
-   "code": "MissionBoard!",
-   "reward": "8 Lucky Clan Spins and 8 Binding Vow Spins"
-  },
-  {
-   "code": "MissileFist",
-   "reward": "8 Lucky Clan Spins and 8 Binding Vows"
-  },
-  {
-   "code": "QOL!",
-   "reward": "12 Lucky Clan Spins and 12 Binding Vows"
-  },
-  {
-   "code": "Dagon!",
-   "reward": "8 Lucky Clan Spins and 8 Binding Vow Spins"
-  },
-  {
-   "code": "DisasterTides",
-   "reward": "12 Lucky Clan Spins and 12 Binding Vow Spins"
-  },
-  {
    "code": "TojiAwakens!",
    "reward": "Rewards"
   },
@@ -55,6 +31,30 @@
    "reward": "5 Lucky Clan Spins and 5 Binding Vow Spins"
   },
   {
+   "code": "SukunaBuff",
+   "reward": "8 Lucky Clan Spins and 8 Binding Vow Spins"
+  },
+  {
+   "code": "MissionBoard!",
+   "reward": "8 Lucky Clan Spins and 8 Binding Vow Spins"
+  },
+  {
+   "code": "MissileFist",
+   "reward": "8 Lucky Clan Spins and 8 Binding Vows"
+  },
+  {
+   "code": "QOL!",
+   "reward": "12 Lucky Clan Spins and 12 Binding Vows"
+  },
+  {
+   "code": "Dagon!",
+   "reward": "8 Lucky Clan Spins and 8 Binding Vow Spins"
+  },
+  {
+   "code": "DisasterTides",
+   "reward": "12 Lucky Clan Spins and 12 Binding Vow Spins"
+  },
+  {
    "code": "Naoya!",
    "reward": "7 Lucky Clan Spins and 7 Binding Vows"
   },
@@ -67,6 +67,6 @@
    "reward": "6 Lucky Clan Spins and 45 Minutes 2x Raid Rewards"
   }
  ],
- "updated": "2026-09-12T04:04:40.381Z",
+ "updated": "2026-09-13T11:34:16.470Z",
  "source": "https://robloxden.com/game-codes/kaizen"
 }

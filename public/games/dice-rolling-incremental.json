@@ -173,8 +173,12 @@
   {
    "code": "CameFromFabs",
    "reward": "3 All Potions (except Runic)"
+  },
+  {
+   "code": "Variance",
+   "reward": "4 of Each Potion"
   }
  ],
- "updated": "2026-09-12T03:58:16.670Z",
+ "updated": "2026-09-13T11:28:05.160Z",
  "source": "https://robloxden.com/game-codes/dice-rolling-incremental"
 }

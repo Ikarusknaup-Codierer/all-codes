@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SECRET",
+   "reward": "2 Level Up potions and 1 Relic Chest"
+  },
+  {
    "code": "PVP",
    "reward": "2 Level Up Potions and 1 Relic Chest"
   },
@@ -87,6 +91,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-09-12T04:01:53.168Z",
+ "updated": "2026-09-13T11:31:45.224Z",
  "source": "https://robloxden.com/game-codes/anime-waifu-card-collection"
 }

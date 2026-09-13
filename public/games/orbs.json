@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "rebirth_time",
+   "reward": "100 Rebirth Points"
+  },
+  {
    "code": "johnsecret",
    "reward": "a Potion"
   },
@@ -43,6 +47,6 @@
    "reward": "Orbs"
   }
  ],
- "updated": "2026-09-12T10:24:51.331Z",
+ "updated": "2026-09-13T11:36:03.758Z",
  "source": "https://robloxden.com/game-codes/orbs"
 }

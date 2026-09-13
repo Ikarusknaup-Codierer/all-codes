@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "ireadtips",
+   "reward": "1 Unstable Clan Reroll Potion"
+  },
+  {
    "code": "imback",
    "reward": "1 of Each Runes"
+  },
+  {
+   "code": "!animationsbugfix",
+   "reward": "2 Unstable Clan Reroll Potions"
   },
   {
    "code": "!summerevent2026",
@@ -17,6 +25,14 @@
   {
    "code": "!summerboost2026",
    "reward": "2x Drop Boost (1 Hour) and 2x Yen Boost (1 Hour)"
+  },
+  {
+   "code": "!2mvisits",
+   "reward": "1 Unstable Breathing Reset Potion , 3 Unstable BDA Reroll Potions , an"
+  },
+  {
+   "code": "!20klikes",
+   "reward": "10 Unstable Appearance Reroll Potions , 5 Unstable Nichirin Appearance"
   },
   {
    "code": "!10kfavourites",
@@ -45,24 +61,8 @@
   {
    "code": "!timetofarm",
    "reward": "2x Drop Rate Boost (2 Hours) and 2x Yen Boost (2 Hours)"
-  },
-  {
-   "code": "ireadtips",
-   "reward": "1 Unstable Clan Reroll Potion"
-  },
-  {
-   "code": "!animationsbugfix",
-   "reward": "2 Unstable Clan Reroll Potions"
-  },
-  {
-   "code": "!2mvisits",
-   "reward": "1 Unstable Breathing Reset Potion , 3 Unstable BDA Reroll Potions , an"
-  },
-  {
-   "code": "!20klikes",
-   "reward": "10 Unstable Appearance Reroll Potions , 5 Unstable Nichirin Appearance"
   }
  ],
- "updated": "2026-09-12T04:02:48.631Z",
+ "updated": "2026-09-13T11:32:23.409Z",
  "source": "https://robloxden.com/game-codes/untitled-slayer"
 }

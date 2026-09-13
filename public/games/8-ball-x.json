@@ -11,10 +11,6 @@
    "reward": "1,500 Cash and 1 Lucky Skill Spin"
   },
   {
-   "code": "MONSTERBALL!",
-   "reward": "25 Normal Skill Spins"
-  },
-  {
    "code": "LOCKEDSLOTS!",
    "reward": "1,500 Cash and 1 Lucky Skill Spin"
   },
@@ -35,14 +31,14 @@
    "reward": "25 Normal Skill Spins"
   },
   {
-   "code": "BUGFIXES2!",
-   "reward": "1,500 Cash and one Lucky Skill Spin"
+   "code": "MONSTERBALL!",
+   "reward": "25 Normal Skill Spins"
   },
   {
-   "code": "AIUPD!",
-   "reward": "15 Skill Spins and 5 Slot Spins"
+   "code": "BUGFIXES2!",
+   "reward": "1,500 Cash and one Lucky Skill Spin"
   }
  ],
- "updated": "2026-09-12T04:00:25.836Z",
+ "updated": "2026-09-13T11:30:36.161Z",
  "source": "https://robloxden.com/game-codes/8-ball-x"
 }

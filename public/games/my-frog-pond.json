@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BARNABY",
-   "reward": "Freebies"
-  },
-  {
    "code": "DRYADFROG",
    "reward": "Freebies"
   },
@@ -23,10 +19,14 @@
    "reward": "50 Hexadrops"
   },
   {
+   "code": "PONDMAKEOVER",
+   "reward": "50 Hexadrops"
+  },
+  {
    "code": "20KLIKES",
    "reward": "120,000 Ribbles"
   }
  ],
- "updated": "2026-09-12T03:59:53.943Z",
+ "updated": "2026-09-13T11:30:02.529Z",
  "source": "https://robloxden.com/game-codes/my-frog-pond"
 }

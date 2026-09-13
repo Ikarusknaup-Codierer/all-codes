@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE4",
+   "reward": "5 Rolls"
+  },
+  {
    "code": "ABSOLUTE",
    "reward": "7 Rolls"
   },
@@ -19,6 +23,6 @@
    "reward": "Rolls"
   }
  ],
- "updated": "2026-09-12T04:01:04.881Z",
+ "updated": "2026-09-13T11:31:01.456Z",
  "source": "https://robloxden.com/game-codes/chasing"
 }

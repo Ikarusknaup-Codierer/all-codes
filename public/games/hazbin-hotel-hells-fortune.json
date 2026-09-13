@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Sunflower",
+   "reward": "1 Luck Potion III"
+  },
+  {
+   "code": "Peridot",
+   "reward": "10 Epic rolls"
+  },
+  {
+   "code": "Dogdays",
+   "reward": "2 Haste Potion II"
+  },
+  {
+   "code": "Harvest",
+   "reward": "2 Greed Potion II"
+  },
+  {
+   "code": "Perseid",
+   "reward": "5 Epic rolls"
+  },
+  {
    "code": "VOXMOGSALASTOR",
    "reward": "10 Epic+ Rolls"
   },
@@ -353,12 +373,8 @@
   {
    "code": "aprilfools",
    "reward": "10x Luck Potion III"
-  },
-  {
-   "code": "fishy",
-   "reward": "Blooper"
   }
  ],
- "updated": "2026-09-12T04:03:38.266Z",
+ "updated": "2026-09-13T11:33:11.888Z",
  "source": "https://robloxden.com/game-codes/hazbin-hotel-hells-fortune"
 }

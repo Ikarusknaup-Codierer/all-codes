@@ -15,6 +15,10 @@
    "reward": "3,500 Lumens , 250 Cursed Crystals , and 35 Clan Rolls"
   },
   {
+   "code": "AWAKENED",
+   "reward": "1,000 Cursed Crystals , 5,000 Lumens , and 50 Clan Rolls"
+  },
+  {
    "code": "CALAMITY",
    "reward": "1,000 Cursed Crystals , 10,000 Lumens , and 50 Clan Rolls"
   },
@@ -39,10 +43,6 @@
    "reward": "500 Cursed Crystals , 3,500 Lumens , and 500 Summer Shells"
   },
   {
-   "code": "Part1_IS_INTRO_WAYMOREINPart2",
-   "reward": "500 Cursed Crystals and 6 Shadow Essence"
-  },
-  {
    "code": "STARDOMAIN",
    "reward": "500 Cursed Crystals , 3,500 Lumens , and 500 Summer Shells"
   },
@@ -59,6 +59,6 @@
    "reward": "3,500 Lumens and 35 Clan Rolls"
   }
  ],
- "updated": "2026-09-12T04:04:20.668Z",
+ "updated": "2026-09-13T11:33:56.429Z",
  "source": "https://robloxden.com/game-codes/jujutsu-zero"
 }

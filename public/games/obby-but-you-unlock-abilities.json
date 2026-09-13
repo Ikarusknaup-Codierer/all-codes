@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
+   "code": "MOREGRAPPLERSTAGES",
+   "reward": "750 Coins and 10 Chaos Tokens"
+  },
+  {
    "code": "GAMEISBACKONLINE",
-   "reward": "1K Coins"
+   "reward": "1,000 Coins and 10 Chaos Tokens"
   },
   {
    "code": "SAIMONFIXEDDAILY",
@@ -19,14 +23,10 @@
    "reward": "750 Coins and 10 Chaos Tokens"
   },
   {
-   "code": "MOREGRAPPLERSTAGES",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "CODEUPDATE",
    "reward": "750 Coins and 10 Chaos Coins"
   }
  ],
- "updated": "2026-09-12T04:01:41.854Z",
+ "updated": "2026-09-13T11:31:33.505Z",
  "source": "https://robloxden.com/game-codes/obby-but-you-unlock-abilities"
 }

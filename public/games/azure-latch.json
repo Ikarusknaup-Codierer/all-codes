@@ -19,10 +19,6 @@
    "reward": "2,500 Style Coins and 3,000 Cash"
   },
   {
-   "code": "MYANIMEFANSMAN",
-   "reward": "My Anime Fans Man Emote"
-  },
-  {
    "code": "BROTHERNOAH",
    "reward": "Brother Noah Emote"
   },
@@ -115,10 +111,14 @@
    "reward": "15,000 Style Coins and 15,000 Cash"
   },
   {
+   "code": "MYANIMEFANSMAN",
+   "reward": "My Anime Fans Man Emote"
+  },
+  {
    "code": "QUIET",
    "reward": "X Emote"
   }
  ],
- "updated": "2026-09-12T04:02:45.631Z",
+ "updated": "2026-09-13T11:32:20.206Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

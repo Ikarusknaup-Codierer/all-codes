@@ -7,32 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "WEATHER",
-   "reward": "1 Weather Potion"
-  },
-  {
-   "code": "500CCU",
-   "reward": "3 Itsuwari Dice"
-  },
-  {
-   "code": "EVIL",
-   "reward": "7,000 Stars"
-  },
-  {
-   "code": "BLUEMOON",
-   "reward": "the Luck Potion II"
-  },
-  {
-   "code": "500CCUAGAIN",
-   "reward": "7 Itsuwari Dice"
-  },
-  {
    "code": "1KLIKES",
    "reward": "9,000 Stars"
-  },
-  {
-   "code": "BYEBYESUMMER",
-   "reward": "1 Summon Potion II"
   },
   {
    "code": "TRADING",
@@ -79,6 +55,6 @@
    "reward": "1 Clover Potion"
   }
  ],
- "updated": "2026-09-12T03:58:28.998Z",
+ "updated": "2026-09-13T11:28:18.752Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

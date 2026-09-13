@@ -11,10 +11,6 @@
    "reward": "250 Spins"
   },
   {
-   "code": "100EXTRA",
-   "reward": "100 Spins"
-  },
-  {
    "code": "4MVISITS",
    "reward": "40 Spins"
   },
@@ -29,6 +25,10 @@
   {
    "code": "!NIOREISTHEGOAT",
    "reward": "999 Tokens"
+  },
+  {
+   "code": "100EXTRA",
+   "reward": "100 Spins"
   },
   {
    "code": "STILLNOMYTHICS",
@@ -79,6 +79,6 @@
    "reward": "Spins"
   }
  ],
- "updated": "2026-09-12T03:59:53.420Z",
+ "updated": "2026-09-13T11:30:01.971Z",
  "source": "https://robloxden.com/game-codes/shinobi-reborn"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "VIP",
-   "reward": "150k Cash"
-  },
-  {
    "code": "40KLIKES",
    "reward": "30,000 Cash"
   },
@@ -19,18 +15,18 @@
    "reward": "50,000 Cash"
   },
   {
+   "code": "VIP",
+   "reward": "150k Cash"
+  },
+  {
    "code": "35klikes",
    "reward": "30,000 Cash"
   },
   {
    "code": "house",
    "reward": "30,000 Cash"
-  },
-  {
-   "code": "TRAIN",
-   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-09-12T04:06:18.812Z",
+ "updated": "2026-09-13T11:35:12.961Z",
  "source": "https://robloxden.com/game-codes/young-street-ontario"
 }

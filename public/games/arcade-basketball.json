@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BUBBLETROUBLE",
+   "reward": "Bubble Trouble"
+  },
+  {
+   "code": "TROLLIN",
+   "reward": "10 Normal Badge Rolls"
+  },
+  {
    "code": "JUMPSHOT",
    "reward": "1 Jumpshot Crate"
   },
@@ -123,14 +131,14 @@
    "reward": "1 Green Crate . This code requires you to join the Arcade Basketball R"
   },
   {
-   "code": "DANCEPARTY",
-   "reward": "250 Coins"
+   "code": "SOUNDCRATE11",
+   "reward": "Reward"
   },
   {
-   "code": "DECEMBER",
+   "code": "ANIMCRATE",
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-12T15:19:25.465Z",
+ "updated": "2026-09-13T16:06:48.778Z",
  "source": "https://robloxden.com/game-codes/arcade-basketball"
 }

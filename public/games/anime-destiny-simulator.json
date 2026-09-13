@@ -27,10 +27,14 @@
    "reward": "1 Energy Potion and 1 Yen Potion"
   },
   {
-   "code": "4KLIKES",
-   "reward": "One Damage Potion And One Yen Potion"
+   "code": "2KLIKES",
+   "reward": "a Double Damage Potion and a Double Drops Potion"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "Potions"
   }
  ],
- "updated": "2026-09-12T15:22:27.211Z",
+ "updated": "2026-09-13T16:09:44.643Z",
  "source": "https://robloxden.com/game-codes/anime-destiny-simulator"
 }

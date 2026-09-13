@@ -11,6 +11,30 @@
    "reward": "rewards"
   },
   {
+   "code": "THEHUGOS",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "SANYA",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "GOTOPARIS",
+   "reward": "15 Lucky Spins"
+  },
+  {
+   "code": "WORLDSFRENCH",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "HUGOWUGO",
+   "reward": "20 Lucky Spins"
+  },
+  {
+   "code": "WANTSOMESPINS",
+   "reward": "10 Spins"
+  },
+  {
    "code": "READYFORSHIDOU",
    "reward": "20 Spins"
   },
@@ -37,30 +61,6 @@
   {
    "code": "CHEEKYTUESDAYS",
    "reward": "20 Lucky Spins"
-  },
-  {
-   "code": "THEHUGOS",
-   "reward": "20 Spins"
-  },
-  {
-   "code": "SANYA",
-   "reward": "30 Spins"
-  },
-  {
-   "code": "GOTOPARIS",
-   "reward": "15 Lucky Spins"
-  },
-  {
-   "code": "WORLDSFRENCH",
-   "reward": "20 Lucky Spins"
-  },
-  {
-   "code": "HUGOWUGO",
-   "reward": "20 Lucky Spins"
-  },
-  {
-   "code": "WANTSOMESPINS",
-   "reward": "10 Spins"
   },
   {
    "code": "LORENZOSFX",
@@ -991,6 +991,6 @@
    "reward": "30 Spins"
   }
  ],
- "updated": "2026-09-12T10:28:36.289Z",
+ "updated": "2026-09-13T16:00:26.669Z",
  "source": "https://robloxden.com/game-codes/project-blue-lock"
 }

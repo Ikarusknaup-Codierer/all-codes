@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "CODECASH",
+   "code": "NEW",
+   "reward": "rewards"
+  },
+  {
+   "code": "SEASIDE",
    "reward": "Reward"
   },
   {
@@ -19,18 +23,10 @@
    "reward": "5,000 Cash"
   },
   {
-   "code": "13020Likes",
-   "reward": "500 Cash"
-  },
-  {
    "code": "1090Likes",
    "reward": "1,000 Cash"
-  },
-  {
-   "code": "NEW",
-   "reward": "rewards"
   }
  ],
- "updated": "2026-09-12T10:29:19.822Z",
+ "updated": "2026-09-13T16:01:14.362Z",
  "source": "https://robloxden.com/game-codes/skybase-tycoon"
 }

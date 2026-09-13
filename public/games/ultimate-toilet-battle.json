@@ -15,10 +15,6 @@
    "reward": "2 Basic Spins"
   },
   {
-   "code": "EXECUTOR",
-   "reward": "2 Shards"
-  },
-  {
    "code": "LARGE",
    "reward": "2 Shards"
   },
@@ -27,10 +23,14 @@
    "reward": "2 Shards"
   },
   {
+   "code": "EXECUTOR",
+   "reward": "2 Shards"
+  },
+  {
    "code": "GIMMESPINS",
    "reward": "2 Wheel of Fortune Spins"
   }
  ],
- "updated": "2026-09-12T04:05:35.800Z",
+ "updated": "2026-09-13T15:55:56.677Z",
  "source": "https://robloxden.com/game-codes/ultimate-toilet-battle"
 }

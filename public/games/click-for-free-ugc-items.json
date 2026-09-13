@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "99",
-   "reward": "Clicks"
+   "code": "DEER",
+   "reward": "Clicks And UGC Rewards"
   },
   {
    "code": "SAMMY",
    "reward": "Clicks And UGC Rewards"
   },
   {
-   "code": "POTIONS",
-   "reward": "Clicks And Potions"
+   "code": "3MVISITS",
+   "reward": "Extra Boosts"
   },
   {
-   "code": "1MVISITS",
+   "code": "UPDATE",
    "reward": "Extra Boosts"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "50,000 Clicks"
   }
  ],
- "updated": "2026-09-12T04:06:09.665Z",
+ "updated": "2026-09-13T15:56:01.965Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

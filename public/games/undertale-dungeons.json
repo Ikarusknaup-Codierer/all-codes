@@ -15,10 +15,6 @@
    "reward": "50 Soul Essence"
   },
   {
-   "code": "heynoellecheckoutmynewcut",
-   "reward": "5 Shadow Shards"
-  },
-  {
    "code": "gaster",
    "reward": "10 Shadow Shards"
   },
@@ -37,8 +33,12 @@
   {
    "code": "discord",
    "reward": "20 Soul Essence"
+  },
+  {
+   "code": "heynoellecheckoutmynewcut",
+   "reward": "5 Shadow Shards"
   }
  ],
- "updated": "2026-09-12T10:28:53.031Z",
+ "updated": "2026-09-13T16:00:46.642Z",
  "source": "https://robloxden.com/game-codes/undertale-dungeons"
 }

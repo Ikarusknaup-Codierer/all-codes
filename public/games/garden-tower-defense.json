@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DAILY",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "AUTOPLAY",
+   "reward": "750 Seeds"
+  },
+  {
    "code": "MEDUSA",
    "reward": "750 Seeds"
   },
@@ -63,6 +71,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-09-12T10:26:37.159Z",
+ "updated": "2026-09-13T15:57:56.715Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

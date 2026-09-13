@@ -11,10 +11,6 @@
    "reward": "5 Power Potion and 10 Apple Fruit"
   },
   {
-   "code": "goldpeel",
-   "reward": "5 Cash Potion and 10 Banana Fruit"
-  },
-  {
    "code": "blendbrew",
    "reward": "3 Cocktail Potion"
   },
@@ -117,8 +113,12 @@
   {
    "code": "luckharvest",
    "reward": "5 Luck Potion and 10 Carrot Fruit"
+  },
+  {
+   "code": "goldpeel",
+   "reward": "5 Cash Potion and 10 Banana Fruit"
   }
  ],
- "updated": "2026-09-11T18:22:46.361Z",
+ "updated": "2026-09-13T04:11:16.807Z",
  "source": "https://robloxden.com/game-codes/football-training"
 }

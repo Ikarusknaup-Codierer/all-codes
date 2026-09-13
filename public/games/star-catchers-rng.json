@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "STARFORGE",
+   "reward": "50 Meteor Debris and 5 Star Waw"
+  },
+  {
    "code": "SEASHELLS",
    "reward": "50 Seashells"
   },
@@ -23,6 +27,6 @@
    "reward": "100 Stardusts"
   }
  ],
- "updated": "2026-09-12T03:57:26.663Z",
+ "updated": "2026-09-13T04:16:13.958Z",
  "source": "https://robloxden.com/game-codes/star-catchers-rng"
 }

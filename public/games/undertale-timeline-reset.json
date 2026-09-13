@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PREBETA",
+   "reward": "a free reward"
+  },
+  {
    "code": "PUBLICRELEASE",
    "reward": "Free Souls"
   },
@@ -21,12 +25,8 @@
   {
    "code": "OUTOFALHPA",
    "reward": "340 Gold"
-  },
-  {
-   "code": "INEEDMONEY",
-   "reward": "300 Souls"
   }
  ],
- "updated": "2026-09-11T18:23:57.532Z",
+ "updated": "2026-09-13T04:12:27.027Z",
  "source": "https://robloxden.com/game-codes/undertale-timeline-reset"
 }

@@ -47,14 +47,14 @@
    "reward": "2x Strength (10 Minutes) and 2x Luck (10 Minutes)"
   },
   {
-   "code": "BUGFIXES",
-   "reward": "5 Minutes of 2x Luck"
-  },
-  {
    "code": "1MVISITS",
    "reward": "50,000 Coins , 1 Lost Relic Reroll , 5 Minutes of 2x Mining Power , an"
+  },
+  {
+   "code": "RADU",
+   "reward": "5 Minutes of 2x Power"
   }
  ],
- "updated": "2026-09-11T18:21:59.797Z",
+ "updated": "2026-09-13T04:10:27.425Z",
  "source": "https://robloxden.com/game-codes/shovel-it"
 }

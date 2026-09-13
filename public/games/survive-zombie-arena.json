@@ -27,20 +27,12 @@
    "reward": "2x Credits (12 Hours) and 2x Bloodmoon Shards (24 Hours)"
   },
   {
-   "code": "patchboi",
-   "reward": "2x Arena Credits (4 Hours)"
-  },
-  {
    "code": "TUNDRASZN",
    "reward": "2x Bloodmoon Shards (48h) and 2x Credits (4h)"
   },
   {
    "code": "BOSSRUSH",
    "reward": "2x Ultra Encounters (12h) and 3,500 Credits"
-  },
-  {
-   "code": "DELAYSAHUR",
-   "reward": "4,500 Credits and 2 Bloodmoon Crates"
   },
   {
    "code": "DELAY",
@@ -59,6 +51,14 @@
    "reward": "2,500 Credits"
   },
   {
+   "code": "patchboi",
+   "reward": "2x Arena Credits (4 Hours)"
+  },
+  {
+   "code": "DELAYSAHUR",
+   "reward": "4,500 Credits and 2 Bloodmoon Crates"
+  },
+  {
    "code": "BEWARETHETUNDRA",
    "reward": "1 Artifact Crate Spin"
   },
@@ -71,6 +71,6 @@
    "reward": "3 Bloodmoon Spins and 2x Bloodmoon Shards (4 Hours)"
   }
  ],
- "updated": "2026-09-11T18:23:23.676Z",
+ "updated": "2026-09-13T04:11:54.513Z",
  "source": "https://robloxden.com/game-codes/survive-zombie-arena"
 }

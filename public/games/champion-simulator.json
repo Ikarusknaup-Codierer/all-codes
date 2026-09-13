@@ -11,14 +11,22 @@
    "reward": "15 Minutes Cog And Battery Boost"
   },
   {
-   "code": "FreePet40kLikes",
-   "reward": "One Free King Dominus Aureus Pet"
+   "code": "CogCoinBoost",
+   "reward": "some boosts"
   },
   {
-   "code": "CyborgDominus",
-   "reward": "Free Boost"
+   "code": "PirateIsland",
+   "reward": "Free Super Chest"
+  },
+  {
+   "code": "FREEGEMS",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "FREEPET60KLIKES",
+   "reward": "the Pink Dominus Aureus Pet"
   }
  ],
- "updated": "2026-09-11T18:20:10.565Z",
+ "updated": "2026-09-13T04:08:30.755Z",
  "source": "https://robloxden.com/game-codes/champion-simulator"
 }

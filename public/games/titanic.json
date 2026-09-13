@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "thisisacode",
-   "reward": "2,500 Roleplay Points"
-  },
-  {
-   "code": "vvgrblx2025",
-   "reward": "2,500 Roleplay Points"
-  },
-  {
    "code": "SMOOTHANIMATIONS",
+   "reward": "2,500 Points"
+  },
+  {
+   "code": "NEWDAVITS",
    "reward": "2,500 Points"
   },
   {
@@ -23,10 +19,14 @@
    "reward": "2,500 Points"
   },
   {
-   "code": "FREEREALISTICLIGHTING",
+   "code": "TELEGRAPHS",
+   "reward": "2,500 Points"
+  },
+  {
+   "code": "FRIENDADMIN",
    "reward": "2,500 Points"
   }
  ],
- "updated": "2026-09-11T18:20:00.233Z",
+ "updated": "2026-09-13T04:08:20.485Z",
  "source": "https://robloxden.com/game-codes/titanic"
 }

@@ -35,14 +35,14 @@
    "reward": "30 Minutes of Triple Luck"
   },
   {
-   "code": "2000Likes",
-   "reward": "Misc. rewards"
-  },
-  {
    "code": "30000Likes",
    "reward": "+1 Roll"
+  },
+  {
+   "code": "10000Likes",
+   "reward": "30 Minutes of +1 Rolls"
   }
  ],
- "updated": "2026-09-11T18:24:45.121Z",
+ "updated": "2026-09-13T04:13:18.216Z",
  "source": "https://robloxden.com/game-codes/spin-a-form"
 }

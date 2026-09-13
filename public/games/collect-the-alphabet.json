@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "5MVISITS",
+   "reward": "1 Mystic Pack"
+  },
+  {
+   "code": "NUMBERS",
+   "reward": "3 Mystic Packs"
+  },
+  {
+   "code": "AURA",
+   "reward": "1 2x Opening Luck Potion"
+  },
+  {
    "code": "FRIDAY",
    "reward": "1 Mythic Pack"
   },
@@ -15,6 +27,6 @@
    "reward": "3 Mythic Packs"
   }
  ],
- "updated": "2026-09-11T18:22:15.201Z",
+ "updated": "2026-09-13T04:10:43.179Z",
  "source": "https://robloxden.com/game-codes/collect-the-alphabet"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "update7",
+   "reward": "5 Stat Potions"
+  },
+  {
    "code": "1mvisits",
    "reward": "1 Stat Potion"
   },
@@ -59,6 +63,6 @@
    "reward": "1 Stats Potion"
   }
  ],
- "updated": "2026-09-12T03:57:16.688Z",
+ "updated": "2026-09-13T04:16:03.501Z",
  "source": "https://robloxden.com/game-codes/tap-incremental"
 }

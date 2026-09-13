@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "IRONSOULWEEKEND22",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "SEASON3EXPANSION",
+   "reward": "5 Season Lucky Tickets"
+  },
+  {
    "code": "250KMEMBERGIFT",
    "reward": "10 Race Rerolls"
   },
@@ -41,10 +49,6 @@
   {
    "code": "CELEBRATEFOR150KMEMBER",
    "reward": "10 Race Rerolls"
-  },
-  {
-   "code": "IRONSOULWEEKEND15",
-   "reward": "3 Race Rerolls"
   },
   {
    "code": "SEASON2OPEN",
@@ -123,6 +127,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-09-11T18:22:58.215Z",
+ "updated": "2026-09-13T04:11:29.015Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

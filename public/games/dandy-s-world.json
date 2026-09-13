@@ -11,6 +11,10 @@
    "reward": "50 Ichor"
   },
   {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "600 Pumpkins"
+  },
+  {
    "code": "SPOOKYSEASON",
    "reward": "600 Pumpkins"
   },
@@ -21,12 +25,8 @@
   {
    "code": "EASTER2025",
    "reward": "100 Easter Baskets"
-  },
-  {
-   "code": "300K",
-   "reward": "Ichor"
   }
  ],
- "updated": "2026-09-11T18:26:50.644Z",
+ "updated": "2026-09-13T04:15:37.211Z",
  "source": "https://robloxden.com/game-codes/dandy-s-world"
 }

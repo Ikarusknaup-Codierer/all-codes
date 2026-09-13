@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PIRATESPACE2",
+   "reward": "9 Shards"
+  },
+  {
    "code": "UPDATE3",
    "reward": "Free Rewards"
   },
@@ -15,14 +19,14 @@
    "reward": "9 Shards"
   },
   {
-   "code": "ALIEN",
-   "reward": "3 Shards"
+   "code": "WELCOMETOSPACE",
+   "reward": "5 Shards"
   },
   {
    "code": "REROLL",
    "reward": "5 Shards"
   }
  ],
- "updated": "2026-09-12T04:02:16.972Z",
+ "updated": "2026-09-13T04:20:27.916Z",
  "source": "https://robloxden.com/game-codes/dead-space"
 }

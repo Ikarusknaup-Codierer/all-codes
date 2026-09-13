@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "firstbiweekly",
+   "reward": "2,000 Ghoul Points"
+  },
+  {
+   "code": "yomohalfkakuja",
+   "reward": "2,000 Ghoul Points"
+  },
+  {
+   "code": "Databug",
+   "reward": "2,000 Ghoul Points"
+  },
+  {
    "code": "Ginkui",
    "reward": "1,000 GP"
   },
@@ -107,6 +119,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-09-11T18:24:42.323Z",
+ "updated": "2026-09-13T04:13:15.301Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

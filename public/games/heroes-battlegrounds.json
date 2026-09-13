@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "AZUREMASTERYULT",
-   "reward": "5 Blue Flame Mastery Progress"
-  },
-  {
    "code": "LOVESICKKILLERULT",
    "reward": "5 Emotes"
   },
@@ -23,10 +19,14 @@
    "reward": "5 Free Emotes"
   },
   {
+   "code": "AZUREMASTERYULT",
+   "reward": "5 Blue Flame Mastery Progress"
+  },
+  {
    "code": "MOREDELAYSPLEASEPLEASE",
    "reward": "5 Emojis"
   }
  ],
- "updated": "2026-09-11T18:24:42.915Z",
+ "updated": "2026-09-13T04:13:15.882Z",
  "source": "https://robloxden.com/game-codes/heroes-battlegrounds"
 }

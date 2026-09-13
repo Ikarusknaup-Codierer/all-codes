@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NOMORELAGPLEASE",
+   "reward": "1,000,000 Aurora Packs , 10 Divine Potions , and 1 Gold Structure Coin"
+  },
+  {
    "code": "DUNGEONS",
    "reward": "Rewards"
   },
@@ -55,6 +59,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-09-11T18:25:34.559Z",
+ "updated": "2026-09-13T04:14:43.318Z",
  "source": "https://robloxden.com/game-codes/card-rng-expansion"
 }

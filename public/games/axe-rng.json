@@ -35,14 +35,14 @@
    "reward": "a Logs Potion and a Honey Potion"
   },
   {
-   "code": "SMALLCHANGES",
-   "reward": "2 Speed Potions and 2 Luck Potions"
+   "code": "POTIONS",
+   "reward": "1 Logs Potion and 1 Honey Potion"
   },
   {
-   "code": "SWEET",
-   "reward": "2K Honey"
+   "code": "SWEETBOOST",
+   "reward": "1 Logs Potion and 1 Honey Potion"
   }
  ],
- "updated": "2026-09-11T18:21:55.479Z",
+ "updated": "2026-09-13T04:10:22.946Z",
  "source": "https://robloxden.com/game-codes/axe-rng"
 }

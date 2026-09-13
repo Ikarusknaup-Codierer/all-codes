@@ -27,10 +27,6 @@
    "reward": "1 Key"
   },
   {
-   "code": "FREE195",
-   "reward": "3 Keys"
-  },
-  {
    "code": "CANNONBALLLLL",
    "reward": "5 Goodie Bags"
   },
@@ -67,6 +63,10 @@
    "reward": "3 Keys"
   },
   {
+   "code": "COMMUNITY25",
+   "reward": "1 Community Wrap"
+  },
+  {
    "code": "COMMUNITY24",
    "reward": "a Community Wrap"
   },
@@ -83,6 +83,6 @@
    "reward": "3 Keys"
   }
  ],
- "updated": "2026-09-11T18:22:56.561Z",
+ "updated": "2026-09-13T04:11:27.186Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

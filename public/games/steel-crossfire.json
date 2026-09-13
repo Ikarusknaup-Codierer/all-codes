@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TROOPERS",
+   "reward": "1 XP Booster (8 Hours) and 500 Shards"
+  },
+  {
    "code": "ARMORED",
    "reward": "1 XP Booster (1 Hour) and 1 Shard Booster (1 Hour)"
   },
@@ -23,6 +27,6 @@
    "reward": "500 Shards"
   }
  ],
- "updated": "2026-09-11T18:22:28.523Z",
+ "updated": "2026-09-13T04:10:58.624Z",
  "source": "https://robloxden.com/game-codes/steel-crossfire"
 }

@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "decoy",
-   "reward": "5 Decoy Deploy"
-  },
-  {
    "code": "THRILLER",
    "reward": "50 Scraps"
   },
   {
-   "code": "SPOOKYSEASON",
-   "reward": "Bonus Scrap"
+   "code": "SCRAPTASTIC",
+   "reward": "50 Scraps"
   },
   {
-   "code": "F2TM",
-   "reward": "200 Coins, An F2TM Trail, And 10 Gems"
+   "code": "taiga",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "SEASON4",
+   "reward": "25 gems"
+  },
+  {
+   "code": "THANKSGIVING2020",
+   "reward": "40 gems"
   }
  ],
- "updated": "2026-09-11T18:21:14.405Z",
+ "updated": "2026-09-13T04:09:41.071Z",
  "source": "https://robloxden.com/game-codes/deathrun"
 }

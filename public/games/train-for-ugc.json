@@ -175,14 +175,14 @@
    "reward": "30,000 Points"
   },
   {
-   "code": "100WINS",
-   "reward": "100 Wins"
-  },
-  {
    "code": "BAMBOO",
    "reward": "50,000 Points And 20 Spins"
+  },
+  {
+   "code": "MORESPINS",
+   "reward": "5 Spins"
   }
  ],
- "updated": "2026-09-12T20:23:56.380Z",
+ "updated": "2026-09-13T20:42:02.213Z",
  "source": "https://robloxden.com/game-codes/train-for-ugc"
 }

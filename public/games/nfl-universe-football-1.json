@@ -11,14 +11,6 @@
    "reward": "1 Pro Pack"
   },
   {
-   "code": "FRESHPACK",
-   "reward": "1 Play Maker Pack"
-  },
-  {
-   "code": "UNIFORMS26",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "MIXTAPE",
    "reward": "1 Pro Pack"
   },
@@ -37,8 +29,16 @@
   {
    "code": "FLAGCHAMPS",
    "reward": ""
+  },
+  {
+   "code": "FRESHPACK",
+   "reward": "1 Play Maker Pack"
+  },
+  {
+   "code": "UNIFORMS26",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-12T15:25:22.464Z",
+ "updated": "2026-09-13T20:38:59.366Z",
  "source": "https://robloxden.com/game-codes/nfl-universe-football-1"
 }

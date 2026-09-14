@@ -15,18 +15,18 @@
    "reward": "Changes the Time of Day to 0:00 AM"
   },
   {
-   "code": "stealpickupold",
-   "reward": "May Have Spawned the Bolthorn 86 Classic"
-  },
-  {
    "code": "almightysosta",
    "reward": "10K Cash"
   },
   {
    "code": "sostaheist",
    "reward": "3.5K Cash"
+  },
+  {
+   "code": "CARS",
+   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-09-13T04:07:56.203Z",
+ "updated": "2026-09-14T04:23:33.406Z",
  "source": "https://robloxden.com/game-codes/thief-simulator"
 }

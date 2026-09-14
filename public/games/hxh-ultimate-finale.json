@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SLY",
-   "reward": "2x Exp (1 Hour and 30 Minutes)"
-  },
-  {
    "code": "TERRA",
    "reward": "1 Affinity Spin"
   },
   {
-   "code": "MYBADBRUH",
-   "reward": "1 Rare Spin"
+   "code": "MAINE",
+   "reward": "2 Common Spins"
   },
   {
-   "code": "DANGBRUH",
-   "reward": "1 Rare Hatsu Reroll"
+   "code": "SUBTOINFER",
+   "reward": "1 Lucky Spin"
+  },
+  {
+   "code": "SORRY",
+   "reward": "1 Clan Reroll"
+  },
+  {
+   "code": "MYBADBRUH",
+   "reward": "1 Rare Spin"
   }
  ],
- "updated": "2026-09-12T20:31:09.228Z",
+ "updated": "2026-09-14T04:20:56.188Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

@@ -7,6 +7,46 @@
    "reward": "Description"
   },
   {
+   "code": "blackclover",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "sorryforshutdown7",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "sorryforshutdown6",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "fixlog",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "sorrydelay99",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "3mvisits",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "67kfavs",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "update3clover",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "update3",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "sorryforshutdown8",
+   "reward": "250 Tickets and 1 of Every Potion"
+  },
+  {
    "code": "QOL",
    "reward": "a Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , a"
   },
@@ -379,10 +419,14 @@
    "reward": "an Energy Potion , a Damage Potion , a Gems Potion , a Drops Potion , "
   },
   {
+   "code": "66kfav",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
    "code": "PITYCHALLENGE",
    "reward": "Potions , 250 F2P Tickets , and a Commander Sword"
   }
  ],
- "updated": "2026-09-12T20:27:58.791Z",
+ "updated": "2026-09-14T04:17:32.931Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

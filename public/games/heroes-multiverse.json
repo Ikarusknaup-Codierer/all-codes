@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "YAYCOINS",
-   "reward": "20,000 Coins"
+   "code": "HAPPYEID",
+   "reward": "15,000 Coins"
   },
   {
-   "code": "RANDOMCOINS",
+   "code": "8KLIKES",
+   "reward": "15,000 Cash"
+  },
+  {
+   "code": "COINSBAG",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MILESTONE",
    "reward": "Free Coins"
   },
   {
-   "code": "VILLAIN!",
-   "reward": "Free Roll"
-  },
-  {
-   "code": "HOWSOLOSURFAVS",
-   "reward": "Free Coins"
-  },
-  {
-   "code": "WITCHBAG",
+   "code": "CHAOS",
    "reward": "Free Coins"
   }
  ],
- "updated": "2026-09-12T20:26:28.283Z",
+ "updated": "2026-09-14T04:16:09.458Z",
  "source": "https://robloxden.com/game-codes/heroes-multiverse"
 }

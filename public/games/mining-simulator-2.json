@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Christmas",
+   "code": "UltraLuck",
+   "reward": "30 Minutes Omega Lucky"
+  },
+  {
+   "code": "Azure",
    "reward": "4 Hours Super Lucky Boost"
   },
   {
-   "code": "PATRIOTIC",
-   "reward": "1 4 Hour Super Lucky Boost"
+   "code": "Magma",
+   "reward": "4 Hours Super Lucky Boost"
   },
   {
-   "code": "UPDATE22",
-   "reward": "1 6 Hour Lucky Boost"
+   "code": "RELEASE",
+   "reward": "100 Coins"
   },
   {
-   "code": "FESTIVE",
-   "reward": "1 4 Hour Super Lucky Boost"
-  },
-  {
-   "code": "UPDATE25",
+   "code": "UPDATE29",
    "reward": "1 6 Hour Lucky Boost"
   }
  ],
- "updated": "2026-09-12T20:26:12.155Z",
+ "updated": "2026-09-14T04:15:55.280Z",
  "source": "https://robloxden.com/game-codes/mining-simulator-2"
 }

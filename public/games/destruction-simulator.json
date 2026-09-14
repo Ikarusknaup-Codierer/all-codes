@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "500k",
-   "reward": "5,000 Coins"
+   "code": "Subby",
+   "reward": "50,000 Coins"
+  },
+  {
+   "code": "update1hype",
+   "reward": "24 Hour X2 XP Boost"
   },
   {
    "code": "turkeytime",
@@ -21,12 +25,8 @@
   {
    "code": "UPDATE3",
    "reward": "Free Diamonds"
-  },
-  {
-   "code": "BLACKCLOUDS",
-   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-09-13T04:08:02.909Z",
+ "updated": "2026-09-14T04:23:39.566Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

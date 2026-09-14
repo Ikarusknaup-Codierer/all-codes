@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "ayof12",
-   "reward": "in-game rewards"
-  },
-  {
-   "code": "Animations!",
-   "reward": "in-game rewards"
-  },
-  {
-   "code": "HealerLife",
+   "code": "Something!",
    "reward": "in-game rewards"
   },
   {
@@ -23,10 +15,18 @@
    "reward": "in-game rewards"
   },
   {
-   "code": "UiIsHere!",
+   "code": "Shutdown!",
+   "reward": "in-game rewards"
+  },
+  {
+   "code": "EconomyBoost",
+   "reward": "in-game rewards"
+  },
+  {
+   "code": "Stallone!",
    "reward": "in-game rewards"
   }
  ],
- "updated": "2026-09-13T04:07:01.716Z",
+ "updated": "2026-09-14T04:22:44.263Z",
  "source": "https://robloxden.com/game-codes/mighty-secunda"
 }

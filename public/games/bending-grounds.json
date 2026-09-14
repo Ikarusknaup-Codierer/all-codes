@@ -27,6 +27,14 @@
    "reward": "11 Spins"
   },
   {
+   "code": "PrettyVFX",
+   "reward": "5 Spins on Current Slot"
+  },
+  {
+   "code": "Over1000",
+   "reward": "3 Spins on Current Slot"
+  },
+  {
    "code": "ClanSystemSoon",
    "reward": "6 Spins"
   },
@@ -39,6 +47,6 @@
    "reward": "6 Spins"
   }
  ],
- "updated": "2026-09-13T04:12:45.623Z",
+ "updated": "2026-09-14T12:23:00.266Z",
  "source": "https://robloxden.com/game-codes/bending-grounds"
 }

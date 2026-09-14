@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "155000LIKES",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "150000LIKES",
    "reward": "1 Premium Crate"
   },
@@ -27,6 +31,22 @@
    "reward": "a Logistics Warehouse"
   },
   {
+   "code": "EMERGENCYFIX",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "MOREROBOTS",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "PHANTOMTANK",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "PERFORMANCEOVERHAUL",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "MECHAWORM",
    "reward": "1 Premium Crate"
   },
@@ -36,10 +56,6 @@
   },
   {
    "code": "REBIRTH20WOW",
-   "reward": "1 Premium Crate"
-  },
-  {
-   "code": "INDEX",
    "reward": "1 Premium Crate"
   },
   {
@@ -53,12 +69,8 @@
   {
    "code": "OUTPOSTS",
    "reward": "1 Premium Crate"
-  },
-  {
-   "code": "PROWLER",
-   "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-09-13T04:11:06.255Z",
+ "updated": "2026-09-14T12:21:32.284Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "IDK",
+   "reward": "30,000 Tokens"
+  },
+  {
    "code": "COSMIC2",
    "reward": "30,000 Trade Tokens"
   },
@@ -17,12 +21,8 @@
   {
    "code": "LIMITED",
    "reward": "20,000 Trade Tokens"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "50 Trade Tokens"
   }
  ],
- "updated": "2026-09-13T04:12:56.945Z",
+ "updated": "2026-09-14T12:23:10.660Z",
  "source": "https://robloxden.com/game-codes/inside-brainrot-head"
 }

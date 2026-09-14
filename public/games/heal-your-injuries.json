@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HAKARI",
+   "reward": "250 Energy and 100 EXP"
+  },
+  {
+   "code": "SORRYFORMAINTENANCE",
+   "reward": "100 Energy and 50 EXP"
+  },
+  {
    "code": "CURSEDCHILD",
    "reward": "200 Energy and 150 EXP"
   },
@@ -19,6 +27,6 @@
    "reward": "200 Energy and 50 EXP"
   }
  ],
- "updated": "2026-09-13T04:08:55.135Z",
+ "updated": "2026-09-14T12:19:38.322Z",
  "source": "https://robloxden.com/game-codes/heal-your-injuries"
 }

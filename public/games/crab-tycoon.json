@@ -7,22 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BARNACLEBASH",
-   "reward": "110 Cash"
-  },
-  {
-   "code": "CLAWMACHINE",
-   "reward": "50 Cash"
-  },
-  {
-   "code": "CORALCARNIVAL",
-   "reward": "50 Cash"
-  },
-  {
-   "code": "KELPWANTED",
-   "reward": "25 Cash"
-  },
-  {
    "code": "CRABCAKES",
    "reward": "55 Cash"
   },
@@ -32,7 +16,7 @@
   },
   {
    "code": "SHELLMATE",
-   "reward": "$50 Cash"
+   "reward": "$85 Cash"
   },
   {
    "code": "CLICKCLACK",
@@ -91,6 +75,22 @@
    "reward": "$50 Cash"
   },
   {
+   "code": "BARNACLEBASH",
+   "reward": "110 Cash"
+  },
+  {
+   "code": "CLAWMACHINE",
+   "reward": "50 Cash"
+  },
+  {
+   "code": "CORALCARNIVAL",
+   "reward": "50 Cash"
+  },
+  {
+   "code": "KELPWANTED",
+   "reward": "25 Cash"
+  },
+  {
    "code": "CONCRABULATIONS",
    "reward": "3,450 Cash"
   },
@@ -143,6 +143,6 @@
    "reward": "$50 Cash"
   }
  ],
- "updated": "2026-09-13T04:15:20.735Z",
+ "updated": "2026-09-14T12:24:45.972Z",
  "source": "https://robloxden.com/game-codes/crab-tycoon"
 }

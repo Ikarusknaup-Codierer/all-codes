@@ -7,16 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "550KFAVS",
-   "reward": "1 Totem of Stars and 100,000 Cash"
+   "code": "SORRYFORBUGS",
+   "reward": "1 Gold Scroll Sack"
   },
   {
-   "code": "400KFAVS",
-   "reward": "100,000 Cash and a Totem of Stars"
+   "code": "UPDATE6",
+   "reward": "250,000 Cash , 1 Raygun , and 1 Scroll Sack"
   },
   {
-   "code": "5MVISITS",
-   "reward": "250K Cash, 1 Glided Hatch Hammer and 1 Totem Of Fortune"
+   "code": "35MVISITS",
+   "reward": "250,000 Cash , 1 Gilded Hatch Hammer , and 1 Totem Of Might"
+  },
+  {
+   "code": "600KFAVS",
+   "reward": "100,000 Cash and 1 Totem Of Stars"
   },
   {
    "code": "UPDATE5",
@@ -27,8 +31,16 @@
    "reward": "250,000 Cash , 1 Gilded Hatch Hammer and 1 Totem of Marrow"
   },
   {
+   "code": "550KFAVS",
+   "reward": "1 Totem of Stars and 100,000 Cash"
+  },
+  {
    "code": "20MVISITS",
    "reward": "250,000 Cash , a Totem Of Fortune and a Gilded Hatch Hammer"
+  },
+  {
+   "code": "400KFAVS",
+   "reward": "100,000 Cash and a Totem of Stars"
   },
   {
    "code": "UPDATE4",
@@ -43,10 +55,14 @@
    "reward": "250,000 Cash and 1 Golem Capybara Egg"
   },
   {
+   "code": "5MVISITS",
+   "reward": "250K Cash, 1 Glided Hatch Hammer and 1 Totem Of Fortune"
+  },
+  {
    "code": "UPDATE2",
    "reward": "100K Cash, 1 Wealth Totem and 1 Fortune Totem"
   }
  ],
- "updated": "2026-09-13T04:09:41.602Z",
+ "updated": "2026-09-14T12:20:15.962Z",
  "source": "https://robloxden.com/game-codes/capybaras-vs-plants"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LEGENDS",
+   "reward": "10 Common Packs"
+  },
+  {
+   "code": "2500LIKES",
+   "reward": "5 Common Packs"
+  },
+  {
    "code": "NOR",
    "reward": "2 Packs"
   },
@@ -75,6 +83,6 @@
    "reward": "1 Pack"
   }
  ],
- "updated": "2026-09-13T04:10:33.914Z",
+ "updated": "2026-09-14T12:21:03.721Z",
  "source": "https://robloxden.com/game-codes/complete-the-sticker-album-2026-football-wc"
 }

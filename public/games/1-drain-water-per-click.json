@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Fixed1",
+   "reward": "a Normal Cthulhu"
+  },
+  {
+   "code": "Fixed2",
+   "reward": "a Moolux Divine Pet"
+  },
+  {
+   "code": "Cthulhu",
+   "reward": "1 Venom Rosy Ray and 1 Draw Ticket"
+  },
+  {
    "code": "AdminAquarium",
    "reward": "a Lava Aquarium"
   },
@@ -19,6 +31,6 @@
    "reward": "a Random Rare Pet"
   }
  ],
- "updated": "2026-09-13T04:12:33.594Z",
+ "updated": "2026-09-14T12:22:53.673Z",
  "source": "https://robloxden.com/game-codes/1-drain-water-per-click"
 }

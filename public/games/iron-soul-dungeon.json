@@ -23,10 +23,6 @@
    "reward": "1,500 Cash and a Seasonal Lucky Ticket"
   },
   {
-   "code": "ROYALCIRCUS",
-   "reward": "3 Starwish Cards"
-  },
-  {
    "code": "IRONSOULWEEKEND21",
    "reward": "3 Race Rerolls"
   },
@@ -37,18 +33,6 @@
   {
    "code": "SEASONVOUCHER",
    "reward": "6,000 Season Vouchers"
-  },
-  {
-   "code": "SCROLLCHARGEFIX",
-   "reward": "3,000 Season Vouchers and 2 Race Rerolls"
-  },
-  {
-   "code": "IRONSOULWEEKEND16",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "CELEBRATEFOR150KMEMBER",
-   "reward": "10 Race Rerolls"
   },
   {
    "code": "SEASON2OPEN",
@@ -71,6 +55,10 @@
    "reward": "2 Race Rerolls"
   },
   {
+   "code": "ROYALCIRCUS",
+   "reward": "3 Starwish Cards"
+  },
+  {
    "code": "ODYSSEY",
    "reward": "3 Starwish Cards"
   },
@@ -85,6 +73,10 @@
   {
    "code": "200KMEMBERREWARD",
    "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "SCROLLCHARGEFIX",
+   "reward": "3,000 Season Vouchers and 2 Race Rerolls"
   },
   {
    "code": "IRONSOULWEEKEND19",
@@ -123,10 +115,18 @@
    "reward": "2 Race Rerolls and 200 Origin Shards"
   },
   {
+   "code": "IRONSOULWEEKEND16",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "CELEBRATEFOR150KMEMBER",
+   "reward": "10 Race Rerolls"
+  },
+  {
    "code": "THURSDAYGIFT",
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-09-13T04:11:29.015Z",
+ "updated": "2026-09-14T12:21:53.364Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

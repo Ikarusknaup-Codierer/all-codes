@@ -11,10 +11,6 @@
    "reward": "2,500+ Cash , 25+ Stellar Gems , and 10+ Moonborne Resin"
   },
   {
-   "code": "2KLIKES",
-   "reward": "Cash , XP Card , and Weaponized Matter Skin"
-  },
-  {
    "code": "VALENTINES2026",
    "reward": "5,000 Cash , 5 XP Cards , 10 Stellar Gems , and 25 Moonborne Resin"
   },
@@ -29,8 +25,12 @@
   {
    "code": "UPDATE6",
    "reward": "1,000 Cash"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "Cash , XP Card , and Weaponized Matter Skin"
   }
  ],
- "updated": "2026-09-13T04:20:35.813Z",
+ "updated": "2026-09-14T12:25:33.530Z",
  "source": "https://robloxden.com/game-codes/blood-tower"
 }

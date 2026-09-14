@@ -119,14 +119,14 @@
    "reward": "5K Credits and 400 EXP"
   },
   {
-   "code": "thanksfor700ccu",
-   "reward": "10K Credits"
-  },
-  {
    "code": "FreePlayerSpins",
    "reward": "20 Spins"
+  },
+  {
+   "code": "FreeSpins",
+   "reward": "7 Spins"
   }
  ],
- "updated": "2026-09-13T04:09:31.908Z",
+ "updated": "2026-09-14T12:20:08.061Z",
  "source": "https://robloxden.com/game-codes/duelist-pvp"
 }

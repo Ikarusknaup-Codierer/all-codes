@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AboutBossRaid",
+   "reward": "1 Time Lord Withered Freddy Present . You must have a minimum of 15,00"
+  },
+  {
    "code": "UPDATE44",
    "reward": "5,000 Tokens , 100 Souls , 50 Endo Chips , 50 Soldering Irons , and 5 "
   },
@@ -29,6 +33,14 @@
   {
    "code": "FREEBIE",
    "reward": "2,500 Tokens and 25 Souls"
+  },
+  {
+   "code": "FiveNightsDelay",
+   "reward": "150 Anniversary Presents , 100 Stat Chips , 25 Spring Locks , and 10 R"
+  },
+  {
+   "code": "BigUpgradeSoon!",
+   "reward": "10,000 Untradable Souls , 50 Seasonal Presents , 25 Stat Chips , 5 Spr"
   },
   {
    "code": "UPDATE43",
@@ -131,6 +143,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-13T15:56:15.663Z",
+ "updated": "2026-09-14T21:48:58.696Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

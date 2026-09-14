@@ -11,10 +11,26 @@
    "reward": "1,000 Coins"
   },
   {
+   "code": "LOOTR",
+   "reward": "1,000 Coins and a Random GM Blessing"
+  },
+  {
+   "code": "LOOTRISBACK",
+   "reward": "3 Forge Stone Bundles"
+  },
+  {
+   "code": "JACKPOT",
+   "reward": "5 Luck Potions III"
+  },
+  {
+   "code": "20KPLAYERS",
+   "reward": "5 Reforge Stone Bundles"
+  },
+  {
    "code": "800LIKES",
    "reward": "2 Random GM Blessing chests"
   }
  ],
- "updated": "2026-09-13T11:32:55.908Z",
+ "updated": "2026-09-14T21:45:36.366Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

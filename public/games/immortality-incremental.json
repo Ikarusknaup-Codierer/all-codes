@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "CRYPTDUNGEON",
+   "reward": "5 of All Potions"
+  },
+  {
+   "code": "OREPOTIONFIX",
+   "reward": "1 Ore Potion"
+  },
+  {
+   "code": "ORES",
+   "reward": "20 Jade"
+  },
+  {
    "code": "SOULS",
    "reward": "15 All Potions"
   },
@@ -267,6 +279,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-09-13T11:31:25.625Z",
+ "updated": "2026-09-14T21:43:44.443Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

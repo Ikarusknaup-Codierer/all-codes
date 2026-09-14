@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MOUNTAINUPDATE",
+   "reward": "4 Minigame Tickets"
+  },
+  {
    "code": "CLOUDUPDATE",
    "reward": "10 Cloudberries"
   },
@@ -51,6 +55,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-09-13T11:32:59.070Z",
+ "updated": "2026-09-14T21:45:39.601Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

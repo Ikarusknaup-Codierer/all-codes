@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AUTUMN",
+   "reward": "300 Fallen Leaves and 500 Gems"
+  },
+  {
    "code": "SUNGLASSES",
    "reward": "500,000 Stars"
   },
@@ -19,14 +23,14 @@
    "reward": "350,000"
   },
   {
-   "code": "NINJA",
-   "reward": "100,000 Stars"
+   "code": "1stUPD",
+   "reward": "Reward"
   },
   {
-   "code": "2KACTIVE",
-   "reward": "122,222 Stars"
+   "code": "NINJA",
+   "reward": "100,000 Stars"
   }
  ],
- "updated": "2026-09-13T11:33:40.547Z",
+ "updated": "2026-09-14T21:46:19.711Z",
  "source": "https://robloxden.com/game-codes/nft-battle"
 }

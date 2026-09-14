@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "LanzaDelRelampago",
+   "reward": "500,000 Fragment of Rogue , 25 Mystery Gifts , 250 Clan Rerolls , 1,25"
+  },
+  {
+   "code": "Sorry4Delay",
+   "reward": "500,000 Fragment of Rogue , 155 Rogue’s Blessings , 35 Lucky Boxes , 5"
+  },
+  {
+   "code": "BlackWings",
+   "reward": "5 Luck Potions , 5 Gems Potions , 2 Exp Potions , 2 Money Potions , an"
+  },
+  {
+   "code": "SegundaEtapa",
+   "reward": "250,000 Fragment of Rogue , 35 Rogue’s Blessings , 100 Hogyoku Fragmen"
+  },
+  {
    "code": "RebalanceSoon!",
    "reward": "5 Luck Potions , 5 Gems Potions , and 2 All Potions . You must be at l"
   },
@@ -107,6 +123,6 @@
    "reward": "Shards , Chest , and Rogue Fragments . You must be level 11,500 to cla"
   }
  ],
- "updated": "2026-09-13T11:35:46.477Z",
+ "updated": "2026-09-14T21:47:59.141Z",
  "source": "https://robloxden.com/game-codes/rogue-piece"
 }

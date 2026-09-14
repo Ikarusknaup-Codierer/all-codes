@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TOTEM",
+   "reward": "2x Power (5 Minutes)"
+  },
+  {
    "code": "1MVISITS",
    "reward": "2x Power (5 Minutes)"
   },
@@ -15,6 +19,6 @@
    "reward": "2x Cash (5 Minutes)"
   }
  ],
- "updated": "2026-09-13T11:34:10.072Z",
+ "updated": "2026-09-14T21:46:45.223Z",
  "source": "https://robloxden.com/game-codes/power-your-city"
 }

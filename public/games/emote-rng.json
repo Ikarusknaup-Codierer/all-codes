@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "EXPANSION",
+   "reward": "7M Cash, 1 Double Luck (15 Minutes), 1 Double Luck (30 Minutes), 1 Dou"
+  },
+  {
+   "code": "ANNIVERSARY",
+   "reward": "10M Cash and 2 of Each Consumable"
+  },
+  {
    "code": "56709",
    "reward": "a 3x Cash (30 Minutes)"
   },
@@ -51,14 +59,14 @@
    "reward": "1 Hour Double Luck Boost"
   },
   {
-   "code": "600KFANS",
-   "reward": "1 Legendary Block and 2x Luck Potion"
+   "code": "BugFixes1",
+   "reward": "Cash And Boosts"
   },
   {
-   "code": "400KFANS",
-   "reward": "2x Double Luck (30m), and 1x Legendary Block"
+   "code": "oops",
+   "reward": "$500,000 , 2x 1 Hour Triple Luck Boosts , and 1x 15 Minute Double Luck"
   }
  ],
- "updated": "2026-09-13T15:55:56.108Z",
+ "updated": "2026-09-14T21:48:41.848Z",
  "source": "https://robloxden.com/game-codes/emote-rng"
 }

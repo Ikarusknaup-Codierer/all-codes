@@ -15,10 +15,6 @@
    "reward": "100 Cash"
   },
   {
-   "code": "UPDATE",
-   "reward": "250 Cash"
-  },
-  {
    "code": "SUPREMACY",
    "reward": "Free Rewards . To use this code, you must reach level 10"
   },
@@ -53,8 +49,12 @@
   {
    "code": "START",
    "reward": "1,500 Cash"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "250 Cash"
   }
  ],
- "updated": "2026-09-13T11:31:11.444Z",
+ "updated": "2026-09-14T21:43:30.620Z",
  "source": "https://robloxden.com/game-codes/warfare"
 }

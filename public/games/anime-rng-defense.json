@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE10",
+   "reward": "1,000 Crystals and 1 Blessed Roll"
+  },
+  {
+   "code": "SLIMEEVENT",
+   "reward": "Free Rewards . You need at least 10K Rolls to use this code"
+  },
+  {
+   "code": "DAILYCHALLENGE",
+   "reward": "Free Rewards . You need at least 25K Rolls to use this code"
+  },
+  {
+   "code": "PAUSEPOTIONS",
+   "reward": "Free Rewards . You need at least 50K Rolls to use this code"
+  },
+  {
+   "code": "AWAKENEDSLIME",
+   "reward": "Free Rewards . You need at least 100K Rolls to use this code"
+  },
+  {
+   "code": "10MVISITS",
+   "reward": "10,000 Crystals , 3 Divine Rolls , and 100 Legendary Boxes"
+  },
+  {
    "code": "SORRYFORSHUTDOWN10",
    "reward": "2,500 Crystals , 3 Divine Rolls , and 2 Limit Breakers"
   },
@@ -43,10 +67,6 @@
    "reward": "Free Rewards . You need at least 100,000 Rolls to use this code"
   },
   {
-   "code": "UPDATE7",
-   "reward": "1,000 Crystals"
-  },
-  {
    "code": "UPDATE6",
    "reward": "1,000 Crystals"
   },
@@ -63,16 +83,16 @@
    "reward": "100,000 Rerolls . You need at least 10,000 Rolls to use this code"
   },
   {
-   "code": "BULLSHIDEOUT",
-   "reward": "10,000 Rerolls . You need at least 10,000 Rolls to use this code"
-  },
-  {
    "code": "TYFOR10KCCU",
    "reward": "Rewards . To use this code, you must at least reach 10,000 Rolls"
   },
   {
    "code": "THANKSFORPLAYING",
    "reward": "150 Crystals and 10 Epic Boxes"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "1,000 Crystals"
   },
   {
    "code": "SORRYFORSHUTDOWN6",
@@ -89,6 +109,10 @@
   {
    "code": "WEATHERS",
    "reward": "Cursed Fingers and Divine Rerolls . You need at least 10K Rolls to use"
+  },
+  {
+   "code": "BULLSHIDEOUT",
+   "reward": "10,000 Rerolls . You need at least 10,000 Rolls to use this code"
   },
   {
    "code": "UPDATE4",
@@ -115,6 +139,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-09-14T12:26:17.767Z",
+ "updated": "2026-09-15T21:11:46.631Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

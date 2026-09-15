@@ -15,18 +15,18 @@
    "reward": "$300,00"
   },
   {
-   "code": "heart2026",
-   "reward": "1 Heart-mutated box of your next unreached tier"
-  },
-  {
    "code": "RANDOMBOX",
    "reward": "2 Random Boxes . This is limited to 5,000 players only"
   },
   {
    "code": "NEWMAP",
    "reward": "Freebies"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "3 Random Boxes"
   }
  ],
- "updated": "2026-09-14T12:21:08.773Z",
+ "updated": "2026-09-15T21:06:17.593Z",
  "source": "https://robloxden.com/game-codes/squishy-dumpling-unboxing"
 }

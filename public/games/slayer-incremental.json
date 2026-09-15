@@ -15,20 +15,12 @@
    "reward": "5 of All Potions"
   },
   {
-   "code": "GiveTickets",
-   "reward": "30 Tickets"
-  },
-  {
    "code": "Elementals",
    "reward": "3 of all Potions"
   },
   {
    "code": "Update15",
    "reward": "2 of all the top potions"
-  },
-  {
-   "code": "SoonNewEvo",
-   "reward": "50 Tickets"
   },
   {
    "code": "NewPotions",
@@ -53,12 +45,8 @@
   {
    "code": "SmallUpdate",
    "reward": "25 Tickets"
-  },
-  {
-   "code": "TheCaves",
-   "reward": "4 of all Potions"
   }
  ],
- "updated": "2026-09-14T12:21:42.864Z",
+ "updated": "2026-09-15T21:06:54.785Z",
  "source": "https://robloxden.com/game-codes/slayer-incremental"
 }

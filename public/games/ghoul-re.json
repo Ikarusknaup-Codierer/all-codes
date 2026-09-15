@@ -35,10 +35,6 @@
    "reward": "5 Kagune Rerolls"
   },
   {
-   "code": "Welcomebackhomelorn",
-   "reward": "500 GP"
-  },
-  {
    "code": "Donatothosewhoknow",
    "reward": "500 GP"
   },
@@ -87,6 +83,10 @@
    "reward": "1,000 GP"
   },
   {
+   "code": "Welcomebackhomelorn",
+   "reward": "500 GP"
+  },
+  {
    "code": "HAPPYBIRTHDAYEUNHEE",
    "reward": "650 GP"
   },
@@ -119,6 +119,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-09-14T12:23:27.777Z",
+ "updated": "2026-09-15T21:08:49.351Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

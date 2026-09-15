@@ -55,14 +55,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "dawn",
-   "reward": "a Gem"
+   "code": "gems",
+   "reward": "20 Gems"
   },
   {
-   "code": "exp2",
-   "reward": "Minor EXP Potions"
+   "code": "reviveme",
+   "reward": "a Reviver"
   }
  ],
- "updated": "2026-09-14T12:22:34.651Z",
+ "updated": "2026-09-15T21:07:51.155Z",
  "source": "https://robloxden.com/game-codes/adventure-guild-battles"
 }

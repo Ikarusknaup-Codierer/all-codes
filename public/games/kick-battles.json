@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Prison",
+   "reward": "15 Gems"
+  },
+  {
    "code": "Juggernaut",
    "reward": "15 Gems"
   },
@@ -23,7 +27,7 @@
    "reward": "200 KP"
   },
   {
-   "code": "Sonion",
+   "code": "5KMEMBERS",
    "reward": "200 KP"
   },
   {
@@ -31,6 +35,6 @@
    "reward": "5 Gems"
   }
  ],
- "updated": "2026-09-14T12:25:15.808Z",
+ "updated": "2026-09-15T21:10:44.331Z",
  "source": "https://robloxden.com/game-codes/kick-battles"
 }

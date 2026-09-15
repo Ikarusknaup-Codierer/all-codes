@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "THANKYOUEVERYONE",
+   "reward": "3 Potion II Packs"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "3 Potion I Packs and 5 Cosmic Boxes"
+  },
+  {
+   "code": "10KCCU",
+   "reward": "1 Potion I Pack"
+  },
+  {
+   "code": "10KMEMBERS",
+   "reward": "10K Gems"
+  },
+  {
+   "code": "Forgotten",
+   "reward": "5K Gems and 5 Potion I Packs"
+  },
+  {
    "code": "SACRIFICE",
    "reward": "5,000 Gems"
   },
@@ -39,6 +59,6 @@
    "reward": "Gems and Potions"
   }
  ],
- "updated": "2026-09-14T12:23:44.483Z",
+ "updated": "2026-09-15T21:09:07.101Z",
  "source": "https://robloxden.com/game-codes/fish-an-anime-rng"
 }

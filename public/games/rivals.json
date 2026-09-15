@@ -27,6 +27,10 @@
    "reward": "1 Key"
   },
   {
+   "code": "FREE196",
+   "reward": "3 Keys"
+  },
+  {
    "code": "CANNONBALLLLL",
    "reward": "5 Goodie Bags"
   },
@@ -37,10 +41,6 @@
   {
    "code": "IMMELTINGHELP",
    "reward": "2 Keys"
-  },
-  {
-   "code": "FREE191",
-   "reward": "3 Keys"
   },
   {
    "code": "FREE189",
@@ -83,6 +83,6 @@
    "reward": "3 Keys"
   }
  ],
- "updated": "2026-09-14T12:21:51.679Z",
+ "updated": "2026-09-15T21:07:04.392Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

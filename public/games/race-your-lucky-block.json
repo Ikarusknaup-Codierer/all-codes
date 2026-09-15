@@ -11,10 +11,6 @@
    "reward": "1 Random Brainrot"
   },
   {
-   "code": "RADIOACTIVE",
-   "reward": "Rewards"
-  },
-  {
    "code": "BEE",
    "reward": "Rewards"
   },
@@ -23,10 +19,14 @@
    "reward": "Rewards"
   },
   {
+   "code": "MAGIA",
+   "reward": "1 Brainrot Character"
+  },
+  {
    "code": "ZEUS",
    "reward": "1 Brainrot Character"
   }
  ],
- "updated": "2026-09-14T12:26:03.360Z",
+ "updated": "2026-09-15T21:11:32.711Z",
  "source": "https://robloxden.com/game-codes/race-your-lucky-block"
 }

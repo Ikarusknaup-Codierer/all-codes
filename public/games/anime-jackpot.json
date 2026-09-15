@@ -7,38 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "TOKENS",
+   "reward": "6,000 Stars"
+  },
+  {
+   "code": "MAIDGOJA",
+   "reward": "a Clover Potion II"
+  },
+  {
+   "code": "MAIDPART2",
+   "reward": "A Summon Potion II"
+  },
+  {
+   "code": "STRAWBERRY",
+   "reward": "a Mutation Potion I"
+  },
+  {
    "code": "TRADINGISBACK",
    "reward": "9,000 Stars"
   },
   {
    "code": "UNLEASHED",
    "reward": "3 Sealed Dice"
-  },
-  {
-   "code": "NEWSUMMON",
-   "reward": "1 Mutation Luck Potion I"
-  },
-  {
-   "code": "DELAYS",
-   "reward": "1 Yen Potion III"
-  },
-  {
-   "code": "RELICS",
-   "reward": "1 Luck Potion II"
-  },
-  {
-   "code": "GOOFY",
-   "reward": "1 Summon Potion II"
-  },
-  {
-   "code": "TRADINGSOON",
-   "reward": "9,000 Stars"
-  },
-  {
-   "code": "DOUBLETROUBLE",
-   "reward": "1 Luck Potion II"
   }
  ],
- "updated": "2026-09-14T21:41:27.695Z",
+ "updated": "2026-09-15T21:13:05.924Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

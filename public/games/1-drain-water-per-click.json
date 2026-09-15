@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CDraw",
+   "reward": "3 Cthulhu Tickets"
+  },
+  {
+   "code": "CCoins",
+   "reward": "5,000 Cthulhu Coins"
+  },
+  {
    "code": "Fixed1",
    "reward": "a Normal Cthulhu"
   },
@@ -31,6 +39,6 @@
    "reward": "a Random Rare Pet"
   }
  ],
- "updated": "2026-09-14T12:22:53.673Z",
+ "updated": "2026-09-15T21:08:12.559Z",
  "source": "https://robloxden.com/game-codes/1-drain-water-per-click"
 }

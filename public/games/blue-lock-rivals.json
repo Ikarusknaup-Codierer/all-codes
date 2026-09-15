@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "KINGNEXTWEEK",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "EGODEFENSE",
+   "reward": "5 Lucky Flow Spins"
+  },
+  {
+   "code": "UBERSTAKEOVER",
+   "reward": "5 Lucky Style Spins and 5 Lucky Flow Spins"
+  },
+  {
    "code": "INSANETRAILERSOON",
    "reward": "5 Lucky Flow Spins"
   },
@@ -67,6 +79,6 @@
    "reward": "5 Lucky Flow"
   }
  ],
- "updated": "2026-09-14T12:20:07.006Z",
+ "updated": "2026-09-15T21:05:11.051Z",
  "source": "https://robloxden.com/game-codes/blue-lock-rivals"
 }

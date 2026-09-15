@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FL4M",
-   "reward": "Flamingo Knife"
-  },
-  {
    "code": "D3NIS",
    "reward": "Denis Knife"
   },
@@ -23,10 +19,14 @@
    "reward": "Sub Knife"
   },
   {
+   "code": "NatureUpdate",
+   "reward": "500 Gold"
+  },
+  {
    "code": "COMB4T2",
    "reward": "This code will give you a free Combat II Knife"
   }
  ],
- "updated": "2026-09-14T04:24:43.266Z",
+ "updated": "2026-09-15T21:04:17.762Z",
  "source": "https://robloxden.com/game-codes/murder-mystery-2"
 }

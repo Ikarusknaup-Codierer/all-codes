@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AUTUMNSOON",
+   "reward": "$50,000"
+  },
+  {
    "code": "OPENTOP",
    "reward": "$80,000"
   },
@@ -91,14 +95,14 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "IceCold",
-   "reward": "$30,000"
+   "code": "Backfire",
+   "reward": "$35,000"
   },
   {
    "code": "VOLKSWAGEN",
    "reward": "100k Cash"
   }
  ],
- "updated": "2026-09-14T04:23:47.870Z",
+ "updated": "2026-09-15T21:04:10.465Z",
  "source": "https://robloxden.com/game-codes/car-dealership-tycoon"
 }

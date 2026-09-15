@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PickRace",
+   "reward": "Any Base Race"
+  },
+  {
    "code": "ThanksFor163kLikes",
    "reward": "Rewards"
   },
@@ -267,6 +271,6 @@
    "reward": "1 Legendary Spin"
   }
  ],
- "updated": "2026-09-14T12:20:09.307Z",
+ "updated": "2026-09-15T21:05:13.474Z",
  "source": "https://robloxden.com/game-codes/reaper-2"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE8",
+   "reward": "7 Stars and 5,000 Cash"
+  },
+  {
+   "code": "BASESKINS",
+   "reward": "2x Cash (5 Minutes)"
+  },
+  {
    "code": "NEWBLACKHOLES",
    "reward": "5 Holes , 7 Spin Tickets , and 2x Hole Spawns (5 Minutes)"
   },
@@ -51,6 +59,6 @@
    "reward": "3 Spin Tickets"
   }
  ],
- "updated": "2026-09-14T12:26:15.732Z",
+ "updated": "2026-09-15T21:11:44.494Z",
  "source": "https://robloxden.com/game-codes/merge-a-black-hole"
 }

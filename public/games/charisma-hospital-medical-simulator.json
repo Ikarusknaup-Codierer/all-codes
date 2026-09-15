@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "APTITUDEBOOST",
+   "reward": "5,000 Rolls"
+  },
+  {
    "code": "50MVISITS",
    "reward": "5,000 XP"
   },
@@ -23,6 +27,6 @@
    "reward": "500 EXP"
   }
  ],
- "updated": "2026-09-14T21:41:39.350Z",
+ "updated": "2026-09-15T21:13:17.255Z",
  "source": "https://robloxden.com/game-codes/charisma-hospital-medical-simulator"
 }

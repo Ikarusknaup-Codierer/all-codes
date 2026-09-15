@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CURSED",
+   "reward": "1 Void Potion"
+  },
+  {
+   "code": "THANKS",
+   "reward": "30 Lucky Rolls"
+  },
+  {
    "code": "GRADER",
    "reward": "10 Lucky Rolls"
   },
@@ -63,6 +71,6 @@
    "reward": "2 Anime Crates"
   }
  ],
- "updated": "2026-09-14T12:20:27.089Z",
+ "updated": "2026-09-15T21:05:32.717Z",
  "source": "https://robloxden.com/game-codes/excuse-me-sir"
 }

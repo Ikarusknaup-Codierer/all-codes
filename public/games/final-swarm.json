@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RipVoid",
+   "reward": "3 Golden Chests"
+  },
+  {
    "code": "firstswarm",
    "reward": "3 Common Chests"
   },
@@ -15,10 +19,14 @@
    "reward": "100 Keys"
   },
   {
+   "code": "R41D5",
+   "reward": "5 Raid Chests"
+  },
+  {
    "code": "VoidExtension",
    "reward": "5 Void Chests"
   }
  ],
- "updated": "2026-09-14T04:20:38.109Z",
+ "updated": "2026-09-15T16:44:00.173Z",
  "source": "https://robloxden.com/game-codes/final-swarm"
 }

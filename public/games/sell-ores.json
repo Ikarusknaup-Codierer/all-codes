@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ADMINMUTATION",
+   "reward": "an Admin Coating Spray"
+  },
+  {
+   "code": "FRAGMENTS",
+   "reward": "25 Admin Ore Fragments"
+  },
+  {
    "code": "ROBLOXSERVERS",
    "reward": "a 24 Hour Time Skip"
   },
@@ -33,8 +41,12 @@
   {
    "code": "ALMIGHTY",
    "reward": "a 6-hour Time Skip"
+  },
+  {
+   "code": "ANOTHERONE",
+   "reward": "a 1 Hour Time Skip"
   }
  ],
- "updated": "2026-09-14T04:23:11.331Z",
+ "updated": "2026-09-15T16:46:16.971Z",
  "source": "https://robloxden.com/game-codes/sell-ores"
 }

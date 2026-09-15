@@ -15,10 +15,6 @@
    "reward": "+50% Luck Timer extended (15 Minutes) and a Small Luck Potion"
   },
   {
-   "code": "Lucksip2",
-   "reward": "a +50% Luck Potion (15 mins)"
-  },
-  {
    "code": "Cash10k",
    "reward": "10,000 Cash"
   },
@@ -43,6 +39,10 @@
    "reward": "Server x2 Luck Boost Time (15 mins)"
   },
   {
+   "code": "Lucksip2",
+   "reward": "a +50% Luck Potion (15 mins)"
+  },
+  {
    "code": "Lucksip1",
    "reward": "a +50% Luck Potion (15 mins)"
   },
@@ -59,6 +59,6 @@
    "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-09-14T04:21:55.075Z",
+ "updated": "2026-09-15T16:45:01.899Z",
  "source": "https://robloxden.com/game-codes/fishing-chef"
 }

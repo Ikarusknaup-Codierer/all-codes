@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE101",
+   "reward": "3,000 Cursed Orbs , 3,000 Heavenly Fruits , and 50 of Every Boost"
+  },
+  {
    "code": "UPDATE100",
    "reward": "100 Mega Boosts (all types) , 100 Shiny Boosts , 2,000 Heavenly Fruit "
   },
@@ -311,10 +315,10 @@
    "reward": "5 Mega Boosts , 100 Wistoria Shards , 150 Passive Tokens , 200 Requiem"
   },
   {
-   "code": "NinjaCityRaid",
-   "reward": ""
+   "code": "UPDATEDELAYSAD",
+   "reward": "30 Passive Tokens and 1 Shiny Boost"
   }
  ],
- "updated": "2026-09-14T12:19:11.220Z",
+ "updated": "2026-09-15T16:47:22.094Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

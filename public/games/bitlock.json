@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SYNCED",
+   "reward": "$2,000,000 and 15 Ego"
+  },
+  {
+   "code": "SPECIALIST",
+   "reward": "20 Training Points"
+  },
+  {
+   "code": "LASTLINE",
+   "reward": "$1,500,000 and 40 Clan Rerolls"
+  },
+  {
    "code": "LONGGAME",
    "reward": "$750,000 and 15 Training Points"
   },
@@ -91,6 +103,6 @@
    "reward": "10 Training Points"
   }
  ],
- "updated": "2026-09-14T04:18:03.970Z",
+ "updated": "2026-09-15T16:41:45.423Z",
  "source": "https://robloxden.com/game-codes/bitlock"
 }

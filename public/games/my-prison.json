@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Vegetation",
+   "reward": "350 Cash"
+  },
+  {
+   "code": "CarNitro",
+   "reward": "500 Cash"
+  },
+  {
    "code": "OffGrid",
    "reward": "500 Cash"
   },
@@ -43,6 +51,6 @@
    "reward": "$350"
   }
  ],
- "updated": "2026-09-14T04:18:08.943Z",
+ "updated": "2026-09-15T16:41:50.632Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

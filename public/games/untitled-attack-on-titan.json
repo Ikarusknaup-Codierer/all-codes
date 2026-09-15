@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "OpenDoors",
+   "reward": "5,000 Gold and 5 Clan Spins , 15 Forge Tokens and 5 Clan Spins , 40 Sh"
+  },
+  {
+   "code": "FeaturedDrop",
+   "reward": "4,000 Gold and 8 Clan Spins , 20 Forge Tokens and 30 Shards , 7,500 Go"
+  },
+  {
    "code": "Regiments",
    "reward": "5,000 Money and 10 Clan Spins"
   },
@@ -51,6 +59,6 @@
    "reward": "2,000 Gold"
   }
  ],
- "updated": "2026-09-14T04:15:37.220Z",
+ "updated": "2026-09-15T16:39:34.250Z",
  "source": "https://robloxden.com/game-codes/untitled-attack-on-titan"
 }

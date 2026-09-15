@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NOMORESILENCE",
+   "reward": "40 Rerolls"
+  },
+  {
    "code": "CQC",
    "reward": "30 Rerolls"
   },
@@ -23,6 +27,6 @@
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-09-14T12:19:35.842Z",
+ "updated": "2026-09-15T16:47:45.532Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

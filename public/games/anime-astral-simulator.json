@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE12",
+   "reward": "200 Tickets and 1 of Each II Potion"
+  },
+  {
+   "code": "KAGUNES",
+   "reward": "200 Tickets and 1 of Each II Potion"
+  },
+  {
+   "code": "FRIENDSLEADERBOARD",
+   "reward": "200 Tickets and 1 of Each II Potion"
+  },
+  {
    "code": "AUTOSPAWNBOSS",
    "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -323,6 +335,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-09-14T04:21:27.429Z",
+ "updated": "2026-09-15T16:44:34.874Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

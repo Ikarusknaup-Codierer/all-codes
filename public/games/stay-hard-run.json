@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "DONTBEAWIMP",
+   "reward": "3 Rebirths . You can redeem this code on All time marathon"
+  },
+  {
+   "code": "ENDLESSMODE",
+   "reward": "15,000 Points . You can redeem this code on Endless Mode"
+  },
+  {
+   "code": "BECOMESOMETHING",
+   "reward": "300 Miles . You can redeem this code on Endless Mode"
+  },
+  {
    "code": "UPDATE2",
    "reward": "4,500 Points"
   },
@@ -47,10 +59,10 @@
    "reward": "5 Rebirths"
   },
   {
-   "code": "RELEASE",
-   "reward": "700 Points"
+   "code": "FREEREBIRTH",
+   "reward": "3 Rebirths"
   }
  ],
- "updated": "2026-09-14T04:17:06.221Z",
+ "updated": "2026-09-15T16:40:50.306Z",
  "source": "https://robloxden.com/game-codes/stay-hard-run"
 }

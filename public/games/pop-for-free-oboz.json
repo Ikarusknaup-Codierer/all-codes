@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "SEASON2",
-   "reward": "20 Pops"
-  },
-  {
-   "code": "WSUSHIW",
-   "reward": "30 Pops"
-  },
-  {
    "code": "SUMMER",
+   "reward": "25 Pops"
+  },
+  {
+   "code": "W12345",
    "reward": "25 Pops"
   },
   {
    "code": "ADMINABUSEOVER",
    "reward": "25 Pops"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "200 Pops"
   }
  ],
- "updated": "2026-09-14T04:22:28.757Z",
+ "updated": "2026-09-15T16:45:32.884Z",
  "source": "https://robloxden.com/game-codes/pop-for-free-oboz"
 }

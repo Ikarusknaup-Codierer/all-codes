@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FABSPROMO",
+   "reward": "1 of Each Potion"
+  },
+  {
    "code": "UPDATE1DOT5",
    "reward": "136.11 Gems"
   },
@@ -33,12 +37,8 @@
   {
    "code": "TIER7",
    "reward": "125.02 Gems , 1 Stats Potion , 1 Rune Luck Potion , 1 Rune Bulk Potion"
-  },
-  {
-   "code": "TUTORIALREWORK",
-   "reward": "25 Robux Tokens"
   }
  ],
- "updated": "2026-09-14T04:22:39.641Z",
+ "updated": "2026-09-15T16:45:44.599Z",
  "source": "https://robloxden.com/game-codes/magnet-incremental"
 }

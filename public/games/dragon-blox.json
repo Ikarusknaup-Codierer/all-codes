@@ -7,8 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "FIXESNSTUFF",
-   "reward": "5 Premium Wish Tokens and 5 Race Spins"
+   "code": "CORRUPTED",
+   "reward": "10 Premium Wish Tokens , 10 Race Spins , and 50 Rais Tickets"
   },
   {
    "code": "MORETICKETS",
@@ -29,6 +29,10 @@
   {
    "code": "SECRETCODE",
    "reward": "10 Premium Wishes . You must have at least 150 Rebirths to use this co"
+  },
+  {
+   "code": "FIXESNSTUFF",
+   "reward": "5 Premium Wish Tokens and 5 Race Spins"
   },
   {
    "code": "SSJBRETURNS",
@@ -139,6 +143,6 @@
    "reward": "10 Premium Wishes"
   }
  ],
- "updated": "2026-09-14T04:17:38.009Z",
+ "updated": "2026-09-15T16:41:20.601Z",
  "source": "https://robloxden.com/game-codes/dragon-blox"
 }

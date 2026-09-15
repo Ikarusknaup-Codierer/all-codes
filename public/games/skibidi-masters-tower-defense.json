@@ -55,10 +55,6 @@
    "reward": "150 Toilet Paper and 1 Trait Token"
   },
   {
-   "code": "105KLIKES",
-   "reward": "150 Toilet Paper and 1 Trait Token"
-  },
-  {
    "code": "TRADEPLAZA",
    "reward": "3 Trait Token And 150 Toilet Paper"
   },
@@ -69,6 +65,10 @@
   {
    "code": "freetrait",
    "reward": "3 Trait Tokens"
+  },
+  {
+   "code": "105KLIKES",
+   "reward": "150 Toilet Paper and 1 Trait Token"
   },
   {
    "code": "THANKSGIVING2025",
@@ -99,6 +99,6 @@
    "reward": "Reward"
   }
  ],
- "updated": "2026-09-13T20:40:21.610Z",
+ "updated": "2026-09-15T11:31:57.760Z",
  "source": "https://robloxden.com/game-codes/skibidi-masters-tower-defense"
 }

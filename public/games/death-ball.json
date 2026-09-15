@@ -7,12 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "INPROGRESS",
+   "reward": "30,000 Gems"
+  },
+  {
    "code": "SOON",
    "reward": "30K Gems"
   },
   {
    "code": "MULTIUNBOX",
    "reward": "Free Rewards . To use this code, you must have Multi Unboxing Pass"
+  },
+  {
+   "code": "IMPROVEMENTS",
+   "reward": "50,000 Gems"
   },
   {
    "code": "PIXEL",
@@ -67,6 +75,6 @@
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-09-13T20:41:12.428Z",
+ "updated": "2026-09-15T11:32:55.624Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

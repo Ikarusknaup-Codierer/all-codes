@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MagicKnights!",
+   "reward": "35 Rerolls , 25 Perfect Stat Cubes , and 50 Stat Cubes"
+  },
+  {
+   "code": "ElfReincarnation!",
+   "reward": "25 Rerolls , 10 Mythic Shards , and 100 Essence Selectors"
+  },
+  {
    "code": "WeeklyReturn!",
    "reward": "25 Technique Shards and 15 Mythic Spirit Shards"
   },
@@ -199,6 +207,6 @@
    "reward": "10 Premium Shards"
   }
  ],
- "updated": "2026-09-13T16:10:49.088Z",
+ "updated": "2026-09-15T11:26:26.374Z",
  "source": "https://robloxden.com/game-codes/anime-last-stand"
 }

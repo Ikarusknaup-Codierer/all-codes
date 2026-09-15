@@ -11,12 +11,12 @@
    "reward": "150 Gems"
   },
   {
-   "code": "HUGEUPDATE1",
+   "code": "JUSTRELEASED",
    "reward": "No Stated Reward"
   },
   {
-   "code": "freegems",
-   "reward": "100 Gems"
+   "code": "v1",
+   "reward": "Free Gems (Works Only For Those Who Owned Gamepasses In Version One)"
   },
   {
    "code": "goldencrate",
@@ -27,6 +27,6 @@
    "reward": "No Stated Reward"
   }
  ],
- "updated": "2026-09-13T20:40:06.331Z",
+ "updated": "2026-09-15T11:31:43.327Z",
  "source": "https://robloxden.com/game-codes/rampant"
 }

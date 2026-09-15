@@ -11,10 +11,6 @@
    "reward": "10K Shards"
   },
   {
-   "code": "3YEARS",
-   "reward": "20K Shards"
-  },
-  {
    "code": "160kLikes",
    "reward": "15K Shards"
   },
@@ -55,10 +51,14 @@
    "reward": "1 Storage Slot"
   },
   {
+   "code": "3YEARS",
+   "reward": "20K Shards"
+  },
+  {
    "code": "GRAVITY",
    "reward": "15,000 Shards"
   }
  ],
- "updated": "2026-09-13T20:37:44.715Z",
+ "updated": "2026-09-15T11:29:54.252Z",
  "source": "https://robloxden.com/game-codes/divine-duality-elemental"
 }

@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ENDGATEKEEP",
+   "reward": "an Ability Reroll , a Clan Reroll , a Skill Tree Reset , a Generation "
+  },
+  {
    "code": "SUPERDOG",
    "reward": "1 Skill Tree Reset , 15 Ability Rerolls , and 250 Reroll Tokens"
   },
   {
    "code": "SEVEREDUNIVERSE",
    "reward": "30 Ability Rerolls and 200 Reroll Tokens"
-  },
-  {
-   "code": "AUGMENTV2",
-   "reward": "80 Reroll Tokens"
   }
  ],
- "updated": "2026-09-13T20:37:41.388Z",
+ "updated": "2026-09-15T11:29:51.062Z",
  "source": "https://robloxden.com/game-codes/fire-force-online"
 }

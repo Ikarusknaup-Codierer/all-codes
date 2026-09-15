@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "AURASFIX",
+   "reward": "2 Double Power Potions , 2 Double Damage Potions , 2 Double Coins Poti"
+  },
+  {
+   "code": "7KLIKES",
+   "reward": "3 Wood Chests , 8 Summons , 2 Premium Summons , 2 Double Coins Potions"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "3 Ninja Chests , 10 Summons , 3 Premium Summons , 2 Double Power Potio"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "3 Ninja Chests , 15 Summons , 5 Premium Summons , 2 Double Power Potio"
+  },
+  {
    "code": "6KLIKES",
    "reward": "2 2x Power Potions (10 Minutes) , 2 2x Damage Potions (10 Minutes) , 2"
   },
@@ -51,6 +67,6 @@
    "reward": "5 Summons , 2 Damage Potions , and 1 Golden Knight Chestplate"
   }
  ],
- "updated": "2026-09-13T20:35:25.282Z",
+ "updated": "2026-09-15T11:27:39.783Z",
  "source": "https://robloxden.com/game-codes/anime-stars"
 }

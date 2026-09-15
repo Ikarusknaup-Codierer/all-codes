@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "UltraLuck",
-   "reward": "30 Minutes Omega Lucky"
+   "code": "Lucky24",
+   "reward": "24 Hours Lucky Boost"
   },
   {
-   "code": "Azure",
-   "reward": "4 Hours Super Lucky Boost"
+   "code": "Thankful",
+   "reward": "Super Lucky Boost (4 hours)"
   },
   {
-   "code": "Magma",
-   "reward": "4 Hours Super Lucky Boost"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "100 Coins"
-  },
-  {
-   "code": "UPDATE29",
+   "code": "UPDATE44",
    "reward": "1 6 Hour Lucky Boost"
+  },
+  {
+   "code": "MYSTERY",
+   "reward": "1 30 Minute Lucky Boost"
+  },
+  {
+   "code": "UPDATE11",
+   "reward": "1 30 Minute Super Lucky Boost"
   }
  ],
- "updated": "2026-09-14T04:15:55.280Z",
+ "updated": "2026-09-15T11:36:08.530Z",
  "source": "https://robloxden.com/game-codes/mining-simulator-2"
 }

@@ -15,10 +15,6 @@
    "reward": "250 Cash"
   },
   {
-   "code": "booster",
-   "reward": "7.5k Cash and 500 exp"
-  },
-  {
    "code": "SorryForDelay",
    "reward": "Rewards"
   },
@@ -27,8 +23,8 @@
    "reward": "7.5k Cash and 500exp"
   },
   {
-   "code": "catcatcatcatcat",
-   "reward": "4,000 Cash"
+   "code": "booster",
+   "reward": "7.5k Cash and 500 exp"
   },
   {
    "code": "xltrelease",
@@ -135,6 +131,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-09-13T15:58:22.991Z",
+ "updated": "2026-09-15T04:15:15.256Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

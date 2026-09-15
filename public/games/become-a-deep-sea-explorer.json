@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BALLCARNIVAL",
-   "reward": "1 Manta Ray"
-  },
-  {
    "code": "ZH8GG0",
    "reward": "1 Yellowfin Tuna"
   },
@@ -35,10 +31,14 @@
    "reward": "50 Gems and 100 Money"
   },
   {
+   "code": "BALLCARNIVAL",
+   "reward": "1 Manta Ray"
+  },
+  {
    "code": "SPECIAL10M",
    "reward": "101 Gems , 10,101 Money , and 1 Random Arcana Fish"
   }
  ],
- "updated": "2026-09-13T15:58:28.671Z",
+ "updated": "2026-09-15T04:15:19.687Z",
  "source": "https://robloxden.com/game-codes/become-a-deep-sea-explorer"
 }

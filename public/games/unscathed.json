@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TOWER",
+   "reward": "3 Divine Potions and 50 Lucky Potions"
+  },
+  {
    "code": "CYBER",
    "reward": "1 Divine Potion and 1 Lucky Coin"
   },
@@ -27,6 +31,6 @@
    "reward": "10 Lucky Potions , 10 Speed Potions , and 1,000 Cash"
   }
  ],
- "updated": "2026-09-13T15:59:20.657Z",
+ "updated": "2026-09-15T04:15:43.993Z",
  "source": "https://robloxden.com/game-codes/unscathed"
 }

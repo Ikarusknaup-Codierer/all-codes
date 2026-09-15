@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "NewSpinFocus!",
+   "reward": "15 Spins"
+  },
+  {
+   "code": "NewGuildsHunting!",
+   "reward": "15 Spins"
+  },
+  {
+   "code": "ThankYouFor30KInterested!",
+   "reward": "30 Spins"
+  },
+  {
    "code": "ThanksFor5KCCU!",
    "reward": "Rewards"
   },
@@ -83,6 +95,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-09-13T15:57:03.092Z",
+ "updated": "2026-09-15T04:14:25.357Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

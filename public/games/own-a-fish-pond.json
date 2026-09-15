@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AETHER",
+   "reward": "1 LoveLost Bucket"
+  },
+  {
    "code": "TORNADOUPD",
    "reward": "1 Secret Bucket"
   },
@@ -31,14 +35,14 @@
    "reward": "1 BACKROOMS Bucket"
   },
   {
-   "code": "RIGHTPONDISBACK",
-   "reward": "1 Mega Wrench"
+   "code": "70MVISITS",
+   "reward": "1 Devoted Bucket"
   },
   {
    "code": "IWASTHERETHREE",
    "reward": "Exclusive Limited Fish and 1 Secret Bucket"
   }
  ],
- "updated": "2026-09-13T15:58:35.350Z",
+ "updated": "2026-09-15T04:15:24.838Z",
  "source": "https://robloxden.com/game-codes/own-a-fish-pond"
 }

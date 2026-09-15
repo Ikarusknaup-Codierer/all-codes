@@ -11,22 +11,22 @@
    "reward": "3 Luck Boosts II , 3 Stone Boosts II , 3 Roll Speed Boosts II , and 3 "
   },
   {
-   "code": "boss5",
-   "reward": "5 Boss Skip Scrolls"
+   "code": "wfr3",
+   "reward": "3 Lucky Boost II, 3 Roll Speed Boost II, 3 Stone Boost II, And 3 EXP B"
   },
   {
-   "code": "kun",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "owl",
+   "code": "snow",
    "reward": "Boosts"
   },
   {
-   "code": "shark",
-   "reward": "Free Rewards"
+   "code": "mount",
+   "reward": "Boosts"
+  },
+  {
+   "code": "boss",
+   "reward": "5 Boss Skip Scrolls"
   }
  ],
- "updated": "2026-09-13T16:00:29.529Z",
+ "updated": "2026-09-15T04:16:48.634Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-rng"
 }

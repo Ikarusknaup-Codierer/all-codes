@@ -11,15 +11,15 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "Quests",
-   "reward": "350 Cash"
-  },
-  {
-   "code": "Perks",
-   "reward": "300 Cash"
+   "code": "200Active",
+   "reward": "+1 Level"
   },
   {
    "code": "PlayBaseTD",
+   "reward": "200 Gubcoins and XP"
+  },
+  {
+   "code": "Matchmaking",
    "reward": "200 Gubcoins and XP"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "750 Gubcoins and XP"
   }
  ],
- "updated": "2026-09-13T16:01:17.313Z",
+ "updated": "2026-09-15T04:17:32.557Z",
  "source": "https://robloxden.com/game-codes/gubby-tower-defense"
 }

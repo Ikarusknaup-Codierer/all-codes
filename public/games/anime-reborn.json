@@ -11,18 +11,22 @@
    "reward": "10 Concentrated Crystals for Each Element"
   },
   {
-   "code": "sorry4shutdown",
-   "reward": "100 Gems, 1 Basic Luck Potion, And 5 Trait Crystals"
+   "code": "1MMembers",
+   "reward": ""
   },
   {
-   "code": "BannerCostFixed",
-   "reward": "15 Trait Crystals"
+   "code": "Reacts25k",
+   "reward": "25 Trait Crystals And 2,500 Gems"
   },
   {
-   "code": "20Mvisits",
-   "reward": "1,000 Gems, 5 Trait Crystals, 3 Frost Keys, 3 Potential Keys, And 1 Ba"
+   "code": "Hunters",
+   "reward": "4 Frost Keys and 10 trait Rerolls"
+  },
+  {
+   "code": "LBReset",
+   "reward": "7 Rerolls"
   }
  ],
- "updated": "2026-09-13T20:34:31.153Z",
+ "updated": "2026-09-15T04:24:33.613Z",
  "source": "https://robloxden.com/game-codes/anime-reborn"
 }

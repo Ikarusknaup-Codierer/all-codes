@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "GRRRRRAAAAAAAAAH",
-   "reward": "3x EXP"
-  },
-  {
    "code": "UPDATEISHERE",
    "reward": "3x EXP Booster"
   },
@@ -21,8 +17,12 @@
   {
    "code": "CONSOLE",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "BOMBFRENZY",
+   "reward": "Exp Boost"
   }
  ],
- "updated": "2026-09-13T16:02:23.632Z",
+ "updated": "2026-09-15T04:18:24.611Z",
  "source": "https://robloxden.com/game-codes/asylum-life"
 }

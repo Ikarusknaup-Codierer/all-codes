@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "CHRISTMAS",
+   "code": "67",
    "reward": "Clicks"
   },
   {
-   "code": "REBORN",
+   "code": "JANDEL",
+   "reward": "Clicks And UGC Rewards"
+  },
+  {
+   "code": "HAIR",
    "reward": "Clicks And Potions"
   },
   {
-   "code": "UGC",
-   "reward": "20,000 Clicks and 150 Gems"
+   "code": "CLICK",
+   "reward": "Clicks And Potions"
   },
   {
-   "code": "NEWUGC",
-   "reward": "50,000 Clicks"
-  },
-  {
-   "code": "SORRY4DELAY",
-   "reward": "55,000 Clicks"
+   "code": "15KLIKES",
+   "reward": "Extra Boosts"
   }
  ],
- "updated": "2026-09-14T21:48:47.174Z",
+ "updated": "2026-09-16T04:16:59.927Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

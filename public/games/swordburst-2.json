@@ -31,10 +31,6 @@
    "reward": "Pink Equipment and Auras"
   },
   {
-   "code": "Corrupted",
-   "reward": "a 30 Minutes Boost"
-  },
-  {
    "code": "ilovepurple",
    "reward": "1 Purple Equipment and 1 Aura"
   },
@@ -81,8 +77,12 @@
   {
    "code": "CorruptedAtheonPity",
    "reward": "40 Minutes Boost . You must be level 100 to claim this code"
+  },
+  {
+   "code": "Corrupted",
+   "reward": "a 30 Minutes Boost"
   }
  ],
- "updated": "2026-09-14T21:42:23.122Z",
+ "updated": "2026-09-16T04:11:08.130Z",
  "source": "https://robloxden.com/game-codes/swordburst-2"
 }

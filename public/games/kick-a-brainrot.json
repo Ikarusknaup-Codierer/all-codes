@@ -23,14 +23,14 @@
    "reward": "1h Cash Boost"
   },
   {
-   "code": "30MVISITS",
-   "reward": "1h Luck Boost"
-  },
-  {
    "code": "60KLIKES",
    "reward": "a Cash Boost (1 Hour)"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "a Luck Boost (1 Hour)"
   }
  ],
- "updated": "2026-09-15T04:15:12.457Z",
+ "updated": "2026-09-16T04:19:01.954Z",
  "source": "https://robloxden.com/game-codes/kick-a-brainrot"
 }

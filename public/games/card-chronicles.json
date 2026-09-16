@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "POTENTIAL!",
+   "reward": "Free Rewards . You must have at least 50,000 Rolls to use this code"
+  },
+  {
+   "code": "TEMPEST!",
+   "reward": "Free Rewards . You must have at least 100,000 Rolls to use this code"
+  },
+  {
+   "code": "SORRYFORMAINTENANCE2!",
+   "reward": "Free Rewards . You must have at least 100,000 Rolls to use this code"
+  },
+  {
    "code": "Hotfix!",
    "reward": "Free Rewards . You must have at least 50,000 Rolls to use this code"
   },
@@ -147,6 +159,6 @@
    "reward": "3x Luck Potion III , 3x Roll Speed Potion III , 3x Battle Speed Potion"
   }
  ],
- "updated": "2026-09-15T16:45:30.392Z",
+ "updated": "2026-09-16T21:14:06.636Z",
  "source": "https://robloxden.com/game-codes/card-chronicles"
 }

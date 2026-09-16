@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Update2",
-   "reward": "1 Lucky Roll II"
-  },
-  {
    "code": "ImBlue",
    "reward": "Rewards"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Update1",
    "reward": "Rewards"
+  },
+  {
+   "code": "Update2",
+   "reward": "1 Lucky Roll II"
   }
  ],
- "updated": "2026-09-15T16:44:37.956Z",
+ "updated": "2026-09-16T21:13:10.411Z",
  "source": "https://robloxden.com/game-codes/mine-rng"
 }

@@ -11,10 +11,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "32KLIKES",
-   "reward": "Rewards"
-  },
-  {
    "code": "36KLIKES",
    "reward": "Rewards"
   },
@@ -25,8 +21,12 @@
   {
    "code": "30KLIKES",
    "reward": "30k Cash"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "25k Cash"
   }
  ],
- "updated": "2026-09-15T16:41:50.069Z",
+ "updated": "2026-09-16T21:10:13.456Z",
  "source": "https://robloxden.com/game-codes/foam-frenzy"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORTHEDELAY",
+   "reward": "50 Spins , 10 Heavenly Spins and 3 Spirit Root Spins"
+  },
+  {
+   "code": "TALENT",
+   "reward": "25 Spins and 3 Spirit Root Spins . This code requires Qi Refinement Re"
+  },
+  {
    "code": "SMALLUPDATE",
    "reward": "20 Talent/Race Spins . You need to have Qi Refinement Realm or above t"
   },
@@ -19,10 +27,10 @@
    "reward": "20 Talent/Race Spins"
   },
   {
-   "code": "10KVISITS",
-   "reward": "50 Talent/Race Spins"
+   "code": "SRYFORTHEWIPE",
+   "reward": "500 Talent/Race Spins"
   }
  ],
- "updated": "2026-09-15T16:41:16.197Z",
+ "updated": "2026-09-16T21:09:37.798Z",
  "source": "https://robloxden.com/game-codes/beyond-cultivation"
 }

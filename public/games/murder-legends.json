@@ -11,22 +11,22 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "5000",
+   "code": "FALL",
    "reward": "rewards"
   },
   {
-   "code": "SOUL",
+   "code": "NETHER",
    "reward": "rewards"
+  },
+  {
+   "code": "E4ST3R",
+   "reward": "2,000 Coins"
   },
   {
    "code": "UPDATE",
    "reward": "the Flame Handblade"
-  },
-  {
-   "code": "FREECASH",
-   "reward": "6,000 Coins"
   }
  ],
- "updated": "2026-09-15T16:43:13.499Z",
+ "updated": "2026-09-16T21:11:41.744Z",
  "source": "https://robloxden.com/game-codes/murder-legends"
 }

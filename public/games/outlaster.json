@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "CRYS",
-   "reward": "Crys"
+   "code": "STARTER",
+   "reward": "Starter"
   },
   {
-   "code": "JUNGLELIFE",
-   "reward": "50 Gems"
+   "code": "RELEASE!",
+   "reward": "2,500 Cash (when making an in-game Robux purchase for the next 24 hour"
   },
   {
    "code": "GOURDS",
@@ -31,6 +31,6 @@
    "reward": "New"
   }
  ],
- "updated": "2026-09-15T16:42:31.422Z",
+ "updated": "2026-09-16T21:10:57.162Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

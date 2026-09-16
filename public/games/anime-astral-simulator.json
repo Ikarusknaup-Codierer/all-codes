@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "QUINQUE",
+   "reward": "200 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Poti"
+  },
+  {
+   "code": "2GACHAS",
+   "reward": "200 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Poti"
+  },
+  {
    "code": "UPDATE12",
    "reward": "200 Tickets and 1 of Each II Potion"
   },
@@ -335,6 +343,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-09-15T16:44:34.874Z",
+ "updated": "2026-09-16T21:13:07.082Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

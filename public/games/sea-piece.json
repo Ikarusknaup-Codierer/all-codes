@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "SORRYFORSHUTDOWN!",
-   "reward": "2x Exp For Five Minutes"
-  },
-  {
-   "code": "fishlol",
-   "reward": "Beli"
+   "code": "Update8!",
+   "reward": "Free Rewards"
   },
   {
    "code": "Update7!",
@@ -23,10 +19,14 @@
    "reward": "Beli And Stat Reset"
   },
   {
+   "code": "UPDATE4!",
+   "reward": "2x Exp For 5 Minutes"
+  },
+  {
    "code": "cat!",
    "reward": "Double XP For 5 Minutes"
   }
  ],
- "updated": "2026-09-15T16:47:16.205Z",
+ "updated": "2026-09-16T21:15:31.762Z",
  "source": "https://robloxden.com/game-codes/sea-piece"
 }

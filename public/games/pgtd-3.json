@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "UpdateSoon",
-   "reward": "20 Levels"
+   "code": "tokens",
+   "reward": "150 Upgrade Tokens"
   },
   {
-   "code": "14Boosts",
-   "reward": "Reward"
-  },
-  {
-   "code": "14KLIKES",
-   "reward": "50 Upgrade Tokens"
+   "code": "6900KVisits",
+   "reward": "100,000 Money Boost"
   },
   {
    "code": "GoldRushMillion",
    "reward": "1,000,000 of 2x Money Boost"
   },
   {
-   "code": "Sorry4Shutdowns",
-   "reward": "100 Stars"
+   "code": "FreeRerolls",
+   "reward": "10 Free Rolls"
+  },
+  {
+   "code": "225Likes",
+   "reward": "750 Money"
   }
  ],
- "updated": "2026-09-15T16:40:33.139Z",
+ "updated": "2026-09-16T21:08:52.610Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

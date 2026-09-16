@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "ThePartyOver",
+   "reward": "x10 Wins for 10 Minutes"
+  },
+  {
+   "code": "HappyBirthdaySaltov",
+   "reward": "x5 Wins for 30 Minutes"
+  },
+  {
+   "code": "BirthdaySoon",
+   "reward": "x5 Heat for 5 Minutes"
+  },
+  {
+   "code": "HeatGOAT",
+   "reward": "x5 Heat for 10 Minutes"
+  },
+  {
+   "code": "FirstCode",
+   "reward": "x3 Heat for 5 Minutes"
+  },
+  {
+   "code": "CakeOfWins",
+   "reward": "x4 Wins for 10 Minutes"
   }
  ],
- "updated": "2026-09-15T04:23:22.467Z",
+ "updated": "2026-09-16T11:19:46.219Z",
  "source": "https://robloxden.com/game-codes/1-heat-per-click"
 }

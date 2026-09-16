@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MunSavedUs",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
    "code": "HZSaved!",
    "reward": "100 Lucky Spins and 100 Traits and 100 Lucky Perk Spins"
   },
@@ -31,10 +35,6 @@
    "reward": "50 Lucky Spins and 100 Traits , 100 Raid Tickets and 50 Lucky Perk Spi"
   },
   {
-   "code": "10KCCU!!!!",
-   "reward": "100 Lucky Weapon Spins, 100 Lucky Perk Spins and 50 Traits"
-  },
-  {
    "code": "HZFixes!",
    "reward": "50 Lucky Weapon Spin, 50 Lucky Perk Spin and 50 Traits"
   },
@@ -55,18 +55,6 @@
    "reward": "25 Lucky Weapon Spins , 25 Lucky Perk Spins , 50 Raid Tickets , 100 Tr"
   },
   {
-   "code": "ScytheEvolution!",
-   "reward": "100 Lucky Spins of Each and 30 Traits"
-  },
-  {
-   "code": "Dubstep!",
-   "reward": "100 Lucky Spins of Each and 30 Traits"
-  },
-  {
-   "code": "HappyBirthday!",
-   "reward": "30 Lucky Spins of Each and 20 Traits"
-  },
-  {
    "code": "PartyBreaker!",
    "reward": "30 Lucky Spins of Each and 20 Traits"
   },
@@ -81,26 +69,6 @@
   {
    "code": "AnniversarySoon!",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "KapsiHotFix",
-   "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins"
-  },
-  {
-   "code": "SorryRestart",
-   "reward": "50 Lucky Weapon Spins , 50 Lucky Perk Spins , and 50 Traits"
-  },
-  {
-   "code": "Halberd!",
-   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
-  },
-  {
-   "code": "BossRushRefresh!",
-   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
-  },
-  {
-   "code": "SaveHZ!",
-   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
   },
   {
    "code": "KatanaEvo",
@@ -135,18 +103,6 @@
    "reward": "30 Lucky Weapon Spins , 25 Lucky Perk Spins , and 1,000 Summer Coins"
   },
   {
-   "code": "HappyJuly4th!",
-   "reward": "75 Lucky Weapon Spins , 75 Lucky Perk Spins , and 400 Summer Coins"
-  },
-  {
-   "code": "KrakenAttack!",
-   "reward": "100 Raid Tickets"
-  },
-  {
-   "code": "15kInterestedCapsule!",
-   "reward": "10 Summer Capsules"
-  },
-  {
    "code": "ItsSummerSoon!",
    "reward": "50 Lucky Perk Spins and 50 Lucky Weapon Spins"
   },
@@ -160,26 +116,6 @@
   },
   {
    "code": "GoodByeCaves!",
-   "reward": "50 Lucky Perk Spins and 50 Lucky Weapon Spins"
-  },
-  {
-   "code": "CursedChef!",
-   "reward": "50 Lucky Perk Spins and 50 Lucky Weapon Spins"
-  },
-  {
-   "code": "Determination!",
-   "reward": "50 Lucky Perk Spins , 50 Lucky Weapon Spins , and 50 Traits"
-  },
-  {
-   "code": "BossRush!",
-   "reward": "50 Lucky Perk Spins , 50 Lucky Weapon Spins , and 50 Traits"
-  },
-  {
-   "code": "HotfixADayKeepsLhamaAway!",
-   "reward": "50 Lucky Perk Spins and 50 Lucky Weapon Spins"
-  },
-  {
-   "code": "NODELAYTODAY!",
    "reward": "50 Lucky Perk Spins and 50 Lucky Weapon Spins"
   },
   {
@@ -231,12 +167,80 @@
    "reward": "100 Lucky Weapon Spins"
   },
   {
+   "code": "10KCCU!!!!",
+   "reward": "100 Lucky Weapon Spins, 100 Lucky Perk Spins and 50 Traits . You need "
+  },
+  {
    "code": "Anniversary!",
    "reward": "100 Lucky Spins of Each and 30 Traits"
   },
   {
+   "code": "ScytheEvolution!",
+   "reward": "100 Lucky Spins of Each and 30 Traits"
+  },
+  {
+   "code": "Dubstep!",
+   "reward": "100 Lucky Spins of Each and 30 Traits"
+  },
+  {
+   "code": "HappyBirthday!",
+   "reward": "30 Lucky Spins of Each and 20 Traits"
+  },
+  {
    "code": "MUNFIXEDIT",
    "reward": "Rewards"
+  },
+  {
+   "code": "KapsiHotFix",
+   "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins"
+  },
+  {
+   "code": "SorryRestart",
+   "reward": "50 Lucky Weapon Spins , 50 Lucky Perk Spins , and 50 Traits"
+  },
+  {
+   "code": "Halberd!",
+   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
+  },
+  {
+   "code": "BossRushRefresh!",
+   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
+  },
+  {
+   "code": "SaveHZ!",
+   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
+  },
+  {
+   "code": "HappyJuly4th!",
+   "reward": "75 Lucky Weapon Spins , 75 Lucky Perk Spins , and 400 Summer Coins"
+  },
+  {
+   "code": "KrakenAttack!",
+   "reward": "100 Raid Tickets"
+  },
+  {
+   "code": "15kInterestedCapsule!",
+   "reward": "10 Summer Capsules"
+  },
+  {
+   "code": "CursedChef!",
+   "reward": "50 Lucky Perk Spins and 50 Lucky Weapon Spins"
+  },
+  {
+   "code": "Determination!",
+   "reward": "50 Lucky Perk Spins , 50 Lucky Weapon Spins , and 50 Traits"
+  },
+  {
+   "code": "BossRush!",
+   "reward": "50 Lucky Perk Spins , 50 Lucky Weapon Spins , and 50 Traits"
+  },
+  {
+   "code": "HotfixADayKeepsLhamaAway!",
+   "reward": "50 Lucky Perk Spins and 50 Lucky Weapon Spins"
+  },
+  {
+   "code": "NODELAYTODAY!",
+   "reward": "50 Lucky Perk Spins and 50 Lucky Weapon Spins"
   },
   {
    "code": "QoLRebalance2!",
@@ -255,6 +259,6 @@
    "reward": "30 Lucky Weapon Spins and 30 Lucky Perk Spins"
   }
  ],
- "updated": "2026-09-15T04:18:19.475Z",
+ "updated": "2026-09-16T11:16:01.202Z",
  "source": "https://robloxden.com/game-codes/hunty-zombie"
 }

@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "100KVisits",
+   "reward": "50 Tickets , 2 RuneLuck Potions , 2 RuneSpeed Potions , and 2 RuneBulk"
+  },
+  {
+   "code": "5kFavs",
+   "reward": "25 Tickets , a RuneLuck Potion , a RuneSpeed Potion , a RuneBulk Potio"
+  },
+  {
+   "code": "500ccu",
+   "reward": "50 Tickets , 3 RuneLuck Potions , 3 RuneSpeed Potions , and 3 RuneBulk"
+  },
+  {
+   "code": "Frog",
+   "reward": "42 Tickets , 1 RuneLuck Potion , 1 RuneSpeed Potion , and 1 RuneBulk P"
+  },
+  {
+   "code": "30KVisits",
+   "reward": "15 Tickets , 1 RuneLuck Potion , 1 RuneSpeed Potion , and 1 RuneBulk P"
   }
  ],
- "updated": "2026-09-15T04:28:30.655Z",
+ "updated": "2026-09-16T11:20:43.812Z",
  "source": "https://robloxden.com/game-codes/chess-incremental"
 }

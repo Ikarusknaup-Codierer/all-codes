@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "bugfix",
+   "reward": "5 Credits and 1 All Potion"
+  },
+  {
+   "code": "World2",
+   "reward": "10 Tickets"
   }
  ],
- "updated": "2026-09-15T04:28:27.479Z",
+ "updated": "2026-09-16T11:20:41.904Z",
  "source": "https://robloxden.com/game-codes/printer-incremental"
 }

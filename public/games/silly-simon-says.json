@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WOWPEARLZ",
+   "reward": "50 Pearls"
+  },
+  {
    "code": "winter",
    "reward": "Snow Speech Bubble"
   },
@@ -127,6 +131,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-15T11:29:56.882Z",
+ "updated": "2026-09-16T16:35:44.006Z",
  "source": "https://robloxden.com/game-codes/silly-simon-says"
 }

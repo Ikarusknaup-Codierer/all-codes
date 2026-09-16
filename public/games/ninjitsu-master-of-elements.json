@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "lightning",
-   "reward": "1 Rare Chest"
+   "code": "MOE2024",
+   "reward": "1 Random Scroll And 1 Epic Chest"
   },
   {
    "code": "MOEBloodthirsty",
-   "reward": "1 Net"
-  },
-  {
-   "code": "MOEOperatorFangbam",
    "reward": "1 Net"
   },
   {
@@ -23,6 +19,6 @@
    "reward": "3 Rare Chests"
   }
  ],
- "updated": "2026-09-15T11:27:34.016Z",
+ "updated": "2026-09-16T16:33:33.647Z",
  "source": "https://robloxden.com/game-codes/ninjitsu-master-of-elements"
 }

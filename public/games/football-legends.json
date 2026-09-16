@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "VISORS",
+   "reward": "1 Summer Trail Case"
+  },
+  {
+   "code": "PRO",
+   "reward": "1 Summer Skin Case"
+  },
+  {
    "code": "PARKHELMETS",
    "reward": "1 Summer Trail Case"
   },
@@ -39,14 +47,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "elitecase2",
-   "reward": "Freebies"
+   "code": "1000LIKES",
+   "reward": "1,000 Free Coins"
   },
   {
-   "code": "hotfix",
-   "reward": "Free Rewards"
+   "code": "TYFOR100K",
+   "reward": "Christmas Emote Case"
   }
  ],
- "updated": "2026-09-15T11:29:12.401Z",
+ "updated": "2026-09-16T16:35:02.577Z",
  "source": "https://robloxden.com/game-codes/football-legends"
 }

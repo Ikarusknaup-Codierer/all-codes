@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LOBBY",
+   "reward": "500 Cash and 300 EXP"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "400 XP and $900 Cash"
   }
  ],
- "updated": "2026-09-15T04:28:28.016Z",
+ "updated": "2026-09-16T16:32:32.658Z",
  "source": "https://robloxden.com/game-codes/debt-hunt"
 }

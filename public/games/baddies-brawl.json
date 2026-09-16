@@ -11,10 +11,6 @@
    "reward": "200 Stars"
   },
   {
-   "code": "2v2",
-   "reward": "500 Style Tokens"
-  },
-  {
    "code": "pirate",
    "reward": "150 Coins"
   },
@@ -177,8 +173,12 @@
   {
    "code": "star",
    "reward": "2 Hourly Wheel Spins"
+  },
+  {
+   "code": "2v2",
+   "reward": "500 Style Tokens"
   }
  ],
- "updated": "2026-09-15T04:24:24.121Z",
+ "updated": "2026-09-16T16:32:23.500Z",
  "source": "https://robloxden.com/game-codes/baddies-brawl"
 }

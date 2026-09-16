@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DelayedMaintenanceEvilTesters",
+   "reward": "20 Product Essence"
+  },
+  {
+   "code": "JesterMiniUpdate",
+   "reward": "40 Product Essence and 1 Slot"
+  },
+  {
    "code": "450KLikesWithUpdateSoon",
    "reward": "15 Product Essence and 1 New Slot"
   },
@@ -19,6 +27,6 @@
    "reward": "15 Product Essences"
   }
  ],
- "updated": "2026-09-15T11:31:15.033Z",
+ "updated": "2026-09-16T16:37:11.184Z",
  "source": "https://robloxden.com/game-codes/peroxide"
 }

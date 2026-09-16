@@ -11,22 +11,22 @@
    "reward": "150 Gems"
   },
   {
+   "code": "HUGEUPDATE1",
+   "reward": "No Stated Reward"
+  },
+  {
    "code": "JUSTRELEASED",
    "reward": "No Stated Reward"
   },
   {
-   "code": "v1",
-   "reward": "Free Gems (Works Only For Those Who Owned Gamepasses In Version One)"
+   "code": "freegems",
+   "reward": "100 Gems"
   },
   {
    "code": "goldencrate",
    "reward": "Golden Crate"
-  },
-  {
-   "code": "PLAYRAMPANT1V1",
-   "reward": "No Stated Reward"
   }
  ],
- "updated": "2026-09-15T11:31:43.327Z",
+ "updated": "2026-09-16T16:37:36.020Z",
  "source": "https://robloxden.com/game-codes/rampant"
 }

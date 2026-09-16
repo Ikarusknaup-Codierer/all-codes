@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "ChibiFace",
-   "reward": "40,000 Still Points"
+   "code": "dontmoveboyhair",
+   "reward": "80,000 Still Points"
   },
   {
-   "code": "DonutHair",
+   "code": "DontMove",
+   "reward": "250,000 Still Points"
+  },
+  {
+   "code": "FaceDontMove",
+   "reward": "200,000 Still Points"
+  },
+  {
+   "code": "CottonHair",
    "reward": "50,000 Still Points"
-  },
-  {
-   "code": "iLoveYouCode",
-   "reward": "300,000 Still Points"
   }
  ],
- "updated": "2026-09-15T11:31:27.548Z",
+ "updated": "2026-09-16T16:37:21.521Z",
  "source": "https://robloxden.com/game-codes/ugc-don-t-move"
 }

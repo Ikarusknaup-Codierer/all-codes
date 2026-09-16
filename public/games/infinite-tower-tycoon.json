@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "summer2026",
-   "reward": "$20,000 Cash"
-  },
-  {
    "code": "shinycube",
    "reward": "Cash"
   },
@@ -57,6 +53,10 @@
   {
    "code": "2klikes",
    "reward": "18,000 Gold"
+  },
+  {
+   "code": "summer2026",
+   "reward": "$20,000 Cash"
   },
   {
    "code": "easter2026",
@@ -175,6 +175,6 @@
    "reward": "Free Cash"
   }
  ],
- "updated": "2026-09-15T11:26:20.082Z",
+ "updated": "2026-09-16T16:32:44.278Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

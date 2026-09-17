@@ -43,10 +43,14 @@
    "reward": "1 Asto (Half) , 150 Trait Rerolls , 20,000 Gems , and 100,000 Gold . Y"
   },
   {
-   "code": "TRASHGROUND",
-   "reward": "10 Trait Rerolls , 5 Watchman Logo , 5 Soul Fragments , and 2 Dr. Megg"
+   "code": "NewRangerUnit!",
+   "reward": "100 Rerolls and 30 Capsules"
+  },
+  {
+   "code": "SneakyUpdate!",
+   "reward": "1 Exclusive Boros Capsule , 200 Normal Boros Capsule , and 10 Platinum"
   }
  ],
- "updated": "2026-09-16T04:10:33.353Z",
+ "updated": "2026-09-17T11:21:08.268Z",
  "source": "https://robloxden.com/game-codes/rerangers-x"
 }

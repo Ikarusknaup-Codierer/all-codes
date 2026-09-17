@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "levelingup",
+   "reward": "600 Cash . You must be level 30 to redeem this code"
+  },
+  {
+   "code": "25kvisits",
+   "reward": "500 Cash . You must be level 25 to redeem this code"
+  },
+  {
+   "code": "t3n",
+   "reward": "250 Cash . You must be level 10 to redeem this code"
+  },
+  {
+   "code": "Release",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "400kvisits",
+   "reward": "8,000 Cash . You must be level 40 to redeem this code"
+  },
+  {
+   "code": "frytek",
+   "reward": "2,500 Cash . You must be level 10 to redeem this code"
+  },
+  {
+   "code": "350kvisits",
+   "reward": "7,500 Cash . You must be level 15 to redeem this code"
+  },
+  {
+   "code": "160kvisits",
+   "reward": "5,000 Cash . You must be level 20 to redeem this code"
   }
  ],
- "updated": "2026-09-16T11:12:05.613Z",
+ "updated": "2026-09-17T11:29:59.952Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

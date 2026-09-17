@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ASTRALEVENT",
+   "reward": "Rewards . You need to be at least Level 6,500 to redeem this code"
+  },
+  {
    "code": "SINBADTHEGOAT",
    "reward": "Freebies . You must be at least level 5,000 to use this code"
   },
@@ -231,6 +235,6 @@
    "reward": "1 Mythical Chest and 10 Race Tokens"
   }
  ],
- "updated": "2026-09-16T04:14:12.623Z",
+ "updated": "2026-09-17T11:25:17.217Z",
  "source": "https://robloxden.com/game-codes/reign-piece"
 }

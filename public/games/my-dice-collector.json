@@ -11,7 +11,11 @@
    "reward": "1 Seraphim Dice, 2 Master Tickets, 60 Angel Tickets , and 120,000 Tick"
   },
   {
-   "code": "IDEAEVENT",
+   "code": "DICEREWORK",
+   "reward": "Freebies"
+  },
+  {
+   "code": "HUGEDICE",
    "reward": "Freebies"
   },
   {
@@ -19,10 +23,10 @@
    "reward": "Coins , Tickets , and Diamond Tickets"
   },
   {
-   "code": "SORRYFORBUG1",
+   "code": "SORRYFORBUG002",
    "reward": "Coins , Tickets , and Diamond Tickets"
   }
  ],
- "updated": "2026-09-15T21:13:48.156Z",
+ "updated": "2026-09-17T11:20:36.659Z",
  "source": "https://robloxden.com/game-codes/my-dice-collector"
 }

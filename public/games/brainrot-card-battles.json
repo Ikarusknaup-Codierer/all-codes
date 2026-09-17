@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "OURBAD",
+   "reward": "5,000 Gold , 3 5000-Roll Packs , 3 Medium Luck Potions , 3 Medium Rari"
+  },
+  {
+   "code": "CHEFINI",
+   "reward": "500 Gold , 3 100-Roll Packs , and 3 Medium Luck Potions"
+  },
+  {
+   "code": "WEATHERSHOP",
+   "reward": "1,000 Gold , 5 1000-Roll Packs , 5 Medium Rarity Potions , and 2 Boss "
+  },
+  {
+   "code": "RANKEDPVP",
+   "reward": "2,000 Gold , 3 5000-Roll Packs , 5 Boss Potions , and 3 Trait Rerolls "
+  },
+  {
+   "code": "OMEGA",
+   "reward": "4,000 Gold , 1 25000-Roll Pack , 2 Huge Luck Potions , 1 Huge Rarity P"
+  },
+  {
+   "code": "DAILYBONUS",
+   "reward": "6,000 Gold , 2 25000-Roll Packs , Huge Potions , 5 Trait Rerolls , and"
+  },
+  {
+   "code": "DAILYCHAOS",
+   "reward": "100,000 Gold , 1 100000-Roll Pack , Huge Potions , 10 Trait Rerolls , "
+  },
+  {
    "code": "ABSOLUTEZERO",
    "reward": "Freebies . You need at least 250K Rolls to use this code"
   },
@@ -187,6 +215,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-09-16T04:13:57.191Z",
+ "updated": "2026-09-17T11:25:03.238Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

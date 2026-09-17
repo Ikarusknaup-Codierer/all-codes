@@ -1,7 +1,12 @@
 {
  "slug": "forgotten-island",
  "name": "Forgotten Island",
- "codes": [],
- "updated": "2026-09-15T21:12:51.940Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  }
+ ],
+ "updated": "2026-09-17T11:20:32.989Z",
  "source": "https://robloxden.com/game-codes/forgotten-island"
 }

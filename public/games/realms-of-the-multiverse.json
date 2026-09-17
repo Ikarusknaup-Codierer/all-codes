@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "karma",
-   "reward": "300 Coins"
-  },
-  {
-   "code": "merryxmas",
+   "code": "reborn",
    "reward": "Free Coins"
   },
   {
@@ -19,14 +15,18 @@
    "reward": "250 Coins"
   },
   {
+   "code": "100K",
+   "reward": "250 Coins"
+  },
+  {
    "code": "ALEX",
    "reward": "1,000 Coins"
   },
   {
-   "code": "aou",
-   "reward": "2,000 Coins"
+   "code": "mommy",
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-16T11:14:31.888Z",
+ "updated": "2026-09-17T16:39:54.711Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

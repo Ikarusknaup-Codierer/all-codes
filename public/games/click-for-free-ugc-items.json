@@ -11,22 +11,22 @@
    "reward": "Clicks"
   },
   {
-   "code": "JANDEL",
-   "reward": "Clicks And UGC Rewards"
+   "code": "FOREST",
+   "reward": "Clicks"
   },
   {
-   "code": "HAIR",
-   "reward": "Clicks And Potions"
-  },
-  {
-   "code": "CLICK",
+   "code": "POTIONS",
    "reward": "Clicks And Potions"
   },
   {
    "code": "15KLIKES",
    "reward": "Extra Boosts"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "Extra Boosts"
   }
  ],
- "updated": "2026-09-16T04:16:59.927Z",
+ "updated": "2026-09-17T16:37:25.877Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

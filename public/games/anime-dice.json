@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "2 Lucky Spins , 5 Trait Rerolls , and 5 Gems"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "a Lucky Spins , 3 Trait Rerolls , and 3 Gems"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "a Lucky Spin , 2 Trait Rerolls , and 2 Gems"
   }
  ],
- "updated": "2026-09-16T11:15:48.336Z",
+ "updated": "2026-09-17T16:41:17.340Z",
  "source": "https://robloxden.com/game-codes/anime-dice"
 }

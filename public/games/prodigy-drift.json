@@ -7,66 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CHRISTMAS24",
-   "reward": "15,000 Cash"
-  },
-  {
-   "code": "MEIHAN",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "54LIKER",
-   "reward": "7,500 Cash"
-  },
-  {
-   "code": "53LIKE",
-   "reward": "7,500 Cash"
-  },
-  {
-   "code": "UPCOMING",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "KITS",
-   "reward": "10,000 Cash"
-  },
-  {
-   "code": "SPOILER",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "52LIKE",
-   "reward": "7,500 Cash"
-  },
-  {
-   "code": "50MIL",
-   "reward": "10,000 Cash"
-  },
-  {
-   "code": "LIKE50",
-   "reward": "10,000 Cash"
-  },
-  {
-   "code": "SETTINGS",
-   "reward": "5,000 Cash"
-  },
-  {
-   "code": "FIXES",
-   "reward": "7,500 Cash"
-  },
-  {
-   "code": "LIGHTS",
-   "reward": "7,500"
-  },
-  {
-   "code": "NIGHTS",
-   "reward": "10,000"
-  },
-  {
-   "code": "DATA",
-   "reward": "20,000 Cash"
-  },
-  {
    "code": "VETTE",
    "reward": "5K Cash"
   },
@@ -173,8 +113,12 @@
   {
    "code": "PARTHUNT",
    "reward": "7,500 Cash"
+  },
+  {
+   "code": "CHRISTMAS24",
+   "reward": "15,000 Cash"
   }
  ],
- "updated": "2026-09-16T11:19:36.750Z",
+ "updated": "2026-09-17T16:45:32.877Z",
  "source": "https://robloxden.com/game-codes/prodigy-drift"
 }

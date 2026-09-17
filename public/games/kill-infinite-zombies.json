@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ALIENDROP",
+   "reward": "20,000 Grimes"
+  },
+  {
    "code": "WELCOME",
    "reward": "5,000 Grimes"
+  },
+  {
+   "code": "WHEELDEAL",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-09-16T11:18:46.840Z",
+ "updated": "2026-09-17T16:44:26.492Z",
  "source": "https://robloxden.com/game-codes/kill-infinite-zombies"
 }

@@ -15,14 +15,18 @@
    "reward": "a Primordial Crate"
   },
   {
-   "code": "BOUNTY",
-   "reward": "A Street Crate And 5,000 Coins"
+   "code": "GENEROCITY",
+   "reward": ""
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "5,000 Coins"
   },
   {
    "code": "AMILLI",
    "reward": "A Redline P90 Skin And 5,000 Coins"
   }
  ],
- "updated": "2026-09-16T04:18:34.228Z",
+ "updated": "2026-09-17T16:37:49.003Z",
  "source": "https://robloxden.com/game-codes/combat-arena"
 }

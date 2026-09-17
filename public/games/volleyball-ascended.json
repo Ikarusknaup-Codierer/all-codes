@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
+   "code": "updated",
+   "reward": "4,444 Yen"
+  },
+  {
    "code": "miyatwins",
    "reward": "3 Athlete Packs"
   },
   {
-   "code": "RELEASE",
+   "code": "update1",
    "reward": "1,000 Yen"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "infinitemoney",
    "reward": "3 Athlete Packs"
-  },
-  {
-   "code": "update4",
-   "reward": "4,444 Yen"
   }
  ],
- "updated": "2026-09-16T11:16:12.376Z",
+ "updated": "2026-09-17T16:41:42.402Z",
  "source": "https://robloxden.com/game-codes/volleyball-ascended"
 }

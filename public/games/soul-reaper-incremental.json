@@ -5,8 +5,44 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SECRETUPDATE",
+   "reward": "20 Zanpakuto Rolls , 20 Fighting Style Rolls , 20 Reiatsu Rolls , and "
+  },
+  {
+   "code": "RICHONKAN",
+   "reward": "50,000 Kan , XP Boost (15 Minutes) , and Kan Boost (15 Minutes)"
+  },
+  {
+   "code": "CUSTOMIZATION",
+   "reward": "20 Zanpakuto Rolls , 15 Fighting Style Rolls , 15 Reiatsu Rolls , and "
+  },
+  {
+   "code": "PARTYMODE",
+   "reward": "10 Zanpakuto Rolls , 10 Fighting Style Rolls , 10 Reiatsu Rolls , and "
+  },
+  {
+   "code": "STRONGERTOGETHER",
+   "reward": "an XP Boost (15 Minutes) and a Kan Boost (15 Minutes)"
+  },
+  {
+   "code": "KANENJOYER",
+   "reward": "50,000 Kan"
+  },
+  {
+   "code": "MORESOON",
+   "reward": "5 Lineage Rolls"
+  },
+  {
+   "code": "AWAITINGMORE",
+   "reward": "A bunch of Rolls"
+  },
+  {
+   "code": "3DUPDATE",
+   "reward": "A bunch of Rolls"
   }
  ],
- "updated": "2026-09-16T11:15:46.256Z",
+ "updated": "2026-09-17T16:41:14.946Z",
  "source": "https://robloxden.com/game-codes/soul-reaper-incremental"
 }

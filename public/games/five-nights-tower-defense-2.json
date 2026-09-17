@@ -11,14 +11,6 @@
    "reward": "1 Time Lord Withered Freddy Present . You must have a minimum of 15,00"
   },
   {
-   "code": "UPDATE44",
-   "reward": "5,000 Tokens , 100 Souls , 50 Endo Chips , 50 Soldering Irons , and 5 "
-  },
-  {
-   "code": "DJLOLBIT",
-   "reward": "10,000 Tokens , 250 Souls , and 25 Season Presents . You must have a m"
-  },
-  {
    "code": "MALACHITE",
    "reward": "25,000 Tokens , 350 Souls , 50 Season Presents , 5 Anniversary Present"
   },
@@ -41,6 +33,14 @@
   {
    "code": "BigUpgradeSoon!",
    "reward": "10,000 Untradable Souls , 50 Seasonal Presents , 25 Stat Chips , 5 Spr"
+  },
+  {
+   "code": "UPDATE44",
+   "reward": "5,000 Tokens , 100 Souls , 50 Endo Chips , 50 Soldering Irons , and 5 "
+  },
+  {
+   "code": "DJLOLBIT",
+   "reward": "10,000 Tokens , 250 Souls , and 25 Season Presents . You must have a m"
   },
   {
    "code": "UPDATE43",
@@ -143,6 +143,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-16T04:17:12.578Z",
+ "updated": "2026-09-17T16:37:27.705Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

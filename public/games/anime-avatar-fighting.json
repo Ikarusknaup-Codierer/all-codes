@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "THANKSFORPLAYING",
+   "reward": "30 Gems , a Coin Potion I , an XP Potion I , and a Spin"
+  },
+  {
+   "code": "1KDISMEMBERS",
+   "reward": "100 Gems , a Spin , a Damage Potion II , a Luck Potion II , a Drop Cha"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "150 Gems , 2 Spins , a Damage Potion II , a Luck Potion II , a Drop Ch"
+  },
+  {
+   "code": "HAPPYBIRTHDAYOSAMA",
+   "reward": "2 Damage Potions II"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "a Coin Potion II , a Damage Potion II , a Drop Chance Potion II , a Ge"
+  },
+  {
+   "code": "TRADE",
+   "reward": "50 Gems , a Damange Potion II , a Drop Chance Potion II , and a Spin"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "50 Gems , a Luck Potion I , and a Spin"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "25 Gems and a Spin"
   }
  ],
- "updated": "2026-09-16T11:17:37.693Z",
+ "updated": "2026-09-17T16:43:13.329Z",
  "source": "https://robloxden.com/game-codes/anime-avatar-fighting"
 }

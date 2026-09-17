@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "2YEARSGTE",
+   "reward": "Reward"
+  },
+  {
    "code": "WINTER22",
    "reward": "Reward"
   },
   {
-   "code": "HAPPYNEWYEAR23",
-   "reward": "Reward"
+   "code": "80MVISITS",
+   "reward": "300 Rocks"
   },
   {
    "code": "BANANA25",
@@ -23,6 +27,6 @@
    "reward": "400 Rocks"
   }
  ],
- "updated": "2026-09-16T16:37:03.272Z",
+ "updated": "2026-09-17T21:14:01.699Z",
  "source": "https://robloxden.com/game-codes/gorilla-tag-experience"
 }

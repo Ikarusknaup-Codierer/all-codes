@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MIXTAPE",
-   "reward": "1 Pro Pack"
-  },
-  {
    "code": "KICKOFF26",
    "reward": "a Pro Pack"
   },
@@ -41,8 +37,12 @@
   {
    "code": "UNIFORMS26",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "MIXTAPE",
+   "reward": "1 Pro Pack"
   }
  ],
- "updated": "2026-09-16T16:36:52.835Z",
+ "updated": "2026-09-17T21:13:50.197Z",
  "source": "https://robloxden.com/game-codes/nfl-universe-football-1"
 }

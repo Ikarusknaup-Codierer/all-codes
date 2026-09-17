@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "loot",
+   "reward": "rewards"
+  },
+  {
+   "code": "boost",
+   "reward": "2 Speed Attacks"
+  },
+  {
+   "code": "thankyou",
+   "reward": "200 Wins"
+  },
+  {
+   "code": "welcome",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-09-16T11:21:26.662Z",
+ "updated": "2026-09-17T21:09:17.142Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-escape"
 }

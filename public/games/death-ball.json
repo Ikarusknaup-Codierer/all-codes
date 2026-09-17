@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "INPROGRESS",
-   "reward": "30,000 Gems"
-  },
-  {
-   "code": "SOON",
-   "reward": "30K Gems"
-  },
-  {
    "code": "MULTIUNBOX",
    "reward": "Free Rewards . To use this code, you must have Multi Unboxing Pass"
   },
@@ -23,8 +15,16 @@
    "reward": "50,000 Gems"
   },
   {
+   "code": "INPROGRESS",
+   "reward": "30,000 Gems"
+  },
+  {
    "code": "PIXEL",
    "reward": "50K Crystals"
+  },
+  {
+   "code": "SOON",
+   "reward": "30K Gems"
   },
   {
    "code": "PETAL",
@@ -75,6 +75,6 @@
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-09-16T16:38:30.165Z",
+ "updated": "2026-09-17T21:15:28.432Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

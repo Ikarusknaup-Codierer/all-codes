@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Poise",
+   "reward": "150 Coins"
+  },
+  {
    "code": "Exalt",
    "reward": "150 Coins"
   },
@@ -35,6 +39,6 @@
    "reward": "2 Magnifying Glasses"
   }
  ],
- "updated": "2026-09-15T21:08:39.600Z",
+ "updated": "2026-09-17T04:22:00.905Z",
  "source": "https://robloxden.com/game-codes/find-the-objects"
 }

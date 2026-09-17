@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "EXPLOSIONHEROMASTERYRELEASE",
+   "reward": "5 Mastery Progress"
+  },
+  {
+   "code": "WELOVEDELAYSITHINK",
+   "reward": "3 Free Emotes"
+  },
+  {
    "code": "LOVESICKKILLERULT",
    "reward": "5 Emotes"
   },
@@ -27,6 +35,6 @@
    "reward": "5 Emojis"
   }
  ],
- "updated": "2026-09-15T21:08:49.896Z",
+ "updated": "2026-09-17T04:22:11.440Z",
  "source": "https://robloxden.com/game-codes/heroes-battlegrounds"
 }

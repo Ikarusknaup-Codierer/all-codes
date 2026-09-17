@@ -135,14 +135,14 @@
    "reward": "1 Stand Arrow , 2,500 XP , and 1,000 Yen"
   },
   {
-   "code": "15KVISITS",
-   "reward": "15 Stand Arrows and 15 Rokakakas"
+   "code": "100KVISITS",
+   "reward": "100 Stand Arrows , 100 Rokakakas , and 25 Corpse Parts"
   },
   {
-   "code": "SBRPART2",
-   "reward": "Misc. rewards"
+   "code": "400LIKES",
+   "reward": "4 Stand Arrows and 4 Rokakakas"
   }
  ],
- "updated": "2026-09-15T21:09:11.623Z",
+ "updated": "2026-09-17T04:22:41.436Z",
  "source": "https://robloxden.com/game-codes/jojos-bizarre-incremental"
 }

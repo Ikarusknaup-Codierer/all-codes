@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "COCONUTBONK",
-   "reward": "250 Pearls"
-  },
-  {
    "code": "ELBILLUG",
    "reward": "Nothing"
   },
@@ -41,6 +37,10 @@
   {
    "code": "IMMELTINGHELP",
    "reward": "2 Keys"
+  },
+  {
+   "code": "COCONUTBONK",
+   "reward": "250 Pearls"
   },
   {
    "code": "FREE189",
@@ -83,6 +83,6 @@
    "reward": "3 Keys"
   }
  ],
- "updated": "2026-09-15T21:07:04.392Z",
+ "updated": "2026-09-17T04:20:35.724Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

@@ -23,12 +23,12 @@
    "reward": "1 Level Up Potion , 2 Large XP Potions , 3 Medium XP Potions , and 4 S"
   },
   {
-   "code": "26M",
-   "reward": "2 Pastel Base Packs"
-  },
-  {
    "code": "INFINITY",
    "reward": "1 Level Up Potion, 2 Large XP Potions, 3 Medium XP Potions and 4 Small"
+  },
+  {
+   "code": "26M",
+   "reward": "2 Pastel Base Packs"
   },
   {
    "code": "CASEYBDAY",
@@ -71,6 +71,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-09-15T21:08:42.359Z",
+ "updated": "2026-09-17T04:22:04.957Z",
  "source": "https://robloxden.com/game-codes/youtuber-card-collection"
 }

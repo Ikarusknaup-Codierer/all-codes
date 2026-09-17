@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "THANKYOUFOR70KINTERESTED",
+   "reward": "100 Normal Ability Spins , 100 Normal Gadget Spins , 100 Lucky Ability"
+  },
+  {
+   "code": "ENDLESSCYCLE",
+   "reward": "15 Raid Tickets , 30 Trait Rerolls , 1 World Boss Token , 25 Lucky Abi"
+  },
+  {
    "code": "ZOLTRAAK",
    "reward": "250,000 Coins, 15 Raid Tickets, 20 Trait Rerolls, 15 Lucky Ability Spi"
   },
@@ -131,6 +139,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-09-15T21:08:37.436Z",
+ "updated": "2026-09-17T04:21:58.644Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

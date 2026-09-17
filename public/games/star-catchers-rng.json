@@ -25,8 +25,12 @@
   {
    "code": "RELEASE",
    "reward": "100 Stardusts"
+  },
+  {
+   "code": "CLEANUP",
+   "reward": "30 Meteor Debris"
   }
  ],
- "updated": "2026-09-15T21:10:42.689Z",
+ "updated": "2026-09-17T04:24:07.121Z",
  "source": "https://robloxden.com/game-codes/star-catchers-rng"
 }

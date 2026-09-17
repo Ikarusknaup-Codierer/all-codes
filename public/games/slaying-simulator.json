@@ -11,6 +11,10 @@
    "reward": "5 Levels"
   },
   {
+   "code": "ROBOT",
+   "reward": "3 Levels"
+  },
+  {
    "code": "CYB3R",
    "reward": "3 Levels"
   },
@@ -19,14 +23,10 @@
    "reward": "1,888 Gems"
   },
   {
-   "code": "6MIL",
-   "reward": "5 Levels"
-  },
-  {
-   "code": "300K",
-   "reward": "5 Levels"
+   "code": "UPD_13",
+   "reward": "1,333 Gems"
   }
  ],
- "updated": "2026-09-15T21:04:44.323Z",
+ "updated": "2026-09-17T04:18:05.306Z",
  "source": "https://robloxden.com/game-codes/slaying-simulator"
 }

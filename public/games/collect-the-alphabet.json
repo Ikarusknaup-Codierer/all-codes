@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SEPTEMBER",
+   "reward": "3 Mythic Packs"
+  },
+  {
+   "code": "OPCODE",
+   "reward": "3 Double Mutation Luck Potions"
+  },
+  {
+   "code": "1MMEMBERS",
+   "reward": "a Mythic Pack"
+  },
+  {
+   "code": "SORRY",
+   "reward": "a Mythic Pack"
+  },
+  {
    "code": "5MVISITS",
    "reward": "1 Mystic Pack"
   },
@@ -27,6 +43,6 @@
    "reward": "3 Mythic Packs"
   }
  ],
- "updated": "2026-09-15T21:06:21.510Z",
+ "updated": "2026-09-17T04:19:50.735Z",
  "source": "https://robloxden.com/game-codes/collect-the-alphabet"
 }

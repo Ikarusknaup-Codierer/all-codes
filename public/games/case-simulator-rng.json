@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "NEWMAP",
-   "reward": "a Luck Boost"
-  },
-  {
    "code": "80KLIKES",
    "reward": "a Luck Boost"
   },
   {
    "code": "70KLikes",
    "reward": "25% Luck Boost"
+  },
+  {
+   "code": "NEWMAP",
+   "reward": "a Luck Boost"
   },
   {
    "code": "JackpotUpdate",
@@ -35,6 +35,6 @@
    "reward": "a Luck Boost"
   }
  ],
- "updated": "2026-09-15T21:09:10.455Z",
+ "updated": "2026-09-17T04:22:40.427Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

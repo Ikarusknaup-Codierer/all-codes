@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "GOLDCURRENCY25",
+   "reward": "$25,000 Cash"
+  },
+  {
    "code": "VEHICLETRADING25",
    "reward": "25,000 Cash"
   },
@@ -15,6 +19,6 @@
    "reward": "20K Cash"
   }
  ],
- "updated": "2026-09-15T21:07:15.720Z",
+ "updated": "2026-09-17T04:20:44.679Z",
  "source": "https://robloxden.com/game-codes/san-diego-border-roleplay"
 }

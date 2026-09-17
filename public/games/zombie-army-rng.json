@@ -11,10 +11,6 @@
    "reward": "20% Spore Boost"
   },
   {
-   "code": "5000LIKES",
-   "reward": "Coins and Diamonds"
-  },
-  {
    "code": "UPDATE1",
    "reward": "Coins and Diamonds"
   },
@@ -25,8 +21,12 @@
   {
    "code": "LAUNCH",
    "reward": "5,000 Scrap"
+  },
+  {
+   "code": "1000LIKES",
+   "reward": "5,000 Coins and 500 Diamonds"
   }
  ],
- "updated": "2026-09-15T21:12:04.270Z",
+ "updated": "2026-09-17T04:25:26.876Z",
  "source": "https://robloxden.com/game-codes/zombie-army-rng"
 }

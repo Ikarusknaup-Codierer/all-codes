@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORR4DELAYS",
+   "reward": "30,000 Yen"
+  },
+  {
+   "code": "LORENZOUPDATE",
+   "reward": "a Legendary Style Slot"
+  },
+  {
    "code": "WORTHTHEWAIT",
    "reward": "20,000 Yen"
   },
@@ -67,14 +75,14 @@
    "reward": "7,500 Yen"
   },
   {
-   "code": "MOBILEFIXES",
-   "reward": "YEN"
+   "code": "MALICIAFOUL",
+   "reward": "5k Yen"
   },
   {
-   "code": "VALENTINESDAY",
+   "code": "150KMEMBERS",
    "reward": ""
   }
  ],
- "updated": "2026-09-15T21:08:50.468Z",
+ "updated": "2026-09-17T04:22:11.945Z",
  "source": "https://robloxden.com/game-codes/locked2"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MEMBERREWARDS",
+   "reward": "Reward"
+  },
+  {
    "code": "XMASHYPE",
    "reward": "Reward"
   },
@@ -19,14 +23,10 @@
    "reward": "Reward"
   },
   {
-   "code": "QUESTS",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "S3CRET",
+   "code": "WEARESORRY",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-15T16:47:00.610Z",
+ "updated": "2026-09-17T04:17:33.026Z",
  "source": "https://robloxden.com/game-codes/super-hero-tycoon"
 }

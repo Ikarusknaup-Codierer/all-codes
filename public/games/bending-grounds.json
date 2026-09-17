@@ -27,6 +27,14 @@
    "reward": "11 Spins"
   },
   {
+   "code": "SunMaster",
+   "reward": "5 Spins on Current Slot"
+  },
+  {
+   "code": "PaintedLady",
+   "reward": "5 Spins on Current Slot"
+  },
+  {
    "code": "PrettyVFX",
    "reward": "5 Spins on Current Slot"
   },
@@ -47,6 +55,6 @@
    "reward": "6 Spins"
   }
  ],
- "updated": "2026-09-15T21:08:19.817Z",
+ "updated": "2026-09-17T04:21:43.309Z",
  "source": "https://robloxden.com/game-codes/bending-grounds"
 }

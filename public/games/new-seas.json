@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MilestoneSoon",
+   "reward": "Rewards"
+  },
+  {
    "code": "LateWGUpdate",
    "reward": "Rewards"
   },
@@ -539,6 +543,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-09-15T21:11:43.439Z",
+ "updated": "2026-09-17T04:25:11.958Z",
  "source": "https://robloxden.com/game-codes/new-seas"
 }

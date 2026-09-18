@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "3MILVISITS",
+   "reward": "1 Common Ticket and 1 Rare Ticket"
+  },
+  {
+   "code": "100K",
+   "reward": "1 Epic Ticket and 1 Legendary Ticket"
+  },
+  {
+   "code": "100KFAVS",
+   "reward": "1 Strawberry , 1 Grapes , and 1 Raspberry"
+  },
+  {
+   "code": "1MILVISITS",
+   "reward": "10,000 Points"
+  },
+  {
+   "code": "SORRY",
+   "reward": "3,000 Points"
+  },
+  {
+   "code": "100kVisits",
+   "reward": "10,000 Points"
+  },
+  {
+   "code": "STRAWBERRY",
+   "reward": "1 Strawberry , 1 Grapes , and 1 Raspberry"
   }
  ],
- "updated": "2026-09-17T04:20:14.942Z",
+ "updated": "2026-09-18T10:57:33.198Z",
  "source": "https://robloxden.com/game-codes/afk-for-ugc-import"
 }

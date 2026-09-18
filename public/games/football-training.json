@@ -11,14 +11,6 @@
    "reward": "5 Power Potion and 10 Apple Fruit"
   },
   {
-   "code": "blendbrew",
-   "reward": "3 Cocktail Potion"
-  },
-  {
-   "code": "shadowegg",
-   "reward": "1 Void Egg"
-  },
-  {
    "code": "shadowpair",
    "reward": "2 Void Egg"
   },
@@ -117,8 +109,16 @@
   {
    "code": "goldpeel",
    "reward": "5 Cash Potion and 10 Banana Fruit"
+  },
+  {
+   "code": "blendbrew",
+   "reward": "3 Cocktail Potion"
+  },
+  {
+   "code": "shadowegg",
+   "reward": "1 Void Egg"
   }
  ],
- "updated": "2026-09-17T04:20:26.357Z",
+ "updated": "2026-09-18T10:57:44.570Z",
  "source": "https://robloxden.com/game-codes/football-training"
 }

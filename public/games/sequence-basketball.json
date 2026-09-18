@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "15,000 Coins"
+  },
+  {
+   "code": "MORECOINS",
+   "reward": "75,000 Coins"
+  },
+  {
+   "code": "BROFIXTHEGAMEEE",
+   "reward": "90,000 Coins"
+  },
+  {
+   "code": "DRIBBLING",
+   "reward": "75,000 Coins"
+  },
+  {
+   "code": "PARKFIXNEW",
+   "reward": "25,000 Coins"
+  },
+  {
+   "code": "SRRYIFELLASLEEP",
+   "reward": "50,000 Coins"
+  },
+  {
+   "code": "MOBILEDRIBBLING",
+   "reward": "50,000 Coins"
+  },
+  {
+   "code": "LASTSHUTDOWN",
+   "reward": "25,000 Coins"
   }
  ],
- "updated": "2026-09-17T04:20:08.919Z",
+ "updated": "2026-09-18T10:57:32.662Z",
  "source": "https://robloxden.com/game-codes/sequence-basketball"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SRYIFORGOTMONSTERDUST",
+   "reward": "2,500 Monster Dusts"
+  },
+  {
+   "code": "NEW",
+   "reward": "50 Monster Dusts"
+  },
+  {
    "code": "SORRYCUZIFORGOTMONSTERCORE",
    "reward": "Rewards"
   },
@@ -19,6 +27,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-09-17T04:20:48.890Z",
+ "updated": "2026-09-18T10:58:08.306Z",
  "source": "https://robloxden.com/game-codes/undertale-mania-rpg"
 }

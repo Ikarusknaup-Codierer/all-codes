@@ -39,10 +39,6 @@
    "reward": "500 Ghost Gummies and 500 Board Bars"
   },
   {
-   "code": "PURPLETECH",
-   "reward": "3 Crate Keys"
-  },
-  {
    "code": "STASH",
    "reward": "5 Basic Loot Gums and 2 Pack Overloaders"
   },
@@ -89,8 +85,12 @@
   {
    "code": "DOUBLEBOSS",
    "reward": "3 Ghoulish Gum"
+  },
+  {
+   "code": "PURPLETECH",
+   "reward": "3 Crate Keys"
   }
  ],
- "updated": "2026-09-17T04:20:57.303Z",
+ "updated": "2026-09-18T10:58:19.807Z",
  "source": "https://robloxden.com/game-codes/ghost-simulator"
 }

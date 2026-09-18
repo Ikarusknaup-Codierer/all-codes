@@ -7,22 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CapsuleEventChanges!",
-   "reward": "40 Devil Capsules"
-  },
-  {
-   "code": "JJKBugFixes2!",
-   "reward": "10 Prisms , 100 Trait Shards , and 50 Reroll Cubes"
-  },
-  {
-   "code": "BalanceChangesJJK!",
-   "reward": "100 Trait Shards , 3,000 Gems , and 10 Prism"
-  },
-  {
-   "code": "SorryForBalancingIssues",
-   "reward": "50 Trait Shards , 5,000 Crusader Bills and 2,000 Gems"
-  },
-  {
    "code": "10MilVisits!",
    "reward": "50 Trait Shards and 2,000 Gold"
   },
@@ -39,12 +23,20 @@
    "reward": ""
   },
   {
+   "code": "CapsuleEventChanges!",
+   "reward": "40 Devil Capsules"
+  },
+  {
    "code": "PowerOfRivals!",
    "reward": "3 Perfect Cubes and 500 Yol"
   },
   {
    "code": "RoyalKnights!",
    "reward": "15 Prism and 1,000 Yol"
+  },
+  {
+   "code": "JJKBugFixes2!",
+   "reward": "10 Prisms , 100 Trait Shards , and 50 Reroll Cubes"
   },
   {
    "code": "JJKBugFixes!",
@@ -59,12 +51,20 @@
    "reward": "3 Perfect Prism and 30 Prism"
   },
   {
+   "code": "BalanceChangesJJK!",
+   "reward": "100 Trait Shards , 3,000 Gems , and 10 Prism"
+  },
+  {
    "code": "AdminAbuse!",
    "reward": "50 Trait Shards , 5,000 Crusader Bills , and 3,000 Gold"
   },
   {
    "code": "AdminAbuse2!",
    "reward": "100 Trait Shards"
+  },
+  {
+   "code": "SorryForBalancingIssues",
+   "reward": "50 Trait Shards , 5,000 Crusader Bills and 2,000 Gems"
   },
   {
    "code": "MUDAMUDAMUDA!",
@@ -103,6 +103,6 @@
    "reward": "50 Trait Shards , 1,000 Gems , and 2,000 Gold"
   }
  ],
- "updated": "2026-09-17T04:20:33.333Z",
+ "updated": "2026-09-18T10:57:51.680Z",
  "source": "https://robloxden.com/game-codes/anime-squadron"
 }

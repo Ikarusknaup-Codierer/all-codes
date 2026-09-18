@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "TrickOrTreat",
-   "reward": "5K Goosebucks"
-  },
-  {
    "code": "GOOSE",
    "reward": "Reward"
   },
   {
-   "code": "MAY",
+   "code": "GRAPHICS",
    "reward": "Reward"
   },
   {
-   "code": "1mvisits",
+   "code": "5klikes",
+   "reward": "Reward"
+  },
+  {
+   "code": "stunts",
    "reward": "Reward"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "6,000 Goosebucks"
   }
  ],
- "updated": "2026-09-17T04:18:31.792Z",
+ "updated": "2026-09-18T10:56:07.456Z",
  "source": "https://robloxden.com/game-codes/redline-drifting"
 }

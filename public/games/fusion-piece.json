@@ -19,22 +19,6 @@
    "reward": "1 Beli , 1 Gem , 1 Exp , and 2 Shadow Crests"
   },
   {
-   "code": "YUJIISHERE!",
-   "reward": "1 Beli , 1 Gem , 1 Exp , 3 Race Rerolls , and 1 Heian Forbidden Scroll"
-  },
-  {
-   "code": "HUGEUPDATEISHERE!",
-   "reward": "a Beli , a Gem , an Exp , and 8 Cursed Fragment"
-  },
-  {
-   "code": "TOXICQUAKE!",
-   "reward": "a Beli , a Gem , an Exp , a Cursed Fragment , and 50 Navy Medal"
-  },
-  {
-   "code": "VENOMRISES!",
-   "reward": "30,000 Beli , 300 Gems , an Exp , 5 Race Rerolls , 2 Cursed Fragments "
-  },
-  {
    "code": "FUSIONPIECE!",
    "reward": "35,000 Beli , 700 Gems , 1 EXP , and 5 Roll Essence"
   },
@@ -49,8 +33,24 @@
   {
    "code": "SUKUNAHEIAN!",
    "reward": "1 Beli , 1 Gem , 1 Exp , 4 Cursed Fragments , and 1 Heian Forbidden Sc"
+  },
+  {
+   "code": "YUJIISHERE!",
+   "reward": "1 Beli , 1 Gem , 1 Exp , 3 Race Rerolls , and 1 Heian Forbidden Scroll"
+  },
+  {
+   "code": "HUGEUPDATEISHERE!",
+   "reward": "a Beli , a Gem , an Exp , and 8 Cursed Fragment"
+  },
+  {
+   "code": "TOXICQUAKE!",
+   "reward": "a Beli , a Gem , an Exp , a Cursed Fragment , and 50 Navy Medal"
+  },
+  {
+   "code": "VENOMRISES!",
+   "reward": "30,000 Beli , 300 Gems , an Exp , 5 Race Rerolls , 2 Cursed Fragments "
   }
  ],
- "updated": "2026-09-17T04:22:46.902Z",
+ "updated": "2026-09-18T10:59:56.156Z",
  "source": "https://robloxden.com/game-codes/fusion-piece"
 }

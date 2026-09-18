@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "VERIFIED",
+   "reward": "45,000 Cash , 3x Pepper Seed , and 1x Quantum Sprinkler"
+  },
+  {
+   "code": "EGG",
+   "reward": "45,000 Cash , 1x Epic Egg , and 1x Quantum Sprinkler"
+  },
+  {
    "code": "SPICY",
    "reward": "45,000 Cash , a Quantum Sprinklers , 3 Pepper Seeds"
   },
@@ -67,6 +75,6 @@
    "reward": "45,000 Cash , a Starfruit Seed , and a Quantum Sprinkler"
   }
  ],
- "updated": "2026-09-17T11:29:03.823Z",
+ "updated": "2026-09-18T16:18:19.422Z",
  "source": "https://robloxden.com/game-codes/snatch-a-seed"
 }

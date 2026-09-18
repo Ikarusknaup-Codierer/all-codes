@@ -1,7 +1,12 @@
 {
  "slug": "bloxnote",
  "name": "BloxNote",
- "codes": [],
- "updated": "2026-09-17T11:20:10.183Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  }
+ ],
+ "updated": "2026-09-18T16:09:42.375Z",
  "source": "https://robloxden.com/game-codes/bloxnote"
 }

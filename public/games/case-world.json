@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "molotov",
+   "reward": "5,000 Money . You must be level 31 to redeem this code"
+  },
+  {
    "code": "levelingup",
    "reward": "600 Cash . You must be level 30 to redeem this code"
   },
@@ -21,6 +25,10 @@
   {
    "code": "Release",
    "reward": "100 Cash"
+  },
+  {
+   "code": "nade",
+   "reward": "an Ollypro Jester . You must be level 31 to redeem this code"
   },
   {
    "code": "400kvisits",
@@ -39,6 +47,6 @@
    "reward": "5,000 Cash . You must be level 20 to redeem this code"
   }
  ],
- "updated": "2026-09-17T11:29:59.952Z",
+ "updated": "2026-09-18T16:18:46.482Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

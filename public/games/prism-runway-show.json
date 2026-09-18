@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NICECATCH",
-   "reward": "150 Anchovy"
-  },
-  {
    "code": "PIRATEYARRR",
    "reward": "100 Anchovy"
   },
@@ -19,14 +15,14 @@
    "reward": "100 Coins"
   },
   {
-   "code": "NOMOREGUMDROP",
-   "reward": "100 Coins"
+   "code": "NICECATCH",
+   "reward": "150 Anchovy"
   },
   {
-   "code": "LOVEPIECE",
-   "reward": "Freebies"
+   "code": "NOMOREGUMDROP",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-09-17T11:27:40.775Z",
+ "updated": "2026-09-18T16:17:07.067Z",
  "source": "https://robloxden.com/game-codes/prism-runway-show"
 }

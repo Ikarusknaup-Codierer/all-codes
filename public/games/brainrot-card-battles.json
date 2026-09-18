@@ -35,6 +35,30 @@
    "reward": "100,000 Gold , 1 100000-Roll Pack , Huge Potions , 10 Trait Rerolls , "
   },
   {
+   "code": "NOOB",
+   "reward": "500 Gold , 3x 100-Roll Pack , and 3x Medium Luck Potion"
+  },
+  {
+   "code": "SANDSTORM",
+   "reward": "1,000 Gold , 5x 1000-Roll Pack , 5x Medium Rarity Potion , and 2x Boss"
+  },
+  {
+   "code": "VULTURE",
+   "reward": "2,000 Gold , 3x 5000-Roll Pack , 5x Boss Potion , and 3x Trait Reroll"
+  },
+  {
+   "code": "MALEDETTO",
+   "reward": "4,000 Gold , 25000-Roll Pack , 2x Huge Luck , 1x Huge Rarity , and 5x "
+  },
+  {
+   "code": "COSMICTOWER",
+   "reward": "6,000 Gold , 2x 25000-Roll Pack , Huge Potions , 5x Trait Reroll , and"
+  },
+  {
+   "code": "GODROLLER",
+   "reward": "100,000 Gold , 100000-Roll Pack , Huge Potions , 10x Trait Reroll , an"
+  },
+  {
    "code": "ABSOLUTEZERO",
    "reward": "Freebies . You need at least 250K Rolls to use this code"
   },
@@ -215,6 +239,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-09-17T11:25:03.238Z",
+ "updated": "2026-09-18T16:14:23.183Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

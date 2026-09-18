@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "CJBC11",
+   "reward": "50 Gold"
+  },
+  {
+   "code": "CJBC22",
+   "reward": "10 Spin Vouchers"
+  },
+  {
+   "code": "CJBC33",
+   "reward": "3 Locking Stones"
+  },
+  {
+   "code": "CJBC44",
+   "reward": "3 Single Reset Stones"
+  },
+  {
+   "code": "CJBC55",
+   "reward": "1 Convert to Permanent Pet (Common) , 1 Convert to Permanent Pet (Unco"
+  },
+  {
    "code": "EYJH11",
    "reward": "10 Gold Coins"
   },
@@ -183,6 +203,6 @@
    "reward": "20 Gold Coins"
   }
  ],
- "updated": "2026-09-17T11:28:14.963Z",
+ "updated": "2026-09-18T16:17:37.469Z",
  "source": "https://robloxden.com/game-codes/pet-capture-adventur"
 }

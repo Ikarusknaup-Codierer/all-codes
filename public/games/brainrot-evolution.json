@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BUZZZ",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Assassini",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "TRULIMERO",
    "reward": "2 EXP Potions"
   },
@@ -371,14 +379,14 @@
    "reward": "4 Yoni Crates"
   },
   {
-   "code": "CoralBlox",
-   "reward": "3 Void Tickets"
+   "code": "JoinFix5",
+   "reward": "30 Void Tickets"
   },
   {
    "code": "VOIDEVENT",
    "reward": "1 Void Ticket"
   }
  ],
- "updated": "2026-09-17T11:23:53.243Z",
+ "updated": "2026-09-18T16:13:11.132Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

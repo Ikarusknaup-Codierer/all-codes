@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LIKETHEGAME",
+   "reward": "Overseer Crossbow"
+  },
+  {
    "code": "10MVISITS",
    "reward": "2,500 Coins"
   },
@@ -25,12 +29,8 @@
   {
    "code": "500KVISITS",
    "reward": "2,500 Coins"
-  },
-  {
-   "code": "LIKETHEGAME",
-   "reward": "Overseer Crossbow"
   }
  ],
- "updated": "2026-09-17T11:20:12.554Z",
+ "updated": "2026-09-18T16:09:42.939Z",
  "source": "https://robloxden.com/game-codes/knife-vs-gun-duels"
 }

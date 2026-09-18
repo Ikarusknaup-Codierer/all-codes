@@ -19,10 +19,6 @@
    "reward": "new units . TO use this code, you must have the Content Creator Role"
   },
   {
-   "code": "METTATON",
-   "reward": "1 Mettaton"
-  },
-  {
    "code": "UNDERTALE",
    "reward": "1 Undertale Crate"
   },
@@ -51,10 +47,14 @@
    "reward": "1 Raid Crate 4"
   },
   {
+   "code": "METTATON",
+   "reward": "1 Mettaton"
+  },
+  {
    "code": "EXCUSE_ME_SIR",
    "reward": "3 The Boys Crates"
   }
  ],
- "updated": "2026-09-17T11:20:59.914Z",
+ "updated": "2026-09-18T16:10:27.458Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

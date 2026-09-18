@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BuyAgain",
+   "reward": "Rewards"
+  },
+  {
    "code": "27MVisits",
    "reward": "Free Rewards . You must be at least level 50 to use this code"
   },
@@ -143,6 +147,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-09-17T11:27:28.021Z",
+ "updated": "2026-09-18T16:16:30.726Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SEASON2",
+   "reward": "5 Lucky Spins"
+  },
+  {
    "code": "DUALSHOCK",
    "reward": "5 Lucky Spins"
   },
@@ -103,6 +107,6 @@
    "reward": "3 Lucky Style Spins"
   }
  ],
- "updated": "2026-09-17T16:40:08.785Z",
+ "updated": "2026-09-18T20:44:36.158Z",
  "source": "https://robloxden.com/game-codes/superstar-baseball"
 }

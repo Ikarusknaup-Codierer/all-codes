@@ -39,12 +39,12 @@
    "reward": "75 Burgers"
   },
   {
-   "code": "QOL",
-   "reward": "100 Burgers"
-  },
-  {
    "code": "HappyBirthdayLynn",
    "reward": "500 Burgers"
+  },
+  {
+   "code": "QOL",
+   "reward": "100 Burgers"
   },
   {
    "code": "GamemodesAreTooHard",
@@ -75,6 +75,6 @@
    "reward": "200 Burgers"
   }
  ],
- "updated": "2026-09-17T11:29:18.115Z",
+ "updated": "2026-09-18T20:41:29.310Z",
  "source": "https://robloxden.com/game-codes/dead-spells"
 }

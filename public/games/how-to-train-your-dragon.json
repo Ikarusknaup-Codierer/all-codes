@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FLAME",
+   "reward": "Rewards"
+  },
+  {
    "code": "SNOGGLETOG",
    "reward": "150 Snoggletog Coins"
   },
@@ -17,6 +21,18 @@
   {
    "code": "DRAGONS",
    "reward": "1 Spin"
+  },
+  {
+   "code": "WEEK2",
+   "reward": "Rewards"
+  },
+  {
+   "code": "TRIALOFFLAME",
+   "reward": "Rewards"
+  },
+  {
+   "code": "WEEK4",
+   "reward": "Rewards"
   },
   {
    "code": "MORETRAITS",
@@ -71,6 +87,6 @@
    "reward": "2 Trait Rolls"
   }
  ],
- "updated": "2026-09-17T16:39:43.623Z",
+ "updated": "2026-09-18T20:44:12.712Z",
  "source": "https://robloxden.com/game-codes/how-to-train-your-dragon"
 }

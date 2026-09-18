@@ -15,18 +15,18 @@
    "reward": "Clicks"
   },
   {
-   "code": "POTIONS",
-   "reward": "Clicks And Potions"
-  },
-  {
    "code": "15KLIKES",
    "reward": "Extra Boosts"
   },
   {
-   "code": "1MVISITS",
+   "code": "UPDATE",
    "reward": "Extra Boosts"
+  },
+  {
+   "code": "UGC",
+   "reward": "20,000 Clicks and 150 Gems"
   }
  ],
- "updated": "2026-09-17T16:37:25.877Z",
+ "updated": "2026-09-18T20:42:02.355Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

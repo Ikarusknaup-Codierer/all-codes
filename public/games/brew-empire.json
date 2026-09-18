@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LUCKYBREW",
+   "reward": "50 Cash and Server-wide Luck Boost"
+  },
+  {
+   "code": "GOLDENBEAN",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "BREWLAUNCH",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "POPQUIZ",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "BREWGAMES",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "ROUND3",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "GREENTHUMB",
+   "reward": "250 Cash"
   }
  ],
- "updated": "2026-09-17T11:28:46.636Z",
+ "updated": "2026-09-18T20:41:18.909Z",
  "source": "https://robloxden.com/game-codes/brew-empire"
 }

@@ -29,8 +29,44 @@
   {
    "code": "TOKENS",
    "reward": "5 Tokens"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "rewards"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "rewards"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "rewards"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "rewards"
+  },
+  {
+   "code": "Beach",
+   "reward": "rewards"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "rewards"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "rewards"
+  },
+  {
+   "code": "TRADING",
+   "reward": "rewards"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-09-17T16:43:40.881Z",
+ "updated": "2026-09-18T20:47:58.744Z",
  "source": "https://robloxden.com/game-codes/1-pizza-per-second"
 }

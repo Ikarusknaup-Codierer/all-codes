@@ -17,8 +17,16 @@
   {
    "code": "SPEED1000",
    "reward": "250,000 Cash"
+  },
+  {
+   "code": "Fastest",
+   "reward": "100,000 F$"
+  },
+  {
+   "code": "Chaos",
+   "reward": "50,000 F$"
   }
  ],
- "updated": "2026-09-17T16:42:45.751Z",
+ "updated": "2026-09-18T20:47:01.876Z",
  "source": "https://robloxden.com/game-codes/downforce-stunt-driving"
 }

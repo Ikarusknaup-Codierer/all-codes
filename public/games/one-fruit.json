@@ -59,6 +59,22 @@
    "reward": "Rewards"
   },
   {
+   "code": "FACINGEAST",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "INTOTHESHADOWS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Youtubeisback!",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "WORLDRAIDS",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "SorryForDelay!!",
    "reward": "8 Hours of Drop, Stats, Exp, Coins, Mastery Boosts , 8 Raid Scrolls , "
   },
@@ -275,6 +291,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-16T21:07:46.121Z",
+ "updated": "2026-09-18T04:02:32.073Z",
  "source": "https://robloxden.com/game-codes/one-fruit"
 }

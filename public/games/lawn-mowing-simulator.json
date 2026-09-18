@@ -43,6 +43,10 @@
    "reward": "the Blue Bird Mount"
   },
   {
+   "code": "FLOWERPOWER",
+   "reward": "the Sunflower Pet"
+  },
+  {
    "code": "PINKY",
    "reward": "the Pink Slime Pet"
   },
@@ -89,12 +93,8 @@
   {
    "code": "lotsofvisits30m",
    "reward": "Visitors Slime Pet"
-  },
-  {
-   "code": "FLOWERPOWER",
-   "reward": "the Sunflower Pet"
   }
  ],
- "updated": "2026-09-16T21:09:33.778Z",
+ "updated": "2026-09-18T04:04:05.448Z",
  "source": "https://robloxden.com/game-codes/lawn-mowing-simulator"
 }

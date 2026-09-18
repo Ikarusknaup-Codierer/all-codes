@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "Orangutan",
-   "reward": "Free Reward"
-  },
-  {
    "code": "Nevergonnatellalieandhurtyou",
    "reward": "1 Million Monkeys"
-  },
-  {
-   "code": "GOOBLESTHEALIEN",
-   "reward": "100,000 Monkeys"
   },
   {
    "code": "Simian",
@@ -163,6 +155,10 @@
    "reward": "Free Reward"
   },
   {
+   "code": "Orangutan",
+   "reward": "Free Reward"
+  },
+  {
    "code": "Ape",
    "reward": "1 Million Monkeys"
   },
@@ -171,10 +167,14 @@
    "reward": "1 Million Monkeys"
   },
   {
+   "code": "GOOBLESTHEALIEN",
+   "reward": "100,000 Monkeys"
+  },
+  {
    "code": "statues",
    "reward": "4.8 Million Monkeys"
   }
  ],
- "updated": "2026-09-16T21:12:49.886Z",
+ "updated": "2026-09-18T04:06:59.585Z",
  "source": "https://robloxden.com/game-codes/monkey-tycoon"
 }

@@ -15,18 +15,18 @@
    "reward": "250 Coins"
   },
   {
-   "code": "BugFix",
+   "code": "CoinsStage",
    "reward": "100 Coins"
   },
   {
-   "code": "Mascots",
-   "reward": "250 Coins"
+   "code": "RepRewards",
+   "reward": "100 XP"
   },
   {
    "code": "50XP",
    "reward": "50 EXP"
   }
  ],
- "updated": "2026-09-16T21:09:30.966Z",
+ "updated": "2026-09-18T04:04:02.932Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

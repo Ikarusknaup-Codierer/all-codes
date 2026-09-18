@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "STARTER",
-   "reward": "Starter"
+   "code": "NEW",
+   "reward": "New"
   },
   {
-   "code": "RELEASE!",
-   "reward": "2,500 Cash (when making an in-game Robux purchase for the next 24 hour"
+   "code": "CLOWN!",
+   "reward": "Clown!"
   },
   {
-   "code": "GOURDS",
-   "reward": "1 Pumpkin Necklace"
+   "code": "HORNS",
+   "reward": "1 Darkhorn Torch (VIP ONLY)"
   },
   {
    "code": "GIFT",
@@ -25,12 +25,8 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
-  },
-  {
-   "code": "NEW",
-   "reward": "New"
   }
  ],
- "updated": "2026-09-16T21:10:57.162Z",
+ "updated": "2026-09-18T04:05:19.580Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

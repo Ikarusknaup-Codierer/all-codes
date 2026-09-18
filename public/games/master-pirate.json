@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "45kFavorites",
+   "reward": "Boosts (45 Minutes)"
+  },
+  {
+   "code": "21kLike",
+   "reward": "21,000 Beli"
+  },
+  {
+   "code": "15MVisit",
+   "reward": "a Stat Reset"
+  },
+  {
    "code": "4f322fd",
    "reward": "300 Rubies"
   },
@@ -251,14 +263,14 @@
    "reward": "1 Level"
   },
   {
-   "code": "SOCOLDSNOW",
-   "reward": "2x Money (30 Minutes) , 2x Drop (30 Minutes) , and 2x XP (30 Minutes)"
+   "code": "ThxForPopPular",
+   "reward": "Restat"
   },
   {
-   "code": "6KLIKES",
-   "reward": "6,000 Beli"
+   "code": "2KLIKES",
+   "reward": "1 Stat Reset"
   }
  ],
- "updated": "2026-09-16T21:09:32.694Z",
+ "updated": "2026-09-18T04:04:04.438Z",
  "source": "https://robloxden.com/game-codes/master-pirate"
 }

@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "CELESTIAL",
+   "reward": "5 Potions"
+  },
+  {
+   "code": "MUTATE",
+   "reward": "5 Potions"
   }
  ],
- "updated": "2026-09-16T21:08:41.485Z",
+ "updated": "2026-09-18T04:03:19.534Z",
  "source": "https://robloxden.com/game-codes/planet-rng"
 }

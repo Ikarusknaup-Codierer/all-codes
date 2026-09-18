@@ -11,10 +11,6 @@
    "reward": "48 Hour X2 XP Boost"
   },
   {
-   "code": "UPDATE5",
-   "reward": "Free Diamonds"
-  },
-  {
    "code": "1000LIKES",
    "reward": "120 Diamonds"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Diamonds"
   },
   {
-   "code": "1500PROMO",
-   "reward": "100 Diamonds"
+   "code": "IDK",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "LEVELBOOST",
+   "reward": "a 1 Level Boost"
   }
  ],
- "updated": "2026-09-16T21:15:08.650Z",
+ "updated": "2026-09-18T04:08:49.189Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

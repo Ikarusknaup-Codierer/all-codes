@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ITSATRAP",
+   "reward": "1 Mimic Chest"
+  },
+  {
    "code": "10KLIKES",
    "reward": "3x Stats Reset Scroll , 10x Aurorite , and 3x Magnifying Glass"
   },
@@ -59,6 +63,6 @@
    "reward": "25 Simple Bread and 25 Fresh Milk"
   }
  ],
- "updated": "2026-09-18T10:55:26.889Z",
+ "updated": "2026-09-19T15:43:21.039Z",
  "source": "https://robloxden.com/game-codes/the-portal"
 }

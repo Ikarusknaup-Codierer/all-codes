@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SlayerRank",
+   "reward": "3 of all Potions"
+  },
+  {
+   "code": "GOALS2500",
+   "reward": "2 of all Potions"
+  },
+  {
    "code": "ExtraUpdate",
    "reward": "40 Tickets"
   },
@@ -47,6 +55,6 @@
    "reward": "25 Tickets"
   }
  ],
- "updated": "2026-09-18T10:57:45.602Z",
+ "updated": "2026-09-19T15:45:13.655Z",
  "source": "https://robloxden.com/game-codes/slayer-incremental"
 }

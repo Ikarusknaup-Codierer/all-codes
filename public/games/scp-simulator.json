@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MEOWDEV",
+   "reward": "Rewards . To use this code, you must reach Level 5"
+  },
+  {
    "code": "VERITY",
    "reward": "10 Trait Reroll Serum"
   },
@@ -19,6 +23,6 @@
    "reward": "3K Coins . To use this code, you must reach Level 5"
   }
  ],
- "updated": "2026-09-18T10:54:03.262Z",
+ "updated": "2026-09-19T15:41:58.456Z",
  "source": "https://robloxden.com/game-codes/scp-simulator"
 }

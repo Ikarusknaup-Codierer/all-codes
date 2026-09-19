@@ -15,18 +15,18 @@
    "reward": "Free Souls"
   },
   {
-   "code": "NEWEVENT",
-   "reward": "6,000 Souls"
-  },
-  {
    "code": "ITEMS",
    "reward": "5,300 Souls"
   },
   {
    "code": "NEWUPDATE",
    "reward": "200 Dust"
+  },
+  {
+   "code": "VOZAN",
+   "reward": "100 Souls"
   }
  ],
- "updated": "2026-09-18T10:58:52.607Z",
+ "updated": "2026-09-19T15:46:24.499Z",
  "source": "https://robloxden.com/game-codes/undertale-timeline-reset"
 }

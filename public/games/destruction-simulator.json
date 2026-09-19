@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "turkeytime",
-   "reward": "48 Hour X2 XP Boost"
+   "code": "500k",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "REEL",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "freelevels",
+   "reward": "5 Free Levels"
   },
   {
    "code": "1000LIKES",
    "reward": "120 Diamonds"
   },
   {
-   "code": "UPDATE3",
-   "reward": "Free Diamonds"
-  },
-  {
    "code": "IDK",
    "reward": "50,000 Cash"
-  },
-  {
-   "code": "LEVELBOOST",
-   "reward": "a 1 Level Boost"
   }
  ],
- "updated": "2026-09-18T04:08:49.189Z",
+ "updated": "2026-09-19T15:41:31.706Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

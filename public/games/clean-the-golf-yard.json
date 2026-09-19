@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE_4_0",
+   "reward": "100 Fragments"
+  },
+  {
+   "code": "BEACH",
+   "reward": "200 Fragments"
+  },
+  {
+   "code": "TRASH",
+   "reward": "150 Fragments"
+  },
+  {
+   "code": "RECYCLE",
+   "reward": "100 Fragments"
+  },
+  {
    "code": "40KLIKES",
    "reward": "500 Fragments"
   },
@@ -39,6 +55,6 @@
    "reward": "3 Spins"
   }
  ],
- "updated": "2026-09-18T11:00:36.042Z",
+ "updated": "2026-09-19T15:48:22.236Z",
  "source": "https://robloxden.com/game-codes/clean-the-golf-yard"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "YOURCARD",
+   "reward": "10 packs"
+  },
+  {
    "code": "LEGENDS",
    "reward": "10 Common Packs"
   },
@@ -83,6 +87,6 @@
    "reward": "1 Pack"
   }
  ],
- "updated": "2026-09-18T10:57:07.552Z",
+ "updated": "2026-09-19T15:44:34.174Z",
  "source": "https://robloxden.com/game-codes/complete-the-sticker-album-2026-football-wc"
 }

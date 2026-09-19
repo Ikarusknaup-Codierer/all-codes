@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "RAINBOWPLANETS",
-   "reward": "1 Coin Potion"
+   "code": "UPDATE7",
+   "reward": "1 Gem Potion"
   },
   {
-   "code": "thanksforliking",
-   "reward": "$30,000"
+   "code": "noway3000",
+   "reward": "30,000"
   },
   {
-   "code": "OASISWORLD",
-   "reward": "Coins Potion"
-  },
-  {
-   "code": "UPDATE4",
-   "reward": "30 Minute Bricks Potion"
+   "code": "GOLDENPLANETS",
+   "reward": "30 Minute Gems Potion"
   },
   {
    "code": "GEMSPOTION",
    "reward": "5 Minute Gems Potion"
+  },
+  {
+   "code": "coinspotion",
+   "reward": "5 Minute Coins Potion"
   }
  ],
- "updated": "2026-09-18T10:54:14.213Z",
+ "updated": "2026-09-19T15:42:08.941Z",
  "source": "https://robloxden.com/game-codes/hole-simulator"
 }

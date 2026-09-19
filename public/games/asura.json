@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "BeenALongTime!",
+   "reward": "200 vouchers and Exp Boost (3 Hours) . You must be Ranked D+ to claim "
+  },
+  {
+   "code": "BYENOKIA!",
+   "reward": "15 Vouchers from Astra"
+  },
+  {
+   "code": "ContentSoon!",
+   "reward": "10,000 Runes"
+  },
+  {
+   "code": "Sometimesgamesflop!",
+   "reward": "100 Vouchers and XP Boost (3 hours)"
+  },
+  {
+   "code": "SorryForPity!",
+   "reward": "100 Vouchers and XP Boost (3 hours)"
+  },
+  {
    "code": "BugFixesTalents!",
    "reward": "15 Vouchers"
   },
@@ -31,6 +51,6 @@
    "reward": "40 Vouchers"
   }
  ],
- "updated": "2026-09-17T21:14:47.610Z",
+ "updated": "2026-09-19T04:05:00.556Z",
  "source": "https://robloxden.com/game-codes/asura"
 }

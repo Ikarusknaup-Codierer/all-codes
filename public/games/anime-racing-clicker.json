@@ -39,10 +39,6 @@
    "reward": "Free Potions"
   },
   {
-   "code": "AreYouBetterThenYourFriends",
-   "reward": "Free Boosts And Rewards"
-  },
-  {
    "code": "InviteYourFriends",
    "reward": "Free Potions"
   },
@@ -67,14 +63,14 @@
    "reward": "1 Super Lucky Potion"
   },
   {
-   "code": "DARKSEA",
-   "reward": "1 Hero XP Boost"
+   "code": "AreYouBetterThenYourFriends",
+   "reward": "Free Boosts And Rewards"
   },
   {
    "code": "CHRISTMASEVENT",
    "reward": "50 Gingerbread"
   }
  ],
- "updated": "2026-09-18T04:01:57.614Z",
+ "updated": "2026-09-19T04:07:54.174Z",
  "source": "https://robloxden.com/game-codes/anime-racing-clicker"
 }

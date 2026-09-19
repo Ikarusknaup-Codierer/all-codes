@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "!easter",
+   "reward": "20,000 Yen"
+  },
+  {
    "code": "!frozenpuritytrailer",
    "reward": "Frozen Purity Trailer"
   },
@@ -291,6 +295,6 @@
    "reward": "Teleport to the church"
   }
  ],
- "updated": "2026-09-17T21:10:00.822Z",
+ "updated": "2026-09-19T04:00:11.930Z",
  "source": "https://robloxden.com/game-codes/burning-ashes-new-era"
 }

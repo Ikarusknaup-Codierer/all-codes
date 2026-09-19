@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CelestialBlessing",
+   "reward": "1,000 Celestial Coins"
+  },
+  {
    "code": "FruitBasket",
    "reward": "a Fruit Chest , 10 Trait Rerolls , and 5 Race Rerolls"
   },
@@ -35,6 +39,6 @@
    "reward": "10 Trait Rerolls and 5 Race Rerolls"
   }
  ],
- "updated": "2026-09-17T21:09:49.196Z",
+ "updated": "2026-09-19T04:00:00.204Z",
  "source": "https://robloxden.com/game-codes/grand-blue"
 }

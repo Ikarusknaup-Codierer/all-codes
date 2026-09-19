@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE",
+   "reward": "5 credits and 5 tickets"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "+2 All Potions and 25 tickets"
+  },
+  {
    "code": "bugfix",
    "reward": "5 Credits and 1 All Potion"
   },
@@ -15,6 +23,6 @@
    "reward": "10 Tickets"
   }
  ],
- "updated": "2026-09-17T16:46:25.805Z",
+ "updated": "2026-09-19T03:59:02.320Z",
  "source": "https://robloxden.com/game-codes/printer-incremental"
 }

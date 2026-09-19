@@ -11,10 +11,6 @@
    "reward": "100 Coins"
   },
   {
-   "code": "200KVISITS",
-   "reward": "Rewards"
-  },
-  {
    "code": "BEST1",
    "reward": "Rewards"
   },
@@ -25,8 +21,12 @@
   {
    "code": "5KFAV",
    "reward": "Rewards"
+  },
+  {
+   "code": "HELMET",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-17T21:11:04.071Z",
+ "updated": "2026-09-19T04:01:16.082Z",
  "source": "https://robloxden.com/game-codes/2-player-sparta-tycoon"
 }

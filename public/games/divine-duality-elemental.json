@@ -15,10 +15,6 @@
    "reward": "15K Shards"
   },
   {
-   "code": "ForestGuardian",
-   "reward": "15,000 Shards"
-  },
-  {
    "code": "150kLikes",
    "reward": "Free Shards"
   },
@@ -57,8 +53,12 @@
   {
    "code": "GRAVITY",
    "reward": "15,000 Shards"
+  },
+  {
+   "code": "ForestGuardian",
+   "reward": "15,000 Shards"
   }
  ],
- "updated": "2026-09-17T21:12:54.563Z",
+ "updated": "2026-09-19T04:03:07.177Z",
  "source": "https://robloxden.com/game-codes/divine-duality-elemental"
 }

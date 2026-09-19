@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "stonks",
+   "reward": "Free Rewards (Requirement: 1,000 Rolls)"
+  },
+  {
    "code": "ARC6",
    "reward": "a 25 times Luck Boost"
   },
@@ -115,6 +119,6 @@
    "reward": "Gems And Potions"
   }
  ],
- "updated": "2026-09-17T21:14:56.284Z",
+ "updated": "2026-09-19T04:05:09.294Z",
  "source": "https://robloxden.com/game-codes/jule-s-rng"
 }

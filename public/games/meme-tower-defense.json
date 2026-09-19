@@ -11,18 +11,22 @@
    "reward": "69 Coins"
   },
   {
-   "code": "1week!",
-   "reward": "250 Coins"
-  },
-  {
    "code": "freeluck",
    "reward": "1 Extra Luck Potion"
   },
   {
+   "code": "freeTraits",
+   "reward": "2 Trait Roll"
+  },
+  {
    "code": "EVENT",
    "reward": "1000 MemBits"
+  },
+  {
+   "code": "DeadlyCompany",
+   "reward": "250 MemBits"
   }
  ],
- "updated": "2026-09-17T21:10:20.395Z",
+ "updated": "2026-09-19T04:00:31.566Z",
  "source": "https://robloxden.com/game-codes/meme-tower-defense"
 }

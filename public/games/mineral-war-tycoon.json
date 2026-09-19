@@ -31,10 +31,14 @@
    "reward": "+10 Walk Speed"
   },
   {
-   "code": "2000",
+   "code": "KaBOOM",
    "reward": ""
+  },
+  {
+   "code": "100k",
+   "reward": "500 Crystals"
   }
  ],
- "updated": "2026-09-17T21:11:49.975Z",
+ "updated": "2026-09-19T04:02:02.635Z",
  "source": "https://robloxden.com/game-codes/mineral-war-tycoon"
 }

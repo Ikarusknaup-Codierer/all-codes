@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWFRUIT",
+   "reward": "600 Gems"
+  },
+  {
    "code": "WEEKENDGIFT3",
    "reward": "3,000 Dark Crystals and 5 Hero Magic Dusts"
   },
@@ -79,10 +83,10 @@
    "reward": "1,000 Gems"
   },
   {
-   "code": "GEMGIFT",
-   "reward": "1,000 Gems"
+   "code": "FREEGIFT",
+   "reward": "400 Season EXP"
   }
  ],
- "updated": "2026-09-17T21:14:24.345Z",
+ "updated": "2026-09-19T04:04:38.086Z",
  "source": "https://robloxden.com/game-codes/anime-dungeon-fighters"
 }

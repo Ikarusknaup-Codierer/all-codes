@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "36MVisits",
+   "reward": "rewards . You must be at least level 50 to use this code"
+  },
+  {
+   "code": "35MVisits",
+   "reward": "rewards . You must be at least level 50 to use this code"
+  },
+  {
+   "code": "34MVisits",
+   "reward": "rewards . You must be at least level 50 to use this code"
+  },
+  {
+   "code": "60KLikes",
+   "reward": "5 Tickets , 10 Crystals , and 5 Trait Rerolls . You must be at least l"
+  },
+  {
+   "code": "50KLikes",
+   "reward": "5 Tickets , 10 Crystals , and 5 Trait Rerolls . You must be at least l"
+  },
+  {
+   "code": "Balanced",
+   "reward": "rewards . You must be at least level 100 to use this code"
+  },
+  {
+   "code": "17KActives",
+   "reward": "rewards . You must be at least level 200 to use this code"
+  },
+  {
    "code": "BuyAgain",
    "reward": "Rewards"
   },
@@ -147,6 +175,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-09-18T16:16:30.726Z",
+ "updated": "2026-09-19T20:33:02.808Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

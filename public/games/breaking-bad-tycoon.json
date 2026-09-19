@@ -11,10 +11,6 @@
    "reward": "1 Rebirth"
   },
   {
-   "code": "Barrel",
-   "reward": "1 Rebirth and 1 Barrel"
-  },
-  {
    "code": "ANNOYING",
    "reward": "10 Rebirths"
   },
@@ -23,10 +19,14 @@
    "reward": "3 Rebirths"
   },
   {
+   "code": "TETOOBBY",
+   "reward": "20,000 Cash"
+  },
+  {
    "code": "Neru",
    "reward": "20,000 Cash"
   }
  ],
- "updated": "2026-09-18T20:44:45.618Z",
+ "updated": "2026-09-19T20:39:02.703Z",
  "source": "https://robloxden.com/game-codes/breaking-bad-tycoon"
 }

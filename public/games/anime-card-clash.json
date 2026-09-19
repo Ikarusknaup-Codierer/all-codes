@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "DRAGONBALL10",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
+  },
+  {
+   "code": "DRAGONBALL9",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 2 Boss Chance "
+  },
+  {
+   "code": "DRAGONBALL8",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
+  },
+  {
+   "code": "DRAGONBALL7",
+   "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 2 Boss Chance "
+  },
+  {
+   "code": "DRAGONBALL6",
+   "reward": "5 Large Luck Potions , 5 Large Roll Speed Potions , 2 Boss Chance Poti"
+  },
+  {
    "code": "ARTCONTEST",
    "reward": "the Crimson Demon Art Contest Skin , the Princess of Light Art Contest"
   },
@@ -83,6 +103,6 @@
    "reward": "2 50,000x Instant Rolls"
   }
  ],
- "updated": "2026-09-18T20:44:38.935Z",
+ "updated": "2026-09-19T20:38:54.997Z",
  "source": "https://robloxden.com/game-codes/anime-card-clash"
 }

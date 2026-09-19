@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NEXA",
+   "reward": "a Star Lantern Egg"
+  },
+  {
+   "code": "STELLAWOLF",
+   "reward": "Task Points"
+  },
+  {
    "code": "coin",
    "reward": "3 Middle Coin Potions"
   },
@@ -39,6 +47,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-09-18T16:11:13.517Z",
+ "updated": "2026-09-19T20:25:38.584Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

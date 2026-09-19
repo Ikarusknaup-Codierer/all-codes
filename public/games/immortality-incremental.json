@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DUNGEON2",
+   "reward": "10 Jade"
+  },
+  {
+   "code": "QIFIX",
+   "reward": "10 Jade and 1 Ore Potion"
+  },
+  {
    "code": "CRYPTDUNGEON",
    "reward": "5 of All Potions"
   },
@@ -279,6 +287,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-09-18T16:12:27.908Z",
+ "updated": "2026-09-19T20:28:35.907Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

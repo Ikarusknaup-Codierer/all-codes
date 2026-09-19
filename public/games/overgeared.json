@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "BETAPHASE",
+   "reward": "Beta Tester Title"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "100K Gold , 10K Gems , 5x Magnus Tickets , 5x Raizen Tickets , 50x Emb"
+  },
+  {
+   "code": "200KVISIT",
+   "reward": "100K Gold , 10K Gems , 10x Magnus Ticket , 10x Raizen Ticket , 15x Leg"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "100K Gold , 10K Gems , 10x Event Boss Ticket , 5x Legion Crystal , 10x"
+  },
+  {
+   "code": "300KVISIT",
+   "reward": "100K Gold , 10K Gems , 15x Event Boss Ticket , 15x Raizen Crystal , 15"
+  },
+  {
    "code": "UPDATE3",
    "reward": "100,000 Gold , 10,000 Gems , 50 Ember Stones , 50 Xeros Tears , 30 Cry"
   },
@@ -47,6 +67,6 @@
    "reward": "100K Gold, 5K Gems, 7 Raizen Tickets, 7 Magnus Tickets, 100 Ember Ston"
   }
  ],
- "updated": "2026-09-18T20:43:51.373Z",
+ "updated": "2026-09-19T20:37:55.923Z",
  "source": "https://robloxden.com/game-codes/overgeared"
 }

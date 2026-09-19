@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "COINFLIP",
+   "reward": "4,000 Gold , 1 25000-Roll Pack , 2 Huge Luck Potions , and 3 Trait Rer"
+  },
+  {
+   "code": "PATCHED",
+   "reward": "1,000 Gold , 3 1000-Roll Packs , 3 Medium Luck Potions , and 2 Medium "
+  },
+  {
+   "code": "MYSTUFF",
+   "reward": "3,000 Gold , 2 5,000-Roll Packs , 2 Boss Potions , and 2 Trait Rerolls"
+  },
+  {
+   "code": "DODGED",
+   "reward": "2,000 Gold , 3 5000-Roll Packs , 3 Boss Potions , and 2 Trait Rerolls "
+  },
+  {
    "code": "OURBAD",
    "reward": "5,000 Gold , 3 5000-Roll Packs , 3 Medium Luck Potions , 3 Medium Rari"
   },
@@ -239,6 +255,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-09-18T16:14:23.183Z",
+ "updated": "2026-09-19T20:30:45.848Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

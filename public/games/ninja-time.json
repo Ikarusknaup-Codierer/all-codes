@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UltimateIntangible!",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "GedoDevastation!",
+   "reward": "15 Spins"
+  },
+  {
    "code": "NewSpinFocus!",
    "reward": "15 Spins"
   },
@@ -95,6 +103,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-09-18T20:41:37.200Z",
+ "updated": "2026-09-19T20:35:19.781Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

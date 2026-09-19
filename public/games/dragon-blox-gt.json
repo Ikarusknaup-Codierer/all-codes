@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "serverboost15",
+   "reward": "10x Boost (15m)"
+  },
+  {
    "code": "HisLegacyContinues",
    "reward": "a 30 minute 10x Boost"
   },
   {
-   "code": "17KL1K3S3X",
-   "reward": "Boost For 60 Minutes"
+   "code": "mr21",
+   "reward": "3X Boost for 21 Minutes"
   },
   {
-   "code": "SORRY",
-   "reward": "A Boost"
+   "code": "17KL1K3S3X",
+   "reward": "Boost For 60 Minutes"
   }
  ],
- "updated": "2026-09-18T20:44:15.838Z",
+ "updated": "2026-09-19T20:38:27.314Z",
  "source": "https://robloxden.com/game-codes/dragon-blox-gt"
 }

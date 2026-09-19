@@ -11,10 +11,6 @@
    "reward": "Easter Cat"
   },
   {
-   "code": "LOVE2024",
-   "reward": "Valentine's Bakery Bear Mascot"
-  },
-  {
    "code": "25BINGO",
    "reward": "Special Deluxe Marker"
   },
@@ -25,8 +21,12 @@
   {
    "code": "TREE24",
    "reward": "Neon Christmas Tree Light"
+  },
+  {
+   "code": "EASTER2024",
+   "reward": "Easter Rabbit Mascot"
   }
  ],
- "updated": "2026-09-18T04:07:50.632Z",
+ "updated": "2026-09-19T10:44:28.392Z",
  "source": "https://robloxden.com/game-codes/bloxy-bingo"
 }

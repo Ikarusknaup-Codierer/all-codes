@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "REGIS",
-   "reward": "1 Common Spin"
-  },
-  {
-   "code": "TELBRIEG",
-   "reward": "1 Uncommon Hatsu Spin"
-  },
-  {
-   "code": "CMONVEDDEN",
-   "reward": "1 Lucky New Reroll"
+   "code": "SUB2NIJIXAMORE",
+   "reward": "2x Exp (1 Hour and 30 Minutes)"
   },
   {
    "code": "THEDELAYGOD",
@@ -25,8 +17,12 @@
   {
    "code": "MYBADBRUH",
    "reward": "1 Rare Spin"
+  },
+  {
+   "code": "DANGBRUH",
+   "reward": "1 Rare Hatsu Reroll"
   }
  ],
- "updated": "2026-09-18T04:06:49.669Z",
+ "updated": "2026-09-19T10:43:26.338Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

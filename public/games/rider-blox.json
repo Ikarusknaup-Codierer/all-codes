@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "fourze",
+   "reward": "3 Dimension Fragments"
+  },
+  {
    "code": "accel26",
    "reward": "3 Dimension Fragments"
   },
@@ -113,8 +117,16 @@
   {
    "code": "Odin",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "tanzaburo",
+   "reward": "1 Dimension Fragment"
+  },
+  {
+   "code": "trinity",
+   "reward": "1 Dimension Fragment"
   }
  ],
- "updated": "2026-09-18T04:03:02.186Z",
+ "updated": "2026-09-19T10:39:36.164Z",
  "source": "https://robloxden.com/game-codes/rider-blox"
 }

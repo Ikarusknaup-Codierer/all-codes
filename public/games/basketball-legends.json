@@ -15,24 +15,12 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "MAGIC",
-   "reward": "a Summer Skin Case"
-  },
-  {
-   "code": "BOTS",
-   "reward": "a Summer Effect Case"
-  },
-  {
-   "code": "PARKHELMETS",
-   "reward": "a Summer Trail Case"
-  },
-  {
-   "code": "CATCH",
-   "reward": "a Summer Skin Case"
-  },
-  {
    "code": "630KLIKES",
    "reward": "1,000 Coins"
+  },
+  {
+   "code": "HELMET",
+   "reward": "a Summer Skin Case"
   },
   {
    "code": "GREEN",
@@ -43,24 +31,16 @@
    "reward": "the Summer Effect Case"
   },
   {
-   "code": "620KLIKES",
-   "reward": "1,000 Coins"
-  },
-  {
-   "code": "610KLIKES",
-   "reward": "1,000 Coins"
-  },
-  {
-   "code": "HELMET",
-   "reward": "a Summer Skin Case"
-  },
-  {
    "code": "SUMMER",
    "reward": "the Summer Effect Case"
   },
   {
    "code": "PASSES",
    "reward": "the Summer Skin Case"
+  },
+  {
+   "code": "610KLIKES",
+   "reward": "1,000 Coins"
   },
   {
    "code": "600KLIKES",
@@ -103,6 +83,6 @@
    "reward": "10,000 Coins"
   }
  ],
- "updated": "2026-09-18T04:01:56.121Z",
+ "updated": "2026-09-19T10:38:32.625Z",
  "source": "https://robloxden.com/game-codes/basketball-legends"
 }

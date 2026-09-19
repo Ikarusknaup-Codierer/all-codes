@@ -131,10 +131,6 @@
    "reward": "1 Super Swarm Snack"
   },
   {
-   "code": "YippeeGems",
-   "reward": "400 Gems"
-  },
-  {
    "code": "175KLikes",
    "reward": "Squed"
   },
@@ -269,8 +265,12 @@
   {
    "code": "AdminAbuseSoonEyes",
    "reward": "Chain Boost"
+  },
+  {
+   "code": "YippeeGems",
+   "reward": "400 Gems"
   }
  ],
- "updated": "2026-09-18T04:06:06.690Z",
+ "updated": "2026-09-19T10:42:42.286Z",
  "source": "https://robloxden.com/game-codes/doodle-world"
 }

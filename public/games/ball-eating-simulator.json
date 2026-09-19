@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WINTER",
+   "reward": "5,000 Cash"
+  },
+  {
    "code": "VERIFIED",
    "reward": "Free Cash"
   },
@@ -87,6 +91,6 @@
    "reward": "5,000 Size Increase"
   }
  ],
- "updated": "2026-09-18T04:02:34.498Z",
+ "updated": "2026-09-19T10:39:08.768Z",
  "source": "https://robloxden.com/game-codes/ball-eating-simulator"
 }

@@ -479,10 +479,14 @@
    "reward": "the Rock Paper Scissors Item"
   },
   {
-   "code": "fifa",
-   "reward": "Soccer Ball"
+   "code": "knock-knock",
+   "reward": "Doors Item"
+  },
+  {
+   "code": "topcrop",
+   "reward": "Peach"
   }
  ],
- "updated": "2026-09-18T04:08:38.086Z",
+ "updated": "2026-09-19T10:45:00.428Z",
  "source": "https://robloxden.com/game-codes/pop-it-trading"
 }

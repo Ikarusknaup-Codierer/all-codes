@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "gem900",
-   "reward": "Gem900 Reward"
+   "code": "10PETS",
+   "reward": "+10 Pet Slots"
   },
   {
-   "code": "125KLIKES",
-   "reward": "Yeti Pet From The Frost Egg"
+   "code": "speed940",
+   "reward": "600 Speed"
   },
   {
    "code": "185KLikes",
@@ -23,6 +23,6 @@
    "reward": "1 Chicken Pet"
   }
  ],
- "updated": "2026-09-18T04:07:01.608Z",
+ "updated": "2026-09-19T10:43:38.474Z",
  "source": "https://robloxden.com/game-codes/speed-run-simulator"
 }

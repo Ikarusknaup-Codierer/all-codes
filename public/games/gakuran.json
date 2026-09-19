@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "laterestart",
+   "reward": "30 Rerolls"
+  },
+  {
    "code": "NOMORESILENCE",
    "reward": "40 Rerolls"
   },
@@ -27,6 +31,6 @@
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-09-18T10:55:04.539Z",
+ "updated": "2026-09-19T10:46:29.699Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

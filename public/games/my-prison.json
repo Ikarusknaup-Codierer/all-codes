@@ -15,16 +15,44 @@
    "reward": "500 Cash"
   },
   {
-   "code": "OffGrid",
-   "reward": "500 Cash"
-  },
-  {
    "code": "BuildModeUpdate",
    "reward": "350 Cash"
   },
   {
    "code": "WorkshopBuff",
    "reward": "350 Cash"
+  },
+  {
+   "code": "Christmas23",
+   "reward": "Rewards"
+  },
+  {
+   "code": "Halloween23",
+   "reward": "Rewards"
+  },
+  {
+   "code": "Wanted_Alive",
+   "reward": "Rewards"
+  },
+  {
+   "code": "alarms",
+   "reward": "Rewards"
+  },
+  {
+   "code": "Easter",
+   "reward": "Rewards"
+  },
+  {
+   "code": "delivery",
+   "reward": "Rewards"
+  },
+  {
+   "code": "Christmastree",
+   "reward": "Rewards"
+  },
+  {
+   "code": "OffGrid",
+   "reward": "500 Cash"
   },
   {
    "code": "Cloth",
@@ -51,6 +79,6 @@
    "reward": "$350"
   }
  ],
- "updated": "2026-09-18T04:04:41.561Z",
+ "updated": "2026-09-19T10:41:16.733Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

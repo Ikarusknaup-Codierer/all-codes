@@ -11,22 +11,22 @@
    "reward": "1,000 Taps and 1,000 Gems"
   },
   {
-   "code": "TWITTER15K",
-   "reward": "2 Triple Gem Boosts"
-  },
-  {
    "code": "TWTTER30K",
    "reward": "a Mega Lucky Boost"
   },
   {
-   "code": "LIKE20K",
-   "reward": "a Triple Gems Booster and a Super Lucky Booster"
+   "code": "LIKE2000",
+   "reward": "a Triple Gem Booster"
   },
   {
-   "code": "Gold",
-   "reward": "100 Gold"
+   "code": "LIKE250",
+   "reward": "3,000 Gems"
+  },
+  {
+   "code": "Hats",
+   "reward": "Common Reindeer Hat"
   }
  ],
- "updated": "2026-09-18T04:06:52.313Z",
+ "updated": "2026-09-19T10:43:28.967Z",
  "source": "https://robloxden.com/game-codes/minion-simulator"
 }

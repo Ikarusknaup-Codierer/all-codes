@@ -7,11 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "WallGlitch",
-   "reward": "Yen Boost (30 minutes)"
+   "code": "OverhaulUpdate",
+   "reward": "5 Spins"
   },
   {
-   "code": "OverhaulUpdate",
+   "code": "Part1Update",
    "reward": "5 Spins"
   },
   {
@@ -23,6 +23,6 @@
    "reward": "a 10 Minute Yen Boost"
   }
  ],
- "updated": "2026-09-18T04:04:47.119Z",
+ "updated": "2026-09-19T10:41:22.285Z",
  "source": "https://robloxden.com/game-codes/hero-academia-final-ember"
 }

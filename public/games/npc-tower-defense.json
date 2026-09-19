@@ -11,12 +11,12 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "Test11",
-   "reward": "35000 Coins And 2250 Tickets"
-  },
-  {
    "code": "NPCBESTFORLIFE",
    "reward": "100 Coins And 50 Tickets"
+  },
+  {
+   "code": "SKINUPDATE",
+   "reward": "A Free Reward"
   },
   {
    "code": "MOONQUAKES",
@@ -27,6 +27,6 @@
    "reward": "100 Tickets"
   }
  ],
- "updated": "2026-09-18T04:04:25.985Z",
+ "updated": "2026-09-19T10:41:01.739Z",
  "source": "https://robloxden.com/game-codes/npc-tower-defense"
 }

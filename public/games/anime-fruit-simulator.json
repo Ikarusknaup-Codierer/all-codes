@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "SantaFruit",
-   "reward": "2x Rebirths (1 hour) , 2x Coins (1 hour) , 2x Gems (1 hour) , 100 Spin"
+   "code": "BrokenSuffix",
+   "reward": "2x Rebirth Boost (1 hour) , 2x Coin Boost (1 hour) and 2x Gem Boost (1"
   },
   {
-   "code": "5kLikes!",
-   "reward": "10 Spins"
+   "code": "OneHourOfBoosts",
+   "reward": "2x Rebirths (1 hour) , 2x Coins (1 hour) and 2x Gems (1 hour)"
   },
   {
-   "code": "DUNGEONS!",
-   "reward": "15 Spins"
+   "code": "soundleakModeler",
+   "reward": "25 Spins and 5,000 Gems"
+  },
+  {
+   "code": "500Likes!!!",
+   "reward": "25 Spins, 500,000 Coins and 5,000 Gems"
   }
  ],
- "updated": "2026-09-19T10:39:51.028Z",
+ "updated": "2026-09-20T11:05:12.069Z",
  "source": "https://robloxden.com/game-codes/anime-fruit-simulator"
 }

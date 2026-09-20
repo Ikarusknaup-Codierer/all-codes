@@ -11,10 +11,6 @@
    "reward": "2,000 Coins , 100 Tokens and 200 Shards"
   },
   {
-   "code": "halloween2024",
-   "reward": "666 Coins , 33 Tokens and 66 Shards"
-  },
-  {
    "code": "thanksfor65m",
    "reward": "65 Tokens , 165 Shards and 1,650 Coins"
   },
@@ -37,8 +33,12 @@
   {
    "code": "tier60",
    "reward": "300 Coins , 15 Tokens and 30 Shards"
+  },
+  {
+   "code": "halloween2024",
+   "reward": "666 Coins , 33 Tokens and 66 Shards"
   }
  ],
- "updated": "2026-09-19T10:42:01.365Z",
+ "updated": "2026-09-20T11:07:28.511Z",
  "source": "https://robloxden.com/game-codes/scp-tower-defense"
 }

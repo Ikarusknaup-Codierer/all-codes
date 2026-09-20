@@ -91,7 +91,7 @@
    "reward": "a 2x Luck Boost"
   },
   {
-   "code": "TradeTrade",
+   "code": "LikeGoalReached",
    "reward": "a Click Boost"
   },
   {
@@ -99,6 +99,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-09-19T10:38:07.450Z",
+ "updated": "2026-09-20T11:03:28.683Z",
  "source": "https://robloxden.com/game-codes/tapper-simulator"
 }

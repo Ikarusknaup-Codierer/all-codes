@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LAPIS",
+   "reward": "a Lapis"
+  },
+  {
+   "code": "CAT",
+   "reward": "a Clever Cat"
+  },
+  {
    "code": "TRAININGFIX",
    "reward": "a Training Potion and a Super Training Potion"
   },
@@ -19,6 +27,6 @@
    "reward": "30 Dragon Scales"
   }
  ],
- "updated": "2026-09-19T10:40:12.667Z",
+ "updated": "2026-09-20T11:05:34.157Z",
  "source": "https://robloxden.com/game-codes/magic-loot"
 }

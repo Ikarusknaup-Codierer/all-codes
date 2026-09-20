@@ -39,14 +39,14 @@
    "reward": "10,000 Cash and a 30 Minute 2x XP Boost"
   },
   {
-   "code": "UNEQUAL",
-   "reward": "15,000 Cash and a 30 Minute 2x XP Boost"
+   "code": "UPDATE1",
+   "reward": "20,000 Cash"
   },
   {
-   "code": "FREEXP",
-   "reward": "10,000 Cash and a 30 Minute 2x XP Boost"
+   "code": "TIERUP",
+   "reward": "0.2 Tiers"
   }
  ],
- "updated": "2026-09-19T10:41:39.374Z",
+ "updated": "2026-09-20T11:07:04.402Z",
  "source": "https://robloxden.com/game-codes/un-equal"
 }

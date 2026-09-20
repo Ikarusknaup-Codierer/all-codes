@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Magma",
-   "reward": "4 Hours Super Lucky Boost"
+   "code": "FreeGems",
+   "reward": "150 Gems"
   },
   {
-   "code": "FACTORY",
-   "reward": "1 30 Minute Lucky Boost"
+   "code": "RELEASE",
+   "reward": "100 Coins"
   },
   {
-   "code": "UPDATE10",
-   "reward": "1 30 Minute Super Lucky Boost"
-  },
-  {
-   "code": "TECHMYSTERY",
+   "code": "CARTOON",
    "reward": "1 4 Hour Super Lucky Boost"
   },
   {
-   "code": "VALENTINES",
+   "code": "UPDATE32",
+   "reward": "1 6 Hour Lucky Boost"
+  },
+  {
+   "code": "ELEMENT",
    "reward": "1 4 Hour Super Lucky Boost"
   }
  ],
- "updated": "2026-09-19T04:06:47.634Z",
+ "updated": "2026-09-20T11:02:03.463Z",
  "source": "https://robloxden.com/game-codes/mining-simulator-2"
 }

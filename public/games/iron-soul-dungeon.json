@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "IRONSOULWEEKEND23",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "MAP5COMING",
+   "reward": "300 Origin Shards"
+  },
+  {
    "code": "IRONSOULWEEKEND22",
    "reward": "3 Race Rerolls"
   },
@@ -45,10 +53,6 @@
   {
    "code": "SEASON2LIVE",
    "reward": "3 Season Lucky Tickets"
-  },
-  {
-   "code": "EXPEDITIONFIX",
-   "reward": "3,000 Coins , 5 Race Rerolls , and 1 Ice Dragon Egg"
   },
   {
    "code": "GROCERYFIX",
@@ -127,6 +131,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-09-19T15:45:24.171Z",
+ "updated": "2026-09-20T15:53:54.303Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

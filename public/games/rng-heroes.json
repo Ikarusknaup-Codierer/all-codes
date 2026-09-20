@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATEFIVEPOTIONS",
+   "reward": "2x Size Luck Potions and 2x Gold Potions"
+  },
+  {
    "code": "TRAININGMANUAL",
    "reward": "1 Training Manual III"
   },
@@ -67,6 +71,6 @@
    "reward": "one Abyss Reaver Crate"
   }
  ],
- "updated": "2026-09-19T10:42:20.299Z",
+ "updated": "2026-09-20T15:46:44.894Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

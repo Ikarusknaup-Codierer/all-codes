@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Spin10",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "Hermes",
+   "reward": "a Mythic Egg"
+  },
+  {
    "code": "CDraw",
    "reward": "3 Cthulhu Tickets"
   },
@@ -39,6 +47,6 @@
    "reward": "a Random Rare Pet"
   }
  ],
- "updated": "2026-09-19T15:46:30.777Z",
+ "updated": "2026-09-20T15:55:01.277Z",
  "source": "https://robloxden.com/game-codes/1-drain-water-per-click"
 }

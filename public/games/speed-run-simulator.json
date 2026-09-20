@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "10PETS",
-   "reward": "+10 Pet Slots"
+   "code": "40KLIKES",
+   "reward": "X2 Speed Boost For 10 Minutes"
   },
   {
-   "code": "speed940",
-   "reward": "600 Speed"
+   "code": "RUN920",
+   "reward": "700 Speed"
   },
   {
    "code": "185KLikes",
@@ -23,6 +23,6 @@
    "reward": "1 Chicken Pet"
   }
  ],
- "updated": "2026-09-19T10:43:38.474Z",
+ "updated": "2026-09-20T15:47:43.742Z",
  "source": "https://robloxden.com/game-codes/speed-run-simulator"
 }

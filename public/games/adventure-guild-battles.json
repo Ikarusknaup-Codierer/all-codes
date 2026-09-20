@@ -55,14 +55,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "exp",
-   "reward": "2 Minor Exp Potions"
-  },
-  {
    "code": "reviveme",
    "reward": "a Reviver"
+  },
+  {
+   "code": "cash",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-19T15:46:10.972Z",
+ "updated": "2026-09-20T15:54:40.088Z",
  "source": "https://robloxden.com/game-codes/adventure-guild-battles"
 }

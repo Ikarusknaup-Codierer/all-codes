@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ROTTEDDEFENSE",
+   "reward": "10,000 Yen"
+  },
+  {
    "code": "SORR4DELAYS",
    "reward": "30,000 Yen"
   },
@@ -75,14 +79,14 @@
    "reward": "7,500 Yen"
   },
   {
-   "code": "BUGFIX01",
-   "reward": "10,000 Yen"
+   "code": "120KFAVOURITE",
+   "reward": ""
   },
   {
-   "code": "110MILVISITS",
+   "code": "FREERELEASE",
    "reward": ""
   }
  ],
- "updated": "2026-09-19T15:47:10.953Z",
+ "updated": "2026-09-20T15:55:38.006Z",
  "source": "https://robloxden.com/game-codes/locked2"
 }

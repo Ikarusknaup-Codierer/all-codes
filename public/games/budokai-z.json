@@ -17,8 +17,16 @@
   {
    "code": "CITYBOYS",
    "reward": "2 Race Rolls , 3 Aura Rolls , and 1 Gene Roll"
+  },
+  {
+   "code": "COMMONLUPDATE",
+   "reward": "1 Race Spin , 3 Aura Spins , and 1 Gene Spin"
+  },
+  {
+   "code": "COMMONBANEBUG",
+   "reward": "2 Gene Spins"
   }
  ],
- "updated": "2026-09-19T15:46:57.900Z",
+ "updated": "2026-09-20T15:55:24.594Z",
  "source": "https://robloxden.com/game-codes/budokai-z"
 }

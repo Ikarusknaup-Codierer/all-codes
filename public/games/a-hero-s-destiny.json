@@ -31,14 +31,14 @@
    "reward": "Stat Reset"
   },
   {
-   "code": "bigstr",
-   "reward": "2x Strength And Experience"
+   "code": "emp",
+   "reward": "2x Strength (2 hours) , 2x EXP (2 hours) and 2x Yen (2 hours)"
   },
   {
-   "code": "GRIND",
-   "reward": "a 2 Hour 2x EXP Boost, a 2 Hour 2x Yen Boost and a 2 Hour 2x STR Boost"
+   "code": "BING",
+   "reward": "20 Lucky Spins"
   }
  ],
- "updated": "2026-09-19T15:42:01.651Z",
+ "updated": "2026-09-20T15:50:15.752Z",
  "source": "https://robloxden.com/game-codes/a-hero-s-destiny"
 }

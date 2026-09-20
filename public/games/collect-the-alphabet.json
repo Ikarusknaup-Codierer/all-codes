@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "VOLCANO",
+   "reward": "3 Mythic Packs"
+  },
+  {
+   "code": "TIME",
+   "reward": "1 2x Mutation Luck Potions"
+  },
+  {
    "code": "SOSORRY",
    "reward": "5 Mythic Packs"
   },
@@ -47,6 +55,6 @@
    "reward": "3 Mythic Packs"
   }
  ],
- "updated": "2026-09-19T15:44:42.894Z",
+ "updated": "2026-09-20T15:53:09.471Z",
  "source": "https://robloxden.com/game-codes/collect-the-alphabet"
 }

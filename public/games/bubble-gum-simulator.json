@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BGSISBACK",
+   "reward": "2x Hatch Speed"
+  },
+  {
+   "code": "Celebration",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "Update84",
+   "reward": "2x Luck"
+  },
+  {
+   "code": "MechRobot",
+   "reward": "2x Hatch Speed"
+  },
+  {
    "code": "ALIENCASHEW",
    "reward": "2x Hatch Speed (12 Hours)"
   },
@@ -1071,6 +1087,6 @@
    "reward": "2 Hours of 3x Mythic Chance"
   }
  ],
- "updated": "2026-09-19T15:43:31.460Z",
+ "updated": "2026-09-20T15:51:53.347Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

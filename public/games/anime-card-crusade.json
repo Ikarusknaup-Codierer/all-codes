@@ -55,14 +55,14 @@
    "reward": "20 Luck Potion III , 20 Roll Speed Potion III , and 20 Weather Potion"
   },
   {
-   "code": "ENTERTAINMENT",
-   "reward": "15 Luck Potion 3 , 15 Roll Speed 3 , and 25 Weather Potion"
-  },
-  {
    "code": "RELEASE",
    "reward": "10 Luck Potions and 10 Roll Speed Potions"
+  },
+  {
+   "code": "QOLUPDATEFIXS",
+   "reward": "a Reward"
   }
  ],
- "updated": "2026-09-19T15:46:32.419Z",
+ "updated": "2026-09-20T15:55:02.914Z",
  "source": "https://robloxden.com/game-codes/anime-card-crusade"
 }

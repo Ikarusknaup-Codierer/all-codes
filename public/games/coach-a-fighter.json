@@ -7,12 +7,24 @@
    "reward": "Description"
   },
   {
+   "code": "Update3!",
+   "reward": "200,000 Cash , 10 Real Rerolls , 15 Legend Rerolls , 5 Skip Tokens , a"
+  },
+  {
+   "code": "SorryForTheWait!",
+   "reward": "200,000 Cash , 10 Real Rerolls , 15 Legend Rerolls , 5 Skip Tokens , a"
+  },
+  {
    "code": "5MVISITS!",
    "reward": "100,000 Cash , 20 Real Rerolls , 25 Legend Rerolls , and 2 Skip Tokens"
   },
   {
    "code": "Update2!",
    "reward": "25,000 Cash , 10 Real Rerolls , 5 Legend Rerolls , and 1 Skip Token"
+  },
+  {
+   "code": "Outage!",
+   "reward": "100,000 Cash , 15 Real Rerolls , 15 Legend Rerolls , 3 Skip Tokens , a"
   },
   {
    "code": "miniupdate2!",
@@ -47,6 +59,6 @@
    "reward": "$25,000 , 10 Real Rerolls , and a Legend Reroll"
   }
  ],
- "updated": "2026-09-19T15:43:16.211Z",
+ "updated": "2026-09-20T15:51:36.085Z",
  "source": "https://robloxden.com/game-codes/coach-a-fighter"
 }

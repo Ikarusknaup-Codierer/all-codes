@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "5055",
-   "reward": "5,055 Cash"
-  },
-  {
    "code": "GroupMember",
    "reward": "3,000 Cash . To use this code, you must first join the Mudding Simulat"
   },
@@ -23,10 +19,14 @@
    "reward": "6,000 Cash"
   },
   {
+   "code": "5055",
+   "reward": "5,055 Cash"
+  },
+  {
    "code": "MILLY",
    "reward": "Freebies"
   }
  ],
- "updated": "2026-09-19T20:32:01.214Z",
+ "updated": "2026-09-20T20:41:22.972Z",
  "source": "https://robloxden.com/game-codes/mudding-simulator"
 }

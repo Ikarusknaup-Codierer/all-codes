@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "600STRONG",
+   "reward": "450 Coins , 60 Warbonds , 3 Battlezone Crates , Confetti Kill FX , Con"
+  },
+  {
+   "code": "WarBonds",
+   "reward": "25 War Bonds"
+  },
+  {
    "code": "PINK!",
    "reward": "the Pink Duesikazer Chroma"
+  },
+  {
+   "code": "BINARYSTAR",
+   "reward": "a Resurrected Aquarius Chroma"
   },
   {
    "code": "V2",
    "reward": "30 War Bonds"
   }
  ],
- "updated": "2026-09-19T20:26:35.422Z",
+ "updated": "2026-09-20T20:37:59.321Z",
  "source": "https://robloxden.com/game-codes/attack-on-kaiju-2"
 }

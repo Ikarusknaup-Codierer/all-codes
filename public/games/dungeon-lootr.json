@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1",
+   "reward": "10 Normal Event Chests , 10 Reforge Stones and 5 Exotic Ingot"
+  },
+  {
+   "code": "15KCCU",
+   "reward": "100,000 Coins and 5 Luck Potions III"
+  },
+  {
+   "code": "WEEKENDBUFFS",
+   "reward": "2 Luck Potions I , 2 Luck Potions II , 10 Reforge Stones and 2 Luck Po"
+  },
+  {
+   "code": "RAIDTIME",
+   "reward": "5 Forge Stone Bundles and 10 Reforge Stones"
+  },
+  {
+   "code": "COURAGE",
+   "reward": "5 Random GM Blessings"
+  },
+  {
+   "code": "LOVETHISGAME",
+   "reward": "10 Aspect Gems"
+  },
+  {
    "code": "RELEASE",
    "reward": "1,000 Coins"
   },
@@ -31,6 +55,6 @@
    "reward": "2 Random GM Blessing chests"
   }
  ],
- "updated": "2026-09-19T20:30:25.877Z",
+ "updated": "2026-09-20T20:40:06.650Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

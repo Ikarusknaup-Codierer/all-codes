@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SHRINE",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "BUZZZ",
    "reward": "2 EXP Potions"
   },
@@ -379,14 +383,14 @@
    "reward": "4 Yoni Crates"
   },
   {
-   "code": "CoralBlox",
-   "reward": "3 Void Tickets"
+   "code": "VOIDPART2",
+   "reward": "1 Void Ticket"
   },
   {
    "code": "JoinFix5",
    "reward": "30 Void Tickets"
   }
  ],
- "updated": "2026-09-19T20:29:31.028Z",
+ "updated": "2026-09-20T20:39:20.804Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

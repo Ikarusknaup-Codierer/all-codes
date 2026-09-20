@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "STOWERBUG",
+   "reward": "Task Points and 2,000 Tower Gems"
+  },
+  {
+   "code": "COILRIFT",
+   "reward": "1 Mythical Chest"
+  },
+  {
    "code": "NEXA",
    "reward": "a Star Lantern Egg"
   },
@@ -47,6 +55,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-09-19T20:25:38.584Z",
+ "updated": "2026-09-20T20:37:39.556Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

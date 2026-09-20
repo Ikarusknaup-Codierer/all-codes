@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SKILLTREE",
+   "reward": "3 Forge Shards , 1 Ancient Skill Scroll , 2 Magic Ores , 5 Enchant Sto"
+  },
+  {
    "code": "SKILLS",
    "reward": "3 Forge Shards , 1 Ancient Skill Scroll , 2 Magic Ores , 5 Enchant Sto"
   },
@@ -43,6 +47,6 @@
    "reward": "3 ForgeShards , an Ancient Skill Scrolls , 2 Magic Ores , 5 Enchant St"
   }
  ],
- "updated": "2026-09-19T20:31:30.935Z",
+ "updated": "2026-09-20T20:40:58.460Z",
  "source": "https://robloxden.com/game-codes/loot-up"
 }

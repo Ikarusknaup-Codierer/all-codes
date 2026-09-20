@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
+   "code": "Diamonds",
+   "reward": "50 Diamonds"
+  },
+  {
    "code": "2026",
    "reward": "50 Diamonds"
   },
   {
    "code": "SecretLab",
-   "reward": "50 Diamonds"
-  },
-  {
-   "code": "Diamonds",
    "reward": "50 Diamonds"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "Blue Flames"
   }
  ],
- "updated": "2026-09-19T20:25:59.964Z",
+ "updated": "2026-09-20T20:37:46.342Z",
  "source": "https://robloxden.com/game-codes/2-player-battle-tycoon"
 }

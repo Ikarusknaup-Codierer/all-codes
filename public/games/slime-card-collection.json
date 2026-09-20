@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EquipmentShop",
+   "reward": "1 Superplets Potion"
+  },
+  {
    "code": "Yummy",
    "reward": "1 Super Plerts Potion"
   },
@@ -59,6 +63,6 @@
    "reward": "2 Insta Hatch Tokens"
   }
  ],
- "updated": "2026-09-19T20:22:20.408Z",
+ "updated": "2026-09-20T20:37:06.755Z",
  "source": "https://robloxden.com/game-codes/slime-card-collection"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPD5",
+   "reward": "1 100,000x Luck Spin"
+  },
+  {
+   "code": "TIMESKIP",
+   "reward": "1,000 Shards"
+  },
+  {
    "code": "PRINCEDRACOIN",
    "reward": "3 Fortune Eggs"
   },
@@ -23,6 +31,6 @@
    "reward": "3 Dominus Eggs"
   }
  ],
- "updated": "2026-09-19T20:32:43.024Z",
+ "updated": "2026-09-20T20:41:58.216Z",
  "source": "https://robloxden.com/game-codes/ball-drop-game"
 }

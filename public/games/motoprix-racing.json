@@ -19,10 +19,6 @@
    "reward": "35K Cash"
   },
   {
-   "code": "NEXTUPDATE",
-   "reward": "5,000 Cash"
-  },
-  {
    "code": "GENTILDOMMY",
    "reward": "5k Cash"
   },
@@ -47,6 +43,10 @@
    "reward": "2.5k Cash"
   },
   {
+   "code": "NEXTUPDATE",
+   "reward": "5,000 Cash"
+  },
+  {
    "code": "CUSTOMIZATIONWHEN",
    "reward": "$3,050"
   },
@@ -55,6 +55,6 @@
    "reward": "15,555 Cash"
   }
  ],
- "updated": "2026-09-19T15:48:26.365Z",
+ "updated": "2026-09-20T20:35:32.896Z",
  "source": "https://robloxden.com/game-codes/motoprix-racing"
 }

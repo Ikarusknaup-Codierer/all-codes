@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PIRATEYARRR",
-   "reward": "100 Anchovy"
-  },
-  {
    "code": "ILOVEPRISM",
    "reward": "100 Coins"
   },
@@ -19,10 +15,14 @@
    "reward": "150 Anchovy"
   },
   {
+   "code": "PIRATEYARRR",
+   "reward": "100 Anchovy"
+  },
+  {
    "code": "NOMOREGUMDROP",
    "reward": "100 Coins"
   }
  ],
- "updated": "2026-09-19T20:33:20.510Z",
+ "updated": "2026-09-20T20:42:25.293Z",
  "source": "https://robloxden.com/game-codes/prism-runway-show"
 }

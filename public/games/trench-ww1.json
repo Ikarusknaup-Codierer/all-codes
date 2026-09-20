@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "STEELBOUNDSET",
+   "reward": "the Steelbound Helmet and the Visor"
+  },
+  {
+   "code": "JMTDECAYERS",
+   "reward": "400 Medals and a JMT Supporter Hat"
+  },
+  {
    "code": "DEFENSEWEEKENDBASH",
    "reward": "400 Medals"
   },
@@ -91,6 +99,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-09-18T11:01:22.157Z",
+ "updated": "2026-09-20T04:16:56.990Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

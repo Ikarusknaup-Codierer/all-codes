@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "CHRISTMAS25",
-   "reward": "10,000 Money"
+   "code": "EMERGENCY",
+   "reward": "XP Boost"
+  },
+  {
+   "code": "JULY4TH",
+   "reward": "Seasonal Reward Bundle"
+  },
+  {
+   "code": "RESPONDER",
+   "reward": "Currency Bonus"
   },
   {
    "code": "DISCORD150",
    "reward": "7k Money"
+  },
+  {
+   "code": "thehunt2024",
+   "reward": "4,000 Cash"
   }
  ],
- "updated": "2026-09-19T04:05:05.142Z",
+ "updated": "2026-09-20T04:35:11.449Z",
  "source": "https://robloxden.com/game-codes/emergency-hamburg"
 }

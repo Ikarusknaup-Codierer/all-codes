@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "newyear",
+   "code": "Christmas",
    "reward": "Free Rewards"
   },
   {
-   "code": "santa",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "piday",
+   "code": "ImSuperCool",
    "reward": "Free Rewards"
   },
   {
@@ -23,10 +19,14 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "media",
+   "code": "mocha",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "youtube",
+   "reward": "200 EXP And 150 Tokens"
   }
  ],
- "updated": "2026-09-19T04:04:01.160Z",
+ "updated": "2026-09-20T04:33:59.165Z",
  "source": "https://robloxden.com/game-codes/no-scope-arcade"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SPRING",
-   "reward": "3 Mythic Solo Keys And 100 Mythic Stones"
-  },
-  {
-   "code": "UPDATE10",
-   "reward": "3 Legendary Orbs Of Potential And 200 Gems"
-  },
-  {
-   "code": "FREEITEMS",
-   "reward": "3 Keys Of Potential And 100 Gems"
+   "code": "UPDATE1",
+   "reward": "3 Legendary Orbs of Potential and 200 Gems"
   },
   {
    "code": "UPDATE8",
    "reward": "3 Orbs of Potential and 250 Gems"
   },
   {
-   "code": "500LIKES",
-   "reward": "1 Random Potion Box, 1 Orb of Potential and 50 Gems"
+   "code": "FRIDAYUPD",
+   "reward": "3 Orbs of Potential"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "2 Random Potion Boxes and 50 Gems"
+  },
+  {
+   "code": "VALENTINES",
+   "reward": "200 Gems and 5 Valentine Tickets"
   }
  ],
- "updated": "2026-09-18T20:48:16.286Z",
+ "updated": "2026-09-20T04:25:02.667Z",
  "source": "https://robloxden.com/game-codes/anime-immortals"
 }

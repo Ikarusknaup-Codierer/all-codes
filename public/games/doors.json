@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "REPRESSED",
+   "reward": "10 Stardusts"
+  },
+  {
    "code": "CRUSADERS",
    "reward": "5 Stardusts"
   },
@@ -75,10 +79,10 @@
    "reward": "25 Doorknobs"
   },
   {
-   "code": "THREE",
-   "reward": "133 Doorknobs, 1 Revive and 1 Boost"
+   "code": "Pressure",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-18T11:01:52.628Z",
+ "updated": "2026-09-20T04:17:08.517Z",
  "source": "https://robloxden.com/game-codes/doors"
 }

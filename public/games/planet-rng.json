@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "100KVISITS",
+   "reward": "6 Potions"
+  },
+  {
+   "code": "200CCU",
+   "reward": "4 Potions"
+  },
+  {
+   "code": "ASTRAL",
+   "reward": "1 Potion"
+  },
+  {
+   "code": "5KMEMBERS!",
+   "reward": "1 Potion"
+  },
+  {
+   "code": "400KVISITS!",
+   "reward": "1 Potion"
+  },
+  {
    "code": "CELESTIAL",
    "reward": "5 Potions"
   },
@@ -15,6 +35,6 @@
    "reward": "5 Potions"
   }
  ],
- "updated": "2026-09-20T11:05:15.104Z",
+ "updated": "2026-09-21T21:57:37.059Z",
  "source": "https://robloxden.com/game-codes/planet-rng"
 }

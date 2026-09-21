@@ -19,10 +19,6 @@
    "reward": "350 Cash"
   },
   {
-   "code": "WorkshopBuff",
-   "reward": "350 Cash"
-  },
-  {
    "code": "Christmas23",
    "reward": "Rewards"
   },
@@ -55,6 +51,10 @@
    "reward": "500 Cash"
   },
   {
+   "code": "WorkshopBuff",
+   "reward": "350 Cash"
+  },
+  {
    "code": "Cloth",
    "reward": "350 Cash"
   },
@@ -79,6 +79,6 @@
    "reward": "$350"
   }
  ],
- "updated": "2026-09-20T11:06:39.200Z",
+ "updated": "2026-09-21T21:59:01.746Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

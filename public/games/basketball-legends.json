@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GAUNTLET",
+   "reward": "1 Summer Effect Case"
+  },
+  {
+   "code": "NEWSZN",
+   "reward": "1 Summer Skin Case"
+  },
+  {
    "code": "650KLIKES",
    "reward": "1,000 Coins"
   },
@@ -83,6 +91,6 @@
    "reward": "10,000 Coins"
   }
  ],
- "updated": "2026-09-20T11:03:55.277Z",
+ "updated": "2026-09-21T21:56:14.778Z",
  "source": "https://robloxden.com/game-codes/basketball-legends"
 }

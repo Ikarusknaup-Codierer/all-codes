@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "AUGUST",
-   "reward": "1 Nuke"
-  },
-  {
    "code": "JULY",
    "reward": "1 Small Nuke"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Boosters"
   },
   {
+   "code": "AUGUST",
+   "reward": "1 Nuke"
+  },
+  {
    "code": "LABELUPGRADES",
    "reward": "Free Small Nuke"
   }
  ],
- "updated": "2026-09-20T04:33:51.926Z",
+ "updated": "2026-09-21T21:51:44.021Z",
  "source": "https://robloxden.com/game-codes/world-roleplay"
 }

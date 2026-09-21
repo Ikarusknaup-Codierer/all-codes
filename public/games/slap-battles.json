@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "E4RTH",
-   "reward": "Rewards"
-  },
-  {
-   "code": "SPL4SH",
-   "reward": "1,000 Slaps"
-  },
-  {
    "code": "MUT4TE",
    "reward": "100 Null Shards"
   },
@@ -25,8 +17,16 @@
   {
    "code": "peppersfavoriteday",
    "reward": "199 Null Shards"
+  },
+  {
+   "code": "XMASDELAY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "BATDELAY",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-20T11:03:15.465Z",
+ "updated": "2026-09-21T21:55:34.036Z",
  "source": "https://robloxden.com/game-codes/slap-battles"
 }

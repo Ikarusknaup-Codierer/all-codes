@@ -23,14 +23,14 @@
    "reward": "100 Gold"
   },
   {
-   "code": "FREESKIN",
-   "reward": "Free"
+   "code": "FREEWEAPON",
+   "reward": "Free Random Weapon"
   },
   {
-   "code": "monday",
+   "code": "GOLDRUSH",
    "reward": "100"
   }
  ],
- "updated": "2026-09-20T11:07:59.063Z",
+ "updated": "2026-09-21T22:00:04.198Z",
  "source": "https://robloxden.com/game-codes/weapon-kit"
 }

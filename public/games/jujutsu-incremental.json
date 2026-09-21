@@ -5,8 +5,48 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "STARTERBONUS",
+   "reward": "50,000, Recovery Items and Starter Sword"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "100K Yen and 2x Exp (10 Minutes)"
+  },
+  {
+   "code": "400DISLIKES",
+   "reward": "Stick"
+  },
+  {
+   "code": "THANKYOUPATO",
+   "reward": "10 Rolls"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "The Unbound and Finger of Calamity Accessory"
+  },
+  {
+   "code": "ARC7",
+   "reward": "2x EXP for 30 minutes and 5 Rolls"
+  },
+  {
+   "code": "UZUMAKI",
+   "reward": "150K Yen and 5 Rolls"
+  },
+  {
+   "code": "REBIRTH",
+   "reward": "150,000 and 5 Rolls"
+  },
+  {
+   "code": "SECONDFORM",
+   "reward": "150,000 Yen and 10 Rolls"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "300,000 Yen and 15 Rolls"
   }
  ],
- "updated": "2026-09-20T11:05:13.058Z",
+ "updated": "2026-09-21T21:57:34.872Z",
  "source": "https://robloxden.com/game-codes/jujutsu-incremental"
 }

@@ -7,6 +7,50 @@
    "reward": "Description"
   },
   {
+   "code": "newgacha",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "contracts",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "assassin",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "bounty",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "sakamoto",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "update4",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "shutdownandfixes",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "Sorryforshutdown11",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "Sorryforshutdown10",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "70kfavs",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
+   "code": "welcome",
+   "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
+  },
+  {
    "code": "67kfav",
    "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
   },
@@ -455,6 +499,6 @@
    "reward": "Potions , 250 F2P Tickets , and a Commander Sword"
   }
  ],
- "updated": "2026-09-20T11:06:04.265Z",
+ "updated": "2026-09-21T21:58:29.101Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

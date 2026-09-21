@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "GROWBIGTREES",
+   "reward": "2 Dragon Stone Mix"
+  },
+  {
    "code": "LAUNCH",
    "reward": "a 5K Coin and 100 Gems"
+  },
+  {
+   "code": "50KVISITS",
+   "reward": "250 Gems and 1 Dragon Stone Mix"
+  },
+  {
+   "code": "JOINTHEDISCORD",
+   "reward": "500 Gems"
   }
  ],
- "updated": "2026-09-20T11:05:15.618Z",
+ "updated": "2026-09-21T21:57:38.754Z",
  "source": "https://robloxden.com/game-codes/grow-a-bonsai"
 }

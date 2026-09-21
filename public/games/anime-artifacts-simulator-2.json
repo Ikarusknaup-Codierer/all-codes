@@ -11,11 +11,7 @@
    "reward": "2x Crystal Boost"
   },
   {
-   "code": "1000Likes",
-   "reward": "2x Gold Boost"
-  },
-  {
-   "code": "Halloween",
+   "code": "Christmas",
    "reward": "Free Boosts"
   },
   {
@@ -25,8 +21,12 @@
   {
    "code": "Bleach",
    "reward": "2x Crystal Boost"
+  },
+  {
+   "code": "10KLikes",
+   "reward": "2 10 Minute 2x Gold Boosts"
   }
  ],
- "updated": "2026-09-20T11:04:55.262Z",
+ "updated": "2026-09-21T21:57:16.721Z",
  "source": "https://robloxden.com/game-codes/anime-artifacts-simulator-2"
 }

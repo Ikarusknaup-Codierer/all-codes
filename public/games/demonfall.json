@@ -15,14 +15,14 @@
    "reward": "3,000 Gold and 200 Guild Exp"
   },
   {
-   "code": "150KLIKES",
-   "reward": "1 Combat Potion"
-  },
-  {
    "code": "100KLIKES",
    "reward": "1 Muzan Blood and 1 Breathing Indict"
+  },
+  {
+   "code": "!MAINTENANCE",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-20T11:07:48.604Z",
+ "updated": "2026-09-21T21:59:59.835Z",
  "source": "https://robloxden.com/game-codes/demonfall"
 }

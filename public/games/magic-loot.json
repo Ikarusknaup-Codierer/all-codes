@@ -15,18 +15,18 @@
    "reward": "a Clever Cat"
   },
   {
-   "code": "TRAININGFIX",
-   "reward": "a Training Potion and a Super Training Potion"
-  },
-  {
    "code": "PETPARTY",
    "reward": "150 Pet Coins and 10 Tin Cans"
+  },
+  {
+   "code": "TRAININGFIX",
+   "reward": "a Training Potion and a Super Training Potion"
   },
   {
    "code": "DRAGONROAR",
    "reward": "30 Dragon Scales"
   }
  ],
- "updated": "2026-09-20T11:05:34.157Z",
+ "updated": "2026-09-21T21:57:57.604Z",
  "source": "https://robloxden.com/game-codes/magic-loot"
 }

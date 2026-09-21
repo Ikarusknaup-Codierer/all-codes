@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "saturn",
-   "reward": "the La Vacca Saturno Saturnita"
-  },
-  {
    "code": "Sammy",
    "reward": "a Reward"
   },
@@ -25,8 +21,12 @@
   {
    "code": "SUMMERUPD3",
    "reward": "Rocketini Frostini (75%) or Frullato Framingo (25%)"
+  },
+  {
+   "code": "FREEOCTOBLOCK777",
+   "reward": "Octo Lucky Block"
   }
  ],
- "updated": "2026-09-20T11:05:06.271Z",
+ "updated": "2026-09-21T21:57:28.045Z",
  "source": "https://robloxden.com/game-codes/steal-a-brainrot"
 }

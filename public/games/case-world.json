@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "700kvisits",
+   "reward": "6,700 Money . You must be level 35 to redeem this code"
+  },
+  {
    "code": "550kvisits",
    "reward": "5,000 Cash . You must be level 40 to redeem this code"
   },
@@ -29,6 +33,10 @@
   {
    "code": "Release",
    "reward": "100 Cash"
+  },
+  {
+   "code": "monsterontop",
+   "reward": "Rewards . You must be level 15 to redeem this code"
   },
   {
    "code": "600kvisits",
@@ -55,6 +63,6 @@
    "reward": "5,000 Cash . You must be level 20 to redeem this code"
   }
  ],
- "updated": "2026-09-19T20:34:41.770Z",
+ "updated": "2026-09-21T04:15:19.411Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

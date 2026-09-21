@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ASTRAL",
+   "reward": "3 Refined Health Potions and a 30 Minute Gem Booster"
+  },
+  {
    "code": "ACADEMY",
    "reward": "5 Greater Health Potions , 1 Cappuccino and a Gem Booster (1 Hour)"
   },
@@ -87,6 +91,6 @@
    "reward": "5 Distilled Health Potion and Sparkler Aura"
   }
  ],
- "updated": "2026-09-20T04:20:14.795Z",
+ "updated": "2026-09-21T04:21:29.203Z",
  "source": "https://robloxden.com/game-codes/dungeon-heroes"
 }

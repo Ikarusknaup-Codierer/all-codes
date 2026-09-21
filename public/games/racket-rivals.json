@@ -11,6 +11,14 @@
    "reward": "a 200 Yen , a Spirit Pack , 2 Standard Packs , a Rackets Pack , and a "
   },
   {
+   "code": "SEASON5",
+   "reward": "750 Yen"
+  },
+  {
+   "code": "RANKED5",
+   "reward": "750 Yen"
+  },
+  {
    "code": "CASTLE",
    "reward": "1,500 Yen"
   },
@@ -63,6 +71,6 @@
    "reward": "1,000 Yen"
   }
  ],
- "updated": "2026-09-19T20:38:25.479Z",
+ "updated": "2026-09-21T04:18:11.927Z",
  "source": "https://robloxden.com/game-codes/racket-rivals"
 }

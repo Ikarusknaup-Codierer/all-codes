@@ -27,14 +27,14 @@
    "reward": "500 Coins"
   },
   {
-   "code": "UPDATEONE",
+   "code": "RELEASE",
    "reward": "500 Coins"
   },
   {
-   "code": "NEWUPDATE",
+   "code": "UPDATEONE",
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-20T04:25:36.481Z",
+ "updated": "2026-09-21T12:29:05.357Z",
  "source": "https://robloxden.com/game-codes/craft-tower-defense"
 }

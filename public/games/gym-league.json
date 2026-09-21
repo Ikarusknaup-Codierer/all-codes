@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "blizzardeventfix",
-   "reward": "20 Candy Canes, 20 Gingerbreads, And 20 Protein Ham"
-  },
-  {
    "code": "update31",
    "reward": "5 Breakfast Of Champions, 5 Warriors Lunch, And 5 Dinner Of Legends"
   },
@@ -195,10 +191,10 @@
    "reward": "10 Breakfasts Of Champions, 10 Warriors Lunches, And 10 Dinners Of Leg"
   },
   {
-   "code": "HugeUpdateSoon",
-   "reward": "2 Cash Fruits"
+   "code": "blizzardeventfix",
+   "reward": "20 Candy Canes, 20 Gingerbreads, And 20 Protein Ham"
   }
  ],
- "updated": "2026-09-20T04:24:00.863Z",
+ "updated": "2026-09-21T12:28:08.122Z",
  "source": "https://robloxden.com/game-codes/gym-league"
 }

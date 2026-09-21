@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PocketOfStars",
+   "reward": "15 Trait Rerolls , and 5 Race Rerolls"
+  },
+  {
+   "code": "GrandBlueCode",
+   "reward": "1,250 Celestial Coins"
+  },
+  {
    "code": "CelestialBlessing",
    "reward": "1,000 Celestial Coins"
   },
@@ -31,6 +39,6 @@
    "reward": "10 Trait Rerolls and 5 Race Rerolls"
   }
  ],
- "updated": "2026-09-20T04:29:33.320Z",
+ "updated": "2026-09-21T12:31:25.700Z",
  "source": "https://robloxden.com/game-codes/grand-blue"
 }

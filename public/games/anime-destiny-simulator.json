@@ -27,10 +27,14 @@
    "reward": "1 Energy Potion and 1 Yen Potion"
   },
   {
-   "code": "UPDATE5",
+   "code": "UPDATE2",
+   "reward": "One Energy Potion And One Luck Potion"
+  },
+  {
+   "code": "2MVISITS",
    "reward": "Potions"
   }
  ],
- "updated": "2026-09-20T04:26:05.258Z",
+ "updated": "2026-09-21T12:29:21.630Z",
  "source": "https://robloxden.com/game-codes/anime-destiny-simulator"
 }

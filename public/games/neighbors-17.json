@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "ANNIVERSARY",
+   "reward": "200 Credits"
+  },
+  {
    "code": "XMAS",
    "reward": "100 Credits"
   },
   {
-   "code": "WINTER24",
-   "reward": "100 Credits"
+   "code": "AUTUMN24",
+   "reward": "Leaf Blower Skin"
   },
   {
-   "code": "100K",
-   "reward": "100 Credits"
+   "code": "HALLOWEEN",
+   "reward": "150 Credits"
   },
   {
-   "code": "LABORDAY",
-   "reward": "125 Credits"
-  },
-  {
-   "code": "BACKTOSCHOOL",
-   "reward": "100 Credits"
+   "code": "200K",
+   "reward": "200 Credits"
   }
  ],
- "updated": "2026-09-20T04:27:43.998Z",
+ "updated": "2026-09-21T12:30:18.383Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

@@ -59,14 +59,14 @@
    "reward": "Stat Reset"
   },
   {
-   "code": "Shutdown",
-   "reward": "Reward"
+   "code": "12KLikesSPReset",
+   "reward": "Stat Points Reset"
   },
   {
-   "code": "AnotherShutdown",
+   "code": "LikesCode",
    "reward": "Reward"
   }
  ],
- "updated": "2026-09-20T04:33:16.307Z",
+ "updated": "2026-09-21T12:34:02.050Z",
  "source": "https://robloxden.com/game-codes/striker-odyssey"
 }

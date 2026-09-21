@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MEDIEVAL",
+   "reward": "a 1 Limited Time Crate"
+  },
+  {
    "code": "BUBBLETROUBLE",
    "reward": "Bubble Trouble"
   },
@@ -131,14 +135,14 @@
    "reward": "1 Green Crate . This code requires you to join the Arcade Basketball R"
   },
   {
-   "code": "FRIDAYFRIDAY",
-   "reward": "250 Coins"
+   "code": "MAYHEM",
+   "reward": "10 Normal Tickets"
   },
   {
-   "code": "VFXCRATE",
-   "reward": "1 Lucky Badge Reroll"
+   "code": "BADGESPIN",
+   "reward": "One Lucky Badge Roll"
   }
  ],
- "updated": "2026-09-20T04:25:38.665Z",
+ "updated": "2026-09-21T12:29:07.392Z",
  "source": "https://robloxden.com/game-codes/arcade-basketball"
 }

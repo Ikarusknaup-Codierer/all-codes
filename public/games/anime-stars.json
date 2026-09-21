@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "4MVISITS",
+   "reward": "3 Ninja Chests , 10 Summons , 3 Premium Summons , 1 Power Potion , 1 D"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "2 Capsule Chests , 3 Ninja Chests , 15 Summons , 5 Premium Summons , 2"
+  },
+  {
    "code": "SHARDFIX2",
    "reward": "2 Double Power Potions , 2 Double Damage Potions , 2 Double Coins Poti"
   },
@@ -79,6 +87,6 @@
    "reward": "5 Summons , 2 Damage Potions , and 1 Golden Knight Chestplate"
   }
  ],
- "updated": "2026-09-20T04:30:42.059Z",
+ "updated": "2026-09-21T12:31:50.477Z",
  "source": "https://robloxden.com/game-codes/anime-stars"
 }

@@ -11,22 +11,22 @@
    "reward": "50 Wins"
   },
   {
-   "code": "Valentine",
+   "code": "SORRYSHUT1",
+   "reward": "Double Power Boost (15 Minutes)"
+  },
+  {
+   "code": "BugsSquashed",
    "reward": "Double Power Boost (10 Minutes)"
   },
   {
-   "code": "Kolapo",
-   "reward": "Double Coins Boost (5 Minutes)"
-  },
-  {
-   "code": "SisterGuard",
-   "reward": "Super Luck Boost (15 Minutes)"
+   "code": "Holiday",
+   "reward": "Double Coins Boost (15 Minutes)"
   },
   {
    "code": "FeelingLucky",
    "reward": "Super Luck Boost (5 Minutes)"
   }
  ],
- "updated": "2026-09-21T12:30:45.491Z",
+ "updated": "2026-09-22T21:09:16.834Z",
  "source": "https://robloxden.com/game-codes/missile-simulator"
 }

@@ -31,10 +31,14 @@
    "reward": "+10 Walk Speed"
   },
   {
-   "code": "Meteors",
-   "reward": "50 Crystals"
+   "code": "Speed",
+   "reward": ""
+  },
+  {
+   "code": "Volcano",
+   "reward": "Some Crystals"
   }
  ],
- "updated": "2026-09-21T12:32:39.177Z",
+ "updated": "2026-09-22T21:11:21.669Z",
  "source": "https://robloxden.com/game-codes/mineral-war-tycoon"
 }

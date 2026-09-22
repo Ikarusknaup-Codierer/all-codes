@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "!keepthisuntillevel600",
+   "reward": "8 Spins of all types"
+  },
+  {
+   "code": "!junglefinallydropped",
+   "reward": "Spins of all types . You need to reach Level 60 to use this code"
+  },
+  {
    "code": "!wspainplusdelay",
    "reward": "250 Spins of all types , 1 Race Storage , and 1 Trait Storage . You mu"
   },
@@ -51,6 +59,6 @@
    "reward": "Free Spins. You must be at least level 43 to redeem this code"
   }
  ],
- "updated": "2026-09-21T12:31:32.318Z",
+ "updated": "2026-09-22T21:10:09.518Z",
  "source": "https://robloxden.com/game-codes/clover-retribution"
 }

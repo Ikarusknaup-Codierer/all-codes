@@ -7,20 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "coreforce",
-   "reward": "5 Power Potion and 10 Apple Fruit"
-  },
-  {
    "code": "shadowpair",
    "reward": "2 Void Egg"
   },
   {
    "code": "oldtimer",
    "reward": "5 Timeless Egg"
-  },
-  {
-   "code": "timevault",
-   "reward": "10 Timeless Egg"
   },
   {
    "code": "riftvault",
@@ -107,6 +99,10 @@
    "reward": "5 Luck Potion and 10 Carrot Fruit"
   },
   {
+   "code": "coreforce",
+   "reward": "5 Power Potion and 10 Apple Fruit"
+  },
+  {
    "code": "goldpeel",
    "reward": "5 Cash Potion and 10 Banana Fruit"
   },
@@ -117,8 +113,12 @@
   {
    "code": "shadowegg",
    "reward": "1 Void Egg"
+  },
+  {
+   "code": "timevault",
+   "reward": "10 Timeless Egg"
   }
  ],
- "updated": "2026-09-20T15:53:41.746Z",
+ "updated": "2026-09-22T04:18:54.094Z",
  "source": "https://robloxden.com/game-codes/football-training"
 }

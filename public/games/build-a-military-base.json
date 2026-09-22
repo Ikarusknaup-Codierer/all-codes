@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ZUMWALT",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "155000LIKES",
    "reward": "1 Premium Crate"
   },
@@ -29,6 +33,18 @@
   {
    "code": "LOGI",
    "reward": "a Logistics Warehouse"
+  },
+  {
+   "code": "DAWG",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "TITLES",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "TEAMCOLORS",
+   "reward": "1 Premium Crate"
   },
   {
    "code": "EMERGENCYFIX",
@@ -71,6 +87,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-09-20T15:53:30.999Z",
+ "updated": "2026-09-22T04:18:43.360Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

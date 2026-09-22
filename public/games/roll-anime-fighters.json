@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Expeditions",
+   "reward": "1 Crafting Material, 3 Luck Potions, 5 Coin Potions, 15 Aura Tokens, 1"
+  },
+  {
+   "code": "TowerRework",
+   "reward": "100K Infinity Tokens"
+  },
+  {
    "code": "Crafting",
    "reward": "65 Crafting Materials , 35 Trait Tokens and 35 Aura Tokens"
   },
@@ -15,22 +23,18 @@
    "reward": "5 Luck Potions , 5 Coins Potions , 5 Ultra Luck Potions , 2 Shiny Roll"
   },
   {
-   "code": "1KLikes",
-   "reward": "5 Luck Potions , 5 Coins Potions , 5 Drop Potions , 25 Pizza , 2 Shiny"
-  },
-  {
    "code": "ShopTokens",
    "reward": "Rewards"
   },
   {
-   "code": "Boss",
-   "reward": "25 Aura Tokens and 25 Trait Tokens"
+   "code": "1KLikes",
+   "reward": "5 Luck Potions , 5 Coins Potions , 5 Drop Potions , 25 Pizza , 2 Shiny"
   },
   {
-   "code": "Traits",
-   "reward": "25 Trait Tokens, 25 Burgers, 5 Coin Potions and 1 Shiny Dice"
+   "code": "Boss",
+   "reward": "25 Aura Tokens and 25 Trait Tokens"
   }
  ],
- "updated": "2026-09-20T15:54:28.037Z",
+ "updated": "2026-09-22T04:19:42.624Z",
  "source": "https://robloxden.com/game-codes/roll-anime-fighters"
 }

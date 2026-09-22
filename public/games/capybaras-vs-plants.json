@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORBUGS2",
+   "reward": "1 Gold Scroll Sack"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "250K Cash, 1 Raygun and 2 Slice of Loaves"
+  },
+  {
+   "code": "40MVISITS",
+   "reward": "250K Cash, 1 Gilded Hatch Hammer and 1 Totem Of Experience"
+  },
+  {
+   "code": "700KFAVS",
+   "reward": "100K Cash and 1 Totem Of Stars"
+  },
+  {
    "code": "SORRYFORBUGS",
    "reward": "1 Gold Scroll Sack"
   },
@@ -63,6 +79,6 @@
    "reward": "100K Cash, 1 Wealth Totem and 1 Fortune Totem"
   }
  ],
- "updated": "2026-09-20T15:50:06.856Z",
+ "updated": "2026-09-22T04:15:11.259Z",
  "source": "https://robloxden.com/game-codes/capybaras-vs-plants"
 }

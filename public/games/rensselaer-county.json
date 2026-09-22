@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CUSTOMIZE",
-   "reward": "35,000 Cash"
-  },
-  {
    "code": "USA250",
    "reward": "10,250 Cash"
   },
@@ -23,10 +19,14 @@
    "reward": "35,000 Cash"
   },
   {
+   "code": "NEWYEARS2026",
+   "reward": ""
+  },
+  {
    "code": "2025EASTER",
    "reward": ""
   }
  ],
- "updated": "2026-09-20T20:38:28.400Z",
+ "updated": "2026-09-22T04:25:00.431Z",
  "source": "https://robloxden.com/game-codes/rensselaer-county"
 }

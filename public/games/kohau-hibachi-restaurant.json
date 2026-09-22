@@ -15,18 +15,18 @@
    "reward": "15 Sushi Rolls"
   },
   {
-   "code": "SummerKey",
-   "reward": "500 Sushi Rolls"
-  },
-  {
    "code": "Party",
    "reward": "10 Sushi Rolls"
   },
   {
    "code": "Bakery",
    "reward": "Bakery Rewards"
+  },
+  {
+   "code": "Onigiri",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-09-20T15:52:03.733Z",
+ "updated": "2026-09-22T04:17:10.113Z",
  "source": "https://robloxden.com/game-codes/kohau-hibachi-restaurant"
 }

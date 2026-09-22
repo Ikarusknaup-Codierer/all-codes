@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "TowerFixed",
+   "reward": "2,000 Gems , 30 Trait Rerolls , and 65 Scorpion Tokens"
+  },
+  {
+   "code": "RBD!",
+   "reward": "2,000 Gold , 10 Azure Remnants , and 5 Violet Remnants"
+  },
+  {
+   "code": "AuraMonster",
+   "reward": "1,111 Gems , 11 Trait Rerolls , and 11 Stat Prisms"
+  },
+  {
+   "code": "Update1",
+   "reward": "10 Trait Rerolls , 10 Perfect Stat Prisms , and 10 Stat Prisms"
+  },
+  {
    "code": "Origins",
    "reward": "20 Stat Prisms and 10 Perfect Stat Prisms"
   },
@@ -43,6 +59,6 @@
    "reward": "10 Trait Rerolls , 5 Perfect Stat Prisms , 5 Stat Prisms , and 850 Gem"
   }
  ],
- "updated": "2026-09-20T15:48:54.008Z",
+ "updated": "2026-09-22T04:13:57.406Z",
  "source": "https://robloxden.com/game-codes/anime-origins"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "380K",
-   "reward": "100% Coins (1 hour) and 100% Gems (1 hour)"
-  },
-  {
    "code": "SummerTrials",
    "reward": "2 Box Trial Pass"
   },
@@ -35,6 +31,10 @@
    "reward": "a 1 Hour Hatch Drop Boost"
   },
   {
+   "code": "380K",
+   "reward": "100% Coins (1 hour) and 100% Gems (1 hour)"
+  },
+  {
    "code": "VeyaramaoBiano",
    "reward": "15% Hatch Speed (20 Minutes)"
   },
@@ -47,6 +47,6 @@
    "reward": "190 Coins , 375 Gems , 100% Attack Speed (60 Minutes) , and 100% Gems "
   }
  ],
- "updated": "2026-09-20T11:07:10.089Z",
+ "updated": "2026-09-22T04:11:04.300Z",
  "source": "https://robloxden.com/game-codes/unboxing-simulator"
 }

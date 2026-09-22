@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "CCU500",
+   "reward": "Rune potions"
+  },
+  {
+   "code": "LIKES1000",
+   "reward": "Tier Luck, Speed and Bulk Potion (10 Minutes)"
+  },
+  {
+   "code": "CODE10T",
+   "reward": "10 Tickets"
   }
  ],
- "updated": "2026-09-20T15:53:34.340Z",
+ "updated": "2026-09-22T04:18:46.742Z",
  "source": "https://robloxden.com/game-codes/freddy-incremental"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ARTIFACTS",
+   "reward": "250 of every fragment , 1,000 Cursed Orbs , 1,000 Heavenly Fruit , and"
+  },
+  {
+   "code": "UPDATE102",
+   "reward": "3,000 Cursed Orbs , 3,000 Heavenly Fruit and 50x of every boost"
+  },
+  {
+   "code": "LIMITBREAK",
+   "reward": "300 Requiem Tokens , 300 Passive Tokens , 1,500 Cursed Orbs , 1,500 He"
+  },
+  {
    "code": "UPDATE101",
    "reward": "3,000 Cursed Orbs , 3,000 Heavenly Fruits , and 50 of Every Boost"
   },
@@ -313,12 +325,8 @@
   {
    "code": "OPCODE1",
    "reward": "5 Mega Boosts , 100 Wistoria Shards , 150 Passive Tokens , 200 Requiem"
-  },
-  {
-   "code": "Pog125k",
-   "reward": ""
   }
  ],
- "updated": "2026-09-20T15:51:11.952Z",
+ "updated": "2026-09-22T04:16:19.120Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

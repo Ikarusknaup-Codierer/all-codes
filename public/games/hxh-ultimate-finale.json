@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "TERRA",
-   "reward": "1 Affinity Spin"
+   "code": "STAN",
+   "reward": "1 Common Spin"
   },
   {
-   "code": "SORRY",
+   "code": "TELBRIEG",
+   "reward": "1 Uncommon Hatsu Spin"
+  },
+  {
+   "code": "DROPTHEGAME",
+   "reward": "1 Uncommon New Reroll"
+  },
+  {
+   "code": "THEDELAYGOD",
    "reward": "1 Clan Reroll"
   },
   {
-   "code": "CMONVEDDEN",
-   "reward": "1 Lucky New Reroll"
-  },
-  {
-   "code": "SCAMXSCAM",
-   "reward": "1 Clan Reroll"
-  },
-  {
-   "code": "REFUNDURMOM",
-   "reward": "1 Rare Hatsu Reroll"
+   "code": "MYBADBRUH",
+   "reward": "1 Rare Spin"
   }
  ],
- "updated": "2026-09-20T15:47:31.915Z",
+ "updated": "2026-09-22T04:12:20.123Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

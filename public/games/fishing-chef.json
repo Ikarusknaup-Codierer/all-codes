@@ -23,27 +23,11 @@
    "reward": "2x Server Luck (15 Minutes)"
   },
   {
-   "code": "MOONSURGE4T9",
-   "reward": "4x Server Luck (15 Minutes)"
-  },
-  {
-   "code": "Bamboo5",
-   "reward": "5 Bamboo Fences"
-  },
-  {
    "code": "Smallsip1",
    "reward": "a Small Luck Potion (+50% for 15 mins)"
   },
   {
-   "code": "Serverboost2x",
-   "reward": "Server x2 Luck Boost Time (15 mins)"
-  },
-  {
    "code": "Lucksip2",
-   "reward": "a +50% Luck Potion (15 mins)"
-  },
-  {
-   "code": "Lucksip1",
    "reward": "a +50% Luck Potion (15 mins)"
   },
   {
@@ -51,14 +35,10 @@
    "reward": "a Server Luck 2x Boost (15 mins)"
   },
   {
-   "code": "SIXSEVEN",
-   "reward": "67 Cash"
-  },
-  {
    "code": "Cash5k",
    "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-09-20T15:48:26.235Z",
+ "updated": "2026-09-22T04:13:34.493Z",
  "source": "https://robloxden.com/game-codes/fishing-chef"
 }

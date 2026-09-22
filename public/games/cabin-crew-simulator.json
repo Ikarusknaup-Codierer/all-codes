@@ -11,10 +11,6 @@
    "reward": "1,776 Skybux"
   },
   {
-   "code": "seniac",
-   "reward": "0 Skybux"
-  },
-  {
    "code": "400m",
    "reward": "4,000 Skybux"
   },
@@ -71,14 +67,14 @@
    "reward": "2,000 Skybux"
   },
   {
-   "code": "jetway",
-   "reward": "1,300 SkyBux"
+   "code": "seniac",
+   "reward": "0 Skybux"
   },
   {
    "code": "mission",
    "reward": "1,500 SkyBux"
   }
  ],
- "updated": "2026-09-20T15:48:52.907Z",
+ "updated": "2026-09-22T04:13:56.216Z",
  "source": "https://robloxden.com/game-codes/cabin-crew-simulator"
 }

@@ -7,12 +7,24 @@
    "reward": "Description"
   },
   {
-   "code": "SorryForWishingWellBug",
-   "reward": "2x Omega Potion , 20x Eternity Potion , 30x Star Potion , and 700x For"
+   "code": "Division3",
+   "reward": "3 Portion of Calamit, 30 Eternity Potion and Omega 15 Portion"
   },
   {
-   "code": "Division3Soon",
-   "reward": "a Potion of Calamity , 3 Awakening Potions , 2 Omega Potions and 100 F"
+   "code": "NewMaps!",
+   "reward": "20 Eternity Potions, 3 Awakening Potions and 3K Lucky Potions"
+  },
+  {
+   "code": "Cave",
+   "reward": "20 Starlight Potion, 40 Star Potion and 150 Fortune Potion"
+  },
+  {
+   "code": "GearForge",
+   "reward": "1 Omega Potion, 2 Awakening Potion, 20 Star Potions 100 Fortune Potion"
+  },
+  {
+   "code": "CaveHunter",
+   "reward": "3 Eternity Potions, 4 Starlight Potion, 25 Star Potions, 100 Fortune P"
   },
   {
    "code": "3100Likes",
@@ -107,10 +119,14 @@
    "reward": "40 Starlight Potions 80 Star Potions and 10 Eternity Potions"
   },
   {
-   "code": "Thx100kVisits",
-   "reward": ""
+   "code": "SorryForWishingWellBug",
+   "reward": "2x Omega Potion , 20x Eternity Potion , 30x Star Potion , and 700x For"
+  },
+  {
+   "code": "Division3Soon",
+   "reward": "a Potion of Calamity , 3 Awakening Potions , 2 Omega Potions and 100 F"
   }
  ],
- "updated": "2026-09-20T15:52:45.959Z",
+ "updated": "2026-09-22T04:17:57.030Z",
  "source": "https://robloxden.com/game-codes/azaras-rng"
 }

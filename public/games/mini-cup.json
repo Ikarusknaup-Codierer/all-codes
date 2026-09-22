@@ -11,24 +11,12 @@
    "reward": "2 Diamond Packs , 2 Galactic Packs , and 1 Rainbow Pack"
   },
   {
-   "code": "SECRETCODE",
-   "reward": "2 Galactic Packs"
-  },
-  {
-   "code": "Thx5mil",
-   "reward": "2 Gold Packs , 3 Diamond Packs and 2 Galactic Packs"
-  },
-  {
    "code": "Update4",
    "reward": "3 Gold Packs 2 Diamond Packs and a Galactic Pack"
   },
   {
    "code": "Update3",
    "reward": "3 Gold Packs and 2 Diamond Packs"
-  },
-  {
-   "code": "Update2",
-   "reward": "3 Gold Packs and a Diamond Pack"
   },
   {
    "code": "THX1MIL",
@@ -39,10 +27,22 @@
    "reward": "5 Wood Packs and 2 Stone Packs"
   },
   {
+   "code": "SECRETCODE",
+   "reward": "2 Galactic Packs"
+  },
+  {
+   "code": "Thx5mil",
+   "reward": "2 Gold Packs , 3 Diamond Packs and 2 Galactic Packs"
+  },
+  {
+   "code": "Update2",
+   "reward": "3 Gold Packs and a Diamond Pack"
+  },
+  {
    "code": "UPDATE1",
    "reward": "2 Gold Packs and 1 Diamond Pack"
   }
  ],
- "updated": "2026-09-20T15:53:43.974Z",
+ "updated": "2026-09-22T04:18:56.427Z",
  "source": "https://robloxden.com/game-codes/mini-cup"
 }

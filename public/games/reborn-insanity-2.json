@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MINING",
+   "reward": "50 Race Rerolls"
+  },
+  {
    "code": "SectBuilding",
    "reward": "50,000 Aether Pearls"
   },
@@ -35,6 +39,6 @@
    "reward": "3 Race Rerolls and 3 Spirit Root Rerolls"
   }
  ],
- "updated": "2026-09-20T15:53:22.165Z",
+ "updated": "2026-09-22T04:18:33.657Z",
  "source": "https://robloxden.com/game-codes/reborn-insanity-2"
 }

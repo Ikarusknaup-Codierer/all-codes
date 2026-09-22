@@ -15,10 +15,6 @@
    "reward": "30 Gems , 5 Luck Potions , 5 Speed Potions and 5 Bulk Potions"
   },
   {
-   "code": "Treasure",
-   "reward": "rewards . Use this code in the second code redemption section"
-  },
-  {
    "code": "SORRYFORBUGS",
    "reward": "5 of all Potions and 30 Diamonds"
   },
@@ -33,8 +29,12 @@
   {
    "code": "RELEASE",
    "reward": "5 of all Potions and 20 Diamonds"
+  },
+  {
+   "code": "Treasure",
+   "reward": "rewards . Use this code in the second code redemption section"
   }
  ],
- "updated": "2026-09-20T20:42:22.173Z",
+ "updated": "2026-09-22T11:25:18.634Z",
  "source": "https://robloxden.com/game-codes/treasure-incremental"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FIRE50K",
+   "reward": "1 Pink Star Food and 1 VVIP Damage Potion"
+  },
+  {
+   "code": "MAGMARISE",
+   "reward": "5 Lucky Tickets and 100% Crit Potion"
+  },
+  {
    "code": "SIRENSONG",
    "reward": "Free Rewards"
   },
@@ -115,10 +123,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "NEWYEAR2026!",
-   "reward": "Potions"
+   "code": "GALAXY",
+   "reward": "150 Gems and a 15-Minute Luck Boost"
   }
  ],
- "updated": "2026-09-20T20:40:11.152Z",
+ "updated": "2026-09-22T11:23:13.073Z",
  "source": "https://robloxden.com/game-codes/hunt-giant-fish"
 }

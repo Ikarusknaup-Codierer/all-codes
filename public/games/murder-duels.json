@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
-   "reward": "1,000 Coins . You must be at least level 5 to redeem this code"
-  },
-  {
    "code": "210KLIKES",
    "reward": "a Recruit Case"
   },
@@ -77,8 +73,12 @@
   {
    "code": "MATCHMAKINGDELAY",
    "reward": "1 Recruit Case"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Coins . You must be at least level 5 to redeem this code"
   }
  ],
- "updated": "2026-09-20T20:38:04.204Z",
+ "updated": "2026-09-22T11:21:14.538Z",
  "source": "https://robloxden.com/game-codes/murder-duels"
 }

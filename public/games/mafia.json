@@ -15,6 +15,10 @@
    "reward": "200 Credits"
   },
   {
+   "code": "ONEYEAR",
+   "reward": "150 Credits , 10 Tokens , and 300 XP"
+  },
+  {
    "code": "eclipses",
    "reward": "Credits , Tokens , and XP"
   },
@@ -23,6 +27,6 @@
    "reward": "Credits , Tokens , and XP"
   }
  ],
- "updated": "2026-09-20T20:36:27.968Z",
+ "updated": "2026-09-22T11:19:31.927Z",
  "source": "https://robloxden.com/game-codes/mafia"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SUBARU",
+   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "GUILDBATTLES",
+   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "WORLDBOSS",
+   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
    "code": "ZOLTRAAK",
    "reward": "250,000 Coins, 15 Raid Tickets, 20 Trait Rerolls, 15 Lucky Ability Spi"
   },
@@ -37,6 +49,18 @@
   {
    "code": "SOUL",
    "reward": "20 Trait Rolls , 250 Summer Coins , 20 Lucky Ability Spins , 15 Lucky "
+  },
+  {
+   "code": "ILOVESENIOR",
+   "reward": "100 Lucky Ability Spins"
+  },
+  {
+   "code": "HOTFIXESARECUTE",
+   "reward": "100 Lucky Ability Spins"
+  },
+  {
+   "code": "SORRYFORDMGNERF",
+   "reward": "250,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
   },
   {
    "code": "THANKYOUFOR70KINTERESTED",
@@ -139,6 +163,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-09-20T20:34:39.472Z",
+ "updated": "2026-09-22T11:17:36.629Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

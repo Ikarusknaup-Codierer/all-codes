@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DELAYAPOLOGYEVOLVE",
+   "reward": "200 Runes , 1 Item Blood Chain , and 3M Gold"
+  },
+  {
+   "code": "SOULREAPEREVOLUTION",
+   "reward": "1.5M Coins, 80 Lucky Weapon Spins, 85 Lucky Gear Spins, 50 Raid Ticket"
+  },
+  {
    "code": "BIGBUGFIXUPDATE",
    "reward": "100 Gear Lucky Spins , 100 Weapon Lucky Spins , 1,500,000 Gold , 150 R"
   },
@@ -183,6 +191,6 @@
    "reward": "50 Runes"
   }
  ],
- "updated": "2026-09-20T20:37:51.765Z",
+ "updated": "2026-09-22T11:21:00.905Z",
  "source": "https://robloxden.com/game-codes/anime-final-quest"
 }

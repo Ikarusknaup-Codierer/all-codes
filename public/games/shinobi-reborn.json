@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "5MVISITS",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "WEEKENDFIXES",
+   "reward": "100 Spins"
+  },
+  {
    "code": "20KMEMBERS",
    "reward": "250 Spins"
   },
@@ -75,6 +83,6 @@
    "reward": "Spins"
   }
  ],
- "updated": "2026-09-20T20:37:40.539Z",
+ "updated": "2026-09-22T11:20:48.536Z",
  "source": "https://robloxden.com/game-codes/shinobi-reborn"
 }

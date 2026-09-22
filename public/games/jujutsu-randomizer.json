@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WEAREBACK",
+   "reward": "500 Yen"
+  },
+  {
+   "code": "11MVISITS",
+   "reward": "250 Yen"
+  },
+  {
    "code": "10MVISITS",
    "reward": "400 Yen"
   },
@@ -27,6 +35,6 @@
    "reward": "150 Yen"
   }
  ],
- "updated": "2026-09-20T20:36:57.106Z",
+ "updated": "2026-09-22T11:20:03.240Z",
  "source": "https://robloxden.com/game-codes/jujutsu-randomizer"
 }

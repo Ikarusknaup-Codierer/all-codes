@@ -7,8 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "DYNAMIC",
-   "reward": "3,000 Cash"
+   "code": "2077",
+   "reward": "Cash"
   },
   {
    "code": "LOADING",
@@ -20,6 +20,10 @@
   },
   {
    "code": "Summer",
+   "reward": "3,000 Cash"
+  },
+  {
+   "code": "DYNAMIC",
    "reward": "3,000 Cash"
   },
   {
@@ -39,6 +43,6 @@
    "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-09-20T20:36:25.533Z",
+ "updated": "2026-09-22T11:19:29.296Z",
  "source": "https://robloxden.com/game-codes/knife-duels"
 }

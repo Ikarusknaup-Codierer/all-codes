@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE4",
+   "reward": "2x Luck Boost (20min)"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "100K Gems"
+  },
+  {
    "code": "FREEGEMS",
    "reward": "15,000 Gems"
   },
@@ -15,6 +23,6 @@
    "reward": "2x Luck Boost (15min)"
   }
  ],
- "updated": "2026-09-20T20:39:36.165Z",
+ "updated": "2026-09-22T11:22:35.342Z",
  "source": "https://robloxden.com/game-codes/build-a-car-empire"
 }

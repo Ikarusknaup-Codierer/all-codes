@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CHAMPIONS",
+   "reward": "1,000,000 Stars and 4 Luck Potion"
+  },
+  {
    "code": "AUTUMN",
    "reward": "300 Fallen Leaves and 500 Gems"
   },
@@ -23,14 +27,14 @@
    "reward": "350,000"
   },
   {
-   "code": "100K",
-   "reward": ""
-  },
-  {
    "code": "1stUPD",
    "reward": "Reward"
+  },
+  {
+   "code": "REAPER",
+   "reward": "5,000 Pumpkins"
   }
  ],
- "updated": "2026-09-20T20:40:47.565Z",
+ "updated": "2026-09-22T11:23:51.350Z",
  "source": "https://robloxden.com/game-codes/nft-battle"
 }

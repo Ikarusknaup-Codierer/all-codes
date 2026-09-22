@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HARDMODE",
+   "reward": "7,676 Insanity and an Essence"
+  },
+  {
+   "code": "WORMNERF",
+   "reward": "6,767 Insanity and 2 Essence"
+  },
+  {
    "code": "UPDATE3",
    "reward": "10,000 Insanity and 5 Essence"
   },
@@ -23,6 +31,6 @@
    "reward": "7,500 Insanity and 3 Essence"
   }
  ],
- "updated": "2026-09-21T04:18:55.729Z",
+ "updated": "2026-09-22T16:42:52.976Z",
  "source": "https://robloxden.com/game-codes/journey-to-the-watchtower"
 }

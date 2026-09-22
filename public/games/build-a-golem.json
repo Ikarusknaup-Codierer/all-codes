@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
-   "reward": "75,000 Cash"
+   "code": "1MVISITS",
+   "reward": "a Gold Crate , Timeskip (5 Minutes) , and 2x Cash Potion"
+  },
+  {
+   "code": "DELAY",
+   "reward": "Timeskip (15 Minutes)"
   },
   {
    "code": "THANKS",
    "reward": "a Timeskip (15 Minutes)"
   }
  ],
- "updated": "2026-09-21T04:18:58.215Z",
+ "updated": "2026-09-22T16:42:55.430Z",
  "source": "https://robloxden.com/game-codes/build-a-golem"
 }

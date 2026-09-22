@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PUMPKIN",
+   "reward": "250 Cash"
+  },
+  {
    "code": "LUCKYBREW",
    "reward": "50 Cash and Server-wide Luck Boost"
   },
@@ -35,6 +39,6 @@
    "reward": "250 Cash"
   }
  ],
- "updated": "2026-09-21T04:15:33.978Z",
+ "updated": "2026-09-22T16:39:37.559Z",
  "source": "https://robloxden.com/game-codes/brew-empire"
 }

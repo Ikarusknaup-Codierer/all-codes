@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MEGAUPDATE1",
+   "reward": "$222 Cash"
+  },
+  {
+   "code": "STREET",
+   "reward": "$123 Cash"
+  },
+  {
    "code": "DONUTS",
    "reward": "123 Cash"
   },
@@ -71,6 +79,6 @@
    "reward": "101 Cash"
   }
  ],
- "updated": "2026-09-21T04:16:54.822Z",
+ "updated": "2026-09-22T16:40:55.633Z",
  "source": "https://robloxden.com/game-codes/dispatch-police-simulator"
 }

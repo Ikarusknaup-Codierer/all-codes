@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "REBORN",
-   "reward": "Clicks And Potions"
+   "code": "FOREST",
+   "reward": "Clicks"
   },
   {
-   "code": "VALENTINE",
-   "reward": "Clicks And Potions"
+   "code": "DEER",
+   "reward": "Clicks And UGC Rewards"
   },
   {
-   "code": "3MVISITS",
+   "code": "15KLIKES",
+   "reward": "Extra Boosts"
+  },
+  {
+   "code": "UPDATE",
    "reward": "Extra Boosts"
   },
   {
    "code": "1MVISITS",
    "reward": "Extra Boosts"
-  },
-  {
-   "code": "UGC",
-   "reward": "20,000 Clicks and 150 Gems"
   }
  ],
- "updated": "2026-09-21T04:16:14.731Z",
+ "updated": "2026-09-22T16:40:18.227Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SAO",
+   "reward": "15 Trait Rerolls , 500 Gems , and 3 Wheel Spins"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "20 Trait Rerolls , 2,000 Gems , and 5 Wheel Spins"
+  },
+  {
    "code": "30KLIKES",
    "reward": "25 Trait Rerolls , 2,000 Gems , and 10 Stat Rerolls"
   },
@@ -83,6 +91,6 @@
    "reward": "20 Trait Rerolls , 20 Stat Rerolls , and 1,000 Gems"
   }
  ],
- "updated": "2026-09-21T04:21:03.261Z",
+ "updated": "2026-09-22T16:44:57.447Z",
  "source": "https://robloxden.com/game-codes/anime-dungeons"
 }

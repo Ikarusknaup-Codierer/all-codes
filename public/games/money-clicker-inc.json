@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TicketBuff",
+   "reward": "2 Crates"
+  },
+  {
    "code": "StartingRelics",
    "reward": "5 Relics"
   },
@@ -31,6 +35,6 @@
    "reward": "2 Basic Crates"
   }
  ],
- "updated": "2026-09-21T04:16:13.703Z",
+ "updated": "2026-09-22T16:40:17.200Z",
  "source": "https://robloxden.com/game-codes/money-clicker-inc"
 }

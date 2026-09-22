@@ -171,14 +171,14 @@
    "reward": "5 Emeralds"
   },
   {
-   "code": "UPDATE3PT3",
-   "reward": "1 Damage Potion, 1 Mastery Potion, 1 Drop Potion, 1 Luck Potion, 1 Res"
+   "code": "UPDATE11PT2",
+   "reward": "2 Mastery Potions, 2 Damage Potions, 1 Yen Potion, 1 Luck Potion, 1 Dr"
   },
   {
-   "code": "RELEASEPT2",
-   "reward": "1 Damage Potion , 1 Mastery Potion , 1 Luck Potion , 1 Reset Token , a"
+   "code": "InsaneDungeonFix",
+   "reward": "1 Raid Key, 1 Defense Key, 1 Shadow Key, 1 Reset Token, and 1 Pirate K"
   }
  ],
- "updated": "2026-09-21T04:16:43.802Z",
+ "updated": "2026-09-22T16:40:47.585Z",
  "source": "https://robloxden.com/game-codes/anime-weapons"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MasteryBuffs",
+   "reward": "Rewards"
+  },
+  {
+   "code": "FireUpdate",
+   "reward": "Rewards"
+  },
+  {
    "code": "FEARMAGNETO",
    "reward": "Freebies"
   },
@@ -547,6 +555,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-09-21T04:20:07.925Z",
+ "updated": "2026-09-22T16:44:03.708Z",
  "source": "https://robloxden.com/game-codes/new-seas"
 }

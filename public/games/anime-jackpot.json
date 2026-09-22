@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "NEWMAPAGAIN",
+   "reward": "9,000 Stars"
+  },
+  {
+   "code": "GALAXY",
+   "reward": "Luck Pot III"
+  },
+  {
+   "code": "MYBADGUYS",
+   "reward": "Weather Potion"
+  },
+  {
+   "code": "TOWERSOON",
+   "reward": "Mutation Pot I"
+  },
+  {
    "code": "TOKENS",
    "reward": "6,000 Stars"
   },
@@ -27,14 +43,14 @@
    "reward": "9,000 Stars"
   },
   {
-   "code": "CAKE",
-   "reward": "Summon Luck Pot II"
-  },
-  {
    "code": "BLUEMOON",
    "reward": "the Luck Potion II"
+  },
+  {
+   "code": "MINI",
+   "reward": "1 Clover Potion II"
   }
  ],
- "updated": "2026-09-21T04:20:19.663Z",
+ "updated": "2026-09-22T16:44:15.167Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

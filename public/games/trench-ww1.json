@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FINALPUSHUPDATE",
+   "reward": "2,000 Medals and 2 Cosmetic Crates"
+  },
+  {
+   "code": "BRAZILINDEP",
+   "reward": "Ordem Independence Dragoon and Ordem Independence Gas Mask"
+  },
+  {
    "code": "STEELBOUNDSET",
    "reward": "the Steelbound Helmet and the Visor"
   },
@@ -99,6 +107,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-09-21T04:19:29.337Z",
+ "updated": "2026-09-22T16:43:26.223Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

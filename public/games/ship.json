@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "IRONCLADS",
+   "reward": "1 Magma Chest"
+  },
+  {
+   "code": "FRE4ZE",
+   "reward": "1 Frozen Chest"
+  },
+  {
+   "code": "HUGEUPDATE1OUT",
+   "reward": "1 Diamond"
+  },
+  {
+   "code": "BEFOREHUGEUPDATE",
+   "reward": "1 Exclusive Cannon"
   }
  ],
- "updated": "2026-09-21T04:18:54.728Z",
+ "updated": "2026-09-22T16:42:51.557Z",
  "source": "https://robloxden.com/game-codes/ship"
 }

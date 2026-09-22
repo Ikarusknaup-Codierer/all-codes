@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "REROLLS",
+   "reward": "50 Gems , 15 Mutation Rerolls , 15 Silver Dice , 10 Golden Dice , and "
+  },
+  {
+   "code": "MUTATIONFRENZY",
+   "reward": "500 Gems and 15 Mutation Rerolls"
+  },
+  {
    "code": "blossom",
    "reward": "50 Gems , 15 Silver Dice , 10 Golden Dice , 5 Platinum Dice , and 1 Em"
   },
@@ -95,6 +103,6 @@
    "reward": "350 Gems , 50 Aquamarine Dice , 25 Glacial Dice , 5 Pride Dice , and 3"
   }
  ],
- "updated": "2026-09-21T04:20:52.670Z",
+ "updated": "2026-09-22T16:44:46.508Z",
  "source": "https://robloxden.com/game-codes/spin-a-femboy"
 }

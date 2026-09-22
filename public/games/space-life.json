@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "MEGABOOST",
+   "reward": "100K Credits and 3x Boost"
+  },
+  {
+   "code": "TUNEDIN",
+   "reward": "100K Credits, 2x boost to Rank, Skill and Karma XP and Social Butterfl"
+  },
+  {
+   "code": "RESTARTFTW",
+   "reward": "2x Boost (1 Hour)"
+  },
+  {
+   "code": "SORRY4RESTART",
+   "reward": "2x Skill EXP"
   }
  ],
- "updated": "2026-09-21T04:18:53.716Z",
+ "updated": "2026-09-22T16:42:50.599Z",
  "source": "https://robloxden.com/game-codes/space-life"
 }

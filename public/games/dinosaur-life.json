@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ONEMILLION",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "CROCODILO",
    "reward": "700 Coins"
   },
@@ -27,14 +23,14 @@
    "reward": "Coins"
   },
   {
-   "code": "WILDEBEEST",
-   "reward": "Coins"
+   "code": "ONEMILLION",
+   "reward": "1,000 Coins"
   },
   {
    "code": "STEGO",
    "reward": "400 Coins"
   }
  ],
- "updated": "2026-09-21T04:15:31.923Z",
+ "updated": "2026-09-22T16:39:35.250Z",
  "source": "https://robloxden.com/game-codes/dinosaur-life"
 }

@@ -23,6 +23,30 @@
    "reward": "2,000 Gold , 3 5000-Roll Packs , 3 Boss Potions , and 2 Trait Rerolls "
   },
   {
+   "code": "NOOB",
+   "reward": "500 Gold , 3x 100-Roll Pack , and 3x Medium Luck Potion"
+  },
+  {
+   "code": "SANDSTORM",
+   "reward": "1,000 Gold , 5x 1000-Roll Pack , 5x Medium Rarity Potion , and 2x Boss"
+  },
+  {
+   "code": "VULTURE",
+   "reward": "2,000 Gold , 3x 5000-Roll Pack , 5x Boss Potion , and 3x Trait Reroll"
+  },
+  {
+   "code": "MALEDETTO",
+   "reward": "4,000 Gold , 25000-Roll Pack , 2x Huge Luck , 1x Huge Rarity , and 5x "
+  },
+  {
+   "code": "COSMICTOWER",
+   "reward": "6,000 Gold , 2x 25000-Roll Pack , Huge Potions , 5x Trait Reroll , and"
+  },
+  {
+   "code": "GODROLLER",
+   "reward": "100,000 Gold , 100000-Roll Pack , Huge Potions , 10x Trait Reroll , an"
+  },
+  {
    "code": "OURBAD",
    "reward": "5,000 Gold , 3 5000-Roll Packs , 3 Medium Luck Potions , 3 Medium Rari"
   },
@@ -49,30 +73,6 @@
   {
    "code": "DAILYCHAOS",
    "reward": "100,000 Gold , 1 100000-Roll Pack , Huge Potions , 10 Trait Rerolls , "
-  },
-  {
-   "code": "NOOB",
-   "reward": "500 Gold , 3x 100-Roll Pack , and 3x Medium Luck Potion"
-  },
-  {
-   "code": "SANDSTORM",
-   "reward": "1,000 Gold , 5x 1000-Roll Pack , 5x Medium Rarity Potion , and 2x Boss"
-  },
-  {
-   "code": "VULTURE",
-   "reward": "2,000 Gold , 3x 5000-Roll Pack , 5x Boss Potion , and 3x Trait Reroll"
-  },
-  {
-   "code": "MALEDETTO",
-   "reward": "4,000 Gold , 25000-Roll Pack , 2x Huge Luck , 1x Huge Rarity , and 5x "
-  },
-  {
-   "code": "COSMICTOWER",
-   "reward": "6,000 Gold , 2x 25000-Roll Pack , Huge Potions , 5x Trait Reroll , and"
-  },
-  {
-   "code": "GODROLLER",
-   "reward": "100,000 Gold , 100000-Roll Pack , Huge Potions , 10x Trait Reroll , an"
   },
   {
    "code": "ABSOLUTEZERO",
@@ -219,10 +219,6 @@
    "reward": "150 Gold , 3 500-Roll Packs , and 1 Medium Luck Potion"
   },
   {
-   "code": "DELAY",
-   "reward": "100 Gold and 2 500-Roll Packs"
-  },
-  {
    "code": "SKIBIDI2026",
    "reward": "1,000 Gold , 5 Medium Shiny Potions , 5 Medium Luck Potions , 3 Boss P"
   },
@@ -243,10 +239,6 @@
    "reward": "75 Gold , 2 100-Roll Packs , and 3 Medium Luck Potions"
   },
   {
-   "code": "ITALIANBRAINROT",
-   "reward": "200 Gold , 2 Medium Shiny Potions , 3 Medium Luck Potions , and 1 1,00"
-  },
-  {
    "code": "BRAINROT",
    "reward": "50 Gold , 2 Medium Roll Speed Potions , and 3 Medium Luck Potions"
   },
@@ -255,6 +247,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-09-22T11:23:25.806Z",
+ "updated": "2026-09-23T16:37:14.510Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

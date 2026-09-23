@@ -35,14 +35,6 @@
    "reward": "a MultiShard"
   },
   {
-   "code": "ABILITIES",
-   "reward": "an Ability Spin"
-  },
-  {
-   "code": "THE_BOYS",
-   "reward": "a The Boys Crate"
-  },
-  {
    "code": "DAILY_QUESTS",
    "reward": "1 Raid Crate 4"
   },
@@ -51,10 +43,18 @@
    "reward": "1 Mettaton"
   },
   {
+   "code": "ABILITIES",
+   "reward": "an Ability Spin"
+  },
+  {
    "code": "EXCUSE_ME_SIR",
    "reward": "3 The Boys Crates"
+  },
+  {
+   "code": "THE_BOYS",
+   "reward": "a The Boys Crate"
   }
  ],
- "updated": "2026-09-22T11:20:02.698Z",
+ "updated": "2026-09-23T16:34:04.510Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

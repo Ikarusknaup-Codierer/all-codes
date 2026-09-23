@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MARKET",
+   "reward": "10K Cash"
+  },
+  {
    "code": "NEWMAP",
    "reward": "a Luck Boost"
   },
@@ -27,6 +31,6 @@
    "reward": "20 Minutes Luck Boost"
   }
  ],
- "updated": "2026-09-22T11:17:54.191Z",
+ "updated": "2026-09-23T16:31:52.697Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

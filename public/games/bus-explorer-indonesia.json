@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PATCH26",
+   "reward": "Rp 100,000,000"
+  },
+  {
+   "code": "6600LIKE",
+   "reward": "Rp 150,000,000"
+  },
+  {
    "code": "WELCOME",
    "reward": "150M RP"
   },
@@ -43,6 +51,6 @@
    "reward": "RP"
   }
  ],
- "updated": "2026-09-22T11:17:23.920Z",
+ "updated": "2026-09-23T16:31:27.685Z",
  "source": "https://robloxden.com/game-codes/bus-explorer-indonesia"
 }

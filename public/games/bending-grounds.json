@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ElementalM1",
+   "reward": "5 Spins on Current Slot"
+  },
+  {
    "code": "Blueprint",
    "reward": "12 Spins"
   },
@@ -55,6 +59,6 @@
    "reward": "6 Spins"
   }
  ],
- "updated": "2026-09-22T04:20:18.479Z",
+ "updated": "2026-09-23T16:31:05.338Z",
  "source": "https://robloxden.com/game-codes/bending-grounds"
 }

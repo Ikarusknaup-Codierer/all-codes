@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "AboutBossRaid",
-   "reward": "1 Time Lord Withered Freddy Present . You must have a minimum of 15,00"
+   "code": "HMMMBYTES",
+   "reward": "5,000 Tokens , 10 Endo Chips , 2 Springlocks , 4 Remnants , the Pearl "
   },
   {
-   "code": "MALACHITE",
-   "reward": "25,000 Tokens , 350 Souls , 50 Season Presents , 5 Anniversary Present"
+   "code": "AboutBossRaid",
+   "reward": "1 Time Lord Withered Freddy Present . You must have a minimum of 15,00"
   },
   {
    "code": "CHIPSNOFISH",
@@ -25,6 +25,26 @@
   {
    "code": "FREEBIE",
    "reward": "2,500 Tokens and 25 Souls"
+  },
+  {
+   "code": "HEROUPGRADE!",
+   "reward": "25,000 Tokens and 2,500 Untradable Souls"
+  },
+  {
+   "code": "CYBERPUNK!!!",
+   "reward": "50,000 Tokens , 2,500 Untradable Souls , 50 Seasonal Presents , 50 End"
+  },
+  {
+   "code": "2WEEKUPDATE!",
+   "reward": "50,000 Tokens , 200 AFK 2 Presents , 50 Springlocks , and 10 Remnant ."
+  },
+  {
+   "code": "ABOUTTHEMDEADLINES",
+   "reward": "2,500 Untradable Souls , 150 AFK 2 Presents , and 100 AFK 1 Presents ."
+  },
+  {
+   "code": "ONEMILLIONFNTD2WEBVISITS!",
+   "reward": "30,000 Tokens , 3,000 Untradable Souls , 150 AFK 2 Presents , 25 Boss "
   },
   {
    "code": "FiveNightsDelay",
@@ -41,6 +61,10 @@
   {
    "code": "DJLOLBIT",
    "reward": "10,000 Tokens , 250 Souls , and 25 Season Presents . You must have a m"
+  },
+  {
+   "code": "MALACHITE",
+   "reward": "25,000 Tokens , 350 Souls , 50 Season Presents , 5 Anniversary Present"
   },
   {
    "code": "UPDATE43",
@@ -143,6 +167,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-22T16:40:19.079Z",
+ "updated": "2026-09-23T21:22:16.216Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

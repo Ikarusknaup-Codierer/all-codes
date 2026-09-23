@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "100kmembers",
+   "code": "SEPTEMBER26",
    "reward": "300 Points"
   },
   {
    "code": "freepoints",
+   "reward": "300 Points"
+  },
+  {
+   "code": "100kmembers",
    "reward": "300 Points"
   },
   {
@@ -23,6 +27,6 @@
    "reward": "Reward"
   }
  ],
- "updated": "2026-09-22T16:43:27.182Z",
+ "updated": "2026-09-23T21:25:45.731Z",
  "source": "https://robloxden.com/game-codes/birmingham-vehicle-simulator"
 }

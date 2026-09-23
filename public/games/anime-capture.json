@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "thanksforplaygame",
+   "reward": "a Energy Potion II , a Damage Potion II , a Gems Potion II , a Drops P"
+  },
+  {
+   "code": "updatenow",
+   "reward": "a Energy Potion II , a Damage Potion II , a Gems Potion II , a Drops P"
+  },
+  {
+   "code": "4mvisits",
+   "reward": "a Energy Potion I , a Damage Potion I , a Gems Potion I , a Drops Poti"
+  },
+  {
+   "code": "playerpassives",
+   "reward": "a Energy Potion I , a Damage Potion I , a Gems Potion I , a Drops Poti"
+  },
+  {
+   "code": "71kfavs",
+   "reward": "a Energy Potion I , a Damage Potion I , a Gems Potion I , a Drops Poti"
+  },
+  {
+   "code": "morecontent",
+   "reward": "a Energy Potion II , a Damage Potion II , a Gems Potion II , a Drops P"
+  },
+  {
    "code": "newgacha",
    "reward": "1 Energy Potion, 1 Damage Potion, 1 Gems Potion, 1 Drops Potion, 1 Luc"
   },
@@ -499,6 +523,6 @@
    "reward": "Potions , 250 F2P Tickets , and a Commander Sword"
   }
  ],
- "updated": "2026-09-21T21:58:29.101Z",
+ "updated": "2026-09-23T04:15:49.232Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

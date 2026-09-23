@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PRISION",
+   "reward": "3 Mega Potions"
+  },
+  {
    "code": "ABYSS",
    "reward": "2,500 Lost Souls"
   },
@@ -427,14 +431,14 @@
    "reward": "1 Strength Potion , 2 Dark Strength Potions and 1 Mega Potion"
   },
   {
-   "code": "SEASON6",
-   "reward": "Mega Potion"
+   "code": "HAPPYBDMAGIA",
+   "reward": "Snail Pet, Crimson Potion, And A Turkey Potion"
   },
   {
-   "code": "newcode4891",
-   "reward": "1 Mega Potion"
+   "code": "NIGHTCODE",
+   "reward": "Four Fortune Tokens"
   }
  ],
- "updated": "2026-09-21T21:52:14.101Z",
+ "updated": "2026-09-23T04:08:24.037Z",
  "source": "https://robloxden.com/game-codes/pull-a-sword"
 }

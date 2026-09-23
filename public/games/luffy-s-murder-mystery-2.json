@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ALLKNIFES4",
-   "reward": "1 Exclusive Knife"
-  },
-  {
    "code": "NEWPET",
    "reward": "1 Ice Dragon Pet"
   },
@@ -25,8 +21,12 @@
   {
    "code": "ALLKNIFES2",
    "reward": "1 Exclusive Knife"
+  },
+  {
+   "code": "ALLKNIFES3",
+   "reward": "1 Exclusive Knife"
   }
  ],
- "updated": "2026-09-21T21:58:49.883Z",
+ "updated": "2026-09-23T04:16:08.894Z",
  "source": "https://robloxden.com/game-codes/luffy-s-murder-mystery-2"
 }

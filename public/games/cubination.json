@@ -43,10 +43,6 @@
    "reward": "a Dirt Cube"
   },
   {
-   "code": "discord",
-   "reward": "an Explosive Cube"
-  },
-  {
    "code": "ImNotSlow",
    "reward": "a Speed Coil"
   },
@@ -99,14 +95,14 @@
    "reward": "a Certificate of Excellence"
   },
   {
-   "code": "UnseenWorld",
-   "reward": "40 Gems and a Key"
+   "code": "discord",
+   "reward": "an Explosive Cube"
   },
   {
    "code": "mad_jelly",
    "reward": "Mad Jelly's Bane"
   }
  ],
- "updated": "2026-09-21T21:58:58.825Z",
+ "updated": "2026-09-23T04:16:19.778Z",
  "source": "https://robloxden.com/game-codes/cubination"
 }

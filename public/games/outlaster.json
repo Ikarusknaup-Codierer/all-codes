@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "CRYS",
-   "reward": "Crys"
+   "code": "STARTER",
+   "reward": "Starter"
   },
   {
-   "code": "RELEASE!",
-   "reward": "2,500 Cash (when making an in-game Robux purchase for the next 24 hour"
+   "code": "CLOWN!",
+   "reward": "Clown!"
   },
   {
-   "code": "SPRING",
-   "reward": "1 Flower Necklace"
+   "code": "GOURDS",
+   "reward": "1 Pumpkin Necklace"
   },
   {
    "code": "GIFT",
@@ -31,6 +31,6 @@
    "reward": "New"
   }
  ],
- "updated": "2026-09-21T22:00:30.704Z",
+ "updated": "2026-09-23T04:17:26.297Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

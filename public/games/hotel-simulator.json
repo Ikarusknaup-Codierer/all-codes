@@ -11,6 +11,10 @@
    "reward": "750 Cash"
   },
   {
+   "code": "paycheck100",
+   "reward": "Paycheck 100"
+  },
+  {
    "code": "jackpot777",
    "reward": "Jackpot 777"
   },
@@ -19,14 +23,10 @@
    "reward": "Cloggedtoilet 101"
   },
   {
-   "code": "cooking79",
-   "reward": "Cooking 79"
-  },
-  {
-   "code": "cleaning45",
-   "reward": "Cleaning 45"
+   "code": "liam19",
+   "reward": "Liam 19"
   }
  ],
- "updated": "2026-09-21T21:53:46.394Z",
+ "updated": "2026-09-23T04:10:12.398Z",
  "source": "https://robloxden.com/game-codes/hotel-simulator"
 }

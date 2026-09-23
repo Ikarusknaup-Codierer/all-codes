@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "triple800",
+   "reward": "Coin Boost"
+  },
+  {
    "code": "700kDiamonds",
    "reward": "25K Diamonds"
   },
@@ -15,18 +19,14 @@
    "reward": "Ultra Lucky Boost"
   },
   {
-   "code": "404roblox",
-   "reward": "8 Triple Coins Boosts"
+   "code": "yaydiamonds",
+   "reward": "50K Diamonds"
   },
   {
-   "code": "1mplus300k",
-   "reward": "Luck Boost"
-  },
-  {
-   "code": "EASY125K",
-   "reward": "the Triple Coin Boost"
+   "code": "SUPER25K",
+   "reward": "5,000 Diamonds"
   }
  ],
- "updated": "2026-09-22T04:15:34.428Z",
+ "updated": "2026-09-23T04:21:33.309Z",
  "source": "https://robloxden.com/game-codes/pet-simulator-x"
 }

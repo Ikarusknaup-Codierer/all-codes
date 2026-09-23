@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "USA250",
-   "reward": "the 2026 Driving Empire Rocket Car"
-  },
-  {
    "code": "200KMEMBERS",
    "reward": "50,000 Cash"
   },
@@ -23,6 +19,10 @@
    "reward": "$75,000"
   },
   {
+   "code": "USA250",
+   "reward": "the 2026 Driving Empire Rocket Car"
+  },
+  {
    "code": "CARTER",
    "reward": "$50,000"
   },
@@ -31,6 +31,6 @@
    "reward": "2017 Nissan GT-R"
   }
  ],
- "updated": "2026-09-22T04:14:59.782Z",
+ "updated": "2026-09-23T11:12:54.068Z",
  "source": "https://robloxden.com/game-codes/driving-empire"
 }

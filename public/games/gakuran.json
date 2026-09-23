@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "discordfixed",
+   "reward": "33 Rerolls"
+  },
+  {
+   "code": "doublerestart",
+   "reward": "21 Rerolls"
+  },
+  {
    "code": "CLUBAKUMASOBACK",
    "reward": "30 Rerolls"
   },
@@ -35,6 +43,6 @@
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-09-22T04:14:28.823Z",
+ "updated": "2026-09-23T11:12:22.814Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

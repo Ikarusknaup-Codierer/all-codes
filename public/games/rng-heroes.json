@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "superamped",
+   "reward": "10 Amped Battery"
+  },
+  {
+   "code": "siiilver",
+   "reward": "10 Silver"
+  },
+  {
+   "code": "potiliiilliilions",
+   "reward": "5 Gold Potions and 3 Luck Potions"
+  },
+  {
+   "code": "ilovebeans",
+   "reward": "5K Beans"
+  },
+  {
    "code": "UPDATEFIVEPOTIONS",
    "reward": "2x Size Luck Potions and 2x Gold Potions"
   },
@@ -71,6 +87,6 @@
    "reward": "one Abyss Reaver Crate"
   }
  ],
- "updated": "2026-09-22T04:11:38.582Z",
+ "updated": "2026-09-23T11:10:12.642Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

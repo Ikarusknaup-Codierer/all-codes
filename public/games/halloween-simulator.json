@@ -11,10 +11,6 @@
    "reward": "Coins"
   },
   {
-   "code": "RUSSO",
-   "reward": "Coins"
-  },
-  {
    "code": "TWOMILLION",
    "reward": "Coins"
   },
@@ -23,10 +19,14 @@
    "reward": "Coins"
   },
   {
+   "code": "RAZORFISHGAMING",
+   "reward": "Coins"
+  },
+  {
    "code": "MILO",
    "reward": "Coins"
   }
  ],
- "updated": "2026-09-22T04:15:06.736Z",
+ "updated": "2026-09-23T11:13:01.157Z",
  "source": "https://robloxden.com/game-codes/halloween-simulator"
 }

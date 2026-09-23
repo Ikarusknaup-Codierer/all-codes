@@ -7,8 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "10MilVisits!",
-   "reward": "50 Trait Shards and 2,000 Gold"
+   "code": "CrystalCompensation",
+   "reward": "3,500 Reijatsu Crystal and 50 Trait Shards"
+  },
+  {
+   "code": "ThePowerToProtect!",
+   "reward": "1,000 Reijatsu Crystals and 50 Trait Shards"
+  },
+  {
+   "code": "TheCalamity!",
+   "reward": "100 Reijatsu Crystals and 50 Reroll Cubes"
+  },
+  {
+   "code": "10KCCUTHANKS!",
+   "reward": "5,000 Reijatsu Crystals and 100 Trait Shards"
   },
   {
    "code": "GearEquipVisualFix!",
@@ -101,8 +113,12 @@
   {
    "code": "Ghouls!",
    "reward": "50 Trait Shards , 1,000 Gems , and 2,000 Gold"
+  },
+  {
+   "code": "10MilVisits!",
+   "reward": "50 Trait Shards and 2,000 Gold"
   }
  ],
- "updated": "2026-09-22T04:19:02.176Z",
+ "updated": "2026-09-23T11:16:11.152Z",
  "source": "https://robloxden.com/game-codes/anime-squadron"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "gargoyle",
+   "reward": "an Admin Spin"
+  },
+  {
+   "code": "griffin",
+   "reward": "2x Wins Boost (10 Minutes)"
+  },
+  {
    "code": "4MGroupMembers",
    "reward": "an Admin Spin"
   },
@@ -35,6 +43,6 @@
    "reward": "1 Wheel Spin"
   }
  ],
- "updated": "2026-09-22T04:18:53.526Z",
+ "updated": "2026-09-23T11:16:02.862Z",
  "source": "https://robloxden.com/game-codes/1-speed-evolve"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "STOCKMARKET",
+   "reward": "50,000 Cash"
+  },
+  {
    "code": "FUTURES",
    "reward": "20,000 Cash and 20 XP"
   },
@@ -27,6 +31,6 @@
    "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-09-22T04:13:00.397Z",
+ "updated": "2026-09-23T11:11:01.194Z",
  "source": "https://robloxden.com/game-codes/roblox-stock-exchange-2"
 }

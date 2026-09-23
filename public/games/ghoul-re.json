@@ -7,22 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "yomosneakcode",
-   "reward": "1,000 Ghoul"
-  },
-  {
-   "code": "firstbiweekly",
-   "reward": "2,000 Ghoul Points"
-  },
-  {
-   "code": "yomohalfkakuja",
-   "reward": "2,000 Ghoul Points"
-  },
-  {
-   "code": "Databug",
-   "reward": "2,000 Ghoul Points"
-  },
-  {
    "code": "Ginkui",
    "reward": "1,000 GP"
   },
@@ -39,12 +23,48 @@
    "reward": "5 Kagune Rerolls"
   },
   {
+   "code": "yomosneakcode",
+   "reward": "1,000 Ghoul"
+  },
+  {
+   "code": "firstbiweekly",
+   "reward": "2,000 Ghoul Points"
+  },
+  {
+   "code": "yomohalfkakuja",
+   "reward": "2,000 Ghoul Points"
+  },
+  {
+   "code": "Databug",
+   "reward": "2,000 Ghoul Points"
+  },
+  {
+   "code": "Welcomebackhomelorn",
+   "reward": "500 GP"
+  },
+  {
    "code": "Donatothosewhoknow",
    "reward": "500 GP"
   },
   {
    "code": "Kencomp",
    "reward": "800 GP"
+  },
+  {
+   "code": "HAPPYBIRTHDAYEUNHEE",
+   "reward": "650 GP"
+  },
+  {
+   "code": "KENREUPDATE",
+   "reward": "50 Spins and a 2x Exp Boost (20 Minutes)"
+  },
+  {
+   "code": "NARUSOON",
+   "reward": "35 Spins and a 2x Materials Boost (20 Minutes)"
+  },
+  {
+   "code": "DEVTEAMCOOKING",
+   "reward": "50 Spins"
   },
   {
    "code": "KenRework",
@@ -87,26 +107,6 @@
    "reward": "1,000 GP"
   },
   {
-   "code": "Welcomebackhomelorn",
-   "reward": "500 GP"
-  },
-  {
-   "code": "HAPPYBIRTHDAYEUNHEE",
-   "reward": "650 GP"
-  },
-  {
-   "code": "KENREUPDATE",
-   "reward": "50 Spins and a 2x Exp Boost (20 Minutes)"
-  },
-  {
-   "code": "NARUSOON",
-   "reward": "35 Spins and a 2x Materials Boost (20 Minutes)"
-  },
-  {
-   "code": "DEVTEAMCOOKING",
-   "reward": "50 Spins"
-  },
-  {
    "code": "grewillbegreatagain",
    "reward": "300 GP"
   },
@@ -123,6 +123,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-09-22T04:20:34.248Z",
+ "updated": "2026-09-23T11:17:21.142Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

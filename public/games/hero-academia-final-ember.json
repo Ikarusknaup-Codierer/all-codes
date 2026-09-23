@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "Fierce!",
-   "reward": "Fierce Wings Quirk"
-  },
-  {
    "code": "WallGlitch",
    "reward": "Yen Boost (30 minutes)"
   },
   {
-   "code": "Part1Fix",
+   "code": "OverhaulUpdate",
    "reward": "5 Spins"
   },
   {
-   "code": "RELEASE",
+   "code": "Shutdown",
    "reward": "a 10 Minute Yen Boost"
+  },
+  {
+   "code": "DessiXEmber",
+   "reward": "a 10 Minute XP Boost"
   }
  ],
- "updated": "2026-09-22T04:10:58.474Z",
+ "updated": "2026-09-23T11:09:47.548Z",
  "source": "https://robloxden.com/game-codes/hero-academia-final-ember"
 }

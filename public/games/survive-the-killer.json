@@ -11,22 +11,22 @@
    "reward": "the Iridescent Slycer Crafting Recipe"
   },
   {
-   "code": "DEESYNNC",
-   "reward": "Unknown Reward"
-  },
-  {
-   "code": "SPOON",
-   "reward": "Spoon Knife"
+   "code": "DEVIOUS",
+   "reward": "Devious Dagger"
   },
   {
    "code": "STK2YEARS",
    "reward": "2 Year Birthday Slycer Knife"
   },
   {
+   "code": "luckyduck",
+   "reward": "Slycer"
+  },
+  {
    "code": "MINING",
    "reward": "Charcoal Slycer"
   }
  ],
- "updated": "2026-09-22T04:15:27.704Z",
+ "updated": "2026-09-23T11:13:23.396Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

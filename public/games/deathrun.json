@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "decoy",
-   "reward": "5 Decoy Deploy"
+   "code": "Rudolf",
+   "reward": "25 Gems And Some Snowballs"
   },
   {
-   "code": "SPOOKYSEASON",
-   "reward": "Bonus Scrap"
+   "code": "SCRAPTASTIC",
+   "reward": "50 Scraps"
   },
   {
-   "code": "GLADIEGGOR",
-   "reward": "Coins And Gems"
+   "code": "taiga",
+   "reward": "50 Gems"
   },
   {
    "code": "SEASON10",
    "reward": "10 Gems and 10 Snowballs"
+  },
+  {
+   "code": "SEASON4",
+   "reward": "25 gems"
   }
  ],
- "updated": "2026-09-22T04:17:16.512Z",
+ "updated": "2026-09-23T11:14:34.042Z",
  "source": "https://robloxden.com/game-codes/deathrun"
 }

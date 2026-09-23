@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE2",
+   "reward": "2 Hour Gem Timewarp and 50 Fire"
+  },
+  {
+   "code": "SORRY4DELAY",
+   "reward": "2 Hour Gem Timewarp , 100 Fire , 50 Robux Tokens , and 500 Trait Token"
+  },
+  {
+   "code": "EXTRADELAY",
+   "reward": "1 Hour Gem Timewarp , 100 Fire , and 250 Aura Tokens"
+  },
+  {
    "code": "FABSPROMO",
    "reward": "1 of Each Potion"
   },
@@ -39,6 +51,6 @@
    "reward": "125.02 Gems , 1 Stats Potion , 1 Rune Luck Potion , 1 Rune Bulk Potion"
   }
  ],
- "updated": "2026-09-22T04:14:40.091Z",
+ "updated": "2026-09-23T11:12:33.485Z",
  "source": "https://robloxden.com/game-codes/magnet-incremental"
 }

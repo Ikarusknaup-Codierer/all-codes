@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "FASTER",
+   "reward": "Faster Egg Hatch Speed (10 Minutes)"
+  },
+  {
+   "code": "HUNGRY",
+   "reward": "3x Customer Eat Speed"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "a Limited Time Cash Boost"
   }
  ],
- "updated": "2026-09-21T21:59:19.406Z",
+ "updated": "2026-09-23T11:09:18.617Z",
  "source": "https://robloxden.com/game-codes/hatch-and-fry"
 }

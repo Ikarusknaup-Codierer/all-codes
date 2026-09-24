@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "500KLIKES",
+   "reward": "50,000 Yen"
+  },
+  {
    "code": "REAWAKENED",
    "reward": "3 Free Wheel Spins"
   },
@@ -27,20 +31,16 @@
    "reward": "40K Yen"
   },
   {
+   "code": "MUGENISCOMINGBACK",
+   "reward": "Chase Update Rewards"
+  },
+  {
    "code": "KNICKSIN5",
    "reward": "100K Yen"
   },
   {
    "code": "APPLEDAY",
    "reward": "100K Yen"
-  },
-  {
-   "code": "500KLIKES",
-   "reward": "50,000 Yen"
-  },
-  {
-   "code": "MUGENISCOMINGBACK",
-   "reward": "Chase Update Rewards"
   },
   {
    "code": "JAPANGEN1",
@@ -51,6 +51,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-23T21:28:16.901Z",
+ "updated": "2026-09-24T21:37:11.678Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

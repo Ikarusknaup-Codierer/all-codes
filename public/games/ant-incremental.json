@@ -71,14 +71,14 @@
    "reward": "50 Tickets , 5 Tier 3 Damage Potions , and 5 Tier 3 HP Potions"
   },
   {
-   "code": "CardTraits",
-   "reward": "20 Tickets and 10 Trait Rerolls"
-  },
-  {
    "code": "300PeakCCU",
    "reward": "20 Tickets and 5 Auto Clicker Potions"
+  },
+  {
+   "code": "60PeakCCU",
+   "reward": "perks"
   }
  ],
- "updated": "2026-09-23T16:34:31.295Z",
+ "updated": "2026-09-24T21:22:10.836Z",
  "source": "https://robloxden.com/game-codes/ant-incremental"
 }

@@ -11,10 +11,6 @@
    "reward": "1 Alien Sprinkler"
   },
   {
-   "code": "FRUITS",
-   "reward": "1 Basic Ingredient Pack"
-  },
-  {
    "code": "THEMOONWILLRISE",
    "reward": "1 Rare Egg"
   },
@@ -23,10 +19,14 @@
    "reward": "1 Void Sprinkler"
   },
   {
+   "code": "OCEAN",
+   "reward": "1 Basic Ingredient Pack"
+  },
+  {
    "code": "halloween",
    "reward": "1 Jack O Fertilizer"
   }
  ],
- "updated": "2026-09-23T16:35:28.470Z",
+ "updated": "2026-09-24T21:24:13.451Z",
  "source": "https://robloxden.com/game-codes/grow-anything"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SINGULARITY",
+   "reward": "50 Premium Robux"
+  },
+  {
+   "code": "ItsTheTimeToShine",
+   "reward": "100 Premium Robux"
+  },
+  {
    "code": "THEGARDENISREAL",
    "reward": "Freebies"
   },
@@ -15,12 +23,8 @@
    "reward": "Freebies"
   },
   {
-   "code": "SINGULARITY",
-   "reward": "50 Premium Robux"
-  },
-  {
-   "code": "ItsTheTimeToShine",
-   "reward": "100 Premium Robux"
+   "code": "100KGROUPMEMBERS!",
+   "reward": "Freebies"
   },
   {
    "code": "15kLikes",
@@ -299,10 +303,10 @@
    "reward": "Rewards"
   },
   {
-   "code": "F2PLBS",
-   "reward": "Tickets"
+   "code": "650CCU",
+   "reward": "50 Tickets and 25 Premium Robux"
   }
  ],
- "updated": "2026-09-23T21:27:46.889Z",
+ "updated": "2026-09-24T21:36:48.632Z",
  "source": "https://robloxden.com/game-codes/garden-incremental"
 }

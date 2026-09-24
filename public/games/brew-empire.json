@@ -37,8 +37,40 @@
   {
    "code": "GREENTHUMB",
    "reward": "250 Cash"
+  },
+  {
+   "code": "BERRYBLAST",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "BIGLOOK",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "LUCKYWEEKEND",
+   "reward": "server-wide Lucky Hour"
+  },
+  {
+   "code": "ROUND2",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "SUNSET",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "THANKS100K",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "TREASURE",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "WEHEARYOU",
+   "reward": "Free Cash"
   }
  ],
- "updated": "2026-09-23T21:21:31.387Z",
+ "updated": "2026-09-24T21:29:39.576Z",
  "source": "https://robloxden.com/game-codes/brew-empire"
 }

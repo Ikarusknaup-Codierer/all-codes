@@ -11,10 +11,6 @@
    "reward": "350 Gems"
   },
   {
-   "code": "EpicRaps",
-   "reward": "250 Free Coins"
-  },
-  {
    "code": "PRISONER",
    "reward": "150 Fame And One Free Spin"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Skibi Egg"
   },
   {
+   "code": "trading",
+   "reward": "250 Fame And Two Free Spins"
+  },
+  {
    "code": "Cyber",
    "reward": "500 Fame And One Free Spin"
   }
  ],
- "updated": "2026-09-22T21:11:36.458Z",
+ "updated": "2026-09-24T04:09:27.052Z",
  "source": "https://robloxden.com/game-codes/rap-battles"
 }

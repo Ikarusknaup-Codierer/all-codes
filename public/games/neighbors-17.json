@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ANNIVERSARY",
-   "reward": "200 Credits"
-  },
-  {
-   "code": "XMAS",
-   "reward": "100 Credits"
-  },
-  {
-   "code": "100K",
-   "reward": "100 Credits"
-  },
-  {
-   "code": "HOUSESKINS",
-   "reward": "300 Credits"
-  },
-  {
-   "code": "40K",
+   "code": "CUPID",
    "reward": "125 Credits"
+  },
+  {
+   "code": "AUTUMN24",
+   "reward": "Leaf Blower Skin"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "100 Credits"
+  },
+  {
+   "code": "50K",
+   "reward": "100 Credits"
+  },
+  {
+   "code": "ILOVEBOOGLE",
+   "reward": "100 Credits"
   }
  ],
- "updated": "2026-09-22T21:08:47.151Z",
+ "updated": "2026-09-24T04:06:28.585Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

@@ -11,6 +11,10 @@
    "reward": "300 Shrek Coins"
   },
   {
+   "code": "200million",
+   "reward": "200 Coins"
+  },
+  {
    "code": "SNOW",
    "reward": "100 Coins"
   },
@@ -21,12 +25,8 @@
   {
    "code": "booster400",
    "reward": "275 Coins"
-  },
-  {
-   "code": "SHREKTEAM",
-   "reward": "150 Coins"
   }
  ],
- "updated": "2026-09-22T21:12:39.186Z",
+ "updated": "2026-09-24T04:10:30.926Z",
  "source": "https://robloxden.com/game-codes/shrek-in-the-backrooms"
 }

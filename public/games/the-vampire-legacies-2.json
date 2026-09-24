@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "werewolf",
+   "reward": "200 Moonstones"
+  },
+  {
    "code": "resurrection",
    "reward": "200 Coins"
   },
@@ -19,6 +23,6 @@
    "reward": "250 Moonstones"
   }
  ],
- "updated": "2026-09-22T21:10:26.393Z",
+ "updated": "2026-09-24T04:08:08.878Z",
  "source": "https://robloxden.com/game-codes/the-vampire-legacies-2"
 }

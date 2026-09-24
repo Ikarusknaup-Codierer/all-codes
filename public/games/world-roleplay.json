@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "JULY",
-   "reward": "1 Small Nuke"
-  },
-  {
    "code": "FIXES",
    "reward": "1 Small Nuke"
   },
@@ -25,8 +21,12 @@
   {
    "code": "LABELUPGRADES",
    "reward": "Free Small Nuke"
+  },
+  {
+   "code": "JULY",
+   "reward": "1 Small Nuke"
   }
  ],
- "updated": "2026-09-22T21:14:13.425Z",
+ "updated": "2026-09-24T04:11:42.791Z",
  "source": "https://robloxden.com/game-codes/world-roleplay"
 }

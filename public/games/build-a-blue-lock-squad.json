@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BEE",
+   "reward": "15 Rerolls and 10 Refreshes"
+  },
+  {
+   "code": "MONSTER",
+   "reward": "200,000 Cash , 20 Rerolls , and 15 Refreshes"
+  },
+  {
+   "code": "SPECIALGOAL",
+   "reward": "10 Rerolls , 5 Refreshes , and 100,000 Cash"
+  },
+  {
    "code": "ELUSIVEYAY",
    "reward": "10 Refreshes"
   },
@@ -67,6 +79,6 @@
    "reward": "50 Refreshes"
   }
  ],
- "updated": "2026-09-22T21:10:50.625Z",
+ "updated": "2026-09-24T04:08:37.040Z",
  "source": "https://robloxden.com/game-codes/build-a-blue-lock-squad"
 }

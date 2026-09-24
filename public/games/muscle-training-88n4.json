@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "!!200KVISITS!!",
+   "reward": "25 tickets, 30 Race Rolls and Shards (Adaptive)"
+  },
+  {
+   "code": "150KVisits",
+   "reward": "Shards (Adaptive), Muscle (Adaptive) and 1 Random Fighter"
+  },
+  {
+   "code": "100KVisits",
+   "reward": "Shards (Adaptive), 5 Ticekts, 10 Race Rerolls and 1 Random Fighter"
+  },
+  {
+   "code": "HerKlES",
+   "reward": "Shards (Adaptive) and 1 Random Fighter"
+  },
+  {
+   "code": "50KVisits",
+   "reward": "5 Shards and Larry"
+  },
+  {
+   "code": "25KVisits",
+   "reward": "100 Shards and 100 Muscles"
+  },
+  {
+   "code": "10KVisits",
+   "reward": "5 Tickets"
+  },
+  {
+   "code": "UPD1",
+   "reward": "10 Race Rolls"
   }
  ],
- "updated": "2026-09-23T04:16:36.041Z",
+ "updated": "2026-09-24T11:37:18.321Z",
  "source": "https://robloxden.com/game-codes/muscle-training-88n4"
 }

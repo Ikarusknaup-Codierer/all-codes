@@ -15,10 +15,18 @@
    "reward": "Yen"
   },
   {
-   "code": "trainingmode",
-   "reward": "1 Luck Boost"
+   "code": "CEODOUBLE",
+   "reward": "1,000 Doubloons"
+  },
+  {
+   "code": "THISISNOTBLADEBALLS",
+   "reward": "2 Spins"
+  },
+  {
+   "code": "halloween2024p1",
+   "reward": "150 Souls"
   }
  ],
- "updated": "2026-09-23T04:09:42.761Z",
+ "updated": "2026-09-24T11:30:03.928Z",
  "source": "https://robloxden.com/game-codes/anime-ball"
 }

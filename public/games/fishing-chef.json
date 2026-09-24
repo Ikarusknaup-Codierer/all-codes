@@ -23,10 +23,6 @@
    "reward": "2x Server Luck (15 Minutes)"
   },
   {
-   "code": "Smallsip1",
-   "reward": "a Small Luck Potion (+50% for 15 mins)"
-  },
-  {
    "code": "Lucksip2",
    "reward": "a +50% Luck Potion (15 mins)"
   },
@@ -35,6 +31,6 @@
    "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-09-23T11:11:32.596Z",
+ "updated": "2026-09-24T11:41:38.843Z",
  "source": "https://robloxden.com/game-codes/fishing-chef"
 }

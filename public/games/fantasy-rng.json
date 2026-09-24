@@ -5,8 +5,44 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "STORM",
+   "reward": "1 Diamond Chest and 1 Mythic Chest"
+  },
+  {
+   "code": "EGG",
+   "reward": "1 Diamond Dragon Egg"
+  },
+  {
+   "code": "DRAGON",
+   "reward": "1 Sword VI"
+  },
+  {
+   "code": "BOSSES",
+   "reward": "1 Golden Chest"
+  },
+  {
+   "code": "BLESSED",
+   "reward": "1 Mythic Chest"
+  },
+  {
+   "code": "50K",
+   "reward": "1 of Each Greater Potion and 3 Magic Books"
+  },
+  {
+   "code": "POTIONS",
+   "reward": "1 of Each Potion"
+  },
+  {
+   "code": "SWORDS",
+   "reward": "1 I Sword, 1 II Sword, 1 III Sword and 1 IV Sword"
+  },
+  {
+   "code": "MAGIC",
+   "reward": "access to the brand new Magic Tree"
   }
  ],
- "updated": "2026-09-23T04:16:39.947Z",
+ "updated": "2026-09-24T11:37:21.151Z",
  "source": "https://robloxden.com/game-codes/fantasy-rng"
 }

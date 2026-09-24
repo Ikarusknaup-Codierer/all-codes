@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Money",
+   "reward": "New Skin"
+  },
+  {
    "code": "thanksforliking",
    "reward": "$30,000"
   },
   {
-   "code": "EXTRAGEMS",
-   "reward": "5 Minute Gems Potion"
-  },
-  {
-   "code": "GEMSPOTION",
-   "reward": "5 Minute Gems Potion"
-  },
-  {
-   "code": "EXTRABRICKS",
+   "code": "BRICKSBOOST",
    "reward": "5 Minute Bricks Potion"
   },
   {
-   "code": "newskins",
-   "reward": "A Free Twitter Skin And $30,000"
+   "code": "PETHYPE",
+   "reward": "25 Gems"
+  },
+  {
+   "code": "blizmid",
+   "reward": "10 Gems"
   }
  ],
- "updated": "2026-09-23T11:13:23.932Z",
+ "updated": "2026-09-24T11:43:52.556Z",
  "source": "https://robloxden.com/game-codes/hole-simulator"
 }

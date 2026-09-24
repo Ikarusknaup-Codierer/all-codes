@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "OPTIMIZATION!",
+   "reward": "Rerolls , Potions , and other Rewards . You must have 50,000 Rolls to "
+  },
+  {
+   "code": "BUGFIXUPD!",
+   "reward": "Rerolls , Potions , and other Rewards . You must have 100,000 Rolls to"
+  },
+  {
    "code": "POTENTIAL!",
    "reward": "Free Rewards . You must have at least 50,000 Rolls to use this code"
   },
@@ -159,6 +167,6 @@
    "reward": "3x Luck Potion III , 3x Roll Speed Potion III , 3x Battle Speed Potion"
   }
  ],
- "updated": "2026-09-23T11:13:10.628Z",
+ "updated": "2026-09-24T11:43:40.163Z",
  "source": "https://robloxden.com/game-codes/card-chronicles"
 }

@@ -11,10 +11,6 @@
    "reward": "2x Experience (20 Minutes)"
   },
   {
-   "code": "pleasezakineedthis",
-   "reward": "rewards"
-  },
-  {
    "code": "Chandler",
    "reward": "0 Cash"
   },
@@ -95,6 +91,10 @@
    "reward": "a 20 Minute 2x XP Boost"
   },
   {
+   "code": "pleasezakineedthis",
+   "reward": "rewards"
+  },
+  {
    "code": "KITT_RESET",
    "reward": "1 Stat Reset"
   },
@@ -107,6 +107,6 @@
    "reward": "a 20 Minute 2x XP Boost"
   }
  ],
- "updated": "2026-09-23T11:12:54.677Z",
+ "updated": "2026-09-24T11:43:23.985Z",
  "source": "https://robloxden.com/game-codes/blox-fruits"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "PEEKAPEEKABOO",
-   "reward": "Spins"
-  },
-  {
-   "code": "STATRESET10",
+   "code": "STATRESET5",
    "reward": "a Stat Reset"
   },
   {
-   "code": "CLOUDBANG",
+   "code": "STATRESET3",
+   "reward": "a Stat Reset"
+  },
+  {
+   "code": "EXPCODEBUGGY",
    "reward": "a reward"
   },
   {
-   "code": "BETARELEASE",
-   "reward": "5 Race Spins"
+   "code": "CODESWIPED",
+   "reward": "Magic Spins"
   },
   {
-   "code": "FREECOUSINS",
-   "reward": "Armor"
+   "code": "FAIRYKINGYUH",
+   "reward": "Magic Spins"
   }
  ],
- "updated": "2026-09-23T11:10:40.517Z",
+ "updated": "2026-09-24T11:40:35.214Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

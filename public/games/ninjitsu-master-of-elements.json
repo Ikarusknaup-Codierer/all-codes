@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "MOEOperatorFangbam",
+   "code": "lightning",
+   "reward": "1 Rare Chest"
+  },
+  {
+   "code": "MOEBloodthirsty",
    "reward": "1 Net"
   },
   {
@@ -15,14 +19,10 @@
    "reward": "3 Rare Chests"
   },
   {
-   "code": "MOEhalloween",
-   "reward": "1 Epic Chest"
-  },
-  {
-   "code": "chest",
-   "reward": "1 Epic Chest"
+   "code": "Ninjitsu",
+   "reward": "2 Stat Refunds"
   }
  ],
- "updated": "2026-09-23T04:09:23.942Z",
+ "updated": "2026-09-24T11:29:42.193Z",
  "source": "https://robloxden.com/game-codes/ninjitsu-master-of-elements"
 }

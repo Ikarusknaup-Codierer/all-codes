@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BDAYBOT",
+   "code": "FIB",
+   "reward": "$750"
+  },
+  {
+   "code": "LEAPYEAR",
+   "reward": "$750"
+  },
+  {
+   "code": "EASTER22",
    "reward": "$2,500"
   },
   {
-   "code": "BDAY",
-   "reward": "$2,500"
-  },
-  {
-   "code": "AA13",
+   "code": "COASTLINERS",
    "reward": "$1,000"
   },
   {
-   "code": "LOCKNLOAD",
+   "code": "2020BADGES",
    "reward": "Unknown Reward"
-  },
-  {
-   "code": "PRIVATESERVER",
-   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-09-23T04:11:12.637Z",
+ "updated": "2026-09-24T11:31:49.195Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

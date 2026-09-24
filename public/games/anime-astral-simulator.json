@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FIXEDPETAVATARS",
+   "reward": "250 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Poti"
+  },
+  {
+   "code": "SORRYFORLAG",
+   "reward": "1,500 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Po"
+  },
+  {
+   "code": "DROPRATESPIRITBUFFED",
+   "reward": "250 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Poti"
+  },
+  {
    "code": "UPDATE13",
    "reward": "200 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -367,6 +379,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-09-23T04:17:36.742Z",
+ "updated": "2026-09-24T11:38:00.791Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

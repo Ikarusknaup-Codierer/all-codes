@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "PhonkDelay",
+   "reward": "100 Aura and 1 Spin"
+  },
+  {
+   "code": "VOIDWALKER",
+   "reward": "150 Aura and 1 Spin"
+  },
+  {
+   "code": "250KVISITS",
+   "reward": "100 Aura"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "150 Aura"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "4 Spins"
+  },
+  {
+   "code": "OGPLAYER",
+   "reward": "the exclusive [OG] title"
   }
  ],
- "updated": "2026-09-23T04:16:38.872Z",
+ "updated": "2026-09-24T11:37:20.046Z",
  "source": "https://robloxden.com/game-codes/phonk-slap"
 }

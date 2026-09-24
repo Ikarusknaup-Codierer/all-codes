@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "1YEAR",
+   "reward": "6 Lucky Spins and 12 Mythic Spins"
+  },
+  {
+   "code": "5MVISISTS",
+   "reward": "5 Mythic Spins and 2 World Class Spins"
+  },
+  {
+   "code": "DELIGHTEDWORSTTESTER",
+   "reward": "a Mythic Spin"
+  },
+  {
+   "code": "GUMLYWORKINGAGAIN",
+   "reward": "3 World Class Spins and 2 Mythic Spins"
+  },
+  {
+   "code": "LOKISOON",
+   "reward": "a World Class Spin and 2 Mythic Spins"
+  },
+  {
    "code": "SUBBLRMODDED",
    "reward": "2 World Class Spins"
   },
@@ -47,6 +67,6 @@
    "reward": "2 World Class Spins and 5 Mythic Spins"
   }
  ],
- "updated": "2026-09-23T16:32:28.912Z",
+ "updated": "2026-09-24T16:59:23.607Z",
  "source": "https://robloxden.com/game-codes/blr-recreation"
 }

@@ -11,10 +11,6 @@
    "reward": "2 Diamond Packs , 2 Galactic Packs , and 1 Rainbow Pack"
   },
   {
-   "code": "Update4",
-   "reward": "3 Gold Packs 2 Diamond Packs and a Galactic Pack"
-  },
-  {
    "code": "Update3",
    "reward": "3 Gold Packs and 2 Diamond Packs"
   },
@@ -35,6 +31,10 @@
    "reward": "2 Gold Packs , 3 Diamond Packs and 2 Galactic Packs"
   },
   {
+   "code": "Update4",
+   "reward": "3 Gold Packs 2 Diamond Packs and a Galactic Pack"
+  },
+  {
    "code": "Update2",
    "reward": "3 Gold Packs and a Diamond Pack"
   },
@@ -43,6 +43,6 @@
    "reward": "2 Gold Packs and 1 Diamond Pack"
   }
  ],
- "updated": "2026-09-23T11:16:05.476Z",
+ "updated": "2026-09-24T16:55:48.774Z",
  "source": "https://robloxden.com/game-codes/mini-cup"
 }

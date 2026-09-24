@@ -15,6 +15,10 @@
    "reward": "Gems"
   },
   {
+   "code": "ReduceObbyTime!",
+   "reward": "rewards"
+  },
+  {
    "code": "WatchAds!",
    "reward": "1,250 Gems"
   },
@@ -75,6 +79,6 @@
    "reward": "10K Gems"
   }
  ],
- "updated": "2026-09-23T11:14:21.253Z",
+ "updated": "2026-09-24T16:53:59.438Z",
  "source": "https://robloxden.com/game-codes/ugc-obby-2"
 }

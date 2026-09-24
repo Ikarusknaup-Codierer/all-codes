@@ -19,6 +19,10 @@
    "reward": "10 Minutes of 2x Luck and 10,000 Coins"
   },
   {
+   "code": "2MVISITS",
+   "reward": "2x Strength (10 Minutes) and 2x Luck (10 Minutes)"
+  },
+  {
    "code": "RELICS",
    "reward": "5 Free Broken Relic Spins and 3 Free Lost Relic Spins"
   },
@@ -41,20 +45,8 @@
   {
    "code": "QOL",
    "reward": "100,000 Cash"
-  },
-  {
-   "code": "2MVISITS",
-   "reward": "2x Strength (10 Minutes) and 2x Luck (10 Minutes)"
-  },
-  {
-   "code": "SECONDUPDATE",
-   "reward": "1 Lost Relic Reroll and 5 Minutes of 2x Luck"
-  },
-  {
-   "code": "RADU",
-   "reward": "5 Minutes of 2x Power"
   }
  ],
- "updated": "2026-09-23T11:15:18.082Z",
+ "updated": "2026-09-24T16:54:54.598Z",
  "source": "https://robloxden.com/game-codes/shovel-it"
 }

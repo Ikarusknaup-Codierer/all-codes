@@ -11,12 +11,12 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "FALL",
+   "code": "1MVISITS",
    "reward": "rewards"
   },
   {
-   "code": "SOUL",
-   "reward": "rewards"
+   "code": "FREECOINS",
+   "reward": "Coins"
   },
   {
    "code": "UPDATE",
@@ -27,6 +27,6 @@
    "reward": "6,000 Coins"
   }
  ],
- "updated": "2026-09-23T11:09:31.090Z",
+ "updated": "2026-09-24T16:52:21.309Z",
  "source": "https://robloxden.com/game-codes/murder-legends"
 }

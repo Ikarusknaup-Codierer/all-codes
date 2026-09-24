@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LightAwake",
-   "reward": "100 Gems"
-  },
-  {
    "code": "2MVisits",
    "reward": "100 Gems"
   },
@@ -23,10 +19,14 @@
    "reward": "50 Gems"
   },
   {
+   "code": "SorryForDataReset",
+   "reward": "50 Gems"
+  },
+  {
    "code": "RACES",
    "reward": "50 Gems"
   }
  ],
- "updated": "2026-09-23T11:09:57.927Z",
+ "updated": "2026-09-24T16:52:50.027Z",
  "source": "https://robloxden.com/game-codes/myth-piece"
 }

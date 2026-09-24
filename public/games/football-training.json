@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "shadowpair",
-   "reward": "2 Void Egg"
-  },
-  {
    "code": "oldtimer",
    "reward": "5 Timeless Egg"
   },
@@ -115,10 +111,14 @@
    "reward": "1 Void Egg"
   },
   {
+   "code": "shadowpair",
+   "reward": "2 Void Egg"
+  },
+  {
    "code": "timevault",
    "reward": "10 Timeless Egg"
   }
  ],
- "updated": "2026-09-23T11:16:03.379Z",
+ "updated": "2026-09-24T16:55:46.566Z",
  "source": "https://robloxden.com/game-codes/football-training"
 }

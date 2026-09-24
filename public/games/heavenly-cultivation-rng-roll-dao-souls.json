@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "DAORETURN",
+   "reward": "2x Luck (1 Hour)"
+  },
+  {
+   "code": "LUCKX3",
+   "reward": "3x Luck"
+  },
+  {
+   "code": "TWINDAO",
+   "reward": "Twin Summons"
+  },
+  {
+   "code": "QISURGE",
+   "reward": "3x Qi (1 Hour)"
+  },
+  {
+   "code": "DAWNBLOSSOM",
+   "reward": "the Exclusive Border"
+  },
+  {
+   "code": "HEAVENSBACK",
+   "reward": "the Idle Chest (6 Hours)"
+  },
+  {
    "code": "DISCORD",
    "reward": "6H Idle Chest"
   },
@@ -31,6 +55,6 @@
    "reward": "6H Idle Chest"
   }
  ],
- "updated": "2026-09-23T11:14:11.593Z",
+ "updated": "2026-09-24T16:53:49.315Z",
  "source": "https://robloxden.com/game-codes/heavenly-cultivation-rng-roll-dao-souls"
 }

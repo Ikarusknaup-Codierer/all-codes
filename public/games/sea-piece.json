@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SOUL",
+   "reward": "666,666 Beli"
+  },
+  {
    "code": "Update7!",
    "reward": "246,810 Beli"
   },
@@ -15,18 +19,14 @@
    "reward": "Beli And Stat Reset"
   },
   {
-   "code": "Big20",
-   "reward": "1,000,000 Beli"
-  },
-  {
    "code": "cat!",
    "reward": "Double XP For 5 Minutes"
   },
   {
-   "code": "Sub2MtBossG",
-   "reward": "Free Stuff"
+   "code": "500Likes",
+   "reward": "Double XP For 15 Minutes"
   }
  ],
- "updated": "2026-09-23T04:21:41.231Z",
+ "updated": "2026-09-24T16:51:40.287Z",
  "source": "https://robloxden.com/game-codes/sea-piece"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "STARTER",
-   "reward": "Starter"
-  },
-  {
    "code": "CLOWN!",
    "reward": "Clown!"
   },
   {
-   "code": "GOURDS",
-   "reward": "1 Pumpkin Necklace"
+   "code": "HOLIDAY",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "SPRING",
+   "reward": "1 Flower Necklace"
   },
   {
    "code": "GIFT",
@@ -31,6 +31,6 @@
    "reward": "New"
   }
  ],
- "updated": "2026-09-23T04:17:26.297Z",
+ "updated": "2026-09-24T16:51:17.237Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

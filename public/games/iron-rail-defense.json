@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "ROGUEMODE",
-   "reward": "150 Prime Tokens"
-  },
-  {
    "code": "NEWCHEST",
    "reward": "150 Tokens and 1 Bonus Ticket"
+  },
+  {
+   "code": "HAPPYNEWYEAR",
+   "reward": "1 Firework Tag"
   },
   {
    "code": "NEWMODESOON",
@@ -27,6 +27,6 @@
    "reward": "100 Prime"
   }
  ],
- "updated": "2026-09-23T11:18:48.798Z",
+ "updated": "2026-09-24T16:57:52.247Z",
  "source": "https://robloxden.com/game-codes/iron-rail-defense"
 }

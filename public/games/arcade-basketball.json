@@ -135,14 +135,14 @@
    "reward": "1 Green Crate . This code requires you to join the Arcade Basketball R"
   },
   {
-   "code": "ISO",
-   "reward": "1 Lucky Badge Roll"
-  },
-  {
    "code": "BADGESONE",
    "reward": "Reward"
+  },
+  {
+   "code": "MORECRATES",
+   "reward": "2 Green Effect Crates"
   }
  ],
- "updated": "2026-09-24T04:05:12.141Z",
+ "updated": "2026-09-25T04:22:21.652Z",
  "source": "https://robloxden.com/game-codes/arcade-basketball"
 }

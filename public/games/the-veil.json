@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SORRY4SHUTDOWN",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "6 Race Rerolls and a Party Hat"
   }
  ],
- "updated": "2026-09-23T21:31:03.228Z",
+ "updated": "2026-09-25T04:20:15.407Z",
  "source": "https://robloxden.com/game-codes/the-veil"
 }

@@ -19,6 +19,10 @@
    "reward": "Bouncing Effect"
   },
   {
+   "code": "boing",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "gullible",
    "reward": "the Look Up Message"
   },
@@ -31,10 +35,10 @@
    "reward": "20,000 Cash"
   },
   {
-   "code": "boing",
-   "reward": "Free Rewards"
+   "code": "WeAreSoBack",
+   "reward": "20,000 Cash and 250 Pounds"
   }
  ],
- "updated": "2026-09-24T04:07:10.759Z",
+ "updated": "2026-09-25T04:24:15.186Z",
  "source": "https://robloxden.com/game-codes/cursed-tank-simulator"
 }

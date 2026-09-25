@@ -19,16 +19,8 @@
    "reward": "a Free Case"
   },
   {
-   "code": "FLORAL05",
-   "reward": "50k Cash"
-  },
-  {
    "code": "4SYLUM",
    "reward": "an Exclusive Outfit and 5 Vault Tokens"
-  },
-  {
-   "code": "WEEKTWO",
-   "reward": "50k Cash"
   },
   {
    "code": "SPECTER3",
@@ -37,10 +29,6 @@
   {
    "code": "SPECTER3AGAIN",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "SPLASH",
-   "reward": "3 Vault Tokens"
   },
   {
    "code": "THEHORSEISHERE",
@@ -71,12 +59,20 @@
    "reward": "a Free Skin"
   },
   {
+   "code": "FLORAL05",
+   "reward": "50k Cash"
+  },
+  {
    "code": "EASTER2025",
    "reward": "an Exclusive Outfit and 5 Vault Tokens"
   },
   {
    "code": "WEEKTHR33",
    "reward": "15k Cash and the Legendary Star outfit"
+  },
+  {
+   "code": "WEEKTWO",
+   "reward": "50k Cash"
   },
   {
    "code": "500M",
@@ -87,6 +83,6 @@
    "reward": "3 Vault Tokens , an Exclusive Outfit , and a Motion Sensor"
   }
  ],
- "updated": "2026-09-23T21:29:38.832Z",
+ "updated": "2026-09-25T04:20:00.362Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

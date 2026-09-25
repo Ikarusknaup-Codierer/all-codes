@@ -39,10 +39,6 @@
    "reward": "Christmas Tree Speech Bubble"
   },
   {
-   "code": "toemaster",
-   "reward": "Reward"
-  },
-  {
    "code": "Merchant",
    "reward": "60 Pearls"
   },
@@ -69,6 +65,10 @@
   {
    "code": "toytumble",
    "reward": "Toy Tumble Emote"
+  },
+  {
+   "code": "toemaster",
+   "reward": "Ballet Dance Emote"
   },
   {
    "code": "siuu",
@@ -131,6 +131,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-24T04:10:26.839Z",
+ "updated": "2026-09-25T11:34:26.852Z",
  "source": "https://robloxden.com/game-codes/silly-simon-says"
 }

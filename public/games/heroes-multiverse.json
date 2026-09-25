@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HOWSOLOSURFAVS",
+   "code": "HOMEWORLD",
+   "reward": "20,000 Coins"
+  },
+  {
+   "code": "SUPERHEAT",
    "reward": "Free Coins"
   },
   {
-   "code": "NEWYEAR",
+   "code": "COINSBAG",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HEYFRIEND",
    "reward": "Free Coins"
   },
   {
-   "code": "10MILLION",
+   "code": "SUMMERCODE",
    "reward": "100,000 Coins"
-  },
-  {
-   "code": "VOICECODE",
-   "reward": "Free Coins"
-  },
-  {
-   "code": "SAYHELLO",
-   "reward": "Free Coins"
   }
  ],
- "updated": "2026-09-24T11:33:53.208Z",
+ "updated": "2026-09-25T11:40:57.447Z",
  "source": "https://robloxden.com/game-codes/heroes-multiverse"
 }

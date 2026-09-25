@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "DUGOUT20",
+   "reward": "20 Luck Rolls"
+  },
+  {
+   "code": "SCOUT5",
+   "reward": "5 Luck Potions"
+  },
+  {
+   "code": "SPIN25",
+   "reward": "25 Luck Rerolls"
+  },
+  {
+   "code": "POTIONS10",
+   "reward": "10 Luck Potions"
+  },
+  {
+   "code": "MEGA50",
+   "reward": "50 Luck Rerolls"
+  },
+  {
+   "code": "BREW",
+   "reward": "2 Luck Potions"
+  },
+  {
+   "code": "PATCHDAY",
+   "reward": "20 Rerolls"
+  },
+  {
+   "code": "LUCKYPOTION",
+   "reward": "2 Luck Potions"
+  },
+  {
    "code": "Shutdown",
    "reward": "5 Luck Rolls"
   },
@@ -23,6 +55,6 @@
    "reward": "1.3 Luck Boost (30 mins)"
   }
  ],
- "updated": "2026-09-24T11:31:45.451Z",
+ "updated": "2026-09-25T11:39:16.678Z",
  "source": "https://robloxden.com/game-codes/start-your-soccer-career"
 }

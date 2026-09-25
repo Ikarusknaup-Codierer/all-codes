@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Sorry",
-   "reward": "7 Diamonds And A Stat Reset"
-  },
-  {
    "code": "CATPIECESTATRESET",
    "reward": "1 Stat Reset"
   },
@@ -143,6 +139,10 @@
    "reward": "a Stat Reset"
   },
   {
+   "code": "Sorry",
+   "reward": "Stat Reset and 7 Diamonds"
+  },
+  {
    "code": "sevenstatreset",
    "reward": "Stat Reset and 7 Diamonds"
   },
@@ -223,10 +223,10 @@
    "reward": ""
   },
   {
-   "code": "CANDYCANEUPDATE!",
-   "reward": "5,000,000 Geli"
+   "code": "SEA2NEWISLANDSSTATRESET",
+   "reward": "1 Stat Reset"
   }
  ],
- "updated": "2026-09-24T11:32:26.557Z",
+ "updated": "2026-09-25T11:39:45.089Z",
  "source": "https://robloxden.com/game-codes/cat-piece"
 }

@@ -12,7 +12,15 @@
   },
   {
    "code": "140KLIKES",
-   "reward": "100 Gems"
+   "reward": "400 Gems"
+  },
+  {
+   "code": "ADMINTHIRD",
+   "reward": "15 Minutes Of Each Boost"
+  },
+  {
+   "code": "YALDABAOTH",
+   "reward": "300 Gems"
   },
   {
    "code": "FREEDOM",
@@ -25,14 +33,6 @@
   {
    "code": "FOURTHOFJULY",
    "reward": "100 Gems"
-  },
-  {
-   "code": "ADMINTHIRD",
-   "reward": "15 Minutes Of Each Boost"
-  },
-  {
-   "code": "YALDABAOTH",
-   "reward": "300 Gems"
   },
   {
    "code": "MORECURRENCY",
@@ -57,16 +57,8 @@
   {
    "code": "NEWYEAR26",
    "reward": "100 Gems"
-  },
-  {
-   "code": "6KLIKESOMG",
-   "reward": "100"
-  },
-  {
-   "code": "EGGIES",
-   "reward": "100 Gems"
   }
  ],
- "updated": "2026-09-24T11:33:53.792Z",
+ "updated": "2026-09-25T11:40:58.021Z",
  "source": "https://robloxden.com/game-codes/fabled-legacy"
 }

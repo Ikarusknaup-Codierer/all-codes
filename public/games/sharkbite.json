@@ -11,10 +11,6 @@
    "reward": "50 Shark Teeth"
   },
   {
-   "code": "SHARKBITE2",
-   "reward": "200 Shark Teeth"
-  },
-  {
    "code": "1BILLION",
    "reward": "100 Shark Teeth"
   },
@@ -27,14 +23,14 @@
    "reward": "50 Shark Teeth"
   },
   {
-   "code": "TWOYEARS",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "NEWGUN",
    "reward": "50 Shark Teeth"
+  },
+  {
+   "code": "SHARKBITE2",
+   "reward": "200 Shark Teeth"
   }
  ],
- "updated": "2026-09-24T11:38:58.402Z",
+ "updated": "2026-09-25T16:59:45.574Z",
  "source": "https://robloxden.com/game-codes/sharkbite"
 }

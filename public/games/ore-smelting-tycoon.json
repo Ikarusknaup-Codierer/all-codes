@@ -11,10 +11,6 @@
    "reward": "Free Boosts"
   },
   {
-   "code": "2kPlayers",
-   "reward": "Cashboost (2:30 minutes)"
-  },
-  {
    "code": "1MVISITS",
    "reward": "a 3 Minute 30 Second Ore Drop Boost"
   },
@@ -43,6 +39,10 @@
    "reward": "a 4 Minute Ore Drop Boost"
   },
   {
+   "code": "2KPLAYERS",
+   "reward": "a 2 Minute 30 Second Cash Boost"
+  },
+  {
    "code": "10KLIKES",
    "reward": "a 2 Minute Frenzy Time Boost"
   },
@@ -51,6 +51,6 @@
    "reward": "a 3 Minute 30 Second Frenzy Boost"
   }
  ],
- "updated": "2026-09-24T11:34:47.201Z",
+ "updated": "2026-09-25T16:56:44.559Z",
  "source": "https://robloxden.com/game-codes/ore-smelting-tycoon"
 }

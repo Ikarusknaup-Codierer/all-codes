@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "CLOWN!",
-   "reward": "Clown!"
+   "code": "STARTER",
+   "reward": "Starter"
   },
   {
-   "code": "HOLIDAY",
-   "reward": "2,000 Cash"
+   "code": "HEART",
+   "reward": "1 Valentine Torch"
   },
   {
    "code": "SPRING",
@@ -31,6 +31,6 @@
    "reward": "New"
   }
  ],
- "updated": "2026-09-24T16:51:17.237Z",
+ "updated": "2026-09-25T17:03:51.598Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

@@ -19,6 +19,26 @@
    "reward": "1 Hour of Drop Boosts , 1 Hour of Stats Boosts , 1 Hour of Exp Boosts "
   },
   {
+   "code": "HALLOWEENINCOMING",
+   "reward": "rewards"
+  },
+  {
+   "code": "FACINGEAST",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "INTOTHESHADOWS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Youtubeisback!",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "WORLDRAIDS",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "ThanksForWaiting",
    "reward": "4 Hours of Drop, Stats, Exp, Coins, and Mastery Boosts , 15 Raid Scrol"
   },
@@ -53,26 +73,6 @@
   {
    "code": "SoSorryForDelay",
    "reward": "4 Hours of Drop, Stats, Exp, Coins, and Mastery Boosts , 15 Raid Scrol"
-  },
-  {
-   "code": "MAGMASOON",
-   "reward": "Rewards"
-  },
-  {
-   "code": "FACINGEAST",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "INTOTHESHADOWS",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "Youtubeisback!",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "WORLDRAIDS",
-   "reward": "Free Rewards"
   },
   {
    "code": "SorryForDelay!!",
@@ -283,6 +283,10 @@
    "reward": "Rewards"
   },
   {
+   "code": "MAGMASOON",
+   "reward": "Rewards"
+  },
+  {
    "code": "DRAGONBALLS",
    "reward": "Rewards"
   },
@@ -291,6 +295,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-24T11:34:39.356Z",
+ "updated": "2026-09-25T16:56:38.870Z",
  "source": "https://robloxden.com/game-codes/one-fruit"
 }

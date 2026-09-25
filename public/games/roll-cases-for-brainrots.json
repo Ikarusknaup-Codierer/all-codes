@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "10 Spins and x4 Luck Boost (5 Minutes)"
+  },
+  {
+   "code": "EVENTSPASSXP",
+   "reward": "1,500 Pass XP"
+  },
+  {
+   "code": "LUCKY4X",
+   "reward": "x4 Luck Boost (3 Minutes)"
+  },
+  {
+   "code": "BPLEVELS",
+   "reward": "1,000 Pass XP"
+  },
+  {
+   "code": "SPINYSPIN",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "LUCKY2X",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HAUNTED3",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-24T11:43:42.748Z",
+ "updated": "2026-09-25T17:03:15.322Z",
  "source": "https://robloxden.com/game-codes/roll-cases-for-brainrots"
 }

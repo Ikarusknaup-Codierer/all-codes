@@ -7,10 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "NEWUPD",
+   "reward": "500 Gems and 5 Infinity Dice"
+  },
+  {
+   "code": "EXCLUSIVE",
+   "reward": "250 Gems and 5 Omega Dice"
+  },
+  {
    "code": "ANIMEGIRL2026",
    "reward": "250 Gems and 3 Infinity Dice"
+  },
+  {
+   "code": "Nebula",
+   "reward": "2x Luck (2 Hours)"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "2x Roll Lucky (2 Hours)"
+  },
+  {
+   "code": "BELUGA",
+   "reward": "2x Cash (2 Hours)"
   }
  ],
- "updated": "2026-09-24T11:43:48.744Z",
+ "updated": "2026-09-25T17:03:22.349Z",
  "source": "https://robloxden.com/game-codes/spin-an-anime-girl"
 }

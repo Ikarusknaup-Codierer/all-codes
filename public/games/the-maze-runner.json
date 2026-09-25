@@ -11,10 +11,6 @@
    "reward": "250 Golds , 1 Gold Key , 1 Silver Key and 1 Bronze Key"
   },
   {
-   "code": "pxucTtte",
-   "reward": "1200 Gold"
-  },
-  {
    "code": "35KGOAL",
    "reward": "Free Rewards"
   },
@@ -23,10 +19,14 @@
    "reward": "500 Gold"
   },
   {
-   "code": "FIXES",
-   "reward": "1 Gold Key and 450 Gems"
+   "code": "HALLOWEEN",
+   "reward": "1 Gold Key, 2 Silver Keys, 3 Bronze Keys and 450 Gems"
+  },
+  {
+   "code": "SPECTATE",
+   "reward": "2 Bronze Keys and 3 Silver Keys"
   }
  ],
- "updated": "2026-09-24T11:37:53.596Z",
+ "updated": "2026-09-25T16:59:17.976Z",
  "source": "https://robloxden.com/game-codes/the-maze-runner"
 }

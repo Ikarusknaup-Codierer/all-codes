@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "OPTIMIZE",
+   "reward": "700 Gems"
+  },
+  {
+   "code": "WAR",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "CONQUER",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "SORRY",
+   "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-09-24T11:41:31.965Z",
+ "updated": "2026-09-25T17:01:02.014Z",
  "source": "https://robloxden.com/game-codes/command-an-army"
 }

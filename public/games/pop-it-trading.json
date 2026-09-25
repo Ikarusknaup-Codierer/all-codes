@@ -187,10 +187,6 @@
    "reward": "Freddy Item"
   },
   {
-   "code": "CANDY",
-   "reward": "1 Candy Cup"
-  },
-  {
    "code": "CUTE",
    "reward": "a Bunzo"
   },
@@ -269,6 +265,10 @@
   {
    "code": "THURSDAY",
    "reward": "the Wednesday Item"
+  },
+  {
+   "code": "CANDY",
+   "reward": "a Candy Item"
   },
   {
    "code": "FIFI",
@@ -479,14 +479,14 @@
    "reward": "the Rock Paper Scissors Item"
   },
   {
-   "code": "pizzatimepizzaria",
-   "reward": "Random New Item"
+   "code": "inazuma",
+   "reward": "a Lightning Katana"
   },
   {
-   "code": "topcrop",
-   "reward": "Peach"
+   "code": "fifa",
+   "reward": "Soccer Ball"
   }
  ],
- "updated": "2026-09-24T11:42:22.181Z",
+ "updated": "2026-09-25T17:01:50.667Z",
  "source": "https://robloxden.com/game-codes/pop-it-trading"
 }

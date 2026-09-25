@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "GRAILWAR",
+   "reward": "5 King of Kings Keys"
+  },
+  {
+   "code": "SORRY4FUSION",
+   "reward": "100 Trait Rerolls , 50 Stat Crystals , and 25 Super Stat Crystals"
+  },
+  {
+   "code": "HOLYGRAIL",
+   "reward": "75 Trait Rerolls , 25 Super Stat Crystals , and 5,000 Gold"
+  },
+  {
+   "code": "FATEUPDATE",
+   "reward": "100 Trait Rerolls , 10,000 Gold , and 50 Stat Crystals"
+  },
+  {
    "code": "UPDATE1",
    "reward": "100 Rerolls"
   },
@@ -15,6 +31,6 @@
    "reward": "50 Trait Rerolls and 1,500 Gems"
   }
  ],
- "updated": "2026-09-24T11:41:33.086Z",
+ "updated": "2026-09-25T17:01:03.148Z",
  "source": "https://robloxden.com/game-codes/anime-war-rng"
 }

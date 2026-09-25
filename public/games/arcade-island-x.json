@@ -11,7 +11,11 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "Gold",
+   "code": "MILLION",
+   "reward": "Reward"
+  },
+  {
+   "code": "Rainbows",
    "reward": "Reward"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "TheBeginning01",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "Draco",
-   "reward": "Reward"
   }
  ],
- "updated": "2026-09-24T11:38:08.261Z",
+ "updated": "2026-09-25T16:59:28.562Z",
  "source": "https://robloxden.com/game-codes/arcade-island-x"
 }

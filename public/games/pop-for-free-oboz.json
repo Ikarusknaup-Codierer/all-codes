@@ -7,14 +7,14 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE1",
-   "reward": "50 Pops"
-  },
-  {
    "code": "ADMINABUSEOVER",
    "reward": "25 Pops"
+  },
+  {
+   "code": "WADMINABUSE",
+   "reward": "10 Pops"
   }
  ],
- "updated": "2026-09-24T11:42:31.920Z",
+ "updated": "2026-09-25T17:02:01.821Z",
  "source": "https://robloxden.com/game-codes/pop-for-free-oboz"
 }

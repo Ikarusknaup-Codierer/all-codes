@@ -15,18 +15,18 @@
    "reward": "1,000 Emeralds"
   },
   {
-   "code": "NEWLOBBY",
-   "reward": "1,000 Emeralds"
-  },
-  {
    "code": "LIKES1000",
    "reward": "1,000 Emeralds"
   },
   {
-   "code": "WEEK2",
+   "code": "2FOR2",
+   "reward": "1,000 Emeralds"
+  },
+  {
+   "code": "WEEK5",
    "reward": "1,000 Emeralds"
   }
  ],
- "updated": "2026-09-24T11:38:14.699Z",
+ "updated": "2026-09-25T16:59:33.120Z",
  "source": "https://robloxden.com/game-codes/block-defense-alpha"
 }

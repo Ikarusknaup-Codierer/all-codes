@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "MINIUPD",
+   "reward": "500 Huss Coins"
+  },
+  {
+   "code": "DELAYPT2",
+   "reward": "1,000 Huss Coins"
+  },
+  {
+   "code": "RACESFIXED",
+   "reward": "500 Huss Coins"
+  },
+  {
    "code": "UPDNINE",
    "reward": "500 Huss Coins"
   },
@@ -87,6 +99,6 @@
    "reward": "300 Huss Coins"
   }
  ],
- "updated": "2026-09-24T11:41:58.410Z",
+ "updated": "2026-09-25T17:01:23.206Z",
  "source": "https://robloxden.com/game-codes/escape-huss-valley"
 }

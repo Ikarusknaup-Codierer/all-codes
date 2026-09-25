@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "FUSE",
+   "reward": "5 Devil Dice"
+  },
+  {
+   "code": "TRADING",
+   "reward": "5 Heaven Dice"
+  },
+  {
+   "code": "TRANSCENDENT",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "LUCK2",
+   "reward": "1 Prismatic Potion"
+  },
+  {
    "code": "LUCKY",
    "reward": "25 Golden Dice"
   },
@@ -27,6 +43,6 @@
    "reward": "250 Gems"
   }
  ],
- "updated": "2026-09-24T11:40:55.064Z",
+ "updated": "2026-09-25T17:00:26.837Z",
  "source": "https://robloxden.com/game-codes/spin-a-superhero"
 }

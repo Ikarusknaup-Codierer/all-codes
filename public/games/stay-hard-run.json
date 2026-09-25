@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "STAYDOWN",
+   "reward": "2,000 Miles"
+  },
+  {
+   "code": "SOMEREBIRTHS",
+   "reward": "20 Rebirths"
+  },
+  {
+   "code": "WORLD3",
+   "reward": "100,000 Points"
+  },
+  {
+   "code": "STAYUP",
+   "reward": "250 Miles"
+  },
+  {
+   "code": "GRINDSET",
+   "reward": "10,000 Points"
+  },
+  {
    "code": "DONTBEAWIMP",
    "reward": "3 Rebirths . You can redeem this code on All time marathon"
   },
@@ -59,6 +79,6 @@
    "reward": "5 Rebirths"
   }
  ],
- "updated": "2026-09-24T11:36:15.787Z",
+ "updated": "2026-09-25T16:57:52.436Z",
  "source": "https://robloxden.com/game-codes/stay-hard-run"
 }

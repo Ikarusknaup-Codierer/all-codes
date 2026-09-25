@@ -19,106 +19,110 @@
    "reward": "2,000 Gems"
   },
   {
-   "code": "XBOX",
-   "reward": "300 Gold . In order to redeem this code, you must be playing on an Xbo"
-  },
-  {
-   "code": "RUSH",
-   "reward": "the Hivemind Skin"
-  },
-  {
-   "code": "truthbehindthelies",
-   "reward": "400 Golds"
-  },
-  {
-   "code": "ELF",
-   "reward": "the Elfify Death Effect"
-  },
-  {
-   "code": "HUNT",
-   "reward": "10 Gems"
-  },
-  {
-   "code": "ALIEN",
-   "reward": "10 Gems"
-  },
-  {
-   "code": "ZOMBIE",
-   "reward": "10 Gems"
-  },
-  {
-   "code": "TWITTER",
-   "reward": "the Tatty PJs Skin"
-  },
-  {
-   "code": "GOLD",
-   "reward": "300 Golds"
-  },
-  {
-   "code": "50kLIKES",
-   "reward": "300 Golds"
-  },
-  {
-   "code": "Discord1000",
-   "reward": "300 Golds"
-  },
-  {
-   "code": "Pride",
-   "reward": "the Pride Gun Trail"
-  },
-  {
-   "code": "SCORE",
-   "reward": "10 Gems"
-  },
-  {
-   "code": "ANIME",
-   "reward": "10 Gems"
-  },
-  {
-   "code": "LOOT",
-   "reward": "300 Golds"
-  },
-  {
-   "code": "EPIC",
-   "reward": "300 Golds"
-  },
-  {
-   "code": "PUNCHED",
-   "reward": "the Juiceman Skin"
-  },
-  {
-   "code": "FREEDOM",
-   "reward": "the Glorious Uncle Sam Skin"
-  },
-  {
-   "code": "DEADEYE",
-   "reward": "the Steampunk Cowboy Skin"
-  },
-  {
-   "code": "META",
-   "reward": "the Smooth Criminal skin"
-  },
-  {
-   "code": "SLAYER",
-   "reward": "the Master Slayer skin"
+   "code": "Xbox",
+   "reward": "500 Golds . Only Xbox users"
   },
   {
    "code": "SANTABOT",
    "reward": "the Santabot Skin"
   },
   {
+   "code": "PRIDE",
+   "reward": "the Pride Gun Trail"
+  },
+  {
+   "code": "DISCORD1000",
+   "reward": "300 Gold"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "300 Gold"
+  },
+  {
+   "code": "GOLD",
+   "reward": "300 Gold"
+  },
+  {
+   "code": "LOOT",
+   "reward": "300 Gold"
+  },
+  {
+   "code": "TWITTER",
+   "reward": "the Tatty PJs Skin"
+  },
+  {
+   "code": "ZOMBIE",
+   "reward": "10 Gems"
+  },
+  {
+   "code": "EPIC",
+   "reward": "300 Gold"
+  },
+  {
+   "code": "ALIEN",
+   "reward": "10 Gems"
+  },
+  {
+   "code": "HUNT",
+   "reward": "10 Gems"
+  },
+  {
+   "code": "ELF",
+   "reward": "the Elfify Skin"
+  },
+  {
    "code": "TWITTER2K",
    "reward": "300 Gold"
+  },
+  {
+   "code": "TRUTHBEHINDTHELIES",
+   "reward": "400 Gold"
+  },
+  {
+   "code": "RUSH",
+   "reward": "the Hivemind Skin"
+  },
+  {
+   "code": "ANIME",
+   "reward": "10 Gems"
+  },
+  {
+   "code": "SCORE",
+   "reward": "10 Gems"
+  },
+  {
+   "code": "SLAYER",
+   "reward": "the Master Slayer Skin"
+  },
+  {
+   "code": "META",
+   "reward": "the Smooth Criminal Skin"
+  },
+  {
+   "code": "DEADEYE",
+   "reward": "the Steampunk Cowboy Skin"
+  },
+  {
+   "code": "FREEDOM",
+   "reward": "the Glorious Uncle Sam Skin"
+  },
+  {
+   "code": "PUNCHED",
+   "reward": "the Juiceman Skin"
   },
   {
    "code": "PHANTX",
    "reward": "the Phantom Skin"
   },
   {
-   "code": "turkey",
-   "reward": "10 Gems"
+   "code": "20000likes",
+   "reward": "300 Gold"
+  },
+  {
+   "code": "10000likes",
+   "reward": "300 Gold"
   }
  ],
- "updated": "2026-09-24T11:42:08.803Z",
+ "updated": "2026-09-25T17:01:35.149Z",
  "source": "https://robloxden.com/game-codes/shoot-out"
 }

@@ -35,16 +35,12 @@
    "reward": "100K Tickets And 2 Free Luck Boosters"
   },
   {
-   "code": "ToTheMoon",
-   "reward": "150 Coins"
-  },
-  {
-   "code": "NewHorror",
-   "reward": "450 Coins"
-  },
-  {
    "code": "NOCOALFORYOUU",
    "reward": "1 Dragonball"
+  },
+  {
+   "code": "TOTHEMOON",
+   "reward": "1 Boost"
   },
   {
    "code": "BOOSTER",
@@ -63,6 +59,10 @@
    "reward": "400 EXP"
   },
   {
+   "code": "NEWHORROR",
+   "reward": "450 Cash"
+  },
+  {
    "code": "HOLLOWSEVE",
    "reward": "200 Cash"
   },
@@ -75,14 +75,14 @@
    "reward": "1 Dragonball"
   },
   {
-   "code": "NegativeShenron",
+   "code": "GrandpaGohan",
    "reward": ""
   },
   {
-   "code": "AnimeLegacyReborn",
-   "reward": ""
+   "code": "SAINTERROR1440",
+   "reward": "1 Dragonball"
   }
  ],
- "updated": "2026-09-24T16:52:42.509Z",
+ "updated": "2026-09-25T17:05:06.831Z",
  "source": "https://robloxden.com/game-codes/anime-legacy"
 }

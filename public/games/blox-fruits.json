@@ -59,10 +59,6 @@
    "reward": "a 20 Minute 2x XP Boost"
   },
   {
-   "code": "SUB2GAMERROBOT_RESET1",
-   "reward": "a Stat Reset"
-  },
-  {
    "code": "SUB2GAMERROBOT_EXP1",
    "reward": "a 30 Minute 2x XP Boost"
   },
@@ -99,6 +95,10 @@
    "reward": "1 Stat Reset"
   },
   {
+   "code": "SUB2GAMERROBOT_RESET1",
+   "reward": "a Stat Reset"
+  },
+  {
    "code": "FUDD10_V2",
    "reward": "$2"
   },
@@ -107,6 +107,6 @@
    "reward": "a 20 Minute 2x XP Boost"
   }
  ],
- "updated": "2026-09-24T11:43:23.985Z",
+ "updated": "2026-09-25T17:02:43.596Z",
  "source": "https://robloxden.com/game-codes/blox-fruits"
 }

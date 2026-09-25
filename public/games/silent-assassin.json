@@ -15,18 +15,18 @@
    "reward": "free Easter items"
   },
   {
+   "code": "haunted",
+   "reward": "a Halloween Case"
+  },
+  {
    "code": "eggy",
    "reward": "an Easter Case"
   },
   {
    "code": "solid",
    "reward": "a Material Case"
-  },
-  {
-   "code": "1year",
-   "reward": "a Pattern Case"
   }
  ],
- "updated": "2026-09-24T11:40:03.844Z",
+ "updated": "2026-09-25T16:59:54.080Z",
  "source": "https://robloxden.com/game-codes/silent-assassin"
 }

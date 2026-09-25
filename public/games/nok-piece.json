@@ -27,14 +27,14 @@
    "reward": "1 Stat Reset"
   },
   {
-   "code": "UPDATE1",
-   "reward": ""
+   "code": "!BeliRestore2",
+   "reward": "A Reward"
   },
   {
    "code": "!ShutdownPiece",
    "reward": "1 Stat Reset"
   }
  ],
- "updated": "2026-09-24T11:42:44.200Z",
+ "updated": "2026-09-25T17:02:15.511Z",
  "source": "https://robloxden.com/game-codes/nok-piece"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "STATRESET5",
+   "code": "PROJECTHERO10",
+   "reward": "Exp"
+  },
+  {
+   "code": "SAGEMODE",
+   "reward": ""
+  },
+  {
+   "code": "STATRESET10",
    "reward": "a Stat Reset"
   },
   {
-   "code": "STATRESET3",
+   "code": "STATRESET1",
    "reward": "a Stat Reset"
   },
   {
-   "code": "EXPCODEBUGGY",
-   "reward": "a reward"
-  },
-  {
-   "code": "CODESWIPED",
-   "reward": "Magic Spins"
-  },
-  {
-   "code": "FAIRYKINGYUH",
-   "reward": "Magic Spins"
+   "code": "LATEGOLD",
+   "reward": "50,000 Gold"
   }
  ],
- "updated": "2026-09-24T11:40:35.214Z",
+ "updated": "2026-09-25T17:00:13.284Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

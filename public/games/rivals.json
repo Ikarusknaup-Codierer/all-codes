@@ -23,6 +23,10 @@
    "reward": "1 Key"
   },
   {
+   "code": "FREE198",
+   "reward": "3 Keys"
+  },
+  {
    "code": "FREE196",
    "reward": "3 Keys"
   },
@@ -55,10 +59,6 @@
    "reward": "3 Tropical Chests"
   },
   {
-   "code": "FREE186",
-   "reward": "3 Keys"
-  },
-  {
    "code": "COMMUNITY25",
    "reward": "1 Community Wrap"
   },
@@ -75,6 +75,6 @@
    "reward": "3 Keys"
   }
  ],
- "updated": "2026-09-24T16:55:57.315Z",
+ "updated": "2026-09-25T21:22:50.012Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

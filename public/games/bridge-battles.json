@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "NOTSOFAST",
-   "reward": "2 Revenge"
+   "code": "BATTLES",
+   "reward": "the Kill Others Troll"
+  },
+  {
+   "code": "BRIDGE",
+   "reward": "50 Blocks"
   },
   {
    "code": "SLOWDOWN",
@@ -17,8 +21,12 @@
   {
    "code": "BRB",
    "reward": "Fast Respawn Boost"
+  },
+  {
+   "code": "1M",
+   "reward": "Fast Speed Boost"
   }
  ],
- "updated": "2026-09-24T16:59:14.040Z",
+ "updated": "2026-09-25T21:26:05.904Z",
  "source": "https://robloxden.com/game-codes/bridge-battles"
 }

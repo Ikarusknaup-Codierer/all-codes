@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "iiiiiinfinite",
+   "reward": "10 Infinity Chests"
+  },
+  {
    "code": "superamped",
    "reward": "10 Amped Battery"
   },
@@ -67,10 +71,6 @@
    "reward": "an Assassin Hero"
   },
   {
-   "code": "GALAXYGUILD",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "SPIDEYBOSS",
    "reward": "a Galaxy Battery"
   },
@@ -87,6 +87,6 @@
    "reward": "one Abyss Reaver Crate"
   }
  ],
- "updated": "2026-09-24T16:53:05.161Z",
+ "updated": "2026-09-25T21:20:16.613Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

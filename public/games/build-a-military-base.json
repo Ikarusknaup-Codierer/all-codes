@@ -31,6 +31,26 @@
    "reward": "a Logistics Warehouse"
   },
   {
+   "code": "WELOVEMORECODES",
+   "reward": "a Premium Crate"
+  },
+  {
+   "code": "LANCER",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "2500hours",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "CONSOLE",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "SECTORAUTHORITY",
+   "reward": "a Missle Turret , and 50,000 Cash"
+  },
+  {
    "code": "ZUMWALT",
    "reward": "1 Premium Crate"
   },
@@ -87,6 +107,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-09-24T16:55:35.766Z",
+ "updated": "2026-09-25T21:22:27.248Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

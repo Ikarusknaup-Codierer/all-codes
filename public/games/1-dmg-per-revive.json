@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "upd12",
+   "reward": "5 Evolutions"
+  },
+  {
+   "code": "labyrinth",
+   "reward": "20 Relic Rerolls and 20 Relic Resets"
+  },
+  {
+   "code": "delay5days",
+   "reward": "25 Evolution Stones"
+  },
+  {
    "code": "upd113",
    "reward": "20 Prays"
   },
@@ -29,6 +41,18 @@
   {
    "code": "relic",
    "reward": "5 Relic Rerolls , 5 Relic Resets , and 10,000 Hell Stone"
+  },
+  {
+   "code": "key-allchance-37451260",
+   "reward": "Rewards"
+  },
+  {
+   "code": "update11",
+   "reward": "UPD 11 rewards"
+  },
+  {
+   "code": "key-limit1000-86079330",
+   "reward": "rewards"
   },
   {
    "code": "key-hellstone-86271112",
@@ -83,6 +107,6 @@
    "reward": "100 Weapon Stones and 10 Soul Ring Rerolls"
   }
  ],
- "updated": "2026-09-24T21:21:32.277Z",
+ "updated": "2026-09-25T21:28:10.650Z",
  "source": "https://robloxden.com/game-codes/1-dmg-per-revive"
 }

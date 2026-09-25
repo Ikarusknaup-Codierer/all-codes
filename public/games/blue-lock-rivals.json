@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORNIKODELAY",
+   "reward": "extra rewards"
+  },
+  {
+   "code": "NIKOHERE",
+   "reward": "5 Lucky Spins and 5 Lucky Flow"
+  },
+  {
+   "code": "GATEKEEPOVER",
+   "reward": "5 Lucky Flow"
+  },
+  {
+   "code": "QOLNEXTWEEK!",
+   "reward": "5 Lucky Spins"
+  },
+  {
    "code": "KINGNEXTWEEK",
    "reward": "5 Lucky Style Spins"
   },
@@ -79,6 +95,6 @@
    "reward": "5 Lucky Flow"
   }
  ],
- "updated": "2026-09-24T16:54:01.191Z",
+ "updated": "2026-09-25T21:20:54.279Z",
  "source": "https://robloxden.com/game-codes/blue-lock-rivals"
 }

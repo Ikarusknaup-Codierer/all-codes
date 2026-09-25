@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "privatematches",
-   "reward": "1,500 Gems"
+   "code": "1mVisits",
+   "reward": "Reward Unknown"
   },
   {
-   "code": "Gamemodes",
-   "reward": "2,000 Gems"
-  },
-  {
-   "code": "guilds",
-   "reward": "2,000 Gems"
-  },
-  {
-   "code": "Gone",
-   "reward": "3,000 Gems"
+   "code": "group1mthx",
+   "reward": "2,500 Gems"
   },
   {
    "code": "Ranked",
    "reward": "3,000 Gems"
+  },
+  {
+   "code": "100kInterested",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "Arise",
+   "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-09-24T21:22:53.266Z",
+ "updated": "2026-09-25T21:29:01.523Z",
  "source": "https://robloxden.com/game-codes/jump-stars"
 }

@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "TOWTRUCK",
-   "reward": "$10,000"
-  },
-  {
    "code": "2026UPDATE",
    "reward": "$10,000"
   },
   {
+   "code": "MOREHORSEPOWER",
+   "reward": "30,000 Cash"
+  },
+  {
+   "code": "SONION",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "CRIME",
    "reward": "10,000 Cash"
+  },
+  {
+   "code": "TOWTRUCK",
+   "reward": "$10,000"
   }
  ],
- "updated": "2026-09-24T21:24:18.753Z",
+ "updated": "2026-09-25T21:29:49.625Z",
  "source": "https://robloxden.com/game-codes/miami-life-rp"
 }

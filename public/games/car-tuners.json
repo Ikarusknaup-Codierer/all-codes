@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SKILLTREE",
+   "reward": "10,000 Cash"
+  },
+  {
    "code": "JUNKYARD",
    "reward": "10,000 Cash"
   },
@@ -23,6 +27,6 @@
    "reward": "30K Cash"
   }
  ],
- "updated": "2026-09-24T16:56:18.495Z",
+ "updated": "2026-09-25T21:23:10.455Z",
  "source": "https://robloxden.com/game-codes/car-tuners"
 }

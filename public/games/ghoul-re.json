@@ -23,6 +23,42 @@
    "reward": "5 Kagune Rerolls"
   },
   {
+   "code": "rotten",
+   "reward": "1,000 GP"
+  },
+  {
+   "code": "1dev1dream",
+   "reward": "500 GP"
+  },
+  {
+   "code": "sorryfornosd",
+   "reward": "1,000 GP"
+  },
+  {
+   "code": "promisedcode",
+   "reward": "1,000 GP"
+  },
+  {
+   "code": "sorry4delaylol",
+   "reward": "1,500 GP"
+  },
+  {
+   "code": "Yomo",
+   "reward": "1,000 Ghoul Points"
+  },
+  {
+   "code": "questline",
+   "reward": "500 Ghoul Points"
+  },
+  {
+   "code": "codenamelol2",
+   "reward": "1,500 Ghoul Points"
+  },
+  {
+   "code": "sorry4classes",
+   "reward": "500 Ghoul Points"
+  },
+  {
    "code": "yomosneakcode",
    "reward": "1,000 Ghoul"
   },
@@ -123,6 +159,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-09-24T16:57:03.181Z",
+ "updated": "2026-09-25T21:23:57.054Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

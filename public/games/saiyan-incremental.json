@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE7",
+   "reward": "10 Dragon Radars"
+  },
+  {
+   "code": "GERO",
+   "reward": "2 Dragon Ball Bulk , 2 Dragon Ball Luck , and 2 Dragon Ball Speed"
+  },
+  {
+   "code": "BUGFIX",
+   "reward": "5 Dragon Radars"
+  },
+  {
+   "code": "GOHAN2",
+   "reward": "20 Tickets"
+  },
+  {
+   "code": "GOHAN",
+   "reward": "5 Dragon Radars"
+  },
+  {
+   "code": "1KCCU",
+   "reward": "2 Dragon Ball Bulk , 2 Dragon Ball Luck , and 2 Dragon Ball Speed"
+  },
+  {
    "code": "UPDATE5",
    "reward": "2 Dragon Ball Bulk , 2 Dragon Ball Luck , and 2 Dragon Ball Speed"
   },
@@ -35,6 +59,6 @@
    "reward": "2 Dragon Ball Bulk , 2 Dragon Ball Luck , and 2 Dragon Ball Speed"
   }
  ],
- "updated": "2026-09-24T16:56:31.156Z",
+ "updated": "2026-09-25T21:23:23.544Z",
  "source": "https://robloxden.com/game-codes/saiyan-incremental"
 }

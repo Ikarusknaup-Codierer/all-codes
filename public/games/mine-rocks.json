@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RE-9284-1000",
+   "reward": "a permanent +5% Coins Boost"
+  },
+  {
    "code": "CRYSTAL",
    "reward": "1.25x Geode Multiplier"
   },
@@ -27,6 +31,6 @@
    "reward": "1.25x Current Geodes *"
   }
  ],
- "updated": "2026-09-24T16:54:25.275Z",
+ "updated": "2026-09-25T21:21:16.795Z",
  "source": "https://robloxden.com/game-codes/mine-rocks"
 }

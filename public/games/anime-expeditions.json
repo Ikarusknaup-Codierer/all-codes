@@ -19,6 +19,14 @@
    "reward": "20 Trait Crystals and 500 Sand Dollars . You need to be at least Level"
   },
   {
+   "code": "restartsorry!",
+   "reward": "25 Trait Crystals"
+  },
+  {
+   "code": "fastrestart!",
+   "reward": "25 Trait Crystals"
+  },
+  {
    "code": "evolutionsfix",
    "reward": "25 Trait Crystals"
   },
@@ -131,6 +139,6 @@
    "reward": "20 Trait Crystals and 2,500 Gems . You must have the Early Access Role"
   }
  ],
- "updated": "2026-09-24T21:21:09.320Z",
+ "updated": "2026-09-25T21:27:45.693Z",
  "source": "https://robloxden.com/game-codes/anime-expeditions"
 }

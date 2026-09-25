@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DUNGEON3",
+   "reward": "10 Jades and 1 Ore Pot"
+  },
+  {
+   "code": "BRONZE",
+   "reward": "5 Jades"
+  },
+  {
    "code": "WORLD7",
    "reward": "20 Jades"
   },
@@ -295,6 +303,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-09-24T21:24:19.746Z",
+ "updated": "2026-09-25T21:29:50.725Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BACK",
+   "reward": "10,000 Cash"
+  },
+  {
    "code": "SorryForTooBigDelay",
    "reward": "10,000 Cash"
   },
@@ -59,6 +63,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-09-24T16:59:11.254Z",
+ "updated": "2026-09-25T21:26:02.996Z",
  "source": "https://robloxden.com/game-codes/united-burst-2"
 }

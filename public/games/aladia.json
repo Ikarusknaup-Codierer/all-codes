@@ -7,6 +7,94 @@
    "reward": "Description"
   },
   {
+   "code": "ARMORRR",
+   "reward": "100 Armors"
+  },
+  {
+   "code": "LGA",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "HSH",
+   "reward": "10 Diamonds"
+  },
+  {
+   "code": "CHOU",
+   "reward": "15 Diamonds"
+  },
+  {
+   "code": "FREEWAR",
+   "reward": "20 WarCrests"
+  },
+  {
+   "code": "FREEARMOR",
+   "reward": "100 Armors"
+  },
+  {
+   "code": "PISTOLP",
+   "reward": "a Pistol .50"
+  },
+  {
+   "code": "FREEPISTOL",
+   "reward": "a Pistol"
+  },
+  {
+   "code": "SRG",
+   "reward": "200 Cash"
+  },
+  {
+   "code": "AYUDA",
+   "reward": "100 Armors"
+  },
+  {
+   "code": "FREECASH",
+   "reward": "300 Cash"
+  },
+  {
+   "code": "OKNA",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "Freegamepass",
+   "reward": "Free Gun . You must reach Level 8 to use this code"
+  },
+  {
+   "code": "freegamepass2",
+   "reward": "Rewards . You need to be level 5 to redeem this code"
+  },
+  {
+   "code": "EST",
+   "reward": "20 Diamonds"
+  },
+  {
+   "code": "ALADIAONTOP",
+   "reward": "50 Diamonds"
+  },
+  {
+   "code": "Report",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "newbug",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "newsolar",
+   "reward": "Sunforged - Pistol .50"
+  },
+  {
+   "code": "CFGAEAF",
+   "reward": "Moonfeather - SP"
+  },
+  {
+   "code": "gheg",
+   "reward": "50 Diamonds"
+  },
+  {
+   "code": "NEWUPDATE",
+   "reward": "200 Cash"
+  },
+  {
    "code": "NEWEVENTANNIVERSARY",
    "reward": "10 Diamonds"
   },
@@ -19,6 +107,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-09-24T21:25:43.953Z",
+ "updated": "2026-09-26T04:23:40.358Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

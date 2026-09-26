@@ -11,10 +11,6 @@
    "reward": "the Blurple Vehicle Skin"
   },
   {
-   "code": "SPRING2022",
-   "reward": "500 Credits"
-  },
-  {
    "code": "HOLIDAY22",
    "reward": "500 Coins"
   },
@@ -23,10 +19,14 @@
    "reward": "500 Credits"
   },
   {
+   "code": "ONTHEGRIND",
+   "reward": "a 2 Hour Job Credits Boost"
+  },
+  {
    "code": "RHS2AD",
    "reward": "250 Credits"
   }
  ],
- "updated": "2026-09-25T04:19:11.708Z",
+ "updated": "2026-09-26T04:36:17.035Z",
  "source": "https://robloxden.com/game-codes/roblox-high-school-2"
 }

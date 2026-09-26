@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PATCH",
+   "reward": "50,000 Cash"
+  },
+  {
    "code": "BACHIRA",
    "reward": "40,000 Cash"
   },
@@ -79,6 +83,6 @@
    "reward": "25k Cash"
   }
  ],
- "updated": "2026-09-24T21:28:24.182Z",
+ "updated": "2026-09-26T04:27:30.409Z",
  "source": "https://robloxden.com/game-codes/blue-lock-skibidi"
 }

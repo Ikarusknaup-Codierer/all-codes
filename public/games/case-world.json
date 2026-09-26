@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "1mvisits",
+   "reward": "Rewards . You must be level 30 to redeem this code"
+  },
+  {
    "code": "slayebeast432",
    "reward": "Free Rewards . You need to reach Level 30 to use this code"
   },
@@ -47,6 +51,10 @@
    "reward": "100 Cash"
   },
   {
+   "code": "greeeeeen",
+   "reward": "1 Automatic Spin"
+  },
+  {
    "code": "monsterontop",
    "reward": "Rewards . You must be level 15 to redeem this code"
   },
@@ -75,6 +83,6 @@
    "reward": "5,000 Cash . You must be level 20 to redeem this code"
   }
  ],
- "updated": "2026-09-24T21:29:26.426Z",
+ "updated": "2026-09-26T04:29:08.179Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BigUpdateSoon",
+   "reward": "500 Trait Tokens , 50 Fate Tokens , 1 Tree Reset Orb , 750 Stat Chips "
+  },
+  {
+   "code": "HuntEvent",
+   "reward": "1,000 Trait Tokens , 50 Fate Tokens , 25 Skill Orbs , 1,000 Stat Chips"
+  },
+  {
+   "code": "NoMoreSummer!",
+   "reward": "1,000 Trait Tokens , 75 Skill Orbs , 1,000 Stat Chips , 1,000 Elite St"
+  },
+  {
    "code": "reallysorryfordelay",
    "reward": "100K Gems, 1K Trait Tokens, 5 Luck II Potions, 50 Elite Stat Chips, 25"
   },
@@ -187,6 +199,6 @@
    "reward": "150 Trait Tokens and 10 Ascended Orbs"
   }
  ],
- "updated": "2026-09-24T21:30:09.473Z",
+ "updated": "2026-09-26T04:29:41.241Z",
  "source": "https://robloxden.com/game-codes/anime-story"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMERBREAK",
-   "reward": "the SunBurst Vacuum"
-  },
-  {
    "code": "RIPSBRP",
    "reward": "the Golden Heart"
   },
   {
    "code": "VCXUKN",
    "reward": "5,000 Coins"
+  },
+  {
+   "code": "FunkyMode",
+   "reward": "15,000 Coins"
   },
   {
    "code": "ThreeThousand",
@@ -27,6 +27,6 @@
    "reward": "Reward"
   }
  ],
- "updated": "2026-09-25T04:20:32.696Z",
+ "updated": "2026-09-26T04:37:58.764Z",
  "source": "https://robloxden.com/game-codes/ghostly-manor"
 }

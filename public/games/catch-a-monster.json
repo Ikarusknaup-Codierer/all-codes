@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "CORSAIR",
+   "reward": "1 Mythical Chest"
+  },
+  {
+   "code": "BIGOPUS",
+   "reward": "1 Nightmare Bloodcore Egg"
+  },
+  {
+   "code": "PXPVEF",
+   "reward": "10 Super Pear and 3 Celestial Genesis Fruit"
+  },
+  {
+   "code": "VELOROS",
+   "reward": "5,000 Wanderer's Coin"
+  },
+  {
    "code": "STOWERBUG",
    "reward": "Task Points and 2,000 Tower Gems"
   },
@@ -55,6 +71,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-09-24T21:22:57.178Z",
+ "updated": "2026-09-26T04:21:47.582Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

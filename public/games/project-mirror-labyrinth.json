@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CombatReworkCompensaton",
+   "reward": "405 Fragments"
+  },
+  {
    "code": "NetworkErrorCompensation",
    "reward": "1,620 Fragments"
   },
@@ -123,6 +127,6 @@
    "reward": "405 Fragments"
   }
  ],
- "updated": "2026-09-24T21:35:53.650Z",
+ "updated": "2026-09-26T04:31:53.571Z",
  "source": "https://robloxden.com/game-codes/project-mirror-labyrinth"
 }

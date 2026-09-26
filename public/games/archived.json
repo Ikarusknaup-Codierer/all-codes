@@ -11,16 +11,8 @@
    "reward": "4 Book of Celebrations and 3 Grade Takeoff Tickets"
   },
   {
-   "code": "ThereWasNoDelay",
-   "reward": "1 Lunacy Bundle and 1,300 Lunacy"
-  },
-  {
    "code": "Booksmart",
    "reward": "1 Invitation"
-  },
-  {
-   "code": "bananabanana",
-   "reward": "1 Book Of Celebration"
   },
   {
    "code": "INTERLOPER",
@@ -33,8 +25,16 @@
   {
    "code": "SorryAgain",
    "reward": "2 Lunacy Bundles"
+  },
+  {
+   "code": "ThereWasNoDelay",
+   "reward": "1 Lunacy Bundle and 1,300 Lunacy"
+  },
+  {
+   "code": "bananabanana",
+   "reward": "1 Book Of Celebration"
   }
  ],
- "updated": "2026-09-25T04:19:25.604Z",
+ "updated": "2026-09-26T04:36:34.629Z",
  "source": "https://robloxden.com/game-codes/archived"
 }

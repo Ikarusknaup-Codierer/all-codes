@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "500 Apples"
+  },
+  {
+   "code": "sorryforrestart",
+   "reward": "400 Apples"
+  },
+  {
+   "code": "1millionvisits",
+   "reward": "1,200 Apples"
+  },
+  {
+   "code": "visits300k",
+   "reward": "1,000 Apples"
+  },
+  {
+   "code": "sorryforshutdown",
+   "reward": "500 Apples"
   }
  ],
- "updated": "2026-09-24T21:36:09.634Z",
+ "updated": "2026-09-26T04:32:12.523Z",
  "source": "https://robloxden.com/game-codes/bloxnote"
 }

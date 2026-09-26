@@ -16,11 +16,11 @@
   },
   {
    "code": "supersecret",
-   "reward": "10 Gold Leaf"
+   "reward": "10 Gold Leaf and 3x Mushroom Boost (15 Minutes)"
   },
   {
    "code": "herefishyfish",
-   "reward": "5 Starfruit and 2,000 Fruit"
+   "reward": "5 Starfruits and 2,000 Food"
   },
   {
    "code": "bedbugs",
@@ -36,19 +36,19 @@
   },
   {
    "code": "ilikefood",
-   "reward": "1,000 Fruit"
+   "reward": "1,000 Food"
   },
   {
    "code": "BONUS",
-   "reward": "10 Starfruit"
+   "reward": "10 Starfruit , 1.5x Strawbery Boost (10 Minutes) , and 1.5x Blueberry "
   },
   {
    "code": "pheromones",
-   "reward": "2,500 Fruit"
+   "reward": "2,500 Food , 10 Sugars , and 50 Leaves"
   },
   {
    "code": "colony",
-   "reward": "1,500 Fruit"
+   "reward": "1,500 Food"
   },
   {
    "code": "sugar",
@@ -63,6 +63,6 @@
    "reward": "Gold Worker Egg And 50 Gold Leaves"
   }
  ],
- "updated": "2026-09-24T21:29:25.417Z",
+ "updated": "2026-09-26T04:29:06.702Z",
  "source": "https://robloxden.com/game-codes/ants-empire"
 }

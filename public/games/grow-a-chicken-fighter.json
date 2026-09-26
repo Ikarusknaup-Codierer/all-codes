@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "CHICKENCLASH",
+   "reward": "50 Arena Medals , 100 Charm Dust , and 2x Hatch Luck (15 Minutes)"
+  },
+  {
+   "code": "BATTLEREADY",
+   "reward": "100 Charm Dust , 1 Royal Egg , and 2x Hatch Luck (15 Minutes)"
+  },
+  {
+   "code": "ASCEND",
+   "reward": "50 Cash , 1 Thunder Egg , and 2x Money (30 Minutes)"
+  },
+  {
+   "code": "EGGSCELLENT",
+   "reward": "50 Cash , 1 Thunder Egg , and 2x Corn (30 Minutes)"
+  },
+  {
+   "code": "SERGIOVERSE",
+   "reward": "50 Cash , 1 Scratch Egg , and 2x Corn (30 Minutes)"
+  },
+  {
    "code": "LETMECOOK",
    "reward": "50 Coins , 2x Money Drop Boost (30 mins) , and a Thunder Egg"
   },
@@ -15,10 +35,14 @@
    "reward": "50 Coins"
   },
   {
+   "code": "50MVISITS",
+   "reward": "60 Cash , 1 Thunder Egg , and 2x Money (20 Minutes)"
+  },
+  {
    "code": "40KCCU",
    "reward": "a Blazing Egg"
   }
  ],
- "updated": "2026-09-24T21:36:18.985Z",
+ "updated": "2026-09-26T04:32:23.369Z",
  "source": "https://robloxden.com/game-codes/grow-a-chicken-fighter"
 }

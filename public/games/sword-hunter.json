@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "NEW",
-   "reward": "1 Frog Egg and 2x Money Boost (30 Minutes)"
+   "code": "CLAIMIT",
+   "reward": "2x Money (30 Minutes) and 2,000,000 Money"
   },
   {
-   "code": "PICKLE",
-   "reward": "a Pickle Sword"
+   "code": "NEW",
+   "reward": "1 Frog Egg and 2x Money Boost (30 Minutes)"
   },
   {
    "code": "2KCCU",
@@ -21,10 +21,6 @@
   {
    "code": "UPDATE",
    "reward": "an Imperial Chest and 3x Money Boost (30 Minutes)"
-  },
-  {
-   "code": "1KCCU",
-   "reward": "a Demon Chest and 2,000,000 Cash"
   },
   {
    "code": "NEWUPDATE",
@@ -61,8 +57,16 @@
   {
    "code": "UPDATE2",
    "reward": "a Gold Frog Egg , Instant Smelt (10 Minutes) , and 2,000,000 Cash"
+  },
+  {
+   "code": "PICKLE",
+   "reward": "a Pickle Sword"
+  },
+  {
+   "code": "1KCCU",
+   "reward": "a Demon Chest and 2,000,000 Cash"
   }
  ],
- "updated": "2026-09-24T21:25:49.395Z",
+ "updated": "2026-09-26T04:23:46.486Z",
  "source": "https://robloxden.com/game-codes/sword-hunter"
 }

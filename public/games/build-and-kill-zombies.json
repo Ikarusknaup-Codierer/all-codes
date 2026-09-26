@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "CYBERHACK",
+   "reward": "2,500 Hacker Tokens"
+  },
+  {
+   "code": "HACKER",
+   "reward": "50 Hacker Tokens"
+  },
+  {
+   "code": "1x1x1x1",
+   "reward": "150 Hacker Tokens"
   }
  ],
- "updated": "2026-09-24T21:29:28.460Z",
+ "updated": "2026-09-26T04:29:10.650Z",
  "source": "https://robloxden.com/game-codes/build-and-kill-zombies"
 }

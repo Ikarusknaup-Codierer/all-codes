@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "25,000 Cash + 2 Double Cash Potion + 2 Double Luck Potion"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "15,000 Cash + 1 Double Cash Potion + 1 Double Luck Potion"
+  },
+  {
+   "code": "10KCCU",
+   "reward": "15,000 Cash + 1 Double Cash Potion + 1 Double Luck Potion"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "7K Cash, 2x Luck Potion and 2x Cash Potion"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "15K Cash, 2x Luck Potion and 2x Cash Potion"
   }
  ],
- "updated": "2026-09-24T21:36:05.567Z",
+ "updated": "2026-09-26T04:32:08.048Z",
  "source": "https://robloxden.com/game-codes/ihaw-ihaw"
 }

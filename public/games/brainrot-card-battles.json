@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "DATASTORM",
+   "reward": "1,000 Gold , 5 1000-Roll Packs , 5 Medium Rarity Potions , and 2 Boss "
+  },
+  {
+   "code": "RAID4",
+   "reward": "2,000 Gold , 3 5000-Roll Packs , 5 Boss Potions , and 3 Trait Rerolls "
+  },
+  {
+   "code": "WORLD2LOBBY",
+   "reward": "4,000 Gold , 1 25000-Roll Pack , 2 Huge Luck Potions , 1 Huge Rarity P"
+  },
+  {
+   "code": "SPEED3X",
+   "reward": "6,000 Gold , 2 25000-Roll Packs , 2 Huge Luck Potions , 2 Huge Rarity "
+  },
+  {
+   "code": "REWARDPOPUPS",
+   "reward": "100,000 Gold , 1 100000-Roll Pack , 2 Huge Luck Potions , 2 Huge Rarit"
+  },
+  {
    "code": "COINFLIP",
    "reward": "4,000 Gold , 1 25000-Roll Pack , 2 Huge Luck Potions , and 3 Trait Rer"
   },
@@ -247,6 +267,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-09-24T21:26:28.391Z",
+ "updated": "2026-09-26T04:24:51.070Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

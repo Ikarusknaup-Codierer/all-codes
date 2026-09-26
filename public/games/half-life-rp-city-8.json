@@ -11,10 +11,6 @@
    "reward": "5 Hours of Playtime , 500 EXP and 1,000 Tokens"
   },
   {
-   "code": "65KLIKES",
-   "reward": "In-Game Perks"
-  },
-  {
    "code": "60KLIKES",
    "reward": "1,000 Tokens and 500 Faction Points"
   },
@@ -35,10 +31,14 @@
    "reward": "2,000 Medals"
   },
   {
+   "code": "65KLIKES",
+   "reward": "In-Game Perks"
+  },
+  {
    "code": "RELEASE",
    "reward": "1,000 Tokens and 500 Faction Points"
   }
  ],
- "updated": "2026-09-25T11:35:20.068Z",
+ "updated": "2026-09-26T16:08:24.318Z",
  "source": "https://robloxden.com/game-codes/half-life-rp-city-8"
 }

@@ -5,8 +5,76 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "AWAKENING",
+   "reward": "the Awakening Spell Page"
+  },
+  {
+   "code": "GETREROLL",
+   "reward": "3 Rerolls"
+  },
+  {
+   "code": "REROLL10K",
+   "reward": "5 Race Rerolls"
+  },
+  {
+   "code": "10KSQUAD",
+   "reward": "1K Gems"
+  },
+  {
+   "code": "TREASURE10K",
+   "reward": "10K Yuls and 1 Boss Key"
+  },
+  {
+   "code": "UPDATE320",
+   "reward": "320 Gems"
+  },
+  {
+   "code": "NEWRACE",
+   "reward": "5 Race Rerolls"
+  },
+  {
+   "code": "TREASURE5K",
+   "reward": "5K Yuls"
+  },
+  {
+   "code": "5KSQUAD",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "MIDNIGHTSUN",
+   "reward": "Eye of The Midnight Sun Mask"
+  },
+  {
+   "code": "YUNO",
+   "reward": "320 Gems"
+  },
+  {
+   "code": "ROLLIT",
+   "reward": "160 Gems"
+  },
+  {
+   "code": "AWAKEN",
+   "reward": "1 Spell Page"
+  },
+  {
+   "code": "EXPLORER",
+   "reward": "1 Dungeon Key"
+  },
+  {
+   "code": "FIGHTON",
+   "reward": "1 Boss Key"
+  },
+  {
+   "code": "GAMERS",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "FREEGEMS",
+   "reward": "500 Gems"
   }
  ],
- "updated": "2026-09-25T16:56:23.248Z",
+ "updated": "2026-09-26T16:13:28.403Z",
  "source": "https://robloxden.com/game-codes/clover-legends"
 }

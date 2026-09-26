@@ -15,18 +15,18 @@
    "reward": "a Regular Spin"
   },
   {
-   "code": "!PremiumSpin1",
-   "reward": "10 Premium Spins"
+   "code": "!Fix2",
+   "reward": "45 Spins"
   },
   {
-   "code": "!PrestCode2",
+   "code": "!RegSpin3",
+   "reward": "A Regular Spin"
+  },
+  {
+   "code": "!PrestCode3",
    "reward": "a 5% chance to keep your stats and gain a prestige level . Please note"
-  },
-  {
-   "code": "!ReColor4",
-   "reward": "1 Random Cursed Energy Colour"
   }
  ],
- "updated": "2026-09-25T16:57:55.178Z",
+ "updated": "2026-09-26T16:15:03.163Z",
  "source": "https://robloxden.com/game-codes/rojutsu-blox"
 }

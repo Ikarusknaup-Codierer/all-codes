@@ -51,6 +51,22 @@
    "reward": "25 Lucky Weapon Spins , 25 Lucky Perk Spins , 50 Raid Tickets , 100 Tr"
   },
   {
+   "code": "CursedBuffs!",
+   "reward": "15 Trait, 25 Lucky Perk Spins, 25 Lucky Weapon Spins and 250K Cash"
+  },
+  {
+   "code": "NewUpdLogs!",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Scarf!",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Season3!",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "GUILDSHOTFIX",
    "reward": "50 Lucky Weapon Spins , 50 Lucky Perk Spins , and 10M Cash"
   },
@@ -279,6 +295,6 @@
    "reward": "30 Lucky Weapon Spins and 30 Lucky Perk Spins"
   }
  ],
- "updated": "2026-09-25T04:20:54.720Z",
+ "updated": "2026-09-26T11:09:56.184Z",
  "source": "https://robloxden.com/game-codes/hunty-zombie"
 }

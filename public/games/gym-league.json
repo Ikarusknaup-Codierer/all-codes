@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "LIGHTNINGQUEST",
-   "reward": "10 Lightning Pots"
-  },
-  {
-   "code": "2XEVENT",
-   "reward": "5 Lightning Pots, 5 Power Potions, 5 Mega Potions"
+   "code": "FRESHSTART",
+   "reward": "1.25x Cash (20 Minutes)"
   },
   {
    "code": "update31bugfix",
@@ -61,6 +57,14 @@
   {
    "code": "5xmuscle",
    "reward": "10 Cosmic Pots, 10 Shadow Pots, 10 Summer Drinks"
+  },
+  {
+   "code": "LIGHTNINGQUEST",
+   "reward": "10 Lightning Pots"
+  },
+  {
+   "code": "2XEVENT",
+   "reward": "5 Lightning Pots, 5 Power Potions, 5 Mega Potions"
   },
   {
    "code": "LIGHTNINGEVENT",
@@ -195,6 +199,6 @@
    "reward": "3 Small Speed Potions"
   }
  ],
- "updated": "2026-09-25T04:21:27.051Z",
+ "updated": "2026-09-26T11:10:34.913Z",
  "source": "https://robloxden.com/game-codes/gym-league"
 }

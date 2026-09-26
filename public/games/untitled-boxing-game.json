@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "thedoctorwillseeyousoon",
-   "reward": "15 Spins"
-  },
-  {
-   "code": "surgeon",
-   "reward": "5 Lucky Spins"
-  },
-  {
-   "code": "3years",
-   "reward": "5 Lucky Spins"
-  },
-  {
    "code": "100KCASH",
    "reward": "1 Spin"
   },
@@ -35,14 +23,22 @@
    "reward": "Free Emote"
   },
   {
-   "code": "loveintheair",
-   "reward": "7,999 Cash"
+   "code": "thedoctorwillseeyousoon",
+   "reward": "15 Spins"
   },
   {
-   "code": "vegeta",
-   "reward": "1 Free Emote"
+   "code": "surgeon",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "3years",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "loveintheair",
+   "reward": "7,999 Cash"
   }
  ],
- "updated": "2026-09-25T04:22:59.938Z",
+ "updated": "2026-09-26T11:12:28.488Z",
  "source": "https://robloxden.com/game-codes/untitled-boxing-game"
 }

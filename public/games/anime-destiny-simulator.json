@@ -27,10 +27,14 @@
    "reward": "1 Energy Potion and 1 Yen Potion"
   },
   {
-   "code": "UPDATE6",
+   "code": "SorryForShutdown",
+   "reward": "a Double Yen Potion and a Double Luck Potion"
+  },
+  {
+   "code": "RELEASE",
    "reward": "Potions"
   }
  ],
- "updated": "2026-09-25T04:22:36.676Z",
+ "updated": "2026-09-26T11:12:00.668Z",
  "source": "https://robloxden.com/game-codes/anime-destiny-simulator"
 }

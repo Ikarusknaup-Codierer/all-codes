@@ -8,15 +8,39 @@
   },
   {
    "code": "225klikes",
-   "reward": "70,210 Cash"
+   "reward": "45,070 Cash"
+  },
+  {
+   "code": "8mfavorites",
+   "reward": "45,140 Cash"
+  },
+  {
+   "code": "1millionmembers",
+   "reward": "45,070 Cash"
+  },
+  {
+   "code": "zakicash",
+   "reward": "35,070 Cash"
+  },
+  {
+   "code": "dealershipcode",
+   "reward": "15,000 Cash"
+  },
+  {
+   "code": "parkinglotgap",
+   "reward": "40,070 Cash"
+  },
+  {
+   "code": "grassarea",
+   "reward": "20,280 Cash"
+  },
+  {
+   "code": "holeinthemap",
+   "reward": "40,000 Cash"
   },
   {
    "code": "120mvisits",
    "reward": "45K Cash"
-  },
-  {
-   "code": "8mfavorites",
-   "reward": "45,070 Cash"
   },
   {
    "code": "200klikes",
@@ -25,42 +49,6 @@
   {
    "code": "100mvisits",
    "reward": "50K Cash"
-  },
-  {
-   "code": "1millionmembers",
-   "reward": "45K Cash"
-  },
-  {
-   "code": "3mfavorites",
-   "reward": "30,000 Cash"
-  },
-  {
-   "code": "150klikes",
-   "reward": "30,000 Cash"
-  },
-  {
-   "code": "zakicash",
-   "reward": "35k Cash"
-  },
-  {
-   "code": "300kmembers",
-   "reward": "30,000 Cash"
-  },
-  {
-   "code": "dealershipcode",
-   "reward": "15,000 Cash"
-  },
-  {
-   "code": "parkinglotgap",
-   "reward": "40,000 Cash"
-  },
-  {
-   "code": "grassarea",
-   "reward": "20,000 Cash"
-  },
-  {
-   "code": "holeinthemap",
-   "reward": "40,000 Cash"
   },
   {
    "code": "7mfavorites",
@@ -81,8 +69,20 @@
   {
    "code": "65mvisits",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "3mfavorites",
+   "reward": "30,000 Cash"
+  },
+  {
+   "code": "150klikes",
+   "reward": "30,000 Cash"
+  },
+  {
+   "code": "300kmembers",
+   "reward": "30,000 Cash"
   }
  ],
- "updated": "2026-09-25T04:23:26.543Z",
+ "updated": "2026-09-26T11:13:02.240Z",
  "source": "https://robloxden.com/game-codes/highway-legends"
 }

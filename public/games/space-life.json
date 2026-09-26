@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EARLYBIRD",
+   "reward": "the Early Bird Title"
+  },
+  {
    "code": "MEGABOOST",
    "reward": "100K Credits and 3x Boost"
   },
@@ -23,6 +27,6 @@
    "reward": "2x Skill EXP"
   }
  ],
- "updated": "2026-09-25T04:18:30.630Z",
+ "updated": "2026-09-26T11:09:37.645Z",
  "source": "https://robloxden.com/game-codes/space-life"
 }

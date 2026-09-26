@@ -15,14 +15,14 @@
    "reward": "200 Gems, 50 Points, 100 Spring Coins, And A Event Quest Refresher"
   },
   {
-   "code": "DATAFIXED",
-   "reward": "150 Gems"
-  },
-  {
    "code": "UPDATE1",
    "reward": "600 Gems and 50 Points"
+  },
+  {
+   "code": "BOOGIEBOMB",
+   "reward": "100 Gems and 10 Points"
   }
  ],
- "updated": "2026-09-25T04:21:08.313Z",
+ "updated": "2026-09-26T11:10:12.577Z",
  "source": "https://robloxden.com/game-codes/aura-battles"
 }

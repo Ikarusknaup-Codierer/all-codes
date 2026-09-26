@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RELICS",
+   "reward": "5,000 Grimes and 1 Relic"
+  },
+  {
    "code": "ALIENDROP",
    "reward": "20,000 Grimes"
   },
@@ -19,6 +23,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-09-25T04:22:21.138Z",
+ "updated": "2026-09-26T11:11:42.248Z",
  "source": "https://robloxden.com/game-codes/kill-infinite-zombies"
 }

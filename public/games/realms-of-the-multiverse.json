@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "halloween",
+   "reward": "3,500 Coins"
+  },
+  {
    "code": "karma",
    "reward": "300 Coins"
   },
   {
-   "code": "charmed",
+   "code": "ashes",
    "reward": "500 Coins"
   },
   {
-   "code": "taversia",
+   "code": "corruptionn",
    "reward": "250 Coins"
   },
   {
-   "code": "expression",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "scott",
-   "reward": "350 Coins"
+   "code": "broke",
+   "reward": "3,500 Coins"
   }
  ],
- "updated": "2026-09-25T04:18:02.501Z",
+ "updated": "2026-09-26T11:08:57.892Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

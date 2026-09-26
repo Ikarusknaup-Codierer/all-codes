@@ -47,10 +47,14 @@
    "reward": "3x Tier 4 Luck Potions"
   },
   {
-   "code": "SORRYFORSHUTDOWN",
-   "reward": "1x Tier 2 Star Potion"
+   "code": "Release",
+   "reward": "2 Luck Potions Of Tier 2"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "1x Tier 4 Luck Potion and a 3 Hour Ascend Skip"
   }
  ],
- "updated": "2026-09-25T11:33:55.317Z",
+ "updated": "2026-09-26T11:17:00.349Z",
  "source": "https://robloxden.com/game-codes/pet-star-simulator"
 }

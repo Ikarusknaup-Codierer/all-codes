@@ -15,10 +15,6 @@
    "reward": "1 Sockeye Salmon"
   },
   {
-   "code": "HLW33N",
-   "reward": "1 Mythical Fish"
-  },
-  {
    "code": "FROSTFIRE",
    "reward": "Free Rewards"
   },
@@ -37,8 +33,12 @@
   {
    "code": "SPECIAL10M",
    "reward": "101 Gems , 10,101 Money , and 1 Random Arcana Fish"
+  },
+  {
+   "code": "HLW33N",
+   "reward": "1 Mythical Fish"
   }
  ],
- "updated": "2026-09-25T04:17:05.116Z",
+ "updated": "2026-09-26T11:07:45.122Z",
  "source": "https://robloxden.com/game-codes/become-a-deep-sea-explorer"
 }

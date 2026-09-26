@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "INFERYT",
+   "reward": "1 Class Dice , 3 Revives , 500 Coins , and 2 Dead Sticks"
+  },
+  {
+   "code": "COMETWASHERE",
+   "reward": "1 Super Ring , 2 Revives , and 1 Daily Chest"
+  },
+  {
+   "code": "DAILYDAILY",
+   "reward": "3 Class Dice , 1 Daily Chest , and 400 Coins"
+  },
+  {
+   "code": "STOPS",
+   "reward": "2 Class Dice , 9 Godly Potions , 500 Coins , and 300 Stardust"
+  },
+  {
+   "code": "GRIND",
+   "reward": "21 Godly Potions , 1 Daily Chest , and 500 Coins"
+  },
+  {
    "code": "BLADE",
    "reward": "1 Super Ring , 1 Class Dice , and 500 Coins"
   },
@@ -55,6 +75,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-24T21:37:06.198Z",
+ "updated": "2026-09-26T11:07:12.770Z",
  "source": "https://robloxden.com/game-codes/pixel-blade"
 }

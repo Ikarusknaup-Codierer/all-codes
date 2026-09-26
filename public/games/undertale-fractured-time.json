@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PINK",
-   "reward": "10 Weapon Capsules, 10 Soul Capsules and 10 Load Fragments"
-  },
-  {
-   "code": "4700LIKES",
-   "reward": "2 Lucky Weapon Capsules and 15 Soul Capsules"
-  },
-  {
    "code": "LUCKMAXER",
    "reward": "10 Lucky Spins"
   },
@@ -27,14 +19,14 @@
    "reward": "5 Weapon Capsules , 5 Soul Capsules , and 5 Load Fragments"
   },
   {
-   "code": "JARONA",
-   "reward": "1 Bad Memory , 1 Spray Can , 5 Weapon Loaders , and 5 Soul Loaders"
+   "code": "PINK",
+   "reward": "10 Weapon Capsules, 10 Soul Capsules and 10 Load Fragments"
   },
   {
-   "code": "CONSOLEGAMING",
-   "reward": "rewards"
+   "code": "4700LIKES",
+   "reward": "2 Lucky Weapon Capsules and 15 Soul Capsules"
   }
  ],
- "updated": "2026-09-25T17:01:04.238Z",
+ "updated": "2026-09-26T20:54:42.178Z",
  "source": "https://robloxden.com/game-codes/undertale-fractured-time"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "turkeytime",
-   "reward": "48 Hour X2 XP Boost"
+   "code": "REEL",
+   "reward": "10,000 Coins"
   },
   {
    "code": "1000LIKES",
    "reward": "120 Diamonds"
   },
   {
+   "code": "WHITECLOUDS",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "IDK",
    "reward": "50,000 Cash"
   },
   {
-   "code": "EPICVOLCANO",
-   "reward": "a Double Coins Boost for 60 Minutes"
-  },
-  {
-   "code": "DIAMOND",
-   "reward": "a Double Bricks Boost for 10 Minutes"
+   "code": "LEVELUP",
+   "reward": "a 5 Level Boost and Double XP for 48 Hours"
   }
  ],
- "updated": "2026-09-25T17:02:31.072Z",
+ "updated": "2026-09-26T20:55:56.903Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

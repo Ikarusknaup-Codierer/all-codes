@@ -15,18 +15,6 @@
    "reward": "65 Tokens , 165 Shards and 1,650 Coins"
   },
   {
-   "code": "xmas2023",
-   "reward": "111 Tokens"
-  },
-  {
-   "code": "achilles",
-   "reward": "55 Tokens"
-  },
-  {
-   "code": "ThanksFor55M",
-   "reward": "1,500 Coins , 50 Tokens and 150 Shards"
-  },
-  {
    "code": "xmas2024",
    "reward": "1,500 Coins , 75 Tokens and 150 Shards"
   },
@@ -37,8 +25,20 @@
   {
    "code": "halloween2024",
    "reward": "666 Coins , 33 Tokens and 66 Shards"
+  },
+  {
+   "code": "xmas2023",
+   "reward": "111 Tokens"
+  },
+  {
+   "code": "achilles",
+   "reward": "55 Tokens"
+  },
+  {
+   "code": "ThanksFor55M",
+   "reward": "1,500 Coins , 50 Tokens and 150 Shards"
   }
  ],
- "updated": "2026-09-25T17:05:08.116Z",
+ "updated": "2026-09-26T20:58:05.653Z",
  "source": "https://robloxden.com/game-codes/scp-tower-defense"
 }

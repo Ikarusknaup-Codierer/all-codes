@@ -11,10 +11,6 @@
    "reward": "the Uncommon Knife"
   },
   {
-   "code": "D3NIS",
-   "reward": "Denis Knife"
-  },
-  {
    "code": "SK3TCH",
    "reward": "Sketchy Knife"
   },
@@ -23,10 +19,14 @@
    "reward": "Sub Knife"
   },
   {
+   "code": "SK00L",
+   "reward": "Skool Knife"
+  },
+  {
    "code": "NatureUpdate",
    "reward": "500 Gold"
   }
  ],
- "updated": "2026-09-25T17:04:16.287Z",
+ "updated": "2026-09-26T20:57:20.762Z",
  "source": "https://robloxden.com/game-codes/murder-mystery-2"
 }

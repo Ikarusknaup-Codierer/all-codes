@@ -7,26 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "RedTail",
-   "reward": "$500"
+   "code": "IceCreature",
+   "reward": "150 Ice"
   },
   {
-   "code": "AFlyingAnt",
-   "reward": "Ant’s Parrot"
+   "code": "500k",
+   "reward": "75 Ice"
   },
   {
-   "code": "tvdude",
-   "reward": "Darzeth Backpack"
-  },
-  {
-   "code": "matrix",
-   "reward": "$500"
-  },
-  {
-   "code": "iceySlopes2",
-   "reward": "$1,000"
+   "code": "15mVisits",
+   "reward": "$1,500 money"
   }
  ],
- "updated": "2026-09-25T16:59:18.501Z",
+ "updated": "2026-09-26T20:53:01.851Z",
  "source": "https://robloxden.com/game-codes/snow-shoveling-simulator"
 }

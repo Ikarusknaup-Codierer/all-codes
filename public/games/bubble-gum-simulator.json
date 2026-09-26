@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FallUpdate",
+   "reward": "2x Hatch Speed"
+  },
+  {
+   "code": "AutumnEvent",
+   "reward": "2x Luck"
+  },
+  {
    "code": "BGSISBACK",
    "reward": "2x Hatch Speed"
   },
@@ -1087,6 +1095,6 @@
    "reward": "2 Hours of 3x Mythic Chance"
   }
  ],
- "updated": "2026-09-25T21:20:46.900Z",
+ "updated": "2026-09-26T20:59:22.036Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

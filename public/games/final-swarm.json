@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "INF3RNO",
+   "reward": "3 Inferno Chests"
+  },
+  {
    "code": "QOL2",
    "reward": "10 Raid Chest and 150 Keys"
   },
@@ -23,14 +27,14 @@
    "reward": "100 Keys"
   },
   {
-   "code": "XtraVoid",
+   "code": "VoidExtension",
    "reward": "5 Void Chests"
   },
   {
-   "code": "nocheaters",
-   "reward": "100 Keys , 5 Epic Chests , and 10 Rerolls"
+   "code": "XtraVoid",
+   "reward": "5 Void Chests"
   }
  ],
- "updated": "2026-09-25T17:00:16.917Z",
+ "updated": "2026-09-26T20:53:54.844Z",
  "source": "https://robloxden.com/game-codes/final-swarm"
 }

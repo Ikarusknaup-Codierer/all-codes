@@ -19,6 +19,10 @@
    "reward": "30 Rerolls"
   },
   {
+   "code": "BUGFIXDAY",
+   "reward": "Rerolls"
+  },
+  {
    "code": "laterestart",
    "reward": "30 Rerolls"
   },
@@ -43,6 +47,6 @@
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-09-25T17:02:12.638Z",
+ "updated": "2026-09-26T20:55:39.425Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

@@ -15,6 +15,10 @@
    "reward": "1 Temporary Server Boost , 4 Stat Boosts , 4 Chikara Boosts , and 2 Te"
   },
   {
+   "code": "NEWUPDATE9",
+   "reward": "5,000 Chikara , 3,000 Tensei Shards , 12 Trait Rerolls , 4 Stat Boosts"
+  },
+  {
    "code": "FIGHT",
    "reward": "2,000 Tensei , 4 Speed , 4 Stat , and 10 Trait Rerolls"
   },
@@ -33,12 +37,8 @@
   {
    "code": "MIDWEEK",
    "reward": "500 Tensei Shards , 2 Training Speed Boosts , 2 Yen Boosts , and 10 Tr"
-  },
-  {
-   "code": "LIBERATION",
-   "reward": "2 Stat Boost , 2 Yen Boost , 1,000 Chikara , and 1 Server Boost . You "
   }
  ],
- "updated": "2026-09-25T17:00:36.791Z",
+ "updated": "2026-09-26T20:54:14.494Z",
  "source": "https://robloxden.com/game-codes/anime-fighting-simulator-kdmf"
 }

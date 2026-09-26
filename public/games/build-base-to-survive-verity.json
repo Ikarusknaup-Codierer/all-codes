@@ -7,16 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "Obesity",
-   "reward": "10x Barrier"
-  },
-  {
    "code": "Update3",
    "reward": "10x Bedrock"
   },
   {
    "code": "CODES",
    "reward": "500 Cash"
+  },
+  {
+   "code": "WMEMBER67",
+   "reward": "3 Mystery Boxes"
+  },
+  {
+   "code": "VOIDITY",
+   "reward": "10 Barrier Blocks"
   },
   {
    "code": "GODITY",
@@ -49,8 +53,12 @@
   {
    "code": "10000PLAYERS",
    "reward": "100 Gold Blocks"
+  },
+  {
+   "code": "Obesity",
+   "reward": "10x Barrier"
   }
  ],
- "updated": "2026-09-25T17:02:51.605Z",
+ "updated": "2026-09-26T20:56:12.710Z",
  "source": "https://robloxden.com/game-codes/build-base-to-survive-verity"
 }

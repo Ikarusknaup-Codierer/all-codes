@@ -11,18 +11,22 @@
    "reward": "15 Minutes Cog And Battery Boost"
   },
   {
-   "code": "update7",
+   "code": "RandomPet",
+   "reward": "a free pet"
+  },
+  {
+   "code": "FreeChest",
+   "reward": "some Legendary Chests"
+  },
+  {
+   "code": "RobloxCodes",
    "reward": "Free Coins And Gems"
   },
   {
-   "code": "MoonIsland",
-   "reward": "Free Big Gift"
-  },
-  {
-   "code": "SANTA",
-   "reward": "a 15 Minute Bell Boost"
+   "code": "Candies",
+   "reward": "Free Candy"
   }
  ],
- "updated": "2026-09-25T16:59:43.907Z",
+ "updated": "2026-09-26T20:53:21.578Z",
  "source": "https://robloxden.com/game-codes/champion-simulator"
 }

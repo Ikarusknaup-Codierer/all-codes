@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "WORMFOOD!",
+   "reward": "10 Worms"
+  },
+  {
+   "code": "STRANGEFOOD",
+   "reward": "5 Strange Fish"
+  },
+  {
+   "code": "WINDOWS",
+   "reward": "300 Coins"
+  },
+  {
    "code": "DANCINGSHELLY!",
    "reward": "Rewards"
   },
@@ -27,6 +39,6 @@
    "reward": "1,000 Doubloons"
   }
  ],
- "updated": "2026-09-26T11:21:07.690Z",
+ "updated": "2026-09-27T21:08:57.632Z",
  "source": "https://robloxden.com/game-codes/booga-booga-reborn"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "frost",
-   "reward": "200 Stars"
-  },
-  {
    "code": "pirate",
    "reward": "150 Coins"
   },
@@ -175,10 +171,14 @@
    "reward": "2 Hourly Wheel Spins"
   },
   {
+   "code": "frost",
+   "reward": "200 Stars"
+  },
+  {
    "code": "2v2",
    "reward": "500 Style Tokens"
   }
  ],
- "updated": "2026-09-26T16:10:13.673Z",
+ "updated": "2026-09-27T21:12:29.272Z",
  "source": "https://robloxden.com/game-codes/baddies-brawl"
 }

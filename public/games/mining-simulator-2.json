@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Update61",
-   "reward": "Lucky Boost (6 hours)"
+   "code": "50thEvent",
+   "reward": "4 Hours Super Lucky Boost"
   },
   {
-   "code": "UPDATE44",
+   "code": "LUCKY",
+   "reward": "1 1 Hour Lucky Boost"
+  },
+  {
+   "code": "LOSTCITY",
+   "reward": "1 30 Minute Omega Lucky Boost"
+  },
+  {
+   "code": "UPDATE30",
    "reward": "1 6 Hour Lucky Boost"
   },
   {
-   "code": "FREEEGG",
-   "reward": "1 Basic Egg"
-  },
-  {
-   "code": "SPRINGPART2",
+   "code": "SPRING",
    "reward": "1 4 Hour Super Lucky Boost"
-  },
-  {
-   "code": "UPDATE37",
-   "reward": "1 6 Hour Lucky Boost"
   }
  ],
- "updated": "2026-09-26T11:21:44.624Z",
+ "updated": "2026-09-27T21:09:11.792Z",
  "source": "https://robloxden.com/game-codes/mining-simulator-2"
 }

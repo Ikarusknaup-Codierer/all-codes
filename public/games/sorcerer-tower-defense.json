@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HeadOfHei",
-   "reward": "3,000 Culling Points"
-  },
-  {
    "code": "LuckWorks",
    "reward": "3,000 Gems"
   },
@@ -19,12 +15,8 @@
    "reward": "10,000 Coins"
   },
   {
-   "code": "Delay",
-   "reward": "3,500 Gems"
-  },
-  {
-   "code": "JusticeMattersMost",
-   "reward": "1,261 Culling Points"
+   "code": "HeadOfHei",
+   "reward": "3,000 Culling Points"
   },
   {
    "code": "HelicopterHelicopter",
@@ -37,10 +29,6 @@
   {
    "code": "ThereNeverWasADelay",
    "reward": "1,000 Gems"
-  },
-  {
-   "code": "MerryChristmas",
-   "reward": "1000 Snowflakes"
   },
   {
    "code": "SantaGojo",
@@ -151,6 +139,6 @@
    "reward": "999 Coins"
   }
  ],
- "updated": "2026-09-26T16:07:10.608Z",
+ "updated": "2026-09-27T21:09:28.617Z",
  "source": "https://robloxden.com/game-codes/sorcerer-tower-defense"
 }

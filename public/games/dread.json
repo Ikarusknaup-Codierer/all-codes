@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMERALMOSTOVER",
+   "code": "LEAPYEAR",
+   "reward": "$750"
+  },
+  {
+   "code": "DREADJUSTUPDATED",
+   "reward": "$2,500"
+  },
+  {
+   "code": "PACKJET",
    "reward": "$1,000"
   },
   {
-   "code": "SPOOKYHALLOWEEN",
-   "reward": "$2,000"
-  },
-  {
-   "code": "BLUBLU",
-   "reward": "$1,500"
-  },
-  {
-   "code": "ANODIZED",
+   "code": "SURVIVORSWON",
    "reward": "Unknown Reward"
   },
   {
-   "code": "METAVERSE",
-   "reward": "1,500 Cash"
+   "code": "NOMORECHRISTMAS",
+   "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-09-26T16:11:10.372Z",
+ "updated": "2026-09-27T21:13:25.170Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

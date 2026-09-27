@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "qol",
-   "reward": "2 Engraving Scrolls and 1 Enchant Book"
-  },
-  {
-   "code": "ThankyouFor4kCCU",
-   "reward": "8 Enchant Books and 8 Accessory Tickets"
-  },
-  {
-   "code": "ThankyouFor5kCCU",
-   "reward": "3 Luck Sodas, 3 Wealth Sodas and 3 Energy Drinks"
-  },
-  {
    "code": "floodedarea",
    "reward": "25 Tunnel Teleporters"
+  },
+  {
+   "code": "2kCCU",
+   "reward": "10 Accessory Tickets and 10 Enchant Books"
+  },
+  {
+   "code": "sorryforlagging",
+   "reward": "1 Flip Energy Drink, 1 Lucky Soda and 1 Rich Soda"
+  },
+  {
+   "code": "Trinity",
+   "reward": "3 Enchant Book, 3 Accessory Ticket and 3 Coins"
   }
  ],
- "updated": "2026-09-26T11:09:26.335Z",
+ "updated": "2026-09-27T16:44:43.140Z",
  "source": "https://robloxden.com/game-codes/reheads-please"
 }

@@ -19,10 +19,6 @@
    "reward": "1 Spin"
   },
   {
-   "code": "WEEK2",
-   "reward": "Rewards"
-  },
-  {
    "code": "TRIALOFFLAME",
    "reward": "Rewards"
   },
@@ -35,16 +31,8 @@
    "reward": "Rewards"
   },
   {
-   "code": "MORETRAITS",
-   "reward": "3 Trait Rerolls"
-  },
-  {
    "code": "ITTAKESTWO",
    "reward": "3 Trait Rerolls"
-  },
-  {
-   "code": "RISKYR",
-   "reward": "Free Reward"
   },
   {
    "code": "USEYURHEAD",
@@ -53,10 +41,6 @@
   {
    "code": "30MVISITS",
    "reward": "1 Spin"
-  },
-  {
-   "code": "UPDATE6",
-   "reward": "1 Luck Potion"
   },
   {
    "code": "20MVISITS",
@@ -87,6 +71,6 @@
    "reward": "2 Trait Rolls"
   }
  ],
- "updated": "2026-09-26T11:08:47.406Z",
+ "updated": "2026-09-27T16:44:18.234Z",
  "source": "https://robloxden.com/game-codes/how-to-train-your-dragon"
 }

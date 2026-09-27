@@ -15,10 +15,6 @@
    "reward": "a Luck Booster , a Gold Pack and 15,000 Coins"
   },
   {
-   "code": "QUICKDRAW!",
-   "reward": "10,000 Coins , 10 Tickets , and 1 Lucky Booster . Can be redeemed on n"
-  },
-  {
    "code": "SLAMDUNK!",
    "reward": "10,000 Coins , 10 Tickets , and 1 Lucky Booster"
   },
@@ -49,8 +45,12 @@
   {
    "code": "INEEDMONEY",
    "reward": "15,000 Coins and 1 Lucky Booster"
+  },
+  {
+   "code": "QUICKDRAW!",
+   "reward": "10,000 Coins , 10 Tickets , and 1 Lucky Booster . Can be redeemed on n"
   }
  ],
- "updated": "2026-09-26T11:17:43.913Z",
+ "updated": "2026-09-27T16:50:49.952Z",
  "source": "https://robloxden.com/game-codes/highschool-hoops-demo"
 }

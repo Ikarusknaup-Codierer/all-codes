@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "DevilsBounty",
+   "reward": "30 Trait Rerolls and 3 Race Rerolls"
+  },
+  {
+   "code": "AnchorsUp",
+   "reward": "15 Trait Rerolls , 13 Race Rerolls , and 1 Fruit Chest"
+  },
+  {
+   "code": "LuckOfTheSea",
+   "reward": "1 Fruit Chest , 5 Race Rerolls , and 5 Trait Rerolls"
+  },
+  {
+   "code": "StarShower",
+   "reward": "15 Trait Rerolls and 5 Race Rerolls"
+  },
+  {
    "code": "OmegaCode",
    "reward": "15 Trait Rerolls , 1,000 Celestial Coins , and 5 Race Rerolls"
   },
@@ -25,14 +41,6 @@
   {
    "code": "CelestialBlessing",
    "reward": "1,000 Celestial Coins"
-  },
-  {
-   "code": "LuckOfTheSea",
-   "reward": "1 Fruit Chest , 5 Race Rerolls , and 5 Trait Rerolls"
-  },
-  {
-   "code": "StarShower",
-   "reward": "15 Trait Rerolls and 5 Race Rerolls"
   },
   {
    "code": "FruitBasket",
@@ -55,6 +63,6 @@
    "reward": "10 Trait Rerolls and 5 Race Rerolls"
   }
  ],
- "updated": "2026-09-26T11:15:10.597Z",
+ "updated": "2026-09-27T16:49:27.008Z",
  "source": "https://robloxden.com/game-codes/grand-blue"
 }

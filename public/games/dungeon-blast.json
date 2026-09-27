@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "crimson",
+   "reward": "100 Gems"
+  },
+  {
    "code": "vampire",
    "reward": "100 Gems"
   },
@@ -23,6 +27,6 @@
    "reward": "100 Gems"
   }
  ],
- "updated": "2026-09-25T21:26:51.771Z",
+ "updated": "2026-09-27T04:41:59.064Z",
  "source": "https://robloxden.com/game-codes/dungeon-blast"
 }

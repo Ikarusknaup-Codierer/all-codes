@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HalloweenUpdate",
+   "reward": "200 Coins"
+  },
+  {
    "code": "DevCrate",
    "reward": "200 Coins"
   },
@@ -51,6 +55,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-25T21:28:31.608Z",
+ "updated": "2026-09-27T04:43:40.009Z",
  "source": "https://robloxden.com/game-codes/og-old-t-tower-defense"
 }

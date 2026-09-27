@@ -35,10 +35,6 @@
    "reward": "50 Obsidian Dice"
   },
   {
-   "code": "Op",
-   "reward": "5 Astral Dice and 150 Gems"
-  },
-  {
    "code": "AUG1ST",
    "reward": "50 Gems and 5 Bronze Dice"
   },
@@ -59,10 +55,14 @@
    "reward": "5M Cash , 50 Gems , and 10 Astral Dice"
   },
   {
+   "code": "Op",
+   "reward": "5 Astral Dice and 150 Gems"
+  },
+  {
    "code": "5KTHANKS",
    "reward": "5 OP Dice , 100 Other Dice , and 2,500,000 Cash"
   }
  ],
- "updated": "2026-09-25T21:27:30.819Z",
+ "updated": "2026-09-27T04:42:40.871Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

@@ -15,16 +15,8 @@
    "reward": "1.5M Coins, 80 Lucky Weapon Spins, 85 Lucky Gear Spins, 50 Raid Ticket"
   },
   {
-   "code": "SPIDER",
-   "reward": "80 Gear Lucky Spins , 100 Weapon Lucky Spins , 2M Gold , 75 Runes , an"
-  },
-  {
    "code": "NEWTRAITRARITY",
    "reward": "300 Runes"
-  },
-  {
-   "code": "GUTSANDDELAY",
-   "reward": "80 Gear Lucky Spin , 100 Weapon Lucky Spin , 1M Gold , 100 Runes , 55 "
   },
   {
    "code": "GOKUBLACK",
@@ -187,6 +179,6 @@
    "reward": "50 Runes"
   }
  ],
- "updated": "2026-09-26T04:22:08.559Z",
+ "updated": "2026-09-27T04:45:05.103Z",
  "source": "https://robloxden.com/game-codes/anime-final-quest"
 }

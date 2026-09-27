@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CAPTAIN",
-   "reward": "1,000 Silver"
-  },
-  {
    "code": "CLAIRE",
    "reward": "1,000 Silver"
   },
@@ -21,8 +17,12 @@
   {
    "code": "ADRIAN",
    "reward": "1,000 Silver"
+  },
+  {
+   "code": "CAPTAIN",
+   "reward": "1,000 Silver"
   }
  ],
- "updated": "2026-09-25T21:25:29.627Z",
+ "updated": "2026-09-27T04:40:29.400Z",
  "source": "https://robloxden.com/game-codes/rise-to-royalty"
 }

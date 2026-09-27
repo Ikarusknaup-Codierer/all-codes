@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Athena",
+   "reward": "the Athena Egg"
+  },
+  {
+   "code": "Poseidon",
+   "reward": "the Poseidon Egg"
+  },
+  {
    "code": "Spin10",
    "reward": "10 Spins"
   },
@@ -47,6 +55,6 @@
    "reward": "a Random Rare Pet"
   }
  ],
- "updated": "2026-09-25T21:23:48.062Z",
+ "updated": "2026-09-27T04:38:36.382Z",
  "source": "https://robloxden.com/game-codes/1-drain-water-per-click"
 }

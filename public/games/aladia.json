@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BGC",
+   "reward": "50 Diamonds"
+  },
+  {
+   "code": "BOT",
+   "reward": "100 Armors"
+  },
+  {
    "code": "ARMORRR",
    "reward": "100 Armors"
   },
@@ -17,6 +25,22 @@
   {
    "code": "HSH",
    "reward": "10 Diamonds"
+  },
+  {
+   "code": "AYUDAARMOR",
+   "reward": "100 Armors"
+  },
+  {
+   "code": "AYUDACOMBATP",
+   "reward": "5 Combat_P"
+  },
+  {
+   "code": "AYUDASP",
+   "reward": "5 SP"
+  },
+  {
+   "code": "SAH",
+   "reward": "50 Diamonds"
   },
   {
    "code": "CHOU",
@@ -107,6 +131,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-09-26T04:23:40.358Z",
+ "updated": "2026-09-27T04:46:34.465Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

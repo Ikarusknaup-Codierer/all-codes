@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AprilFools",
+   "reward": "200 Coins"
+  },
+  {
    "code": "EasterUpdate",
    "reward": "200 Coins"
   },
@@ -67,6 +71,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-25T21:25:01.575Z",
+ "updated": "2026-09-27T04:39:58.910Z",
  "source": "https://robloxden.com/game-codes/oldest-t-tower-defense"
 }

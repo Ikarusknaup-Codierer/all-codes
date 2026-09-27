@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "food",
-   "reward": "50,000 Cash"
-  },
-  {
-   "code": "weback",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "SMR_26",
    "reward": "2X Cash (48 Hours)"
-  },
-  {
-   "code": "get-it",
-   "reward": "25,000 Cash"
   },
   {
    "code": "bridge",
@@ -63,6 +51,6 @@
    "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-09-25T21:30:10.282Z",
+ "updated": "2026-09-27T04:44:31.398Z",
  "source": "https://robloxden.com/game-codes/nitrolab-drag-racing"
 }

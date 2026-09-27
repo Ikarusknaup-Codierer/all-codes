@@ -7,8 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "MARKET",
-   "reward": "10K Cash"
+   "code": "TRAITS",
+   "reward": "Rewards . You must reach Level 10 to use this code"
   },
   {
    "code": "NEWMAP",
@@ -31,6 +31,6 @@
    "reward": "20 Minutes Luck Boost"
   }
  ],
- "updated": "2026-09-25T21:25:37.743Z",
+ "updated": "2026-09-27T04:40:38.120Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

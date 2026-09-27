@@ -11,22 +11,22 @@
    "reward": "150 Gems"
   },
   {
-   "code": "GrapeSoda",
-   "reward": "500 Candy"
-  },
-  {
-   "code": "ArcticUpdate",
-   "reward": "AutoFizz (3 Minutes)"
-  },
-  {
-   "code": "FrozenSoda",
-   "reward": "AutoFizz (5 Minutes)"
-  },
-  {
-   "code": "SodaForever",
+   "code": "OrangeSoda",
    "reward": "AutoFizz (2 Minutes)"
+  },
+  {
+   "code": "iLOVEsoda",
+   "reward": "AutoFizz (1 Minute 30 Seconds)"
+  },
+  {
+   "code": "SodaSim2020",
+   "reward": "Triple Candy (1 Minute 30 Seconds)"
+  },
+  {
+   "code": "EpicSoda",
+   "reward": "Triple Coins (1 Minute 30 Seconds)"
   }
  ],
- "updated": "2026-09-26T04:27:09.066Z",
+ "updated": "2026-09-27T11:46:47.427Z",
  "source": "https://robloxden.com/game-codes/soda-simulator"
 }

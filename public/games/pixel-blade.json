@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CHESTS",
+   "reward": "2 Class Dice , 3 Revives , 1 Daily Chest , and 500 Coins"
+  },
+  {
    "code": "INFERYT",
    "reward": "1 Class Dice , 3 Revives , 500 Coins , and 2 Dead Sticks"
   },
@@ -75,6 +79,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-09-26T11:07:12.770Z",
+ "updated": "2026-09-27T11:54:30.502Z",
  "source": "https://robloxden.com/game-codes/pixel-blade"
 }

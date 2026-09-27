@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "INFINITY",
+   "reward": "15 Trait Rerolls , 500 Gems , and 3 Wheel Spins"
+  },
+  {
    "code": "SAO",
    "reward": "15 Trait Rerolls , 500 Gems , and 3 Wheel Spins"
   },
@@ -91,6 +95,6 @@
    "reward": "20 Trait Rerolls , 20 Stat Rerolls , and 1,000 Gems"
   }
  ],
- "updated": "2026-09-26T11:06:48.199Z",
+ "updated": "2026-09-27T11:54:07.798Z",
  "source": "https://robloxden.com/game-codes/anime-dungeons"
 }

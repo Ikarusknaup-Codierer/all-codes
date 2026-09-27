@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "200KMEMBERS",
+   "reward": "a 50% Slower Wave Item (20 Minutes) , a Legendary Pack , a 2x Luck Ite"
+  },
+  {
+   "code": "200KFAVS",
+   "reward": "a 50% Slower Wave Item (20 Minutes) , a Legendary Pack , a 2x Luck Ite"
+  },
+  {
+   "code": "5000LIKES",
+   "reward": "a 50% Slower Wave Item (20 Minutes) , a Legendary Pack , a 2x Luck Ite"
+  },
+  {
+   "code": "4MILVISITS",
+   "reward": "2x Kick Power Item (15 Minutes) , 2x Cash Item (10 Minutes) , a Boba P"
+  },
+  {
    "code": "BOBA",
    "reward": "2x Luck (20 Minutes) , 20,000 Cash , and a Boba Pack"
   },
@@ -15,6 +31,6 @@
    "reward": "a Legendary Pack , a Boba Pack , 2x Luck (10 Minutes) , and 2x Kick Po"
   }
  ],
- "updated": "2026-09-26T04:32:11.962Z",
+ "updated": "2026-09-27T11:50:17.135Z",
  "source": "https://robloxden.com/game-codes/custom-keyboards"
 }

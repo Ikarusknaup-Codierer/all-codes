@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "JANKEN",
+   "reward": "400 Cash"
+  },
+  {
    "code": "FUTURERAID",
    "reward": "200 Cash"
   },
@@ -39,6 +43,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-09-26T04:37:02.830Z",
+ "updated": "2026-09-27T11:52:38.775Z",
  "source": "https://robloxden.com/game-codes/anime-rails"
 }

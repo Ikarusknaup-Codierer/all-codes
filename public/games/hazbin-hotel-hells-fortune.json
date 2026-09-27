@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "OnAir",
+   "reward": "10 Power Rolls"
+  },
+  {
+   "code": "Sepia",
+   "reward": "5 Power Rolls"
+  },
+  {
+   "code": "RabbitEars",
+   "reward": "5 Power Rolls"
+  },
+  {
    "code": "Sunflower",
    "reward": "1 Luck Potion III"
   },
@@ -375,6 +387,6 @@
    "reward": "10x Luck Potion III"
   }
  ],
- "updated": "2026-09-26T04:24:44.702Z",
+ "updated": "2026-09-27T11:45:17.811Z",
  "source": "https://robloxden.com/game-codes/hazbin-hotel-hells-fortune"
 }

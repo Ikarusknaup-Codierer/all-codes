@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DINOCHICKEN",
+   "reward": "100 Charm Dust , x2 Corn (15m) , and 50 Amber Shards"
+  },
+  {
    "code": "CHICKENCLASH",
    "reward": "50 Arena Medals , 100 Charm Dust , and 2x Hatch Luck (15 Minutes)"
   },
@@ -43,6 +47,6 @@
    "reward": "a Blazing Egg"
   }
  ],
- "updated": "2026-09-26T04:32:23.369Z",
+ "updated": "2026-09-27T11:50:24.376Z",
  "source": "https://robloxden.com/game-codes/grow-a-chicken-fighter"
 }

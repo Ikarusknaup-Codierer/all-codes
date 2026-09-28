@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "IsSpinalStrangerTapThingsThis",
+   "reward": "x2 Shiny Boost (2hrs)"
+  },
+  {
+   "code": "LeftPersonLeftPath",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
    "code": "STONEHENGE",
    "reward": "2x Gold Boost (8 Hours)"
   },
@@ -199,10 +207,10 @@
    "reward": "2 hours of x2 Metallic Boost"
   },
   {
-   "code": "MOUNTIN",
+   "code": "ELECTROMAGNETISM",
    "reward": "a 2 Hour 2x Gold Boost"
   }
  ],
- "updated": "2026-09-26T20:55:37.258Z",
+ "updated": "2026-09-28T04:43:05.483Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

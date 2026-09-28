@@ -19,10 +19,6 @@
    "reward": "Free Spins and Cash"
   },
   {
-   "code": "MimicBossfight",
-   "reward": "1 Legendary Spin and 50,000 Money"
-  },
-  {
    "code": "MimicItems",
    "reward": "1 Epic Spin and 1 Wheel Spin"
   },
@@ -51,14 +47,14 @@
    "reward": "1 Legendary Spin"
   },
   {
-   "code": "BugFix2!",
-   "reward": "1 Legendary Spin"
+   "code": "MimicBossfight",
+   "reward": "1 Legendary Spin and 50,000 Money"
   },
   {
-   "code": "SorryForDelay!",
-   "reward": "2 Legendary Spins"
+   "code": "BugFix2!",
+   "reward": "1 Legendary Spin"
   }
  ],
- "updated": "2026-09-26T20:53:38.691Z",
+ "updated": "2026-09-28T04:41:02.015Z",
  "source": "https://robloxden.com/game-codes/heroes-world"
 }

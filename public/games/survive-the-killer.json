@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "KILLERCRAZE",
-   "reward": "Happy's Circus Knife, 50 Coins, And 100 XP"
-  },
-  {
    "code": "CHUCKY",
    "reward": "Chucky's Rattle Knife"
   },
   {
-   "code": "SPOON",
-   "reward": "Spoon Knife"
-  },
-  {
-   "code": "TEST",
-   "reward": "Test Knife"
+   "code": "BOO",
+   "reward": "Dark Fiend Knife"
   },
   {
    "code": "STK2YEARS",
    "reward": "2 Year Birthday Slycer Knife"
+  },
+  {
+   "code": "PRIDE",
+   "reward": "Pride Knife"
+  },
+  {
+   "code": "RED",
+   "reward": "Code Red Knife"
   }
  ],
- "updated": "2026-09-26T20:56:35.084Z",
+ "updated": "2026-09-28T04:44:06.020Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

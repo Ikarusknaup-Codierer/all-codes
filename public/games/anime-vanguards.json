@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Assault",
+   "reward": "100 Trait Rerolls"
+  },
+  {
+   "code": "SummerLeaving",
+   "reward": "100 Memoria Shards"
+  },
+  {
+   "code": "AnniNextHopefully",
+   "reward": "100 Trait Rerolls , 100 Memoria Shards , and 5,000 Gems"
+  },
+  {
    "code": "MiniUpd2",
    "reward": "200 Trait Rerolls and 50,000 Gems"
   },
@@ -59,6 +71,6 @@
    "reward": "50 Memoria Shards and 50 Green Essences . You must be level 30 to clai"
   }
  ],
- "updated": "2026-09-26T20:59:39.805Z",
+ "updated": "2026-09-28T04:47:12.162Z",
  "source": "https://robloxden.com/game-codes/anime-vanguards"
 }

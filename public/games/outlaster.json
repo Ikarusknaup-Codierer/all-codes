@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "NEW",
+   "reward": "New"
+  },
+  {
    "code": "STARTER",
    "reward": "Starter"
   },
   {
-   "code": "JUNGLELIFE",
-   "reward": "50 Gems"
-  },
-  {
-   "code": "HOLIDAY",
-   "reward": "2,000 Cash"
+   "code": "HEART",
+   "reward": "1 Valentine Torch"
   },
   {
    "code": "GIFT",
@@ -25,12 +25,8 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
-  },
-  {
-   "code": "NEW",
-   "reward": "New"
   }
  ],
- "updated": "2026-09-26T20:56:55.188Z",
+ "updated": "2026-09-28T04:44:26.860Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

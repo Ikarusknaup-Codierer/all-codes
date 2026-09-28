@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Update8",
+   "reward": "5 All Potions"
+  },
+  {
+   "code": "MathIsEasy",
+   "reward": "50 Tickets"
+  },
+  {
    "code": "SuperSecretRunes",
    "reward": "50 Tickets"
   },
@@ -107,6 +115,6 @@
    "reward": "+1 All Potions"
   }
  ],
- "updated": "2026-09-27T04:43:41.997Z",
+ "updated": "2026-09-28T13:29:44.720Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

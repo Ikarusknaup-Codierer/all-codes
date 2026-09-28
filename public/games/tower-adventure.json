@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "DELAY",
-   "reward": "2,067 Stardusts"
-  },
-  {
    "code": "NOMORE",
    "reward": "6,767 Coins"
+  },
+  {
+   "code": "DELAY",
+   "reward": "2,067 Stardusts"
   },
   {
    "code": "Sorry",
@@ -27,6 +27,6 @@
    "reward": "1K Coins"
   }
  ],
- "updated": "2026-09-27T04:38:24.604Z",
+ "updated": "2026-09-28T13:24:58.898Z",
  "source": "https://robloxden.com/game-codes/tower-adventure"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD",
+   "reward": "1x Luck Boost Potion , 1x Coin Boost Potion , and 1x Roll Speed Boost "
+  },
+  {
+   "code": "LAVACOINS",
+   "reward": "500 Lava Coins"
+  },
+  {
    "code": "404PROBLEMS",
    "reward": "500 Hero Coins and 1 Coin Potion"
   },
@@ -19,6 +27,6 @@
    "reward": "1 Jackpot Spin"
   }
  ],
- "updated": "2026-09-27T04:39:29.291Z",
+ "updated": "2026-09-28T13:25:54.398Z",
  "source": "https://robloxden.com/game-codes/build-a-base"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DRAGONPEARL",
+   "reward": "10x Luck (5 Minutes)"
+  },
+  {
    "code": "BANZAI",
    "reward": "a Void Apple"
   },
@@ -47,6 +51,6 @@
    "reward": "1 Rainbow Treasure Chest"
   }
  ],
- "updated": "2026-09-27T04:41:10.325Z",
+ "updated": "2026-09-28T13:27:26.152Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

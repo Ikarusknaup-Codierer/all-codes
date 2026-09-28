@@ -8,15 +8,11 @@
   },
   {
    "code": "VOTEKICK",
-   "reward": "Reward"
+   "reward": "250 EXP and 6,700 Cash"
   },
   {
    "code": "BAHA",
-   "reward": "250 Cash"
-  },
-  {
-   "code": "dawg",
-   "reward": "a Reward"
+   "reward": "250 Cash and 6,700 Cash"
   },
   {
    "code": "SorryForDelay",
@@ -29,6 +25,10 @@
   {
    "code": "xltrelease",
    "reward": "6,767 Cash and 670 EXP"
+  },
+  {
+   "code": "dawg",
+   "reward": "a Reward"
   },
   {
    "code": "ilikecats2",
@@ -119,6 +119,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-09-27T04:51:44.794Z",
+ "updated": "2026-09-28T13:33:22.694Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

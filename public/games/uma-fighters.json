@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SORRYCONSOLE",
-   "reward": "1 Random Emote and 150 Carrats"
-  },
-  {
    "code": "BUGFIXES2",
    "reward": "Carrats"
   },
@@ -23,10 +19,14 @@
    "reward": "1 Random Emote"
   },
   {
+   "code": "SORRYCONSOLE",
+   "reward": "1 Random Emote and 150 Carrats"
+  },
+  {
    "code": "15MINSDELAY",
    "reward": "200 Carrats"
   }
  ],
- "updated": "2026-09-27T04:43:30.484Z",
+ "updated": "2026-09-28T13:29:33.634Z",
  "source": "https://robloxden.com/game-codes/uma-fighters"
 }

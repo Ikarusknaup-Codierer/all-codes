@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CORAL",
+   "reward": "50 Shells"
+  },
+  {
    "code": "SHELLS",
    "reward": "25 Shells"
   },
@@ -23,6 +27,6 @@
    "reward": "100 Cash and 2x Shrimp"
   }
  ],
- "updated": "2026-09-27T04:41:52.425Z",
+ "updated": "2026-09-28T13:28:04.810Z",
  "source": "https://robloxden.com/game-codes/my-seafood-stand"
 }

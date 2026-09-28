@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "GRIND",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "FIXES",
    "reward": "50,000 Cash"
   },
@@ -35,10 +31,14 @@
    "reward": "Golden Elite Tuning Crate , Candy Supercar Parts Box and Diamond Super"
   },
   {
+   "code": "GRIND",
+   "reward": "50,000 Cash"
+  },
+  {
    "code": "PRESTIGE",
    "reward": "Golden Turbo Crate , Diamond Mechanic's Crate , and Lava Street Starte"
   }
  ],
- "updated": "2026-09-27T04:38:39.474Z",
+ "updated": "2026-09-28T13:25:11.589Z",
  "source": "https://robloxden.com/game-codes/create-a-car"
 }

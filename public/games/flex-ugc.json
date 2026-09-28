@@ -47,10 +47,6 @@
    "reward": "a Nightfall Blade"
   },
   {
-   "code": "HPPC9",
-   "reward": "the Hot Pink Pixel Crown"
-  },
-  {
    "code": "YST",
    "reward": "the Silver Solar Eclipse Crown"
   },
@@ -193,8 +189,12 @@
   {
    "code": "3321",
    "reward": "the Chrome Y2K Wing Shades"
+  },
+  {
+   "code": "HPPC9",
+   "reward": "the Hot Pink Pixel Crown"
   }
  ],
- "updated": "2026-09-27T04:46:49.125Z",
+ "updated": "2026-09-28T13:32:32.852Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

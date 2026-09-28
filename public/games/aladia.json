@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
+   "code": "RENE",
+   "reward": "100 Armor"
+  },
+  {
    "code": "BGC",
    "reward": "50 Diamonds"
   },
   {
    "code": "BOT",
-   "reward": "100 Armors"
-  },
-  {
-   "code": "ARMORRR",
    "reward": "100 Armors"
   },
   {
@@ -37,6 +37,10 @@
   {
    "code": "AYUDASP",
    "reward": "5 SP"
+  },
+  {
+   "code": "AYUDAPISTOL",
+   "reward": "5 Pistols"
   },
   {
    "code": "SAH",
@@ -131,6 +135,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-09-27T04:46:34.465Z",
+ "updated": "2026-09-28T13:32:20.461Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

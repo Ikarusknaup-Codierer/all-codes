@@ -11,54 +11,22 @@
    "reward": "Recruit Case"
   },
   {
-   "code": "LATE",
-   "reward": "1 Recruit Case"
-  },
-  {
-   "code": "190KLIKES",
-   "reward": "a Free Case"
-  },
-  {
-   "code": "160KLIKES",
-   "reward": "1 Recruit Case"
-  },
-  {
-   "code": "150KLIKES",
-   "reward": "a Recruit Case"
-  },
-  {
    "code": "100MOG",
    "reward": "the Exclusive OG Knife"
   },
   {
-   "code": "110KLIKES",
-   "reward": "1 Recruit Case"
-  },
-  {
-   "code": "100KLIKES",
-   "reward": "1 Recruit Case"
-  },
-  {
-   "code": "90KLIKES",
+   "code": "30KLIKES",
    "reward": "a Recruit Case"
   },
   {
-   "code": "80KLIKES",
-   "reward": "1 Recruit Case"
+   "code": "10KLIKES",
+   "reward": "a Recruit Case . You must be at least level 5 to redeem this code"
   },
   {
-   "code": "50KLIKES",
-   "reward": "1 Recruit Case"
-  },
-  {
-   "code": "MATCHMAKINGDELAY",
-   "reward": "1 Recruit Case"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "1,000 Coins . You must be at least level 5 to redeem this code"
+   "code": "1KLIKES",
+   "reward": "a recruit case"
   }
  ],
- "updated": "2026-09-27T04:45:12.299Z",
+ "updated": "2026-09-28T13:31:10.483Z",
  "source": "https://robloxden.com/game-codes/murder-duels"
 }

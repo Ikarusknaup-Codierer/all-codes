@@ -7,56 +7,60 @@
    "reward": "Description"
   },
   {
+   "code": "MUTATION",
+   "reward": "15 Legendary Luck Potions"
+  },
+  {
    "code": "VIDEOGAME",
-   "reward": "the Video Game Card Pack"
+   "reward": "15 Legendary Luck Potions"
   },
   {
    "code": "600PLAYERS",
-   "reward": "Rewards"
+   "reward": "15 Legendary Luck Potions"
   },
   {
    "code": "NOMORELAGPLEASE",
-   "reward": "1,000,000 Aurora Packs , 10 Divine Potions , and 1 Gold Structure Coin"
+   "reward": "a Gold Structure Coin"
   },
   {
    "code": "DUNGEONS",
-   "reward": "Rewards"
+   "reward": "30 Cursed Potions"
   },
   {
    "code": "CODEBOX",
-   "reward": "Rewards"
+   "reward": "10 Legendary Luck Potions"
   },
   {
    "code": "DANTE",
-   "reward": "Rewards"
+   "reward": "55 Jackpot Potions"
   },
   {
    "code": "NOBIGGIE",
-   "reward": "Rewards"
+   "reward": "30 Cursed Potions"
   },
   {
    "code": "VIRUSONG",
-   "reward": "Rewards"
+   "reward": "50 Event Speed Potions"
   },
   {
    "code": "OPTIMIZECOPE",
-   "reward": "Rewards"
+   "reward": "50 Event Speed Potions"
   },
   {
    "code": "VACATIONDELAY",
-   "reward": "Rewards"
+   "reward": "30 Cursed Potions"
   },
   {
    "code": "CRYPTID",
-   "reward": "Rewards"
+   "reward": "50 Event Speed Potions , 30 Speed Potion III , 30 Luck Potion III , 10"
   },
   {
    "code": "ALLAGE",
-   "reward": "Rewards"
+   "reward": "15 Legendary Speed Potions , 50 Boss Potions , 15 Legendary Luck Potio"
   },
   {
    "code": "100PLAYERS",
-   "reward": "Rewards"
+   "reward": "15 Legendary Speed Potions , 50 Boss Potions , 15 Legendary Luck Potio"
   },
   {
    "code": "COMPENSATION",
@@ -67,6 +71,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-09-27T04:40:57.754Z",
+ "updated": "2026-09-28T13:27:14.263Z",
  "source": "https://robloxden.com/game-codes/card-rng-expansion"
 }

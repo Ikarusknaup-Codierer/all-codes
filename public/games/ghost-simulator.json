@@ -27,10 +27,6 @@
    "reward": "3 of Each Gums"
   },
   {
-   "code": "HALL-OWO-EEN",
-   "reward": "Haunted Speedster"
-  },
-  {
    "code": "GRAVEOWEEN2024",
    "reward": "Pumpkin Krepy"
   },
@@ -87,10 +83,14 @@
    "reward": "3 Ghoulish Gum"
   },
   {
+   "code": "HALL-OWO-EEN",
+   "reward": "Haunted Speedster"
+  },
+  {
    "code": "PURPLETECH",
    "reward": "3 Crate Keys"
   }
  ],
- "updated": "2026-09-26T21:01:36.485Z",
+ "updated": "2026-09-28T13:24:21.478Z",
  "source": "https://robloxden.com/game-codes/ghost-simulator"
 }

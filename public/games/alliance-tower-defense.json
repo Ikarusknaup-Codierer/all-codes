@@ -11,6 +11,10 @@
    "reward": "300 Coins"
   },
   {
+   "code": "FreeTicket",
+   "reward": "3 Tickets"
+  },
+  {
    "code": "PASS",
    "reward": "200 Coins"
   },
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "100K",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "Mythic",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-27T11:53:41.591Z",
+ "updated": "2026-09-28T23:14:09.198Z",
  "source": "https://robloxden.com/game-codes/alliance-tower-defense"
 }

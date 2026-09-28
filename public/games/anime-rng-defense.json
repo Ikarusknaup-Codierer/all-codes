@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATEFIRE",
+   "reward": "1K Crystals and 1 Blessed Roll"
+  },
+  {
    "code": "SORRYFORSHUTDOWNGHOUL",
    "reward": "3 Divine Rolls"
   },
@@ -163,6 +167,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-09-27T04:52:11.679Z",
+ "updated": "2026-09-28T23:06:26.652Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "$5M and an Exclusive Limited Time 5M Sign"
+  },
+  {
+   "code": "SECRET",
+   "reward": "a Special Ops Facility and Aardvark Towers"
+  },
+  {
+   "code": "300KMEMBERS",
+   "reward": "3 Worker Potions , 3 Strength Potions , and 1 Stock Potion"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "$1M and 3 Mobile Camps"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "$3M and a 3M Statue"
+  },
+  {
+   "code": "TALLHOUSE",
+   "reward": "1 Large Penthouse"
+  },
+  {
+   "code": "BOOM",
+   "reward": "1 Tank Depot"
   }
  ],
- "updated": "2026-09-27T11:49:06.692Z",
+ "updated": "2026-09-28T23:10:09.169Z",
  "source": "https://robloxden.com/game-codes/build-a-country"
 }

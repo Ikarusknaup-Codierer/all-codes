@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BORZOIQUESADILLA",
-   "reward": "3 Spectrum Cases , 3 Tidal Cases , and 3 Warzone Cases"
-  },
-  {
    "code": "SHINYGEMS",
    "reward": "500 Gems"
   },
@@ -25,8 +21,12 @@
   {
    "code": "RELEASE",
    "reward": "500 Coins"
+  },
+  {
+   "code": "BORZOIQUESADILLA",
+   "reward": "3 Spectrum Cases , 3 Tidal Cases , and 3 Warzone Cases"
   }
  ],
- "updated": "2026-09-27T11:52:06.453Z",
+ "updated": "2026-09-28T23:12:46.441Z",
  "source": "https://robloxden.com/game-codes/one-tap-pistols"
 }

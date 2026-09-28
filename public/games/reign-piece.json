@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "FRIEREN",
-   "reward": "Freebies . You need to be at least level 7,500 to redeem this code"
+   "code": "MAGICMANACRYSTALS",
+   "reward": "Freebies . You need to reach Level 7,500 to use this code"
   },
   {
-   "code": "THANKSFOR200K",
-   "reward": "Freebies . You must be at least level 5,000 to use this code"
+   "code": "FRIEREN",
+   "reward": "Freebies . You need to be at least level 7,500 to redeem this code"
   },
   {
    "code": "THEALMIGHTY",
@@ -65,6 +65,10 @@
   {
    "code": "DELAYCOMP",
    "reward": "Free Rewards . You must be at least level 1,000 to claim this code"
+  },
+  {
+   "code": "THANKSFOR200K",
+   "reward": "Freebies . You must be at least level 5,000 to use this code"
   },
   {
    "code": "FORGEEMBER",
@@ -247,6 +251,6 @@
    "reward": "1 Mythical Chest and 10 Race Tokens"
   }
  ],
- "updated": "2026-09-27T11:53:37.987Z",
+ "updated": "2026-09-28T23:14:06.547Z",
  "source": "https://robloxden.com/game-codes/reign-piece"
 }

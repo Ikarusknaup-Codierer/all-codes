@@ -11,6 +11,14 @@
    "reward": "9,000 Stars"
   },
   {
+   "code": "REVIVE",
+   "reward": "3 Weather Potions"
+  },
+  {
+   "code": "TOWERUPDATE",
+   "reward": "6,000 Stars"
+  },
+  {
    "code": "GALAXY",
    "reward": "Luck Pot III"
   },
@@ -41,20 +49,8 @@
   {
    "code": "TRADINGISBACK",
    "reward": "9,000 Stars"
-  },
-  {
-   "code": "TOWERBUFF",
-   "reward": "1 Mutation Potion II"
-  },
-  {
-   "code": "ISUPPOSE",
-   "reward": "Mutation Potion I"
-  },
-  {
-   "code": "HAKARI!",
-   "reward": "1 Jackpot Clover"
   }
  ],
- "updated": "2026-09-27T04:52:24.414Z",
+ "updated": "2026-09-28T23:06:35.704Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "ROBLOXCLASSIC",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "SCIFI",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "NEWBOSSNEXTWEEK",
+   "reward": "1.5K Hacker Tokens"
+  },
+  {
+   "code": "PAINTEVERYWHERE",
+   "reward": "1,000 Cash , 1 Crossbow , and 1 Mounted Gun"
+  },
+  {
    "code": "CYBERHACK",
    "reward": "2,500 Hacker Tokens"
-  },
-  {
-   "code": "HACKER",
-   "reward": "50 Hacker Tokens"
-  },
-  {
-   "code": "1x1x1x1",
-   "reward": "150 Hacker Tokens"
   }
  ],
- "updated": "2026-09-27T11:48:19.570Z",
+ "updated": "2026-09-28T23:09:26.201Z",
  "source": "https://robloxden.com/game-codes/build-and-kill-zombies"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ABYSS",
+   "reward": "1 Abyss Egg"
+  },
+  {
    "code": "1MVISITS",
    "reward": "5 Dominus Eggs"
   },
@@ -35,6 +39,6 @@
    "reward": "3 Dominus Eggs"
   }
  ],
- "updated": "2026-09-27T11:46:40.758Z",
+ "updated": "2026-09-28T23:07:58.100Z",
  "source": "https://robloxden.com/game-codes/ball-drop-game"
 }

@@ -19,10 +19,6 @@
    "reward": "200 Burgers"
   },
   {
-   "code": "NewQuests",
-   "reward": "100 Burgers"
-  },
-  {
    "code": "70KLIKES",
    "reward": "75 Burgers"
   },
@@ -41,6 +37,10 @@
   {
    "code": "HappyBirthdayLynn",
    "reward": "500 Burgers"
+  },
+  {
+   "code": "NewQuests",
+   "reward": "100 Burgers"
   },
   {
    "code": "QOL",
@@ -75,6 +75,6 @@
    "reward": "200 Burgers"
   }
  ],
- "updated": "2026-09-27T11:48:39.201Z",
+ "updated": "2026-09-28T23:09:44.280Z",
  "source": "https://robloxden.com/game-codes/dead-spells"
 }

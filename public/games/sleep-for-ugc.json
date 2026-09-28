@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Pumpkin",
+   "reward": "5K Coins and 5K Shards"
+  },
+  {
    "code": "DAISY",
    "reward": "5k Coins and 5k Shards"
   },
@@ -23,22 +27,14 @@
    "reward": "7,000 Coins and 72,000 Shards"
   },
   {
-   "code": "CUTEBUNNY",
-   "reward": "5,000 Shards and 5,000 Coins"
-  },
-  {
-   "code": "WOLFCUT",
-   "reward": "5,000 Shards and 5,000 Coins"
-  },
-  {
-   "code": "HAPPYFOX",
-   "reward": "5K Coins and 5K Shards"
-  },
-  {
    "code": "KIWI",
    "reward": "5,000 Coins and 7,500 Shards"
+  },
+  {
+   "code": "PANDA",
+   "reward": "7.500 Shards and 7,500 Coins"
   }
  ],
- "updated": "2026-09-27T11:50:33.906Z",
+ "updated": "2026-09-28T23:11:24.934Z",
  "source": "https://robloxden.com/game-codes/sleep-for-ugc"
 }

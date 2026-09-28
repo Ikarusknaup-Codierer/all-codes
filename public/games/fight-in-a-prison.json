@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "FIGHT",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "FIAP",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "100LIKES",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "100 Cash"
   }
  ],
- "updated": "2026-09-27T11:50:13.681Z",
+ "updated": "2026-09-28T23:11:06.138Z",
  "source": "https://robloxden.com/game-codes/fight-in-a-prison"
 }

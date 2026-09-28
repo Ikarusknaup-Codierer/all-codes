@@ -15,14 +15,6 @@
    "reward": "5 Vault Tokens"
   },
   {
-   "code": "AMENITIES",
-   "reward": "a Free Case"
-  },
-  {
-   "code": "4SYLUM",
-   "reward": "an Exclusive Outfit and 5 Vault Tokens"
-  },
-  {
    "code": "SPECTER3",
    "reward": "Free Rewards"
   },
@@ -59,8 +51,16 @@
    "reward": "a Free Skin"
   },
   {
+   "code": "AMENITIES",
+   "reward": "a Free Case"
+  },
+  {
    "code": "FLORAL05",
    "reward": "50k Cash"
+  },
+  {
+   "code": "4SYLUM",
+   "reward": "an Exclusive Outfit and 5 Vault Tokens"
   },
   {
    "code": "EASTER2025",
@@ -83,6 +83,6 @@
    "reward": "3 Vault Tokens , an Exclusive Outfit , and a Motion Sensor"
   }
  ],
- "updated": "2026-09-27T11:52:52.528Z",
+ "updated": "2026-09-28T23:13:27.025Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

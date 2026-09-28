@@ -167,14 +167,14 @@
    "reward": "5 Emeralds"
   },
   {
-   "code": "UPDATE12PT2",
-   "reward": "2 Damage Potions, 2 Mastery Potions, 2 Luck Potions, 1 Yen Potion, 1 D"
-  },
-  {
    "code": "BELABESTDEV",
    "reward": "5 Emeralds"
+  },
+  {
+   "code": "SORRYSHUTDOWN3",
+   "reward": "1 Damage Potion and 1 Reset Token"
   }
  ],
- "updated": "2026-09-27T11:49:37.763Z",
+ "updated": "2026-09-28T23:10:37.138Z",
  "source": "https://robloxden.com/game-codes/anime-weapons"
 }

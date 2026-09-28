@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "10000Members",
+   "reward": "100,000 Honey , 25 Magic Beans , 3 Mythic Eggs , 1 Present , Honeyday "
+  },
+  {
+   "code": "25000CommunityMembers",
+   "reward": "100,000 Honey , 15 Magic Beans , 1 Present , Honeyday Event buff , 15x"
+  },
+  {
+   "code": "1MVisits",
+   "reward": "100,000 Honey , 15 Magic Beans , 1 Present , Honeyday Event buff , 15x"
+  },
+  {
+   "code": "5000CCU",
+   "reward": "100,000 Honey , 15 Magic Beans , 1 Present , Honeyday Event Buff , 15x"
+  },
+  {
+   "code": "Release",
+   "reward": "25,000 Honey , 1 Present , and a Honeyday Event buff"
+  },
+  {
    "code": "250KVisits",
    "reward": "100,000 Honey , 15 Magic Beans , 1 Present , a Honeyday Event buff , 1"
   },
@@ -15,6 +35,6 @@
    "reward": "100,000 Honey , 15 Magic Beans , 1 Present , a Honeyday Event buff , 1"
   }
  ],
- "updated": "2026-09-27T11:52:09.939Z",
+ "updated": "2026-09-28T23:12:49.695Z",
  "source": "https://robloxden.com/game-codes/bee-game-reworked"
 }

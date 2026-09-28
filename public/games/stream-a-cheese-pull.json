@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Dino",
+   "reward": "1 Dino Egg"
+  },
+  {
    "code": "Kitty",
    "reward": "1 Cat Pet"
   },
@@ -19,6 +23,6 @@
    "reward": "a Fast Worker"
   }
  ],
- "updated": "2026-09-27T11:52:21.381Z",
+ "updated": "2026-09-28T23:13:00.224Z",
  "source": "https://robloxden.com/game-codes/stream-a-cheese-pull"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FUSEUPDATE",
+   "reward": "10,000 Barrier Tokens , 100 Admin Tokens , 2 Spins , 1 67 Lucky Block "
+  },
+  {
+   "code": "4MILLMEMBERS",
+   "reward": "35,000 Barrier Tokens , 250 Admin Coins , 5 Spins , 3 67 Lucky Blocks "
+  },
+  {
    "code": "BUFFUPDATE",
    "reward": "7.5K Barrier Tokens, 50 Admin Tokens, 2 Spins, 1 67 Lucky Block and 10"
   },
@@ -43,6 +51,6 @@
    "reward": "100 Admin Coins , one 67 Lucky Block , and Galaxy Chicleteira Biciclet"
   }
  ],
- "updated": "2026-09-27T11:47:33.058Z",
+ "updated": "2026-09-28T23:08:44.765Z",
  "source": "https://robloxden.com/game-codes/fall-for-brainrots"
 }

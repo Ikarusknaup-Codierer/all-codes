@@ -7,7 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "SORRY4SHUTDOWN",
+   "code": "UPDATEFINALLY",
+   "reward": "5K Silver, 5K Ichor and 5 Race Rerolls"
+  },
+  {
+   "code": "EMERGENCY",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "LASTONE",
+   "reward": "5 Race Rerolls"
+  },
+  {
+   "code": "VERITYBOMB",
    "reward": "3 Race Rerolls"
   },
   {
@@ -15,6 +27,6 @@
    "reward": "6 Race Rerolls and a Party Hat"
   }
  ],
- "updated": "2026-09-27T11:53:10.822Z",
+ "updated": "2026-09-28T23:13:42.950Z",
  "source": "https://robloxden.com/game-codes/the-veil"
 }

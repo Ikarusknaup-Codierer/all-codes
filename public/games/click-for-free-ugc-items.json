@@ -7,7 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "99",
+   "code": "67",
    "reward": "Clicks"
   },
   {
@@ -15,18 +15,18 @@
    "reward": "Clicks And UGC Rewards"
   },
   {
-   "code": "REBORN",
+   "code": "JANDEL",
+   "reward": "Clicks And UGC Rewards"
+  },
+  {
+   "code": "HAIR",
    "reward": "Clicks And Potions"
   },
   {
-   "code": "UPDATE",
-   "reward": "Extra Boosts"
-  },
-  {
-   "code": "UGC",
-   "reward": "20,000 Clicks and 150 Gems"
+   "code": "POTIONS",
+   "reward": "Clicks And Potions"
   }
  ],
- "updated": "2026-09-27T11:49:09.764Z",
+ "updated": "2026-09-28T23:10:11.825Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

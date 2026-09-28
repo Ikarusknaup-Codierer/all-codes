@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NAGAFINALE",
+   "reward": "5 Lucky Tickets and 1 100% Crit Potion"
+  },
+  {
+   "code": "LAVAENDS",
+   "reward": "1 Pink Star Food Item and 1 VVIP Damage Potion"
+  },
+  {
    "code": "FIRE50K",
    "reward": "1 Pink Star Food and 1 VVIP Damage Potion"
   },
@@ -127,6 +135,6 @@
    "reward": "150 Gems and a 15-Minute Luck Boost"
   }
  ],
- "updated": "2026-09-27T04:47:10.900Z",
+ "updated": "2026-09-28T23:05:53.439Z",
  "source": "https://robloxden.com/game-codes/hunt-giant-fish"
 }

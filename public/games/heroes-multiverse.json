@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "100KCOINS",
+   "reward": "Free Coins"
+  },
+  {
+   "code": "17KLIKES",
+   "reward": "12,000 Coins"
+  },
+  {
    "code": "8KLIKES",
    "reward": "15,000 Cash"
   },
   {
-   "code": "VILLAIN!",
-   "reward": "Free Roll"
+   "code": "KAMSBIRTHDAY",
+   "reward": "Free Coins"
   },
   {
-   "code": "BARBERSHOP!",
-   "reward": "Hair Color Reroll"
-  },
-  {
-   "code": "OKAND",
-   "reward": "300,000 Coins"
-  },
-  {
-   "code": "MILESTONE",
+   "code": "CHAOS",
    "reward": "Free Coins"
   }
  ],
- "updated": "2026-09-27T21:14:43.403Z",
+ "updated": "2026-09-29T12:35:43.268Z",
  "source": "https://robloxden.com/game-codes/heroes-multiverse"
 }

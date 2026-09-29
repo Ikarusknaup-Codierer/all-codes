@@ -7,8 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "MOREFIXES",
-   "reward": "Rewards"
+   "code": "MOREFRAMES",
+   "reward": "100 Reroll Tokens"
   },
   {
    "code": "MAINTENANCE",
@@ -21,8 +21,12 @@
   {
    "code": "ENDGATEKEEP",
    "reward": "an Ability Reroll , a Clan Reroll , a Skill Tree Reset , a Generation "
+  },
+  {
+   "code": "SUPERDOG",
+   "reward": "1 Skill Tree Reset , 15 Ability Rerolls , and 250 Reroll Tokens"
   }
  ],
- "updated": "2026-09-27T21:09:50.436Z",
+ "updated": "2026-09-29T12:31:10.472Z",
  "source": "https://robloxden.com/game-codes/fire-force-online"
 }

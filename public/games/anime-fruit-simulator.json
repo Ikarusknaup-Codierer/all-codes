@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BrokenSuffix",
+   "reward": "2x Rebirth Boost (1 hour) , 2x Coin Boost (1 hour) and 2x Gem Boost (1"
+  },
+  {
+   "code": "DeadGame",
+   "reward": "2x Rebirth Boost (2 hours) , 2x Coin Boost (2 hours) , 2x Gem Boost (2"
+  },
+  {
    "code": "OneHourOfBoosts",
    "reward": "2x Rebirths (1 hour) , 2x Coins (1 hour) and 2x Gems (1 hour)"
   },
   {
-   "code": "FREEDRAGON!",
-   "reward": "15 Spins"
+   "code": "500Likes!!!",
+   "reward": "25 Spins, 500,000 Coins and 5,000 Gems"
   }
  ],
- "updated": "2026-09-27T21:16:23.985Z",
+ "updated": "2026-09-29T12:37:38.269Z",
  "source": "https://robloxden.com/game-codes/anime-fruit-simulator"
 }

@@ -135,10 +135,14 @@
    "reward": "Aura Reroll"
   },
   {
-   "code": "SorryForBugs!",
-   "reward": "70,000 Jeni"
+   "code": "HereAsOurSorry",
+   "reward": "Hatsu Reroll"
+  },
+  {
+   "code": "LysolStinks!",
+   "reward": "Hatsu Reroll"
   }
  ],
- "updated": "2026-09-27T21:10:15.979Z",
+ "updated": "2026-09-29T12:31:36.269Z",
  "source": "https://robloxden.com/game-codes/hunter-x-anomaly"
 }

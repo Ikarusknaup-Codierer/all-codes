@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "WEBUPDATE",
+   "reward": "a 2x Wins Boost (30 Minutes)"
+  },
+  {
+   "code": "GEARUPDATE",
+   "reward": "a 2x Web Power Boost (30 Minutes)"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "a 2x Wins Boost (30 Minutes) and a 2x Web Power Boost (30 Minutes)"
   }
  ],
- "updated": "2026-09-27T21:15:34.686Z",
+ "updated": "2026-09-29T12:36:41.568Z",
  "source": "https://robloxden.com/game-codes/spider-evolution"
 }

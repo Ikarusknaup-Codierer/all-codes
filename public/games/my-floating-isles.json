@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "THUMBNAIL",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-09-27T21:14:38.293Z",
+ "updated": "2026-09-29T12:35:37.731Z",
  "source": "https://robloxden.com/game-codes/my-floating-isles"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BTS",
-   "reward": "50 Credits"
-  },
-  {
    "code": "INDEPENDENCE26",
    "reward": "85 Credits"
   },
@@ -25,8 +21,12 @@
   {
    "code": "SPOOKY",
    "reward": "100 Credits"
+  },
+  {
+   "code": "BACKTOSCHOOL",
+   "reward": "100 Credits"
   }
  ],
- "updated": "2026-09-27T21:11:17.453Z",
+ "updated": "2026-09-29T12:32:44.691Z",
  "source": "https://robloxden.com/game-codes/neighbors-1"
 }

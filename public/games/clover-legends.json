@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SPINAGAIN",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "FLASH200",
+   "reward": "200 Gems"
+  },
+  {
    "code": "AWAKENING",
    "reward": "the Awakening Spell Page"
   },
@@ -75,6 +83,6 @@
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-09-27T21:15:34.225Z",
+ "updated": "2026-09-29T12:36:40.969Z",
  "source": "https://robloxden.com/game-codes/clover-legends"
 }

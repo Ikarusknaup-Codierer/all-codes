@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Candy",
+   "reward": "100,000 Cash and 20K Speed"
+  },
+  {
+   "code": "Crystal",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "Relax",
+   "reward": "Double Speed Boost"
+  },
+  {
+   "code": "Release",
+   "reward": "100,000 Cash"
+  },
+  {
+   "code": "September",
+   "reward": "75,000 Cash"
   }
  ],
- "updated": "2026-09-27T21:15:38.490Z",
+ "updated": "2026-09-29T12:36:45.262Z",
  "source": "https://robloxden.com/game-codes/steal-a-chicken"
 }

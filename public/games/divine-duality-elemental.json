@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BIGDELAY",
-   "reward": "10K Shards"
-  },
-  {
    "code": "160kLikes",
    "reward": "15K Shards"
   },
@@ -47,6 +43,10 @@
    "reward": "1 Storage Slot"
   },
   {
+   "code": "BIGDELAY",
+   "reward": "10K Shards"
+  },
+  {
    "code": "3YEARS",
    "reward": "20K Shards"
   },
@@ -59,6 +59,6 @@
    "reward": "15,000 Shards"
   }
  ],
- "updated": "2026-09-27T21:09:52.211Z",
+ "updated": "2026-09-29T12:31:12.118Z",
  "source": "https://robloxden.com/game-codes/divine-duality-elemental"
 }

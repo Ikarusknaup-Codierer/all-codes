@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "RELEASE",
+   "reward": "5 Border Luck Potions, 5 Lucky Slurps, 5 Boss Cans, 50 Weather Potions"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "5 Border Luck Potions, 5 Lucky Slurps, 20 Weather Potions, 15 Luck Can"
+  },
+  {
+   "code": "1000LIKES",
+   "reward": "Free Rewards . You must reach 5,000 Rolls to use this code"
+  },
+  {
+   "code": "2000LIKES",
+   "reward": "Free Rewards . You must reach 5,000 Rolls to use this code"
+  },
+  {
+   "code": "3000LIKES",
+   "reward": "Free Rewards . You must reach 5,000 Rolls to use this code"
+  },
+  {
+   "code": "GAMER",
+   "reward": "Free Rewards . You must reach 5,000 Rolls to use this code"
+  },
+  {
+   "code": "NEWRAID",
+   "reward": "Free Rewards . You must reach 5,000 Rolls to use this code"
+  },
+  {
    "code": "CYBER",
    "reward": "Potions , Boosters , and Coins"
   },
@@ -15,6 +43,6 @@
    "reward": "Potions"
   }
  ],
- "updated": "2026-09-27T21:15:23.007Z",
+ "updated": "2026-09-29T12:36:26.581Z",
  "source": "https://robloxden.com/game-codes/anime-card-anomaly"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "2500Likes",
-   "reward": "2,000 Money"
-  },
-  {
-   "code": "14KLIKES",
-   "reward": "50 Upgrade Tokens"
-  },
-  {
-   "code": "3MVisits",
-   "reward": "50 Stars"
+   "code": "LevelsAreUseless",
+   "reward": "50,000 XP"
   },
   {
    "code": "FreeRerolls",
    "reward": "10 Free Rolls"
   },
   {
-   "code": "225Likes",
-   "reward": "750 Money"
+   "code": "RegenJumpscare",
+   "reward": "40 Stars"
+  },
+  {
+   "code": "750Likes",
+   "reward": "5 Levels"
+  },
+  {
+   "code": "1500Likes",
+   "reward": "1,500 MoneyBoost"
   }
  ],
- "updated": "2026-09-27T21:16:36.679Z",
+ "updated": "2026-09-29T12:37:50.430Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

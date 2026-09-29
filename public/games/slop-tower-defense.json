@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "3KCCU",
+   "reward": "250 Gems and 5,000 Cash"
+  },
+  {
+   "code": "3KSERVERMEMBERS",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "SLOP",
+   "reward": "900 Cash"
+  },
+  {
+   "code": "MINIUPDATE",
+   "reward": "100 Gems"
+  },
+  {
    "code": "1MVISITS!",
    "reward": "250 Gems"
   },
@@ -15,6 +31,6 @@
    "reward": "1 Baby Rick"
   }
  ],
- "updated": "2026-09-27T21:14:58.476Z",
+ "updated": "2026-09-29T12:35:59.314Z",
  "source": "https://robloxden.com/game-codes/slop-tower-defense"
 }

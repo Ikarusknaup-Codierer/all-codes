@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NEWSZN",
+   "reward": "the Summer Trail Case"
+  },
+  {
+   "code": "STADIUMS",
+   "reward": "the Summer Skin Case"
+  },
+  {
    "code": "VISORS",
    "reward": "1 Summer Trail Case"
   },
@@ -47,14 +55,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "30KLIKES",
-   "reward": "Freebies"
+   "code": "9000LIKES",
+   "reward": "1,000 Coins"
   },
   {
-   "code": "XRAY",
-   "reward": "the X-Ray Skin"
+   "code": "ALMOSTXMAS",
+   "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-09-27T16:50:29.790Z",
+ "updated": "2026-09-29T12:29:20.844Z",
  "source": "https://robloxden.com/game-codes/football-legends"
 }

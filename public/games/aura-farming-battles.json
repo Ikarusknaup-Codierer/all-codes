@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "2,750 Auras"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "5K Auras"
+  },
+  {
+   "code": "1MILLIONVISITS",
+   "reward": "1 Gift Box"
+  },
+  {
+   "code": "SORRY4DELAY",
+   "reward": "10K Auras"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "30K Auras"
   }
  ],
- "updated": "2026-09-27T21:14:57.909Z",
+ "updated": "2026-09-29T12:35:58.733Z",
  "source": "https://robloxden.com/game-codes/aura-farming-battles"
 }

@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "WELCOME1",
+   "reward": "5,000 Tongues"
+  },
+  {
+   "code": "BONUS500",
+   "reward": "10,000 Tongues"
+  },
+  {
+   "code": "FREEBOOST",
+   "reward": "a 2x Tongue Boost (30 Minutes)"
+  },
+  {
    "code": "LICKNLOAD",
    "reward": "3,000 Tongue , 2x Tongue (20 Minutes), and 2x Wins (10 Minutes)"
   }
  ],
- "updated": "2026-09-27T21:14:57.408Z",
+ "updated": "2026-09-29T12:35:58.246Z",
  "source": "https://robloxden.com/game-codes/1-tongue-escape"
 }

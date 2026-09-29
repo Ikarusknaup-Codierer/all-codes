@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "NEWMAP",
-   "reward": "$15,000"
+   "code": "REVIVE",
+   "reward": "$25,000"
   },
   {
-   "code": "SINCEROWASHERE",
-   "reward": "10,000 Cash"
+   "code": "THANKSFOR447K",
+   "reward": "$25,000"
+  },
+  {
+   "code": "CAT",
+   "reward": "Gwagwa Vehicle"
+  },
+  {
+   "code": "VECTOR",
+   "reward": "$15,000"
   }
  ],
- "updated": "2026-09-27T21:16:55.509Z",
+ "updated": "2026-09-29T22:04:44.935Z",
  "source": "https://robloxden.com/game-codes/ghost-driver"
 }

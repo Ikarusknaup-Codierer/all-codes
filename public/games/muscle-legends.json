@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "bossstrike",
+   "reward": "10K Strength"
+  },
+  {
+   "code": "bossguard",
+   "reward": "10k Durability"
+  },
+  {
    "code": "epicmuscle20",
    "reward": "2,000 Strength"
   },
@@ -79,6 +87,6 @@
    "reward": "250 Agility"
   }
  ],
- "updated": "2026-09-28T04:44:19.250Z",
+ "updated": "2026-09-29T22:10:11.840Z",
  "source": "https://robloxden.com/game-codes/muscle-legends"
 }

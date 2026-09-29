@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "REEL",
-   "reward": "10,000 Coins"
+   "code": "rebirth",
+   "reward": "25,000 Coins"
   },
   {
    "code": "updatealmostready",
    "reward": "3 Free Levels"
   },
   {
-   "code": "update1hype",
-   "reward": "24 Hour X2 XP Boost"
-  },
-  {
    "code": "1000LIKES",
    "reward": "120 Diamonds"
+  },
+  {
+   "code": "5K",
+   "reward": "5,000 Cash"
   },
   {
    "code": "DIAMOND",
    "reward": "a Double Bricks Boost for 10 Minutes"
   }
  ],
- "updated": "2026-09-28T04:43:25.664Z",
+ "updated": "2026-09-29T22:09:11.839Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

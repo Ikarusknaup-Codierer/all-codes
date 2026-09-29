@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE2",
-   "reward": "Freebies"
-  },
-  {
    "code": "POTION",
    "reward": "2x Jitsu Potion and 2x Wins Potion"
   },
@@ -21,8 +17,12 @@
   {
    "code": "WORLD4",
    "reward": "Freebies"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "Freebies"
   }
  ],
- "updated": "2026-09-28T04:45:25.641Z",
+ "updated": "2026-09-29T22:11:27.023Z",
  "source": "https://robloxden.com/game-codes/spinjitsu-escape"
 }

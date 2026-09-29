@@ -47,10 +47,14 @@
    "reward": "a Stat Reset"
   },
   {
-   "code": "bleak",
-   "reward": "50,000 Beli"
+   "code": "BigUpdate",
+   "reward": "5 LP . This code can only be redeemed at Level 300"
+  },
+  {
+   "code": "RESET",
+   "reward": "1 Stat Reset"
   }
  ],
- "updated": "2026-09-28T04:44:48.664Z",
+ "updated": "2026-09-29T22:10:45.626Z",
  "source": "https://robloxden.com/game-codes/last-pirates"
 }

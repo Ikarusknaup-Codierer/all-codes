@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "update5",
+   "reward": "1x Energy Potion II , 1x Damage Potion II , 1x Gems Potion II , 1x Dro"
+  },
+  {
+   "code": "slime",
+   "reward": "1x Energy Potion I , 1x Damage Potion I , 1x Gems Potion I , 1x Drops "
+  },
+  {
+   "code": "slimefood",
+   "reward": "1x Energy Potion I , 1x Damage Potion I , 1x Gems Potion I , 1x Drops "
+  },
+  {
+   "code": "update5now",
+   "reward": "1x Energy Potion II , 1x Damage Potion II , 1x Gems Potion II , 1x Dro"
+  },
+  {
+   "code": "thanksforupdate5",
+   "reward": "1x Energy Potion I , 1x Damage Potion I , 1x Gems Potion I , 1x Drops "
+  },
+  {
    "code": "thanksforplaygame",
    "reward": "a Energy Potion II , a Damage Potion II , a Gems Potion II , a Drops P"
   },
@@ -523,6 +543,6 @@
    "reward": "Potions , 250 F2P Tickets , and a Commander Sword"
   }
  ],
- "updated": "2026-09-27T21:17:15.062Z",
+ "updated": "2026-09-29T22:04:50.384Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMER2026",
-   "reward": "20 Potion Chests and 5 Rare Potion Chests"
-  },
-  {
    "code": "GargantuaBiome",
    "reward": "20 Potion Crates and 5 Rare Potion Chests"
   },
@@ -25,8 +21,12 @@
   {
    "code": "BLAZINGSUN",
    "reward": "3 Hwachaes and 1 Power Battery"
+  },
+  {
+   "code": "SUMMER2026",
+   "reward": "20 Potion Chests and 5 Rare Potion Chests"
   }
  ],
- "updated": "2026-09-28T04:45:10.035Z",
+ "updated": "2026-09-29T22:11:09.665Z",
  "source": "https://robloxden.com/game-codes/sols-rng"
 }

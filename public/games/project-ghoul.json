@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "nextUPDETO",
+   "reward": "40 Spins and 1 Yen Boost (20 Minutes)"
+  },
+  {
+   "code": "QOLfixes",
+   "reward": "30 Spins and 1 Material Boost (20 Minutes)"
+  },
+  {
    "code": "STORAGEHERE",
    "reward": "50 Spins and a 20 Minutes 2x EXP Boost"
   },
@@ -79,6 +87,6 @@
    "reward": "60 Spins, 1,000 Materials, 4,000 RC, 300,000 Yen, And 60 Minutes Of Bo"
   }
  ],
- "updated": "2026-09-28T04:43:41.380Z",
+ "updated": "2026-09-29T22:09:29.342Z",
  "source": "https://robloxden.com/game-codes/project-ghoul"
 }

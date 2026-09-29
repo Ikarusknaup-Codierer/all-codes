@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CHRONICLE!",
+   "reward": "Rewards . To use this code, you must at least have 50,000 Rolls"
+  },
+  {
+   "code": "RANKED!",
+   "reward": "Rewards . To use this code, you must at least have 100,000 Rolls"
+  },
+  {
    "code": "OPTIMIZATION!",
    "reward": "Rerolls , Potions , and other Rewards . You must have 50,000 Rolls to "
   },
@@ -167,6 +175,6 @@
    "reward": "3x Luck Potion III , 3x Roll Speed Potion III , 3x Battle Speed Potion"
   }
  ],
- "updated": "2026-09-28T04:43:53.800Z",
+ "updated": "2026-09-29T22:09:42.612Z",
  "source": "https://robloxden.com/game-codes/card-chronicles"
 }

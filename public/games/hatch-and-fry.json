@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "THANKS12KLIKE",
+   "reward": "2x Cash Boost (10 Minutes)"
+  },
+  {
+   "code": "LETHIMCOOK",
+   "reward": "2x Cook Speed (10 Minutes)"
+  },
+  {
+   "code": "TWOMILPLUSVISIT",
+   "reward": "Faster Egg Hatch Speed (10 Minutes)"
+  },
+  {
    "code": "FASTER",
    "reward": "Faster Egg Hatch Speed (10 Minutes)"
   },
@@ -19,6 +31,6 @@
    "reward": "a Limited Time Cash Boost"
   }
  ],
- "updated": "2026-09-28T04:40:47.398Z",
+ "updated": "2026-09-29T22:06:21.007Z",
  "source": "https://robloxden.com/game-codes/hatch-and-fry"
 }

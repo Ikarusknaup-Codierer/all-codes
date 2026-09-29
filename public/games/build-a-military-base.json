@@ -31,10 +31,6 @@
    "reward": "a Logistics Warehouse"
   },
   {
-   "code": "2500hours",
-   "reward": "1 Premium Crate"
-  },
-  {
    "code": "CONSOLE",
    "reward": "1 Premium Crate"
   },
@@ -44,10 +40,6 @@
   },
   {
    "code": "ZUMWALT",
-   "reward": "1 Premium Crate"
-  },
-  {
-   "code": "TITLES",
    "reward": "1 Premium Crate"
   },
   {
@@ -71,10 +63,6 @@
    "reward": "1 Premium Crate"
   },
   {
-   "code": "MECHAWORM",
-   "reward": "1 Premium Crate"
-  },
-  {
    "code": "LIBERATOR",
    "reward": "1 Premium Crate"
   },
@@ -83,18 +71,10 @@
    "reward": "1 Premium Crate"
   },
   {
-   "code": "QOL",
-   "reward": "1 Premium Crate"
-  },
-  {
-   "code": "CHIMERA",
-   "reward": "1 Premium Crate"
-  },
-  {
    "code": "OUTPOSTS",
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-09-28T04:48:28.760Z",
+ "updated": "2026-09-29T22:14:38.950Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

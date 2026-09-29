@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "CLUBAKUMASOBACK",
-   "reward": "30 Rerolls"
+   "code": "9999rerolls",
+   "reward": "a Reroll"
+  },
+  {
+   "code": "QOL2",
+   "reward": "40 Rerolls"
   },
   {
    "code": "BUGFIXDAY",
@@ -21,6 +25,10 @@
   {
    "code": "doublerestart",
    "reward": "21 Rerolls"
+  },
+  {
+   "code": "CLUBAKUMASOBACK",
+   "reward": "30 Rerolls"
   },
   {
    "code": "laterestart",
@@ -47,6 +55,6 @@
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-09-28T04:43:07.633Z",
+ "updated": "2026-09-29T22:08:51.893Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

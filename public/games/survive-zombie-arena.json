@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FACTIONS",
+   "reward": "Double Faction XP (8 Hours) and 5 Free Artifact Crate Opens"
+  },
+  {
+   "code": "FRONTIER",
+   "reward": "2 Frontier Free Spins , Double Tokens (24 Hours), and 5,000 Credits"
+  },
+  {
    "code": "QolSwag",
    "reward": "2x Gold (24 Hours)"
   },
@@ -79,6 +87,6 @@
    "reward": "3 Bloodmoon Spins and 2x Bloodmoon Shards (4 Hours)"
   }
  ],
- "updated": "2026-09-28T13:24:41.934Z",
+ "updated": "2026-09-29T22:15:43.166Z",
  "source": "https://robloxden.com/game-codes/survive-zombie-arena"
 }

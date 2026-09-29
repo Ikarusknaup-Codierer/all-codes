@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Event",
+   "code": "LASTLUCKY",
    "reward": "A Reward"
   },
   {
-   "code": "LUCKYME",
-   "reward": "A Reward"
-  },
-  {
-   "code": "Release",
+   "code": "LOLWUT",
    "reward": "A Reward"
   },
   {
    "code": "X2BRAINSAGAIN",
    "reward": "A Reward"
+  },
+  {
+   "code": "Sapnap",
+   "reward": "1,000 Z-Coins"
+  },
+  {
+   "code": "100FLWRS",
+   "reward": "100 Z-Tokens"
   }
  ],
- "updated": "2026-09-28T04:42:43.589Z",
+ "updated": "2026-09-29T22:08:25.266Z",
  "source": "https://robloxden.com/game-codes/zombie-madness-tower-defense"
 }

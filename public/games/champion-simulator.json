@@ -11,18 +11,22 @@
    "reward": "15 Minutes Cog And Battery Boost"
   },
   {
-   "code": "RandomPet",
-   "reward": "a free pet"
+   "code": "Coins",
+   "reward": "CoinRain"
   },
   {
-   "code": "ChestUnlock",
-   "reward": "Legendary Chest"
+   "code": "sub2cookie",
+   "reward": "Free Coins And Gems"
   },
   {
-   "code": "DEFILUMINATI",
-   "reward": "10 Lucky Charms"
+   "code": "SANTA",
+   "reward": "a 15 Minute Bell Boost"
+  },
+  {
+   "code": "WASTEDS",
+   "reward": "10 Candy"
   }
  ],
- "updated": "2026-09-28T04:40:44.716Z",
+ "updated": "2026-09-29T22:06:17.882Z",
  "source": "https://robloxden.com/game-codes/champion-simulator"
 }

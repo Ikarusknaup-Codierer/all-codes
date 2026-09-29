@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Socks",
+   "reward": "the SocksBlox Skin"
+  },
+  {
    "code": "ONEBILLION",
    "reward": "the Neon Nightfall Skin , 3 Elite Camo Cases , $1,000,000 In-Game Cash"
   },
@@ -27,10 +31,10 @@
    "reward": "15 Medals , 250,000 Cash , and a 2x Cash Boost (30 Minutes)"
   },
   {
-   "code": "MapUpdate",
-   "reward": "a 15 Minute 2x Cash Boost"
+   "code": "NewMap!",
+   "reward": "10 Medals , $250,000 in-game Cash , and a 2x Cash Boost"
   }
  ],
- "updated": "2026-09-28T04:45:57.800Z",
+ "updated": "2026-09-29T22:12:03.517Z",
  "source": "https://robloxden.com/game-codes/oil-warfare-tycoon"
 }

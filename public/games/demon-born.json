@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE2",
+   "reward": "Rewards"
+  },
+  {
+   "code": "SORRYDELAY330",
+   "reward": "Rewards"
+  },
+  {
    "code": "30KFAVORITS",
    "reward": "Free Rewards"
   },
@@ -107,6 +115,6 @@
    "reward": "a Stat Reset"
   }
  ],
- "updated": "2026-09-28T04:41:52.923Z",
+ "updated": "2026-09-29T22:07:29.350Z",
  "source": "https://robloxden.com/game-codes/demon-born"
 }

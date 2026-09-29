@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TreasureHunt",
+   "reward": "30 Star Potions, 12 Blue Treasure Boxes and 700 Fortune Potions"
+  },
+  {
    "code": "Division3",
    "reward": "3 Portion of Calamit, 30 Eternity Potion and Omega 15 Portion"
   },
@@ -123,6 +127,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-09-28T04:47:44.908Z",
+ "updated": "2026-09-29T22:13:58.932Z",
  "source": "https://robloxden.com/game-codes/azaras-rng"
 }

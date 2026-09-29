@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATEDELAYED",
-   "reward": "Free rewards"
-  },
-  {
    "code": "BUGFIX",
    "reward": "Free rewards"
   },
@@ -23,10 +19,14 @@
    "reward": "4 Wheel Spins and 1 Hour Money Boost"
   },
   {
-   "code": "50KLIKES",
-   "reward": "500 Tokens"
+   "code": "RELEASE",
+   "reward": "1,500 Tokens"
+  },
+  {
+   "code": "PLSC0DE!",
+   "reward": "Flex Emote"
   }
  ],
- "updated": "2026-09-27T16:47:38.922Z",
+ "updated": "2026-09-29T05:13:01.837Z",
  "source": "https://robloxden.com/game-codes/exiled"
 }

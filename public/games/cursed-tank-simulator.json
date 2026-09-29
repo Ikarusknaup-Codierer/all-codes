@@ -11,10 +11,6 @@
    "reward": "Pleach Message"
   },
   {
-   "code": "yoyo",
-   "reward": "a surprise"
-  },
-  {
    "code": "boinggg",
    "reward": "Bouncing Effect"
   },
@@ -33,8 +29,12 @@
   {
    "code": "catIoaf",
    "reward": "20,000 Cash"
+  },
+  {
+   "code": "yoyo",
+   "reward": "a surprise"
   }
  ],
- "updated": "2026-09-27T16:48:31.675Z",
+ "updated": "2026-09-29T05:14:04.252Z",
  "source": "https://robloxden.com/game-codes/cursed-tank-simulator"
 }

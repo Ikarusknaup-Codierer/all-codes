@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE4",
+   "reward": "10 Trait Rerolls , 10 Tickets , 10 Gems , and 3 Lucky Spins"
+  },
+  {
    "code": "10KCCU",
    "reward": "2 Lucky Spins , 10 Trait Rerolls , and 10 Gems"
   },
@@ -39,6 +43,6 @@
    "reward": "a Lucky Spin , 2 Trait Rerolls , and 2 Gems"
   }
  ],
- "updated": "2026-09-27T11:54:32.100Z",
+ "updated": "2026-09-29T05:07:42.118Z",
  "source": "https://robloxden.com/game-codes/anime-dice"
 }

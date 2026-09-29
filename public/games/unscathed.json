@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WHERESOUND",
+   "reward": "1 Ascension Potion and 50 Lucky Potions"
+  },
+  {
    "code": "SORRY",
    "reward": "5,000 Cash and an Ascension Potion"
   },
@@ -35,6 +39,6 @@
    "reward": "10 Lucky Potions , 10 Speed Potions , and 1,000 Cash"
   }
  ],
- "updated": "2026-09-27T16:43:40.144Z",
+ "updated": "2026-09-29T05:08:23.003Z",
  "source": "https://robloxden.com/game-codes/unscathed"
 }

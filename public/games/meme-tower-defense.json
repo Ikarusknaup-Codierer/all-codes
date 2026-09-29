@@ -11,22 +11,18 @@
    "reward": "69 Coins"
   },
   {
-   "code": "release!",
-   "reward": "200 Coins"
-  },
-  {
-   "code": "1week!",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "GRIFFIN",
+   "code": "SorryForDelay",
    "reward": "250 MemBits"
   },
   {
-   "code": "2500groupMembers",
-   "reward": "MemBits"
+   "code": "Mine",
+   "reward": "100 MemBits"
+  },
+  {
+   "code": "100kVisits",
+   "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-09-27T21:12:40.842Z",
+ "updated": "2026-09-29T05:21:02.248Z",
  "source": "https://robloxden.com/game-codes/meme-tower-defense"
 }

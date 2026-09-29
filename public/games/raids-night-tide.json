@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "INTERIOR",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "CLANSHOP",
+   "reward": "3,000 Cash"
+  },
+  {
    "code": "MISSIONS",
    "reward": "3K Cash"
   },
@@ -15,6 +23,6 @@
    "reward": "5K Cash"
   }
  ],
- "updated": "2026-09-27T16:49:48.286Z",
+ "updated": "2026-09-29T05:15:35.098Z",
  "source": "https://robloxden.com/game-codes/raids-night-tide"
 }

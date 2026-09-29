@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "BURGER",
+   "reward": "20 Gems, 15 Silver Dice, 10 Golden Dice, 20 Platinum Dice, 3 Emerald D"
+  },
+  {
+   "code": "KITTYGO",
+   "reward": "250 Gems, 20 Diamond Dice, 50 Platinum Dice and 5x Molten Dice"
+  },
+  {
+   "code": "EXCLUSIVE",
+   "reward": "20 Gems, 1 Mutation Reroll, 15 Silver Dice, 10 Golden Dice, 20 Platinu"
+  },
+  {
+   "code": "18KTODAY",
+   "reward": "20 Gems, 5 Mutation Rerolls, 15 Silver Dice, 10 Golden Dice, 20 Platin"
+  },
+  {
+   "code": "17KNOW",
+   "reward": "20 Gems, 3 Mutation Rerolls, 15 Silver Dice, 10 Golden Dice and 20 Pla"
+  },
+  {
+   "code": "15KTODAY",
+   "reward": "50 Gems, 25 Mutation Rerolls, 15 Silver Dice, 10 Golden Dice and 20 Pl"
+  },
+  {
+   "code": "16KCCU",
+   "reward": "999.99K Cash, 250 Gems, 30 Silver Dice, 3 Golden Dice, 5 Platinum Dice"
+  },
+  {
+   "code": "STOMACH",
+   "reward": "50 Gems, 10 Diamond Dice, 50 Platinum Dice and 8x Molten Dice"
+  },
+  {
    "code": "REROLLS",
    "reward": "50 Gems , 15 Mutation Rerolls , 15 Silver Dice , 10 Golden Dice , and "
   },
@@ -87,14 +119,10 @@
    "reward": "350 Gems , 5 Holy Dice and 5 Molten Dice"
   },
   {
-   "code": "step4",
-   "reward": "3 Platinum Dice"
-  },
-  {
    "code": "meowmeowcat",
    "reward": "350 Gems , 50 Aquamarine Dice , 25 Glacial Dice , 5 Pride Dice , and 3"
   }
  ],
- "updated": "2026-09-27T11:54:03.122Z",
+ "updated": "2026-09-29T05:07:26.782Z",
  "source": "https://robloxden.com/game-codes/spin-a-femboy"
 }

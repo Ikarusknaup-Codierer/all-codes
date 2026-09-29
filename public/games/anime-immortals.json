@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "THANKYOU",
-   "reward": "2 Legendary Orbs Of Potential And 100 Gems"
+   "code": "AI20",
+   "reward": "Gems And A Bunch Of Free Rewards"
   },
   {
-   "code": "GIMME",
-   "reward": "3 Legendary Orbs Of Potential"
+   "code": "UPDATE12",
+   "reward": "3 Legendary Orbs Of Potential And 200 Gems"
   },
   {
-   "code": "FREEORBS",
-   "reward": "Free Orbs"
-  },
-  {
-   "code": "FREE",
+   "code": "SORRYDELAY",
    "reward": "2 Orbs of Potential and 100 Gems"
   },
   {
-   "code": "UPDATE4",
+   "code": "UPDATE6",
+   "reward": "3 Orbs of Potential and 250 Gems"
+  },
+  {
+   "code": "UPDATE3",
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-09-27T16:46:10.816Z",
+ "updated": "2026-09-29T05:11:15.815Z",
  "source": "https://robloxden.com/game-codes/anime-immortals"
 }

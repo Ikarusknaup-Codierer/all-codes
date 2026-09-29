@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE3",
+   "reward": "Double Progress (60 Minutes)"
+  },
+  {
+   "code": "TYFOR30KLIKES",
+   "reward": "5,000 Mogpoints and Double Progress (60 Minutes)"
+  },
+  {
+   "code": "TYFOR15KLIKE",
+   "reward": "6 Lucky Spins"
+  },
+  {
    "code": "Update2",
    "reward": "2x All Progress (30 Minutes)"
   },
@@ -19,6 +31,6 @@
    "reward": "2x All Progress (30 Minutes) and 2,500 MogPoints"
   }
  ],
- "updated": "2026-09-27T16:44:58.120Z",
+ "updated": "2026-09-29T05:09:51.440Z",
  "source": "https://robloxden.com/game-codes/agartha-mog-or-die"
 }

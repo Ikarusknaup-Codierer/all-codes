@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "WORLD2",
-   "reward": "15 Minutes of 2x Cash"
+   "code": "WORLD3",
+   "reward": "1 Divine , 2x Secret Lucky Blocks , and 2x Bite for 15 minutes"
   },
   {
-   "code": "RELEASE",
-   "reward": "1 Divine Lucky Block"
+   "code": "UPDATE6",
+   "reward": "2x Bite Boost (30 Minutes)"
+  },
+  {
+   "code": "SORRYFORBUG",
+   "reward": "2x Cash Boost (30 Minutes)"
+  },
+  {
+   "code": "SECRET",
+   "reward": "1 Secret Lucky Block"
+  },
+  {
+   "code": "WORLD2",
+   "reward": "15 Minutes of 2x Cash"
   }
  ],
- "updated": "2026-09-27T16:49:21.670Z",
+ "updated": "2026-09-29T05:15:02.400Z",
  "source": "https://robloxden.com/game-codes/1-bite-per-click"
 }

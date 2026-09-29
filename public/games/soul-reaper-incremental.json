@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "STORYLINE",
+   "reward": "10 Zanpakuto Rolls, 10 Fighting Style Rolls, 10 Reiatsu Rolls and 10 L"
+  },
+  {
+   "code": "MISSIONS",
+   "reward": "5 Zanpakuto Rolls and 5 Lineage Rolls"
+  },
+  {
+   "code": "DOUBLETHEXP",
+   "reward": "1 Kan Boost (15 Minutes)"
+  },
+  {
    "code": "SECRETUPDATE",
    "reward": "20 Zanpakuto Rolls , 20 Fighting Style Rolls , 20 Reiatsu Rolls , and "
   },
@@ -43,6 +55,6 @@
    "reward": "A bunch of Rolls"
   }
  ],
- "updated": "2026-09-27T11:53:40.944Z",
+ "updated": "2026-09-29T05:07:18.550Z",
  "source": "https://robloxden.com/game-codes/soul-reaper-incremental"
 }

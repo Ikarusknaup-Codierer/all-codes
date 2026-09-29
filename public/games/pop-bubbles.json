@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "DISCORD",
+   "reward": "1,000 Cash , 1 Cash Potion , and 1 Spin Ticket"
+  },
+  {
+   "code": "SPIN2WIN",
+   "reward": "2 Spin Tickets"
+  },
+  {
+   "code": "POTIONS",
+   "reward": "1 Luck Potion , 1 Bubble Boost Potion , 1 Bubble Chance Potion , 1 Fir"
   }
  ],
- "updated": "2026-09-27T16:47:35.187Z",
+ "updated": "2026-09-29T05:12:57.288Z",
  "source": "https://robloxden.com/game-codes/pop-bubbles"
 }

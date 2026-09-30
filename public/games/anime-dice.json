@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "100KLIKES",
+   "reward": "2 Lucky Spins , 10 Trait Rerolls , and 10 Gems"
+  },
+  {
+   "code": "40KCCU",
+   "reward": "2 Lucky Spins , 10 Trait Rerolls , and 10 Gems"
+  },
+  {
+   "code": "30KCCU",
+   "reward": "2 Lucky Spins , 10 Trait Rerolls , and 10 Gems"
+  },
+  {
    "code": "UPDATE4",
    "reward": "10 Trait Rerolls , 10 Tickets , 10 Gems , and 3 Lucky Spins"
   },
@@ -41,8 +53,12 @@
   {
    "code": "RELEASE",
    "reward": "a Lucky Spin , 2 Trait Rerolls , and 2 Gems"
+  },
+  {
+   "code": "JPCALLING",
+   "reward": "5 Lucky Spins , 10 Trait Rerolls , and 10 Gems"
   }
  ],
- "updated": "2026-09-29T05:07:42.118Z",
+ "updated": "2026-09-30T12:24:08.063Z",
  "source": "https://robloxden.com/game-codes/anime-dice"
 }

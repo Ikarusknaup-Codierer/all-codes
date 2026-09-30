@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NaoyaNerf",
+   "reward": "50,000 Cash"
+  },
+  {
    "code": "PATCH",
    "reward": "50,000 Cash"
   },
@@ -17,10 +21,6 @@
   {
    "code": "BEEEEEEEEEEEEEEEEEEEE",
    "reward": "100,000 Cash"
-  },
-  {
-   "code": "YUKIMIYA",
-   "reward": "60,000 Cash"
   },
   {
    "code": "ITSASECRETCODE",
@@ -83,6 +83,6 @@
    "reward": "25k Cash"
   }
  ],
- "updated": "2026-09-28T23:08:17.766Z",
+ "updated": "2026-09-30T12:17:08.730Z",
  "source": "https://robloxden.com/game-codes/blue-lock-skibidi"
 }

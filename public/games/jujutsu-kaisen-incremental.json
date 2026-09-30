@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "IMASTRIKER",
-   "reward": "100 Style Rolls"
-  },
-  {
    "code": "WEATHER",
    "reward": "30 All Rolls"
   },
@@ -63,14 +59,14 @@
    "reward": "25 to All Rolls"
   },
   {
-   "code": "1000ROLLS",
-   "reward": "Nothing . This is an april fools code and grants nothing"
+   "code": "IMASTRIKER",
+   "reward": "100 Style Rolls"
   },
   {
-   "code": "STILLINLOVE",
-   "reward": "15 All Rolls"
+   "code": "WDITTO",
+   "reward": ""
   }
  ],
- "updated": "2026-09-28T23:05:50.579Z",
+ "updated": "2026-09-30T12:14:54.329Z",
  "source": "https://robloxden.com/game-codes/jujutsu-kaisen-incremental"
 }

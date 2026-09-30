@@ -207,14 +207,14 @@
    "reward": "Potions and Rolls"
   },
   {
-   "code": "UPDATE4",
-   "reward": "35 Weather Rerolls 10 +4 Luck Potions , and 10 Roll Speed 4"
+   "code": "X2EVENT",
+   "reward": "4x +3 Luck Potion, 4x Roll Speed 3, 3x Corrupted Potion, and 50x Weath"
   },
   {
-   "code": "CLOVER",
-   "reward": "3x +3 Luck Potion, 3x Roll Speed 3, 2x Corrupted Potion, 2x Star Potio"
+   "code": "SORRY",
+   "reward": "100 Weather Rerolls"
   }
  ],
- "updated": "2026-09-28T23:11:05.659Z",
+ "updated": "2026-09-30T12:19:29.962Z",
  "source": "https://robloxden.com/game-codes/anime-card-battle-x"
 }

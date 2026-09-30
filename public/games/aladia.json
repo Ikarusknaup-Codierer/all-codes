@@ -11,12 +11,12 @@
    "reward": "100 Armor"
   },
   {
-   "code": "BGC",
-   "reward": "50 Diamonds"
-  },
-  {
    "code": "BOT",
    "reward": "100 Armors"
+  },
+  {
+   "code": "GES",
+   "reward": "100 Cash"
   },
   {
    "code": "LGA",
@@ -45,10 +45,6 @@
   {
    "code": "SAH",
    "reward": "50 Diamonds"
-  },
-  {
-   "code": "CHOU",
-   "reward": "15 Diamonds"
   },
   {
    "code": "FREEWAR",
@@ -135,6 +131,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-09-28T13:32:20.461Z",
+ "updated": "2026-09-30T12:14:21.784Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

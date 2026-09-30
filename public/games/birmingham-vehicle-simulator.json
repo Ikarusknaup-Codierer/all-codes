@@ -11,6 +11,10 @@
    "reward": "300 Points"
   },
   {
+   "code": "freepoints",
+   "reward": "300 Points"
+  },
+  {
    "code": "100kmembers",
    "reward": "300 Points"
   },
@@ -21,12 +25,8 @@
   {
    "code": "bankrupt",
    "reward": "Reward"
-  },
-  {
-   "code": "freepoints",
-   "reward": "300 Points"
   }
  ],
- "updated": "2026-09-28T23:12:30.578Z",
+ "updated": "2026-09-30T12:21:08.143Z",
  "source": "https://robloxden.com/game-codes/birmingham-vehicle-simulator"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BANSHOMAN",
+   "reward": "Rewards . You need 50,000 Rolls to use this code"
+  },
+  {
+   "code": "NIGHTMARERAID",
+   "reward": "Rewards . You need 100,000 Rolls to use this code"
+  },
+  {
+   "code": "EIGHTCOMPANYBASE",
+   "reward": "Rewards . You need 10,000 Rolls to use this code"
+  },
+  {
+   "code": "KINGOFDESTRUCTION",
+   "reward": "Rewards . You need 25,000 Rolls to use this code"
+  },
+  {
    "code": "UPDATEFIRE",
    "reward": "1K Crystals and 1 Blessed Roll"
   },
@@ -59,14 +75,6 @@
    "reward": "10,000 Crystals , 3 Divine Rolls , and 100 Legendary Boxes"
   },
   {
-   "code": "CAPSULECORP",
-   "reward": "Rewards . You need at least 10,000 Rolls to use this code"
-  },
-  {
-   "code": "UPDATE6",
-   "reward": "1,000 Crystals"
-  },
-  {
    "code": "TY100K",
    "reward": "100,000 Rerolls . You need at least 10,000 Rolls to use this code"
   },
@@ -99,6 +107,10 @@
    "reward": "1,000 Crystals and 1 Blessed Roll"
   },
   {
+   "code": "CAPSULECORP",
+   "reward": "Rewards . You need at least 10,000 Rolls to use this code"
+  },
+  {
    "code": "WISHEVENT",
    "reward": "Free Rewards . You need at least 100,000 Rolls to use this code"
   },
@@ -117,6 +129,10 @@
   {
    "code": "SORRYFORSHUTDOWN6",
    "reward": "a Blessed Roll , 5 Cursed Fingers , 5 Refined Luck Potions , 5 Refined"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "1,000 Crystals"
   },
   {
    "code": "SOLOEVENT",
@@ -167,6 +183,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-09-28T23:06:26.652Z",
+ "updated": "2026-09-30T12:15:14.610Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

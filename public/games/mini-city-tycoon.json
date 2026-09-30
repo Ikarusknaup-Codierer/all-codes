@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE19",
+   "code": "FIRST",
    "reward": "50 Diamonds"
+  },
+  {
+   "code": "100M",
+   "reward": "100 Diamonds"
   },
   {
    "code": "200k",
@@ -17,12 +21,8 @@
   {
    "code": "secret",
    "reward": "25 Diamonds"
-  },
-  {
-   "code": "FIRST",
-   "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-09-29T05:07:12.200Z",
+ "updated": "2026-09-30T12:23:39.174Z",
  "source": "https://robloxden.com/game-codes/mini-city-tycoon"
 }

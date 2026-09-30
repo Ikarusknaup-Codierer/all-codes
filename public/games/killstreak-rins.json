@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "25MVISITS",
+   "reward": "1 Random Case"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "40 Shards"
+  },
+  {
    "code": "UPDATE5",
    "reward": "2 Crates"
   },
@@ -33,8 +41,12 @@
   {
    "code": "EA_BRONZE",
    "reward": "500 Shards and 2 Cases . You must have the Content Creator Role to use"
+  },
+  {
+   "code": "CRYSTAL",
+   "reward": "1 Crystal Crate"
   }
  ],
- "updated": "2026-09-28T23:13:37.422Z",
+ "updated": "2026-09-30T12:22:12.433Z",
  "source": "https://robloxden.com/game-codes/killstreak-rins"
 }

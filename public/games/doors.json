@@ -79,14 +79,14 @@
    "reward": "25 Doorknobs"
   },
   {
-   "code": "PSST",
-   "reward": "50 Knobs"
+   "code": "NO_DATA",
+   "reward": "5 Knobs"
   },
   {
-   "code": "THREE",
-   "reward": "133 Doorknobs, 1 Revive and 1 Boost"
+   "code": "TEST",
+   "reward": "1 Knob"
   }
  ],
- "updated": "2026-09-28T23:12:38.681Z",
+ "updated": "2026-09-30T12:21:17.764Z",
  "source": "https://robloxden.com/game-codes/doors"
 }

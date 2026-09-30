@@ -7,6 +7,42 @@
    "reward": "Description"
   },
   {
+   "code": "BONUS",
+   "reward": "100 Gems , a Spin , a Damage Potion II , a Luck Potion I , and a Coin "
+  },
+  {
+   "code": "THANKSFORPLAYING",
+   "reward": "30 Gems , a Coin Potion I , an XP Potion I , and a Spin"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "150 Gems , 2 Spins , a Damage Potion II , a Luck Potion II , a Drop Ch"
+  },
+  {
+   "code": "HAPPYBIRTHDAYOSAMA",
+   "reward": "2 Damage Potions II"
+  },
+  {
+   "code": "TRADE",
+   "reward": "50 Gems , a Damange Potion II , a Drop Chance Potion II , and a Spin"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "50 Gems , a Luck Potion I , and a Spin"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "Gems , Spins , and Potions"
+  },
+  {
+   "code": "SORRYFORRESTART",
+   "reward": "Gems , Spins , and Potions"
+  },
+  {
+   "code": "300VOTESF2P",
+   "reward": "Free Potions"
+  },
+  {
    "code": "SORRYFORDELAY",
    "reward": "120 Gems"
   },
@@ -19,10 +55,6 @@
    "reward": "80 Gems"
   },
   {
-   "code": "BONUS",
-   "reward": "50 Gems"
-  },
-  {
    "code": "300KVISITS",
    "reward": "65 Gems"
   },
@@ -31,42 +63,18 @@
    "reward": "50 Gems"
   },
   {
-   "code": "THANKSFORPLAYING",
-   "reward": "30 Gems , a Coin Potion I , an XP Potion I , and a Spin"
-  },
-  {
    "code": "1KDISMEMBERS",
    "reward": "100 Gems , a Spin , a Damage Potion II , a Luck Potion II , a Drop Cha"
-  },
-  {
-   "code": "1KLIKES",
-   "reward": "150 Gems , 2 Spins , a Damage Potion II , a Luck Potion II , a Drop Ch"
-  },
-  {
-   "code": "HAPPYBIRTHDAYOSAMA",
-   "reward": "2 Damage Potions II"
   },
   {
    "code": "100KVISITS",
    "reward": "a Coin Potion II , a Damage Potion II , a Drop Chance Potion II , a Ge"
   },
   {
-   "code": "TRADE",
-   "reward": "50 Gems , a Damange Potion II , a Drop Chance Potion II , and a Spin"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "50 Gems , a Luck Potion I , and a Spin"
-  },
-  {
    "code": "WELCOME",
    "reward": "25 Gems and a Spin"
-  },
-  {
-   "code": "300VOTESF2P",
-   "reward": "Free Potions"
   }
  ],
- "updated": "2026-09-29T05:07:16.455Z",
+ "updated": "2026-09-30T12:23:43.532Z",
  "source": "https://robloxden.com/game-codes/anime-avatar-fighting"
 }

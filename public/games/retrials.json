@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "R1GEL",
+   "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "W1TCH",
+   "reward": "10 Race Rerolls"
+  },
+  {
    "code": "GoodLooser",
    "reward": "20 Race Rolls"
   },
   {
-   "code": "600KVISITS",
-   "reward": "20 Race Rolls"
+   "code": "425KVISITS",
+   "reward": "20 Race Rerolls"
   }
  ],
- "updated": "2026-09-28T23:11:00.110Z",
+ "updated": "2026-09-30T12:19:23.791Z",
  "source": "https://robloxden.com/game-codes/retrials"
 }

@@ -7,12 +7,64 @@
    "reward": "Description"
   },
   {
+   "code": "Release",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "mango",
+   "reward": "5,000 Money . You need to be level 30 to redeem this code"
+  },
+  {
+   "code": "wstawajchlopie",
+   "reward": "6,000 Money . You need to be level 20 to redeem this code"
+  },
+  {
+   "code": "1m600kvisits",
+   "reward": "8,000 Money . You need to reach Level 30 to use this code"
+  },
+  {
+   "code": "weback",
+   "reward": "7,777 Money . You need to reach Level 30 to use this code"
+  },
+  {
+   "code": "olly",
+   "reward": "1 Ollypro Case"
+  },
+  {
+   "code": "1m500kvisits",
+   "reward": "6,000 Money . You must be Level 40 to redeem this code"
+  },
+  {
+   "code": "notquitemytempo",
+   "reward": "5,000 Money . You must be Level 15 to redeem this code"
+  },
+  {
+   "code": "jason",
+   "reward": "Rewards . You must be level 40 to redeem this code"
+  },
+  {
+   "code": "1m400kvisits",
+   "reward": "8k Money . You need to be level 30 to redeem this code"
+  },
+  {
+   "code": "1m200kvisits",
+   "reward": "7,000 Money . You must be level 40 to redeem this code"
+  },
+  {
+   "code": "1m300kvisits",
+   "reward": "8,000 Money . You must be level 40 to redeem this code"
+  },
+  {
    "code": "1M100kvisits",
    "reward": "6,500 Money . You need to be level 40 to redeem this code"
   },
   {
    "code": "1mvisits",
    "reward": "Rewards . You must be level 30 to redeem this code"
+  },
+  {
+   "code": "greeeeeen",
+   "reward": "1 Automatic Spin"
   },
   {
    "code": "slayebeast432",
@@ -31,34 +83,6 @@
    "reward": "6,700 Money . You must be level 35 to redeem this code"
   },
   {
-   "code": "550kvisits",
-   "reward": "5,000 Cash . You must be level 40 to redeem this code"
-  },
-  {
-   "code": "molotov",
-   "reward": "5,000 Money . You must be level 31 to redeem this code"
-  },
-  {
-   "code": "levelingup",
-   "reward": "600 Cash . You must be level 30 to redeem this code"
-  },
-  {
-   "code": "25kvisits",
-   "reward": "500 Cash . You must be level 25 to redeem this code"
-  },
-  {
-   "code": "t3n",
-   "reward": "250 Cash . You must be level 10 to redeem this code"
-  },
-  {
-   "code": "Release",
-   "reward": "100 Cash"
-  },
-  {
-   "code": "greeeeeen",
-   "reward": "1 Automatic Spin"
-  },
-  {
    "code": "monsterontop",
    "reward": "Rewards . You must be level 15 to redeem this code"
   },
@@ -67,8 +91,16 @@
    "reward": "10,000 Cash . You must be level 40 to redeem this code"
   },
   {
+   "code": "550kvisits",
+   "reward": "5,000 Cash . You must be level 40 to redeem this code"
+  },
+  {
    "code": "nade",
    "reward": "an Ollypro Jester . You must be level 31 to redeem this code"
+  },
+  {
+   "code": "molotov",
+   "reward": "5,000 Money . You must be level 31 to redeem this code"
   },
   {
    "code": "400kvisits",
@@ -85,8 +117,20 @@
   {
    "code": "160kvisits",
    "reward": "5,000 Cash . You must be level 20 to redeem this code"
+  },
+  {
+   "code": "levelingup",
+   "reward": "600 Cash . You must be level 30 to redeem this code"
+  },
+  {
+   "code": "25kvisits",
+   "reward": "500 Cash . You must be level 25 to redeem this code"
+  },
+  {
+   "code": "t3n",
+   "reward": "250 Cash . You must be level 10 to redeem this code"
   }
  ],
- "updated": "2026-09-28T23:09:24.027Z",
+ "updated": "2026-09-30T12:18:24.770Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

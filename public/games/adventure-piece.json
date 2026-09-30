@@ -27,14 +27,14 @@
    "reward": "25,000 Cash"
   },
   {
-   "code": "!RESETSTAT2",
-   "reward": "Stat Reset"
+   "code": "!RESETER4",
+   "reward": "Point Reset"
   },
   {
-   "code": "!raceswitch2",
-   "reward": "Race Spin"
+   "code": "!visits100k",
+   "reward": "Double XP For 30 Minutes"
   }
  ],
- "updated": "2026-09-29T05:16:06.018Z",
+ "updated": "2026-09-30T22:10:05.604Z",
  "source": "https://robloxden.com/game-codes/adventure-piece"
 }

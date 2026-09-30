@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "BUDDY",
+   "reward": "Sensei Buddy"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "5K Damage"
+  },
+  {
+   "code": "REBIRTH",
+   "reward": "1 Rebirth"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 Rebirth"
   }
  ],
- "updated": "2026-09-29T05:08:01.490Z",
+ "updated": "2026-09-30T22:03:50.478Z",
  "source": "https://robloxden.com/game-codes/1-dmg-fps"
 }

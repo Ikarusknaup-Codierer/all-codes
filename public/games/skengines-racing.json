@@ -11,6 +11,10 @@
    "reward": "Some In-Game Freebies"
   },
   {
+   "code": "LOVE24",
+   "reward": "The New Love Hearts Wrap"
+  },
+  {
    "code": "LUCKYME",
    "reward": "A Free Pot Of Gold Accessory"
   },
@@ -21,12 +25,8 @@
   {
    "code": "WHIP",
    "reward": "320 Brownies"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "50 Brownies and Party Hat"
   }
  ],
- "updated": "2026-09-29T05:17:08.462Z",
+ "updated": "2026-09-30T22:10:38.011Z",
  "source": "https://robloxden.com/game-codes/skengines-racing"
 }

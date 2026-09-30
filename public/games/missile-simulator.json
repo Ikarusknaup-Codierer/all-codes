@@ -11,22 +11,22 @@
    "reward": "50 Wins"
   },
   {
+   "code": "Climb",
+   "reward": "Double Power Boost (10 Minutes)"
+  },
+  {
    "code": "SFS",
    "reward": "Double Power Boost (5 Minutes)"
   },
   {
-   "code": "Strongest",
+   "code": "Holiday",
+   "reward": "Double Coins Boost (15 Minutes)"
+  },
+  {
+   "code": "Dungeons",
    "reward": "Double Coins Boost (10 Minutes)"
-  },
-  {
-   "code": "Celestial",
-   "reward": "Super Luck Boost (10 Minutes)"
-  },
-  {
-   "code": "Secret",
-   "reward": "Super Luck Boost (10 Minutes)"
   }
  ],
- "updated": "2026-09-29T05:13:46.383Z",
+ "updated": "2026-09-30T22:08:11.576Z",
  "source": "https://robloxden.com/game-codes/missile-simulator"
 }

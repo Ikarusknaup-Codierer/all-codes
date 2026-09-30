@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "MINING",
-   "reward": "30 Minutes Of All Tier 4 Boosts"
+   "code": "RELEASE",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "250LIKES",
+   "reward": "1000x Luck Potion"
   },
   {
    "code": "LAVA",
    "reward": "Freebies"
   },
   {
-   "code": "LUCKY",
-   "reward": "2 1,000x Lucky Rolls"
-  },
-  {
-   "code": "20KLIKES",
+   "code": "15KLIKES",
    "reward": "All Tier 4 Boosts (30 minutes)"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "All Tier 4 Boosts (30 minutes)"
   }
  ],
- "updated": "2026-09-29T12:30:36.648Z",
+ "updated": "2026-09-30T22:12:49.713Z",
  "source": "https://robloxden.com/game-codes/crafting-rng"
 }

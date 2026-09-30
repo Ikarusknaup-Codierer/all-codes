@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FARM",
+   "reward": "5K Grims and 1 Spin"
+  },
+  {
    "code": "RELICS",
    "reward": "5,000 Grimes and 1 Relic"
   },
@@ -23,6 +27,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-09-29T05:11:43.850Z",
+ "updated": "2026-09-30T22:06:59.189Z",
  "source": "https://robloxden.com/game-codes/kill-infinite-zombies"
 }

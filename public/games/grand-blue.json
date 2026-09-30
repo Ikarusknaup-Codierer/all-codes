@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BlessedRolls",
+   "reward": "a Fruit Chest , Race Rerolls , and Trait Rerolls"
+  },
+  {
    "code": "DevilsBounty",
    "reward": "30 Trait Rerolls and 3 Race Rerolls"
   },
@@ -63,6 +67,6 @@
    "reward": "10 Trait Rerolls and 5 Race Rerolls"
   }
  ],
- "updated": "2026-09-29T05:15:09.929Z",
+ "updated": "2026-09-30T22:09:22.824Z",
  "source": "https://robloxden.com/game-codes/grand-blue"
 }

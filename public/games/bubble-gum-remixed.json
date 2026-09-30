@@ -81,8 +81,12 @@
   {
    "code": "Release",
    "reward": "Faster Egg Hatching Boost (10 hours) , Increased Luck Boost (10 hours)"
+  },
+  {
+   "code": "SorryForShutdown",
+   "reward": "Faster Egg Hatching Boost (24 hours) , Increased Luck Boost (24 hours)"
   }
  ],
- "updated": "2026-09-29T05:16:19.194Z",
+ "updated": "2026-09-30T22:10:11.780Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-remixed"
 }

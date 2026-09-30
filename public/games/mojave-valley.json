@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "FIFTYTHOUSAND",
-   "reward": "15,000 Cash"
-  },
-  {
    "code": "DANGEROUSWOMAN",
    "reward": "10K Cash"
   },
   {
    "code": "EXPANSIONUPDATE",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "JDMIMPORTS",
+   "reward": "$8,000"
   },
   {
    "code": "PRESSPRESS",
@@ -27,6 +27,6 @@
    "reward": "a reward"
   }
  ],
- "updated": "2026-09-28T23:06:11.749Z",
+ "updated": "2026-09-30T05:04:20.671Z",
  "source": "https://robloxden.com/game-codes/mojave-valley"
 }

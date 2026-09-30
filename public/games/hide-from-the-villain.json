@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "STORMFRONT",
+   "reward": "1,000 VC and 1 Temp V"
+  },
+  {
+   "code": "ONEMONTH",
+   "reward": "200 VC and 10 Temp V"
+  },
+  {
    "code": "AUG1ST",
    "reward": "800 VC and 10 TEMP V"
   },
@@ -55,6 +63,6 @@
    "reward": "200 VC"
   }
  ],
- "updated": "2026-09-28T13:27:42.839Z",
+ "updated": "2026-09-30T04:58:46.425Z",
  "source": "https://robloxden.com/game-codes/hide-from-the-villain"
 }

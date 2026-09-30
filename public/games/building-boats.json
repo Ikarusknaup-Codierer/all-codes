@@ -11,10 +11,6 @@
    "reward": "2 Golds"
   },
   {
-   "code": "egg_2026",
-   "reward": "Freebies"
-  },
-  {
    "code": "Gullbox_was_here",
    "reward": "100 Gold and 20 Plastics"
   },
@@ -23,7 +19,7 @@
    "reward": "1 Duck and 3 Breads"
   },
   {
-   "code": "PvP",
+   "code": "egg_2026",
    "reward": "Freebies"
   },
   {
@@ -31,6 +27,6 @@
    "reward": "Freebies"
   }
  ],
- "updated": "2026-09-28T13:31:49.386Z",
+ "updated": "2026-09-30T05:02:24.923Z",
  "source": "https://robloxden.com/game-codes/building-boats"
 }

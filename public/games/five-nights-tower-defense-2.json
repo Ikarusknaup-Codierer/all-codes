@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "NEWAFKPRESENT",
+   "reward": "5,000 Tokens , 2,500 Untradable Souls , 50 Seasonal Presents , 50 Endo"
+  },
+  {
+   "code": "SMALLEVENTSHOP",
+   "reward": "25,000 Tokens , 1,500 Untradable Souls , 10 Endo Chips , and 5 Springl"
+  },
+  {
+   "code": "THANKYOUFORPLAYING",
+   "reward": "2,500 Untradable Souls , 150 AFK 2 Presents , and 50 AFK 3 Presents . "
+  },
+  {
+   "code": "UPDATE46",
+   "reward": "50,000 Tokens , 200 AFK 2 Presents , 50 Spring Locks , and 10 Remnants"
+  },
+  {
    "code": "HMMMBYTES",
    "reward": "5,000 Tokens , 10 Endo Chips , 2 Springlocks , 4 Remnants , the Pearl "
   },
@@ -171,6 +187,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-09-28T23:10:12.458Z",
+ "updated": "2026-09-30T05:08:09.916Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

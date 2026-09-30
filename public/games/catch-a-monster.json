@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PVPFIX",
+   "reward": "12,000 Wanderer's Coins"
+  },
+  {
    "code": "CORSAIR",
    "reward": "1 Mythical Chest"
   },
@@ -71,6 +75,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-09-28T13:30:54.872Z",
+ "updated": "2026-09-30T05:01:27.384Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

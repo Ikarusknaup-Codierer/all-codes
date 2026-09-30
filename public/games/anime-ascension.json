@@ -11,10 +11,6 @@
    "reward": "1 Coin Potion, 1 Luck Potion and 1 Power Potion"
   },
   {
-   "code": "SorryForShutdown",
-   "reward": "Free In-Game Rewards And Potions"
-  },
-  {
    "code": "2kLikes",
    "reward": "Free In-Game Rewards And Potions"
   },
@@ -51,14 +47,14 @@
    "reward": "200 Gingerbread"
   },
   {
-   "code": "100Likes",
-   "reward": "Unknown Reward"
+   "code": "SorryForShutdown",
+   "reward": "Free In-Game Rewards And Potions"
   },
   {
-   "code": "500Concurrent",
-   "reward": "1 Luck Potion and 1 Drops Potion"
+   "code": "100Likes",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-28T13:24:32.117Z",
+ "updated": "2026-09-30T04:55:28.094Z",
  "source": "https://robloxden.com/game-codes/anime-ascension"
 }

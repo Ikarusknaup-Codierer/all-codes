@@ -7,20 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "100KLIKES",
-   "reward": "Trait Rolls . You must reach Level 10 to use this code"
-  },
-  {
    "code": "MULTIJACKPOT",
    "reward": "+25% Luck (20 Minutes) and 25 Rerolls"
+  },
+  {
+   "code": "QUESTS",
+   "reward": "25 Rerolls"
   },
   {
    "code": "TRAITS",
    "reward": "Rewards . You must reach Level 10 to use this code"
   },
   {
-   "code": "NEWMAP",
-   "reward": "a Luck Boost"
+   "code": "100KLIKES",
+   "reward": "Trait Rolls . You must reach Level 10 to use this code"
   },
   {
    "code": "80KLIKES",
@@ -29,16 +29,8 @@
   {
    "code": "70KLikes",
    "reward": "25% Luck Boost"
-  },
-  {
-   "code": "BankUpdate",
-   "reward": "25% Luck Boost"
-  },
-  {
-   "code": "60KLIKES",
-   "reward": "20 Minutes Luck Boost"
   }
  ],
- "updated": "2026-09-28T13:26:56.325Z",
+ "updated": "2026-09-30T04:57:56.912Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "25kFavorites",
-   "reward": "2 Season 2 Eggs, 5 Double Luck Potions and 15 Power Nuts"
-  },
-  {
    "code": "Season2Launch",
    "reward": "3 Season 2 Eggs and 1 Double Luck Potion"
   },
@@ -59,10 +55,10 @@
    "reward": "2 Raid Eggs, 5 Double Trait Potions and 15 Steaks"
   },
   {
-   "code": "OrbGrind",
-   "reward": "Free Rewards"
+   "code": "25kFavorites",
+   "reward": "2 Season 2 Eggs, 5 Double Luck Potions and 15 Power Nuts"
   }
  ],
- "updated": "2026-09-28T13:30:10.345Z",
+ "updated": "2026-09-30T05:00:41.066Z",
  "source": "https://robloxden.com/game-codes/unit-wars"
 }

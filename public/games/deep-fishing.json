@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "skins",
+   "reward": "3 Meadow Baits"
+  },
+  {
+   "code": "update4",
+   "reward": "3 Tide Baits and 1 Luck Potion"
+  },
+  {
+   "code": "pond",
+   "reward": "5 Meadow Baits"
+  },
+  {
    "code": "tidal1000",
    "reward": "the Tidal Rod Skin"
   }
  ],
- "updated": "2026-09-29T12:36:42.075Z",
+ "updated": "2026-10-01T05:14:37.838Z",
  "source": "https://robloxden.com/game-codes/deep-fishing"
 }

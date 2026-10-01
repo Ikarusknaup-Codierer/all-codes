@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMERALMOSTOVER",
-   "reward": "$1,000"
-  },
-  {
-   "code": "DREAD2020",
-   "reward": "$1,000"
-  },
-  {
-   "code": "4MIL",
-   "reward": "$1,000"
+   "code": "HOTDOGE",
+   "reward": "$1,001"
   },
   {
    "code": "BDAY",
    "reward": "$2,500"
   },
   {
-   "code": "EGGSPLOSION",
+   "code": "DREADJUSTUPDATED",
    "reward": "$2,500"
+  },
+  {
+   "code": "JINGLEBELLS",
+   "reward": "Unknown Reward"
+  },
+  {
+   "code": "MOLOTOV",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-09-29T12:34:17.867Z",
+ "updated": "2026-10-01T05:11:57.992Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

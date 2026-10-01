@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "evolutionmonster",
+   "reward": "450 Tickets and 3 of Each Tier I Potion"
+  },
+  {
+   "code": "newrarity",
+   "reward": "350 Tickets and 2 of Each Tier I Potion"
+  },
+  {
+   "code": "72kfavs",
+   "reward": "200 Tickets and 2 of Each Tier I Potion"
+  },
+  {
    "code": "update5",
    "reward": "1x Energy Potion II , 1x Damage Potion II , 1x Gems Potion II , 1x Dro"
   },
@@ -543,6 +555,6 @@
    "reward": "Potions , 250 F2P Tickets , and a Commander Sword"
   }
  ],
- "updated": "2026-09-29T22:04:50.384Z",
+ "updated": "2026-10-01T05:17:14.196Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

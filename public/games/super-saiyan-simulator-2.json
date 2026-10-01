@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SFSUpdate4",
+   "reward": "2x Boost (60 Minutes)"
+  },
+  {
    "code": "SFSUPDATE2",
    "reward": "2x Boost (60 Minutes)"
   },
@@ -21,12 +25,8 @@
   {
    "code": "SFSALPHA",
    "reward": "1,000 Power"
-  },
-  {
-   "code": "SFSRELEASE",
-   "reward": "2x Boost (60 Minutes)"
   }
  ],
- "updated": "2026-09-29T12:32:15.088Z",
+ "updated": "2026-10-01T05:09:53.439Z",
  "source": "https://robloxden.com/game-codes/super-saiyan-simulator-2"
 }

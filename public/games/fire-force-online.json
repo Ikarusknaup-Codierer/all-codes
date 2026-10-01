@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "MOREFRAMES",
-   "reward": "100 Reroll Tokens"
-  },
-  {
    "code": "MAINTENANCE",
    "reward": "Rewards"
+  },
+  {
+   "code": "MOREFRAMES",
+   "reward": "100 Reroll Tokens"
   },
   {
    "code": "LEAKPATCHED",
@@ -27,6 +27,6 @@
    "reward": "1 Skill Tree Reset , 15 Ability Rerolls , and 250 Reroll Tokens"
   }
  ],
- "updated": "2026-09-29T12:31:10.472Z",
+ "updated": "2026-10-01T05:08:35.718Z",
  "source": "https://robloxden.com/game-codes/fire-force-online"
 }

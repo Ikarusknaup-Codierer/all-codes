@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "BTRHelp",
-   "reward": "50% of the BTR-80A mission"
-  },
-  {
    "code": "Joined",
    "reward": "50,000 Cash"
   },
   {
    "code": "Bonus",
    "reward": "50,000 Cash"
+  },
+  {
+   "code": "BTRHelp",
+   "reward": "50% of the BTR-80A mission"
   }
  ],
- "updated": "2026-09-29T12:32:03.812Z",
+ "updated": "2026-10-01T05:09:44.666Z",
  "source": "https://robloxden.com/game-codes/military-army-tycoon"
 }

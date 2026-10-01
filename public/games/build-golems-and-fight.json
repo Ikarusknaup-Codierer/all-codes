@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "BUGFIX",
+   "reward": "1 Large Luck Potion"
+  },
+  {
+   "code": "GOLEM20",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "GROUP10K",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "RESTART",
+   "reward": "1K Gems"
+  },
+  {
+   "code": "LIKES100",
+   "reward": "1K Gems"
+  },
+  {
+   "code": "GROUP67K",
+   "reward": "1K Gems"
+  },
+  {
+   "code": "LIKES2K",
+   "reward": "2K Gems"
   }
  ],
- "updated": "2026-09-29T12:30:32.904Z",
+ "updated": "2026-10-01T05:07:52.792Z",
  "source": "https://robloxden.com/game-codes/build-golems-and-fight"
 }

@@ -11,22 +11,22 @@
    "reward": "200 Coins"
   },
   {
-   "code": "like10k",
-   "reward": "Free Coins"
-  },
-  {
    "code": "lt800",
    "reward": "Free Coins"
   },
   {
-   "code": "water",
-   "reward": "200 Coins"
+   "code": "lava",
+   "reward": "Free Coins"
   },
   {
    "code": "volcano",
    "reward": "200 Coins"
+  },
+  {
+   "code": "150kliks",
+   "reward": "200 Coins"
   }
  ],
- "updated": "2026-09-29T12:35:17.494Z",
+ "updated": "2026-10-01T05:13:06.301Z",
  "source": "https://robloxden.com/game-codes/tongue-battles"
 }

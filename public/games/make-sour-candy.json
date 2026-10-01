@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TICKETS",
+   "reward": "200 Tickets"
+  },
+  {
    "code": "Diamonds!",
    "reward": "200 Diamonds"
   },
@@ -19,6 +23,6 @@
    "reward": "2M Cash and 50 Diamonds"
   }
  ],
- "updated": "2026-09-29T12:36:44.196Z",
+ "updated": "2026-10-01T05:14:40.298Z",
  "source": "https://robloxden.com/game-codes/make-sour-candy"
 }

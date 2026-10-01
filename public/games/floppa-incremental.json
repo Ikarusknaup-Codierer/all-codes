@@ -7,10 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "CARACAL",
+   "reward": "1 Rune Bulk Potion"
+  },
+  {
+   "code": "200LIKES",
+   "reward": "10 Tickets"
+  },
+  {
+   "code": "75LIKES",
+   "reward": "1 Rune Speed Potion"
+  },
+  {
+   "code": "50LIKES",
+   "reward": "25 Tickets"
+  },
+  {
+   "code": "BIGFLOPPA",
+   "reward": "1 Rune Bulk Potion"
+  },
+  {
+   "code": "25LIKES",
+   "reward": "2 Rune Luck Potions"
+  },
+  {
    "code": "RELEASE",
    "reward": "10 Tickets"
   }
  ],
- "updated": "2026-09-29T12:35:37.157Z",
+ "updated": "2026-10-01T05:13:27.632Z",
  "source": "https://robloxden.com/game-codes/floppa-incremental"
 }

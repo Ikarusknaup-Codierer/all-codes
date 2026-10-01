@@ -7,20 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "SRYFORDELAY",
-   "reward": "a Free Revive"
-  },
-  {
-   "code": "90KMEMBERS",
-   "reward": "10 Cash"
-  },
-  {
    "code": "58KLIKES",
    "reward": "10 Cash"
   },
   {
    "code": "SMALLUPD",
    "reward": "a Free Revive"
+  },
+  {
+   "code": "SRYFORDELAY",
+   "reward": "a Free Revive"
+  },
+  {
+   "code": "90KMEMBERS",
+   "reward": "10 Cash"
   },
   {
    "code": "ALMOST4MIL",
@@ -51,6 +51,6 @@
    "reward": "10 Cash"
   }
  ],
- "updated": "2026-09-30T04:57:37.736Z",
+ "updated": "2026-10-01T22:33:22.713Z",
  "source": "https://robloxden.com/game-codes/nightfall"
 }

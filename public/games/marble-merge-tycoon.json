@@ -48,7 +48,7 @@
   },
   {
    "code": "SHINY",
-   "reward": "150 Gems"
+   "reward": "100 Gems"
   },
   {
    "code": "RACE",
@@ -60,11 +60,11 @@
   },
   {
    "code": "DAILY",
-   "reward": "150 Gems"
+   "reward": "50 Gems"
   },
   {
    "code": "GEMS",
-   "reward": "250 Gems"
+   "reward": "200 Gems"
   },
   {
    "code": "Kosii",
@@ -76,7 +76,7 @@
   },
   {
    "code": "UPGRADE",
-   "reward": "250 Gems"
+   "reward": "100 Gems"
   },
   {
    "code": "BEACH",
@@ -92,7 +92,7 @@
   },
   {
    "code": "DanyloBoy",
-   "reward": "50 Gems and 500 Coins"
+   "reward": "50 Gems"
   },
   {
    "code": "UNICORN",
@@ -107,14 +107,14 @@
    "reward": "500 Coins"
   },
   {
-   "code": "UPDATE8",
-   "reward": "50 Gems"
+   "code": "EASTER",
+   "reward": "250 Gems"
   },
   {
-   "code": "UPDATE6",
+   "code": "UPDATE8",
    "reward": "50 Gems"
   }
  ],
- "updated": "2026-09-30T05:01:33.456Z",
+ "updated": "2026-10-01T22:36:17.184Z",
  "source": "https://robloxden.com/game-codes/marble-merge-tycoon"
 }

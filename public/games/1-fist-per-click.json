@@ -7,10 +7,50 @@
    "reward": "Description"
   },
   {
+   "code": "LuckySpin",
+   "reward": "1 3x Luck Potion"
+  },
+  {
+   "code": "PotionPack",
+   "reward": "2 of Each Potion"
+  },
+  {
+   "code": "ThankYou",
+   "reward": "8K Strength and 4K Trophies"
+  },
+  {
+   "code": "BigWin",
+   "reward": "5K Trophies"
+  },
+  {
+   "code": "TrophyHunt",
+   "reward": "4K Trophies"
+  },
+  {
+   "code": "Milestone",
+   "reward": "15K Strength"
+  },
+  {
+   "code": "Grinder",
+   "reward": "12K Strength"
+  },
+  {
+   "code": "PhoenixFan",
+   "reward": "11K Strength"
+  },
+  {
+   "code": "GoldRush",
+   "reward": "10K Strength"
+  },
+  {
+   "code": "Update2026",
+   "reward": "9K Strength"
+  },
+  {
    "code": "Golden",
    "reward": "8K Strength"
   }
  ],
- "updated": "2026-09-29T22:19:05.831Z",
+ "updated": "2026-10-01T22:31:17.829Z",
  "source": "https://robloxden.com/game-codes/1-fist-per-click"
 }

@@ -11,6 +11,10 @@
    "reward": "100 Armor"
   },
   {
+   "code": "BGC",
+   "reward": "50 Diamonds"
+  },
+  {
    "code": "BOT",
    "reward": "100 Armors"
   },
@@ -131,6 +135,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-09-30T12:14:21.784Z",
+ "updated": "2026-10-01T22:39:36.982Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

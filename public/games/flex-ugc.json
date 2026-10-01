@@ -51,10 +51,6 @@
    "reward": "the Silver Solar Eclipse Crown"
   },
   {
-   "code": "PURPLEGAS",
-   "reward": "the Purple Smoke Spirit"
-  },
-  {
    "code": "facecute123",
    "reward": "a purchaseable Face item on Roblox"
   },
@@ -193,8 +189,12 @@
   {
    "code": "HPPC9",
    "reward": "the Hot Pink Pixel Crown"
+  },
+  {
+   "code": "PURPLEGAS",
+   "reward": "the Purple Smoke Spirit"
   }
  ],
- "updated": "2026-09-30T05:03:07.486Z",
+ "updated": "2026-10-01T22:37:39.106Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

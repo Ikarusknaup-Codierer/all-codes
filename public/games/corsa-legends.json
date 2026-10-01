@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DRIVINGOVERHAUL",
+   "reward": "25,000 Cash"
+  },
+  {
+   "code": "PHYSICS",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "VAYRA",
    "reward": "25,000 Cash"
   },
@@ -19,6 +27,6 @@
    "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-09-30T04:56:26.919Z",
+ "updated": "2026-10-01T22:32:17.470Z",
  "source": "https://robloxden.com/game-codes/corsa-legends"
 }

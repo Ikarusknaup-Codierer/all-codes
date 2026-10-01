@@ -31,14 +31,6 @@
    "reward": "5,000 Cthulhu Coins"
   },
   {
-   "code": "Fixed1",
-   "reward": "a Normal Cthulhu"
-  },
-  {
-   "code": "Fixed2",
-   "reward": "a Moolux Divine Pet"
-  },
-  {
    "code": "Cthulhu",
    "reward": "1 Venom Rosy Ray and 1 Draw Ticket"
   },
@@ -53,8 +45,16 @@
   {
    "code": "WaterHappy",
    "reward": "a Random Rare Pet"
+  },
+  {
+   "code": "Fixed1",
+   "reward": "a Normal Cthulhu"
+  },
+  {
+   "code": "Fixed2",
+   "reward": "a Moolux Divine Pet"
   }
  ],
- "updated": "2026-09-30T04:56:04.366Z",
+ "updated": "2026-10-01T22:32:01.734Z",
  "source": "https://robloxden.com/game-codes/1-drain-water-per-click"
 }

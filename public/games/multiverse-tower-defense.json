@@ -27,10 +27,6 @@
    "reward": "a Shiny Kuzya"
   },
   {
-   "code": "MULTISHARDS",
-   "reward": "a MultiShard"
-  },
-  {
    "code": "HEROBRINE",
    "reward": "1 Block Crate"
   },
@@ -47,6 +43,10 @@
    "reward": "1 Undertale Crate"
   },
   {
+   "code": "MULTISHARDS",
+   "reward": "a MultiShard"
+  },
+  {
    "code": "ABILITIES",
    "reward": "an Ability Spin"
   },
@@ -59,6 +59,6 @@
    "reward": "a The Boys Crate"
   }
  ],
- "updated": "2026-09-30T04:59:57.893Z",
+ "updated": "2026-10-01T22:35:33.336Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

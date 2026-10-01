@@ -31,10 +31,6 @@
    "reward": "10 Trait Rerolls"
   },
   {
-   "code": "TIDESWEEKTWO",
-   "reward": "800 Gems and 5 Fusion Crystals"
-  },
-  {
    "code": "TIDESEASON",
    "reward": "10 Trait Rerolls"
   },
@@ -87,14 +83,14 @@
    "reward": "500 Gems"
   },
   {
-   "code": "DIVINE",
-   "reward": "15 Trait Reroll Crystals"
+   "code": "TIDESWEEKTWO",
+   "reward": "800 Gems and 5 Fusion Crystals"
   },
   {
-   "code": "LEGEND",
-   "reward": "3 Legendary Fusion Crystals"
+   "code": "DIVINE",
+   "reward": "15 Trait Reroll Crystals"
   }
  ],
- "updated": "2026-09-30T04:59:00.482Z",
+ "updated": "2026-10-01T22:34:40.677Z",
  "source": "https://robloxden.com/game-codes/summon-heroes"
 }

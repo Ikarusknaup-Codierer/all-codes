@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "100MVisits",
+   "reward": "2x Wins Boost (10 Minutes)"
+  },
+  {
+   "code": "200KLikes",
+   "reward": "an Admin Spin"
+  },
+  {
    "code": "griffin",
    "reward": "2x Wins Boost (10 Minutes)"
   },
@@ -47,6 +55,6 @@
    "reward": "1 Wheel Spin"
   }
  ],
- "updated": "2026-09-30T04:55:13.664Z",
+ "updated": "2026-10-01T22:31:36.516Z",
  "source": "https://robloxden.com/game-codes/1-speed-evolve"
 }

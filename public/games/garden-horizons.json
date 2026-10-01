@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WEAREBACK",
-   "reward": "2 Royal Seed Packs , the Super Sprinkler , and 50,000 Money"
-  },
-  {
    "code": "358",
    "reward": "2,000 Shillings"
   },
@@ -23,10 +19,14 @@
    "reward": "2,500 Pearls"
   },
   {
+   "code": "WEAREBACK",
+   "reward": "2 Royal Seed Packs , the Super Sprinkler , and 50,000 Money"
+  },
+  {
    "code": "DAWN",
    "reward": "1 Dawnfruit Seed"
   }
  ],
- "updated": "2026-09-30T04:58:55.283Z",
+ "updated": "2026-10-01T22:34:35.671Z",
  "source": "https://robloxden.com/game-codes/garden-horizons"
 }

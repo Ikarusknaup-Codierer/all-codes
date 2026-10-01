@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "8KCCU",
+   "reward": "200 Emerald"
+  },
+  {
+   "code": "7KCCU",
+   "reward": "200 Emerald"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "200 Emerald"
+  },
+  {
+   "code": "750KVISITS",
+   "reward": "200 Emerald"
+  },
+  {
+   "code": "10KFAVORITES",
+   "reward": "200 Emerald"
+  },
+  {
+   "code": "NEWTOTEM",
+   "reward": "200 Emerald and 2 of Each Potion"
+  },
+  {
    "code": "5KFAVS",
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
   },
@@ -43,6 +67,6 @@
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
   }
  ],
- "updated": "2026-09-30T04:59:44.037Z",
+ "updated": "2026-10-01T22:35:20.361Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

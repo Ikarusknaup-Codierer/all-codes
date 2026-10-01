@@ -11,10 +11,6 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "NEWMERGER",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "MERGER",
    "reward": "50,000 Cash"
   },
@@ -37,8 +33,12 @@
   {
    "code": "PRESTIGE",
    "reward": "Golden Turbo Crate , Diamond Mechanic's Crate , and Lava Street Starte"
+  },
+  {
+   "code": "NEWMERGER",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-09-30T04:56:07.237Z",
+ "updated": "2026-10-01T22:32:03.911Z",
  "source": "https://robloxden.com/game-codes/create-a-car"
 }

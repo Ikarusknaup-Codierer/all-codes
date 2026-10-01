@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "FIXEDEXCHANGE",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "VESSEL",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "SCIENTIFICMODIFICATIONS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "TAILEDBEASTS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "UPDATE14",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -395,6 +411,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-09-29T22:06:02.141Z",
+ "updated": "2026-10-01T12:49:46.881Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

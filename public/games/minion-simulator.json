@@ -11,22 +11,22 @@
    "reward": "1,000 Taps and 1,000 Gems"
   },
   {
-   "code": "LIKE180K",
-   "reward": "a Mega Lucky Booster"
-  },
-  {
-   "code": "LIKE70K",
-   "reward": "a Triple Gems Booster and a Mega Lucky Booster"
-  },
-  {
-   "code": "LIKE10K",
-   "reward": "free rewards"
-  },
-  {
-   "code": "TWITTER40K",
+   "code": "LIKE160K",
    "reward": "2 Triple Gems Boosters"
+  },
+  {
+   "code": "LIKE80K",
+   "reward": "3 Triple Gems Boosters"
+  },
+  {
+   "code": "LIKE2000",
+   "reward": "a Triple Gem Booster"
+  },
+  {
+   "code": "Yokai",
+   "reward": "Special Yokai Minion"
   }
  ],
- "updated": "2026-09-29T22:07:00.190Z",
+ "updated": "2026-10-01T12:50:29.176Z",
  "source": "https://robloxden.com/game-codes/minion-simulator"
 }

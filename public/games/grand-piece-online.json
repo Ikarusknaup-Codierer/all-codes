@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FREE_Drops7",
+   "reward": "1 Day of 2x Drop Rates"
+  },
+  {
+   "code": "FREE_EXP6",
+   "reward": "3 Days of 2x Exp"
+  },
+  {
+   "code": "ILOVEGPO_3",
+   "reward": "2 Tailor Vouchers"
+  },
+  {
    "code": "FREE_Drops6",
    "reward": "a 2x Drop Rate (1 Day)"
   },
@@ -23,6 +35,6 @@
    "reward": "10 Rolls"
   }
  ],
- "updated": "2026-09-29T22:11:32.463Z",
+ "updated": "2026-10-01T12:53:30.202Z",
  "source": "https://robloxden.com/game-codes/grand-piece-online"
 }

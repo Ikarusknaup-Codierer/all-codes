@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "faster",
-   "reward": "Fast Hatch For 30 Mins"
+   "code": "lucky",
+   "reward": "Luck Boost For An Hour"
   },
   {
-   "code": "DOKIBU",
-   "reward": "1 DoKiBu Pet"
+   "code": "update3",
+   "reward": "480 Coins"
+  },
+  {
+   "code": "4k",
+   "reward": "Pet"
+  },
+  {
+   "code": "tdemon",
+   "reward": "Pet"
   },
   {
    "code": "ULBX",
    "reward": "1 Bobby-1M Pet"
   }
  ],
- "updated": "2026-09-29T22:07:13.941Z",
+ "updated": "2026-10-01T12:50:41.150Z",
  "source": "https://robloxden.com/game-codes/shampoo-simulator"
 }

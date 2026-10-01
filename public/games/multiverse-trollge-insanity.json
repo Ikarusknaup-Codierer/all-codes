@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WeepingAnomaly",
-   "reward": "1 Weeping Cup"
-  },
-  {
-   "code": "BoilingStars",
-   "reward": "1 Boiling Cup"
-  },
-  {
    "code": "Knowledge",
    "reward": "1 Knowledge Cup"
   },
@@ -33,8 +25,16 @@
   {
    "code": "FriendlyDerp",
    "reward": "1 Entity Cup"
+  },
+  {
+   "code": "WeepingAnomaly",
+   "reward": "1 Weeping Cup"
+  },
+  {
+   "code": "BoilingStars",
+   "reward": "1 Boiling Cup"
   }
  ],
- "updated": "2026-09-30T04:54:37.961Z",
+ "updated": "2026-10-01T12:58:13.488Z",
  "source": "https://robloxden.com/game-codes/multiverse-trollge-insanity"
 }

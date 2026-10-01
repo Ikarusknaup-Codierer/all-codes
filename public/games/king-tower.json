@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "NEWINCANTATIONYAY",
-   "reward": "Rewards"
-  },
-  {
    "code": "SORRYBUGISACCIDENT",
    "reward": "200 Shards"
   },
   {
    "code": "INCANTATIONYAY",
    "reward": "1,000 Coins"
+  },
+  {
+   "code": "NOOOSECRET",
+   "reward": "1,000 Shards"
   },
   {
    "code": "ENOUGHTIMEHASPASSED",
@@ -27,6 +27,6 @@
    "reward": "100 Shards"
   }
  ],
- "updated": "2026-09-30T05:01:19.063Z",
+ "updated": "2026-10-01T13:03:15.495Z",
  "source": "https://robloxden.com/game-codes/king-tower"
 }

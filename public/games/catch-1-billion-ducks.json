@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY",
+   "reward": "300 Alien Feathers and 1K Feathers"
+  },
+  {
    "code": "ALIENS",
    "reward": "50 Alien Feathers and 100 Feathers"
   },
@@ -19,6 +23,6 @@
    "reward": "100 Feathers"
   }
  ],
- "updated": "2026-09-30T04:54:34.219Z",
+ "updated": "2026-10-01T12:58:10.126Z",
  "source": "https://robloxden.com/game-codes/catch-1-billion-ducks"
 }

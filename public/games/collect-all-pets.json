@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "InstinctIsAMarvelousThing",
+   "reward": "x2 Shiny Boost (2 Hours)"
+  },
+  {
    "code": "IsSpinalStrangerTapThingsThis",
    "reward": "x2 Shiny Boost (2hrs)"
   },
@@ -203,14 +207,18 @@
    "reward": "a 1 Hour 2x Gold Boost"
   },
   {
-   "code": "Zazu",
-   "reward": "2 hours of x2 Metallic Boost"
+   "code": "AriadneOliver",
+   "reward": "x2 Metallic Boost (2 Hours)"
   },
   {
-   "code": "HappyGhast",
-   "reward": "2 Hours of 2x Shiny Boost"
+   "code": "TheMurderOfRogerAckroyd",
+   "reward": "x2 Gold Boost (2 Hours)"
+  },
+  {
+   "code": "Zazu",
+   "reward": "2 hours of x2 Metallic Boost"
   }
  ],
- "updated": "2026-09-29T22:08:49.539Z",
+ "updated": "2026-10-01T12:52:18.926Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

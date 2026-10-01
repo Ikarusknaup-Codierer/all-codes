@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DAILYUPDATE2",
+   "reward": "Free Rewards . To use this code, you must be at least level 10"
+  },
+  {
+   "code": "DAILYUPDATE",
+   "reward": "Free Rewards . To use this code, you must be at least level 10"
+  },
+  {
    "code": "UPDATE2",
    "reward": "Rewards"
   },
@@ -115,6 +123,6 @@
    "reward": "a Stat Reset"
   }
  ],
- "updated": "2026-09-29T22:07:29.350Z",
+ "updated": "2026-10-01T12:50:54.564Z",
  "source": "https://robloxden.com/game-codes/demon-born"
 }

@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "Rudolf",
-   "reward": "25 Gems And Some Snowballs"
+   "code": "decoy",
+   "reward": "5 Decoy Deploy"
+  },
+  {
+   "code": "woah",
+   "reward": "25 Gems"
   },
   {
    "code": "THRILLER",
    "reward": "50 Scraps"
   },
   {
-   "code": "taiga",
-   "reward": "50 Gems"
-  },
-  {
-   "code": "THANKSGIVING2020",
-   "reward": "40 gems"
+   "code": "SEASON4",
+   "reward": "25 gems"
   }
  ],
- "updated": "2026-09-29T22:13:22.077Z",
+ "updated": "2026-10-01T12:55:18.148Z",
  "source": "https://robloxden.com/game-codes/deathrun"
 }

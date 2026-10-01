@@ -15,18 +15,18 @@
    "reward": "CoinRain"
   },
   {
-   "code": "sub2cookie",
+   "code": "FreeChest",
+   "reward": "some Legendary Chests"
+  },
+  {
+   "code": "RobloxCodes",
    "reward": "Free Coins And Gems"
   },
   {
-   "code": "SANTA",
-   "reward": "a 15 Minute Bell Boost"
-  },
-  {
-   "code": "WASTEDS",
-   "reward": "10 Candy"
+   "code": "FREEGEMS",
+   "reward": "5,000 Gems"
   }
  ],
- "updated": "2026-09-29T22:06:17.882Z",
+ "updated": "2026-10-01T12:50:01.792Z",
  "source": "https://robloxden.com/game-codes/champion-simulator"
 }

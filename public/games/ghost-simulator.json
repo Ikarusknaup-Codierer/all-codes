@@ -11,52 +11,12 @@
    "reward": "2 Ghost Lootbags"
   },
   {
-   "code": "PRESTON354ONYT",
-   "reward": "3 of Each Gums"
-  },
-  {
-   "code": "SHELOSIAL",
-   "reward": "3 of Each Gums"
-  },
-  {
-   "code": "V_CKS002",
-   "reward": "3 of Each Gums"
-  },
-  {
-   "code": "CHLOELIM",
-   "reward": "3 of Each Gums"
-  },
-  {
-   "code": "GRAVEOWEEN2024",
-   "reward": "Pumpkin Krepy"
-  },
-  {
-   "code": "DANGER",
-   "reward": "500 Ghost Gummies and 500 Board Bars"
-  },
-  {
    "code": "STASH",
    "reward": "5 Basic Loot Gums and 2 Pack Overloaders"
   },
   {
    "code": "LASTDAY",
    "reward": "the Pastel Fae"
-  },
-  {
-   "code": "WAFFL3S",
-   "reward": "3x Basic Lucky Gum, 3x Basic Zoom Gum, 3x Basic Loot Gum, 3x Basic Bun"
-  },
-  {
-   "code": "SUB2DEVONERCO",
-   "reward": "3x Basic Lucky Gum, 3x Basic Zoom Gum, 3x Basic Loot Gum, 3x Basic Bun"
-  },
-  {
-   "code": "SUB2AMZEEE",
-   "reward": "3x Basic Lucky Gum, 3x Basic Zoom Gum, 3x Basic Loot Gum, 3x Basic Bun"
-  },
-  {
-   "code": "SUB2COVENK",
-   "reward": "3x Basic Lucky Gum, 3x Basic Zoom Gum, 3x Basic Loot Gum, 3x Basic Bun"
   },
   {
    "code": "PLAY",
@@ -87,10 +47,14 @@
    "reward": "Haunted Speedster"
   },
   {
+   "code": "GRAVEOWEEN2024",
+   "reward": "Pumpkin Krepy"
+  },
+  {
    "code": "PURPLETECH",
    "reward": "3 Crate Keys"
   }
  ],
- "updated": "2026-09-29T22:15:24.018Z",
+ "updated": "2026-10-01T12:56:18.640Z",
  "source": "https://robloxden.com/game-codes/ghost-simulator"
 }

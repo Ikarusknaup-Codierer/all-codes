@@ -19,10 +19,6 @@
    "reward": "Spoonful Trophy Decor"
   },
   {
-   "code": "SUNKISSED",
-   "reward": "Boosted Summer Star Odds On Your Next 10 Rolls"
-  },
-  {
    "code": "RELEASE",
    "reward": "100 Stardusts"
   },
@@ -31,10 +27,10 @@
    "reward": "Perseid Fragments and 50 Meteor Debris"
   },
   {
-   "code": "CLEANUP",
-   "reward": "30 Meteor Debris"
+   "code": "SUNKISSED",
+   "reward": "Boosted Summer Star Odds On Your Next 10 Rolls"
   }
  ],
- "updated": "2026-09-30T05:01:12.161Z",
+ "updated": "2026-10-01T13:03:09.696Z",
  "source": "https://robloxden.com/game-codes/star-catchers-rng"
 }

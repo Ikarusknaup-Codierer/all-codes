@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "400Likes",
-   "reward": "200 Gems"
-  },
-  {
    "code": "EventPart2",
    "reward": "100 Gems"
   },
@@ -25,8 +21,12 @@
   {
    "code": "FreeGems",
    "reward": "100 Gems"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "50 Gems"
   }
  ],
- "updated": "2026-09-30T12:22:08.621Z",
+ "updated": "2026-10-02T05:02:29.378Z",
  "source": "https://robloxden.com/game-codes/insane-button-simulator"
 }

@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "500 Gems and 5 Gacha Tickets"
+  },
+  {
+   "code": "CHRONOERA",
+   "reward": "1K Gems and 10 Gacha Tickets"
+  },
+  {
+   "code": "LEGENDARY",
+   "reward": "1 Gacha Ticket"
   }
  ],
- "updated": "2026-09-30T12:19:09.685Z",
+ "updated": "2026-10-02T04:59:45.674Z",
  "source": "https://robloxden.com/game-codes/legendary-weapon-rng"
 }

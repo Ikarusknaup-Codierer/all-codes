@@ -7,10 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "LAUNCH2026",
+   "reward": "an Imprint Luck Huge"
+  },
+  {
+   "code": "LIKES100",
+   "reward": "an Imprint Luck Medium and 2,500 Gems"
+  },
+  {
+   "code": "LIKES500",
+   "reward": "2,000 Gems"
+  },
+  {
+   "code": "MAREE",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "BIGOPEN",
+   "reward": "an Imprint Radius Small"
+  },
+  {
+   "code": "LIKES250",
+   "reward": "5,000 Gems"
+  },
+  {
    "code": "NEWGAME",
    "reward": "an Amulet Growth Medium"
   }
  ],
- "updated": "2026-09-30T12:21:36.246Z",
+ "updated": "2026-10-02T05:02:00.401Z",
  "source": "https://robloxden.com/game-codes/be-sea-dino-marine-dinosaur-simulator"
 }

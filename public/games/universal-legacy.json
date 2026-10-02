@@ -209,8 +209,16 @@
   {
    "code": "STORAGEUPGRADE",
    "reward": "Gems"
+  },
+  {
+   "code": "WelcomeTester!",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Mecha",
+   "reward": "5,000 Gems"
   }
  ],
- "updated": "2026-09-30T12:22:06.690Z",
+ "updated": "2026-10-02T05:02:27.718Z",
  "source": "https://robloxden.com/game-codes/universal-legacy"
 }

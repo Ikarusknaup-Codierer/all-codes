@@ -7,8 +7,60 @@
    "reward": "Description"
   },
   {
+   "code": "LastOfTheShinSquad",
+   "reward": "405 Fragments"
+  },
+  {
    "code": "CombatReworkCompensaton",
    "reward": "405 Fragments"
+  },
+  {
+   "code": "10MVisits!",
+   "reward": "the 2 Singularity Schemas"
+  },
+  {
+   "code": "UrbanPlague",
+   "reward": "405 Fragments"
+  },
+  {
+   "code": "NepoOffice",
+   "reward": "405 Fragments"
+  },
+  {
+   "code": "FauvistStudents",
+   "reward": "405 Fragments"
+  },
+  {
+   "code": "LifeInsurance",
+   "reward": "405 Fragments"
+  },
+  {
+   "code": "MaoAdept",
+   "reward": "405 Fragments"
+  },
+  {
+   "code": "EGGRNGFORBRAINROTS",
+   "reward": "1 Mega Reflection Ticket and 910 Fragments"
+  },
+  {
+   "code": "5MVisits!",
+   "reward": "1 SR Guaranteed Mega Ticket"
+  },
+  {
+   "code": "UpperLibrary",
+   "reward": "1 Mega Reflection Ticket"
+  },
+  {
+   "code": "SkoshiPASSED",
+   "reward": "405 Fragments"
+  },
+  {
+   "code": "SkoshiUpscake",
+   "reward": "405 Fragments"
+  },
+  {
+   "code": "Welcome",
+   "reward": "350 Fragments , 500 Condense , and 3 Seeds of Light"
   },
   {
    "code": "NetworkErrorCompensation",
@@ -51,10 +103,6 @@
    "reward": "405 Fragments"
   },
   {
-   "code": "10MVisits!",
-   "reward": "the Grade 5 Workshop License"
-  },
-  {
    "code": "MemoryBoxes",
    "reward": "405 Fragments"
   },
@@ -71,62 +119,18 @@
    "reward": "810 Fragments"
   },
   {
-   "code": "UrbanPlague",
-   "reward": "405 Fragments"
-  },
-  {
-   "code": "NepoOffice",
-   "reward": "405 Fragments"
+   "code": "OfficeDelay",
+   "reward": "1,620 Fragments"
   },
   {
    "code": "BambooHat",
    "reward": "405 Fragments"
   },
   {
-   "code": "FauvistStudents",
-   "reward": "405 Fragments"
-  },
-  {
-   "code": "LifeInsurance",
-   "reward": "405 Fragments"
-  },
-  {
-   "code": "MaoAdept",
-   "reward": "405 Fragments"
-  },
-  {
-   "code": "EGGRNGFORBRAINROTS",
-   "reward": "1 Mega Reflection Ticket and 910 Fragments"
-  },
-  {
-   "code": "5MVisits!",
-   "reward": "1 SR Guaranteed Mega Ticket"
-  },
-  {
-   "code": "UpperLibrary",
-   "reward": "1 Mega Reflection Ticket"
-  },
-  {
-   "code": "SkoshiPASSED",
-   "reward": "405 Fragments"
-  },
-  {
-   "code": "SkoshiUpscake",
-   "reward": "405 Fragments"
-  },
-  {
-   "code": "Welcome",
-   "reward": "350 Fragments , 500 Condense , and 3 Seeds of Light"
-  },
-  {
-   "code": "OfficeDelay",
-   "reward": "1,620 Fragments"
-  },
-  {
    "code": "WORKSHOPRELEASE",
    "reward": "405 Fragments"
   }
  ],
- "updated": "2026-09-30T12:19:21.255Z",
+ "updated": "2026-10-02T04:59:56.637Z",
  "source": "https://robloxden.com/game-codes/project-mirror-labyrinth"
 }

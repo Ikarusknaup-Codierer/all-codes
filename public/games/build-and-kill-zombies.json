@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "COMMUNITY",
+   "reward": "1,000 Cash , 1 Small Engine , and 1 Small Tank"
+  },
+  {
+   "code": "CashDrop",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "MOREFRIENDS",
+   "reward": "2 Passenger Seats"
+  },
+  {
    "code": "ROBLOXCLASSIC",
    "reward": "1,500 Cash"
   },
@@ -31,6 +43,6 @@
    "reward": "2,500 Hacker Tokens"
   }
  ],
- "updated": "2026-09-30T12:18:27.355Z",
+ "updated": "2026-10-02T04:59:07.210Z",
  "source": "https://robloxden.com/game-codes/build-and-kill-zombies"
 }

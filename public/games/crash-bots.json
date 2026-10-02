@@ -11,10 +11,6 @@
    "reward": "200 Gems"
   },
   {
-   "code": "fakeCode",
-   "reward": "1 Mythic Crate And 150 Gems"
-  },
-  {
    "code": "doubleDOUBLE",
    "reward": "200 Gems"
   },
@@ -25,8 +21,12 @@
   {
    "code": "LETSGONOW",
    "reward": "Freebies"
+  },
+  {
+   "code": "drippy",
+   "reward": "Freebies"
   }
  ],
- "updated": "2026-09-30T12:22:53.611Z",
+ "updated": "2026-10-02T05:03:08.274Z",
  "source": "https://robloxden.com/game-codes/crash-bots"
 }

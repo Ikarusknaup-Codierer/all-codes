@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "SendaiColony",
-   "reward": "rewards"
-  },
-  {
    "code": "Sasuke05Uchiha",
-   "reward": "rewards"
-  },
-  {
-   "code": "XanxusRefresh",
    "reward": "rewards"
   },
   {
@@ -31,14 +23,22 @@
    "reward": "rewards"
   },
   {
+   "code": "SendaiColony",
+   "reward": "rewards"
+  },
+  {
    "code": "10MCASH",
    "reward": "rewards"
   },
   {
    "code": "MayUpdate",
    "reward": "rewards"
+  },
+  {
+   "code": "XanxusRefresh",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-09-30T12:21:32.368Z",
+ "updated": "2026-10-02T05:01:56.623Z",
  "source": "https://robloxden.com/game-codes/anime-strike"
 }

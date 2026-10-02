@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE",
+   "reward": "10 Rerolls and 10 Refreshes"
+  },
+  {
    "code": "2KLIKES",
    "reward": "25 Rerolls and 25 Refreshes"
   },
@@ -19,6 +23,6 @@
    "reward": "1 Spin, 10 Rerolls and 10 Refreshes"
   }
  ],
- "updated": "2026-09-30T22:03:33.749Z",
+ "updated": "2026-10-02T05:05:04.955Z",
  "source": "https://robloxden.com/game-codes/build-a-football-team"
 }

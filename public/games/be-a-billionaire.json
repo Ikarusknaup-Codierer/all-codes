@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "Gold Brush, 15% Luck Boost (30 Minutes), 15% Cash Boost (30 Minutes) a"
+  },
+  {
+   "code": "200Likes",
+   "reward": "2 Gold Brushes, 15% Luck Boost (30 Minutes), 15% Cash Boost (30 Minute"
+  },
+  {
+   "code": "500Likes",
+   "reward": "2 Gold Brushes, 1 Diamond Brush, 1 Emerald Brush, 15% Luck Boost (30 M"
+  },
+  {
+   "code": "1KLikes",
+   "reward": "1 Diamond Brush, 1 Emerald Brush, 1 Ruby Brush, 15% Luck Boost (30 Min"
   }
  ],
- "updated": "2026-09-30T12:19:10.214Z",
+ "updated": "2026-10-02T04:59:46.185Z",
  "source": "https://robloxden.com/game-codes/be-a-billionaire"
 }

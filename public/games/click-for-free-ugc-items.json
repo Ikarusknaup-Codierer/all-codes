@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "FOREST",
+   "code": "99",
    "reward": "Clicks"
   },
   {
-   "code": "SAMMY",
+   "code": "FREUGC",
+   "reward": "Clicks"
+  },
+  {
+   "code": "DEER",
    "reward": "Clicks And UGC Rewards"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "Extra Boosts"
   },
   {
-   "code": "99NIGHT",
-   "reward": "65,000 Clicks"
-  },
-  {
-   "code": "SORRY4DELAY",
-   "reward": "55,000 Clicks"
+   "code": "UGC",
+   "reward": "20,000 Clicks and 150 Gems"
   }
  ],
- "updated": "2026-09-30T12:19:14.516Z",
+ "updated": "2026-10-02T04:59:50.385Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

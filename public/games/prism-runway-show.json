@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "FALLINGLEAF",
-   "reward": "150 Coins"
-  },
-  {
    "code": "ILOVEPRISM",
    "reward": "100 Coins"
+  },
+  {
+   "code": "FALLINGLEAF",
+   "reward": "150 Coins"
   },
   {
    "code": "NICECATCH",
@@ -23,6 +23,6 @@
    "reward": "100 Anchovy"
   }
  ],
- "updated": "2026-09-30T12:17:30.969Z",
+ "updated": "2026-10-02T04:58:03.221Z",
  "source": "https://robloxden.com/game-codes/prism-runway-show"
 }

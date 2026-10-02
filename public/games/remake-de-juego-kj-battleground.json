@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "GOLD",
+   "reward": "100 Gold Coins"
+  },
+  {
+   "code": "FREECUSTOMTITLE",
+   "reward": "500 Gold Coins"
+  },
+  {
+   "code": "JoaSigma",
+   "reward": "67 Gold Coins"
   }
  ],
- "updated": "2026-09-30T12:19:12.101Z",
+ "updated": "2026-10-02T04:59:48.033Z",
  "source": "https://robloxden.com/game-codes/remake-de-juego-kj-battleground"
 }

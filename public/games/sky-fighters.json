@@ -19,14 +19,14 @@
    "reward": "5 Power Rolls"
   },
   {
-   "code": "CODE3",
-   "reward": "Luck"
-  },
-  {
    "code": "CODE2",
    "reward": "3 Lucky Rolls"
+  },
+  {
+   "code": "UPDATEDAY",
+   "reward": "Revive"
   }
  ],
- "updated": "2026-09-30T12:18:38.235Z",
+ "updated": "2026-10-02T04:59:17.068Z",
  "source": "https://robloxden.com/game-codes/sky-fighters"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "STRONGEST",
-   "reward": "45 Tokens and 1,000 Ryo"
-  },
-  {
    "code": "UPDATE5",
    "reward": "45 Tokens and 1,000 Ryo"
   },
@@ -37,8 +33,12 @@
   {
    "code": "15KVISITS",
    "reward": "60 Tokens and 1,250 Ryo"
+  },
+  {
+   "code": "STRONGEST",
+   "reward": "45 Tokens and 1,000 Ryo"
   }
  ],
- "updated": "2026-09-30T12:21:05.561Z",
+ "updated": "2026-10-02T05:01:31.685Z",
  "source": "https://robloxden.com/game-codes/bitruto-the-strongest"
 }

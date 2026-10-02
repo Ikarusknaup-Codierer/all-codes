@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "AURA",
+   "reward": "1,000 Cash and 50 Gems"
+  },
+  {
+   "code": "SORRY",
+   "reward": "1,000 Cash and 20 Gems"
+  },
+  {
+   "code": "MIMIC",
+   "reward": "2,500 Cash and 100 Gems"
+  },
+  {
+   "code": "THANKYOU300LIKES",
+   "reward": "1,500 Cash and 75 Gems"
   }
  ],
- "updated": "2026-09-30T12:20:00.045Z",
+ "updated": "2026-10-02T05:00:32.131Z",
  "source": "https://robloxden.com/game-codes/mimic-the-voice"
 }

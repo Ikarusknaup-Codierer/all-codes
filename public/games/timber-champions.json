@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "bee",
+   "reward": "Free In-Game Boost And Rewards"
+  },
+  {
    "code": "luckboost",
    "reward": "Luck Boost"
+  },
+  {
+   "code": "EASTER",
+   "reward": "2 Ultra Lucky Boosts"
   },
   {
    "code": "SPACELAB",
    "reward": "2 Lucky Boosts"
   },
   {
-   "code": "GALAXY",
-   "reward": "2 Ultra Lucky Boosts"
-  },
-  {
-   "code": "CHRISTMAS",
-   "reward": "3 2x Coin Boosts"
-  },
-  {
-   "code": "CAVE",
+   "code": "SUN",
    "reward": "2 Ultra Lucky Boosts"
   }
  ],
- "updated": "2026-10-01T05:13:34.323Z",
+ "updated": "2026-10-02T22:07:01.814Z",
  "source": "https://robloxden.com/game-codes/timber-champions"
 }

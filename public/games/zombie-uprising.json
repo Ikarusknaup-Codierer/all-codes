@@ -11,14 +11,18 @@
    "reward": "$5,000"
   },
   {
-   "code": "SHOTGUNS",
-   "reward": "5,000 Cash"
+   "code": "shotgun",
+   "reward": "$5,000"
   },
   {
-   "code": "SUMMER2021",
+   "code": "SHUTDOWN",
+   "reward": "2,500 Cash"
+  },
+  {
+   "code": "BUGS2021",
    "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-10-01T12:53:06.876Z",
+ "updated": "2026-10-02T22:15:57.183Z",
  "source": "https://robloxden.com/game-codes/zombie-uprising"
 }

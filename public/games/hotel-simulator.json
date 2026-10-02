@@ -11,22 +11,22 @@
    "reward": "750 Cash"
   },
   {
+   "code": "FreeCash",
+   "reward": "10 Cash"
+  },
+  {
+   "code": "paycheck100",
+   "reward": "Paycheck 100"
+  },
+  {
    "code": "jackpot777",
    "reward": "Jackpot 777"
   },
   {
-   "code": "money99",
-   "reward": "Money 99"
-  },
-  {
-   "code": "hotstove100",
-   "reward": "Hotstove 100"
-  },
-  {
-   "code": "banana99",
-   "reward": "Banana 99"
+   "code": "bigpizza85",
+   "reward": "Bigpizza 85"
   }
  ],
- "updated": "2026-09-30T22:12:05.220Z",
+ "updated": "2026-10-02T12:20:25.860Z",
  "source": "https://robloxden.com/game-codes/hotel-simulator"
 }

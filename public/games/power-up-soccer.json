@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "EMOTE",
-   "reward": "Free Emotes Roll"
+   "code": "SPINNER",
+   "reward": "Free Spin"
   },
   {
-   "code": "GOAL",
-   "reward": "Free Effects Roll"
+   "code": "SKILL",
+   "reward": "Free Skills Roll"
   },
   {
-   "code": "FRAMEX390",
+   "code": "FOUL19XY7",
+   "reward": "Free Spins"
+  },
+  {
+   "code": "FOUL19XY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SAVE421",
    "reward": "1 Random Frame"
-  },
-  {
-   "code": "DANCEX37",
-   "reward": "1 Random Emote"
-  },
-  {
-   "code": "GOAL999Q",
-   "reward": "1 Random Effect"
   }
  ],
- "updated": "2026-09-30T22:09:50.293Z",
+ "updated": "2026-10-02T12:18:25.514Z",
  "source": "https://robloxden.com/game-codes/power-up-soccer"
 }

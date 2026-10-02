@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE3",
+   "code": "3MVISITS",
+   "reward": "Free In-Game Rewards"
+  },
+  {
+   "code": "SUNBORNE",
+   "reward": "Free In-Game Rewards"
+  },
+  {
+   "code": "WATERMELON",
+   "reward": "1B Cash And A Watermelon Juice"
+  },
+  {
+   "code": "SUNFIRE",
+   "reward": "3B Cash And 4 Frosty Potions"
+  },
+  {
+   "code": "65KLIKES",
    "reward": "Rewards"
-  },
-  {
-   "code": "180klikes",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "55KLIKES",
-   "reward": "1B Cash"
-  },
-  {
-   "code": "45KLIKES",
-   "reward": "1B Cash"
-  },
-  {
-   "code": "40KLIKES",
-   "reward": "3B Cash, A Lucky Potion II, A Speed Potion II, And A Huge Fortune Elix"
   }
  ],
- "updated": "2026-09-30T22:11:11.717Z",
+ "updated": "2026-10-02T12:19:47.148Z",
  "source": "https://robloxden.com/game-codes/soccer-prime-rng"
 }

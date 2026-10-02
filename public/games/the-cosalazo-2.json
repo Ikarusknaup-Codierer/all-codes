@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PERDONGG",
-   "reward": "300K Cash"
-  },
-  {
    "code": "6M",
    "reward": "200K Cash"
   },
@@ -33,8 +29,12 @@
   {
    "code": "BIENVENIDO",
    "reward": "100K Cash"
+  },
+  {
+   "code": "PERDONGG",
+   "reward": "300K Cash"
   }
  ],
- "updated": "2026-09-30T22:08:34.127Z",
+ "updated": "2026-10-02T12:17:04.624Z",
  "source": "https://robloxden.com/game-codes/the-cosalazo-2"
 }

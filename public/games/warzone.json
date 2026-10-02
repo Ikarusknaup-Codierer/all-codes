@@ -1,14 +1,10 @@
 {
  "slug": "warzone",
- "name": "WARZONE",
+ "name": "Infection Gunfight",
  "codes": [
   {
    "code": "Code",
    "reward": "Description"
-  },
-  {
-   "code": "XMAS2025",
-   "reward": "50k Gems And 2 Luxury Cases"
   },
   {
    "code": "SPOOKY2025",
@@ -20,7 +16,7 @@
   },
   {
    "code": "summer",
-   "reward": "5k Gems"
+   "reward": "10,000 Credits"
   },
   {
    "code": "5000gems",
@@ -59,14 +55,14 @@
    "reward": "Minigun (7 days)"
   },
   {
-   "code": "WOWCASE",
-   "reward": "A Robux Case"
+   "code": "XMAS2025",
+   "reward": "50k Gems And 2 Luxury Cases"
   },
   {
-   "code": "thanksgiving",
-   "reward": "5k Credits And S-Skin Trial Card"
+   "code": "WOWKKK",
+   "reward": "3 Feature Spin Keys"
   }
  ],
- "updated": "2026-09-30T22:08:40.381Z",
+ "updated": "2026-10-02T12:17:11.394Z",
  "source": "https://robloxden.com/game-codes/warzone"
 }

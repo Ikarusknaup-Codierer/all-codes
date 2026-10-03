@@ -51,14 +51,14 @@
    "reward": "2 of every Potion"
   },
   {
-   "code": "SORRYFORBUGS",
+   "code": "SORRYFORGEMS",
    "reward": "Misc. Rewards"
   },
   {
-   "code": "SORRYFORGEMS",
-   "reward": "Misc. Rewards"
+   "code": "UPDATE1",
+   "reward": "a 1.2x Rune Luck bonus"
   }
  ],
- "updated": "2026-10-01T22:32:38.178Z",
+ "updated": "2026-10-03T11:24:36.458Z",
  "source": "https://robloxden.com/game-codes/fishing-incremental-2"
 }

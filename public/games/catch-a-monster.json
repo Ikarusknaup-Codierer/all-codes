@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WORLDBOSS",
+   "reward": "1 Copter Egg"
+  },
+  {
+   "code": "TWIRLY",
+   "reward": "5,000 Twirly Coins"
+  },
+  {
    "code": "PVPFIX",
    "reward": "12,000 Wanderer's Coins"
   },
@@ -75,6 +83,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-10-01T22:36:11.624Z",
+ "updated": "2026-10-03T11:27:03.987Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

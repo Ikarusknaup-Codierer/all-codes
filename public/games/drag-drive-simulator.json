@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HAPPYSCHOOLHOLIDAYS26",
+   "reward": "35,000,000 RP"
+  },
+  {
    "code": "DDSSPECIALMERDEKA2026",
    "reward": "30,000,000 RP"
   },
@@ -63,10 +67,6 @@
    "reward": "30,000,000 RP"
   },
   {
-   "code": "HAPPYSCHOOLHOLIDAYS26",
-   "reward": "35,000,000 RP"
-  },
-  {
    "code": "DELAYDIKITAMBILRAPOR",
    "reward": "25,000,000 RP"
   },
@@ -91,6 +91,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-01T12:58:41.343Z",
+ "updated": "2026-10-03T11:22:49.986Z",
  "source": "https://robloxden.com/game-codes/drag-drive-simulator"
 }

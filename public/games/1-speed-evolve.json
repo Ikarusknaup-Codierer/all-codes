@@ -15,19 +15,19 @@
    "reward": "an Admin Spin"
   },
   {
-   "code": "griffin",
-   "reward": "2x Wins Boost (10 Minutes)"
-  },
-  {
-   "code": "4MGroupMembers",
-   "reward": "an Admin Spin"
-  },
-  {
    "code": "3MFavourites",
    "reward": "a 2x Speed Boost for (10 Minutes)"
   },
   {
    "code": "gargoyle",
+   "reward": "an Admin Spin"
+  },
+  {
+   "code": "griffin",
+   "reward": "2x Wins Boost (10 Minutes)"
+  },
+  {
+   "code": "4MGroupMembers",
    "reward": "an Admin Spin"
   },
   {
@@ -49,12 +49,8 @@
   {
    "code": "GiveMeASpeedBoost",
    "reward": "2x Speed Boost (10 Minutes)"
-  },
-  {
-   "code": "GiveMeASpin",
-   "reward": "1 Wheel Spin"
   }
  ],
- "updated": "2026-10-01T22:31:36.516Z",
+ "updated": "2026-10-03T11:23:36.553Z",
  "source": "https://robloxden.com/game-codes/1-speed-evolve"
 }

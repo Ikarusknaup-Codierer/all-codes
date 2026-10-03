@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RAIDTIME",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "SECRETGIFT",
    "reward": "Rewards"
   },
@@ -71,6 +75,6 @@
    "reward": "a Demon Chest and 2,000,000 Cash"
   }
  ],
- "updated": "2026-10-01T22:39:38.089Z",
+ "updated": "2026-10-03T11:30:19.455Z",
  "source": "https://robloxden.com/game-codes/sword-hunter"
 }

@@ -8,11 +8,7 @@
   },
   {
    "code": "RACING",
-   "reward": "1,000,000 Cash"
-  },
-  {
-   "code": "7KLIKES",
-   "reward": "Cash"
+   "reward": "50,000 Cash"
   },
   {
    "code": "barnboost",
@@ -20,11 +16,23 @@
   },
   {
    "code": "6MVISITS",
+   "reward": "100,000 Cash"
+  },
+  {
+   "code": "lilbaby",
+   "reward": "500,000 Cash"
+  },
+  {
+   "code": "8KLIKES",
+   "reward": ""
+  },
+  {
+   "code": "7KLIKES",
    "reward": "Cash"
   },
   {
    "code": "merrychristmas",
-   "reward": "Cash . You must be level 3 to redeem this code"
+   "reward": "Cash"
   },
   {
    "code": "6KLIKES",
@@ -43,22 +51,14 @@
    "reward": "the S850 Maybach Car"
   },
   {
-   "code": "lilbaby",
-   "reward": "500,000 Cash"
-  },
-  {
    "code": "sorry4wait",
    "reward": "2,000,000 Cash"
   },
   {
    "code": "codes",
    "reward": "the GT3RS 992 Car"
-  },
-  {
-   "code": "8KLIKES",
-   "reward": ""
   }
  ],
- "updated": "2026-10-01T22:41:04.112Z",
+ "updated": "2026-10-03T11:31:07.148Z",
  "source": "https://robloxden.com/game-codes/swerve"
 }

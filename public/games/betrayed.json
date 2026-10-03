@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "WEARESUPEERSORRY",
+   "reward": "3 Wheel Spins"
+  },
+  {
    "code": "GUBBYRULES",
    "reward": "the Gubby Cosmetic"
   },
   {
-   "code": "DEATHMAS",
-   "reward": "Credits"
+   "code": "SUPERSORRY",
+   "reward": "777 Credits"
   },
   {
-   "code": "KABOOM",
-   "reward": "500 Cash"
+   "code": "L4BBY!",
+   "reward": "500 Credits"
+  },
+  {
+   "code": "DEATHMAS",
+   "reward": "Credits"
   }
  ],
- "updated": "2026-10-01T22:33:03.462Z",
+ "updated": "2026-10-03T11:25:00.169Z",
  "source": "https://robloxden.com/game-codes/betrayed"
 }

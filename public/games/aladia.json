@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "rar",
+   "reward": "1,000 cash"
+  },
+  {
    "code": "RENE",
    "reward": "100 Armor"
   },
@@ -135,6 +139,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-10-01T22:39:36.982Z",
+ "updated": "2026-10-03T11:30:18.834Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

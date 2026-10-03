@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "PENGU!",
+   "reward": "50 Fluff"
+  },
+  {
+   "code": "KITTY!",
+   "reward": "150 Fluff"
+  },
+  {
+   "code": "DUCKY!",
+   "reward": "50 Fluff"
+  },
+  {
+   "code": "BOBRO!",
+   "reward": "50 Fluff"
+  },
+  {
    "code": "CONSOLE!",
    "reward": "150 Fluff"
   },
@@ -25,16 +41,8 @@
   {
    "code": "RELEASE!",
    "reward": "150 Fluffs"
-  },
-  {
-   "code": "SMILE!",
-   "reward": "100 Fluff"
-  },
-  {
-   "code": "FLUFF!",
-   "reward": "150 Fluff"
   }
  ],
- "updated": "2026-10-01T22:32:50.025Z",
+ "updated": "2026-10-03T11:24:48.251Z",
  "source": "https://robloxden.com/game-codes/smiles"
 }

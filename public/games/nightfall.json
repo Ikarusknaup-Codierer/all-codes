@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "58KLIKES",
-   "reward": "10 Cash"
-  },
-  {
    "code": "SMALLUPD",
    "reward": "a Free Revive"
   },
@@ -20,6 +16,10 @@
   },
   {
    "code": "90KMEMBERS",
+   "reward": "10 Cash"
+  },
+  {
+   "code": "58KLIKES",
    "reward": "10 Cash"
   },
   {
@@ -51,6 +51,6 @@
    "reward": "10 Cash"
   }
  ],
- "updated": "2026-10-01T22:33:22.713Z",
+ "updated": "2026-10-03T11:25:18.826Z",
  "source": "https://robloxden.com/game-codes/nightfall"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWMAP",
+   "reward": "rewards"
+  },
+  {
    "code": "400KVISITS",
    "reward": "Free Rewards"
   },
@@ -43,6 +47,6 @@
    "reward": "500 Billion Souls , 50 Quintillion Tokens , 50 Million Rerolls , and 2"
   }
  ],
- "updated": "2026-10-01T22:32:37.024Z",
+ "updated": "2026-10-03T11:24:35.331Z",
  "source": "https://robloxden.com/game-codes/power-legends"
 }

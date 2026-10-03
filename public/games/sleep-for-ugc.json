@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Pumpkin",
-   "reward": "5K Coins and 5K Shards"
-  },
-  {
    "code": "GALANTOSTUDIOS",
    "reward": "25K Coins"
   },
@@ -23,14 +19,18 @@
    "reward": "7,000 Coins and 72,000 Shards"
   },
   {
-   "code": "DAISY",
-   "reward": "5k Coins and 5k Shards"
+   "code": "AUTUMN",
+   "reward": "5K Coins and 5K Shards"
   },
   {
-   "code": "100KMEMBERS",
-   "reward": "Coins"
+   "code": "Pumpkin",
+   "reward": "5K Coins and 5K Shards"
+  },
+  {
+   "code": "DAISY",
+   "reward": "5k Coins and 5k Shards"
   }
  ],
- "updated": "2026-10-02T05:00:25.150Z",
+ "updated": "2026-10-03T16:04:49.434Z",
  "source": "https://robloxden.com/game-codes/sleep-for-ugc"
 }

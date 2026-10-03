@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1re",
+   "reward": "2,500 Diamonds and 2 Lucky Potions"
+  },
+  {
    "code": "Kratos",
    "reward": "5 x2 Lucky Potions , 5 x2 EXP Potions , 5 x2 Diamond Potions , and 25,"
   },
@@ -21,10 +25,6 @@
   {
    "code": "UPDATE3",
    "reward": "2,500 Diamonds and 10 x2 Lucky Potions"
-  },
-  {
-   "code": "MiniUpdate4",
-   "reward": "5 Lucky Potions , 5 EXP Potions , 5 Diamond Potions , and 25M Beli"
   },
   {
    "code": "MiniUpdate3",
@@ -75,6 +75,6 @@
    "reward": "500 Gems and a Lucky Drops Boost"
   }
  ],
- "updated": "2026-10-02T04:58:19.863Z",
+ "updated": "2026-10-03T16:02:49.158Z",
  "source": "https://robloxden.com/game-codes/rock-fruit"
 }

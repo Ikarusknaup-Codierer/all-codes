@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "SECRET",
+   "reward": "1 Abyss Egg"
+  },
+  {
+   "code": "UPD6",
+   "reward": "150 Rebirth Stars , 250 Dominus Shards , and 3 Dominus Eggs"
+  },
+  {
+   "code": "LEVIATHAN",
+   "reward": "75 Passive Rolls"
+  },
+  {
+   "code": "TITANIC",
+   "reward": "125 Passive Rolls"
+  },
+  {
+   "code": "LIMITLESS",
+   "reward": "100 Passive Rolls"
+  },
+  {
    "code": "ABYSS",
    "reward": "1 Abyss Egg"
   },
@@ -39,6 +59,6 @@
    "reward": "3 Dominus Eggs"
   }
  ],
- "updated": "2026-10-01T22:41:33.012Z",
+ "updated": "2026-10-03T16:00:49.661Z",
  "source": "https://robloxden.com/game-codes/ball-drop-game"
 }

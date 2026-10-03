@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "99",
+   "code": "67",
    "reward": "Clicks"
   },
   {
-   "code": "FREUGC",
-   "reward": "Clicks"
-  },
-  {
-   "code": "DEER",
+   "code": "JANDEL",
    "reward": "Clicks And UGC Rewards"
   },
   {
-   "code": "15KLIKES",
+   "code": "POTIONS",
+   "reward": "Clicks And Potions"
+  },
+  {
+   "code": "CRAFT",
    "reward": "Extra Boosts"
   },
   {
-   "code": "UGC",
-   "reward": "20,000 Clicks and 150 Gems"
+   "code": "99NIGHT",
+   "reward": "65,000 Clicks"
   }
  ],
- "updated": "2026-10-02T04:59:50.385Z",
+ "updated": "2026-10-03T16:04:10.625Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

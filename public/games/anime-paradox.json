@@ -93,8 +93,12 @@
   {
    "code": "oopsWrongValue",
    "reward": "50 Trait Rerolls and 2,000 Gems"
+  },
+  {
+   "code": "SORRYFORBUGS",
+   "reward": "Rerolls and Chips"
   }
  ],
- "updated": "2026-10-02T04:58:33.707Z",
+ "updated": "2026-10-03T16:03:03.008Z",
  "source": "https://robloxden.com/game-codes/anime-paradox"
 }

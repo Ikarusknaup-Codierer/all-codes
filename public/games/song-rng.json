@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EVENTWEEKEND",
+   "reward": "3 Golden Artist Packs"
+  },
+  {
    "code": "1KMEMBERS",
    "reward": "3 Artist Packs and 3 Golden Artist Packs"
   },
@@ -27,6 +31,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-02T05:00:42.990Z",
+ "updated": "2026-10-03T16:05:08.083Z",
  "source": "https://robloxden.com/game-codes/song-rng"
 }

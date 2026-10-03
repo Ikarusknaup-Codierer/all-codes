@@ -53,8 +53,16 @@
   {
    "code": "COCKROACH",
    "reward": "3 Lucky Potions"
+  },
+  {
+   "code": "spooky",
+   "reward": "1 Cheater Potion"
+  },
+  {
+   "code": "3000likes",
+   "reward": "1 Coin Potion"
   }
  ],
- "updated": "2026-10-02T05:01:27.597Z",
+ "updated": "2026-10-03T16:05:54.306Z",
  "source": "https://robloxden.com/game-codes/flying-boot-race-simulator"
 }

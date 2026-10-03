@@ -11,10 +11,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "HALLOWEEN2025",
-   "reward": "Halloween Event Rewards"
-  },
-  {
    "code": "SILVERCARAPACEGROUP",
    "reward": "2 Building Boxes and 60 Cash"
   },
@@ -23,10 +19,14 @@
    "reward": "Rewards"
   },
   {
+   "code": "HALLOWEEN2025",
+   "reward": "Halloween Event Rewards"
+  },
+  {
    "code": "SQUIDGAME",
    "reward": "a Squid Game Pet and Skin"
   }
  ],
- "updated": "2026-10-02T04:59:06.595Z",
+ "updated": "2026-10-03T16:03:25.905Z",
  "source": "https://robloxden.com/game-codes/crewmates"
 }

@@ -207,14 +207,14 @@
    "reward": "Potions and Rolls"
   },
   {
-   "code": "QUEST",
-   "reward": "Potions and Rolls . You must have 100,000 rolls or above to claim this"
+   "code": "TOKYOGHOUL",
+   "reward": "Potions and Rolls . You must have 50,000 rolls or above to claim this "
   },
   {
-   "code": "BERSERK",
-   "reward": "3x +4 Luck Potions, 3x Roll Speed 4, 2x Corrupted Potions, 2x Star Pot"
+   "code": "UPDATE3",
+   "reward": "Free Rewards . You need 50k rolls to redeem this code"
   }
  ],
- "updated": "2026-10-02T05:00:04.865Z",
+ "updated": "2026-10-03T16:04:26.912Z",
  "source": "https://robloxden.com/game-codes/anime-card-battle-x"
 }

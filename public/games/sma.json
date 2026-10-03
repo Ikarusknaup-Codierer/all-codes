@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "5vs5",
+   "reward": "15 Rerolls"
+  },
+  {
+   "code": "BisaAja",
+   "reward": "20 Rerolls"
+  },
+  {
+   "code": "AkuGuwanteng",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "Beurit",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "ApaCOBA",
+   "reward": "a Reroll"
+  },
+  {
+   "code": "KeringKerontang",
+   "reward": "Free Rerolls"
+  },
+  {
+   "code": "BilliardBack",
+   "reward": "Free Rerolls"
+  },
+  {
+   "code": "FollowKakizawa",
+   "reward": "Free Rerolls"
+  },
+  {
    "code": "DuaSetengahTahun",
    "reward": "Free Rerolls"
   },
@@ -19,6 +51,6 @@
    "reward": "15 Rerolls"
   }
  ],
- "updated": "2026-10-02T05:00:41.895Z",
+ "updated": "2026-10-03T16:05:06.987Z",
  "source": "https://robloxden.com/game-codes/sma"
 }

@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "Endless100Waves",
-   "reward": "400 Bricks"
-  },
-  {
    "code": "ThewNewModeNB",
    "reward": "350 Bricks"
   },
   {
    "code": "SurgeonBotIsTuff",
    "reward": "400 Bricks"
+  },
+  {
+   "code": "SandboxMode",
+   "reward": "250 Bricks"
   }
  ],
- "updated": "2026-10-02T05:02:21.468Z",
+ "updated": "2026-10-03T16:06:50.269Z",
  "source": "https://robloxden.com/game-codes/dummy-defense"
 }

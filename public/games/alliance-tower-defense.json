@@ -11,10 +11,6 @@
    "reward": "300 Coins"
   },
   {
-   "code": "FreeTicket",
-   "reward": "3 Tickets"
-  },
-  {
    "code": "8MVISITS",
    "reward": "Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Insane",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "100K",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-02T05:02:56.153Z",
+ "updated": "2026-10-03T16:07:26.526Z",
  "source": "https://robloxden.com/game-codes/alliance-tower-defense"
 }

@@ -15,16 +15,12 @@
    "reward": "10M Cash and 2 of Each Consumable"
   },
   {
-   "code": "56709",
-   "reward": "a 3x Cash (30 Minutes)"
-  },
-  {
    "code": "1MILLIONMEMBERS",
    "reward": "1M Cash , 1x Double Luck (15m) , 1x Double Luck (30m) , 1x Double Luck"
   },
   {
-   "code": "UPDATE29",
-   "reward": "1 Hour Double Luck Boost"
+   "code": "56709",
+   "reward": "a 3x Cash (30 Minutes)"
   },
   {
    "code": "THUNDERSTORMS",
@@ -57,8 +53,12 @@
   {
    "code": "EXPEDITIONS",
    "reward": "30 Minutes Double Luck Boost"
+  },
+  {
+   "code": "UPDATE29",
+   "reward": "1 Hour Double Luck Boost"
   }
  ],
- "updated": "2026-10-02T04:57:10.319Z",
+ "updated": "2026-10-03T16:01:37.740Z",
  "source": "https://robloxden.com/game-codes/emote-rng"
 }

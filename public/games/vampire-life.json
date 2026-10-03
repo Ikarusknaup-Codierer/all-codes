@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "THANKS500",
-   "reward": "1 Hour Double XP and 5,000 Money"
+   "code": "SORRYBUGSADM",
+   "reward": "4x XP for 30 Minutes"
   },
   {
-   "code": "Omg300Likes",
-   "reward": "Double XP and Double Money for 30 Minutes"
+   "code": "NEWCODUPDATE27",
+   "reward": "2x XP for 30 Minutes and 5,000 Money"
+  },
+  {
+   "code": "RESETPOINTUNK",
+   "reward": "the Points Reset"
+  },
+  {
+   "code": "SORRY2KL",
+   "reward": "3x XP for 30 Minutes and 20,000 Money"
+  },
+  {
+   "code": "THANKS700L",
+   "reward": "Double XP and Double Money for 15 Minutes and 10,000 Money"
   }
  ],
- "updated": "2026-10-02T05:03:40.323Z",
+ "updated": "2026-10-03T16:08:03.014Z",
  "source": "https://robloxden.com/game-codes/vampire-life"
 }

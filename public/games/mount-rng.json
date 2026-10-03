@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "2YEARS",
+   "reward": "the Anniversary Broom Mount"
+  },
+  {
+   "code": "CORTISOL",
+   "reward": "Exclusive Low Cortisol"
+  },
+  {
    "code": "FORTNIGHT",
    "reward": "the Battle Bus Exclusive Mount"
   },
@@ -17,16 +25,8 @@
   {
    "code": "SIGH",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "2YEARS",
-   "reward": "the Anniversary Broom Mount"
-  },
-  {
-   "code": "CORTISOL",
-   "reward": "Exclusive Low Cortisol"
   }
  ],
- "updated": "2026-10-02T05:02:01.538Z",
+ "updated": "2026-10-03T16:06:29.808Z",
  "source": "https://robloxden.com/game-codes/mount-rng"
 }

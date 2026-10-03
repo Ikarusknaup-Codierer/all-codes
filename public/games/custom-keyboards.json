@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATEYAY",
+   "reward": "Legendary Pack , Wheel Spin , 10 minutes 2x Cash Item , and 15 minutes"
+  },
+  {
+   "code": "6000LIKES",
+   "reward": "10 minutes 4x Rolls Item , 10 minutes 2x Kick Power Item , 10 minutes "
+  },
+  {
+   "code": "NEWRARITY",
+   "reward": "Wheel Spins , 10 minutes 4x Rolls Item , 10 minutes 2x Luck Item , Leg"
+  },
+  {
    "code": "200KMEMBERS",
    "reward": "a 50% Slower Wave Item (20 Minutes) , a Legendary Pack , a 2x Luck Ite"
   },
@@ -31,6 +43,6 @@
    "reward": "a Legendary Pack , a Boba Pack , 2x Luck (10 Minutes) , and 2x Kick Po"
   }
  ],
- "updated": "2026-10-02T05:00:08.830Z",
+ "updated": "2026-10-03T16:04:32.554Z",
  "source": "https://robloxden.com/game-codes/custom-keyboards"
 }

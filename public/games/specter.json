@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "OVERL0RD",
-   "reward": "an Armory Collection Case , 5 Vault Tokens , and 20,000 Cash"
-  },
-  {
    "code": "INFINITY",
    "reward": "5 Vault Tokens"
+  },
+  {
+   "code": "OVERL0RD",
+   "reward": "an Armory Collection Case , 5 Vault Tokens , and 20,000 Cash"
   },
   {
    "code": "SPECTER3",
@@ -71,6 +71,6 @@
    "reward": "3 Vault Tokens , an Exclusive Outfit , and a Motion Sensor"
   }
  ],
- "updated": "2026-10-02T05:02:25.059Z",
+ "updated": "2026-10-03T16:06:53.347Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

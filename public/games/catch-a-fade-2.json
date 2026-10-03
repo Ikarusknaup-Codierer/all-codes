@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "FixedItFinally!",
+   "reward": "Fade11 Crate and 750 Credits"
+  },
+  {
+   "code": "ServersWereCooked",
+   "reward": "1,500 Credits and 2x Credits boost"
+  },
+  {
+   "code": "MyBadYall",
+   "reward": "900 Credits"
+  },
+  {
+   "code": "ThanksForWaiting!",
+   "reward": "1,250 Credits and Slides Crate"
+  },
+  {
+   "code": "LateNightPatch",
+   "reward": "1,000 Credits"
+  },
+  {
+   "code": "ShutdownAgainSorry!",
+   "reward": "Fade 4 Crate and 2,000 credits"
+  },
+  {
+   "code": "WeLoveYouLikeFam!",
+   "reward": "Fade 4 crate"
+  },
+  {
+   "code": "ShutdownRealSorry!",
+   "reward": "750 Credits"
+  },
+  {
    "code": "WelcomeAuras!",
    "reward": "a Random Aura"
   },
@@ -19,6 +51,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-01T22:39:53.933Z",
+ "updated": "2026-10-03T16:00:29.568Z",
  "source": "https://robloxden.com/game-codes/catch-a-fade-2"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "VoiceChat",
+   "reward": "2 Triple Coins Boost"
+  },
+  {
    "code": "triple800",
    "reward": "Coin Boost"
   },
@@ -19,14 +23,10 @@
    "reward": "Triple Boost"
   },
   {
-   "code": "big1234",
-   "reward": "Triple Coin Boost"
-  },
-  {
    "code": "morecodes3",
    "reward": "Ultra Lucky Boost"
   }
  ],
- "updated": "2026-10-01T12:48:47.512Z",
+ "updated": "2026-10-03T04:40:45.136Z",
  "source": "https://robloxden.com/game-codes/pet-simulator-x"
 }

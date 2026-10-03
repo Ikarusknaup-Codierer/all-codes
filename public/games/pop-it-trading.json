@@ -479,10 +479,14 @@
    "reward": "the Rock Paper Scissors Item"
   },
   {
-   "code": "inazuma",
-   "reward": "a Lightning Katana"
+   "code": "12345",
+   "reward": "Random Item"
+  },
+  {
+   "code": "MADREGATE",
+   "reward": "the Mothergate Item"
   }
  ],
- "updated": "2026-10-01T12:52:03.571Z",
+ "updated": "2026-10-03T04:43:53.130Z",
  "source": "https://robloxden.com/game-codes/pop-it-trading"
 }

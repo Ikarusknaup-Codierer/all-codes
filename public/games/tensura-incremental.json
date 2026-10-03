@@ -19,14 +19,6 @@
    "reward": "10 Race Rolls , 10 Subordinate Rolls , 10 Skill Rolls , 10 Trait Rolls"
   },
   {
-   "code": "SHADOWBORNE",
-   "reward": "5 Of Each Rerolls"
-  },
-  {
-   "code": "TRAITS",
-   "reward": "10 Trait Rolls"
-  },
-  {
    "code": "HAAPYBDAYSHADOW",
    "reward": "Free Rewards"
   },
@@ -47,6 +39,14 @@
    "reward": "15 Race Rolls , 5 Subordinate Rolls , 5 Skill Rolls , 5 Trait Rolls , "
   },
   {
+   "code": "SHADOWBORNE",
+   "reward": "5 Of Each Rerolls"
+  },
+  {
+   "code": "TRAITS",
+   "reward": "10 Trait Rolls"
+  },
+  {
    "code": "UNINVITED",
    "reward": "5 Race Rolls , 5 Subordinate Rolls , 5 Spirit Rolls , and 5 Trait Roll"
   },
@@ -59,6 +59,6 @@
    "reward": "5 of Each Spin"
   }
  ],
- "updated": "2026-10-01T12:59:38.938Z",
+ "updated": "2026-10-03T04:49:44.850Z",
  "source": "https://robloxden.com/game-codes/tensura-incremental"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BANKAIONTHEWAY",
-   "reward": "15 Clan Reroll , 35 Ability Rerolls , 15 Experimental Hogyoku Shard , "
-  },
-  {
    "code": "SORRY4DELAY",
    "reward": "15 Ability Rerolls , 15 Clan Rerolls , and 10 Experimental Hogyoku Sha"
   },
@@ -25,8 +21,12 @@
   {
    "code": "FEWREROLLS",
    "reward": "3x Clan Reroll and 3x Ability Reroll"
+  },
+  {
+   "code": "75KLIKES",
+   "reward": "3x Ability Reroll"
   }
  ],
- "updated": "2026-10-01T12:57:12.399Z",
+ "updated": "2026-10-03T04:48:12.494Z",
  "source": "https://robloxden.com/game-codes/vv-ultimatum"
 }

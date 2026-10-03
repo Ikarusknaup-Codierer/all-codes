@@ -7,6 +7,74 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD5",
+   "reward": "2x Power Potion"
+  },
+  {
+   "code": "GLACIER",
+   "reward": "2x Luck Potion"
+  },
+  {
+   "code": "FROZEN",
+   "reward": "2x Wins Potion"
+  },
+  {
+   "code": "REBIRTH370",
+   "reward": "500 QA Wins . You must rebirth 370 times to claim this code"
+  },
+  {
+   "code": "WORLD4",
+   "reward": "2x Power Potion"
+  },
+  {
+   "code": "700KMEMBERS",
+   "reward": "2x Wins Potion"
+  },
+  {
+   "code": "HOTHOTHOT",
+   "reward": "2x Luck Potion"
+  },
+  {
+   "code": "REBIRTH265",
+   "reward": "200T Wins . You must rebirth 265 times to claim this code"
+  },
+  {
+   "code": "10KPLAYERS",
+   "reward": "2x Power Potion"
+  },
+  {
+   "code": "4MILVISITS",
+   "reward": "2x Wins Potion"
+  },
+  {
+   "code": "500KMEMBERS",
+   "reward": "2x Luck Potion"
+  },
+  {
+   "code": "ARCADE",
+   "reward": "2x Luck Potion"
+  },
+  {
+   "code": "LAUNCHDAY",
+   "reward": "2x Wins Potion"
+  },
+  {
+   "code": "REBIRTH45",
+   "reward": "10M Wins . You must rebirth 45 times to claim this code"
+  },
+  {
+   "code": "REBIRTH160",
+   "reward": "200B Wins . You must rebirth 160 times to claim this code"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "2x Power Potion"
+  },
+  {
+   "code": "50KFAVS",
+   "reward": "2x Luck Potion"
+  },
+  {
    "code": "2XALL",
    "reward": "a 100x Luck Title Roll"
   },
@@ -59,6 +127,6 @@
    "reward": "2x Power Potion"
   }
  ],
- "updated": "2026-10-01T12:56:44.502Z",
+ "updated": "2026-10-03T04:47:54.396Z",
  "source": "https://robloxden.com/game-codes/1-power-per-click"
 }

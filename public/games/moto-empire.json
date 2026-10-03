@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "ReRelease",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "SmallFixes",
+   "reward": "100,000 Cash"
+  },
+  {
+   "code": "100Likes",
+   "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-10-01T12:48:30.905Z",
+ "updated": "2026-10-03T04:40:31.755Z",
  "source": "https://robloxden.com/game-codes/moto-empire"
 }

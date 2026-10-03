@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "CHRISTMAS",
-   "reward": "the Gingerbread Pet"
-  },
-  {
    "code": "40KLIKES",
    "reward": "X2 Speed Boost For 10 Minutes"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "10 Minutes Of X2 Speed"
   },
   {
    "code": "185KLikes",
@@ -23,6 +23,6 @@
    "reward": "1 Chicken Pet"
   }
  ],
- "updated": "2026-10-01T12:50:37.290Z",
+ "updated": "2026-10-03T04:42:32.239Z",
  "source": "https://robloxden.com/game-codes/speed-run-simulator"
 }

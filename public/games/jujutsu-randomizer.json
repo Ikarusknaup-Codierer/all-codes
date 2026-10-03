@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BASSDADADA",
-   "reward": "300 Yen"
-  },
-  {
    "code": "12MVISITS",
    "reward": "250 Yen"
   },
@@ -31,6 +27,14 @@
    "reward": "150 Yen"
   },
   {
+   "code": "BIGBROTHER",
+   "reward": "250 Yen"
+  },
+  {
+   "code": "BASSDADADA",
+   "reward": "300 Yen"
+  },
+  {
    "code": "ROADTOTHE10MVISITS",
    "reward": "200 Yen"
   },
@@ -43,6 +47,6 @@
    "reward": "150 Yen"
   }
  ],
- "updated": "2026-10-01T22:35:34.189Z",
+ "updated": "2026-10-03T04:54:17.944Z",
  "source": "https://robloxden.com/game-codes/jujutsu-randomizer"
 }

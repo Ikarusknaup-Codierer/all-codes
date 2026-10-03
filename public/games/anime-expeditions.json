@@ -7,16 +7,28 @@
    "reward": "Description"
   },
   {
-   "code": "Eclipse",
-   "reward": "50 Trait Crystals and 25 Equipment Rerolls"
-  },
-  {
    "code": "SummerSiege",
    "reward": "50 Equipment Rerolls and 800 Sand Dollars . You need to be at least Le"
   },
   {
    "code": "LighthingGod",
    "reward": "20 Trait Crystals and 500 Sand Dollars . You need to be at least Level"
+  },
+  {
+   "code": "Bossrush",
+   "reward": "1,500 Gems , 50x Stat Rerolls , and 20x Trait Crystals"
+  },
+  {
+   "code": "Hellfire",
+   "reward": "25x Equipment Rerolls , 25x Stat Rerolls , and 15x Trait Crystals"
+  },
+  {
+   "code": "Update3",
+   "reward": "50x Trait Crystals , 10x Equipment Rerolls , and 10x Stat Rerolls"
+  },
+  {
+   "code": "RDC26",
+   "reward": "15x Trait Crystals , 25x Equipment Rerolls , and 25x Stat Rerolls"
   },
   {
    "code": "restartsorry!",
@@ -37,6 +49,10 @@
   {
    "code": "250klikes",
    "reward": "1,000 Sand Dollars , 25 Equipment Rerolls , and 25 Trait Crystals"
+  },
+  {
+   "code": "Eclipse",
+   "reward": "50 Trait Crystals and 25 Equipment Rerolls"
   },
   {
    "code": "Update2",
@@ -139,6 +155,6 @@
    "reward": "20 Trait Crystals and 2,500 Gems . You must have the Early Access Role"
   }
  ],
- "updated": "2026-10-01T22:34:58.513Z",
+ "updated": "2026-10-03T04:53:40.386Z",
  "source": "https://robloxden.com/game-codes/anime-expeditions"
 }

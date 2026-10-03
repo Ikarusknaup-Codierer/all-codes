@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ticket",
+   "reward": "3 Tickets"
+  },
+  {
    "code": "upd12",
    "reward": "5 Evolutions"
   },
@@ -107,6 +111,6 @@
    "reward": "100 Weapon Stones and 10 Soul Ring Rerolls"
   }
  ],
- "updated": "2026-10-01T22:35:22.032Z",
+ "updated": "2026-10-03T04:54:05.626Z",
  "source": "https://robloxden.com/game-codes/1-dmg-per-revive"
 }

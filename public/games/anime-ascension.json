@@ -11,14 +11,6 @@
    "reward": "1 Coin Potion, 1 Luck Potion and 1 Power Potion"
   },
   {
-   "code": "2kLikes",
-   "reward": "Free In-Game Rewards And Potions"
-  },
-  {
-   "code": "AnimeAscensionsSimulator",
-   "reward": "A Luck Potion And A Drops Potion"
-  },
-  {
    "code": "XmasEvent",
    "reward": "200 Gingerbreads , 2 Coins Potions , 2 Luck Potions , and 2 Strength P"
   },
@@ -51,10 +43,14 @@
    "reward": "Free In-Game Rewards And Potions"
   },
   {
-   "code": "100Likes",
-   "reward": "Unknown Reward"
+   "code": "2kLikes",
+   "reward": "Free In-Game Rewards And Potions"
+  },
+  {
+   "code": "AnimeAscensionsSimulator",
+   "reward": "A Luck Potion And A Drops Potion"
   }
  ],
- "updated": "2026-10-01T12:58:54.528Z",
+ "updated": "2026-10-03T04:49:27.134Z",
  "source": "https://robloxden.com/game-codes/anime-ascension"
 }

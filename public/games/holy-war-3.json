@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ONEFORMY",
+   "code": "SHINOBI",
+   "reward": "the Estarossa's Sword"
+  },
+  {
+   "code": "YOUWANTTRYME",
    "reward": "Exp"
   },
   {
-   "code": "STATRESET3",
+   "code": "YOUWANTRACE",
+   "reward": "100 Race Spins"
+  },
+  {
+   "code": "STATRESET9",
    "reward": "a Stat Reset"
   },
   {
-   "code": "HELBRAMBBY",
+   "code": "WESORRY4BUG",
    "reward": "some free spins"
-  },
-  {
-   "code": "HAVESOMEMORE",
-   "reward": "40 Magic Spins"
-  },
-  {
-   "code": "HOLDITWELL",
-   "reward": "Spins"
   }
  ],
- "updated": "2026-10-01T12:50:20.472Z",
+ "updated": "2026-10-03T04:42:12.596Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "UPD12",
+   "reward": "an Event Box and x2 Shard (10 Minutes)"
+  },
+  {
    "code": "UPD11",
    "reward": "1 Event Box"
   },
   {
    "code": "Ichigo",
    "reward": "Exp x2 (2 minutes), 100 Gems, and 1 Event Box"
-  },
-  {
-   "code": "UPD10",
-   "reward": "1 Event Box and 2x Shards"
   },
   {
    "code": "UPD9",
@@ -51,14 +51,14 @@
    "reward": "2x EXP (20 Minutes) , 2x Beli (20 Minutes) , and 2,000 Gems"
   },
   {
-   "code": "ThxFor100CCu",
-   "reward": "a Darkness Orb and 250 Gems"
+   "code": "UPD10",
+   "reward": "1 Event Box and 2x Shards"
   },
   {
-   "code": "AutoStorage",
-   "reward": "an Event Box , 500 Gems , and 2x Drop (20 Minutes)"
+   "code": "ThxFor100CCu",
+   "reward": "a Darkness Orb and 250 Gems"
   }
  ],
- "updated": "2026-10-01T22:35:09.377Z",
+ "updated": "2026-10-03T04:53:52.372Z",
  "source": "https://robloxden.com/game-codes/heaven-piece"
 }

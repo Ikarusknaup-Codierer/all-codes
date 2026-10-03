@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "CELESTIAL",
+   "reward": "20 Aura Roll Tickets , 10 Lucky Roll Tickets , 250 Prisms , 100 Stat R"
+  },
+  {
+   "code": "10K",
+   "reward": "20 Aura Roll Tickets , 10 Lucky Roll Tickets , 250 Prisms , 100 Stat R"
+  },
+  {
+   "code": "DELAYSORRY",
+   "reward": "20 Aura Roll Tickets , 10 Lucky Roll Tickets , 250 Prisms , 100 Stat R"
+  },
+  {
    "code": "UPDATE1-2",
    "reward": "1,000 Prisms , 10 Aura Roll Tickets , 100 Stat Rerolls , and 50 Stat L"
   },
@@ -15,6 +27,6 @@
    "reward": "500 Prisms , 10 Aura Roll Tickets , and 5 Lucky Aura Roll Tickets"
   }
  ],
- "updated": "2026-10-02T12:15:21.573Z",
+ "updated": "2026-10-03T20:53:34.751Z",
  "source": "https://robloxden.com/game-codes/project-aura"
 }

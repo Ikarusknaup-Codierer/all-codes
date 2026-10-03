@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Eligibility",
-   "reward": "Free Rewards"
+   "code": "NEWCHAMPIONS",
+   "reward": "Rewards"
   },
   {
-   "code": "Reborn",
-   "reward": "1 Basic Luck Potion And 10 Trait Crystals"
-  },
-  {
-   "code": "!updatetoday",
-   "reward": "50,000 Tickets And 10 Trait Crystals"
+   "code": "!BlackFriday",
+   "reward": "5,000 Red Tickets, 5 Trait Crystals, And 500 Gems"
   },
   {
    "code": "Crystals",
@@ -25,8 +21,12 @@
   {
    "code": "Gear4TH!",
    "reward": "6,000 Gems , 10 Frost Key and 15 Trait Crystals"
+  },
+  {
+   "code": "PODCASTGANGFORREAL!!",
+   "reward": "5,000 Gems and 50 Rerolls"
   }
  ],
- "updated": "2026-10-02T12:17:54.686Z",
+ "updated": "2026-10-03T20:56:20.819Z",
  "source": "https://robloxden.com/game-codes/anime-reborn"
 }

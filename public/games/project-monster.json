@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FANPAGE",
+   "reward": "2,000 Rubies"
+  },
+  {
    "code": "BEEPBOOM2024",
    "reward": "600 Gems"
   },
@@ -21,12 +25,8 @@
   {
    "code": "BUNZO2023",
    "reward": "a reward"
-  },
-  {
-   "code": "TWITTER2023",
-   "reward": "a reward"
   }
  ],
- "updated": "2026-10-02T12:21:40.011Z",
+ "updated": "2026-10-03T20:59:56.728Z",
  "source": "https://robloxden.com/game-codes/project-monster"
 }

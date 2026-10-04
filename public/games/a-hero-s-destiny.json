@@ -31,14 +31,14 @@
    "reward": "Stat Reset"
   },
   {
-   "code": "bigexp",
-   "reward": "2x Strength And Experience"
+   "code": "arcane",
+   "reward": "30 Minutes Of 2x Experience"
   },
   {
-   "code": "BONG",
-   "reward": "a 1 Hour 2x EXP Boost, a 1 Hour 2x Yen Boost and a 1 Hour 2x STR Boost"
+   "code": "BLAST",
+   "reward": "1 Hour Of 2x EXP, STR, And Yen"
   }
  ],
- "updated": "2026-10-02T22:11:11.578Z",
+ "updated": "2026-10-04T05:18:21.067Z",
  "source": "https://robloxden.com/game-codes/a-hero-s-destiny"
 }

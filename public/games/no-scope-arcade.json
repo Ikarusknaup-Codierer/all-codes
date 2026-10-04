@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "turkey",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "poodros",
+   "code": "snowday",
    "reward": "Free Rewards"
   },
   {
@@ -23,10 +19,14 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "candycorn",
-   "reward": "A Level-Up And 105 Coins"
+   "code": "pumpkinspice",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "noscope",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-02T22:04:25.118Z",
+ "updated": "2026-10-04T05:13:14.353Z",
  "source": "https://robloxden.com/game-codes/no-scope-arcade"
 }

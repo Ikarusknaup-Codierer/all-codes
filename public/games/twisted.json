@@ -11,6 +11,10 @@
    "reward": "15,000 Cash"
   },
   {
+   "code": "America250",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "aprilfooled",
    "reward": "30,000 Cash"
   },
@@ -21,12 +25,8 @@
   {
    "code": "10MIL",
    "reward": "Reward"
-  },
-  {
-   "code": "INSURANCECLAIM",
-   "reward": "30,000 Cash"
   }
  ],
- "updated": "2026-10-02T22:01:41.787Z",
+ "updated": "2026-10-04T05:10:56.933Z",
  "source": "https://robloxden.com/game-codes/twisted"
 }

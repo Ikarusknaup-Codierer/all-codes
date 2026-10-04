@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "12KLIKES",
+   "code": "13KLIKES",
    "reward": "5 Golden Rolls"
+  },
+  {
+   "code": "13MIL",
+   "reward": "25 Coins, 75 Rerolls and 75 Refreshes"
+  },
+  {
+   "code": "SECRET",
+   "reward": "15K Coins and 2x Luck (15 Minutes)"
+  },
+  {
+   "code": "DEFENDERS",
+   "reward": "3 Golden Rolls and 25,000 Coins"
   },
   {
    "code": "3KLIKES",
    "reward": "5 Golden Rolls"
   }
  ],
- "updated": "2026-10-03T11:22:46.150Z",
+ "updated": "2026-10-04T21:07:34.448Z",
  "source": "https://robloxden.com/game-codes/build-your-soccer-squad"
 }

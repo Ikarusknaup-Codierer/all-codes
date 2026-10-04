@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PANICGALE",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "DEJPFEB2026",
    "reward": "Free Rewards"
   },
@@ -181,8 +177,12 @@
   {
    "code": "2WHEELERS",
    "reward": "2004 Mestibis Colt Best Select"
+  },
+  {
+   "code": "PANICGALE",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-03T11:27:04.645Z",
+ "updated": "2026-10-04T21:12:38.587Z",
  "source": "https://robloxden.com/game-codes/driving-experience-japan"
 }

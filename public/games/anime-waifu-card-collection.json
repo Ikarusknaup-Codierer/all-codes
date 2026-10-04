@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NEWCHEST",
+   "reward": "1 Chibi Chest"
+  },
+  {
+   "code": "30M",
+   "reward": "1 Grade Z Token, 5 Clan Tokens and 300 Grade Tokens"
+  },
+  {
    "code": "29M",
    "reward": "1 Grade Z Token , 1 Aquarius Token , 2 Relic Chest"
   },
@@ -111,6 +119,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-10-03T11:27:48.870Z",
+ "updated": "2026-10-04T21:13:29.524Z",
  "source": "https://robloxden.com/game-codes/anime-waifu-card-collection"
 }

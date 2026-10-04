@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "1MILGROUP",
+   "reward": "3,000 Cash"
+  },
+  {
    "code": "LOADING",
    "reward": "3,000 Cash"
   },
@@ -15,15 +19,7 @@
    "reward": "Cash"
   },
   {
-   "code": "DYNAMIC",
-   "reward": "3,000 Cash"
-  },
-  {
    "code": "SORRYABOUTRANKED",
-   "reward": "3,000 Cash"
-  },
-  {
-   "code": "SORRYFORBADANTICHEAT",
    "reward": "3,000 Cash"
   },
   {
@@ -31,6 +27,6 @@
    "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-10-03T04:50:17.650Z",
+ "updated": "2026-10-04T21:06:13.783Z",
  "source": "https://robloxden.com/game-codes/knife-duels"
 }

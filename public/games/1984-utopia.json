@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "UTOPIAPEAK",
-   "reward": "1 Crate"
-  },
-  {
    "code": "3KLIKES",
    "reward": "1 Automatic Spin"
   },
   {
    "code": "POWERTOTHEPEOPLE",
    "reward": "250 Cash"
+  },
+  {
+   "code": "UTOPIAPEAK",
+   "reward": "1 Crate"
   },
   {
    "code": "MIDNIGHTFIX",
@@ -27,6 +27,6 @@
    "reward": "1,000 Money"
   }
  ],
- "updated": "2026-10-03T11:25:26.302Z",
+ "updated": "2026-10-04T21:10:28.690Z",
  "source": "https://robloxden.com/game-codes/1984-utopia"
 }

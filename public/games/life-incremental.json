@@ -23,10 +23,6 @@
    "reward": "Freebies"
   },
   {
-   "code": "5Million",
-   "reward": "1 Hour of x2 Cash , 1 Hour of x2 XP , and 50 Dungeons of x2 Ingredient"
-  },
-  {
    "code": "GOAT",
    "reward": "1 Hour of x2 Cash , 1 Hour of x2 XP , and 50 Dungeons of x2 Ingredient"
   },
@@ -55,14 +51,14 @@
    "reward": "10 Cash"
   },
   {
-   "code": "ThanksFor5Mil",
+   "code": "5Million",
    "reward": "1 Hour of x2 Cash , 1 Hour of x2 XP , and 50 Dungeons of x2 Ingredient"
   },
   {
-   "code": "Update17",
-   "reward": "Misc. rewards"
+   "code": "ThanksFor5Mil",
+   "reward": "1 Hour of x2 Cash , 1 Hour of x2 XP , and 50 Dungeons of x2 Ingredient"
   }
  ],
- "updated": "2026-10-03T11:22:59.688Z",
+ "updated": "2026-10-04T21:07:47.537Z",
  "source": "https://robloxden.com/game-codes/life-incremental"
 }

@@ -11,12 +11,16 @@
    "reward": "1,000 cash"
   },
   {
-   "code": "RENE",
-   "reward": "100 Armor"
+   "code": "LOVELASH",
+   "reward": "Lovelash Pistol"
   },
   {
-   "code": "BGC",
-   "reward": "50 Diamonds"
+   "code": "abuse",
+   "reward": "1000 cash"
+  },
+  {
+   "code": "RENE",
+   "reward": "100 Armor"
   },
   {
    "code": "BOT",
@@ -95,10 +99,6 @@
    "reward": "Rewards . You need to be level 5 to redeem this code"
   },
   {
-   "code": "EST",
-   "reward": "20 Diamonds"
-  },
-  {
    "code": "ALADIAONTOP",
    "reward": "50 Diamonds"
   },
@@ -139,6 +139,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-10-03T11:30:18.834Z",
+ "updated": "2026-10-04T21:16:09.786Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

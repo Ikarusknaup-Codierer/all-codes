@@ -11,10 +11,6 @@
    "reward": "250 Yen"
   },
   {
-   "code": "WEAREBACK",
-   "reward": "500 Yen"
-  },
-  {
    "code": "11MVISITS",
    "reward": "250 Yen"
   },
@@ -23,16 +19,20 @@
    "reward": "400 Yen"
   },
   {
-   "code": "SEEYOUNEXTMONTH",
-   "reward": "150 Yen"
-  },
-  {
    "code": "BIGBROTHER",
    "reward": "250 Yen"
   },
   {
    "code": "BASSDADADA",
    "reward": "300 Yen"
+  },
+  {
+   "code": "WEAREBACK",
+   "reward": "500 Yen"
+  },
+  {
+   "code": "SEEYOUNEXTMONTH",
+   "reward": "150 Yen"
   },
   {
    "code": "ROADTOTHE10MVISITS",
@@ -47,6 +47,6 @@
    "reward": "150 Yen"
   }
  ],
- "updated": "2026-10-03T04:54:17.944Z",
+ "updated": "2026-10-04T21:06:54.771Z",
  "source": "https://robloxden.com/game-codes/jujutsu-randomizer"
 }

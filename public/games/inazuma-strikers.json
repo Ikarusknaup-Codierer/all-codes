@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SET",
+   "reward": "100,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
+  },
+  {
    "code": "MIX",
    "reward": "200,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
   },
@@ -195,6 +199,6 @@
    "reward": "1 Uncommon Manual and 30 Mins Double XP"
   }
  ],
- "updated": "2026-10-03T16:03:38.639Z",
+ "updated": "2026-10-04T21:19:45.188Z",
  "source": "https://robloxden.com/game-codes/inazuma-strikers"
 }

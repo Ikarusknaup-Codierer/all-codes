@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "JUNGLE",
-   "reward": "5 Weapon Tier Scrolls , 5 Armor Tier Scrolls , and 5 Mount Tier Scroll"
-  },
-  {
    "code": "LOOTDANCE",
    "reward": "the Loot Dance Emote"
   },
   {
    "code": "Lev",
    "reward": "1,000 Coins , 500 EXP , and 5 Weapon Tier Scrolls"
+  },
+  {
+   "code": "JUNGLE",
+   "reward": "5 Weapon Tier Scrolls , 5 Armor Tier Scrolls , and 5 Mount Tier Scroll"
   }
  ],
- "updated": "2026-10-03T16:04:07.146Z",
+ "updated": "2026-10-04T21:20:14.957Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

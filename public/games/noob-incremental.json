@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ANOTHERMINIUPDATE",
+   "reward": "50 Card Tokens and 500 Chi"
+  },
+  {
+   "code": "FIXINGSTUFF",
+   "reward": "66 Card Tokens"
+  },
+  {
    "code": "UPDATEFIX",
    "reward": "500 Chi and 50 card Token"
   },
@@ -55,30 +63,14 @@
    "reward": "1 2x Rune Luck Potion, 1 2x Rune Speed Potion,1 2x Rune Bulk Potion, a"
   },
   {
-   "code": "UNDERWATERCOMINGSOON",
-   "reward": "100 Card Token , 300 Chi , and 50 Ancient Fragment"
-  },
-  {
    "code": "YINYANGEXPANSION",
    "reward": "55 Card Tokens"
-  },
-  {
-   "code": "LITTLEUPDATE777",
-   "reward": "25 Card Tokens"
-  },
-  {
-   "code": "SOMEFIXUPDATE",
-   "reward": "25 Card Tokens"
-  },
-  {
-   "code": "ANOTHERLITTLEUPDATE",
-   "reward": "100 Chests , 25 Golden Chests , 10 Golden Dice , 25 Tickets , 10 Doubl"
   },
   {
    "code": "THANKS4JOINING",
    "reward": "10% Rune Luck (Active) . You must paste it in the Special Code box to "
   }
  ],
- "updated": "2026-10-03T04:48:56.660Z",
+ "updated": "2026-10-04T12:12:27.270Z",
  "source": "https://robloxden.com/game-codes/noob-incremental"
 }

@@ -15,18 +15,18 @@
    "reward": "the JeffBlox Zombie"
   },
   {
-   "code": "500KLIKES",
+   "code": "20KLIKES",
    "reward": "2 Skull Potions"
+  },
+  {
+   "code": "40KFAVS",
+   "reward": "1 Luck Potion"
   },
   {
    "code": "2000LIKES",
    "reward": "1 Luck Potion"
-  },
-  {
-   "code": "500KVIS",
-   "reward": "2 Brains Potions"
   }
  ],
- "updated": "2026-10-03T04:44:40.538Z",
+ "updated": "2026-10-04T12:08:58.479Z",
  "source": "https://robloxden.com/game-codes/zombie-army-simulator"
 }

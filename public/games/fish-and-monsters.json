@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SORRYFORTHEBALANCINGBUG2",
-   "reward": "25% Luck Buff (20 Minutes), Exper Seller 10% (10 Minutes) and 2x EXP B"
-  },
-  {
    "code": "SORRYFORTHEBALANCINGBUG1",
    "reward": "25% Luck Buff (20 Minutes), Exper Seller 10% (10 Minutes) and 2x EXP B"
   },
@@ -111,10 +107,14 @@
    "reward": "25% Luck Buff (20 Minutes)"
   },
   {
+   "code": "SORRYFORTHEBALANCINGBUG2",
+   "reward": "25% Luck Buff (20 Minutes), Exper Seller 10% (10 Minutes) and 2x EXP B"
+  },
+  {
    "code": "WINDAHBASUDARAWINDAHBASUDARA",
    "reward": "23.9K Cash and 900 EXP"
   }
  ],
- "updated": "2026-10-02T22:11:00.233Z",
+ "updated": "2026-10-04T12:03:58.176Z",
  "source": "https://robloxden.com/game-codes/fish-and-monsters"
 }

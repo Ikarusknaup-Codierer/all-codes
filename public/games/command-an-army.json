@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "GUILD",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "RANKED",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "PARRY",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "RAPIER",
+   "reward": "300 Gems"
+  },
+  {
    "code": "OPTIMIZE",
    "reward": "700 Gems"
   },
@@ -23,14 +39,10 @@
    "reward": "500 Gems"
   },
   {
-   "code": "SHIELDBREAKER",
-   "reward": "700 Gems"
-  },
-  {
    "code": "SORRY",
    "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-10-03T04:43:05.711Z",
+ "updated": "2026-10-04T12:07:28.688Z",
  "source": "https://robloxden.com/game-codes/command-an-army"
 }

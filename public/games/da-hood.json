@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PRESIDENT",
+   "reward": "500,000 DHC"
+  },
+  {
    "code": "PVP",
    "reward": "500,000 DHC"
   },
@@ -31,6 +35,6 @@
    "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-10-03T04:41:23.747Z",
+ "updated": "2026-10-04T12:05:58.319Z",
  "source": "https://robloxden.com/game-codes/da-hood"
 }

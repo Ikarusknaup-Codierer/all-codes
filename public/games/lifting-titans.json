@@ -51,10 +51,14 @@
    "reward": "1 Player Boost"
   },
   {
-   "code": "500STAR",
-   "reward": "50 Strength"
+   "code": "EVENT",
+   "reward": "A Boost"
+  },
+  {
+   "code": "LikeTheGame",
+   "reward": "A Reward"
   }
  ],
- "updated": "2026-10-03T04:42:09.408Z",
+ "updated": "2026-10-04T12:06:37.245Z",
  "source": "https://robloxden.com/game-codes/lifting-titans"
 }

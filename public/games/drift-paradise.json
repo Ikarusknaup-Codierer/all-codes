@@ -11,10 +11,6 @@
    "reward": "20,000 In-Game Cash"
   },
   {
-   "code": "600klikes",
-   "reward": "20,000 Cash"
-  },
-  {
    "code": "POPUP",
    "reward": "5,000 Cash"
   },
@@ -23,10 +19,14 @@
    "reward": "20,000 Cash"
   },
   {
+   "code": "240KLIKES",
+   "reward": "23,000 Cash"
+  },
+  {
    "code": "80KLIKES",
    "reward": "8,000 Cash"
   }
  ],
- "updated": "2026-10-03T04:43:57.096Z",
+ "updated": "2026-10-04T12:08:16.867Z",
  "source": "https://robloxden.com/game-codes/drift-paradise"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "tristar",
+   "reward": "3,000 Skybux"
+  },
+  {
+   "code": "capetown",
+   "reward": "3,000 Skybux"
+  },
+  {
    "code": "1776",
    "reward": "1,776 Skybux"
   },
@@ -67,14 +75,14 @@
    "reward": "2,000 Skybux"
   },
   {
-   "code": "ally",
-   "reward": "1,200 Skybux"
-  },
-  {
    "code": "customize",
    "reward": "1,500 Skybux"
+  },
+  {
+   "code": "100m",
+   "reward": "1,000 SkyBux"
   }
  ],
- "updated": "2026-10-03T04:43:38.620Z",
+ "updated": "2026-10-04T12:07:59.043Z",
  "source": "https://robloxden.com/game-codes/cabin-crew-simulator"
 }

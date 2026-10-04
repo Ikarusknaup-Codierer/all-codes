@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "2500CODE",
-   "reward": "100 Diamonds"
-  },
-  {
-   "code": "UPDATE5",
-   "reward": "Free Diamonds"
+   "code": "UPDATE7",
+   "reward": "Free Rewards"
   },
   {
    "code": "1000LIKES",
    "reward": "120 Diamonds"
   },
   {
-   "code": "ranks",
-   "reward": "A Game Boost"
+   "code": "500LIKES",
+   "reward": "50 Diamonds"
   },
   {
-   "code": "IDK",
-   "reward": "50,000 Cash"
+   "code": "1500PROMO",
+   "reward": "100 Diamonds"
+  },
+  {
+   "code": "NOVICE",
+   "reward": "1,250 Cash"
   }
  ],
- "updated": "2026-10-03T04:44:27.710Z",
+ "updated": "2026-10-04T12:08:46.241Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

@@ -7,22 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FACTIONS",
-   "reward": "Double Faction XP (8 Hours) and 5 Free Artifact Crate Opens"
-  },
-  {
-   "code": "FRONTIER",
-   "reward": "2 Frontier Free Spins , Double Tokens (24 Hours), and 5,000 Credits"
-  },
-  {
-   "code": "QolSwag",
-   "reward": "2x Gold (24 Hours)"
-  },
-  {
-   "code": "Viciboy",
-   "reward": "2x Credits (12 Hours), 5000 Credits and 3 Pirate Spins"
-  },
-  {
    "code": "Pirate",
    "reward": "2x Pirate Pass XP (24 hours)"
   },
@@ -41,10 +25,6 @@
   {
    "code": "SWAGGYBOI",
    "reward": "2x Credits (12 Hours) and 2x Bloodmoon Shards (24 Hours)"
-  },
-  {
-   "code": "TUNDRASZN",
-   "reward": "2x Bloodmoon Shards (48h) and 2x Credits (4h)"
   },
   {
    "code": "BOSSRUSH",
@@ -67,8 +47,28 @@
    "reward": "2,500 Credits"
   },
   {
+   "code": "FACTIONS",
+   "reward": "Double Faction XP (8 Hours) and 5 Free Artifact Crate Opens"
+  },
+  {
+   "code": "FRONTIER",
+   "reward": "2 Frontier Free Spins , Double Tokens (24 Hours), and 5,000 Credits"
+  },
+  {
+   "code": "QolSwag",
+   "reward": "2x Gold (24 Hours)"
+  },
+  {
+   "code": "Viciboy",
+   "reward": "2x Credits (12 Hours), 5000 Credits and 3 Pirate Spins"
+  },
+  {
    "code": "patchboi",
    "reward": "2x Arena Credits (4 Hours)"
+  },
+  {
+   "code": "TUNDRASZN",
+   "reward": "2x Bloodmoon Shards (48h) and 2x Credits (4h)"
   },
   {
    "code": "DELAYSAHUR",
@@ -87,6 +87,6 @@
    "reward": "3 Bloodmoon Spins and 2x Bloodmoon Shards (4 Hours)"
   }
  ],
- "updated": "2026-10-03T04:47:36.981Z",
+ "updated": "2026-10-04T12:11:27.633Z",
  "source": "https://robloxden.com/game-codes/survive-zombie-arena"
 }

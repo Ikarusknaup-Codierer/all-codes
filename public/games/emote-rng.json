@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DELAYRNG",
+   "reward": "5M Cash and OP Boost"
+  },
+  {
    "code": "EXPANSION",
    "reward": "7M Cash, 1 Double Luck (15 Minutes), 1 Double Luck (30 Minutes), 1 Dou"
   },
@@ -59,6 +63,6 @@
    "reward": "1 Hour Double Luck Boost"
   }
  ],
- "updated": "2026-10-03T16:01:37.740Z",
+ "updated": "2026-10-05T04:57:34.816Z",
  "source": "https://robloxden.com/game-codes/emote-rng"
 }

@@ -11,10 +11,6 @@
    "reward": "rewards"
   },
   {
-   "code": "KarsUpdate",
-   "reward": "rewards"
-  },
-  {
    "code": "ThxForFollowingSendaiUpdate",
    "reward": "rewards"
   },
@@ -37,8 +33,12 @@
   {
    "code": "XanxusRefresh",
    "reward": "rewards"
+  },
+  {
+   "code": "KarsUpdate",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-10-03T16:06:24.326Z",
+ "updated": "2026-10-05T05:00:26.486Z",
  "source": "https://robloxden.com/game-codes/anime-strike"
 }

@@ -39,10 +39,14 @@
    "reward": "200,000 Yen"
   },
   {
-   "code": "NEWREBORN",
+   "code": "NewSpecials",
+   "reward": "50K Chikara"
+  },
+  {
+   "code": "OSCAR",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-03T16:00:31.353Z",
+ "updated": "2026-10-05T04:56:38.234Z",
  "source": "https://robloxden.com/game-codes/anime-fighting-simulator-reborn"
 }

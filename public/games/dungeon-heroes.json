@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ARCANE-SKILLS",
+   "reward": "Burger and Fries and 3 Refined Health Potions"
+  },
+  {
    "code": "NIGHTMARE-FOREST",
    "reward": "a 30 Minute Key Booster and 3 Burger and Fries"
   },
@@ -95,6 +99,6 @@
    "reward": "5 Distilled Health Potion and Sparkler Aura"
   }
  ],
- "updated": "2026-10-03T16:07:54.242Z",
+ "updated": "2026-10-05T05:01:48.563Z",
  "source": "https://robloxden.com/game-codes/dungeon-heroes"
 }

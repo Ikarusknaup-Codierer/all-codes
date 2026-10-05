@@ -15,6 +15,10 @@
    "reward": "200 Time"
   },
   {
+   "code": "ART",
+   "reward": "200 Time"
+  },
+  {
    "code": "SKIBIDI",
    "reward": "200 Time"
   },
@@ -27,14 +31,10 @@
    "reward": "250 Time"
   },
   {
-   "code": "freetime",
-   "reward": "Time"
-  },
-  {
    "code": "TOILET",
    "reward": "100 Time"
   }
  ],
- "updated": "2026-10-03T16:07:09.298Z",
+ "updated": "2026-10-05T05:01:08.133Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

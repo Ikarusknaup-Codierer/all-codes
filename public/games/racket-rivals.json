@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "IZUMA",
+   "reward": "750 Yen"
+  },
+  {
+   "code": "AFK",
+   "reward": "750 Yen"
+  },
+  {
    "code": "500M",
    "reward": "a 200 Yen , a Spirit Pack , 2 Standard Packs , a Rackets Pack , and a "
   },
@@ -63,6 +71,6 @@
    "reward": "750 Yen"
   }
  ],
- "updated": "2026-10-03T20:51:05.689Z",
+ "updated": "2026-10-05T05:04:31.783Z",
  "source": "https://robloxden.com/game-codes/racket-rivals"
 }

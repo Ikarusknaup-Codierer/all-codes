@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TRIANGLE",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "SNIPER",
+   "reward": "750 Seeds"
+  },
+  {
    "code": "SLAY",
    "reward": "500 Seeds"
   },
@@ -87,6 +95,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-10-03T16:09:35.204Z",
+ "updated": "2026-10-05T05:03:17.312Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

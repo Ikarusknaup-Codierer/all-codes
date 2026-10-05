@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CUPID",
-   "reward": "125 Credits"
-  },
-  {
    "code": "HAWK",
    "reward": "100 Credits"
   },
@@ -19,14 +15,18 @@
    "reward": "100 Credits"
   },
   {
-   "code": "HOUSESKINS",
-   "reward": "300 Credits"
+   "code": "AUTUMN24",
+   "reward": "Leaf Blower Skin"
   },
   {
-   "code": "LABORDAY",
-   "reward": "125 Credits"
+   "code": "200K",
+   "reward": "200 Credits"
+  },
+  {
+   "code": "HOUSESKINS",
+   "reward": "300 Credits"
   }
  ],
- "updated": "2026-10-03T16:08:59.574Z",
+ "updated": "2026-10-05T05:02:47.008Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

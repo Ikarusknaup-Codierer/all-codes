@@ -15,14 +15,18 @@
    "reward": "50,000 Tickets and 10 Angel Tickets"
   },
   {
-   "code": "GROUP100K",
+   "code": "SORRYFORVALENTINE",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SORRYFORDELAY",
    "reward": "Coins , Tickets , and Diamond Tickets"
   },
   {
-   "code": "TICKETUPDATE",
-   "reward": "Coins and Tickets"
+   "code": "SORRYFORBUG1",
+   "reward": "Coins , Tickets , and Diamond Tickets"
   }
  ],
- "updated": "2026-10-03T16:07:35.321Z",
+ "updated": "2026-10-05T05:01:31.691Z",
  "source": "https://robloxden.com/game-codes/my-dice-collector"
 }

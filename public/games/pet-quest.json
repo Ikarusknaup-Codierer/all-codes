@@ -11,22 +11,22 @@
    "reward": "25 of each Tier VI Potions"
   },
   {
-   "code": "update25",
-   "reward": "Boost Potions"
+   "code": "update13",
+   "reward": "Freebies"
   },
   {
-   "code": "luckyegg",
-   "reward": "Boost Potions and 100 Star Cookies"
-  },
-  {
-   "code": "welcome2024",
-   "reward": "Misc. Rewards"
+   "code": "bounty",
+   "reward": "Free Rewards"
   },
   {
    "code": "Update9",
    "reward": "Level VI Boost Potions"
+  },
+  {
+   "code": "luckypots",
+   "reward": "20 Luck II , and 10 Luck IV"
   }
  ],
- "updated": "2026-10-03T16:08:32.252Z",
+ "updated": "2026-10-05T05:02:22.725Z",
  "source": "https://robloxden.com/game-codes/pet-quest"
 }

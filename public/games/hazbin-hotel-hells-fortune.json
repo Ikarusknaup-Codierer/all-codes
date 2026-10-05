@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BFFs",
+   "reward": "10 Power Rolls"
+  },
+  {
+   "code": "Keychain",
+   "reward": "Heart Sticker"
+  },
+  {
+   "code": "ThirdCodeName",
+   "reward": "Luck Potion 10 Minutes"
+  },
+  {
    "code": "OnAir",
    "reward": "10 Power Rolls"
   },
@@ -387,6 +399,6 @@
    "reward": "10x Luck Potion III"
   }
  ],
- "updated": "2026-10-03T11:30:54.376Z",
+ "updated": "2026-10-05T04:56:00.476Z",
  "source": "https://robloxden.com/game-codes/hazbin-hotel-hells-fortune"
 }

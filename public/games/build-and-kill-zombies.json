@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "IAMPRO",
+   "reward": "5K Cash . Requires best distance of 1,500 Studs"
+  },
+  {
    "code": "COMMUNITY",
    "reward": "1,000 Cash , 1 Small Engine , and 1 Small Tank"
   },
@@ -21,10 +25,6 @@
   {
    "code": "ROBLOXCLASSIC",
    "reward": "1,500 Cash"
-  },
-  {
-   "code": "SCIFI",
-   "reward": "1,000 Cash"
   },
   {
    "code": "LASTHACKEREVENT",
@@ -43,6 +43,6 @@
    "reward": "2,500 Hacker Tokens"
   }
  ],
- "updated": "2026-10-03T16:03:26.558Z",
+ "updated": "2026-10-05T04:59:05.968Z",
  "source": "https://robloxden.com/game-codes/build-and-kill-zombies"
 }

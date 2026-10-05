@@ -11,10 +11,6 @@
    "reward": "200 Coins"
   },
   {
-   "code": "l100k",
-   "reward": "200 Licks"
-  },
-  {
    "code": "lt800",
    "reward": "Free Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "impact",
    "reward": "200 Coins"
+  },
+  {
+   "code": "capture",
+   "reward": "200 Coins"
   }
  ],
- "updated": "2026-10-03T21:04:16.369Z",
+ "updated": "2026-10-05T14:16:50.087Z",
  "source": "https://robloxden.com/game-codes/tongue-battles"
 }

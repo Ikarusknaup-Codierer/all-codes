@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MARKET",
+   "reward": "500 Coins"
+  },
+  {
    "code": "WORMFOOD!",
    "reward": "10 Worms"
   },
@@ -35,10 +39,10 @@
    "reward": "300 Coins"
   },
   {
-   "code": "VIPDOUBLOONS",
-   "reward": "1,000 Doubloons"
+   "code": "BoogaBooga!",
+   "reward": "Free Coins"
   }
  ],
- "updated": "2026-10-03T20:59:27.889Z",
+ "updated": "2026-10-05T14:15:53.521Z",
  "source": "https://robloxden.com/game-codes/booga-booga-reborn"
 }

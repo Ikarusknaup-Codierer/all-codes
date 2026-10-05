@@ -11,6 +11,10 @@
    "reward": "1 of Every Potion"
   },
   {
+   "code": "OCTDAY3",
+   "reward": "Reward"
+  },
+  {
    "code": "WELOVEDELAYS",
    "reward": "Free In-Game Rewards"
   },
@@ -19,14 +23,10 @@
    "reward": "500 Gems"
   },
   {
-   "code": "OCTDAY1",
-   "reward": "1 Luck Potion"
-  },
-  {
    "code": "MATERIALS",
    "reward": "1 Gems Potion and 1 XP Potion"
   }
  ],
- "updated": "2026-10-03T20:53:17.620Z",
+ "updated": "2026-10-05T14:10:33.034Z",
  "source": "https://robloxden.com/game-codes/rng-odyssey"
 }

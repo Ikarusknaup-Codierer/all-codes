@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "itstime",
-   "reward": "2,000 Coins"
+   "code": "halloween",
+   "reward": "3,500 Coins"
   },
   {
-   "code": "femalewizard",
+   "code": "SORRY",
+   "reward": "Reward"
+  },
+  {
+   "code": "karma",
+   "reward": "300 Coins"
+  },
+  {
+   "code": "agathaallalong",
    "reward": "250 Coins"
   },
   {
-   "code": "whatmouth",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "incendia",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "newyearnewme",
+   "code": "expression",
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-03T16:09:56.549Z",
+ "updated": "2026-10-05T14:07:56.662Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

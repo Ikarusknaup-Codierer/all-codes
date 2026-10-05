@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "STREAKS",
+   "reward": "1 Limited Time Crate"
+  },
+  {
    "code": "MEDIEVAL",
    "reward": "a 1 Limited Time Crate"
   },
@@ -67,18 +71,6 @@
    "reward": "1 Summer VFX Crate"
   },
   {
-   "code": "BIRTHDAY",
-   "reward": "the Birthday Cake Backbling"
-  },
-  {
-   "code": "RNGEMOTE",
-   "reward": "a Random Emote"
-  },
-  {
-   "code": "DUPING",
-   "reward": "New Years Confetti Green Animation"
-  },
-  {
    "code": "CREWS",
    "reward": "1x Instant Luck 4"
   },
@@ -135,14 +127,18 @@
    "reward": "1 Green Crate . This code requires you to join the Arcade Basketball R"
   },
   {
-   "code": "GETLUCKY",
-   "reward": "1 Emote Crate"
+   "code": "BIRTHDAY",
+   "reward": "the Birthday Cake Backbling"
   },
   {
-   "code": "MORECRATES",
-   "reward": "2 Green Effect Crates"
+   "code": "RNGEMOTE",
+   "reward": "a Random Emote"
+  },
+  {
+   "code": "DUPING",
+   "reward": "New Years Confetti Green Animation"
   }
  ],
- "updated": "2026-10-03T20:53:36.136Z",
+ "updated": "2026-10-05T14:10:49.102Z",
  "source": "https://robloxden.com/game-codes/arcade-basketball"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BOOTCAMP",
-   "reward": "1,250 Gym Tokens"
-  },
-  {
    "code": "500M",
    "reward": "Freebies"
   },
@@ -83,6 +79,10 @@
    "reward": "2 Spins"
   },
   {
+   "code": "BOOTCAMP",
+   "reward": "1,250 Gym Tokens"
+  },
+  {
    "code": "SUMMERHEAT",
    "reward": "1,250 Gym Tokens"
   },
@@ -91,6 +91,6 @@
    "reward": "2x of each Booster"
   }
  ],
- "updated": "2026-10-03T20:53:13.751Z",
+ "updated": "2026-10-05T14:10:29.610Z",
  "source": "https://robloxden.com/game-codes/gym-star-simulator"
 }

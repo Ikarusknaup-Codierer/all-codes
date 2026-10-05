@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "!DOUBLEUP",
+   "reward": "Spins of all types . You need to reach level 40 to use this code"
+  },
+  {
+   "code": "!SPINS200",
+   "reward": "200 Spins of all types . You must be at least level 40 to redeem this "
+  },
+  {
    "code": "!keepthisuntillevel600",
    "reward": "3 Spins of all types"
   },
@@ -37,6 +45,10 @@
   {
    "code": "!lephos601stbirthday",
    "reward": "Corrupted 3 Stars Dragon Ball . You must be in the First Kingdom to us"
+  },
+  {
+   "code": "!backtoback",
+   "reward": "99 Spins of All Types"
   },
   {
    "code": "!changedmainmenu",
@@ -75,6 +87,6 @@
    "reward": "Free Spins. You must be at least level 43 to redeem this code"
   }
  ],
- "updated": "2026-10-03T20:55:43.338Z",
+ "updated": "2026-10-05T14:12:52.971Z",
  "source": "https://robloxden.com/game-codes/clover-retribution"
 }

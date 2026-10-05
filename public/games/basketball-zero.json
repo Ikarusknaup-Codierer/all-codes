@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "CHROLLOBDAY",
+   "reward": "10 Lucky Style Spins, 10 Lucky Zone Spins and 100,000 Money"
+  },
+  {
+   "code": "KIRA",
+   "reward": "5 Lucky Style Spins, 5 Lucky Zone Spins and 100,000 Money"
+  },
+  {
+   "code": "15KIRA",
+   "reward": "7 Lucky Spins and 50,000 Money . To use this code, you must at least h"
+  },
+  {
    "code": "SCARYMONSTER",
    "reward": "10 Lucky Style Spins and 10 Lucky Zone Spins"
   },
@@ -47,6 +59,6 @@
    "reward": "20 Lucky Style Spins and 20 Lucky Zone Spins"
   }
  ],
- "updated": "2026-10-03T20:52:06.482Z",
+ "updated": "2026-10-05T14:09:30.377Z",
  "source": "https://robloxden.com/game-codes/basketball-zero"
 }

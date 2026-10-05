@@ -7,24 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "DAILYTRACKER",
-   "reward": "2 Class Dice , 3 Revives , 1 Daily Chest , and 500 Coins"
-  },
-  {
-   "code": "COMINGSOON",
-   "reward": "2 Class Dice , 3 Revives , a Daily Chest , and 500 Coins"
-  },
-  {
-   "code": "INFERYT",
-   "reward": "1 Class Dice , 3 Revives , 500 Coins , and 2 Dead Sticks"
+   "code": "12369",
+   "reward": "2 Ominous Chests , 26 Coins , and 10 Dead Sticks"
   },
   {
    "code": "DAILYDAILY",
    "reward": "3 Class Dice , 1 Daily Chest , and 400 Coins"
-  },
-  {
-   "code": "BLADE",
-   "reward": "1 Super Ring , 1 Class Dice , and 500 Coins"
   },
   {
    "code": "Merchant",
@@ -71,6 +59,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-03T16:09:26.468Z",
+ "updated": "2026-10-05T14:07:44.155Z",
  "source": "https://robloxden.com/game-codes/pixel-blade"
 }

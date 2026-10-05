@@ -7,12 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "FRESHSTART",
-   "reward": "1.25x Cash (20 Minutes)"
+   "code": "DIVINE",
+   "reward": "1 of Each Potion and 1.25x Muscle Gain (20 Minutes)"
   },
   {
-   "code": "christmasgains",
-   "reward": "10 Candy Canes, 10 Gingerbread, And 10 Protein Ham"
+   "code": "WORLD10",
+   "reward": "3 of Each Potion and 1.25x Muscle Gain (20 Minutes)"
+  },
+  {
+   "code": "ASCENSION",
+   "reward": "2 Aura Rerolls and 2 Mega Potions"
+  },
+  {
+   "code": "FRESHSTART",
+   "reward": "1.25x Cash (20 Minutes)"
   },
   {
    "code": "frozen",
@@ -187,6 +195,6 @@
    "reward": "3 Small Speed Potions"
   }
  ],
- "updated": "2026-10-03T20:52:31.455Z",
+ "updated": "2026-10-05T14:09:51.681Z",
  "source": "https://robloxden.com/game-codes/gym-league"
 }

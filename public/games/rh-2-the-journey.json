@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "freeRHC_9",
+   "reward": "5,000 RHC"
+  },
+  {
+   "code": "freeRT_9",
+   "reward": "a Reset Token"
+  },
+  {
    "code": "welcometoseason5_RHC",
    "reward": "10,000 RHC"
   },
@@ -29,10 +37,6 @@
   {
    "code": "twitterCode_rhc3",
    "reward": "RHC"
-  },
-  {
-   "code": "twitterCode_reset3",
-   "reward": "Reset Tokens"
   },
   {
    "code": "twitterCode7K",
@@ -171,6 +175,6 @@
    "reward": "4,000 RHC"
   }
  ],
- "updated": "2026-10-03T20:58:56.923Z",
+ "updated": "2026-10-05T14:15:36.707Z",
  "source": "https://robloxden.com/game-codes/rh-2-the-journey"
 }

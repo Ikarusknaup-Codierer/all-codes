@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PIXELATED",
-   "reward": "50,000 Gems"
-  },
-  {
    "code": "WELCOMEBP",
    "reward": "30,000 Gems"
   },
@@ -19,16 +15,16 @@
    "reward": "Free Rewards . To use this code, you must have Multi Unboxing Pass"
   },
   {
+   "code": "PIXELATED",
+   "reward": "50,000 Gems"
+  },
+  {
    "code": "IMPROVEMENTS",
    "reward": "50,000 Gems"
   },
   {
    "code": "INPROGRESS",
    "reward": "30,000 Gems"
-  },
-  {
-   "code": "PIXEL",
-   "reward": "50K Crystals"
   },
   {
    "code": "SOON",
@@ -71,6 +67,6 @@
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-10-03T20:57:48.052Z",
+ "updated": "2026-10-05T14:14:39.317Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

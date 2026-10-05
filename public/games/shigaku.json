@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WEREBACK",
+   "reward": "150 Rerolls"
+  },
+  {
    "code": "LOCKERSFIXED",
    "reward": "a Reroll"
   },
@@ -19,6 +23,6 @@
    "reward": "25 Rerolls"
   }
  ],
- "updated": "2026-10-03T20:58:44.195Z",
+ "updated": "2026-10-05T14:15:27.185Z",
  "source": "https://robloxden.com/game-codes/shigaku"
 }

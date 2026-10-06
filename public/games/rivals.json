@@ -35,15 +35,15 @@
    "reward": "1 Key"
   },
   {
+   "code": "FREE200",
+   "reward": "3x Keys"
+  },
+  {
    "code": "FREE199",
    "reward": "3 Keys"
   },
   {
    "code": "FREE198",
-   "reward": "3 Keys"
-  },
-  {
-   "code": "FREE196",
    "reward": "3 Keys"
   },
   {
@@ -83,6 +83,6 @@
    "reward": "3 Keys"
   }
  ],
- "updated": "2026-10-04T21:08:15.094Z",
+ "updated": "2026-10-06T13:08:19.324Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

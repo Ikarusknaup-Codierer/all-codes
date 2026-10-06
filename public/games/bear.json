@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LUCKYME",
+   "reward": "Bear Skin"
+  },
+  {
    "code": "EATING",
    "reward": "Bear Skin"
   },
@@ -21,12 +25,8 @@
   {
    "code": "TRILOGY3",
    "reward": "20 Gems"
-  },
-  {
-   "code": "PATRICK",
-   "reward": "1 St. Patrick's Day Skin"
   }
  ],
- "updated": "2026-10-05T04:59:08.657Z",
+ "updated": "2026-10-06T13:19:48.261Z",
  "source": "https://robloxden.com/game-codes/bear"
 }

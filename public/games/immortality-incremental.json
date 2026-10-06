@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HEAVENHASFALLEN",
+   "reward": "1 Weather Potion and 10 Jade"
+  },
+  {
+   "code": "ETERNALRESEARCH",
+   "reward": "1 of each Potion , 1 2x Coins Potion , and 1 Ore Potion"
+  },
+  {
    "code": "DUNGEON4",
    "reward": "15 Jades and 1 Potion of Everything"
   },
@@ -317,8 +325,12 @@
   {
    "code": "HYPE",
    "reward": "5 Tickets"
+  },
+  {
+   "code": "SORRYFORMISTAKE",
+   "reward": ""
   }
  ],
- "updated": "2026-10-04T21:06:09.465Z",
+ "updated": "2026-10-06T13:06:21.850Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

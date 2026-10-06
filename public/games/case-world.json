@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Release",
-   "reward": "100 Cash"
-  },
-  {
    "code": "mango",
    "reward": "5,000 Money . You need to be level 30 to redeem this code"
   },
@@ -129,8 +125,12 @@
   {
    "code": "t3n",
    "reward": "250 Cash . You must be level 10 to redeem this code"
+  },
+  {
+   "code": "Release",
+   "reward": "100 Cash"
   }
  ],
- "updated": "2026-10-05T04:59:04.358Z",
+ "updated": "2026-10-06T13:19:43.278Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

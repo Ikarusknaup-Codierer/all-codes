@@ -43,10 +43,6 @@
    "reward": "a Reimu Plush"
   },
   {
-   "code": "Nightfall",
-   "reward": "a Nightfall Blade"
-  },
-  {
    "code": "YST",
    "reward": "the Silver Solar Eclipse Crown"
   },
@@ -187,6 +183,10 @@
    "reward": "the Chrome Y2K Wing Shades"
   },
   {
+   "code": "Nightfall",
+   "reward": "a Nightfall Blade"
+  },
+  {
    "code": "HPPC9",
    "reward": "the Hot Pink Pixel Crown"
   },
@@ -195,6 +195,6 @@
    "reward": "the Purple Smoke Spirit"
   }
  ],
- "updated": "2026-10-04T21:14:14.857Z",
+ "updated": "2026-10-06T13:13:08.812Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

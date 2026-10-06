@@ -27,10 +27,6 @@
    "reward": "1 Hour of x2 Cash , 1 Hour of x2 XP , and 50 Dungeons of x2 Ingredient"
   },
   {
-   "code": "Update18",
-   "reward": "Freebies"
-  },
-  {
    "code": "NewArea",
    "reward": "Freebies"
   },
@@ -57,8 +53,12 @@
   {
    "code": "ThanksFor5Mil",
    "reward": "1 Hour of x2 Cash , 1 Hour of x2 XP , and 50 Dungeons of x2 Ingredient"
+  },
+  {
+   "code": "Update18",
+   "reward": "Freebies"
   }
  ],
- "updated": "2026-10-04T21:07:47.537Z",
+ "updated": "2026-10-06T13:07:51.648Z",
  "source": "https://robloxden.com/game-codes/life-incremental"
 }

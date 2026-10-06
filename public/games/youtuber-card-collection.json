@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWCHEST",
+   "reward": "2 Relic Chest"
+  },
+  {
    "code": "30M",
    "reward": "1 Level up Potion , 2 Large XP Potions , 3 Medium XP Potions and 4 Sma"
   },
@@ -91,6 +95,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-10-04T21:09:23.243Z",
+ "updated": "2026-10-06T13:09:25.987Z",
  "source": "https://robloxden.com/game-codes/youtuber-card-collection"
 }

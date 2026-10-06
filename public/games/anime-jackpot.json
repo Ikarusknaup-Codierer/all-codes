@@ -1,20 +1,32 @@
 {
  "slug": "anime-jackpot",
- "name": "Anime Jackpot",
+ "name": "My Anime Arcade",
  "codes": [
   {
    "code": "Code",
    "reward": "Description"
   },
   {
+   "code": "HUNTER",
+   "reward": "12,000 Stars"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "Luck Potion III"
+  },
+  {
+   "code": "WEDDDING",
+   "reward": "3 Weather Potions"
+  },
+  {
    "code": "MAIDPART2",
    "reward": "A Summon Potion II"
   },
   {
-   "code": "DOUBLETROUBLE",
-   "reward": "1 Luck Potion II"
+   "code": "UNLEASHED",
+   "reward": "3 Sealed Dice"
   }
  ],
- "updated": "2026-10-04T21:16:30.226Z",
+ "updated": "2026-10-06T13:14:58.203Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

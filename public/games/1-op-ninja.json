@@ -39,14 +39,22 @@
    "reward": "x5 Soul Force (1 hour)"
   },
   {
+   "code": "4KMEMBERS",
+   "reward": "10x Soul Force (15 Minutes), x10 Max Health (15 Minutes), x10 Ninjutsu"
+  },
+  {
    "code": "FLAME",
    "reward": "10 Ninjutsu (15 Minutes)"
+  },
+  {
+   "code": "CYSTAL",
+   "reward": "10 Soul Force (15 Minutes)"
   },
   {
    "code": "3hrs",
    "reward": "x2 Damage (1h) , 2x Max Health (1h) , x5 Damage (15m) , and x5 Max Hea"
   }
  ],
- "updated": "2026-10-04T21:11:53.120Z",
+ "updated": "2026-10-06T13:10:47.966Z",
  "source": "https://robloxden.com/game-codes/1-op-ninja"
 }

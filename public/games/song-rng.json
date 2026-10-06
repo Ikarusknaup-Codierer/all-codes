@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWPOWERUPS",
+   "reward": "5 Collection Slots and 60 Minutes of Genre Lock"
+  },
+  {
    "code": "EVENTWEEKEND",
    "reward": "3 Golden Artist Packs"
   },
@@ -31,6 +35,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-05T04:59:17.524Z",
+ "updated": "2026-10-06T13:19:59.996Z",
  "source": "https://robloxden.com/game-codes/song-rng"
 }

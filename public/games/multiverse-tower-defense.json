@@ -11,10 +11,6 @@
    "reward": "1 Fragment"
   },
   {
-   "code": "RANDOMIZER",
-   "reward": "1 Fragment"
-  },
-  {
    "code": "MULTIVERSE",
    "reward": "1 Multiverse Crate"
   },
@@ -29,6 +25,10 @@
   {
    "code": "RELEASE",
    "reward": "a Shiny Kuzya"
+  },
+  {
+   "code": "RANDOMIZER",
+   "reward": "1 Fragment"
   },
   {
    "code": "HEROBRINE",
@@ -63,6 +63,6 @@
    "reward": "a The Boys Crate"
   }
  ],
- "updated": "2026-10-04T21:06:54.222Z",
+ "updated": "2026-10-06T13:07:00.248Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

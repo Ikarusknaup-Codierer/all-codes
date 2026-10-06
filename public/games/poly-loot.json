@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ENCHANTMENTS",
+   "reward": "1 Health I Enchant"
+  },
+  {
    "code": "LOOTDANCE",
    "reward": "the Loot Dance Emote"
   },
@@ -19,6 +23,6 @@
    "reward": "5 Weapon Tier Scrolls , 5 Armor Tier Scrolls , and 5 Mount Tier Scroll"
   }
  ],
- "updated": "2026-10-04T21:20:14.957Z",
+ "updated": "2026-10-06T13:15:37.652Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

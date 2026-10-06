@@ -31,10 +31,6 @@
    "reward": "10 Trait Rerolls"
   },
   {
-   "code": "TIDESEASON",
-   "reward": "10 Trait Rerolls"
-  },
-  {
    "code": "SUMMERHYPE",
    "reward": "5 Summon Tickets"
   },
@@ -45,10 +41,6 @@
   {
    "code": "PACTBREAKER",
    "reward": "5 Rare Fusion Crystals"
-  },
-  {
-   "code": "DIVINEORSERAPH",
-   "reward": "10 Trait Rerolls"
   },
   {
    "code": "HURRYUP",
@@ -87,10 +79,14 @@
    "reward": "800 Gems and 5 Fusion Crystals"
   },
   {
-   "code": "RUNEHYPE",
+   "code": "TIDESEASON",
+   "reward": "10 Trait Rerolls"
+  },
+  {
+   "code": "DIVINEORSERAPH",
    "reward": "10 Trait Rerolls"
   }
  ],
- "updated": "2026-10-04T21:12:04.043Z",
+ "updated": "2026-10-06T13:10:58.790Z",
  "source": "https://robloxden.com/game-codes/summon-heroes"
 }

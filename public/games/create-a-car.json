@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "MERGER",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "INDEX",
    "reward": "1 Lava Garage Crate and 1 Golden Mechanic Crate"
-  },
-  {
-   "code": "DEALER",
-   "reward": "50,000 Cash"
   },
   {
    "code": "CONVEYOR",
@@ -37,8 +29,16 @@
   {
    "code": "NEWMERGER",
    "reward": "50,000 Cash"
+  },
+  {
+   "code": "MERGER",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "DEALER",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-10-04T21:08:56.398Z",
+ "updated": "2026-10-06T13:08:59.475Z",
  "source": "https://robloxden.com/game-codes/create-a-car"
 }

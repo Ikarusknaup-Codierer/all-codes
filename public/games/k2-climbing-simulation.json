@@ -11,10 +11,6 @@
    "reward": "100 Points"
   },
   {
-   "code": "BETA",
-   "reward": "50 Points"
-  },
-  {
    "code": "40KMEMBERS",
    "reward": "50 Points"
   },
@@ -23,10 +19,14 @@
    "reward": "250 Points"
   },
   {
+   "code": "BETA",
+   "reward": "50 Points"
+  },
+  {
    "code": "500K",
    "reward": "50 Points"
   }
  ],
- "updated": "2026-10-04T12:13:03.503Z",
+ "updated": "2026-10-06T13:05:51.395Z",
  "source": "https://robloxden.com/game-codes/k2-climbing-simulation"
 }

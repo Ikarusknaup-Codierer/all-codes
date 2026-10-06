@@ -11,8 +11,16 @@
    "reward": "1,000 cash"
   },
   {
+   "code": "CASHG",
+   "reward": "300 Cash"
+  },
+  {
    "code": "LOVELASH",
    "reward": "Lovelash Pistol"
+  },
+  {
+   "code": "wpass",
+   "reward": "Gamepass Card . You need to reach Level 5 to use this code"
   },
   {
    "code": "abuse",
@@ -87,10 +95,6 @@
    "reward": "300 Cash"
   },
   {
-   "code": "OKNA",
-   "reward": "100 Cash"
-  },
-  {
    "code": "Freegamepass",
    "reward": "Free Gun . You must reach Level 8 to use this code"
   },
@@ -139,6 +143,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-10-04T21:16:09.786Z",
+ "updated": "2026-10-06T13:14:46.094Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

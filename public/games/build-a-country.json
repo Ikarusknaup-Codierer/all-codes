@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "3KLIKES",
+   "reward": "$1M and 3 Mobile Camps"
+  },
+  {
+   "code": "TALLHOUSE",
+   "reward": "1 Large Penthouse"
+  },
+  {
+   "code": "BOOM",
+   "reward": "1 Tank Depot"
+  },
+  {
    "code": "5MVISITS",
    "reward": "$5M and an Exclusive Limited Time 5M Sign"
   },
@@ -19,22 +31,10 @@
    "reward": "3 Worker Potions , 3 Strength Potions , and 1 Stock Potion"
   },
   {
-   "code": "3KLIKES",
-   "reward": "$1M and 3 Mobile Camps"
-  },
-  {
    "code": "3MVISITS",
    "reward": "$3M and a 3M Statue"
-  },
-  {
-   "code": "TALLHOUSE",
-   "reward": "1 Large Penthouse"
-  },
-  {
-   "code": "BOOM",
-   "reward": "1 Tank Depot"
   }
  ],
- "updated": "2026-10-04T21:15:27.360Z",
+ "updated": "2026-10-06T13:14:16.457Z",
  "source": "https://robloxden.com/game-codes/build-a-country"
 }

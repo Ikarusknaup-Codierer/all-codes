@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BRAINROTHELL",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "ANUBIS",
    "reward": "2 EXP Potions"
   },
@@ -391,10 +395,10 @@
    "reward": "3 Void Tickets"
   },
   {
-   "code": "VOIDEVENT",
-   "reward": "1 Void Ticket"
+   "code": "FIXBUG891",
+   "reward": "3 EXP Potions"
   }
  ],
- "updated": "2026-10-04T21:13:50.976Z",
+ "updated": "2026-10-06T13:12:45.119Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

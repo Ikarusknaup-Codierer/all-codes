@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATEPUNCH",
+   "reward": "1,000 Crystals and 1 Blessed Roll"
+  },
+  {
+   "code": "HEROASSOCIATION",
+   "reward": "Free Rewards . You need 10,000 Rolls to use this code"
+  },
+  {
+   "code": "MEDALS",
+   "reward": "Free Rewards . You need 25,000 Rolls to use this code"
+  },
+  {
+   "code": "WORLDRELICS",
+   "reward": "Free Rewards . You need 50,000 Rolls to use this code"
+  },
+  {
+   "code": "WORLDTOWER",
+   "reward": "Free Rewards . You need 100,000 Rolls to use this code"
+  },
+  {
    "code": "BANSHOMAN",
    "reward": "Rewards . You need 50,000 Rolls to use this code"
   },
@@ -183,6 +203,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-10-04T21:16:28.547Z",
+ "updated": "2026-10-06T13:14:57.551Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

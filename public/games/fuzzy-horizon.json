@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "M0USEF1X",
-   "reward": "200 Alien Credits"
-  },
-  {
    "code": "2500LIKES",
    "reward": "500 Coins and 1 Free Revive"
-  },
-  {
-   "code": "BRAINZZZZ",
-   "reward": "100 Alien Credits and 1 Free Revive"
   },
   {
    "code": "ONEMILLION",
@@ -63,10 +55,14 @@
    "reward": "350 Coins"
   },
   {
-   "code": "HAPPYBDAYCAM",
-   "reward": "the Golden Hour Reina Skin"
+   "code": "M0USEF1X",
+   "reward": "200 Alien Credits"
+  },
+  {
+   "code": "BRAINZZZZ",
+   "reward": "100 Alien Credits and 1 Free Revive"
   }
  ],
- "updated": "2026-10-04T21:15:04.378Z",
+ "updated": "2026-10-06T13:13:54.967Z",
  "source": "https://robloxden.com/game-codes/fuzzy-horizon"
 }

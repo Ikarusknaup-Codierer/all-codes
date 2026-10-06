@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MINING!",
+   "reward": "150,000 Yen , 200 Grimoire Spins , and 50 Race Spins"
+  },
+  {
+   "code": "SYSTEMREWORK!",
+   "reward": "100 Trait Rerolls , 50 Broom Spins , and 10 Stat Resets"
+  },
+  {
    "code": "GAMERELEASE!",
    "reward": "150,000 Yen and 150 Grimoire Spins"
   },
@@ -111,6 +119,6 @@
    "reward": "10,000 Yens , 3 Stat Resets , 10 Grimoire Spins , 10 Broom Spins , 10 "
   }
  ],
- "updated": "2026-10-04T21:07:51.912Z",
+ "updated": "2026-10-06T13:07:56.056Z",
  "source": "https://robloxden.com/game-codes/clover-origins"
 }

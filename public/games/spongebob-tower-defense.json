@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BEGINNINGS2",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "GetGudKid",
-   "reward": "Free Rewards . You must be at least level 10 to claim codes"
-  },
-  {
    "code": "CHALLENGEWON",
    "reward": "Free Rewards . You must be at least level 10 to claim codes"
   },
@@ -53,8 +45,16 @@
   {
    "code": "CHANGEISCOMING",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "BEGINNINGS2",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "GetGudKid",
+   "reward": "Free Rewards . You must be at least level 10 to claim codes"
   }
  ],
- "updated": "2026-10-04T21:12:35.524Z",
+ "updated": "2026-10-06T13:11:30.348Z",
  "source": "https://robloxden.com/game-codes/spongebob-tower-defense"
 }

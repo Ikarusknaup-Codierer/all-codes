@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "TORUS",
+   "reward": "5 Exotic Ingots and 10 Reforge Stones"
+  },
+  {
+   "code": "MOONWITCH",
+   "reward": "30 Normal Spins and 10 Lucky Spins"
+  },
+  {
+   "code": "NECROMANCER",
+   "reward": "30 Normal Spins and 10 Lucky Spins"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "300 Payload Currency , 10 Reforge Stones , and 2 Aspect Gems"
+  },
+  {
+   "code": "PAYLOAD",
+   "reward": "250 Payload Currency and 5 Reforge Stones"
+  },
+  {
    "code": "20MVISIT",
    "reward": "3 Luck Potion 3 and 50,000 Coins"
   },
@@ -71,6 +91,6 @@
    "reward": "2 Random GM Blessing chests"
   }
  ],
- "updated": "2026-10-04T21:14:20.004Z",
+ "updated": "2026-10-06T13:13:13.899Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

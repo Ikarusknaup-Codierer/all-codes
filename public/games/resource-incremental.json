@@ -113,8 +113,16 @@
   {
    "code": "Release",
    "reward": "+1 All Potions"
+  },
+  {
+   "code": "1000ccu",
+   "reward": "75 Tickets"
+  },
+  {
+   "code": "600ccu",
+   "reward": "3 All Potions and 25 Tickets"
   }
  ],
- "updated": "2026-10-04T21:07:00.266Z",
+ "updated": "2026-10-06T13:07:06.782Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

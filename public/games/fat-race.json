@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "6M",
+   "code": "ST34M",
    "reward": "Hatch Only Toxic Food Potion"
   },
   {
-   "code": "ONSIDEKILLER",
-   "reward": "Hatch Only Toxic Food Potion"
-  },
-  {
-   "code": "3M",
-   "reward": "2x Luck Potion"
+   "code": "TRADESOON",
+   "reward": "2x Wins Potion"
   },
   {
    "code": "N1GHT",
    "reward": "2x Wins Potion"
+  },
+  {
+   "code": "LuckyDay",
+   "reward": "15-Minute 2x Luck Potion"
   }
  ],
- "updated": "2026-10-05T05:02:59.800Z",
+ "updated": "2026-10-06T22:40:14.312Z",
  "source": "https://robloxden.com/game-codes/fat-race"
 }

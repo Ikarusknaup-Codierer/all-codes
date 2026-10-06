@@ -47,20 +47,8 @@
    "reward": "5 Luck Potions and 10 Carrots"
   },
   {
-   "code": "royalcup",
-   "reward": "1 Royal Potion"
-  },
-  {
-   "code": "happycup",
-   "reward": "5 Cocktail Potions"
-  },
-  {
    "code": "ancientgift",
    "reward": "10 Timeless Eggs"
-  },
-  {
-   "code": "clockgift",
-   "reward": "5 Timeless Eggs"
   },
   {
    "code": "voidpair",
@@ -131,8 +119,20 @@
    "reward": "1 Cocktail"
   },
   {
+   "code": "royalcup",
+   "reward": "1 Royal Potion"
+  },
+  {
+   "code": "happycup",
+   "reward": "5 Cocktail Potions"
+  },
+  {
    "code": "spacegift",
    "reward": "2 Void Eggs and 5 Timeless Eggs"
+  },
+  {
+   "code": "clockgift",
+   "reward": "5 Timeless Eggs"
   },
   {
    "code": "timebag",
@@ -179,6 +179,6 @@
    "reward": "5 Power Potions and 10 Apple Fruits"
   }
  ],
- "updated": "2026-10-05T04:55:35.298Z",
+ "updated": "2026-10-06T22:33:37.514Z",
  "source": "https://robloxden.com/game-codes/launch-a-wheel"
 }

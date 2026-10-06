@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYGUYS",
+   "reward": "2 Cash Boost 3 (5 Minutes), 2 Loot Boost 3 (5 Minutes), 2 Coin Boost 3"
+  },
+  {
    "code": "RAIDTIME",
    "reward": "Free Rewards"
   },
@@ -21,10 +25,6 @@
   {
    "code": "NEW",
    "reward": "1 Frog Egg and 2x Money Boost (30 Minutes)"
-  },
-  {
-   "code": "2KCCU",
-   "reward": "a Demon Chest and 2,000,000 Cash"
   },
   {
    "code": "UPDATE",
@@ -51,10 +51,6 @@
    "reward": "2x Money Boost (30 Minutes)"
   },
   {
-   "code": "SWORD",
-   "reward": "a Valor Sword"
-  },
-  {
    "code": "MONEY",
    "reward": "50,000 Cash"
   },
@@ -71,10 +67,18 @@
    "reward": "a Pickle Sword"
   },
   {
+   "code": "2KCCU",
+   "reward": "a Demon Chest and 2,000,000 Cash"
+  },
+  {
    "code": "1KCCU",
    "reward": "a Demon Chest and 2,000,000 Cash"
+  },
+  {
+   "code": "SWORD",
+   "reward": "a Valor Sword"
   }
  ],
- "updated": "2026-10-04T21:16:10.472Z",
+ "updated": "2026-10-06T22:32:31.817Z",
  "source": "https://robloxden.com/game-codes/sword-hunter"
 }

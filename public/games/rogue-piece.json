@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "Noob",
+   "reward": "10,000,000 Gold , 5,000,000 Gems , and 100 Reroll Shards"
+  },
+  {
+   "code": "FreshStart",
+   "reward": "100,000 Money , 25,000 Gems , 1 Beginner Box , 1 Mid Game Box , and 3 "
+  },
+  {
+   "code": "BwaaTeam",
+   "reward": "Gems and Cash"
+  },
+  {
+   "code": "NonchalantReaper",
+   "reward": "5 Luck Potions , 5 Gem Potions , and 2 All Other Potions"
+  },
+  {
+   "code": "FinalGetsuga",
+   "reward": "20 Lucky Boxes , 15,000,000 Gems , 100 Blessing Stones , 2,500 Reroll "
+  },
+  {
+   "code": "DangaiIchigoat",
+   "reward": "50,000,000 Coins , 1,000,000 Fragments of Rogue , 50 Mystery Crates , "
+  },
+  {
    "code": "Chocolate!!!",
    "reward": "5x Luck Potions , 5x Gems Potions , 2x Exp Potions , 2x Money Potion ,"
   },
@@ -71,18 +95,6 @@
    "reward": "20 Rogue’s Blessings , 25 Lucky Boxes , 200 Mythic Chests , 200 Legend"
   },
   {
-   "code": "Noob",
-   "reward": "10,000,000 Gold , 5,000,000 Gems , and 100 Reroll Shards"
-  },
-  {
-   "code": "FreshStart",
-   "reward": "100,000 Money , 25,000 Gems , 1 Beginner Box , 1 Mid Game Box , and 3 "
-  },
-  {
-   "code": "BwaaTeam",
-   "reward": "Gems and Cash"
-  },
-  {
    "code": "Beerus",
    "reward": "25 Rogue's Blessings , 250 Clan Rerolls , 20 Lucky Boxes , 150 Mythica"
   },
@@ -139,6 +151,6 @@
    "reward": "Shards , Chest , and Rogue Fragments . You must be level 11,500 to cla"
   }
  ],
- "updated": "2026-10-05T04:58:05.080Z",
+ "updated": "2026-10-06T22:36:09.149Z",
  "source": "https://robloxden.com/game-codes/rogue-piece"
 }

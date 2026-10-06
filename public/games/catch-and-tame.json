@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TOYISLAND",
+   "reward": "10 Toy Cookies"
+  },
+  {
    "code": "WEATHERMACHINE",
    "reward": "6 Minigame Tickets"
   },
@@ -59,6 +63,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-10-05T04:56:35.357Z",
+ "updated": "2026-10-06T22:34:38.947Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

@@ -15,10 +15,6 @@
    "reward": "1 Stat Potion"
   },
   {
-   "code": "update4",
-   "reward": "1 Stats Potion"
-  },
-  {
    "code": "4klikes",
    "reward": "1 Rune Bulk Potion"
   },
@@ -55,7 +51,7 @@
    "reward": "1 Rune Luck Potion"
   },
   {
-   "code": "update3",
+   "code": "update4",
    "reward": "1 Stats Potion"
   },
   {
@@ -63,6 +59,6 @@
    "reward": "1 Stats Potion"
   }
  ],
- "updated": "2026-10-05T04:59:59.982Z",
+ "updated": "2026-10-06T22:37:14.740Z",
  "source": "https://robloxden.com/game-codes/tap-incremental"
 }

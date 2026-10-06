@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LetsFarmKitsune!",
-   "reward": "x2 Wisps (120 mins)"
-  },
-  {
    "code": "95per100LikesLetsGo",
    "reward": "1 Artifact Crate Roll with x8 Luck"
   },
@@ -27,6 +23,10 @@
    "reward": "1 Revive"
   },
   {
+   "code": "LetsFarmKitsune!",
+   "reward": "x2 Wisps (120 mins)"
+  },
+  {
    "code": "Up5ndc0ming",
    "reward": "1 Artifact Crate Roll"
   },
@@ -35,6 +35,6 @@
    "reward": "1 Artifact Crate Roll with x2 Luck"
   }
  ],
- "updated": "2026-10-05T04:55:36.345Z",
+ "updated": "2026-10-06T22:33:38.489Z",
  "source": "https://robloxden.com/game-codes/fruit-zombie-survival"
 }

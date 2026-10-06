@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Clans",
-   "reward": "15 Shards"
-  },
-  {
    "code": "Banana",
    "reward": "1,500 Coins"
+  },
+  {
+   "code": "Clans",
+   "reward": "15 Shards"
   },
   {
    "code": "Delay",
@@ -23,6 +23,6 @@
    "reward": "10 Shards"
   }
  ],
- "updated": "2026-10-04T21:20:43.308Z",
+ "updated": "2026-10-06T22:33:10.340Z",
  "source": "https://robloxden.com/game-codes/into-the-backrooms-td"
 }

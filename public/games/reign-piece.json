@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "KIRIN",
+   "reward": "Freebies . You need to be at least Level 4,000 to redeem this code"
+  },
+  {
    "code": "MAGICMANACRYSTALS",
    "reward": "Freebies . You need to reach Level 7,500 to use this code"
   },
@@ -25,10 +29,6 @@
   {
    "code": "SINBADTHEGOAT",
    "reward": "Freebies . You must be at least level 5,000 to use this code"
-  },
-  {
-   "code": "HANTENGU",
-   "reward": "Freebies . You must reach Level 7000 to use this code"
   },
   {
    "code": "CODESFOREVERYONE",
@@ -65,6 +65,10 @@
   {
    "code": "THANKSFOR200K",
    "reward": "Freebies . You must be at least level 5,000 to use this code"
+  },
+  {
+   "code": "HANTENGU",
+   "reward": "Freebies . You must reach Level 7000 to use this code"
   },
   {
    "code": "FORGEEMBER",
@@ -109,10 +113,6 @@
   {
    "code": "DEKUVIGILANTE",
    "reward": "Freebies . You need to be at least level 4,500 to redeem this code"
-  },
-  {
-   "code": "LIMITEDCODE",
-   "reward": "Freebies . You need to be at least level 1,000 to redeem this code"
   },
   {
    "code": "ANTIMAGIC",
@@ -235,14 +235,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "HUGEUPDATEJJK",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "KINGSLC",
    "reward": "1 Mythical Chest and 10 Race Tokens"
   }
  ],
- "updated": "2026-10-05T05:01:22.508Z",
+ "updated": "2026-10-06T22:38:37.628Z",
  "source": "https://robloxden.com/game-codes/reign-piece"
 }

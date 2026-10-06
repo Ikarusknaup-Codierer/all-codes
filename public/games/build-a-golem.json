@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LUCK",
+   "reward": "2x Luck Potion"
+  },
+  {
    "code": "ADMINABUSE",
    "reward": "3 Gold Crates , 1 15-minute Time Skip , and 1 Double Luck Potion"
   },
@@ -23,6 +27,6 @@
    "reward": "a Timeskip (15 Minutes)"
   }
  ],
- "updated": "2026-10-05T04:59:33.778Z",
+ "updated": "2026-10-06T22:36:49.159Z",
  "source": "https://robloxden.com/game-codes/build-a-golem"
 }

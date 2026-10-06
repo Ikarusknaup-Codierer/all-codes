@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "WINDUPDATE",
+   "reward": "7 Lucky Spins and 50,000 Yen"
+  },
+  {
+   "code": "WINDISNEXTWEEK",
+   "reward": "5 Lucky Spins and 50,000 Yen"
+  },
+  {
+   "code": "QOL1",
+   "reward": "3 Free Wheel Spins"
+  },
+  {
+   "code": "QOL2",
+   "reward": "10 Lucky Spins and 100k"
+  },
+  {
    "code": "RDC2026",
    "reward": "3 Free Wheel Spins"
   },
@@ -31,6 +47,6 @@
    "reward": "100K Yen"
   }
  ],
- "updated": "2026-10-05T05:01:39.109Z",
+ "updated": "2026-10-06T22:38:55.000Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

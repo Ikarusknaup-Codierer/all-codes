@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NEWUPDATE2",
+   "reward": "1,500 Carats"
+  },
+  {
+   "code": "IWAK2",
+   "reward": "Exclusive Iwak Uma"
+  },
+  {
    "code": "300KVISITS",
    "reward": "the Curren Chan Uma"
   },
@@ -19,6 +27,14 @@
    "reward": "1,000 Carats"
   },
   {
+   "code": "HAPPYHALLOWEENKAU",
+   "reward": "the Mayano Top Gun [Halloween]"
+  },
+  {
+   "code": "EVERYONELOVESHARU",
+   "reward": "the Haru Urara [New Years]"
+  },
+  {
    "code": "FREECURREN",
    "reward": "the Curren Chan [Wedding]"
   },
@@ -27,6 +43,6 @@
    "reward": "the IWAK"
   }
  ],
- "updated": "2026-10-05T05:00:29.721Z",
+ "updated": "2026-10-06T22:37:44.597Z",
  "source": "https://robloxden.com/game-codes/kick-an-uma"
 }

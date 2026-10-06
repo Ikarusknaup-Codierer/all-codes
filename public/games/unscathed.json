@@ -11,10 +11,6 @@
    "reward": "1 Ascension Potion and 50 Lucky Potions"
   },
   {
-   "code": "SORRY",
-   "reward": "5,000 Cash and an Ascension Potion"
-  },
-  {
    "code": "TOWER",
    "reward": "3 Divine Potions and 50 Lucky Potions"
   },
@@ -37,8 +33,12 @@
   {
    "code": "RELEASE",
    "reward": "10 Lucky Potions , 10 Speed Potions , and 1,000 Cash"
+  },
+  {
+   "code": "SORRY",
+   "reward": "5,000 Cash and an Ascension Potion"
   }
  ],
- "updated": "2026-10-05T05:02:38.128Z",
+ "updated": "2026-10-06T22:39:53.970Z",
  "source": "https://robloxden.com/game-codes/unscathed"
 }

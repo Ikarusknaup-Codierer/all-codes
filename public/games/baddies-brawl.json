@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "pirate",
-   "reward": "150 Coins"
-  },
-  {
    "code": "hello",
    "reward": "200 Stars"
   },
@@ -177,8 +173,12 @@
   {
    "code": "2v2",
    "reward": "500 Style Tokens"
+  },
+  {
+   "code": "pirate",
+   "reward": "150 Coins"
   }
  ],
- "updated": "2026-10-04T05:13:54.947Z",
+ "updated": "2026-10-05T23:58:49.971Z",
  "source": "https://robloxden.com/game-codes/baddies-brawl"
 }

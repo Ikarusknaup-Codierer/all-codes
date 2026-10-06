@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ufo",
+   "reward": "Speed"
+  },
+  {
    "code": "Candy",
    "reward": "100,000 Cash and 20K Speed"
   },
@@ -27,6 +31,6 @@
    "reward": "75,000 Cash"
   }
  ],
- "updated": "2026-10-04T05:15:56.605Z",
+ "updated": "2026-10-06T00:01:08.467Z",
  "source": "https://robloxden.com/game-codes/steal-a-chicken"
 }

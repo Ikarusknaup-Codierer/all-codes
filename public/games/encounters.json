@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "350KLIKES",
-   "reward": "500 Crystals"
-  },
-  {
    "code": "BABIOYUNDA",
    "reward": "100 Crystals"
   },
@@ -21,8 +17,12 @@
   {
    "code": "WILCO",
    "reward": "100 Crystals"
+  },
+  {
+   "code": "350KLIKES",
+   "reward": "500 Crystals"
   }
  ],
- "updated": "2026-10-04T05:20:06.871Z",
+ "updated": "2026-10-06T00:04:14.338Z",
  "source": "https://robloxden.com/game-codes/encounters"
 }

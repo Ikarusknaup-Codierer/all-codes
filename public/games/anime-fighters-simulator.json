@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WATERGATE",
+   "reward": "250 Challenger Fruit , 250 Demonic Fruit , 1,000 of every Fragment , 1"
+  },
+  {
    "code": "WECANSEEYOU",
    "reward": "30 Shiny, Mega Luck, Mega Drops, Mega Damage and Mega Time Boosts , 25"
   },
@@ -339,10 +343,10 @@
    "reward": "5 Mega Boosts , 100 Wistoria Shards , 150 Passive Tokens , 200 Requiem"
   },
   {
-   "code": "SHINIES!",
-   "reward": ""
+   "code": "BuffPatch",
+   "reward": "1x Super Time Boost"
   }
  ],
- "updated": "2026-10-04T05:18:43.642Z",
+ "updated": "2026-10-06T00:03:43.100Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

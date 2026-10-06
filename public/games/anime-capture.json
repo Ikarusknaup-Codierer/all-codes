@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "TITANUPDATE",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
+   "code": "THANKSFORUPDATE6",
+   "reward": "1 Energy Potion , 1 Damage Potion , 1 Gems Potion , 1 Drops Potion , 1"
+  },
+  {
    "code": "evolutionmonster",
    "reward": "450 Tickets and 3 of Each Tier I Potion"
   },
@@ -555,6 +567,6 @@
    "reward": "Potions , 250 F2P Tickets , and a Commander Sword"
   }
  ],
- "updated": "2026-10-04T05:17:44.577Z",
+ "updated": "2026-10-06T00:02:53.368Z",
  "source": "https://robloxden.com/game-codes/anime-capture"
 }

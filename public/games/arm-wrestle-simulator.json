@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "majorpane",
+   "reward": "5% Of Current Strength and 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "itsaquatime",
+   "reward": "1% Of Current Strength and 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "timetrialtime",
+   "reward": "1% Of Current Strength and 3x Stat Boost (72 Hours)"
+  },
+  {
+   "code": "hellogarden",
+   "reward": "1% Of Current Strength and 3x Stat Boost (72 Hours)"
+  },
+  {
    "code": "permamining",
    "reward": "3x Stat Boost (72 Hours)"
   },
@@ -463,10 +479,10 @@
    "reward": "Freebies"
   },
   {
-   "code": "XMASUPDATESOON",
-   "reward": "2000 Season Pass XP and 2x Wins (5 hours)"
+   "code": "MERRYXMAS",
+   "reward": "1,500 Candy Canes , 10 of All Potions and +5% Strength"
   }
  ],
- "updated": "2026-10-04T05:16:24.297Z",
+ "updated": "2026-10-06T00:01:35.502Z",
  "source": "https://robloxden.com/game-codes/arm-wrestle-simulator"
 }

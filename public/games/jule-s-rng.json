@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ARC7",
+   "reward": "2 Godly Potion 2"
+  },
+  {
+   "code": "SRRY4DELAY",
+   "reward": "1 Ace Potion and 200 Luck Essence"
+  },
+  {
    "code": "Blessing4All",
    "reward": "50,000 Gems and 1 Texyc's Blessing Potion"
   },
@@ -115,14 +123,14 @@
    "reward": "1,000 Gems and 5 Luck Cores"
   },
   {
-   "code": "SRRYFORDELAY",
-   "reward": "2 Symbolic Potions , 2 Feather Potions , and 250,000 Gems"
+   "code": "gullible",
+   "reward": ""
   },
   {
-   "code": "LuckEvent2026",
-   "reward": "Gems And Potions"
+   "code": "SRRYFORDELAY",
+   "reward": "2 Symbolic Potions , 2 Feather Potions , and 250,000 Gems"
   }
  ],
- "updated": "2026-10-04T05:10:42.730Z",
+ "updated": "2026-10-05T23:55:42.110Z",
  "source": "https://robloxden.com/game-codes/jule-s-rng"
 }

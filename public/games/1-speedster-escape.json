@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE3",
+   "reward": "Rewards"
+  },
+  {
    "code": "BOOST",
    "reward": "2x Speed and 2x Win for 15 Minutes"
   },
@@ -27,6 +31,6 @@
    "reward": "2x Speed (10 Minutes)"
   }
  ],
- "updated": "2026-10-04T05:14:49.672Z",
+ "updated": "2026-10-05T23:59:42.959Z",
  "source": "https://robloxden.com/game-codes/1-speedster-escape"
 }

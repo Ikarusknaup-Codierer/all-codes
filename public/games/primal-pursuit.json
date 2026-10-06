@@ -31,10 +31,6 @@
    "reward": "150 Bones"
   },
   {
-   "code": "40KLIKES",
-   "reward": "500 Bones"
-  },
-  {
    "code": "COOK",
    "reward": "Chef Raptor Skin"
   },
@@ -57,8 +53,12 @@
   {
    "code": "MONSTER",
    "reward": "300 Pumpkins"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "500 Bones"
   }
  ],
- "updated": "2026-10-03T21:04:32.594Z",
+ "updated": "2026-10-05T23:55:19.803Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

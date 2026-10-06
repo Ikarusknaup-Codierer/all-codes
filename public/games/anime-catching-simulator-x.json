@@ -11,22 +11,22 @@
    "reward": "300 Gold and 2x Gold Boost (15 minutes)"
   },
   {
-   "code": "FIXBUG1",
-   "reward": "5 Imortal Bunny Hero"
-  },
-  {
-   "code": "BESTBUNNY",
-   "reward": "3 Imortal Bunny Hero"
+   "code": "DISCORDREWARD2",
+   "reward": "Free Rewards"
   },
   {
    "code": "JUSTAJOKE",
    "reward": "100 Summer Coins"
   },
   {
-   "code": "250KLIKES",
-   "reward": "Imortal Bunny Hero, 5 Money Boosts, 5 Lucky Boosts, And 5 Power Boosts"
+   "code": "FAKECODE",
+   "reward": "100 Summer Coins"
+  },
+  {
+   "code": "THISISAFAKECODE",
+   "reward": "100 Summer Coins"
   }
  ],
- "updated": "2026-10-04T05:13:51.535Z",
+ "updated": "2026-10-05T23:58:46.574Z",
  "source": "https://robloxden.com/game-codes/anime-catching-simulator-x"
 }

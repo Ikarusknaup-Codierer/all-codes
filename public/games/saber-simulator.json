@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ROBLOX20",
+   "reward": "50 Shiny Charms , 50 Rainbow Charms , and 50 Void Charms"
+  },
+  {
    "code": "CHALLENGE",
    "reward": "50 Shiny Charms , 50 Rainbow Charms , and 50 Void Charms"
   },
@@ -415,6 +419,6 @@
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-10-04T05:17:03.845Z",
+ "updated": "2026-10-06T00:02:13.315Z",
  "source": "https://robloxden.com/game-codes/saber-simulator"
 }

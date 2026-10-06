@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "REROLL50K",
+   "reward": "20 Race Rerolls"
+  },
+  {
+   "code": "50KSQUAD",
+   "reward": "2,000 Gems"
+  },
+  {
+   "code": "MERCURYTIME",
+   "reward": "500 Gems and 3 Race Rerolls"
+  },
+  {
+   "code": "DIAMOND9000",
+   "reward": "500 Gems and 2 Spell Pages"
+  },
+  {
    "code": "SPINAGAIN",
    "reward": "3 Race Rerolls"
   },
@@ -83,6 +99,6 @@
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-10-04T05:15:52.273Z",
+ "updated": "2026-10-06T00:01:04.065Z",
  "source": "https://robloxden.com/game-codes/clover-legends"
 }

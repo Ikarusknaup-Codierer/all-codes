@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "StayHydrated",
+   "reward": "15 Product Essence"
+  },
+  {
    "code": "Midnyte100kChuds",
    "reward": "25 Product Essence"
   },
@@ -19,10 +23,10 @@
    "reward": "20 Product Essence"
   },
   {
-   "code": "TasteTheRainbow",
-   "reward": "10 Premium Dye and 20 Product Essence"
+   "code": "TheRainOfChristmasWeek",
+   "reward": "25 Product Essence"
   }
  ],
- "updated": "2026-10-04T05:12:21.309Z",
+ "updated": "2026-10-05T23:57:12.032Z",
  "source": "https://robloxden.com/game-codes/peroxide"
 }

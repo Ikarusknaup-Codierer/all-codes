@@ -11,15 +11,15 @@
    "reward": "150 Cash"
   },
   {
-   "code": "2000MEMBERS",
-   "reward": "400 Money"
+   "code": "500KVISITS",
+   "reward": "750 Money"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "250 Money"
   },
   {
    "code": "3500LIKES",
-   "reward": "300 Money"
-  },
-  {
-   "code": "3350LIKES",
    "reward": "300 Money"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "250 Cash"
   }
  ],
- "updated": "2026-10-04T05:13:10.412Z",
+ "updated": "2026-10-05T23:58:04.738Z",
  "source": "https://robloxden.com/game-codes/tool-tower-defense"
 }

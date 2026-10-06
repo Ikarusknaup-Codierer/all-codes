@@ -15,18 +15,18 @@
    "reward": "a Regular Spin"
   },
   {
-   "code": "!ResetCode2",
+   "code": "!Patches",
+   "reward": "a Level Up"
+  },
+  {
+   "code": "!ResetCode4",
    "reward": "a Free Stat Reset"
   },
   {
-   "code": "!Upd3",
-   "reward": "60 Spins , 2,500 Yen , 50,000 XP , and 1.5x XP (30 Minutes)"
-  },
-  {
-   "code": "!PremSpin2",
-   "reward": "A Premium Spin"
+   "code": "!PremiumSpin2",
+   "reward": "15 Premium Spins"
   }
  ],
- "updated": "2026-10-04T05:17:42.890Z",
+ "updated": "2026-10-06T00:02:51.828Z",
  "source": "https://robloxden.com/game-codes/rojutsu-blox"
 }

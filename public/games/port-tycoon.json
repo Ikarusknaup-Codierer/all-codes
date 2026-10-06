@@ -7,30 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "COPY",
+   "code": "NEW",
    "reward": "2,500 Cash"
   },
   {
-   "code": "30KLIKES",
-   "reward": "Free Cash"
-  },
-  {
-   "code": "40KLIKES",
-   "reward": "$3k Cash"
+   "code": "5KLIKES",
+   "reward": "$5k Cash"
   },
   {
    "code": "JUNGLE",
    "reward": "15,000 Cash"
   },
   {
-   "code": "COOLSECRETCODE",
-   "reward": "5,000 Cash"
+   "code": "PIRATES",
+   "reward": "1,000 Cash"
   },
   {
-   "code": "NEW",
-   "reward": "2,500 Cash"
+   "code": "ATTACK",
+   "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-10-04T05:17:51.309Z",
+ "updated": "2026-10-06T00:02:59.402Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

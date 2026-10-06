@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "48k",
+   "reward": "Experience"
+  },
+  {
    "code": "Skeletorangel",
    "reward": "250 Coins"
   },
@@ -15,18 +19,14 @@
    "reward": "10 Chance Crates"
   },
   {
-   "code": "CoinsStage",
-   "reward": "100 Coins"
+   "code": "Chance",
+   "reward": "10 Chance Crates"
   },
   {
-   "code": "BugFix",
-   "reward": "100 Coins"
-  },
-  {
-   "code": "TrophyEvent",
-   "reward": "Free Rewards"
+   "code": "Mascots",
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-04T05:17:15.455Z",
+ "updated": "2026-10-06T00:02:24.390Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

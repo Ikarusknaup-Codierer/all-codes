@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "snowday",
+   "code": "santa",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "potatoesandgravy",
    "reward": "Free Rewards"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "pumpkinspice",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "noscope",
+   "code": "leapyear",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-04T05:13:14.353Z",
+ "updated": "2026-10-05T23:58:08.520Z",
  "source": "https://robloxden.com/game-codes/no-scope-arcade"
 }

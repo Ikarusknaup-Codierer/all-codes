@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD7",
+   "reward": "7x Luck (7 Minutes)"
+  },
+  {
    "code": "DRAGONPEARL",
    "reward": "10x Luck (5 Minutes)"
   },
@@ -51,6 +55,6 @@
    "reward": "1 Rainbow Treasure Chest"
   }
  ],
- "updated": "2026-10-04T21:11:32.375Z",
+ "updated": "2026-10-06T05:57:53.629Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

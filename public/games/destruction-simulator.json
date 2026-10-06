@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Cashplease",
+   "reward": "40,000 Coins"
+  },
+  {
    "code": "UPDATE7",
    "reward": "Free Rewards"
   },
@@ -15,18 +19,14 @@
    "reward": "120 Diamonds"
   },
   {
-   "code": "500LIKES",
-   "reward": "50 Diamonds"
-  },
-  {
-   "code": "1500PROMO",
-   "reward": "100 Diamonds"
-  },
-  {
    "code": "NOVICE",
    "reward": "1,250 Cash"
+  },
+  {
+   "code": "EPICVOLCANO",
+   "reward": "a Double Coins Boost for 60 Minutes"
   }
  ],
- "updated": "2026-10-04T12:08:46.241Z",
+ "updated": "2026-10-06T05:48:14.463Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

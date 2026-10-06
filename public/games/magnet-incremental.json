@@ -53,8 +53,16 @@
   {
    "code": "TIER7",
    "reward": "125.02 Gems , 1 Stats Potion , 1 Rune Luck Potion , 1 Rune Bulk Potion"
+  },
+  {
+   "code": "DELAYEDGGS",
+   "reward": "3 of every Potion and 25 Robux Tokens"
+  },
+  {
+   "code": "SMALLDELAY",
+   "reward": "1 of every Potion and 25 Robux Tokens"
   }
  ],
- "updated": "2026-10-04T12:08:42.107Z",
+ "updated": "2026-10-06T05:48:07.577Z",
  "source": "https://robloxden.com/game-codes/magnet-incremental"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "5KLikes",
+   "reward": "15,000 Gems"
+  },
+  {
+   "code": "1MVisits",
+   "reward": "Gems"
+  },
+  {
+   "code": "NewUGCinShop",
+   "reward": "15K Gems"
+  },
+  {
    "code": "500KGroupMembers",
    "reward": "7K Gems"
   },
@@ -21,14 +33,6 @@
   {
    "code": "250KGroupMembers",
    "reward": "5,000 Gems"
-  },
-  {
-   "code": "5KLikes",
-   "reward": "15,000 Gems"
-  },
-  {
-   "code": "1MVisits",
-   "reward": "Gems"
   },
   {
    "code": "ReduceObbyTime!",
@@ -95,6 +99,6 @@
    "reward": "10K Gems"
   }
  ],
- "updated": "2026-10-04T12:10:17.426Z",
+ "updated": "2026-10-06T05:50:05.401Z",
  "source": "https://robloxden.com/game-codes/ugc-obby-2"
 }

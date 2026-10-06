@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE_89",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "WE_CURSED",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "SKELETON",
+   "reward": "5 Lucky Ability Spins"
+  },
+  {
    "code": "UPDATE_87",
    "reward": "5 Lucky Style Spins"
   },
@@ -115,6 +127,6 @@
    "reward": "5 Lucky Ability Spins"
   }
  ],
- "updated": "2026-10-04T12:08:41.002Z",
+ "updated": "2026-10-06T05:48:06.565Z",
  "source": "https://robloxden.com/game-codes/volleyball-legends"
 }

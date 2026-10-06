@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DUELS",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "155000LIKES",
    "reward": "1 Premium Crate"
   },
@@ -31,14 +35,6 @@
    "reward": "a Logistics Warehouse"
   },
   {
-   "code": "MOREROBOTS",
-   "reward": "1 Premium Crate"
-  },
-  {
-   "code": "PERFORMANCEOVERHAUL",
-   "reward": "1 Premium Crate"
-  },
-  {
    "code": "LIBERATOR",
    "reward": "1 Premium Crate"
   },
@@ -51,6 +47,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-10-04T12:11:09.999Z",
+ "updated": "2026-10-06T05:51:09.420Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

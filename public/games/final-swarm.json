@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ex0tic",
+   "reward": "10 Golden Chests"
+  },
+  {
    "code": "INF3RNO",
    "reward": "3 Inferno Chests"
   },
@@ -35,6 +39,6 @@
    "reward": "5 Epic Chests"
   }
  ],
- "updated": "2026-10-04T12:06:41.605Z",
+ "updated": "2026-10-06T05:46:02.238Z",
  "source": "https://robloxden.com/game-codes/final-swarm"
 }

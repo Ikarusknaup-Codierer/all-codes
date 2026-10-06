@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "GETMOREPLUSHIES",
-   "reward": "Rewards"
+   "code": "BLOODDROP",
+   "reward": "30 Rerolls"
   },
   {
-   "code": "2XLUCK",
-   "reward": "Rewards"
+   "code": "GRAPHIC",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "SNOWISCOMING",
+   "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-10-04T12:05:19.929Z",
+ "updated": "2026-10-06T05:44:48.077Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

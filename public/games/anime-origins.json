@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HolyGrail",
+   "reward": "75 Trait Rerolls"
+  },
+  {
+   "code": "Update2",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "Labyrinth",
+   "reward": "20 Stat Prisms and 20 Perfect Stat Prisms"
+  },
+  {
    "code": "TowerFixed",
    "reward": "2,000 Gems , 30 Trait Rerolls , and 65 Scorpion Tokens"
   },
@@ -59,6 +71,6 @@
    "reward": "10 Trait Rerolls , 5 Perfect Stat Prisms , 5 Stat Prisms , and 850 Gem"
   }
  ],
- "updated": "2026-10-04T12:08:00.287Z",
+ "updated": "2026-10-06T05:47:20.090Z",
  "source": "https://robloxden.com/game-codes/anime-origins"
 }

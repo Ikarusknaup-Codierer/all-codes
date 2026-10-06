@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "sunshine",
-   "reward": "2x Energy (30 Minutes)"
-  },
-  {
    "code": "summertime",
    "reward": "2x Energy (1 Hour)"
   },
@@ -79,10 +75,10 @@
    "reward": "2X Energy (30 Minutes)"
   },
   {
-   "code": "TRUEPOWEROF",
-   "reward": "a 2x Workout Speed Buff"
+   "code": "sunshine",
+   "reward": "2x Energy (30 Minutes)"
   }
  ],
- "updated": "2026-10-04T12:09:06.521Z",
+ "updated": "2026-10-06T05:48:49.369Z",
  "source": "https://robloxden.com/game-codes/strongman-simulator"
 }

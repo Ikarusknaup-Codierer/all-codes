@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE9",
+   "reward": "250,000 Cash , 1x Rail Gun and 1x Totem of Wealth"
+  },
+  {
+   "code": "50MVISITS",
+   "reward": "250,000 Cash , 1x Chilly Scoll and 1x Permafrost Scroll"
+  },
+  {
    "code": "45MVISITS",
    "reward": "250,000 Cash , 3 Hatch Hammer , and 1 Totem Of Digging"
   },
@@ -91,6 +99,6 @@
    "reward": "100K Cash, 1 Wealth Totem and 1 Fortune Totem"
   }
  ],
- "updated": "2026-10-04T05:18:17.266Z",
+ "updated": "2026-10-06T05:43:24.836Z",
  "source": "https://robloxden.com/game-codes/capybaras-vs-plants"
 }

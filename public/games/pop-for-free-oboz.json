@@ -7,14 +7,30 @@
    "reward": "Description"
   },
   {
-   "code": "AAFINISHED",
+   "code": "FORESTDONATIONS",
    "reward": "50 Pops"
+  },
+  {
+   "code": "3RDSEASON",
+   "reward": "25 Pops"
+  },
+  {
+   "code": "6THUPDATE",
+   "reward": "50 Pops"
+  },
+  {
+   "code": "CODESW",
+   "reward": "50 Pops"
+  },
+  {
+   "code": "SEASON2",
+   "reward": "20 Pops"
   },
   {
    "code": "ADMINABUSEOVER",
    "reward": "25 Pops"
   }
  ],
- "updated": "2026-10-04T12:08:22.385Z",
+ "updated": "2026-10-06T05:47:48.573Z",
  "source": "https://robloxden.com/game-codes/pop-for-free-oboz"
 }

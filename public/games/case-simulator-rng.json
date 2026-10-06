@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "NEWMAP",
-   "reward": "a Luck Boost"
+   "code": "TooMuchLuck",
+   "reward": "2X Luck for (20 Minutes)"
   },
   {
-   "code": "20KLIKES",
-   "reward": "a Luck Boost"
+   "code": "Index",
+   "reward": "15 Rerolls and 25% Luck for (20 Minutes)"
+  },
+  {
+   "code": "ExtraLuck",
+   "reward": "15 Rerolls and 25% Luck for (20 Minutes)"
   }
  ],
- "updated": "2026-10-04T21:10:40.504Z",
+ "updated": "2026-10-06T05:57:18.310Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

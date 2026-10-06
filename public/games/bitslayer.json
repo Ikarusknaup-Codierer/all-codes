@@ -15,10 +15,6 @@
    "reward": "50 Embers"
   },
   {
-   "code": "OILWORKS",
-   "reward": "2,000 Yen and 25 Embers"
-  },
-  {
    "code": "UPD",
    "reward": "5 Clan Spins"
   },
@@ -41,8 +37,16 @@
   {
    "code": "CODE3",
    "reward": "3 Clan Spins and 1,500 Yen"
+  },
+  {
+   "code": "OILWORKS",
+   "reward": "2,000 Yen and 25 Embers"
+  },
+  {
+   "code": "WorLRizz",
+   "reward": "5 Trait Spins and 5 Clan Spins"
   }
  ],
- "updated": "2026-10-04T12:05:26.239Z",
+ "updated": "2026-10-06T05:44:52.952Z",
  "source": "https://robloxden.com/game-codes/bitslayer"
 }

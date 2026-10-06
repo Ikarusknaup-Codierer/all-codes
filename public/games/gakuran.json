@@ -11,12 +11,16 @@
    "reward": "a Reroll"
   },
   {
-   "code": "QOL2",
+   "code": "FRESHLOOK",
    "reward": "40 Rerolls"
   },
   {
    "code": "BUGFIXDAY",
    "reward": "Rerolls"
+  },
+  {
+   "code": "QOL2",
+   "reward": "40 Rerolls"
   },
   {
    "code": "discordfixed",
@@ -55,6 +59,6 @@
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-10-04T12:08:31.808Z",
+ "updated": "2026-10-06T05:47:57.755Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

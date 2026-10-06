@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DIGSITE",
+   "reward": "1 Devil's Growth Gem"
+  },
+  {
    "code": "ADMINMUTATION",
    "reward": "an Admin Coating Spray"
   },
@@ -43,14 +47,14 @@
    "reward": "a 6-hour Time Skip"
   },
   {
-   "code": "SECRETCODE",
-   "reward": "Free Rewards"
+   "code": "FINALE",
+   "reward": "1 Hour Time Skip"
   },
   {
    "code": "ANOTHERONE",
    "reward": "a 1 Hour Time Skip"
   }
  ],
- "updated": "2026-10-04T12:08:23.599Z",
+ "updated": "2026-10-06T05:47:49.699Z",
  "source": "https://robloxden.com/game-codes/sell-ores"
 }

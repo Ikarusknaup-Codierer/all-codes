@@ -7,12 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "DIVINE-CHAMP",
+   "reward": "2 of Each Pack and 3 Spins"
+  },
+  {
    "code": "NEWPOTM-NEWBEGINNING",
    "reward": "1,000 Tournament Tokens"
   },
   {
    "code": "UPDATES-ARE-BACK",
    "reward": "100 Tournament Tokens , 150 Gems , 1 Wiish Ticket , and 2 Spins"
+  },
+  {
+   "code": "EPIC-FALCON",
+   "reward": "2 of Each Pack and 3 Spins"
   },
   {
    "code": "MYTHIC-BEAR",
@@ -55,6 +63,6 @@
    "reward": "2 Wish Tickets , 30 Tournament Tokens , 2 Spins , and 100 Gems"
   }
  ],
- "updated": "2026-10-04T12:11:30.049Z",
+ "updated": "2026-10-06T05:51:30.319Z",
  "source": "https://robloxden.com/game-codes/spin-a-soccer-card"
 }

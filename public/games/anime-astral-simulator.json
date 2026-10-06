@@ -7,6 +7,62 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE15",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "SERVANTS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "SHADOWPASSIVE",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "ZENKAI",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "85MVISITS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "75MVISITS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "50MVISITS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "25MVISITS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "100KFAVORITES",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "75KFAVORITES",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "50KFAVORITES",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "25KFAVORITES",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "1MGROUPMEMBERS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "FIXESFORUPDATE15",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "FIXEDEXCHANGE",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -411,6 +467,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-10-04T12:06:12.239Z",
+ "updated": "2026-10-06T05:45:34.519Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

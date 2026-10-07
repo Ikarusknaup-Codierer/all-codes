@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "CLANS",
+   "reward": "5,000 Credits"
+  },
+  {
+   "code": "TURRETS",
+   "reward": "3,000 Credits"
+  },
+  {
    "code": "INTERIOR",
    "reward": "5,000 Cash"
   },
   {
    "code": "CLANSHOP",
    "reward": "3,000 Cash"
-  },
-  {
-   "code": "MISSIONS",
-   "reward": "3K Cash"
-  },
-  {
-   "code": "SQUADS",
-   "reward": "5K Cash"
   }
  ],
- "updated": "2026-10-05T14:13:48.278Z",
+ "updated": "2026-10-07T05:19:15.769Z",
  "source": "https://robloxden.com/game-codes/raids-night-tide"
 }

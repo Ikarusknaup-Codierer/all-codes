@@ -47,10 +47,6 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "flower",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "bunny",
    "reward": "Free Rewards"
   },
@@ -247,14 +243,14 @@
    "reward": "Potions"
   },
   {
-   "code": "snowman",
-   "reward": "Three Christmas Potions, Three Christmas Tickets, A Frozen Key, A Sant"
+   "code": "flower",
+   "reward": "Free Rewards"
   },
   {
-   "code": "release",
-   "reward": "1 Grape , 1 Luck Potion , and 1 Apple"
+   "code": "firework",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-05T14:10:22.328Z",
+ "updated": "2026-10-07T05:15:55.392Z",
  "source": "https://robloxden.com/game-codes/rebirth-champions-ultimate"
 }

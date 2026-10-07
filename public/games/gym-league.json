@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORBUGSAD",
+   "reward": "5 Mega Potions , 5 Money Potions , and 5 Stamina Potions"
+  },
+  {
    "code": "DIVINE",
    "reward": "1 of Each Potion and 1.25x Muscle Gain (20 Minutes)"
   },
@@ -195,6 +199,6 @@
    "reward": "3 Small Speed Potions"
   }
  ],
- "updated": "2026-10-05T14:09:51.681Z",
+ "updated": "2026-10-07T05:15:14.433Z",
  "source": "https://robloxden.com/game-codes/gym-league"
 }

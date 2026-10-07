@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ICE",
+   "reward": "15 Rerolls , 15 Refreshes , and 50,000 Cash"
+  },
+  {
+   "code": "CROW",
+   "reward": "50 Rerolls , 50 Refreshes , and 50,000 Cash"
+  },
+  {
    "code": "BEE",
    "reward": "15 Rerolls and 10 Refreshes"
   },
@@ -95,6 +103,6 @@
    "reward": "50 Refreshes"
   }
  ],
- "updated": "2026-10-05T14:15:49.708Z",
+ "updated": "2026-10-07T05:21:20.221Z",
  "source": "https://robloxden.com/game-codes/build-a-blue-lock-squad"
 }

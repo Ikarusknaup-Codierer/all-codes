@@ -11,18 +11,22 @@
    "reward": "69 Coins"
   },
   {
-   "code": "freeTraits",
-   "reward": "2 Trait Roll"
+   "code": "ENDLESS",
+   "reward": "250 MemBits"
   },
   {
-   "code": "4500Likes",
-   "reward": "750 MemBits"
+   "code": "RELEASE",
+   "reward": "200 MemBits"
   },
   {
-   "code": "EVENT",
-   "reward": "1000 MemBits"
+   "code": "1week!",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "oneweek!",
+   "reward": "1 Extra Luck Potion"
   }
  ],
- "updated": "2026-10-05T14:14:57.905Z",
+ "updated": "2026-10-07T05:20:27.998Z",
  "source": "https://robloxden.com/game-codes/meme-tower-defense"
 }

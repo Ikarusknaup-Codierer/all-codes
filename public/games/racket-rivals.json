@@ -19,10 +19,6 @@
    "reward": "a 200 Yen , a Spirit Pack , 2 Standard Packs , a Rackets Pack , and a "
   },
   {
-   "code": "COSMIC",
-   "reward": "750 Yen"
-  },
-  {
    "code": "SPACE",
    "reward": "750 Yen"
   },
@@ -39,18 +35,6 @@
    "reward": "1,500 Yen"
   },
   {
-   "code": "RACE",
-   "reward": "1,500 Yen"
-  },
-  {
-   "code": "RESTRUCTURING",
-   "reward": "2,000 Yen"
-  },
-  {
-   "code": "INPROGRESS",
-   "reward": "2,000 Yen"
-  },
-  {
    "code": "SCORE",
    "reward": "750 Yen"
   },
@@ -61,16 +45,8 @@
   {
    "code": "SEASON2BUG",
    "reward": "1,500 Season Pass XP"
-  },
-  {
-   "code": "SOCCER",
-   "reward": "750 Yen"
-  },
-  {
-   "code": "FOOTBALL",
-   "reward": "750 Yen"
   }
  ],
- "updated": "2026-10-05T05:04:31.783Z",
+ "updated": "2026-10-07T05:13:33.402Z",
  "source": "https://robloxden.com/game-codes/racket-rivals"
 }

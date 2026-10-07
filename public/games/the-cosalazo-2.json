@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "6M",
-   "reward": "200K Cash"
-  },
-  {
-   "code": "GRACIAS",
-   "reward": "150K Cash"
-  },
-  {
    "code": "ONKLON",
    "reward": "250K Cash"
   },
@@ -33,8 +25,16 @@
   {
    "code": "PERDONGG",
    "reward": "300K Cash"
+  },
+  {
+   "code": "6M",
+   "reward": "200K Cash"
+  },
+  {
+   "code": "GRACIAS",
+   "reward": "150K Cash"
   }
  ],
- "updated": "2026-10-05T14:12:37.958Z",
+ "updated": "2026-10-07T05:18:01.634Z",
  "source": "https://robloxden.com/game-codes/the-cosalazo-2"
 }

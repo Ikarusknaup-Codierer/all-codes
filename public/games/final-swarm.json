@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ADMIN",
+   "reward": "1 Mythic Chest"
+  },
+  {
    "code": "ex0tic",
    "reward": "10 Golden Chests"
   },
@@ -31,14 +35,14 @@
    "reward": "100 Keys"
   },
   {
-   "code": "R41D5",
-   "reward": "5 Raid Chests"
+   "code": "skillz",
+   "reward": "2,500 Keys"
   },
   {
    "code": "frosty",
    "reward": "5 Epic Chests"
   }
  ],
- "updated": "2026-10-06T05:46:02.238Z",
+ "updated": "2026-10-07T22:59:32.133Z",
  "source": "https://robloxden.com/game-codes/final-swarm"
 }

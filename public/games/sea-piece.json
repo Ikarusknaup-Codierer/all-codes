@@ -11,11 +11,15 @@
    "reward": "Free Stuff"
   },
   {
-   "code": "UPDATE4!",
-   "reward": "2x Exp For 5 Minutes"
+   "code": "Sorry!",
+   "reward": "2x Exp For 10 Minutes"
   },
   {
-   "code": "Sub2Taklaman",
+   "code": "1000Likes",
+   "reward": "Stat Reset And Double XP For 5 Minutes"
+  },
+  {
+   "code": "500Likes",
    "reward": "Double XP For 15 Minutes"
   },
   {
@@ -23,6 +27,6 @@
    "reward": "50 Candy"
   }
  ],
- "updated": "2026-10-06T05:44:32.224Z",
+ "updated": "2026-10-07T22:58:06.329Z",
  "source": "https://robloxden.com/game-codes/sea-piece"
 }

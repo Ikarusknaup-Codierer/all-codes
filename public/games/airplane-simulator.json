@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ONEHUNDRED",
-   "reward": "30,000 Cash"
-  },
-  {
    "code": "B1",
    "reward": "50k Cash"
   },
@@ -35,10 +31,14 @@
    "reward": "30,000 Cash"
   },
   {
+   "code": "ONEHUNDRED",
+   "reward": "30,000 Cash"
+  },
+  {
    "code": "100K",
    "reward": "60,000 Cash"
   }
  ],
- "updated": "2026-10-06T00:05:47.150Z",
+ "updated": "2026-10-07T22:56:49.505Z",
  "source": "https://robloxden.com/game-codes/airplane-simulator"
 }

@@ -15,18 +15,18 @@
    "reward": "Rewards"
   },
   {
-   "code": "LavasCoins",
-   "reward": "Special Prize"
-  },
-  {
    "code": "POTION",
    "reward": "Forcefield Potion"
+  },
+  {
+   "code": "fast",
+   "reward": "Unknown Reward"
   },
   {
    "code": "Denis",
    "reward": "Special Reward"
   }
  ],
- "updated": "2026-10-06T00:05:11.623Z",
+ "updated": "2026-10-07T22:56:43.938Z",
  "source": "https://robloxden.com/game-codes/the-floor-is-lava"
 }

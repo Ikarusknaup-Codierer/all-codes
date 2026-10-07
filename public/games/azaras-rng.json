@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "HappyHalfAnniversary!!",
+   "reward": "5 Omega Potion , 5 Eternity Potion , 5 Starlight Potion , 5 Fortune Po"
+  },
+  {
+   "code": "CakeTime2",
+   "reward": "20 Eternity Potion , 20 Starlight Potion , and 20 Star Portion"
+  },
+  {
+   "code": "Forfeit",
+   "reward": "1 Potion of Calamity , 3 Awakening Potion , 1 Omega Potion , and 100 F"
+  },
+  {
+   "code": "Artemis",
+   "reward": "77 Starlight Potion , 177 Star Potion , 1 Omega Potion , and 777 Fortu"
+  },
+  {
+   "code": "TyFor500YTSubscribers!",
+   "reward": "50 Starlight Potion , 500 Star Potion , 500 Fortune Potion , and 500 L"
+  },
+  {
    "code": "TreasureHunt",
    "reward": "30 Star Potions, 12 Blue Treasure Boxes and 700 Fortune Potions"
   },
@@ -121,8 +141,12 @@
   {
    "code": "2MVisits!!",
    "reward": "40 Starlight Potions 80 Star Potions and 10 Eternity Potions"
+  },
+  {
+   "code": "Thx100kVisits",
+   "reward": ""
   }
  ],
- "updated": "2026-10-06T05:50:38.013Z",
+ "updated": "2026-10-07T23:03:41.727Z",
  "source": "https://robloxden.com/game-codes/azaras-rng"
 }

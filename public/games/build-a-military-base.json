@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DUELS",
-   "reward": "1 Premium Crate"
-  },
-  {
    "code": "155000LIKES",
    "reward": "1 Premium Crate"
   },
@@ -35,11 +31,23 @@
    "reward": "a Logistics Warehouse"
   },
   {
-   "code": "LIBERATOR",
+   "code": "BALANCEPATCH",
    "reward": "1 Premium Crate"
   },
   {
-   "code": "REBIRTH20WOW",
+   "code": "BIGGESTBIRD",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "ZEPPELIN",
+   "reward": "a Cargo Dockyard"
+  },
+  {
+   "code": "BLACKHAWK",
+   "reward": "a Valkyrie Nexus"
+  },
+  {
+   "code": "DUELS",
    "reward": "1 Premium Crate"
   },
   {
@@ -47,6 +55,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-10-06T05:51:09.420Z",
+ "updated": "2026-10-07T23:04:03.032Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

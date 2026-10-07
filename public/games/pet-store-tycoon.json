@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MEOW",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "LUCKY",
-   "reward": "250 Credits"
-  },
-  {
    "code": "WOOF",
    "reward": "250 Coins"
   },
@@ -27,10 +19,14 @@
    "reward": "500 Free Coins"
   },
   {
-   "code": "FLOOR2",
+   "code": "MEOW",
    "reward": "250 Coins"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "250 Credits"
   }
  ],
- "updated": "2026-10-06T05:46:06.621Z",
+ "updated": "2026-10-07T22:59:36.601Z",
  "source": "https://robloxden.com/game-codes/pet-store-tycoon"
 }

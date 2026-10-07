@@ -51,10 +51,14 @@
    "reward": "1 Player Boost"
   },
   {
-   "code": "FREELUCK",
+   "code": "COUNTDOWN",
+   "reward": "Devil's Hat Pet"
+  },
+  {
+   "code": "LUCK",
    "reward": "A Reward"
   }
  ],
- "updated": "2026-10-06T05:45:58.096Z",
+ "updated": "2026-10-07T22:59:27.911Z",
  "source": "https://robloxden.com/game-codes/lifting-titans"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TRACKDAY",
+   "reward": "80,000"
+  },
+  {
    "code": "NEONPULSE",
    "reward": "$80,000 Cash"
   },
@@ -115,6 +119,6 @@
    "reward": "$35,000"
   }
  ],
- "updated": "2026-10-06T05:43:30.560Z",
+ "updated": "2026-10-07T22:57:06.613Z",
  "source": "https://robloxden.com/game-codes/car-dealership-tycoon"
 }

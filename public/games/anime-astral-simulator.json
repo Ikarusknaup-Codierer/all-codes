@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "PRANATREE",
+   "reward": "250 F2P Tickets , a Damage II Potion , a Luck II Potion , a Power II P"
+  },
+  {
+   "code": "HOLYGRAIL",
+   "reward": "250 F2P Tickets , a Damage II Potion , a Luck II Potion , a Power II P"
+  },
+  {
+   "code": "BANKAI",
+   "reward": "250 F2P Tickets , a Damage II Potion , a Luck II Potion , a Power II P"
+  },
+  {
    "code": "UPDATE15",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -467,6 +479,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-10-06T05:45:34.519Z",
+ "updated": "2026-10-07T22:59:04.769Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

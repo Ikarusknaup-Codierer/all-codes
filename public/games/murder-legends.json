@@ -15,18 +15,18 @@
    "reward": "rewards"
   },
   {
-   "code": "SOUL",
-   "reward": "rewards"
-  },
-  {
    "code": "NETHER",
    "reward": "rewards"
   },
   {
-   "code": "6000",
-   "reward": "5,000 Coins"
+   "code": "FREECOINS",
+   "reward": "Coins"
+  },
+  {
+   "code": "E4ST3R",
+   "reward": "2,000 Coins"
   }
  ],
- "updated": "2026-10-06T00:03:57.155Z",
+ "updated": "2026-10-07T22:56:24.496Z",
  "source": "https://robloxden.com/game-codes/murder-legends"
 }

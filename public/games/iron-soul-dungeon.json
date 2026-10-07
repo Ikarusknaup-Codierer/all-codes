@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BOSSODINARRIVED",
+   "reward": "5 Season Lucky Tickets"
+  },
+  {
+   "code": "SEASON4COMING",
+   "reward": "200 Origin Shards and 3 Season Lucky Tickets"
+  },
+  {
+   "code": "IRONSOULBIGUPDATE",
+   "reward": "3 Race Rerolls"
+  },
+  {
    "code": "IRONSOULWEEKEND25",
    "reward": "Free Rewards"
   },
@@ -155,6 +167,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-10-06T05:52:55.484Z",
+ "updated": "2026-10-07T23:05:37.768Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

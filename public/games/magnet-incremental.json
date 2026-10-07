@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HIATUSBONUS",
+   "reward": "1000 Minute Gem Timewarp , 1000 Fire , 5000 Aura Tokens , 5000 Trait T"
+  },
+  {
    "code": "FREEGEMS",
    "reward": "2 Hour Timewarp and 100 Fire"
   },
@@ -63,6 +67,6 @@
    "reward": "1 of every Potion and 25 Robux Tokens"
   }
  ],
- "updated": "2026-10-06T05:48:07.577Z",
+ "updated": "2026-10-07T23:01:32.339Z",
  "source": "https://robloxden.com/game-codes/magnet-incremental"
 }

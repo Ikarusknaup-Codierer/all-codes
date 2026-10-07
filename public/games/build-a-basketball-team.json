@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "boi",
-   "reward": "15 Rerolls and 5 Refreshes"
-  },
-  {
    "code": "map",
    "reward": "25 Rerolls and 15 Refreshes"
   },
@@ -37,8 +33,12 @@
   {
    "code": "600k",
    "reward": "50 Rerolls and 15 Refreshes"
+  },
+  {
+   "code": "boi",
+   "reward": "15 Rerolls and 5 Refreshes"
   }
  ],
- "updated": "2026-10-06T05:51:43.206Z",
+ "updated": "2026-10-07T23:04:39.020Z",
  "source": "https://robloxden.com/game-codes/build-a-basketball-team"
 }

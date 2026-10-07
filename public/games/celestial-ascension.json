@@ -27,14 +27,14 @@
    "reward": "Free Spins"
   },
   {
-   "code": "EventSword",
-   "reward": "10 Spins"
-  },
-  {
    "code": "Mimo",
    "reward": "Free In-Game Rewards"
+  },
+  {
+   "code": "Fixed",
+   "reward": "15 Spins"
   }
  ],
- "updated": "2026-10-05T23:55:12.910Z",
+ "updated": "2026-10-07T13:00:23.896Z",
  "source": "https://robloxden.com/game-codes/celestial-ascension"
 }

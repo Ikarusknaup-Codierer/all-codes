@@ -31,10 +31,6 @@
    "reward": "1000 Coins"
   },
   {
-   "code": "Gauntlet",
-   "reward": "1000 Gems"
-  },
-  {
    "code": "SnailIsComing",
    "reward": "1200 Coins"
   },
@@ -131,6 +127,6 @@
    "reward": "999 Coins"
   }
  ],
- "updated": "2026-10-05T23:56:05.501Z",
+ "updated": "2026-10-07T13:01:08.363Z",
  "source": "https://robloxden.com/game-codes/sorcerer-tower-defense"
 }

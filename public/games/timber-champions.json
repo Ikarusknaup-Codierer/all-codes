@@ -11,22 +11,22 @@
    "reward": "Luck Boost"
   },
   {
-   "code": "2023",
-   "reward": "2 Lucky Boosts"
-  },
-  {
-   "code": "SANTA",
-   "reward": "3 Lucky Boosts"
-  },
-  {
-   "code": "STEAMPUNK",
-   "reward": "2 2x Damage Boosts"
-  },
-  {
-   "code": "CAVE",
+   "code": "VOID",
    "reward": "2 Ultra Lucky Boosts"
+  },
+  {
+   "code": "SATURN",
+   "reward": "2 Ultra Lucky Boosts"
+  },
+  {
+   "code": "MERCURY",
+   "reward": "2 Ultra Lucky Boosts"
+  },
+  {
+   "code": "CHRISTMAS",
+   "reward": "3 2x Coin Boosts"
   }
  ],
- "updated": "2026-10-05T14:17:09.986Z",
+ "updated": "2026-10-07T13:00:11.663Z",
  "source": "https://robloxden.com/game-codes/timber-champions"
 }

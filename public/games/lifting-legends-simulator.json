@@ -15,18 +15,18 @@
    "reward": "3 2x Strength Potions"
   },
   {
-   "code": "10kLikes",
+   "code": "TAP",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "25kLikes",
    "reward": "Free Coins"
   },
   {
    "code": "Lift",
    "reward": "Free Coins"
-  },
-  {
-   "code": "50kLikes",
-   "reward": "Free Coins"
   }
  ],
- "updated": "2026-10-05T23:55:45.151Z",
+ "updated": "2026-10-07T13:00:48.272Z",
  "source": "https://robloxden.com/game-codes/lifting-legends-simulator"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "2xtickets",
+   "reward": "Tickets"
+  },
+  {
    "code": "WUPDATE",
    "reward": "Tickets"
   },
@@ -31,6 +35,6 @@
    "reward": "500 Tickets"
   }
  ],
- "updated": "2026-10-06T00:00:51.971Z",
+ "updated": "2026-10-07T13:05:33.921Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

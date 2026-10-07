@@ -7,10 +7,14 @@
    "reward": "Description"
   },
   {
-   "code": "POLISHER",
-   "reward": "1 Jackpot Token"
+   "code": "TRAITS",
+   "reward": "25 Trait Tokens"
+  },
+  {
+   "code": "ADMINABUSE",
+   "reward": "20 Trait Tokens , 20 Grade Tokens , and 1 Variant Token"
   }
  ],
- "updated": "2026-10-06T00:02:40.114Z",
+ "updated": "2026-10-07T13:07:33.323Z",
  "source": "https://robloxden.com/game-codes/blue-lock-farm"
 }

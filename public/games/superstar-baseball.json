@@ -19,10 +19,6 @@
    "reward": "5 Lucky Spins"
   },
   {
-   "code": "PARK",
-   "reward": "5 Lucky Spins"
-  },
-  {
    "code": "250",
    "reward": "3 Lucky Spins"
   },
@@ -79,14 +75,6 @@
    "reward": "5 Spins"
   },
   {
-   "code": "SKYBOUND",
-   "reward": "5 Spins"
-  },
-  {
-   "code": "SOFTBALL",
-   "reward": "5 Lucky Style Spins"
-  },
-  {
    "code": "BLIGHT",
    "reward": "5 Lucky Style Spins"
   },
@@ -99,14 +87,22 @@
    "reward": "2 Spins"
   },
   {
+   "code": "PARK",
+   "reward": "5 Lucky Spins"
+  },
+  {
    "code": "HOLLOW",
    "reward": "10 Lucky Spins"
   },
   {
-   "code": "HARVEST",
+   "code": "SKYBOUND",
    "reward": "5 Spins"
+  },
+  {
+   "code": "SOFTBALL",
+   "reward": "5 Lucky Style Spins"
   }
  ],
- "updated": "2026-10-07T05:14:21.154Z",
+ "updated": "2026-10-08T23:10:14.049Z",
  "source": "https://robloxden.com/game-codes/superstar-baseball"
 }

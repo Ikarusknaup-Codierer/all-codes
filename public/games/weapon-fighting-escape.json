@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "2MVISITS",
+   "reward": "the 2k Wins"
+  },
+  {
+   "code": "PETS",
+   "reward": "the 2x Attack Speed"
+  },
+  {
    "code": "loot",
    "reward": "rewards"
   },
@@ -23,6 +31,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-10-07T05:17:52.486Z",
+ "updated": "2026-10-08T23:13:57.915Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-escape"
 }

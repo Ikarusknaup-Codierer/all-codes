@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
+   "code": "PSYCHICSCID",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "PSYCHICSDEKU",
    "reward": "1,000 Cash"
   },
   {
-   "code": "FIGHTOFANIME10M",
+   "code": "100LIKESFOA",
    "reward": "1,000 Gold"
   },
   {
-   "code": "PSYCHICSSUMMER",
-   "reward": "1,000 Cash"
-  },
-  {
-   "code": "PSYCHICSJOTARO",
+   "code": "PSYCHICSSKUNA",
    "reward": "1,000 Cash"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-10-07T13:04:38.078Z",
+ "updated": "2026-10-08T23:22:56.188Z",
  "source": "https://robloxden.com/game-codes/psychics-power-tycoon"
 }

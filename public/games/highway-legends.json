@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "130mvisits",
+   "reward": "the 45,100 Cash"
+  },
+  {
    "code": "225klikes",
    "reward": "45,070 Cash"
   },
@@ -37,6 +41,10 @@
   {
    "code": "holeinthemap",
    "reward": "40,000 Cash"
+  },
+  {
+   "code": "200kvisits",
+   "reward": "45,000 Cash"
   },
   {
    "code": "120mvisits",
@@ -83,6 +91,6 @@
    "reward": "30,000 Cash"
   }
  ],
- "updated": "2026-10-07T05:17:31.820Z",
+ "updated": "2026-10-08T23:13:29.955Z",
  "source": "https://robloxden.com/game-codes/highway-legends"
 }

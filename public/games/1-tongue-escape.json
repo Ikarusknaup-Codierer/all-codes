@@ -19,10 +19,14 @@
    "reward": "a 2x Tongue Boost (30 Minutes)"
   },
   {
-   "code": "LICKNLOAD",
-   "reward": "3,000 Tongue , 2x Tongue (20 Minutes), and 2x Wins (10 Minutes)"
+   "code": "FALSE",
+   "reward": "2x Tongue (20 Minutes) and 2x Wins (10 Minutes)"
+  },
+  {
+   "code": "WAGGLEWIN",
+   "reward": "2x Tongue (20 Minutes) and 2x Wins (10 Minutes)"
   }
  ],
- "updated": "2026-10-07T13:05:07.482Z",
+ "updated": "2026-10-08T23:23:30.226Z",
  "source": "https://robloxden.com/game-codes/1-tongue-escape"
 }

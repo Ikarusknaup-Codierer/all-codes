@@ -1,64 +1,64 @@
 {
  "slug": "type-race-simulator",
- "name": "Type Race Simulator",
+ "name": "Fastest Typer Race",
  "codes": [
   {
    "code": "Code",
    "reward": "Description"
   },
   {
-   "code": "15KLIKES",
-   "reward": "Free Boosts"
-  },
-  {
-   "code": "10KLIKES",
-   "reward": "Free Boosts"
-  },
-  {
-   "code": "5KLIKES",
-   "reward": "Free Boosts"
-  },
-  {
-   "code": "4KLIKES",
-   "reward": "Free Boosts"
-  },
-  {
-   "code": "2KLIKES",
-   "reward": "Free Boosts"
+   "code": "30KLIKES",
+   "reward": "Some Keys And Boosts"
   },
   {
    "code": "25KLIKES",
-   "reward": "750 Keys and 1 2x Wins Boost"
+   "reward": "Some Keys And Boosts"
   },
   {
-   "code": "30KLIKES",
-   "reward": "750 Keys and 1 2x Wins Boost"
+   "code": "2KLIKES",
+   "reward": "1 2x Wins Boost and 200 Keys"
   },
   {
-   "code": "3KLIKES",
-   "reward": "200 Keys and 1 2x Speed Boost"
+   "code": "4KLIKES",
+   "reward": "1 2x Wins Boost and 200 Keys"
   },
   {
-   "code": "1KLIKES",
-   "reward": "250 Keys and 1 2x Speed Boost"
+   "code": "5KLIKES",
+   "reward": "1 2x Luck Boost and 200 Keys"
   },
   {
-   "code": "20KLIKES",
-   "reward": "500 Keycaps and 1 2x keys Boost"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "1 2x Speed Boost"
+   "code": "10KLIKES",
+   "reward": "1 2x Wins Boost and 300 Keys"
   },
   {
    "code": "CRUSH",
    "reward": "1 2x Speed Boost"
   },
   {
+   "code": "15KLIKES",
+   "reward": "1 2x Speed Boost and 400 Keys"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "1 2x Luck Boost and 250 Keys"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "1 2x Speed Boost and 200 Keys"
+  },
+  {
    "code": "LOVE",
-   "reward": "1 2x Wins Boost"
+   "reward": "1 2x Speed Boost"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "1 2x Speed Boost and 250 Keys"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 2x Speed Boost"
   }
  ],
- "updated": "2026-10-07T13:04:45.567Z",
+ "updated": "2026-10-08T23:23:05.203Z",
  "source": "https://robloxden.com/game-codes/type-race-simulator"
 }

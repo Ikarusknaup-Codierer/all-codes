@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "AGENTBACON",
-   "reward": "an Access Denied message"
-  },
-  {
    "code": "FIRSTOFFICERFAIZ",
    "reward": "500 Miles"
   },
@@ -19,12 +15,16 @@
    "reward": "350 Miles"
   },
   {
+   "code": "10KCOMMUNITY",
+   "reward": "1,500 Miles"
+  },
+  {
    "code": "CRASHLANDING",
    "reward": "750 Miles"
   },
   {
-   "code": "TSUNAMI",
-   "reward": "the Citrus Plane Skin"
+   "code": "AGENTBACON",
+   "reward": "an Access Denied message"
   },
   {
    "code": "CARGO",
@@ -47,6 +47,6 @@
    "reward": "1,000 Miles"
   }
  ],
- "updated": "2026-10-07T13:05:07.026Z",
+ "updated": "2026-10-08T23:23:29.696Z",
  "source": "https://robloxden.com/game-codes/land-or-die"
 }

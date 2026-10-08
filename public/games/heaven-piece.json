@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "UPD9",
-   "reward": "1 Event Box and 500 Gems"
-  },
-  {
-   "code": "Gilgamesh",
-   "reward": "1 Event Box, 500 Gems and 2x EXP (2 Minutes )"
+   "code": "UPD14",
+   "reward": "an Event Box , x2 Shard (10 Minutes) and x2 Drop (10 Minutes)"
   },
   {
    "code": "Rimuru",
@@ -57,8 +53,16 @@
   {
    "code": "UPD10",
    "reward": "1 Event Box and 2x Shards"
+  },
+  {
+   "code": "UPD9",
+   "reward": "1 Event Box and 500 Gems"
+  },
+  {
+   "code": "Gilgamesh",
+   "reward": "1 Event Box, 500 Gems and 2x EXP (2 Minutes )"
   }
  ],
- "updated": "2026-10-06T13:06:45.314Z",
+ "updated": "2026-10-08T05:27:21.817Z",
  "source": "https://robloxden.com/game-codes/heaven-piece"
 }

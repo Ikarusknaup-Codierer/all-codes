@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Cyberpsycho!",
+   "reward": "5 Dragon Coins and 50 Trait Shards"
+  },
+  {
+   "code": "Reawakenings!",
+   "reward": "5 Dragon Coins and 10 Prisms"
+  },
+  {
+   "code": "BigDelay!",
+   "reward": "5 Dragon Coins and 100 Trait Shards"
+  },
+  {
    "code": "WAdminAbuse!",
    "reward": "50 Trait Shards , 25 Crusader Capsules , and 1 Devil Capsule"
   },
@@ -123,6 +135,6 @@
    "reward": "50 Trait Shards and 2,000 Gold"
   }
  ],
- "updated": "2026-10-06T13:05:42.329Z",
+ "updated": "2026-10-08T05:26:13.425Z",
  "source": "https://robloxden.com/game-codes/anime-squadron"
 }

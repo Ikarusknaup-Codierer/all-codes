@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "4MFavourites",
+   "reward": "a 2x Wins Boost for 10 Minutes"
+  },
+  {
+   "code": "World5Complete",
+   "reward": "1 Admin Spin"
+  },
+  {
    "code": "100MVisits",
    "reward": "2x Wins Boost (10 Minutes)"
   },
@@ -19,14 +27,10 @@
    "reward": "a 2x Speed Boost for (10 Minutes)"
   },
   {
-   "code": "griffin",
-   "reward": "2x Wins Boost (10 Minutes)"
-  },
-  {
    "code": "4MGroupMembers",
    "reward": "an Admin Spin"
   }
  ],
- "updated": "2026-10-06T13:08:30.037Z",
+ "updated": "2026-10-08T05:29:16.116Z",
  "source": "https://robloxden.com/game-codes/1-speed-evolve"
 }

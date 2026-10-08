@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SEALSARETHEBEST",
-   "reward": "Cash"
-  },
-  {
-   "code": "TIMOTHYSAYSHI",
-   "reward": "10,000 Style Currency , and 15,000 Cash"
-  },
-  {
    "code": "NELMASTERY",
    "reward": "15,000 Cash"
   },
@@ -35,8 +27,16 @@
    "reward": "Brother Noah Emote"
   },
   {
+   "code": "SEALSARETHEBEST",
+   "reward": "Cash"
+  },
+  {
    "code": "ELGOALBOXCHANGE",
    "reward": "5,000 Cash , and 5,000 Style Currency"
+  },
+  {
+   "code": "TIMOTHYSAYSHI",
+   "reward": "10,000 Style Currency , and 15,000 Cash"
   },
   {
    "code": "SOCLOSE",
@@ -159,6 +159,6 @@
    "reward": "X Emote"
   }
  ],
- "updated": "2026-10-06T13:12:55.534Z",
+ "updated": "2026-10-08T05:33:56.981Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

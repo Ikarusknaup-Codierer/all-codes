@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "BLACKHOLEFOXY",
+   "reward": "25,000 Tokens and 2,500 Untradable Souls"
+  },
+  {
+   "code": "SELECTIONBANNER",
+   "reward": "50,000 Tokens , 2,500 Untradable Souls , 50 Seasonal Presents , 50 End"
+  },
+  {
+   "code": "SILLYBEAR5",
+   "reward": "25,000 Tokens , 1,500 Untradable Souls , 10 Endo Chips , and 5 Springl"
+  },
+  {
+   "code": "RINGMASTER",
+   "reward": "2,500 Untradable Soul , 150 AFK 2 Present , and 50 AFK 3 Present"
+  },
+  {
+   "code": "MOTORIST",
+   "reward": "50,000 Tokens , 200 AFK2 Present , 50 Spring Locks , and 10 Remnant"
+  },
+  {
+   "code": "SORRY4DELAY4",
+   "reward": "15 Springlocks , 50 Endo Chips , 100 Raid Coins , 1,000 Season XP , an"
+  },
+  {
    "code": "NEWAFKPRESENT",
    "reward": "5,000 Tokens , 2,500 Untradable Souls , 50 Seasonal Presents , 50 Endo"
   },
@@ -187,6 +211,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-06T13:14:19.110Z",
+ "updated": "2026-10-08T05:35:23.399Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

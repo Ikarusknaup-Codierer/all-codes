@@ -15,18 +15,18 @@
    "reward": "5 Amber Crates"
   },
   {
-   "code": "NEWMAP",
-   "reward": "1 Amber Crate"
-  },
-  {
    "code": "PART2",
    "reward": "1 Asylum Crate and 1 Amber Crate"
   },
   {
    "code": "AMBERALERT2",
    "reward": "80 Amber"
+  },
+  {
+   "code": "DELAYREWARD",
+   "reward": "2 Amber Crates"
   }
  ],
- "updated": "2026-10-06T13:11:28.357Z",
+ "updated": "2026-10-08T05:32:23.089Z",
  "source": "https://robloxden.com/game-codes/amber-alert"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "cashbug",
+   "reward": "100 Tickets"
+  },
+  {
+   "code": "superminiupdatecode",
+   "reward": "5 All Potions"
+  },
+  {
    "code": "Update8",
    "reward": "5 All Potions"
   },
@@ -113,16 +121,8 @@
   {
    "code": "Release",
    "reward": "+1 All Potions"
-  },
-  {
-   "code": "1000ccu",
-   "reward": "75 Tickets"
-  },
-  {
-   "code": "600ccu",
-   "reward": "3 All Potions and 25 Tickets"
   }
  ],
- "updated": "2026-10-06T13:07:06.782Z",
+ "updated": "2026-10-08T05:27:42.795Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

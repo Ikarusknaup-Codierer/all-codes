@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "EternalStatsVerify",
-   "reward": "5 Walk Speed , 1.1 Rune Luck , and 1.1 Rune Speed"
+   "code": "MiniUpdate",
+   "reward": "5 Rune Bulk Potion , 5 Rune Luck Potion , 5 Rune Speed Potion , and 10"
+  },
+  {
+   "code": "AmazingSupport",
+   "reward": "5 Rune Bulk Potion , 5 Rune Luck Potion , 5 Rune Speed Potion , and 10"
   },
   {
    "code": "HugeVisitMilestone",
@@ -49,8 +53,12 @@
   {
    "code": "Release",
    "reward": "5 Of Each Potions"
+  },
+  {
+   "code": "EternalStatsVerify",
+   "reward": "5 Walk Speed , 1.1 Rune Luck , and 1.1 Rune Speed"
   }
  ],
- "updated": "2026-10-06T05:57:31.121Z",
+ "updated": "2026-10-08T05:25:22.839Z",
  "source": "https://robloxden.com/game-codes/eternal-stats"
 }

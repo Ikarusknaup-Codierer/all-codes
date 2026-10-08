@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "burnout",
+   "reward": "20,000 Cash"
+  },
+  {
    "code": "get-it",
    "reward": "25,000 Cash"
   },
@@ -15,6 +19,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-10-06T13:06:24.312Z",
+ "updated": "2026-10-08T05:27:01.634Z",
  "source": "https://robloxden.com/game-codes/nitrolab-drag-racing"
 }

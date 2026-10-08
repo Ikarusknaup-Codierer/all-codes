@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CRATEHUNT250",
-   "reward": "250 Diamonds"
-  },
-  {
-   "code": "ZOMBIE300",
-   "reward": "300 Diamonds"
-  },
-  {
    "code": "STACKED300K",
    "reward": "300,000 Gold"
   },
@@ -71,10 +63,18 @@
    "reward": "100,000 Gold"
   },
   {
+   "code": "CRATEHUNT250",
+   "reward": "250 Diamonds"
+  },
+  {
+   "code": "ZOMBIE300",
+   "reward": "300 Diamonds"
+  },
+  {
    "code": "BIGBANK600K",
    "reward": "600,000 Gold"
   }
  ],
- "updated": "2026-10-06T13:09:00.861Z",
+ "updated": "2026-10-08T05:29:48.126Z",
  "source": "https://robloxden.com/game-codes/polyz-zombies-rng"
 }

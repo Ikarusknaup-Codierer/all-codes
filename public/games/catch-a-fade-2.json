@@ -31,10 +31,6 @@
    "reward": "Fade 4 crate"
   },
   {
-   "code": "ShutdownRealSorry!",
-   "reward": "750 Credits"
-  },
-  {
    "code": "WelcomeAuras!",
    "reward": "a Random Aura"
   },
@@ -45,8 +41,12 @@
   {
    "code": "ShutdownAgainSorry!",
    "reward": "Fade 4 Crate and 2,000 credits"
+  },
+  {
+   "code": "ShutdownRealSorry!",
+   "reward": "750 Credits"
   }
  ],
- "updated": "2026-10-06T22:34:40.088Z",
+ "updated": "2026-10-08T05:39:24.215Z",
  "source": "https://robloxden.com/game-codes/catch-a-fade-2"
 }

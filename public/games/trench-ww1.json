@@ -59,10 +59,6 @@
    "reward": "Rewards"
   },
   {
-   "code": "4MVISITS",
-   "reward": "600 Medals"
-  },
-  {
    "code": "5KMEMBERSPEAK!",
    "reward": "500 Medals and 3 Unlisted Comestics Crates"
   },
@@ -87,10 +83,6 @@
    "reward": "200 Medals and 1 Enlisted Cosmetic Crates"
   },
   {
-   "code": "MERCILESSWARBOND",
-   "reward": "300 Medals and 2 Enlisted Cosmetic Crates"
-  },
-  {
    "code": "MAJORUPDATEPUSHOUTLETSGO",
    "reward": "2 Enlisted Cosmetic Crates"
   },
@@ -111,14 +103,10 @@
    "reward": "1 Enlisted Melee Crate"
   },
   {
-   "code": "CosmeticCrateTryMeOut",
-   "reward": "1 Enlisted Cosmetic Crate"
-  },
-  {
    "code": "FirearmsMoreLikeArmFire",
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-10-06T22:37:19.126Z",
+ "updated": "2026-10-08T13:13:39.603Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

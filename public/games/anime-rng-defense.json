@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WORLDTOWERSHUTDOWN",
+   "reward": "2x Divine Rolls and 1x Blessed Roll"
+  },
+  {
    "code": "UPDATEPUNCH",
    "reward": "1,000 Crystals and 1 Blessed Roll"
   },
@@ -203,6 +207,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-10-06T13:14:57.551Z",
+ "updated": "2026-10-08T13:09:07.294Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

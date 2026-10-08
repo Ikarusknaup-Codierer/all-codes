@@ -47,10 +47,6 @@
    "reward": "5 Luck Potions and 10 Carrots"
   },
   {
-   "code": "ancientgift",
-   "reward": "10 Timeless Eggs"
-  },
-  {
    "code": "voidpair",
    "reward": "2 Void Eggs"
   },
@@ -131,6 +127,10 @@
    "reward": "2 Void Eggs and 5 Timeless Eggs"
   },
   {
+   "code": "ancientgift",
+   "reward": "10 Timeless Eggs"
+  },
+  {
    "code": "clockgift",
    "reward": "5 Timeless Eggs"
   },
@@ -179,6 +179,6 @@
    "reward": "5 Power Potions and 10 Apple Fruits"
   }
  ],
- "updated": "2026-10-06T22:33:37.514Z",
+ "updated": "2026-10-08T13:11:46.411Z",
  "source": "https://robloxden.com/game-codes/launch-a-wheel"
 }

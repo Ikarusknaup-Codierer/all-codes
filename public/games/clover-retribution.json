@@ -31,32 +31,12 @@
    "reward": "an Elixir to reset the skill tree once. You must be in the First Kingd"
   },
   {
-   "code": "!iactuallywantedtokens",
-   "reward": "5 Anniversary Tokens . You must be in the First Kingdom to redeem this"
-  },
-  {
    "code": "!iactuallywantedtokens2",
-   "reward": "4 Tokens . You must be in the First Kingdom to redeem this code"
-  },
-  {
-   "code": "!lephos601stbirthday",
-   "reward": "Corrupted 3 Stars Dragon Ball . You must be in the First Kingdom to us"
-  },
-  {
-   "code": "!changedmainmenu",
-   "reward": "25 Spins of Each Type"
-  },
-  {
-   "code": "!imtiredbutweballsolosoon",
-   "reward": "250 Free Spins"
+   "reward": "4 Tokens . You must first Reach First Kingdom to use this code"
   },
   {
    "code": "!anniversarypart2soon",
    "reward": "125 Spins of All Types"
-  },
-  {
-   "code": "!quickjunglefixes",
-   "reward": "Free Spins"
   },
   {
    "code": "!happy3rdanniversary",
@@ -81,8 +61,16 @@
   {
    "code": "!legendarykyntharystuff",
    "reward": "Free Spins. You must be at least level 43 to redeem this code"
+  },
+  {
+   "code": "!iactuallywantedtokens",
+   "reward": "5 Anniversary Tokens . You must be in the First Kingdom to redeem this"
+  },
+  {
+   "code": "!lephos601stbirthday",
+   "reward": "Corrupted 3 Stars Dragon Ball . You must be in the First Kingdom to us"
   }
  ],
- "updated": "2026-10-07T05:18:19.257Z",
+ "updated": "2026-10-08T13:22:02.745Z",
  "source": "https://robloxden.com/game-codes/clover-retribution"
 }

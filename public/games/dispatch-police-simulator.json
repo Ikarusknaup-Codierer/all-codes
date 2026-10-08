@@ -15,10 +15,6 @@
    "reward": "$123 Cash"
   },
   {
-   "code": "CONSTRUCTION",
-   "reward": "210 Cash"
-  },
-  {
    "code": "NAVIGATE",
    "reward": "120 Cash"
   },
@@ -63,6 +59,6 @@
    "reward": "101 Cash"
   }
  ],
- "updated": "2026-10-06T22:33:45.704Z",
+ "updated": "2026-10-08T13:11:48.788Z",
  "source": "https://robloxden.com/game-codes/dispatch-police-simulator"
 }

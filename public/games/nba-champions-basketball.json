@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MERCY",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "BALLER",
    "reward": "1 All-Star Chest"
   },
@@ -55,10 +51,14 @@
    "reward": "Free Rewards"
   },
   {
+   "code": "MERCY",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "ALLSTAR1",
    "reward": "One All-Star Chest"
   }
  ],
- "updated": "2026-10-06T22:36:45.863Z",
+ "updated": "2026-10-08T13:13:00.794Z",
  "source": "https://robloxden.com/game-codes/nba-champions-basketball"
 }

@@ -11,10 +11,6 @@
    "reward": "rewards"
   },
   {
-   "code": "deadgamehaha",
-   "reward": "8 Spins"
-  },
-  {
    "code": "sorryaboutreinforcemens",
    "reward": "1 Max NPCs And 2 Spins"
   },
@@ -57,8 +53,12 @@
   {
    "code": "tenaccessoriesupdate",
    "reward": "3 Spins"
+  },
+  {
+   "code": "deadgamehaha",
+   "reward": "8 Spins"
   }
  ],
- "updated": "2026-10-06T13:19:37.074Z",
+ "updated": "2026-10-08T13:09:59.185Z",
  "source": "https://robloxden.com/game-codes/artificial-warfare"
 }

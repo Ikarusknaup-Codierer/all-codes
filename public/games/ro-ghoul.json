@@ -11,10 +11,6 @@
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   },
   {
-   "code": "Deya2!",
-   "reward": "1 Million RC, 10 Million Yen, 30 Color Credits, and 20 Hearts"
-  },
-  {
    "code": "Farewell_CRH",
    "reward": "80 Hearts"
   },
@@ -47,6 +43,10 @@
    "reward": "60 Color Credits , 40 Hearts , 1,000,000 RC and 10,000,000 Yen"
   },
   {
+   "code": "Deya2!",
+   "reward": "1 Million RC, 10 Million Yen, 30 Color Credits, and 20 Hearts"
+  },
+  {
    "code": "ServerIssues26",
    "reward": "40 Hearts"
   },
@@ -71,6 +71,6 @@
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   }
  ],
- "updated": "2026-10-07T22:58:54.564Z",
+ "updated": "2026-10-09T12:55:19.294Z",
  "source": "https://robloxden.com/game-codes/ro-ghoul"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GHOST",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "JUMPSCARE",
+   "reward": "30x Rerolls"
+  },
+  {
    "code": "BLOODDROP",
    "reward": "30 Rerolls"
   },
@@ -17,8 +25,40 @@
   {
    "code": "SNOWISCOMING",
    "reward": "30 Rerolls"
+  },
+  {
+   "code": "SHOULDERCARRY",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "THROWTHEBODY",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "NEWOUTFITS",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "HIGHSTRIKER",
+   "reward": "20 Rerolls"
+  },
+  {
+   "code": "UNO",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "ARCADEJOBFIX",
+   "reward": "20 Rerolls"
+  },
+  {
+   "code": "CHESSFIX",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "BILLIARD",
+   "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-10-07T22:58:21.659Z",
+ "updated": "2026-10-09T12:54:51.859Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

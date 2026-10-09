@@ -1,21 +1,13 @@
 {
  "slug": "draw-n-spawn",
- "name": "Draw n' Spawn",
+ "name": "Drawings Attack",
  "codes": [
   {
    "code": "Code",
    "reward": "Description"
   },
   {
-   "code": "4KLIKES",
-   "reward": "500 Paint Cans"
-  },
-  {
    "code": "audish",
-   "reward": "500 Paint Cans"
-  },
-  {
-   "code": "5klikes",
    "reward": "500 Paint Cans"
   },
   {
@@ -23,18 +15,10 @@
    "reward": "500 Paint Cans"
   },
   {
-   "code": "turkey",
+   "code": "5klikes",
    "reward": "500 Paint Cans"
-  },
-  {
-   "code": "sneezy",
-   "reward": "500 Paint Cans"
-  },
-  {
-   "code": "2klikes",
-   "reward": "Rewards"
   }
  ],
- "updated": "2026-10-07T22:59:18.334Z",
+ "updated": "2026-10-09T12:55:40.236Z",
  "source": "https://robloxden.com/game-codes/draw-n-spawn"
 }

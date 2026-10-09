@@ -91,10 +91,6 @@
    "reward": "3 Season Lucky Tickets"
   },
   {
-   "code": "GROCERYFIX",
-   "reward": "2 Race Rerolls"
-  },
-  {
    "code": "ROYALCIRCUS",
    "reward": "3 Starwish Cards"
   },
@@ -163,10 +159,14 @@
    "reward": "10 Race Rerolls"
   },
   {
+   "code": "GROCERYFIX",
+   "reward": "2 Race Rerolls"
+  },
+  {
    "code": "THURSDAYGIFT",
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-10-07T23:05:37.768Z",
+ "updated": "2026-10-09T13:01:51.112Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

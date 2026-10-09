@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LAUNCH",
+   "reward": "1 Lucky Ticket"
+  },
+  {
    "code": "TY200LIKES",
    "reward": "1 Lucky Ticket"
   },
@@ -21,12 +25,8 @@
   {
    "code": "ENJOYWEEKEND",
    "reward": "1 Lucky Ticket"
-  },
-  {
-   "code": "LAUNCH",
-   "reward": "1 Lucky Ticket"
   }
  ],
- "updated": "2026-10-07T23:02:44.100Z",
+ "updated": "2026-10-09T12:59:25.896Z",
  "source": "https://robloxden.com/game-codes/monster-battles"
 }

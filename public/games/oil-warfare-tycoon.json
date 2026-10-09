@@ -1,40 +1,28 @@
 {
  "slug": "oil-warfare-tycoon",
- "name": "Oil Warfare Tycoon",
+ "name": "War Tycoon",
  "codes": [
   {
    "code": "Code",
    "reward": "Description"
   },
   {
-   "code": "Socks",
-   "reward": "the SocksBlox Skin"
-  },
-  {
-   "code": "ONEBILLION",
-   "reward": "the Neon Nightfall Skin , 3 Elite Camo Cases , $1,000,000 In-Game Cash"
-  },
-  {
-   "code": "Boom",
-   "reward": "the Verdant Skin"
+   "code": "WAR1MIL",
+   "reward": "1,000,000 Cash , 1 Instant Research Unlock , 1 Elite Camo Case , and 1"
   },
   {
    "code": "Wiki200K",
-   "reward": "the Magmaflow Skin"
+   "reward": "Magmaflow Weapon Skin"
   },
   {
-   "code": "WAR1MIL",
-   "reward": "1 Research Instant Unlock , 1 Elite Camo Case , $1,000,000 In-Game Cas"
+   "code": "Boom",
+   "reward": "Verdant Gun Skin"
   },
   {
-   "code": "Map!",
-   "reward": "15 Medals , 250,000 Cash , and a 2x Cash Boost (30 Minutes)"
-  },
-  {
-   "code": "Airforce",
-   "reward": ""
+   "code": "200K",
+   "reward": "200,000 Cash, 1 Life Barrett M82 Gamepads Gun, And 20 Minutes 2x Cash "
   }
  ],
- "updated": "2026-10-07T23:02:07.273Z",
+ "updated": "2026-10-09T12:58:43.802Z",
  "source": "https://robloxden.com/game-codes/oil-warfare-tycoon"
 }

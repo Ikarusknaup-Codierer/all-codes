@@ -59,10 +59,6 @@
    "reward": "Dodotor"
   },
   {
-   "code": "GamerBattlepass",
-   "reward": "A Free Doodle"
-  },
-  {
    "code": "Pizza",
    "reward": "5 Stars Muncheez"
   },
@@ -283,10 +279,14 @@
    "reward": "Chain Boost"
   },
   {
+   "code": "GamerBattlepass",
+   "reward": "A Free Doodle"
+  },
+  {
    "code": "YippeeGems",
    "reward": "400 Gems"
   }
  ],
- "updated": "2026-10-07T22:58:22.349Z",
+ "updated": "2026-10-09T12:54:52.636Z",
  "source": "https://robloxden.com/game-codes/doodle-world"
 }

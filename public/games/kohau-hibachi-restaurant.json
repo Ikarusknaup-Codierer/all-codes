@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Honey",
-   "reward": "50 Sushi Rolls"
-  },
-  {
    "code": "Revamp",
    "reward": "15 Sushi Rolls"
+  },
+  {
+   "code": "Honey",
+   "reward": "50 Sushi Rolls"
   },
   {
    "code": "Party",
@@ -27,6 +27,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-07T23:03:07.648Z",
+ "updated": "2026-10-09T12:59:48.995Z",
  "source": "https://robloxden.com/game-codes/kohau-hibachi-restaurant"
 }

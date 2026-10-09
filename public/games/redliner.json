@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "RETURN",
+   "reward": "Rewards"
+  },
+  {
+   "code": "LFINHERITORPLS",
+   "reward": "Rewards"
+  },
+  {
    "code": "BLACKHOLE",
    "reward": "800 Crimson"
   }
  ],
- "updated": "2026-10-07T23:04:39.642Z",
+ "updated": "2026-10-09T13:01:10.082Z",
  "source": "https://robloxden.com/game-codes/redliner"
 }

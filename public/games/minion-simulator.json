@@ -11,22 +11,22 @@
    "reward": "1,000 Taps and 1,000 Gems"
   },
   {
-   "code": "LIKE80K",
-   "reward": "3 Triple Gems Boosters"
-  },
-  {
-   "code": "LIKE30K",
-   "reward": "Free Gems or a Booster"
-  },
-  {
    "code": "LIKE500",
    "reward": "5,000 Gems"
   },
   {
+   "code": "LIKE240K",
+   "reward": "2x Triple Gems Boost"
+  },
+  {
    "code": "LIKE210K",
    "reward": "2 Mega Lucky Boosters"
+  },
+  {
+   "code": "WUMPUS20K",
+   "reward": "Mega Lucky Booster"
   }
  ],
- "updated": "2026-10-07T22:59:38.291Z",
+ "updated": "2026-10-09T12:56:00.261Z",
  "source": "https://robloxden.com/game-codes/minion-simulator"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ALPHABET2",
+   "reward": "4 Mythic Packs"
+  },
+  {
    "code": "MASTER",
    "reward": "3 Mythic Packs"
   },
@@ -67,6 +71,6 @@
    "reward": "1 Mythic Pack"
   }
  ],
- "updated": "2026-10-07T23:03:57.355Z",
+ "updated": "2026-10-09T13:00:26.361Z",
  "source": "https://robloxden.com/game-codes/collect-the-alphabet"
 }

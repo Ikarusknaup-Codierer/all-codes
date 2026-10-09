@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UncappedAbilities",
-   "reward": "Luck Boost (2 hrs) , Luck Boost++ (2 hrs) , and Lucky Boost+ (2 hrs)"
-  },
-  {
-   "code": "UPDATEWOOOO",
-   "reward": "50K Cash"
-  },
-  {
    "code": "FistFixes!!",
    "reward": "1 Hour of All Luck Boosts"
   },
@@ -41,6 +33,14 @@
   {
    "code": "STARRK",
    "reward": "5 Wheel Spins"
+  },
+  {
+   "code": "UncappedAbilities",
+   "reward": "Luck Boost (2 hrs) , Luck Boost++ (2 hrs) , and Lucky Boost+ (2 hrs)"
+  },
+  {
+   "code": "UPDATEWOOOO",
+   "reward": "50K Cash"
   },
   {
    "code": "sorryimportantshutdown",
@@ -255,6 +255,6 @@
    "reward": "1 Fast Roll Boost"
   }
  ],
- "updated": "2026-10-07T23:01:54.440Z",
+ "updated": "2026-10-09T12:58:29.002Z",
  "source": "https://robloxden.com/game-codes/ultra-un-fair"
 }

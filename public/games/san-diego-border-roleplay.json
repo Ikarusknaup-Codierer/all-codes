@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PIRATE",
+   "reward": "50K Cash"
+  },
+  {
    "code": "CARGOSHIP",
    "reward": "50K Cash"
   },
@@ -31,6 +35,6 @@
    "reward": "$25,000"
   }
  ],
- "updated": "2026-10-08T05:28:22.070Z",
+ "updated": "2026-10-09T13:05:39.410Z",
  "source": "https://robloxden.com/game-codes/san-diego-border-roleplay"
 }

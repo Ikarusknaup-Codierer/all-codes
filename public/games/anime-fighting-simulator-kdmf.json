@@ -27,6 +27,10 @@
    "reward": "1 Temporary Server Boost , 4 Stat Boosts , 4 Chikara Boosts , and 2 Te"
   },
   {
+   "code": "SORRY4SHUTDOWN",
+   "reward": "1,000 Clover Token and 1 Temporary Server Boost"
+  },
+  {
    "code": "NEWUPDATE9",
    "reward": "5,000 Chikara , 3,000 Tensei Shards , 12 Trait Rerolls , 4 Stat Boosts"
   },
@@ -41,12 +45,8 @@
   {
    "code": "SEASON2",
    "reward": "750 Tensei Shards , 4 Stat Boosts , 4 Training Speed Boosts , and 10 T"
-  },
-  {
-   "code": "MIDWEEK",
-   "reward": "500 Tensei Shards , 2 Training Speed Boosts , 2 Yen Boosts , and 10 Tr"
   }
  ],
- "updated": "2026-10-07T22:59:51.829Z",
+ "updated": "2026-10-09T12:56:13.509Z",
  "source": "https://robloxden.com/game-codes/anime-fighting-simulator-kdmf"
 }

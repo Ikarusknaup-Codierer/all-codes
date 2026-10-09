@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Gemstone",
+   "reward": "1x Superplets Potion"
+  },
+  {
    "code": "BugPack",
    "reward": "a Superplets Potion"
   },
@@ -67,6 +71,6 @@
    "reward": "2 Insta Hatch Tokens"
   }
  ],
- "updated": "2026-10-08T05:27:49.090Z",
+ "updated": "2026-10-09T13:05:10.943Z",
  "source": "https://robloxden.com/game-codes/slime-card-collection"
 }

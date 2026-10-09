@@ -11,7 +11,11 @@
    "reward": "350 Cash"
   },
   {
-   "code": "thanks4thelikes",
+   "code": "WHOOSH",
+   "reward": "350 Coins"
+  },
+  {
+   "code": "Money",
    "reward": "350 Coins"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "WORKER",
    "reward": "300 Coins"
-  },
-  {
-   "code": "CASH",
-   "reward": "350 Coins"
   }
  ],
- "updated": "2026-10-07T13:02:10.457Z",
+ "updated": "2026-10-09T05:29:35.528Z",
  "source": "https://robloxden.com/game-codes/demo-ville-demolition-simulator"
 }

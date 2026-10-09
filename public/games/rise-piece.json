@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "400kVisits",
+   "reward": "Free Rewards . You need to reach Level 1000 to use this code"
+  },
+  {
    "code": "SorryForDelayy",
    "reward": "Free Rewards . You need to reach Level 5,000 to use this code"
   },
@@ -23,6 +27,6 @@
    "reward": "100K Cash and 200 Trait Rerolls"
   }
  ],
- "updated": "2026-10-07T22:56:23.257Z",
+ "updated": "2026-10-09T05:35:21.155Z",
  "source": "https://robloxden.com/game-codes/rise-piece"
 }

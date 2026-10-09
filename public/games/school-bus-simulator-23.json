@@ -1,6 +1,6 @@
 {
  "slug": "school-bus-simulator-23",
- "name": "School Bus Simulator 23",
+ "name": "School Bus Sim",
  "codes": [
   {
    "code": "Code",
@@ -11,8 +11,36 @@
    "reward": "1,000 Cash"
   },
   {
-   "code": "53KLIKES",
-   "reward": "1,100 In-Game Money"
+   "code": "44KLIKES",
+   "reward": "1,000 In-Game Money"
+  },
+  {
+   "code": "45KLIKES",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "46KLIKES",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "47KLIKES",
+   "reward": "1,000 In-Game Money"
+  },
+  {
+   "code": "48KLIKES",
+   "reward": "1,000 In-Game Money"
+  },
+  {
+   "code": "DELAYASUSUAL",
+   "reward": "3,100 In-Game Money"
+  },
+  {
+   "code": "49KLIKES",
+   "reward": "1,000 In-Game Money"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "1,000 In-Game Money"
   },
   {
    "code": "51KLIKES",
@@ -21,48 +49,8 @@
   {
    "code": "52KLIKES",
    "reward": "1,000 In-Game Money"
-  },
-  {
-   "code": "50KLIKES",
-   "reward": "1,000 In-Game Money"
-  },
-  {
-   "code": "49KLIKES",
-   "reward": "1,000 In-Game Money"
-  },
-  {
-   "code": "DELAYASUSUAL",
-   "reward": "3,100 In-Game Money"
-  },
-  {
-   "code": "48KLIKES",
-   "reward": "1,000 In-Game Money"
-  },
-  {
-   "code": "47KLIKES",
-   "reward": "1,000 In-Game Money"
-  },
-  {
-   "code": "46KLIKES",
-   "reward": "1,000 Cash"
-  },
-  {
-   "code": "45KLIKES",
-   "reward": "1,000 Cash"
-  },
-  {
-   "code": "44KLIKES",
-   "reward": "1,000 In-Game Money"
-  },
-  {
-   "code": "POLICEUPDATE",
-   "reward": ""
-  },
-  {
-   "code": "32KLIKES",
-   "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-10-07T13:06:43.746Z",
+ "updated": "2026-10-09T05:32:48.225Z",
  "source": "https://robloxden.com/game-codes/school-bus-simulator-23"
 }

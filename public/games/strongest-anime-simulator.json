@@ -1,52 +1,52 @@
 {
  "slug": "strongest-anime-simulator",
- "name": "Strongest Anime Simulator",
+ "name": "Ultimate Anime Simulator",
  "codes": [
   {
    "code": "Code",
    "reward": "Description"
   },
   {
-   "code": "UPDATE900",
+   "code": "Char246",
+   "reward": "Mythical Hero"
+  },
+  {
+   "code": "Char321",
+   "reward": "Legendary Hero"
+  },
+  {
+   "code": "Char123",
+   "reward": "Epic Hero"
+  },
+  {
+   "code": "Gem150",
    "reward": "200 Gems"
   },
   {
-   "code": "CHAR123",
-   "reward": "the Epic Saber Character"
-  },
-  {
-   "code": "COIN555",
-   "reward": "2,000 Coins"
-  },
-  {
-   "code": "CHAR321",
-   "reward": "the Legendary Hawk Character"
-  },
-  {
-   "code": "CHAR246",
-   "reward": "the Mythical Robot Character"
-  },
-  {
-   "code": "GEM150",
+   "code": "Group110",
    "reward": "200 Gems"
   },
   {
-   "code": "GROUP110",
+   "code": "Discord200",
    "reward": "200 Gems"
   },
   {
-   "code": "DISCORD200",
+   "code": "Update140",
    "reward": "200 Gems"
   },
   {
-   "code": "GEM666",
-   "reward": "200 Gems"
+   "code": "Coin555",
+   "reward": "1,000 Coins"
   },
   {
-   "code": "GEM699",
+   "code": "Gem600",
+   "reward": "600 Gems"
+  },
+  {
+   "code": "Update900",
    "reward": "200 Gems"
   }
  ],
- "updated": "2026-10-07T13:07:27.300Z",
+ "updated": "2026-10-09T05:33:35.363Z",
  "source": "https://robloxden.com/game-codes/strongest-anime-simulator"
 }

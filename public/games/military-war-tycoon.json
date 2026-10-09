@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "70KLIKES",
+   "reward": "20,000 Cash and a Desert Eagle for One Life"
+  },
+  {
    "code": "40KLIKES",
    "reward": "20,000 Cash"
   },
@@ -23,14 +27,10 @@
    "reward": "25,000 Cash"
   },
   {
-   "code": "1DAY",
-   "reward": "150,000 Cash"
-  },
-  {
-   "code": "70KLIKES",
-   "reward": "20,000 Cash and a Desert Eagle for One Life"
+   "code": "FIRSTCODE",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-07T13:06:54.650Z",
+ "updated": "2026-10-09T05:33:00.465Z",
  "source": "https://robloxden.com/game-codes/military-war-tycoon"
 }

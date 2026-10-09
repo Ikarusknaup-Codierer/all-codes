@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "KITTY",
+   "reward": "150 Aura and 1 Spin"
+  },
+  {
+   "code": "SORRYFORTHEDELAY",
+   "reward": "250 Aura and 2 Spins"
+  },
+  {
+   "code": "ISeeYouCheaters!",
+   "reward": "100 Aura"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "150 Aura"
+  },
+  {
    "code": "PhonkDelay",
    "reward": "100 Aura and 1 Spin"
   },
@@ -19,18 +35,10 @@
    "reward": "100 Aura"
   },
   {
-   "code": "500KVISITS",
-   "reward": "150 Aura"
-  },
-  {
    "code": "3KLIKES",
    "reward": "4 Spins"
-  },
-  {
-   "code": "OGPLAYER",
-   "reward": "the exclusive [OG] title"
   }
  ],
- "updated": "2026-10-07T13:07:16.770Z",
+ "updated": "2026-10-09T05:33:22.972Z",
  "source": "https://robloxden.com/game-codes/phonk-slap"
 }

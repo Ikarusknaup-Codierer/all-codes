@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "MOREFRAMES",
-   "reward": "100 Reroll Tokens"
-  },
-  {
    "code": "SUPERDOG",
    "reward": "1 Skill Tree Reset , 15 Ability Rerolls , and 250 Reroll Tokens"
   },
   {
    "code": "CORNATIME",
    "reward": ""
+  },
+  {
+   "code": "55KLIKES",
+   "reward": "50 Reroll Tokens"
   },
   {
    "code": "SEVEREDUNIVERSE",
@@ -27,6 +27,6 @@
    "reward": "80 Reroll Tokens"
   }
  ],
- "updated": "2026-10-07T13:01:19.803Z",
+ "updated": "2026-10-09T05:28:45.696Z",
  "source": "https://robloxden.com/game-codes/fire-force-online"
 }

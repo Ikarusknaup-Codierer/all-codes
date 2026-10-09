@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SOVEREIGN",
+   "reward": "3 Sovereign Gifts"
+  },
+  {
    "code": "Weather",
    "reward": "20 Prison Writs"
   },
@@ -435,14 +439,14 @@
    "reward": "1 Strength Potion , 2 Dark Strength Potions and 1 Mega Potion"
   },
   {
-   "code": "ENDLESSEVENT",
-   "reward": "Mega Potion"
+   "code": "xfrozenstudioscode1",
+   "reward": "1 Mega Potion"
   },
   {
-   "code": "xfrozencodea",
-   "reward": "1 xFrozen A Pet"
+   "code": "SORRYX",
+   "reward": "Mega Potion"
   }
  ],
- "updated": "2026-10-07T13:02:15.985Z",
+ "updated": "2026-10-09T05:29:41.884Z",
  "source": "https://robloxden.com/game-codes/pull-a-sword"
 }

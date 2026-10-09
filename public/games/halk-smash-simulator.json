@@ -1,26 +1,10 @@
 {
  "slug": "halk-smash-simulator",
- "name": "Halk Smash Simulator",
+ "name": "Hulk Smash Simulator",
  "codes": [
   {
    "code": "Code",
    "reward": "Description"
-  },
-  {
-   "code": "smash",
-   "reward": "5 Coins"
-  },
-  {
-   "code": "300likes",
-   "reward": "Shiny Boost"
-  },
-  {
-   "code": "update",
-   "reward": "Gamma Boost"
-  },
-  {
-   "code": "500likes",
-   "reward": "Gamma Boost"
   },
   {
    "code": "1000likes",
@@ -35,6 +19,6 @@
    "reward": "Gamma Boost"
   }
  ],
- "updated": "2026-10-07T13:04:11.147Z",
+ "updated": "2026-10-09T05:31:37.002Z",
  "source": "https://robloxden.com/game-codes/halk-smash-simulator"
 }

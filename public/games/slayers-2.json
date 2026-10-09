@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BREATHRESET",
+   "reward": "a Breath Reset"
+  },
+  {
+   "code": "ARTRESET",
+   "reward": "an Evil Art Reset"
+  },
+  {
+   "code": "SPINS50",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "SKILLTREERESET",
+   "reward": "a Skill Tree Points Reset"
+  },
+  {
    "code": "ANIM4L",
    "reward": "50 Spins"
   },
@@ -15,6 +31,6 @@
    "reward": "a Skill Tree Points Reset"
   }
  ],
- "updated": "2026-10-08T05:28:43.955Z",
+ "updated": "2026-10-09T22:30:09.489Z",
  "source": "https://robloxden.com/game-codes/slayers-2"
 }

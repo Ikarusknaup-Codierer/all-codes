@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ALPHA",
+   "reward": "the Alpha Sign"
+  },
+  {
+   "code": "SAMGYUPSALAMAT",
+   "reward": "5,000 Cash , 5 Cheese , 5 Teriyaki Pork , and 5 Lettuce"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "2,500 Cash , 15 Lettuce , 10 Pork BBQ , 15 Cheese , and 20 Plain Pork"
+  },
+  {
    "code": "ONEMORESONG",
    "reward": "Encore Grill , Encore Exhaust , Encore Table , and Encore Chair"
   },
@@ -15,6 +27,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-08T05:29:10.939Z",
+ "updated": "2026-10-09T22:30:33.801Z",
  "source": "https://robloxden.com/game-codes/tara-samgyup"
 }

@@ -11,30 +11,6 @@
    "reward": "an Event Box , x2 Shard (10 Minutes) and x2 Drop (10 Minutes)"
   },
   {
-   "code": "Rimuru",
-   "reward": "2x EXP (2 Minutes), 100 Gems, and 1 Event Box"
-  },
-  {
-   "code": "UPD8",
-   "reward": "500 Gems and 1 Event Box"
-  },
-  {
-   "code": "UPD7",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "300KVisits",
-   "reward": "500 Gems"
-  },
-  {
-   "code": "200KVisits",
-   "reward": "500 Gems"
-  },
-  {
-   "code": "150KVisits",
-   "reward": "2x EXP (20 Minutes) , 2x Beli (20 Minutes) , and 2,000 Gems"
-  },
-  {
    "code": "UPD13",
    "reward": "1 Event Box"
   },
@@ -61,8 +37,32 @@
   {
    "code": "Gilgamesh",
    "reward": "1 Event Box, 500 Gems and 2x EXP (2 Minutes )"
+  },
+  {
+   "code": "Rimuru",
+   "reward": "2x EXP (2 Minutes), 100 Gems, and 1 Event Box"
+  },
+  {
+   "code": "UPD8",
+   "reward": "500 Gems and 1 Event Box"
+  },
+  {
+   "code": "UPD7",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "300KVisits",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "200KVisits",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "150KVisits",
+   "reward": "2x EXP (20 Minutes) , 2x Beli (20 Minutes) , and 2,000 Gems"
   }
  ],
- "updated": "2026-10-08T05:27:21.817Z",
+ "updated": "2026-10-09T22:29:16.398Z",
  "source": "https://robloxden.com/game-codes/heaven-piece"
 }

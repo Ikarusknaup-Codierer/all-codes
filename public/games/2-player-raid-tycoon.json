@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LAUNCH",
+   "reward": "1,000 Cash and 1 Guard Ticket"
+  },
+  {
    "code": "TY4500",
    "reward": "240 Cash , 1 Airstrike , 1 Guard Ticket , 5 Gems , and a 2x Cash Boost"
   },
@@ -23,6 +27,6 @@
    "reward": "1 Airstrike , 1 Guard Ticket , 25 Gems , and x2 Cash (5 mins)"
   }
  ],
- "updated": "2026-10-08T05:29:10.223Z",
+ "updated": "2026-10-09T22:30:33.100Z",
  "source": "https://robloxden.com/game-codes/2-player-raid-tycoon"
 }

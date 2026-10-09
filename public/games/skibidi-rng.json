@@ -71,10 +71,14 @@
    "reward": "2 Potions"
   },
   {
-   "code": "500Members",
+   "code": "5000Members",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "1600Likes",
    "reward": "Free Potions"
   }
  ],
- "updated": "2026-10-08T13:14:53.961Z",
+ "updated": "2026-10-09T22:43:17.765Z",
  "source": "https://robloxden.com/game-codes/skibidi-rng"
 }

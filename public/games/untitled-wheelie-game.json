@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FREECASH",
+   "reward": "$250"
+  },
+  {
    "code": "NEWMAP",
    "reward": "Free Rewards"
   },
@@ -15,6 +19,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-08T05:28:45.191Z",
+ "updated": "2026-10-09T22:30:10.838Z",
  "source": "https://robloxden.com/game-codes/untitled-wheelie-game"
 }

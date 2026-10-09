@@ -15,18 +15,18 @@
    "reward": "10 Croissants"
   },
   {
-   "code": "TRICKORTREAT",
-   "reward": "2,500 Charms"
-  },
-  {
    "code": "ADVENT12",
    "reward": "the Sweater Cosmetic"
   },
   {
-   "code": "ADVENT15",
+   "code": "SPAWN15",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "ADVENT22",
    "reward": "2,500 Coins"
   }
  ],
- "updated": "2026-10-08T13:09:44.827Z",
+ "updated": "2026-10-09T22:38:46.874Z",
  "source": "https://robloxden.com/game-codes/miraculous-tower-defense"
 }

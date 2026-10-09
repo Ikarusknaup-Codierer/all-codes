@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FRESHSTORY",
+   "reward": "Story Reset"
+  },
+  {
    "code": "FRESHSTATS",
    "reward": "Reset Stats"
   },
@@ -19,6 +23,6 @@
    "reward": "This code resets your combat style . Warning: This deletes your past c"
   }
  ],
- "updated": "2026-10-08T05:28:35.179Z",
+ "updated": "2026-10-09T22:30:01.799Z",
  "source": "https://robloxden.com/game-codes/gohan"
 }

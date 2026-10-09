@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TALLHOUSE",
-   "reward": "1 Large Penthouse"
-  },
-  {
    "code": "BOOM",
    "reward": "1 Tank Depot"
   },
@@ -33,8 +29,12 @@
   {
    "code": "3MVISITS",
    "reward": "$3M and a 3M Statue"
+  },
+  {
+   "code": "TALLHOUSE",
+   "reward": "1 Large Penthouse"
   }
  ],
- "updated": "2026-10-08T05:35:20.787Z",
+ "updated": "2026-10-09T22:34:44.626Z",
  "source": "https://robloxden.com/game-codes/build-a-country"
 }

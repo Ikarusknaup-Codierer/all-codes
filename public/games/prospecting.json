@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "delay",
+   "reward": "250 Meteor Shards and 2× Luck (3 Hours)"
+  },
+  {
    "code": "rebuild",
    "reward": "$20,000 , 200 Meteor Shards , and 2x Luck (1 Hour)"
   },
@@ -27,6 +31,6 @@
    "reward": "20K Cash"
   }
  ],
- "updated": "2026-10-08T05:28:07.324Z",
+ "updated": "2026-10-09T22:29:42.291Z",
  "source": "https://robloxden.com/game-codes/prospecting"
 }

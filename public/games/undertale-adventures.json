@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "UPDSEP25!",
-   "reward": "Rerolls"
+   "code": "THANKYOUFORWAITING",
+   "reward": "30 Trait Rerolls, 500 Gold, 1K Souls and 5 Summons"
   },
   {
    "code": "UPDATEJUNE10",
    "reward": ""
+  },
+  {
+   "code": "WINTER2025",
+   "reward": "Free Rewards"
   },
   {
    "code": "WELOVEUAPLAYERS",
@@ -23,6 +27,6 @@
    "reward": "3 Rerolls"
   }
  ],
- "updated": "2026-10-08T05:27:12.749Z",
+ "updated": "2026-10-09T22:29:08.558Z",
  "source": "https://robloxden.com/game-codes/undertale-adventures"
 }

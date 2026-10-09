@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "DUNGEON6",
+   "reward": "1 Ore Potion , 10 Jade , and 5 Tickets"
+  },
+  {
+   "code": "DUNGEON5",
+   "reward": "20 Jades and 5 Tickets"
+  },
+  {
+   "code": "CATACOMBS",
+   "reward": "15 Jades and 5 Pots of Ore"
+  },
+  {
    "code": "HEAVENHASFALLEN",
    "reward": "1 Weather Potion and 10 Jade"
   },
@@ -325,12 +337,8 @@
   {
    "code": "HYPE",
    "reward": "5 Tickets"
-  },
-  {
-   "code": "SORRYFORMISTAKE",
-   "reward": ""
   }
  ],
- "updated": "2026-10-08T05:26:59.168Z",
+ "updated": "2026-10-09T22:29:01.585Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

@@ -11,6 +11,10 @@
    "reward": "100 Gems"
   },
   {
+   "code": "NewYear",
+   "reward": "1,000 Snowflakes"
+  },
+  {
    "code": "UPDATE8",
    "reward": "200 Gems"
   },
@@ -21,12 +25,8 @@
   {
    "code": "Enchanted",
    "reward": "100 Gems"
-  },
-  {
-   "code": "UPDATE6",
-   "reward": "100 Gems"
   }
  ],
- "updated": "2026-10-08T13:14:44.057Z",
+ "updated": "2026-10-09T22:43:06.098Z",
  "source": "https://robloxden.com/game-codes/insane-button-simulator"
 }

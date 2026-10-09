@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "AlbinoAndAlpha",
-   "reward": "125 Shells"
-  },
-  {
    "code": "AccessoryBuff",
    "reward": "75 Shells"
   },
@@ -23,10 +19,14 @@
    "reward": "25 Shells"
   },
   {
-   "code": "90klikes",
+   "code": "130klikes",
+   "reward": "Shells"
+  },
+  {
+   "code": "110klikes",
    "reward": "25 Shells"
   }
  ],
- "updated": "2026-10-08T05:38:19.088Z",
+ "updated": "2026-10-09T22:35:15.039Z",
  "source": "https://robloxden.com/game-codes/survive-on-a-raft"
 }

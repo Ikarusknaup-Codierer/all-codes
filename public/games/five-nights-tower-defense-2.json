@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BLACKHOLEFOXY",
-   "reward": "25,000 Tokens and 2,500 Untradable Souls"
-  },
-  {
    "code": "SELECTIONBANNER",
    "reward": "50,000 Tokens , 2,500 Untradable Souls , 50 Seasonal Presents , 50 End"
   },
@@ -65,6 +61,10 @@
   {
    "code": "FREEBIE",
    "reward": "2,500 Tokens and 25 Souls"
+  },
+  {
+   "code": "BLACKHOLEFOXY",
+   "reward": "25,000 Tokens and 2,500 Untradable Souls"
   },
   {
    "code": "SLUMBER",
@@ -211,6 +211,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-08T05:35:23.399Z",
+ "updated": "2026-10-09T22:34:46.074Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

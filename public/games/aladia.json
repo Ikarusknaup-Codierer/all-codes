@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "waxen",
+   "reward": "Waxen - Combat_P"
+  },
+  {
+   "code": "Hexspine",
+   "reward": "Hexspine - Pistol"
+  },
+  {
    "code": "rar",
    "reward": "1,000 cash"
   },
@@ -36,10 +44,6 @@
   },
   {
    "code": "GES",
-   "reward": "100 Cash"
-  },
-  {
-   "code": "LGA",
    "reward": "100 Cash"
   },
   {
@@ -143,6 +147,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-10-08T05:35:50.272Z",
+ "updated": "2026-10-09T22:34:56.602Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

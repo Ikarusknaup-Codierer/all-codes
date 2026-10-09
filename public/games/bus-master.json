@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TRANSANT",
+   "reward": "100,000 Cash"
+  },
+  {
    "code": "RACEBUS",
    "reward": "45,000 Cash"
   },
@@ -23,6 +27,6 @@
    "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-10-08T05:28:51.499Z",
+ "updated": "2026-10-09T22:30:15.374Z",
  "source": "https://robloxden.com/game-codes/bus-master"
 }

@@ -27,10 +27,6 @@
    "reward": "100 Burgers"
   },
   {
-   "code": "NewTraits",
-   "reward": "100 Burgers"
-  },
-  {
    "code": "32MVISITS",
    "reward": "75 Burgers"
   },
@@ -40,6 +36,10 @@
   },
   {
    "code": "NewQuests",
+   "reward": "100 Burgers"
+  },
+  {
+   "code": "NewTraits",
    "reward": "100 Burgers"
   },
   {
@@ -75,6 +75,6 @@
    "reward": "200 Burgers"
   }
  ],
- "updated": "2026-10-08T13:09:26.701Z",
+ "updated": "2026-10-09T22:38:30.187Z",
  "source": "https://robloxden.com/game-codes/dead-spells"
 }

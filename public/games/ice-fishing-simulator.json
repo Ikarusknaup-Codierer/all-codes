@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "COOKING",
+   "reward": "5,000 Coins"
+  },
+  {
    "code": "FISH",
    "reward": "500 Gems"
   },
@@ -31,6 +35,6 @@
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-10-09T05:30:12.920Z",
+ "updated": "2026-10-10T21:26:09.327Z",
  "source": "https://robloxden.com/game-codes/ice-fishing-simulator"
 }

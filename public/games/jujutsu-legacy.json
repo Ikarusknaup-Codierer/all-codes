@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "StarRage",
+   "reward": "75 Tech Spins , 25 Race Spins , and 25 Clan Spins"
+  },
+  {
+   "code": "WuUpd",
+   "reward": "30 Technique Spins . You need to be level 5 to redeem this code"
+  },
+  {
    "code": "Dabura",
    "reward": "Rewards"
   },
@@ -71,10 +79,10 @@
    "reward": "In-Game Rewards"
   },
   {
-   "code": "4KLIKES",
-   "reward": "10 Clan Spins"
+   "code": "SorryForInfBugs",
+   "reward": "250 Technique Spins"
   }
  ],
- "updated": "2026-10-09T05:31:04.393Z",
+ "updated": "2026-10-10T21:26:57.610Z",
  "source": "https://robloxden.com/game-codes/jujutsu-legacy"
 }

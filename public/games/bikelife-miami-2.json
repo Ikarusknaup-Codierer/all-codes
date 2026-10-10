@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NO_COLLISION",
-   "reward": "2,500 Cash"
-  },
-  {
    "code": "BL2_UP",
    "reward": "2,500 Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "WHIP_1",
    "reward": "5,000 Cash"
+  },
+  {
+   "code": "Bl2Group",
+   "reward": "2,750 Cash . This code requires you to have joined the Bikelife: Commu"
   }
  ],
- "updated": "2026-10-09T05:31:27.354Z",
+ "updated": "2026-10-10T21:27:19.550Z",
  "source": "https://robloxden.com/game-codes/bikelife-miami-2"
 }

@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWVEMBER",
+   "reward": "Friendly Spirits Knife"
+  },
+  {
    "code": "10M",
    "reward": "10 Million Celebration Knife"
+  },
+  {
+   "code": "CUPID",
+   "reward": "Heartbreaker Knife"
   },
   {
    "code": "SPOOKY2020",
@@ -17,16 +25,8 @@
   {
    "code": "TRICKORTREAT",
    "reward": "Stab-O'-Lantern Slycer"
-  },
-  {
-   "code": "MINING",
-   "reward": "Charcoal Slycer"
-  },
-  {
-   "code": "OOPSIES",
-   "reward": "the Oopsie Daisies Weapon"
   }
  ],
- "updated": "2026-10-09T05:35:39.513Z",
+ "updated": "2026-10-10T21:30:05.494Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

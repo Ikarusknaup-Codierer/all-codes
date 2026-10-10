@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "HeadOfHei",
-   "reward": "3,000 Culling Points"
-  },
-  {
-   "code": "LuckWorks",
-   "reward": "3,000 Gems"
-  },
-  {
    "code": "BattlepassS8",
    "reward": "10,000 Coins"
-  },
-  {
-   "code": "SnailIsComing",
-   "reward": "1200 Coins"
   },
   {
    "code": "Burger",
@@ -115,6 +103,6 @@
    "reward": "999 Coins"
   }
  ],
- "updated": "2026-10-09T05:28:37.118Z",
+ "updated": "2026-10-10T21:24:44.124Z",
  "source": "https://robloxden.com/game-codes/sorcerer-tower-defense"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMERALMOSTOVER",
+   "code": "DREAD2020",
    "reward": "$1,000"
   },
   {
-   "code": "BDAY",
+   "code": "DREADBREAD",
+   "reward": "$1,000"
+  },
+  {
+   "code": "DREADJUSTUPDATED",
    "reward": "$2,500"
   },
   {
-   "code": "KEVLAR",
+   "code": "KALASH",
    "reward": "Unknown Reward"
   },
   {
-   "code": "SURVIVORSWON",
+   "code": "MAGNUM",
    "reward": "Unknown Reward"
-  },
-  {
-   "code": "NOMORECHRISTMAS",
-   "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-10-09T05:31:38.963Z",
+ "updated": "2026-10-10T21:27:30.343Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

@@ -7,6 +7,58 @@
    "reward": "Description"
   },
   {
+   "code": "update7",
+   "reward": "3x Tide Baits and a Luck Potion"
+  },
+  {
+   "code": "kraken",
+   "reward": "5 Meadow Baits"
+  },
+  {
+   "code": "Release",
+   "reward": "$1,000"
+  },
+  {
+   "code": "Update2",
+   "reward": "$2,500 and 3 Tide Baits"
+  },
+  {
+   "code": "Update3",
+   "reward": "$2,500 and 3 Tide Baits"
+  },
+  {
+   "code": "Fishing",
+   "reward": "5 Meadow Baits"
+  },
+  {
+   "code": "ThanksforPlaying",
+   "reward": "$5,000 and a Luck Potion"
+  },
+  {
+   "code": "Gifting",
+   "reward": "5 Meadow Baits"
+  },
+  {
+   "code": "Mutations",
+   "reward": "5 Meadow Baits"
+  },
+  {
+   "code": "BigFish",
+   "reward": "3 Meadow Baits"
+  },
+  {
+   "code": "Update5",
+   "reward": "3 Tide Baits and a Luck Potion"
+  },
+  {
+   "code": "Update6",
+   "reward": "3 Tide Baits and a Luck Potion"
+  },
+  {
+   "code": "Frostmere",
+   "reward": "5 Meadow Baits"
+  },
+  {
    "code": "skins",
    "reward": "3 Meadow Baits"
   },
@@ -23,6 +75,6 @@
    "reward": "the Tidal Rod Skin"
   }
  ],
- "updated": "2026-10-09T05:31:57.002Z",
+ "updated": "2026-10-10T21:27:47.546Z",
  "source": "https://robloxden.com/game-codes/deep-fishing"
 }

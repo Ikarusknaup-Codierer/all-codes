@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Release",
+   "reward": "3 Elite Capture Balls"
+  },
+  {
+   "code": "FirstUpdate",
+   "reward": "5 Elite Capture Balls"
+  },
+  {
+   "code": "EggTime",
+   "reward": "1 Epic Egg"
+  },
+  {
    "code": "2400Likes",
    "reward": "3 Fire Rate Boost Potions"
   },
@@ -15,6 +27,6 @@
    "reward": "2 Apex Capture Balls"
   }
  ],
- "updated": "2026-10-09T12:54:58.284Z",
+ "updated": "2026-10-10T21:32:14.217Z",
  "source": "https://robloxden.com/game-codes/catch-dragons-to-defend"
 }

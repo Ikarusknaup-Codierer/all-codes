@@ -23,10 +23,6 @@
    "reward": "1 of Each Potion"
   },
   {
-   "code": "SORRYDELAY",
-   "reward": "1 of Each Potion"
-  },
-  {
    "code": "500FAVS",
    "reward": "1 of Each Potion"
   },
@@ -40,6 +36,22 @@
   },
   {
    "code": "1KPLAYERS",
+   "reward": "1 of Each Potion"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "1 of Each Potion"
+  },
+  {
+   "code": "100LIKES",
+   "reward": "1 of Each Potion"
+  },
+  {
+   "code": "SORRYPOTIONS",
+   "reward": "10 of Each Potion"
+  },
+  {
+   "code": "SORRYDELAY",
    "reward": "1 of Each Potion"
   },
   {
@@ -63,30 +75,18 @@
    "reward": "1 of Each Potion"
   },
   {
-   "code": "500LIKES",
-   "reward": "1 of Each Potion"
-  },
-  {
-   "code": "100LIKES",
-   "reward": "1 of Each Potion"
-  },
-  {
-   "code": "SORRYPOTIONS",
-   "reward": "10 of Each Potion"
-  },
-  {
-   "code": "Release",
-   "reward": "1 of Each Potion"
-  },
-  {
    "code": "H4RUZ",
    "reward": "1 of Each Potion"
   },
   {
    "code": "250LIKES",
    "reward": "1 of Each Potion"
+  },
+  {
+   "code": "Release",
+   "reward": "1 of Each Potion"
   }
  ],
- "updated": "2026-10-09T05:28:03.143Z",
+ "updated": "2026-10-10T21:24:26.220Z",
  "source": "https://robloxden.com/game-codes/anime-swords"
 }

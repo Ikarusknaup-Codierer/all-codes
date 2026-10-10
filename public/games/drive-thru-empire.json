@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LUNARBOOST",
+   "reward": "a Lunar Boost"
+  },
+  {
+   "code": "GO4GOLD",
+   "reward": "Gold"
+  },
+  {
+   "code": "X5LUCK",
+   "reward": "5x Luck"
+  },
+  {
+   "code": "X10CASH",
+   "reward": "x10 Cash Boost"
+  },
+  {
+   "code": "LUCK301",
+   "reward": "2x Luck (30 Minutes)"
+  },
+  {
+   "code": "BONUSCASH",
+   "reward": "$50,000 Cash"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "$2,500 Cash"
   }
  ],
- "updated": "2026-10-09T12:54:58.969Z",
+ "updated": "2026-10-10T21:32:14.834Z",
  "source": "https://robloxden.com/game-codes/drive-thru-empire"
 }

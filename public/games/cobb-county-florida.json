@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDDELAY",
+   "reward": "500,000 cash"
+  },
+  {
    "code": "LIMITEDDROP",
    "reward": "50,000"
   },
@@ -27,6 +31,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-10-09T12:55:00.342Z",
+ "updated": "2026-10-10T21:32:15.912Z",
  "source": "https://robloxden.com/game-codes/cobb-county-florida"
 }

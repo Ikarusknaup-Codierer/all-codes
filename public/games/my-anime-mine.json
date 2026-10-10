@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "STORM",
+   "code": "LifeIsRoblox",
+   "reward": "2 Enchanted Dice"
+  },
+  {
+   "code": "SOULFORGE",
    "reward": "1 Enchanted Dice and 1 Summon Scroll"
   },
   {
-   "code": "EnchantedSummons",
-   "reward": "1 Enchanted Dice and 1 Summon Scroll"
+   "code": "EnchantedStrength",
+   "reward": "1 Strength Dice and 1 Enchanted Dice"
+  },
+  {
+   "code": "MUTATIONLUCK",
+   "reward": "1 Mutation Luck Potion"
   }
  ],
- "updated": "2026-10-08T23:19:23.724Z",
+ "updated": "2026-10-10T12:20:27.415Z",
  "source": "https://robloxden.com/game-codes/my-anime-mine"
 }

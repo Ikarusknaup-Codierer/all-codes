@@ -15,18 +15,18 @@
    "reward": "5 Wheel Spins"
   },
   {
-   "code": "plsdonate",
-   "reward": "100 Player Tickets"
-  },
-  {
    "code": "WOW",
    "reward": "1 Lantern Egg"
   },
   {
    "code": "cosmoblox",
    "reward": "2 Spins"
+  },
+  {
+   "code": "delayed",
+   "reward": "5 Spins"
   }
  ],
- "updated": "2026-10-08T23:14:28.937Z",
+ "updated": "2026-10-10T12:16:21.122Z",
  "source": "https://robloxden.com/game-codes/tug-of-war-simulator"
 }

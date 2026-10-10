@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SPACEFORCE",
+   "reward": "1,250 Gym Tokens"
+  },
+  {
    "code": "500M",
    "reward": "Freebies"
   },
@@ -83,14 +87,10 @@
    "reward": "1,250 Gym Tokens"
   },
   {
-   "code": "SUMMERHEAT",
-   "reward": "1,250 Gym Tokens"
-  },
-  {
-   "code": "AURA",
-   "reward": "2x of each Booster"
+   "code": "HALLOWEEN",
+   "reward": "500 Candy"
   }
  ],
- "updated": "2026-10-08T23:11:46.349Z",
+ "updated": "2026-10-10T12:13:45.426Z",
  "source": "https://robloxden.com/game-codes/gym-star-simulator"
 }

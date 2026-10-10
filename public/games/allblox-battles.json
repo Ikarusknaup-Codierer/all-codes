@@ -11,10 +11,6 @@
    "reward": "10 Windmills"
   },
   {
-   "code": "spear",
-   "reward": "Coins"
-  },
-  {
    "code": "lasergun",
    "reward": "200 Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "GKNYLEWALS",
    "reward": "10 Windmills"
+  },
+  {
+   "code": "broadsword",
+   "reward": "2,000 Coins"
   }
  ],
- "updated": "2026-10-08T23:14:58.899Z",
+ "updated": "2026-10-10T12:16:51.039Z",
  "source": "https://robloxden.com/game-codes/allblox-battles"
 }

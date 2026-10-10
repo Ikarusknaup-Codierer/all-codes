@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1",
+   "reward": "1 Cursed Cake"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "25,000 Speed"
+  },
+  {
    "code": "jellyfish",
    "reward": "1 Cursed Cake"
   },
@@ -15,6 +23,6 @@
    "reward": "1 Fairy Cake"
   }
  ],
- "updated": "2026-10-09T05:28:12.333Z",
+ "updated": "2026-10-10T12:22:52.451Z",
  "source": "https://robloxden.com/game-codes/raise-an-anomaly-scp"
 }

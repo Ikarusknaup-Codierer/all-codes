@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SEASONCHANGE",
+   "reward": "2 Money Potions"
+  },
+  {
    "code": "INDEXTWO",
    "reward": "1 Spike Trap and 1 Money Potion"
   },
@@ -23,6 +27,6 @@
    "reward": "1 Bloodlit Carrot Seed and 1 Money Potion"
   }
  ],
- "updated": "2026-10-08T23:09:31.398Z",
+ "updated": "2026-10-10T12:12:26.266Z",
  "source": "https://robloxden.com/game-codes/defend-my-ring-farm"
 }

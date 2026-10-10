@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "UpdateSoon",
-   "reward": "20 Levels"
+   "code": "3MVisits",
+   "reward": "50 Stars"
   },
   {
-   "code": "3500Likes",
+   "code": "LiberatorMeta",
+   "reward": "10 Liberator"
+  },
+  {
+   "code": "LevelsAreUseless",
+   "reward": "50,000 XP"
+  },
+  {
+   "code": "750Likes",
    "reward": "5 Levels"
   },
   {
-   "code": "14KLIKES",
-   "reward": "50 Upgrade Tokens"
-  },
-  {
-   "code": "GoldRush",
-   "reward": "100,000 of Money Boost"
-  },
-  {
-   "code": "3MVisits",
-   "reward": "50 Stars"
+   "code": "1500Likes",
+   "reward": "1,500 MoneyBoost"
   }
  ],
- "updated": "2026-10-09T05:32:59.795Z",
+ "updated": "2026-10-10T12:27:00.355Z",
  "source": "https://robloxden.com/game-codes/pgtd-3"
 }

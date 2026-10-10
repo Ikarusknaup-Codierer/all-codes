@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "thanksForFeedback!",
-   "reward": "25,000 Cash , 2 1.5x Time Speed (10 Minutes) and 2 2x Time Speed (10 M"
-  },
-  {
    "code": "tungTungSahur",
    "reward": "Rewards"
   },
@@ -25,8 +21,12 @@
   {
    "code": "verifiedLetsGo",
    "reward": "500,000 Money"
+  },
+  {
+   "code": "jumpStart",
+   "reward": "100,000 Money"
   }
  ],
- "updated": "2026-10-08T13:17:58.164Z",
+ "updated": "2026-10-10T05:17:34.337Z",
  "source": "https://robloxden.com/game-codes/scp-architect-x"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ADMINABUSE1",
+   "reward": "the F2P Tokens"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "15,000 Gems , a Damage Potion III , a Luck Potion III , and an XP Poti"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "15,000 Gems , a Damage Potion III , a Luck Potion III , an XP Potion I"
+  },
+  {
    "code": "BONUS",
    "reward": "100 Gems , a Spin , a Damage Potion II , a Luck Potion I , and a Coin "
   },
@@ -75,6 +87,6 @@
    "reward": "25 Gems and a Spin"
   }
  ],
- "updated": "2026-10-08T13:16:00.386Z",
+ "updated": "2026-10-10T05:16:12.018Z",
  "source": "https://robloxden.com/game-codes/anime-avatar-fighting"
 }

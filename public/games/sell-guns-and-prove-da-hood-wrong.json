@@ -15,11 +15,11 @@
    "reward": "75 Guns"
   },
   {
-   "code": "GUN",
-   "reward": "75 Guns"
+   "code": "RELEASE",
+   "reward": "Reward"
   },
   {
-   "code": "RELEASE",
+   "code": "BASEMENT",
    "reward": "Reward"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "Reward"
   }
  ],
- "updated": "2026-10-08T23:09:29.646Z",
+ "updated": "2026-10-10T05:19:23.461Z",
  "source": "https://robloxden.com/game-codes/sell-guns-and-prove-da-hood-wrong"
 }

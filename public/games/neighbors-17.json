@@ -11,10 +11,6 @@
    "reward": "250 Credits"
   },
   {
-   "code": "AUTUMN24",
-   "reward": "Leaf Blower Skin"
-  },
-  {
    "code": "HALLOWEEN",
    "reward": "150 Credits"
   },
@@ -23,10 +19,14 @@
    "reward": "100 Credits"
   },
   {
+   "code": "200K",
+   "reward": "200 Credits"
+  },
+  {
    "code": "BACKTOSCHOOL",
    "reward": "100 Credits"
   }
  ],
- "updated": "2026-10-08T23:09:01.188Z",
+ "updated": "2026-10-10T05:18:58.945Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

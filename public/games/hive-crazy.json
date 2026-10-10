@@ -7,10 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "Bee-Machine",
+   "reward": "5 Machine Passes"
+  },
+  {
+   "code": "MECH",
+   "reward": "a Lemonade and 5 Royal Jellies"
+  },
+  {
+   "code": "Gooey",
+   "reward": "10 Snail Goo Boosts"
+  },
+  {
+   "code": "Ghoul",
+   "reward": "a Blueberry Jam , a Coolant and 25 Wraith Boosts"
+  },
+  {
+   "code": "SAP4FREE",
+   "reward": "a Sapling"
+  },
+  {
+   "code": "Starbound",
+   "reward": "a Maple Syrup , 2 Melon Field Boosts , and 2 Hibiscus Garden Boosts"
+  },
+  {
+   "code": "500CCU",
+   "reward": "1 Star Potion Boost , 1 Sugar Cubes Boost , 1 Maple Syrup Boost , 1 Co"
+  },
+  {
    "code": "100Favs",
    "reward": "5 Machine Passes , 2 Coolants , 1 Lemonade , 1 Lavender Field Boost , "
   }
  ],
- "updated": "2026-10-08T13:10:56.891Z",
+ "updated": "2026-10-10T05:12:45.880Z",
  "source": "https://robloxden.com/game-codes/hive-crazy"
 }

@@ -8,11 +8,7 @@
   },
   {
    "code": "STARSOON",
-   "reward": "Free Cash"
-  },
-  {
-   "code": "JANKEN",
-   "reward": "400 Cash"
+   "reward": "300 Cash"
   },
   {
    "code": "FUTURERAID",
@@ -21,6 +17,10 @@
   {
    "code": "ATOMICV2",
    "reward": "500 Cash"
+  },
+  {
+   "code": "JANKEN",
+   "reward": "400 Cash"
   },
   {
    "code": "FUSE",
@@ -43,6 +43,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-10-08T13:15:48.528Z",
+ "updated": "2026-10-10T05:16:00.969Z",
  "source": "https://robloxden.com/game-codes/anime-rails"
 }

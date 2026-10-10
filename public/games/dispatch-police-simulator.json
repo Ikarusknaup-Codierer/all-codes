@@ -15,16 +15,8 @@
    "reward": "$123 Cash"
   },
   {
-   "code": "NAVIGATE",
-   "reward": "120 Cash"
-  },
-  {
    "code": "BIGMAP",
    "reward": "222 Cash"
-  },
-  {
-   "code": "COPLIFE",
-   "reward": "123 Cash"
   },
   {
    "code": "DETECT",
@@ -59,6 +51,6 @@
    "reward": "101 Cash"
   }
  ],
- "updated": "2026-10-08T13:11:48.788Z",
+ "updated": "2026-10-10T05:13:33.304Z",
  "source": "https://robloxden.com/game-codes/dispatch-police-simulator"
 }

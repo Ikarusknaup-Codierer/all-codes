@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE2",
+   "reward": "200 XP and 400 Cash"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "250 XP and 500 Cash"
+  },
+  {
    "code": "LOBBY",
    "reward": "500 Cash and 300 EXP"
   },
@@ -15,6 +23,6 @@
    "reward": "400 XP and $900 Cash"
   }
  ],
- "updated": "2026-10-10T05:18:06.867Z",
+ "updated": "2026-10-11T21:49:44.814Z",
  "source": "https://robloxden.com/game-codes/debt-hunt"
 }

@@ -207,14 +207,14 @@
    "reward": "Potions and Rolls"
   },
   {
-   "code": "UPDATE4",
-   "reward": "35 Weather Rerolls 10 +4 Luck Potions , and 10 Roll Speed 4"
+   "code": "TOKYOGHOUL",
+   "reward": "Potions and Rolls . You must have 50,000 rolls or above to claim this "
   },
   {
-   "code": "X2EVENT",
-   "reward": "4x +3 Luck Potion, 4x Roll Speed 3, 3x Corrupted Potion, and 50x Weath"
+   "code": "SORRY",
+   "reward": "100 Weather Rerolls"
   }
  ],
- "updated": "2026-10-10T05:12:59.227Z",
+ "updated": "2026-10-11T21:44:33.498Z",
  "source": "https://robloxden.com/game-codes/anime-card-battle-x"
 }

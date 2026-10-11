@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SHOCKFROST",
+   "reward": "500 Seeds"
+  },
+  {
+   "code": "PARASITE",
+   "reward": "750 Seeds"
+  },
+  {
+   "code": "TIMESTOP",
+   "reward": "750 Seeds"
+  },
+  {
+   "code": "MORTAR",
+   "reward": "500 Seeds"
+  },
+  {
    "code": "TRIANGLE",
    "reward": "500 Seeds"
   },
@@ -95,6 +111,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-10-10T05:17:00.136Z",
+ "updated": "2026-10-11T21:48:38.150Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

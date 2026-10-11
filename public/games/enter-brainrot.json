@@ -1,7 +1,12 @@
 {
  "slug": "enter-brainrot",
  "name": "Enter Brainrot",
- "codes": [],
- "updated": "2026-10-09T22:38:28.789Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  }
+ ],
+ "updated": "2026-10-11T21:42:01.546Z",
  "source": "https://robloxden.com/game-codes/enter-brainrot"
 }

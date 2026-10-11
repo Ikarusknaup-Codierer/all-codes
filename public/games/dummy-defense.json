@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UndeadMode",
+   "reward": "350 Bricks"
+  },
+  {
+   "code": "TY30kLikes",
+   "reward": "500 Bricks"
+  },
+  {
    "code": "ThewNewModeNB",
    "reward": "350 Bricks"
   },
   {
    "code": "SurgeonBotIsTuff",
    "reward": "400 Bricks"
-  },
-  {
-   "code": "SandboxMode",
-   "reward": "250 Bricks"
   }
  ],
- "updated": "2026-10-09T22:42:57.755Z",
+ "updated": "2026-10-11T21:42:30.898Z",
  "source": "https://robloxden.com/game-codes/dummy-defense"
 }

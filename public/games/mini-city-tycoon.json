@@ -7,7 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "FIRST",
+   "code": "TRAINS",
    "reward": "50 Diamonds"
   },
   {
@@ -21,8 +21,12 @@
   {
    "code": "secret",
    "reward": "25 Diamonds"
+  },
+  {
+   "code": "FIRST",
+   "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-10-10T05:16:09.389Z",
+ "updated": "2026-10-11T21:47:47.681Z",
  "source": "https://robloxden.com/game-codes/mini-city-tycoon"
 }

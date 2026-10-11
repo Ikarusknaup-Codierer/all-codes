@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "5MVISITS",
+   "reward": "800 Medals"
+  },
+  {
+   "code": "BELLSARECHIMING",
+   "reward": "100 Event Bells"
+  },
+  {
    "code": "LIVESTREAMBADGEHUNT",
    "reward": "600 Medals"
   },
@@ -107,6 +115,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-10-10T05:15:13.338Z",
+ "updated": "2026-10-11T21:46:52.073Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

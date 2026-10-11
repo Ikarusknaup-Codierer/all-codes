@@ -7,34 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "QOL1",
-   "reward": "3 Free Wheel Spins"
-  },
-  {
-   "code": "QOL2",
-   "reward": "10 Lucky Spins and 100k"
-  },
-  {
-   "code": "THANKYOUFORWAITING",
-   "reward": "50,000 Yen"
-  },
-  {
-   "code": "UPDATEOUTNOW",
-   "reward": "70,000 Yen"
-  },
-  {
-   "code": "JAPANDAYZ2",
-   "reward": "40K Yen"
-  },
-  {
    "code": "KNICKSIN5",
    "reward": "100K Yen"
   },
   {
    "code": "APPLEDAY",
    "reward": "100K Yen"
+  },
+  {
+   "code": "UPDATEISNEAR",
+   "reward": "20 Lucky Spins"
   }
  ],
- "updated": "2026-10-10T05:15:39.676Z",
+ "updated": "2026-10-11T21:47:18.340Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

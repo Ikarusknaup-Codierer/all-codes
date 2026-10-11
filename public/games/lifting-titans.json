@@ -49,8 +49,16 @@
   {
    "code": "MONDAYBOOSTS",
    "reward": "1 Player Boost"
+  },
+  {
+   "code": "SoLucky",
+   "reward": "A Reward"
+  },
+  {
+   "code": "FREELUCK",
+   "reward": "A Reward"
   }
  ],
- "updated": "2026-10-09T12:55:48.631Z",
+ "updated": "2026-10-11T05:02:08.056Z",
  "source": "https://robloxden.com/game-codes/lifting-titans"
 }

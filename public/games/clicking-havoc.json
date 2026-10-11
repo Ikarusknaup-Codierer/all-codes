@@ -215,10 +215,14 @@
    "reward": "the Mythic Lava Elemental Pet"
   },
   {
-   "code": "2HOURLUCK",
-   "reward": "Two Hours Of Double Luck"
+   "code": "UPDATE18",
+   "reward": "10 Minutes Of Triple Hatch"
+  },
+  {
+   "code": "AUTOMATION",
+   "reward": "the Mythic Robot Pet"
   }
  ],
- "updated": "2026-10-09T12:55:46.813Z",
+ "updated": "2026-10-11T05:02:06.996Z",
  "source": "https://robloxden.com/game-codes/clicking-havoc"
 }

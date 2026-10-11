@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FallPart2",
+   "reward": "2x Luck and 2x Hatch Speed (4 Hours)"
+  },
+  {
+   "code": "Wayfarer",
+   "reward": "2x Luck and 2x Hatch Speed (4 Hours)"
+  },
+  {
    "code": "FallUpdate",
    "reward": "2x Hatch Speed"
   },
@@ -353,10 +361,6 @@
   {
    "code": "FREEHATCHSPEED",
    "reward": "3 hours of 2x Hatch Speed"
-  },
-  {
-   "code": "CHRISTMASBOOST",
-   "reward": "4 hours of 2x Hatch Speed"
   },
   {
    "code": "CLOWN",
@@ -1083,6 +1087,10 @@
    "reward": "15 Minutes of 3x Shiny Chance"
   },
   {
+   "code": "CHRISTMASBOOST",
+   "reward": "4 hours of 2x Hatch Speed"
+  },
+  {
    "code": "FREESPEED",
    "reward": "2 hours of 2x Hatch Speed"
   },
@@ -1095,6 +1103,6 @@
    "reward": "2 Hours of 3x Mythic Chance"
   }
  ],
- "updated": "2026-10-09T12:59:42.543Z",
+ "updated": "2026-10-11T05:05:15.208Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

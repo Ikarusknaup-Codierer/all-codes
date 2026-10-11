@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "CHRISTMAS",
-   "reward": "the Gingerbread Pet"
+   "code": "gem900",
+   "reward": "Gem900 Reward"
   },
   {
-   "code": "10PETS",
-   "reward": "+10 Pet Slots"
+   "code": "HALLOWEEN",
+   "reward": "Pumpkin Pet"
   },
   {
    "code": "185KLikes",
@@ -23,6 +23,6 @@
    "reward": "1 Chicken Pet"
   }
  ],
- "updated": "2026-10-09T12:56:07.818Z",
+ "updated": "2026-10-11T05:02:22.420Z",
  "source": "https://robloxden.com/game-codes/speed-run-simulator"
 }

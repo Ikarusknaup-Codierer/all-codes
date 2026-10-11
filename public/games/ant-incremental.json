@@ -71,14 +71,14 @@
    "reward": "50 Tickets , 5 Tier 3 Damage Potions , and 5 Tier 3 HP Potions"
   },
   {
-   "code": "500CommunityMembers",
-   "reward": "50 Tickets and 10 Card Tier Tickets"
+   "code": "CardTraits",
+   "reward": "20 Tickets and 10 Trait Rerolls"
   },
   {
-   "code": "600Likes",
+   "code": "TicketMoundNERF",
    "reward": "perks"
   }
  ],
- "updated": "2026-10-09T13:08:30.057Z",
+ "updated": "2026-10-11T05:10:02.902Z",
  "source": "https://robloxden.com/game-codes/ant-incremental"
 }

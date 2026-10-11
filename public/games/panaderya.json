@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PANADERYA",
+   "reward": "1,234 Pesos and 2x Double Earning Potion"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "1,000 Pesos"
+  },
+  {
    "code": "SORRYULIT",
    "reward": "2,000 Pesos and 2x Double Earning Potion"
   },
@@ -23,6 +31,6 @@
    "reward": "2,345 Pesos , 2x Double Earning , and 1x Ultra Luck"
   }
  ],
- "updated": "2026-10-09T13:02:03.903Z",
+ "updated": "2026-10-11T05:07:24.963Z",
  "source": "https://robloxden.com/game-codes/panaderya"
 }

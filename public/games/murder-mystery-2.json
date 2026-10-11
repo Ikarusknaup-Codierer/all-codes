@@ -11,6 +11,10 @@
    "reward": "the Uncommon Knife"
   },
   {
+   "code": "NatureUpdate",
+   "reward": "500 Gold"
+  },
+  {
    "code": "SK3TCH",
    "reward": "Sketchy Knife"
   },
@@ -21,12 +25,8 @@
   {
    "code": "SK00L",
    "reward": "Skool Knife"
-  },
-  {
-   "code": "NatureUpdate",
-   "reward": "500 Gold"
   }
  ],
- "updated": "2026-10-09T12:54:43.307Z",
+ "updated": "2026-10-11T05:01:40.745Z",
  "source": "https://robloxden.com/game-codes/murder-mystery-2"
 }

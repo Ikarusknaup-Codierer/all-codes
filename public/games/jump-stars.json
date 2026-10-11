@@ -7,11 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "privatematches",
+   "code": "tournament",
    "reward": "1,500 Gems"
   },
   {
-   "code": "ultracharges",
+   "code": "Gamemodes",
    "reward": "2,000 Gems"
   },
   {
@@ -19,14 +19,14 @@
    "reward": "2,000 Gems"
   },
   {
-   "code": "kill!",
+   "code": "SummerEvent!",
    "reward": "2,500 Gems"
   },
   {
-   "code": "Update2",
-   "reward": "2,500 Gems"
+   "code": "Gone",
+   "reward": "3,000 Gems"
   }
  ],
- "updated": "2026-10-09T13:08:37.444Z",
+ "updated": "2026-10-11T05:10:10.562Z",
  "source": "https://robloxden.com/game-codes/jump-stars"
 }

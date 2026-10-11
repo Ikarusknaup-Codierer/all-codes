@@ -11,10 +11,6 @@
    "reward": "100 Tokens"
   },
   {
-   "code": "Reward",
-   "reward": "2 Hours XP Boost and 2 Hours Cell Boost"
-  },
-  {
    "code": "Rose",
    "reward": "60M Cells and 60M XP"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Srryforbugs",
    "reward": "180,000,000 XP"
+  },
+  {
+   "code": "Srryforbug",
+   "reward": "30M EXP and 30M Cells"
   }
  ],
- "updated": "2026-10-09T12:57:55.146Z",
+ "updated": "2026-10-11T05:03:37.834Z",
  "source": "https://robloxden.com/game-codes/kaiju-alpha"
 }

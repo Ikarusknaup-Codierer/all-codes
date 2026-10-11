@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "OverhaulUpdate",
+   "code": "KingOfPirates",
+   "reward": "Free Boosts"
+  },
+  {
+   "code": "Fierce!",
+   "reward": "Fierce Wings Quirk"
+  },
+  {
+   "code": "Part1Update",
    "reward": "5 Spins"
   },
   {
    "code": "Part2Update",
    "reward": "5 Spins"
-  },
-  {
-   "code": "Shutdown",
-   "reward": "a 10 Minute Yen Boost"
-  },
-  {
-   "code": "DessiXEmber",
-   "reward": "a 10 Minute XP Boost"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "a 10 Minute Yen Boost"
   }
  ],
- "updated": "2026-10-09T12:58:16.155Z",
+ "updated": "2026-10-11T05:03:55.387Z",
  "source": "https://robloxden.com/game-codes/hero-academia-final-ember"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "bigcheddar",
+   "reward": "100 Gems , 5 Refined Dice , 15 Gold Dice , 7 Obsidian Dice , and 25 Br"
+  },
+  {
    "code": "hicheddar",
    "reward": "400 Gems , 50 Refined Dice , 20 Auric Dice , 10 Obsidian Dice , and 5 "
   },
@@ -51,14 +55,14 @@
    "reward": "100 Cash and 10 Basic Dice"
   },
   {
-   "code": "Op",
-   "reward": "5 Astral Dice and 150 Gems"
-  },
-  {
    "code": "freebie",
    "reward": "3 Hacker Dice and 100 Gems"
+  },
+  {
+   "code": "wedidit",
+   "reward": "15 Sakura dice, 10 Hacker Dice and 200 Gems"
   }
  ],
- "updated": "2026-10-09T13:04:39.245Z",
+ "updated": "2026-10-11T05:09:22.559Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

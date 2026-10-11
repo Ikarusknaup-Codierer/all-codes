@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYBUG",
+   "reward": "5 Race Rolls"
+  },
+  {
    "code": "50000CCU",
    "reward": "50x Ember Stone"
   },
@@ -19,6 +23,6 @@
    "reward": "2,000 Coins and 1 Power Potion"
   }
  ],
- "updated": "2026-10-09T13:02:44.421Z",
+ "updated": "2026-10-11T05:08:02.215Z",
  "source": "https://robloxden.com/game-codes/1-loot-to-forge"
 }

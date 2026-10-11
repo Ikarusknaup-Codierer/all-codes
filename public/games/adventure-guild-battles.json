@@ -55,14 +55,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "dawn",
+   "code": "dusk",
    "reward": "a Gem"
   },
   {
-   "code": "spin",
-   "reward": "a Summon Spin"
+   "code": "coins",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-10-09T22:30:57.076Z",
+ "updated": "2026-10-11T12:28:25.925Z",
  "source": "https://robloxden.com/game-codes/adventure-guild-battles"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ANewJourney!",
+   "reward": "1 Slot"
+  },
+  {
    "code": "ThanksFor13kLikes!",
    "reward": "5 Race Spins , 5 Gene Spins , and 5 Aura Spins"
   },
@@ -19,14 +23,10 @@
    "reward": "2 Race Rolls , 3 Aura Rolls , and 1 Gene Roll"
   },
   {
-   "code": "COMMONLUPDATE",
-   "reward": "1 Race Spin , 3 Aura Spins , and 1 Gene Spin"
-  },
-  {
    "code": "COMMONBANEBUG",
    "reward": "2 Gene Spins"
   }
  ],
- "updated": "2026-10-09T22:31:32.670Z",
+ "updated": "2026-10-11T12:28:58.488Z",
  "source": "https://robloxden.com/game-codes/budokai-z"
 }

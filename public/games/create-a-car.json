@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "INDEX",
-   "reward": "1 Lava Garage Crate and 1 Golden Mechanic Crate"
-  },
-  {
    "code": "CONVEYOR",
    "reward": "Golden Elite Tuning Crate , Candy Supercar Parts Box and Diamond Super"
   },
@@ -35,10 +31,14 @@
    "reward": "50,000 Cash"
   },
   {
+   "code": "INDEX",
+   "reward": "1 Lava Garage Crate and 1 Golden Mechanic Crate"
+  },
+  {
    "code": "DEALER",
    "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-10-09T22:31:08.010Z",
+ "updated": "2026-10-11T12:28:35.556Z",
  "source": "https://robloxden.com/game-codes/create-a-car"
 }

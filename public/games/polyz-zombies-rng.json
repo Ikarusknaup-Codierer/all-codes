@@ -7,66 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "RICH150k",
-   "reward": "150,000 Gold"
-  },
-  {
-   "code": "TREASURE200K",
-   "reward": "200,000 Gold"
-  },
-  {
-   "code": "POLYBOOST350",
-   "reward": "350 Diamonds"
-  },
-  {
-   "code": "GOLDRUSH500k",
-   "reward": "500,000 Gold"
-  },
-  {
-   "code": "CRATEKING700",
-   "reward": "700 Diamonds"
-  },
-  {
-   "code": "WAVE600",
-   "reward": "600 Diamonds"
-  },
-  {
-   "code": "SURVIVE400",
-   "reward": "400 Diamonds"
-  },
-  {
-   "code": "COINSTACK100k",
-   "reward": "100,000 Gold"
-  },
-  {
-   "code": "CRATEHUNT250",
-   "reward": "250 Diamonds"
-  },
-  {
-   "code": "ZOMBIE300",
-   "reward": "300 Diamonds"
-  },
-  {
    "code": "STACKED300K",
    "reward": "300,000 Gold"
-  },
-  {
-   "code": "BIGBANK600K",
-   "reward": "600,000 Gold"
   },
   {
    "code": "GEMFLOW200",
    "reward": "200 Diamonds"
   },
   {
-   "code": "LOOT250k",
-   "reward": "250,000 Gold"
+   "code": "100KVISITS",
+   "reward": ""
   },
   {
-   "code": "SPARK100",
-   "reward": "100 Diamonds"
+   "code": "QUESTS",
+   "reward": "5,000 Coins and 500 Diamonds"
   }
  ],
- "updated": "2026-10-09T22:31:09.405Z",
+ "updated": "2026-10-11T12:28:36.800Z",
  "source": "https://robloxden.com/game-codes/polyz-zombies-rng"
 }

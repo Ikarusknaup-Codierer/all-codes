@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FUSIONS",
-   "reward": "1 Fragment"
-  },
-  {
    "code": "MULTIVERSE",
    "reward": "1 Multiverse Crate"
   },
@@ -27,16 +23,12 @@
    "reward": "a Shiny Kuzya"
   },
   {
-   "code": "RANDOMIZER",
+   "code": "FUSIONS",
    "reward": "1 Fragment"
   },
   {
-   "code": "HEROBRINE",
-   "reward": "1 Block Crate"
-  },
-  {
-   "code": "DAILY_QUESTS",
-   "reward": "1 Raid Crate 4"
+   "code": "RANDOMIZER",
+   "reward": "1 Fragment"
   },
   {
    "code": "METTATON",
@@ -63,6 +55,6 @@
    "reward": "a The Boys Crate"
   }
  ],
- "updated": "2026-10-09T22:29:24.775Z",
+ "updated": "2026-10-11T12:27:06.842Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

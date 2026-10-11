@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "1STEVENT!",
-   "reward": "20 Gacha Tickets"
-  },
-  {
    "code": "20ROBUXTICKETS",
    "reward": "20 Gacha Tickets"
-  },
-  {
-   "code": "CLASSICNOOB20",
-   "reward": "the Blox Costume (Male and Female)"
-  },
-  {
-   "code": "CLASSICBABY20",
-   "reward": "the Classic Baby Female/Male"
   },
   {
    "code": "UNAYAHAUNA!",
@@ -61,8 +49,20 @@
   {
    "code": "MERRYUNA!",
    "reward": "the Ugly Turkey Christmas Sweater"
+  },
+  {
+   "code": "1STEVENT!",
+   "reward": "20 Gacha Tickets"
+  },
+  {
+   "code": "CLASSICNOOB20",
+   "reward": "the Blox Costume (Male and Female)"
+  },
+  {
+   "code": "CLASSICBABY20",
+   "reward": "the Classic Baby Female/Male"
   }
  ],
- "updated": "2026-10-09T22:34:43.379Z",
+ "updated": "2026-10-11T12:31:45.991Z",
  "source": "https://robloxden.com/game-codes/momo-city"
 }

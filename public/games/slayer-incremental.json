@@ -39,10 +39,6 @@
    "reward": "3 of each Potion"
   },
   {
-   "code": "NewPotions",
-   "reward": "3 of All New Potions"
-  },
-  {
    "code": "NewWorld",
    "reward": "30 Tickets"
   },
@@ -55,6 +51,6 @@
    "reward": "25 Tickets"
   }
  ],
- "updated": "2026-10-09T22:29:56.945Z",
+ "updated": "2026-10-11T12:27:31.799Z",
  "source": "https://robloxden.com/game-codes/slayer-incremental"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "OCTOBER_DOWNTIME",
-   "reward": "250 Credits"
-  },
-  {
    "code": "MICHAELSRETURN",
    "reward": "125 Credits"
   },
@@ -21,8 +17,12 @@
   {
    "code": "FREEDOM",
    "reward": "250 Credits"
+  },
+  {
+   "code": "GAMEBROKE318",
+   "reward": "Credits"
   }
  ],
- "updated": "2026-10-09T22:34:16.513Z",
+ "updated": "2026-10-11T12:31:23.577Z",
  "source": "https://robloxden.com/game-codes/bloxstrike"
 }

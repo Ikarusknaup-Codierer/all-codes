@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FALL2026",
+   "reward": "1,000 credits"
+  },
+  {
+   "code": "CLANSARECOMING",
+   "reward": "2,000 credits and 3 Quest Coins"
+  },
+  {
+   "code": "SPOOKYSZN",
+   "reward": "1,500 credits and 2x credits for 30 minutes"
+  },
+  {
    "code": "FixedItFinally!",
    "reward": "Fade11 Crate and 750 Credits"
   },
@@ -47,6 +59,6 @@
    "reward": "750 Credits"
   }
  ],
- "updated": "2026-10-09T22:36:18.780Z",
+ "updated": "2026-10-11T12:33:12.616Z",
  "source": "https://robloxden.com/game-codes/catch-a-fade-2"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RALLY",
+   "reward": "1 Lucky Badge Roll"
+  },
+  {
    "code": "STREAKS",
    "reward": "1 Limited Time Crate"
   },
@@ -139,6 +143,6 @@
    "reward": "New Years Confetti Green Animation"
   }
  ],
- "updated": "2026-10-10T12:14:04.589Z",
+ "updated": "2026-10-12T05:18:55.669Z",
  "source": "https://robloxden.com/game-codes/arcade-basketball"
 }

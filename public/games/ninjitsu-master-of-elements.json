@@ -11,18 +11,18 @@
    "reward": "1 Random Scroll And 1 Epic Chest"
   },
   {
-   "code": "MOEJoe",
-   "reward": "3 Rare Chests"
-  },
-  {
    "code": "MOEhalloween",
    "reward": "1 Epic Chest"
   },
   {
    "code": "chest",
    "reward": "1 Epic Chest"
+  },
+  {
+   "code": "talent",
+   "reward": "2 Stat Refunds"
   }
  ],
- "updated": "2026-10-10T12:18:15.684Z",
+ "updated": "2026-10-12T05:22:35.526Z",
  "source": "https://robloxden.com/game-codes/ninjitsu-master-of-elements"
 }

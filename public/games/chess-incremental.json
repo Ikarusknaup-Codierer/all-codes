@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "3MVisits",
+   "reward": "Potions and Tickets"
+  },
+  {
+   "code": "25kFavs",
+   "reward": "Potions and Tickets"
+  },
+  {
+   "code": "8kLikes",
+   "reward": "Potions and Tickets"
+  },
+  {
+   "code": "AURA",
+   "reward": "Potions and Tickets"
+  },
+  {
+   "code": "F2P",
+   "reward": "Potions and Tickets"
+  },
+  {
+   "code": "Compensation",
+   "reward": "Potions and Tickets"
+  },
+  {
    "code": "42",
    "reward": "42 Tickets"
   },
@@ -59,10 +83,10 @@
    "reward": "20 Tickets , 2 RuneLuck Potions , 2 RuneSpeed Potions , and 2 RuneBulk"
   },
   {
-   "code": "100Likes",
+   "code": "100ccu",
    "reward": "25 Tickets , 1 RuneLuck Potion , 1 RuneSpeed Potion , and 1 RuneBulk P"
   }
  ],
- "updated": "2026-10-10T12:15:40.531Z",
+ "updated": "2026-10-12T05:20:14.385Z",
  "source": "https://robloxden.com/game-codes/chess-incremental"
 }

@@ -19,10 +19,6 @@
    "reward": "50,000 Gems"
   },
   {
-   "code": "IMPROVEMENTS",
-   "reward": "50,000 Gems"
-  },
-  {
    "code": "INPROGRESS",
    "reward": "30,000 Gems"
   },
@@ -41,10 +37,6 @@
   {
    "code": "ASCEND",
    "reward": "50,000 Gems"
-  },
-  {
-   "code": "SUGAR",
-   "reward": "50K Gems"
   },
   {
    "code": "CANDY",
@@ -67,6 +59,6 @@
    "reward": "30,000 Gems"
   }
  ],
- "updated": "2026-10-10T12:17:35.610Z",
+ "updated": "2026-10-12T05:21:58.769Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

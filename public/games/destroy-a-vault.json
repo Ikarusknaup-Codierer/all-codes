@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "100K",
+   "reward": "36,630 Cash"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "750 Cash"
   }
  ],
- "updated": "2026-10-10T05:18:47.878Z",
+ "updated": "2026-10-12T05:16:07.475Z",
  "source": "https://robloxden.com/game-codes/destroy-a-vault"
 }

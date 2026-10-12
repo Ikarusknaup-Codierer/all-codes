@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SUMMER2026PART2",
-   "reward": "5,000 Cash and 1 Case"
-  },
-  {
    "code": "SUMMER2026",
    "reward": "20K Cash"
   },
@@ -31,10 +27,10 @@
    "reward": "Unknown Reward"
   },
   {
-   "code": "TrickOrTreat",
-   "reward": "2 Chocolate Bars"
+   "code": "HappyHalloween",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-10-10T05:20:57.902Z",
+ "updated": "2026-10-12T05:17:06.999Z",
  "source": "https://robloxden.com/game-codes/the-storage"
 }

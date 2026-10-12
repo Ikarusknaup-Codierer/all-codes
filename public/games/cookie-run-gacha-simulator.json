@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "KPOP",
+   "reward": "50,000 Gems"
+  },
+  {
+   "code": "Welcomeback",
+   "reward": "75,000 Gems"
+  },
+  {
    "code": "Chiikawa",
    "reward": "50,000 Crystals"
   },
@@ -63,6 +71,6 @@
    "reward": "42,500 Crystals"
   }
  ],
- "updated": "2026-10-10T05:19:07.892Z",
+ "updated": "2026-10-12T05:16:16.766Z",
  "source": "https://robloxden.com/game-codes/cookie-run-gacha-simulator"
 }

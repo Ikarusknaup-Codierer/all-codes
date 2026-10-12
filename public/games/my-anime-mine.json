@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "LifeIsRoblox",
-   "reward": "2 Enchanted Dice"
+   "code": "BLUEMOON",
+   "reward": "1 Enchanted Dice and 1 Ore Elixir II"
   },
   {
    "code": "SOULFORGE",
    "reward": "1 Enchanted Dice and 1 Summon Scroll"
   },
   {
-   "code": "EnchantedStrength",
-   "reward": "1 Strength Dice and 1 Enchanted Dice"
+   "code": "ENCHANTED",
+   "reward": "Enchanted Dice"
   },
   {
-   "code": "MUTATIONLUCK",
-   "reward": "1 Mutation Luck Potion"
+   "code": "EnchantedFirst50",
+   "reward": "Rewards"
+  },
+  {
+   "code": "EnchantedSummons",
+   "reward": "1 Enchanted Dice and 1 Summon Scroll"
   }
  ],
- "updated": "2026-10-10T12:20:27.415Z",
+ "updated": "2026-10-12T05:24:30.718Z",
  "source": "https://robloxden.com/game-codes/my-anime-mine"
 }

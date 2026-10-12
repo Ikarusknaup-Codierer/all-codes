@@ -223,10 +223,14 @@
    "reward": "+1 Luck Boost (2 minutes)"
   },
   {
+   "code": "50kmembers",
+   "reward": "10 Super Rolls And 10 Lucky Rolls"
+  },
+  {
    "code": "new",
    "reward": "2 Super Roll"
   }
  ],
- "updated": "2026-10-10T05:21:38.048Z",
+ "updated": "2026-10-12T05:17:14.276Z",
  "source": "https://robloxden.com/game-codes/anime-training-rng"
 }

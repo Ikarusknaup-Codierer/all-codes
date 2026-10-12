@@ -25,24 +25,8 @@
   {
    "code": "AGENTBACON",
    "reward": "an Access Denied message"
-  },
-  {
-   "code": "CARGO",
-   "reward": "750 Miles"
-  },
-  {
-   "code": "ENDLESS",
-   "reward": "1,000 Miles"
-  },
-  {
-   "code": "GOOSE",
-   "reward": "1,500 Miles"
-  },
-  {
-   "code": "SUPERNOVA",
-   "reward": "2,500 Miles"
   }
  ],
- "updated": "2026-10-10T21:24:08.496Z",
+ "updated": "2026-10-12T14:58:20.158Z",
  "source": "https://robloxden.com/game-codes/land-or-die"
 }

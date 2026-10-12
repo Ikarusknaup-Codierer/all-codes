@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE6",
-   "reward": "Bricks Potion"
+   "code": "OASISWORLD",
+   "reward": "Coins Potion"
   },
   {
-   "code": "UPDATE3",
-   "reward": "5 Minute Bricks Potion"
+   "code": "GOLDENPLANETS",
+   "reward": "30 Minute Gems Potion"
   },
   {
-   "code": "EXTRABRICKS",
-   "reward": "5 Minute Bricks Potion"
+   "code": "UPDATE4",
+   "reward": "30 Minute Bricks Potion"
   },
   {
-   "code": "coinspotion",
+   "code": "snuglife",
    "reward": "5 Minute Coins Potion"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "A Free Twitter Skin And $30,000"
   }
  ],
- "updated": "2026-10-10T21:29:51.510Z",
+ "updated": "2026-10-12T15:03:53.451Z",
  "source": "https://robloxden.com/game-codes/hole-simulator"
 }

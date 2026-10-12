@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "WEEK5",
+   "reward": "1 Pro Pack"
+  },
+  {
    "code": "WEEK3",
    "reward": "Free Rewards"
   },
   {
    "code": "SZNONE",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "CHAPTER3",
-   "reward": "Rewards"
   },
   {
    "code": "UPGRADES",
@@ -55,6 +55,6 @@
    "reward": "1 Pro Pack"
   }
  ],
- "updated": "2026-10-10T21:25:05.842Z",
+ "updated": "2026-10-12T14:59:15.750Z",
  "source": "https://robloxden.com/game-codes/nfl-universe-football-1"
 }

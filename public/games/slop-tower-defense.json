@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BUFFED",
+   "reward": "2,500 Cash and 25 Gems"
+  },
+  {
+   "code": "GUSTAVO",
+   "reward": "Freebies"
+  },
+  {
+   "code": "YEEZY",
+   "reward": "Freebies"
+  },
+  {
    "code": "sopperrblxn2p",
    "reward": "Freebies"
   },
@@ -45,8 +57,12 @@
   {
    "code": "1MVISITS!",
    "reward": "250 Gems"
+  },
+  {
+   "code": "BABY_RICK",
+   "reward": "1 Baby Rick"
   }
  ],
- "updated": "2026-10-10T12:21:43.435Z",
+ "updated": "2026-10-12T14:56:27.720Z",
  "source": "https://robloxden.com/game-codes/slop-tower-defense"
 }

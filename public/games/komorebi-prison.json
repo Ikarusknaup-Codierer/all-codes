@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "DAILYREWARDS",
+   "reward": "45 Rolls"
+  },
+  {
+   "code": "WEAREBACK",
+   "reward": "35 Rolls"
+  },
+  {
    "code": "MYERS",
    "reward": "35 Rolls"
   },
@@ -35,6 +43,6 @@
    "reward": "45 Rolls"
   }
  ],
- "updated": "2026-10-10T21:29:54.968Z",
+ "updated": "2026-10-12T15:03:56.779Z",
  "source": "https://robloxden.com/game-codes/komorebi-prison"
 }

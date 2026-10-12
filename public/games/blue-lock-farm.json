@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WEATHER",
+   "reward": "5 Grade Tokens and a Luck Potion"
+  },
+  {
+   "code": "COMMUNITY",
+   "reward": "3 Cash Potions , 3 Luck Potions , and 3 Grade Speed Potions"
+  },
+  {
    "code": "POLISHER",
    "reward": "1 Jackpot Token"
   },
@@ -15,6 +23,6 @@
    "reward": "20 Trait Tokens , 20 Grade Tokens , and 1 Variant Token"
   }
  ],
- "updated": "2026-10-10T21:28:16.185Z",
+ "updated": "2026-10-12T15:02:19.996Z",
  "source": "https://robloxden.com/game-codes/blue-lock-farm"
 }

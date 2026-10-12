@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SLEEPY",
+   "reward": "15 minutes of each Boost"
+  },
+  {
+   "code": "DREAMS",
+   "reward": "100 Gems"
+  },
+  {
    "code": "TREASURE",
    "reward": "Tidal Treasure"
   },
@@ -59,6 +67,6 @@
    "reward": "100 Gems"
   }
  ],
- "updated": "2026-10-10T21:24:26.842Z",
+ "updated": "2026-10-12T14:58:37.690Z",
  "source": "https://robloxden.com/game-codes/fabled-legacy"
 }

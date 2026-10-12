@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RACEREVAMP",
+   "reward": "50,000 Cash"
+  },
+  {
    "code": "TRACKDAY",
    "reward": "80,000"
   },
@@ -119,6 +123,6 @@
    "reward": "100k Cash"
   }
  ],
- "updated": "2026-10-10T21:30:30.389Z",
+ "updated": "2026-10-12T15:04:29.197Z",
  "source": "https://robloxden.com/game-codes/car-dealership-tycoon"
 }

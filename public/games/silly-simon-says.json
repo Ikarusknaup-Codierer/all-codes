@@ -123,14 +123,14 @@
    "reward": "Speech Bubble"
   },
   {
-   "code": "bigspin",
-   "reward": "1 Minigame Pick"
-  },
-  {
    "code": "100mvisits",
    "reward": "100 Coins"
+  },
+  {
+   "code": "200kfans",
+   "reward": "200 Coins"
   }
  ],
- "updated": "2026-10-10T21:24:53.105Z",
+ "updated": "2026-10-12T14:59:02.976Z",
  "source": "https://robloxden.com/game-codes/silly-simon-says"
 }

@@ -7,30 +7,30 @@
    "reward": "Description"
   },
   {
-   "code": "7000LIKES",
-   "reward": "20,000 Cash"
-  },
-  {
-   "code": "F16",
+   "code": "B21",
    "reward": "Free Cash"
   },
   {
-   "code": "AIRPORT",
-   "reward": "1,000 Cash"
-  },
-  {
-   "code": "35KLIKES",
+   "code": "C17",
    "reward": "Free Cash"
   },
   {
-   "code": "EPICUPD",
-   "reward": "5k Cash"
+   "code": "HELICOPTER",
+   "reward": "4,000 Cash"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "$3k Cash"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "5K Cash"
   },
   {
    "code": "NEW",
    "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-10-10T21:28:31.592Z",
+ "updated": "2026-10-12T15:02:34.947Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

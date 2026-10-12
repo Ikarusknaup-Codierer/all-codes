@@ -83,14 +83,14 @@
    "reward": "500 Size Increase"
   },
   {
-   "code": "GROUPSPECIAL",
-   "reward": "Reward"
+   "code": "START",
+   "reward": "One-Time Size Increase"
   },
   {
-   "code": "WEEKSPECIAL",
-   "reward": "One-Time Size Increase"
+   "code": "THANKSGIVING",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-10T21:28:01.448Z",
+ "updated": "2026-10-12T15:02:05.346Z",
  "source": "https://robloxden.com/game-codes/ball-eating-simulator"
 }

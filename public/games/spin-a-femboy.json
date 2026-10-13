@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SUNBUN",
+   "reward": "150 Gems , 15x Golden Dice , 1x Emerald Dice , and 9x Platinum Dice"
+  },
+  {
+   "code": "biggestfart",
+   "reward": "1.000 Gems , 8x Mutation Rerolls , and 15x Diamond Dice"
+  },
+  {
    "code": "femcool",
    "reward": "150 Gems , 15 Silver Dice , 10 Holy Dice , and 5 Emerald Dice"
   },
@@ -33,10 +41,6 @@
   {
    "code": "BURGER",
    "reward": "20 Gems, 15 Silver Dice, 10 Golden Dice, 20 Platinum Dice, 3 Emerald D"
-  },
-  {
-   "code": "KITTYGO",
-   "reward": "250 Gems, 20 Diamond Dice, 50 Platinum Dice and 5x Molten Dice"
   },
   {
    "code": "EXCLUSIVE",
@@ -139,6 +143,14 @@
    "reward": "500 Gems and 15 Diamond Dice"
   },
   {
+   "code": "2KYAY",
+   "reward": "200 Gems , 10 Mutation Rerolls , 50 Silver Dice , 15 Molten Dice , and"
+  },
+  {
+   "code": "KITTYGO",
+   "reward": "250 Gems, 20 Diamond Dice, 50 Platinum Dice and 5x Molten Dice"
+  },
+  {
    "code": "meowmeowcat2",
    "reward": "350 Gems , 5 Holy Dice and 5 Molten Dice"
   },
@@ -147,6 +159,6 @@
    "reward": "350 Gems , 50 Aquamarine Dice , 25 Glacial Dice , 5 Pride Dice , and 3"
   }
  ],
- "updated": "2026-10-11T21:47:56.236Z",
+ "updated": "2026-10-13T22:35:00.239Z",
  "source": "https://robloxden.com/game-codes/spin-a-femboy"
 }

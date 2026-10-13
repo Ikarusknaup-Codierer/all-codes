@@ -15,18 +15,18 @@
    "reward": "100 Hearts"
   },
   {
+   "code": "RELEASE",
+   "reward": "50 Hearts"
+  },
+  {
    "code": "CASA",
    "reward": "25 Hearts"
   },
   {
    "code": "DELAY",
    "reward": "100 Hearts"
-  },
-  {
-   "code": "BIGUPDATE",
-   "reward": "50 Hearts"
   }
  ],
- "updated": "2026-10-12T05:16:43.101Z",
+ "updated": "2026-10-13T22:39:26.946Z",
  "source": "https://robloxden.com/game-codes/friendship-island"
 }

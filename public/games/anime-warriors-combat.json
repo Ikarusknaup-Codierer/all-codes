@@ -11,22 +11,22 @@
    "reward": "500 Gems, 10 Talents Flashes, 20 Demon Tokens, And 2 Dungeon Tickets"
   },
   {
-   "code": "TextFault",
-   "reward": "10 Trait Crystals"
+   "code": "BossRush",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MiniShutdown",
+   "reward": "Free Rewards"
   },
   {
    "code": "EarlyAccess",
    "reward": "Free Rewards"
   },
   {
-   "code": "GimmeMyTicket",
-   "reward": "3 Dungeon Tickets"
-  },
-  {
-   "code": "BugBugBug",
-   "reward": "2,500 Gems"
+   "code": "SmallBugFix!",
+   "reward": "Gems and Dungeon Tickets"
   }
  ],
- "updated": "2026-10-11T21:43:18.955Z",
+ "updated": "2026-10-13T22:30:39.644Z",
  "source": "https://robloxden.com/game-codes/anime-warriors-combat"
 }

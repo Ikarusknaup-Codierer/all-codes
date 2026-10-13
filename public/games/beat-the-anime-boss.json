@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LUCKBOOSTSOUT",
+   "reward": "1 Angelic Potion"
+  },
+  {
+   "code": "FREEMONEY",
+   "reward": "1M Cash"
+  },
+  {
    "code": "500KMEMBERS",
    "reward": "the Nichirin Blade Artifact"
   },
@@ -65,16 +73,8 @@
   {
    "code": "BOSSRAIDS",
    "reward": "1 Rare Crimson Scarf Artifact"
-  },
-  {
-   "code": "LUCKBOOSTSOUT",
-   "reward": "1 Angelic Potion"
-  },
-  {
-   "code": "FREEMONEY",
-   "reward": "1M Cash"
   }
  ],
- "updated": "2026-10-11T12:35:20.255Z",
+ "updated": "2026-10-13T22:28:52.522Z",
  "source": "https://robloxden.com/game-codes/beat-the-anime-boss"
 }

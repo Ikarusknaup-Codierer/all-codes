@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "AFTERLIFECRATE",
-   "reward": "444 Bells"
+   "code": "FIRSTCODE",
+   "reward": "200 Bells"
   },
   {
-   "code": "SORRYFORDELAY",
+   "code": "THEWATCHER",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "QOLWATCHER",
    "reward": "300 Bells"
+  },
+  {
+   "code": "SORRYFORDELAY2",
+   "reward": "the Ghostly King Skin"
   }
  ],
- "updated": "2026-10-11T21:47:33.492Z",
+ "updated": "2026-10-13T22:34:30.190Z",
  "source": "https://robloxden.com/game-codes/anomaly-cafe"
 }

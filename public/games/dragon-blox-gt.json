@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "38KL1K3S",
+   "reward": "5x Boost (30 Minutes)"
+  },
+  {
    "code": "HisLegacyContinues",
    "reward": "a 30 minute 10x Boost"
+  },
+  {
+   "code": "BlazingSun",
+   "reward": "10x Boost (24 Minutes)"
   },
   {
    "code": "serverboost15",
@@ -19,6 +27,6 @@
    "reward": "Boost For 60 Minutes"
   }
  ],
- "updated": "2026-10-11T21:43:03.668Z",
+ "updated": "2026-10-13T22:30:20.113Z",
  "source": "https://robloxden.com/game-codes/dragon-blox-gt"
 }

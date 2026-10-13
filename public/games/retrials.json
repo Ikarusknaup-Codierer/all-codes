@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "625KVISITS",
-   "reward": "40 Race Rerolls"
-  },
-  {
-   "code": "OniGod",
-   "reward": "20 Race Rerolls"
-  },
-  {
    "code": "R1GEL",
    "reward": "10 Race Rerolls"
   },
@@ -23,10 +15,14 @@
    "reward": "10 Race Rerolls"
   },
   {
-   "code": "425KVISITS",
+   "code": "625KVISITS",
+   "reward": "40 Race Rerolls"
+  },
+  {
+   "code": "OniGod",
    "reward": "20 Race Rerolls"
   }
  ],
- "updated": "2026-10-11T21:44:27.895Z",
+ "updated": "2026-10-13T22:32:07.961Z",
  "source": "https://robloxden.com/game-codes/retrials"
 }

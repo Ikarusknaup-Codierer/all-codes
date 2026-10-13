@@ -27,20 +27,8 @@
    "reward": "300,000 Coins , 1 Celebration Spin , and 1 Mythical Manual"
   },
   {
-   "code": "MECHANICS",
-   "reward": "300,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
-  },
-  {
-   "code": "CATAPULT",
-   "reward": "120,000 Coins , 60 Minutes Double EXP , 60 Minutes Double Coins , 1 El"
-  },
-  {
    "code": "TORCH",
    "reward": "50,000 Coins , 60 Minutes Double XP , 2 Stats Resets , and 2 Rare Manu"
-  },
-  {
-   "code": "DEVITO",
-   "reward": "200,000 Coins , 60 Minutes Double XP , 1 Rare Manual , and 2 Celebrati"
   },
   {
    "code": "ROADTO4K",
@@ -115,12 +103,24 @@
    "reward": "2 Hours Double XP , 10,000 Coins , and 3 Uncommon Manuals"
   },
   {
+   "code": "MECHANICS",
+   "reward": "300,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
+  },
+  {
    "code": "BLUD",
    "reward": "200,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
   },
   {
    "code": "SHIN",
    "reward": "100,000 Coins and 2 Elemental Rolls"
+  },
+  {
+   "code": "CATAPULT",
+   "reward": "120,000 Coins , 60 Minutes Double EXP , 60 Minutes Double Coins , 1 El"
+  },
+  {
+   "code": "DEVITO",
+   "reward": "200,000 Coins , 60 Minutes Double XP , 1 Rare Manual , and 2 Celebrati"
   },
   {
    "code": "WENESDAY",
@@ -199,6 +199,6 @@
    "reward": "1 Uncommon Manual and 30 Mins Double XP"
   }
  ],
- "updated": "2026-10-11T21:44:10.922Z",
+ "updated": "2026-10-13T22:31:45.606Z",
  "source": "https://robloxden.com/game-codes/inazuma-strikers"
 }

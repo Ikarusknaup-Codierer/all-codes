@@ -11,10 +11,6 @@
    "reward": "$1,400 Cash"
   },
   {
-   "code": "MakingMoney",
-   "reward": "Freebies"
-  },
-  {
    "code": "SKINCARE",
    "reward": "1,400 Cash"
   },
@@ -23,10 +19,14 @@
    "reward": "1,300 Cash"
   },
   {
-   "code": "STYLEIT",
-   "reward": "1,100 Cash"
+   "code": "BEAUTY2025",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "LIPSTICK2025",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-10-11T21:45:00.779Z",
+ "updated": "2026-10-13T22:32:50.233Z",
  "source": "https://robloxden.com/game-codes/makeup-store-simulator"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ThankYou300",
+   "reward": "Double XP for 30 Minutes"
+  },
+  {
+   "code": "CRYHACKERSLOL",
+   "reward": "Quadruple XP (30 Minutes)"
+  },
+  {
    "code": "ILOVEALLVAMP",
    "reward": "4x XP for 30 Minutes"
   },
@@ -31,6 +39,6 @@
    "reward": "Double XP and Double Money for 15 Minutes and 10,000 Money"
   }
  ],
- "updated": "2026-10-11T21:47:35.123Z",
+ "updated": "2026-10-13T22:34:32.306Z",
  "source": "https://robloxden.com/game-codes/vampire-life"
 }

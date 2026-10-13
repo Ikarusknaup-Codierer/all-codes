@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "SkeletonSizeIncrease!",
+   "reward": "20x Spins Across the Board"
+  },
+  {
+   "code": "GuildsPart2Soon!",
+   "reward": "20x Spins Across the Board"
+  },
+  {
+   "code": "RedEyesAwakeningImprovements!",
+   "reward": "15 Spins Across the Board"
+  },
+  {
+   "code": "PrestigeRework!",
+   "reward": "15 Spins Across the Board"
+  },
+  {
+   "code": "AbyssImprovementsOnTheHouse!",
+   "reward": "15 Spins Across the Board"
+  },
+  {
+   "code": "MovesetSavingUpgrade!",
+   "reward": "15 Spins Across the Board"
+  },
+  {
    "code": "SixPathsClan!",
    "reward": "15 Spins"
   },
@@ -25,6 +49,10 @@
   {
    "code": "Divine!",
    "reward": "20 Spins"
+  },
+  {
+   "code": "PeekAboo!",
+   "reward": "30 Spins"
   },
   {
    "code": "WoodGolemAwakening!",
@@ -155,6 +183,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-10-11T21:43:27.338Z",
+ "updated": "2026-10-13T22:30:49.875Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DISCORD",
+   "reward": "a Discord Egg"
+  },
+  {
    "code": "VANISH",
    "reward": "Golden Retriever Egg"
   },
@@ -15,6 +19,6 @@
    "reward": "a 5x Hatch Speed Boost (6 Hours)"
   }
  ],
- "updated": "2026-10-11T21:47:34.553Z",
+ "updated": "2026-10-13T22:34:31.540Z",
  "source": "https://robloxden.com/game-codes/jump-for-animals"
 }

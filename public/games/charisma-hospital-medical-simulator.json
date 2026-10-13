@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TEAMXP500",
+   "reward": "500 EXP"
+  },
+  {
    "code": "NEWXPCODE",
    "reward": "1000 XP"
   },
@@ -23,14 +27,10 @@
    "reward": "750 XP"
   },
   {
-   "code": "TEAMXP500",
-   "reward": "500 EXP"
-  },
-  {
    "code": "SORRY4BUGS",
    "reward": "1,000 Coins and 750 XP"
   }
  ],
- "updated": "2026-10-11T12:31:32.124Z",
+ "updated": "2026-10-13T14:00:40.799Z",
  "source": "https://robloxden.com/game-codes/charisma-hospital-medical-simulator"
 }

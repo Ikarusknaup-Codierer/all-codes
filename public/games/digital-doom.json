@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "Zooble",
+   "reward": "2,500 cash , 5x Lucky Spins , 7x Normal Trinket Spins , 5x Lucky Trink"
+  },
+  {
    "code": "RELEASE",
    "reward": "5 Lucky Spins , 5 Normal Spins , 5 Trinket Lucky Spins , 5 Trinket Spi"
   },
   {
    "code": "SECRETSAUCE",
    "reward": "5 Lucky Spins , 5 Normal Spins , 5 Trinket Lucky Spins , 5 Trinket Spi"
-  },
-  {
-   "code": "6DOCKS",
-   "reward": "Lucky Spins , Normal Spins , Trinket Spins , and Cash"
   },
   {
    "code": "REVAMP",
@@ -27,6 +27,6 @@
    "reward": "5 Lucky Spins , 7 Normal Spins , 5 Trinket Lucky Spins , 7 Trinket Spi"
   }
  ],
- "updated": "2026-10-11T05:11:42.346Z",
+ "updated": "2026-10-13T13:56:45.158Z",
  "source": "https://robloxden.com/game-codes/digital-doom"
 }

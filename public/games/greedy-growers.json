@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "IMSOGREEDY",
+   "reward": "250 Tickets and 50 Tokens"
+  },
+  {
    "code": "1MIL",
    "reward": "250 Tickets"
   },
@@ -19,6 +23,6 @@
    "reward": "no rewards . This is just a test code"
   }
  ],
- "updated": "2026-10-11T12:27:17.246Z",
+ "updated": "2026-10-13T13:58:01.761Z",
  "source": "https://robloxden.com/game-codes/greedy-growers"
 }

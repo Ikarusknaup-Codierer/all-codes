@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CKREWORK",
-   "reward": "1,000 Tokens"
-  },
-  {
    "code": "ITSPRONOUNCEDRULES",
    "reward": "15 Cyber Tokens . Requires Chapter 2 to use this code"
   },
@@ -23,14 +19,18 @@
    "reward": "666 Tokens"
   },
   {
-   "code": "SORRY",
-   "reward": "3,500 Tokens"
-  },
-  {
    "code": "SUPERXBOXNEIGHBOUR",
    "reward": "Rewards . Requires Chapter 2 to use this code"
+  },
+  {
+   "code": "CKREWORK",
+   "reward": "1,000 Tokens"
+  },
+  {
+   "code": "SORRY",
+   "reward": "3,500 Tokens"
   }
  ],
- "updated": "2026-10-11T12:29:53.384Z",
+ "updated": "2026-10-13T13:58:49.837Z",
  "source": "https://robloxden.com/game-codes/vs-bergentruck"
 }

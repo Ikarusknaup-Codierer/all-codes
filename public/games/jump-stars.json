@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "tournament",
+   "code": "30klikes",
+   "reward": ""
+  },
+  {
+   "code": "AyezanVsIchin",
+   "reward": "2,250 Gems , 2,500 Yen , 1,900 Power Points , and 1 Mythical Star Caps"
+  },
+  {
+   "code": "200kmembers",
    "reward": "1,500 Gems"
   },
   {
-   "code": "Gamemodes",
-   "reward": "2,000 Gems"
-  },
-  {
-   "code": "guilds",
-   "reward": "2,000 Gems"
-  },
-  {
-   "code": "SummerEvent!",
+   "code": "kill!",
    "reward": "2,500 Gems"
   },
   {
-   "code": "Gone",
-   "reward": "3,000 Gems"
+   "code": "SorryForBugs",
+   "reward": "1,500 Gems"
   }
  ],
- "updated": "2026-10-11T05:10:10.562Z",
+ "updated": "2026-10-13T13:55:45.234Z",
  "source": "https://robloxden.com/game-codes/jump-stars"
 }

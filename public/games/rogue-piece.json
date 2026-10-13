@@ -11,14 +11,6 @@
    "reward": "10,000,000 Gold , 5,000,000 Gems , and 100 Reroll Shards"
   },
   {
-   "code": "FreshStart",
-   "reward": "100,000 Money , 25,000 Gems , 1 Beginner Box , 1 Mid Game Box , and 3 "
-  },
-  {
-   "code": "BwaaTeam",
-   "reward": "Gems and Cash"
-  },
-  {
    "code": "NonchalantReaper",
    "reward": "5 Luck Potions , 5 Gem Potions , and 2 All Other Potions"
   },
@@ -111,6 +103,10 @@
    "reward": "100,000,000 Coins , 1,500,000 Gems , 500,000 Fragments of Rogue , 20 M"
   },
   {
+   "code": "FreshStart",
+   "reward": "100,000 Money , 25,000 Gems , 1 Beginner Box , 1 Mid Game Box , and 3 "
+  },
+  {
    "code": "ThanksForWaiting",
    "reward": "75,000 Money , 20,000 Gems , 250 Tokens , 5 Trait Capsules , 3 Race Ca"
   },
@@ -149,8 +145,12 @@
   {
    "code": "BwaaTeamBwaaPet",
    "reward": "Shards , Chest , and Rogue Fragments . You must be level 11,500 to cla"
+  },
+  {
+   "code": "BwaaTeam",
+   "reward": "Gems and Cash"
   }
  ],
- "updated": "2026-10-11T21:45:39.694Z",
+ "updated": "2026-10-13T14:08:17.128Z",
  "source": "https://robloxden.com/game-codes/rogue-piece"
 }

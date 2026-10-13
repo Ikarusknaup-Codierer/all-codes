@@ -7,16 +7,44 @@
    "reward": "Description"
   },
   {
+   "code": "CASHG",
+   "reward": "300 Cash"
+  },
+  {
+   "code": "FREDAG",
+   "reward": "100 Bandages"
+  },
+  {
+   "code": "FREMOR",
+   "reward": "100 Armors"
+  },
+  {
+   "code": "ADW",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "YUY",
+   "reward": "10 Diamonds"
+  },
+  {
+   "code": "FRED",
+   "reward": "20 Diamonds"
+  },
+  {
+   "code": "OPS",
+   "reward": "200 Cash"
+  },
+  {
+   "code": "nightshard",
+   "reward": "Nightshard - Pistol"
+  },
+  {
    "code": "Hexspine",
    "reward": "Hexspine - Pistol"
   },
   {
    "code": "rar",
    "reward": "1,000 cash"
-  },
-  {
-   "code": "CASHG",
-   "reward": "300 Cash"
   },
   {
    "code": "LOVELASH",
@@ -143,6 +171,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-10-11T12:31:58.056Z",
+ "updated": "2026-10-13T14:01:09.854Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

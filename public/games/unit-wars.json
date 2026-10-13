@@ -15,10 +15,6 @@
    "reward": "5 Season 2 Eggs and 10 Power Nut"
   },
   {
-   "code": "2MVisits",
-   "reward": "3 Raid Eggs, 1 Double Trait Luck Potion and 10 Steaks"
-  },
-  {
    "code": "25kLikes",
    "reward": "1 Golden Classic Crate , 2 Double Luck Potions , and 10 Power Nuts"
   },
@@ -57,8 +53,12 @@
   {
    "code": "100kGroupMembers",
    "reward": "2 Golden Classic Crates, 2 Double Gem Potions and 15 Power Nuts"
+  },
+  {
+   "code": "2MVisits",
+   "reward": "3 Raid Eggs, 1 Double Trait Luck Potion and 10 Steaks"
   }
  ],
- "updated": "2026-10-11T05:11:31.768Z",
+ "updated": "2026-10-13T13:56:41.936Z",
  "source": "https://robloxden.com/game-codes/unit-wars"
 }

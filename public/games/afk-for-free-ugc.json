@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "EMOTE",
-   "reward": ""
-  },
-  {
-   "code": "SORRY4DELAY",
-   "reward": ""
-  },
-  {
    "code": "DEER",
    "reward": ""
   },
@@ -23,10 +15,18 @@
    "reward": ""
   },
   {
+   "code": "NEWUGC",
+   "reward": "50,000 Clicks"
+  },
+  {
    "code": "99NIGHT",
    "reward": "65,000 Clicks"
+  },
+  {
+   "code": "OWL",
+   "reward": "20,000 Clicks"
   }
  ],
- "updated": "2026-10-11T12:32:14.942Z",
+ "updated": "2026-10-13T14:01:28.430Z",
  "source": "https://robloxden.com/game-codes/afk-for-free-ugc"
 }

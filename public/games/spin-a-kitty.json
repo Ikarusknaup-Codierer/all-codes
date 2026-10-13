@@ -7,16 +7,32 @@
    "reward": "Description"
   },
   {
+   "code": "KITTYKAT",
+   "reward": "200 Gems, 15 Magnetic Dice, 15 Radiant Dice, 20 Auric Dice and 100 Ref"
+  },
+  {
+   "code": "PUPPYDOG",
+   "reward": "100 Gems, 3 Magnetic Dice, 7 Radiance Dice, 30 Auric Dice and 15 Refin"
+  },
+  {
+   "code": "BARKCAT",
+   "reward": "50 Gems, 1 Magnetic Dice, 3 Radiant Dice, 15 Auric Dice and 25 Refined"
+  },
+  {
+   "code": "OCTOPUSJAM",
+   "reward": "50 Gems, 1 Magnetic Dice, 3 Radiant Dice, 15 Auric Dice and 25 Refined"
+  },
+  {
+   "code": "PIGBELLY",
+   "reward": "200 Gems, 15 Magnetic Dice, 15 Radiant Dice, 20 Auric Dice and 100 Ref"
+  },
+  {
+   "code": "CRABEYE",
+   "reward": "50 Gems, 1 Magnetic Dice, 3 Radiant Dice, 15 Auric Dice and 25 Refined"
+  },
+  {
    "code": "bigcheddar",
    "reward": "100 Gems , 5 Refined Dice , 15 Gold Dice , 7 Obsidian Dice , and 25 Br"
-  },
-  {
-   "code": "hicheddar",
-   "reward": "400 Gems , 50 Refined Dice , 20 Auric Dice , 10 Obsidian Dice , and 5 "
-  },
-  {
-   "code": "CHEDDAR",
-   "reward": "500K Cash, 200 Gems, 100 Refined Dice, 50 Auric Dice, 10 Obsidian Dice"
   },
   {
    "code": "coolcode",
@@ -55,14 +71,14 @@
    "reward": "100 Cash and 10 Basic Dice"
   },
   {
-   "code": "freebie",
-   "reward": "3 Hacker Dice and 100 Gems"
+   "code": "hicheddar",
+   "reward": "400 Gems , 50 Refined Dice , 20 Auric Dice , 10 Obsidian Dice , and 5 "
   },
   {
-   "code": "wedidit",
-   "reward": "15 Sakura dice, 10 Hacker Dice and 200 Gems"
+   "code": "CHEDDAR",
+   "reward": "500K Cash, 200 Gems, 100 Refined Dice, 50 Auric Dice, 10 Obsidian Dice"
   }
  ],
- "updated": "2026-10-11T05:09:22.559Z",
+ "updated": "2026-10-13T00:35:47.997Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

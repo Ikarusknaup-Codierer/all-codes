@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "YOUWANTGOLD",
-   "reward": "Gold"
+   "code": "LMBFAO",
+   "reward": "Exp"
   },
   {
-   "code": "WESORRY4BUG",
-   "reward": "some free spins"
+   "code": "YOUWANTEXP",
+   "reward": "5,000,000 EXP"
   },
   {
-   "code": "SpinsBIGGUNS2",
+   "code": "BETARELEASE",
+   "reward": "5 Race Spins"
+  },
+  {
+   "code": "MAGICSPIN",
+   "reward": "1 Magic Spin"
+  },
+  {
+   "code": "SPIRITCHASTIEFOLD",
    "reward": "Spins"
-  },
-  {
-   "code": "HBDBANDWIN2",
-   "reward": "150 Magic Spins"
-  },
-  {
-   "code": "3EXPGANG",
-   "reward": "10,000,000 XP"
   }
  ],
- "updated": "2026-10-11T05:02:10.658Z",
+ "updated": "2026-10-13T00:27:48.272Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

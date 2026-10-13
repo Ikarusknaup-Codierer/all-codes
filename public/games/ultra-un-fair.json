@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FistFixes!!",
-   "reward": "1 Hour of All Luck Boosts"
-  },
-  {
    "code": "MovesAndChanges!",
    "reward": "1 Hour and 15 Minutes of All Luck"
   },
@@ -41,6 +37,10 @@
   {
    "code": "UPDATEWOOOO",
    "reward": "50K Cash"
+  },
+  {
+   "code": "FistFixes!!",
+   "reward": "1 Hour of All Luck Boosts"
   },
   {
    "code": "sorryimportantshutdown",
@@ -255,6 +255,6 @@
    "reward": "1 Fast Roll Boost"
   }
  ],
- "updated": "2026-10-11T05:04:07.375Z",
+ "updated": "2026-10-13T00:29:58.807Z",
  "source": "https://robloxden.com/game-codes/ultra-un-fair"
 }

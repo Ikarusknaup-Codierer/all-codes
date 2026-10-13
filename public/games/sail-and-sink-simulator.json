@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "KATO",
+   "reward": "30 Anchors"
+  },
+  {
+   "code": "NEWISLAND",
+   "reward": "120 Anchors"
+  },
+  {
    "code": "RESEARCH",
    "reward": "150 Anchors"
   }
  ],
- "updated": "2026-10-11T05:06:55.379Z",
+ "updated": "2026-10-13T00:33:08.591Z",
  "source": "https://robloxden.com/game-codes/sail-and-sink-simulator"
 }

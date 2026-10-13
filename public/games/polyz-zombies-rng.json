@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "STACKED300K",
-   "reward": "300,000 Gold"
-  },
-  {
-   "code": "GEMFLOW200",
-   "reward": "200 Diamonds"
+   "code": "3MPLAYS",
+   "reward": "Freebies"
   },
   {
    "code": "100KVISITS",
@@ -21,8 +17,12 @@
   {
    "code": "QUESTS",
    "reward": "5,000 Coins and 500 Diamonds"
+  },
+  {
+   "code": "REFRESH",
+   "reward": "50,000 Coins and 5,000 Diamonds"
   }
  ],
- "updated": "2026-10-11T12:28:36.800Z",
+ "updated": "2026-10-13T00:39:46.630Z",
  "source": "https://robloxden.com/game-codes/polyz-zombies-rng"
 }

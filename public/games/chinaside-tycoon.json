@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CASH30",
+   "reward": "30K Cash"
+  },
+  {
    "code": "hubopen",
    "reward": "15,000 Cash and a Cash Boost (10 Minutes)"
   },
@@ -75,6 +79,6 @@
    "reward": "20,000 Cash and 150 Followers"
   }
  ],
- "updated": "2026-10-11T12:27:44.399Z",
+ "updated": "2026-10-13T00:38:46.471Z",
  "source": "https://robloxden.com/game-codes/chinaside-tycoon"
 }

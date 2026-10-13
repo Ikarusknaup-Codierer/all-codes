@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LEHDEPTH",
+   "reward": "10 Mutation Potions , 10 Divine Potions , 50,000 Stat Aura Packs , and"
+  },
+  {
    "code": "MUTATION",
    "reward": "15 Legendary Luck Potions"
   },
@@ -71,6 +75,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-11T05:08:23.057Z",
+ "updated": "2026-10-13T00:34:51.473Z",
  "source": "https://robloxden.com/game-codes/card-rng-expansion"
 }

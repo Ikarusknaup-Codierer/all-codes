@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BigImprovement",
+   "reward": "100,000 Cash"
+  },
+  {
+   "code": "800Likes",
+   "reward": "100,000 Cash"
+  },
+  {
    "code": "100Likes",
+   "reward": "100,000 Cash"
+  },
+  {
+   "code": "RaceTrack",
    "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-10-10T21:31:13.970Z",
+ "updated": "2026-10-13T00:25:21.726Z",
  "source": "https://robloxden.com/game-codes/moto-empire"
 }

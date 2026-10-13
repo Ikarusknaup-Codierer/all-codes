@@ -55,14 +55,14 @@
    "reward": "20 Luck Potion III , 20 Roll Speed Potion III , and 20 Weather Potion"
   },
   {
-   "code": "DUNGEONSOON",
-   "reward": "20 Luck Potion III , 20 Roll Speed III , and 20 Weather Potion"
-  },
-  {
    "code": "ENTERTAINMENT",
    "reward": "15 Luck Potion 3 , 15 Roll Speed 3 , and 25 Weather Potion"
+  },
+  {
+   "code": "RAIDMODE",
+   "reward": "5 Luck Potions and 5 Roll Speed Potions"
   }
  ],
- "updated": "2026-10-11T12:28:52.080Z",
+ "updated": "2026-10-13T00:40:02.893Z",
  "source": "https://robloxden.com/game-codes/anime-card-crusade"
 }

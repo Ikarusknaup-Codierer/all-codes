@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Lord",
+   "reward": "67x Reinforced Diamond"
+  },
+  {
+   "code": "MOGGITY",
+   "reward": "10x Barrier"
+  },
+  {
+   "code": "DUDU",
+   "reward": "100 Dudu Obsidian"
+  },
+  {
+   "code": "UPDATE67",
+   "reward": "67 Bedrocks"
+  },
+  {
    "code": "TOP1DUDU",
    "reward": "10x DuDu"
   },
@@ -17,6 +33,10 @@
   {
    "code": "SORRY4NOCODES",
    "reward": "10 God Verity Bedrocks"
+  },
+  {
+   "code": "UPDATE67SPECIAL",
+   "reward": "50 Reinforced Obsidian Blocks"
   },
   {
    "code": "WMEMBER67",
@@ -47,6 +67,6 @@
    "reward": "10x Bedrock"
   }
  ],
- "updated": "2026-10-10T21:30:24.980Z",
+ "updated": "2026-10-13T00:24:47.479Z",
  "source": "https://robloxden.com/game-codes/build-base-to-survive-verity"
 }

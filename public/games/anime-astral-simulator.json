@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE16",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "EVENFASTERGUILDS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "CELESTIALKEYS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "GUILDSFASTER",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "GUILDS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "MAGNOLIA",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "PRANATREE",
    "reward": "250 F2P Tickets , a Damage II Potion , a Luck II Potion , a Power II P"
   },
@@ -479,6 +503,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-10-10T21:32:40.690Z",
+ "updated": "2026-10-13T00:26:35.785Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

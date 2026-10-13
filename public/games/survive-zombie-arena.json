@@ -7,24 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Swaggin",
-   "reward": "2x Credits (12 hours) and a Pirate Chest"
-  },
-  {
    "code": "Iron",
    "reward": "20 Pirate Wood and 12 Pirate Iron"
   },
   {
-   "code": "NODELAYSWAG",
-   "reward": "2x Bloodmoon (48 Hours) , 2x Bloodmoon Crates , and 5,000 Credits"
-  },
-  {
    "code": "SWAGGYBOI",
    "reward": "2x Credits (12 Hours) and 2x Bloodmoon Shards (24 Hours)"
-  },
-  {
-   "code": "BOSSRUSH",
-   "reward": "2x Ultra Encounters (12h) and 3,500 Credits"
   },
   {
    "code": "DELAY",
@@ -63,12 +51,24 @@
    "reward": "2x Pirate Pass XP (24 hours)"
   },
   {
+   "code": "Swaggin",
+   "reward": "2x Credits (12 hours) and a Pirate Chest"
+  },
+  {
+   "code": "NODELAYSWAG",
+   "reward": "2x Bloodmoon (48 Hours) , 2x Bloodmoon Crates , and 5,000 Credits"
+  },
+  {
    "code": "patchboi",
    "reward": "2x Arena Credits (4 Hours)"
   },
   {
    "code": "TUNDRASZN",
    "reward": "2x Bloodmoon Shards (48h) and 2x Credits (4h)"
+  },
+  {
+   "code": "BOSSRUSH",
+   "reward": "2x Ultra Encounters (12h) and 3,500 Credits"
   },
   {
    "code": "DELAYSAHUR",
@@ -87,6 +87,6 @@
    "reward": "3 Bloodmoon Spins and 2x Bloodmoon Shards (4 Hours)"
   }
  ],
- "updated": "2026-10-11T05:06:21.107Z",
+ "updated": "2026-10-13T00:32:27.397Z",
  "source": "https://robloxden.com/game-codes/survive-zombie-arena"
 }

@@ -11,22 +11,22 @@
    "reward": "the Disappointment Title"
   },
   {
-   "code": "secretsakuracode",
-   "reward": "a reroll"
+   "code": "drills",
+   "reward": "15 Basic Crates and 1,200 Cash"
   },
   {
-   "code": "sakura",
-   "reward": "24 Basic Crates and 1,400 Cash"
-  },
-  {
-   "code": "bloodmoon",
-   "reward": "rewards"
+   "code": "trading",
+   "reward": "3 Basic Crates and $1,000"
   },
   {
    "code": "isurvived",
    "reward": "rewards"
+  },
+  {
+   "code": "evilcode",
+   "reward": "the Evil Horns Vehicle Attachment"
   }
  ],
- "updated": "2026-10-11T05:05:05.124Z",
+ "updated": "2026-10-13T00:31:02.401Z",
  "source": "https://robloxden.com/game-codes/dig"
 }

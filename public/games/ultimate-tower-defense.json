@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BattlepassSeason10",
+   "reward": "75x Perk Reroll , 75x Trait Reroll , and 10x Lost Chest"
+  },
+  {
    "code": "kenpachirework",
    "reward": "75 Perk Rerolls , 75 Trait Rerolls , 12 Impure Souls and 10 Lost Chest"
   },
@@ -91,6 +95,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-11T05:03:54.829Z",
+ "updated": "2026-10-13T00:29:43.750Z",
  "source": "https://robloxden.com/game-codes/ultimate-tower-defense"
 }

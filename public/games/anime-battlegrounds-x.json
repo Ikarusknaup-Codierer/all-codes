@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "plzwork",
-   "reward": "200 Gems"
-  },
-  {
-   "code": "launch",
-   "reward": "150 Gems"
-  },
-  {
    "code": "update1",
    "reward": "Free Gems"
   },
@@ -23,10 +15,18 @@
    "reward": "10 Wish Shards"
   },
   {
-   "code": "ONEPEAS",
-   "reward": "150 Gems"
+   "code": "DIO",
+   "reward": "15 Wish Shards"
+  },
+  {
+   "code": "HUNTER",
+   "reward": "10 Wish Shards"
+  },
+  {
+   "code": "BLEACHLAUNCH",
+   "reward": "10 Wish Shards"
   }
  ],
- "updated": "2026-10-11T05:04:00.712Z",
+ "updated": "2026-10-13T00:29:52.309Z",
  "source": "https://robloxden.com/game-codes/anime-battlegrounds-x"
 }

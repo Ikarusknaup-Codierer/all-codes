@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ROBOT",
+   "reward": "the 30,000 Tokens"
+  },
+  {
    "code": "FAVORITE",
    "reward": "30K Trade Tokens"
   },
@@ -15,10 +19,10 @@
    "reward": "30K Trade Tokens"
   },
   {
-   "code": "SORRY",
-   "reward": "30,000 Trade Tokens"
+   "code": "LIMITED",
+   "reward": "20,000 Trade Tokens"
   }
  ],
- "updated": "2026-10-11T12:28:42.056Z",
+ "updated": "2026-10-13T00:39:52.103Z",
  "source": "https://robloxden.com/game-codes/inside-brainrot-head"
 }

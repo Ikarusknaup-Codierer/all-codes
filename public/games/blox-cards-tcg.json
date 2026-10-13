@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BOOTH",
+   "reward": "400 BB and Wating At My Stand Title"
+  },
+  {
    "code": "THECONQUERORS",
    "reward": "250 BB , the Peasant Title , and 10 Demon Wars: The Conquerors Tickets"
   },
@@ -175,6 +179,6 @@
    "reward": "800 BB"
   }
  ],
- "updated": "2026-10-11T05:07:53.369Z",
+ "updated": "2026-10-13T00:34:22.151Z",
  "source": "https://robloxden.com/game-codes/blox-cards-tcg"
 }

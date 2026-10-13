@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CLOVERPASS",
+   "reward": "1K tensei Shards, 25K Chikara, 1K Clover Tokens, 1 Temporary Server Bo"
+  },
+  {
    "code": "DEMONLORD",
    "reward": "2 Tensei Shard Boosts , 4 Stat Boosts , 4 Yen Boosts , 1,500 Tensei Sh"
   },
@@ -35,10 +39,6 @@
    "reward": "5,000 Chikara , 3,000 Tensei Shards , 12 Trait Rerolls , 4 Stat Boosts"
   },
   {
-   "code": "FASTFIX",
-   "reward": "a Temporary Server Boost"
-  },
-  {
    "code": "TOURNEY",
    "reward": "1,500 Chikara , 1,500 Tensei Shards , 4 Training Speed Boosts , 4 Stat"
   },
@@ -47,6 +47,6 @@
    "reward": "750 Tensei Shards , 4 Stat Boosts , 4 Training Speed Boosts , and 10 T"
   }
  ],
- "updated": "2026-10-10T21:33:15.198Z",
+ "updated": "2026-10-13T00:26:47.487Z",
  "source": "https://robloxden.com/game-codes/anime-fighting-simulator-kdmf"
 }

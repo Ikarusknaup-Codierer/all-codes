@@ -43,10 +43,6 @@
    "reward": "a Reimu Plush"
   },
   {
-   "code": "YST",
-   "reward": "the Silver Solar Eclipse Crown"
-  },
-  {
    "code": "facecute123",
    "reward": "a purchaseable Face item on Roblox"
   },
@@ -183,10 +179,14 @@
    "reward": "the Hot Pink Pixel Crown"
   },
   {
+   "code": "YST",
+   "reward": "the Silver Solar Eclipse Crown"
+  },
+  {
    "code": "PURPLEGAS",
    "reward": "the Purple Smoke Spirit"
   }
  ],
- "updated": "2026-10-13T14:00:09.656Z",
+ "updated": "2026-10-14T21:29:57.491Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

@@ -19,14 +19,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "POLICE",
-   "reward": ""
-  },
-  {
    "code": "BOSSES",
    "reward": "10,000 Coins"
+  },
+  {
+   "code": "BUGFIX",
+   "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-10-13T13:58:47.217Z",
+ "updated": "2026-10-14T21:28:38.754Z",
  "source": "https://robloxden.com/game-codes/egg-the-car"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LUNAREVENT",
+   "reward": "10 Lunar Pies"
+  },
+  {
+   "code": "FORGOTTENFARM",
+   "reward": "5 Minigames Tickets"
+  },
+  {
    "code": "TOYISLAND",
    "reward": "10 Toy Cookies"
   },
@@ -63,6 +71,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-10-13T14:02:30.453Z",
+ "updated": "2026-10-14T21:32:19.298Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

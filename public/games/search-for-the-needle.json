@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MASTERY",
+   "reward": "100 Gems"
+  },
+  {
    "code": "WEATHER",
    "reward": "120 Gems"
   },
@@ -19,6 +23,6 @@
    "reward": "200 Gems and 200 Alien Coins"
   }
  ],
- "updated": "2026-10-13T22:31:29.666Z",
+ "updated": "2026-10-14T21:37:31.645Z",
  "source": "https://robloxden.com/game-codes/search-for-the-needle"
 }

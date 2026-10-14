@@ -209,8 +209,16 @@
   {
    "code": "STORAGEUPGRADE",
    "reward": "Gems"
+  },
+  {
+   "code": "DELY",
+   "reward": "Gems"
+  },
+  {
+   "code": "SorryForShutdown",
+   "reward": "200 Gems"
   }
  ],
- "updated": "2026-10-13T22:29:45.592Z",
+ "updated": "2026-10-14T21:36:01.627Z",
  "source": "https://robloxden.com/game-codes/universal-legacy"
 }

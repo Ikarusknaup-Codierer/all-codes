@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CURSED",
+   "reward": "10x Cash for (2 Hours)"
+  },
+  {
    "code": "EIGHTEEN",
    "reward": "a 4x Cash Boost"
   },
@@ -95,14 +99,14 @@
    "reward": "a Luffy (Mufei) Character"
   },
   {
-   "code": "JELLYY",
-   "reward": "Double Cash"
+   "code": "RICH2TRY",
+   "reward": "2x Cash (2 Hours)"
   },
   {
-   "code": "JELLY",
-   "reward": "5x Cash Boost"
+   "code": "1MIL",
+   "reward": "2x Stock Quantity (1 Hour)"
   }
  ],
- "updated": "2026-10-13T14:00:20.954Z",
+ "updated": "2026-10-14T21:30:08.215Z",
  "source": "https://robloxden.com/game-codes/roll-an-anime"
 }

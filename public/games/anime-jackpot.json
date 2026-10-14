@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GUILD",
+   "reward": "3 Weather Potions"
+  },
+  {
+   "code": "JACKPOTCHAN",
+   "reward": "the Mut Pot I"
+  },
+  {
+   "code": "WITCH",
+   "reward": "6,666 Stars"
+  },
+  {
    "code": "HUNTER",
    "reward": "12,000 Stars"
   },
@@ -23,10 +35,10 @@
    "reward": "OP Stars"
   },
   {
-   "code": "TRADINGSOON",
+   "code": "TRADINGISBACK",
    "reward": "9,000 Stars"
   }
  ],
- "updated": "2026-10-13T14:04:22.735Z",
+ "updated": "2026-10-14T21:32:57.669Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

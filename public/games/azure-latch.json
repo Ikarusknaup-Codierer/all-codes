@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TIMOTHYISHEREFORNAGI",
-   "reward": "10K Cash"
-  },
-  {
    "code": "KAISERISNEXTWEEKNOWORRIES",
    "reward": "10K Cash"
   },
@@ -25,6 +21,14 @@
   {
    "code": "BROTHERNOAH",
    "reward": "Brother Noah Emote"
+  },
+  {
+   "code": "october",
+   "reward": "the Horror Game MVP"
+  },
+  {
+   "code": "TIMOTHYISHEREFORNAGI",
+   "reward": "10K Cash"
   },
   {
    "code": "SEALSARETHEBEST",
@@ -163,6 +167,6 @@
    "reward": "X Emote"
   }
  ],
- "updated": "2026-10-13T13:59:57.788Z",
+ "updated": "2026-10-14T21:29:45.228Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

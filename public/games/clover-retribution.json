@@ -19,6 +19,10 @@
    "reward": "Spins . You must be in the First Kingdom to redeem this code"
   },
   {
+   "code": "!sovereign",
+   "reward": "Rewards . You must be at least level 40 to redeem this code"
+  },
+  {
    "code": "!freeskilltreereset",
    "reward": "an Elixir to reset the skill tree once. You must be in the First Kingd"
   },
@@ -27,14 +31,10 @@
    "reward": "200 Spins of all types . You must be at least level 40 to redeem this "
   },
   {
-   "code": "!sovereign",
-   "reward": "Spins . You must be at least level 60 to redeem this code"
-  },
-  {
    "code": "!iactuallywantedtokens2",
    "reward": "4 Tokens . You must first Reach First Kingdom to use this code"
   }
  ],
- "updated": "2026-10-13T22:37:28.383Z",
+ "updated": "2026-10-14T21:41:53.298Z",
  "source": "https://robloxden.com/game-codes/clover-retribution"
 }

@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "ABYSS",
+   "reward": "4,000 Gold , 25000-Roll Pack , 2 , Huge Luck Potion , 1 , Huge Rarity "
+  },
+  {
+   "code": "HANAMI",
+   "reward": "6,000 Gold , 2 , 25000-Roll Pack , 2 , Huge Luck Potion , 2 , Huge Rar"
+  },
+  {
+   "code": "KRAKEN",
+   "reward": "100,000 Gold , 100000-Roll Pack , 2 , Huge Luck Potion , 2 , Huge Rari"
+  },
+  {
+   "code": "SAKURA",
+   "reward": "500 Gold , 3 , 100-Roll Pack , and 3 , Medium Luck Potion"
+  },
+  {
+   "code": "AWAKENING",
+   "reward": "1,000 Gold , 5 , 1000-Roll Pack , 5 , Medium Rarity Potion , and 2 , B"
+  },
+  {
+   "code": "WORLD14",
+   "reward": "2,000 Gold , 3 , 5000-Roll Pack , 5 , Boss Potion , and 3 , Trait Rero"
+  },
+  {
    "code": "MEMEWORLD",
    "reward": "500 Gold , 3 100-Roll Packs , and 3 Medium Luck Potions"
   },
@@ -291,6 +315,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-10-13T14:00:15.939Z",
+ "updated": "2026-10-14T21:30:03.157Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

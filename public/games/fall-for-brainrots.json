@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PHANTOMUPDATE",
+   "reward": "10,000 Barrier Tokens , 100 Admin Coins , 2 Spins , a 41 Lucky Block ,"
+  },
+  {
+   "code": "GAMEISBACK",
+   "reward": "50,000 Barrier Tokens , 500 Admin Coins , 5 Spins , 3 41 Lucky Blocks "
+  },
+  {
    "code": "FUSEUPDATE",
    "reward": "10,000 Barrier Tokens , 100 Admin Tokens , 2 Spins , 1 67 Lucky Block "
   },
@@ -43,6 +51,6 @@
    "reward": "1M Money , 1M Fall Speed , 30k Barrier Tokens , 100 Admin Coins , 5 Sp"
   }
  ],
- "updated": "2026-10-13T14:08:43.705Z",
+ "updated": "2026-10-14T21:34:04.411Z",
  "source": "https://robloxden.com/game-codes/fall-for-brainrots"
 }

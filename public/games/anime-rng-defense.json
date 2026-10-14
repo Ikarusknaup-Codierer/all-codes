@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATESUNGOD",
+   "reward": "1K Crystals and 1 Blessed Roll"
+  },
+  {
+   "code": "GIANTKINGDOM",
+   "reward": "Cursed Fingers and Divine Rerolls . To use this code, you must at leas"
+  },
+  {
+   "code": "SECRETAWAKENING",
+   "reward": "Cursed Fingers and Divine Rerolls . To use this code, you must at leas"
+  },
+  {
+   "code": "BOSSRUSH",
+   "reward": "Cursed Fingers and Divine Rerolls . To use this code, you must at leas"
+  },
+  {
+   "code": "LUFFOSUNGOD",
+   "reward": "Cursed Fingers and Divine Rerolls . To use this code, you must at leas"
+  },
+  {
    "code": "UPDATEPUNCH",
    "reward": "1,000 Crystals and 1 Blessed Roll"
   },
@@ -45,10 +65,6 @@
   {
    "code": "UPDATEFIRE",
    "reward": "1K Crystals and 1 Blessed Roll"
-  },
-  {
-   "code": "SORRYFORSHUTDOWNGHOUL",
-   "reward": "3 Divine Rolls"
   },
   {
    "code": "UPDATEGHOUL",
@@ -109,6 +125,10 @@
   {
    "code": "WORLDTOWERSHUTDOWN",
    "reward": "2x Divine Rolls and 1x Blessed Roll"
+  },
+  {
+   "code": "SORRYFORSHUTDOWNGHOUL",
+   "reward": "3 Divine Rolls"
   },
   {
    "code": "SORRYFORSHUTDOWN10",
@@ -207,6 +227,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-10-13T22:28:38.217Z",
+ "updated": "2026-10-14T21:35:03.117Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

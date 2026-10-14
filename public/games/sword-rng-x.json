@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "ADMINABUSE",
+   "reward": "an Ultra Dice and 3 Loot Potions"
+  },
+  {
+   "code": "HEAVEN",
+   "reward": "3 Umbral Dice and an Enhanced Luck Potion"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Gems and 5 Lucky Dice"
+  },
+  {
+   "code": "RNGX",
+   "reward": "25,000 Gold and 3 Luck Potions"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "2 Jackpot Dice"
   }
  ],
- "updated": "2026-10-12T05:22:47.577Z",
+ "updated": "2026-10-14T04:20:57.101Z",
  "source": "https://robloxden.com/game-codes/sword-rng-x"
 }

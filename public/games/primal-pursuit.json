@@ -11,10 +11,6 @@
    "reward": "400 Bones"
   },
   {
-   "code": "70KL1KES",
-   "reward": "450 Bones"
-  },
-  {
    "code": "CAPTAIN",
    "reward": "Captain Pachy"
   },
@@ -39,6 +35,10 @@
    "reward": "150 Bones"
   },
   {
+   "code": "70KL1KES",
+   "reward": "450 Bones"
+  },
+  {
    "code": "CHRISTMAS",
    "reward": "200 Candy Canes"
   },
@@ -55,6 +55,6 @@
    "reward": "500 Bones"
   }
  ],
- "updated": "2026-10-12T05:26:04.910Z",
+ "updated": "2026-10-14T04:23:33.559Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

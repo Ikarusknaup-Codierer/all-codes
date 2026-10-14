@@ -7,14 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "BOUNTY",
+   "reward": "20 Gems"
+  },
+  {
+   "code": "DUELS",
+   "reward": "a Crate"
+  },
+  {
+   "code": "FIRSTUPDATE",
+   "reward": "a Crate"
+  },
+  {
+   "code": "HUNT",
+   "reward": "a Crate"
+  },
+  {
+   "code": "SWORDS",
+   "reward": "25 Gems"
+  },
+  {
+   "code": "RDC",
+   "reward": "30 Gems"
+  },
+  {
    "code": "ONI",
    "reward": "rewards"
   },
   {
-   "code": "THANKSCODE",
+   "code": "NUKE",
    "reward": "rewards"
   }
  ],
- "updated": "2026-10-12T05:22:48.227Z",
+ "updated": "2026-10-14T04:20:57.792Z",
  "source": "https://robloxden.com/game-codes/blitz-fps"
 }

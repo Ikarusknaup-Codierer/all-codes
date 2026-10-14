@@ -7,6 +7,42 @@
    "reward": "Description"
   },
   {
+   "code": "40KFAVS",
+   "reward": "100 Rerolls"
+  },
+  {
+   "code": "35KLIKES",
+   "reward": "100 Rerolls"
+  },
+  {
+   "code": "lapeace",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "JUSTTHESTART",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "bugfixes",
+   "reward": "3 Rerolls"
+  },
+  {
+   "code": "MOREMOREMORE",
+   "reward": "25 Rerolls"
+  },
+  {
+   "code": "MYBADFIXESOTW",
+   "reward": "25 Rerolls"
+  },
+  {
+   "code": "1KLIKESANDDELAYSORRY",
+   "reward": "25 Rerolls"
+  },
+  {
+   "code": "RELEASETHANKYOU",
+   "reward": "25 Rerolls"
+  },
+  {
    "code": "WEREBACK",
    "reward": "150 Rerolls"
   },
@@ -15,6 +51,6 @@
    "reward": "9 Rerolls"
   }
  ],
- "updated": "2026-10-12T05:22:48.727Z",
+ "updated": "2026-10-14T04:20:58.372Z",
  "source": "https://robloxden.com/game-codes/shigaku"
 }

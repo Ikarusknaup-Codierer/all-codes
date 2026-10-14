@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE",
-   "reward": "110 Gems"
-  },
-  {
-   "code": "XMAS2025",
-   "reward": "250 Cookies On Your Current Character"
-  },
-  {
    "code": "TOMMY",
    "reward": "A Tommy Gun For Thomas"
   },
@@ -119,14 +111,14 @@
    "reward": "1x Thomas Outfit . In order to redeem this code, you must first alread"
   },
   {
-   "code": "SANTASROCKETSHIP",
-   "reward": "A Free Jetpack For Your Current Character"
+   "code": "RELEASE",
+   "reward": "110 Gems"
   },
   {
-   "code": "QUESTING",
-   "reward": "50 Quest Tickets"
+   "code": "XMAS2025",
+   "reward": "250 Cookies On Your Current Character"
   }
  ],
- "updated": "2026-10-12T14:56:44.772Z",
+ "updated": "2026-10-14T04:24:34.796Z",
  "source": "https://robloxden.com/game-codes/ultimate-town-sandbox"
 }

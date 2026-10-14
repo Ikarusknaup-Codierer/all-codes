@@ -15,18 +15,18 @@
    "reward": "1,000 Cash"
   },
   {
-   "code": "400LIKE",
-   "reward": "Unknown Reward"
-  },
-  {
    "code": "YOUCANROLL",
    "reward": "Unknown Reward"
   },
   {
    "code": "UPDATEBUFF",
    "reward": "Luck 100% For 300 Seconds"
+  },
+  {
+   "code": "JUSTROLL",
+   "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-10-12T05:23:41.672Z",
+ "updated": "2026-10-14T04:21:55.212Z",
  "source": "https://robloxden.com/game-codes/project-rng"
 }

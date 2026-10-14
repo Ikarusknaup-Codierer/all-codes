@@ -15,6 +15,10 @@
    "reward": "the Summer Skin Case"
   },
   {
+   "code": "60KLIKES",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "VISORS",
    "reward": "1 Summer Trail Case"
   },
@@ -29,10 +33,6 @@
   {
    "code": "CATCH",
    "reward": "1 Summer Skin Case"
-  },
-  {
-   "code": "60KLIKES",
-   "reward": "1,000 Coins"
   },
   {
    "code": "HURDLE",
@@ -53,16 +53,8 @@
   {
    "code": "45KLIKES",
    "reward": "1,000 Coins"
-  },
-  {
-   "code": "TYFOR100K",
-   "reward": "Christmas Emote Case"
-  },
-  {
-   "code": "10kfavs",
-   "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-10-12T05:22:55.652Z",
+ "updated": "2026-10-14T04:21:05.929Z",
  "source": "https://robloxden.com/game-codes/football-legends"
 }

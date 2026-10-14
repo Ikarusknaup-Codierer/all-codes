@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORUPDATEBUG",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "FREECODE",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "500 Speed and 500 Strength"
+  },
+  {
    "code": "SUNGOD",
    "reward": "25,000 Coins"
   }
  ],
- "updated": "2026-10-12T05:17:20.983Z",
+ "updated": "2026-10-14T04:18:03.214Z",
  "source": "https://robloxden.com/game-codes/build-the-pyramid"
 }

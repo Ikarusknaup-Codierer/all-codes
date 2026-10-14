@@ -11,7 +11,11 @@
    "reward": "50000 Credits"
   },
   {
-   "code": "OMICRON",
+   "code": "ForTheGreatestPurpose",
+   "reward": "50000 Credits"
+  },
+  {
+   "code": "OMEGA",
    "reward": "Rewards"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "IAMTHEONE",
    "reward": "10000 Credits"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "100 Speed and 100 Jump"
   }
  ],
- "updated": "2026-10-12T14:56:26.128Z",
+ "updated": "2026-10-14T04:24:13.745Z",
  "source": "https://robloxden.com/game-codes/1-speed-and-1-jump-every-second"
 }

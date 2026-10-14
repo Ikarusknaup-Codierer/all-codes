@@ -11,12 +11,12 @@
    "reward": "250 EXP and 6,700 Cash"
   },
   {
-   "code": "BAHA",
-   "reward": "250 Cash and 6,700 Cash"
-  },
-  {
    "code": "SorryForDelay",
    "reward": "Rewards"
+  },
+  {
+   "code": "BAHA",
+   "reward": "250 Cash and 6,700 Cash"
   },
   {
    "code": "nitro",
@@ -115,6 +115,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-10-13T14:03:51.407Z",
+ "updated": "2026-10-14T17:08:01.833Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

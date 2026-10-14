@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HARDTRAINING",
+   "reward": "10 Tickets , 20 Jade , and 5 of Each Mark Potion"
+  },
+  {
+   "code": "WORLD8PT2",
+   "reward": "5 Tickets and 1 of Each Path Potion"
+  },
+  {
    "code": "DUNGEON6",
    "reward": "1 Ore Potion , 10 Jade , and 5 Tickets"
   },
@@ -339,6 +347,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-10-13T13:57:34.127Z",
+ "updated": "2026-10-14T17:03:06.243Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

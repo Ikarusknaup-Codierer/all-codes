@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CODEBUG",
+   "reward": "5K Aether Coins"
+  },
+  {
+   "code": "PANTHER",
+   "reward": "5 Primodial Bone Blade"
+  },
+  {
    "code": "BPFIX",
    "reward": "3,000 Twirly Coin"
   },
@@ -87,6 +95,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-10-13T13:55:58.919Z",
+ "updated": "2026-10-14T17:01:37.970Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

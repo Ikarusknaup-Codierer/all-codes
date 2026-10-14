@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RECODE",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "SORRYFORDELAYAGAIN",
    "reward": "300 Coins"
   },
@@ -31,6 +35,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-10-13T00:39:17.315Z",
+ "updated": "2026-10-14T16:58:46.809Z",
  "source": "https://robloxden.com/game-codes/lurking-giants"
 }

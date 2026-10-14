@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "happyvalentinespump",
-   "reward": "2x Workout Speed (20 Minutes)"
-  },
-  {
    "code": "SHAZAM!FURYOFTHEGODS",
    "reward": "a 2x Movement Speed Buff"
   },
@@ -77,8 +73,12 @@
   {
    "code": "time4gains",
    "reward": "50x Workout (20 Minutes)"
+  },
+  {
+   "code": "happyvalentinespump",
+   "reward": "2x Workout Speed (20 Minutes)"
   }
  ],
- "updated": "2026-10-13T00:30:00.046Z",
+ "updated": "2026-10-14T16:54:24.682Z",
  "source": "https://robloxden.com/game-codes/strongman-simulator"
 }

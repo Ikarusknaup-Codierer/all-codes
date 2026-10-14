@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "NoMoreLongCodes",
+   "reward": "2x Azul Bales"
+  },
+  {
+   "code": "HALLOWEENUKAYUKAY",
+   "reward": "500 Candy and 1x Mapula Bale"
+  },
+  {
+   "code": "SCARYBALAK",
+   "reward": "an 1x Archive Bale"
+  },
+  {
    "code": "BALONGISHERE",
    "reward": "1 Mapula Bale"
   },
   {
    "code": "QUESTUPDATE",
    "reward": "50,000 Cash"
-  },
-  {
-   "code": "NEWNPCSYSTEM",
-   "reward": "$10,000 , 3 Very Rare Bales , and 1 Golden Bale"
-  },
-  {
-   "code": "MAJORUPDATE",
-   "reward": "Rewards"
   }
  ],
- "updated": "2026-10-13T00:33:26.859Z",
+ "updated": "2026-10-14T16:57:21.743Z",
  "source": "https://robloxden.com/game-codes/ukay-ukay"
 }

@@ -11,14 +11,6 @@
    "reward": "10K Cash, 1.2x Gains (15 Minutes) and 1.2 Life Speed (15 Minutes)"
   },
   {
-   "code": "1MVISITS",
-   "reward": "1.5x Lift Speed (30 Minutes)"
-  },
-  {
-   "code": "2MVISITS",
-   "reward": "2x Crew XP (30 Minutes)"
-  },
-  {
    "code": "3MVISITS",
    "reward": "1.5x Stamina Regen (30 Minutes)"
   },
@@ -47,14 +39,14 @@
    "reward": "1.5x Lift Speed (30 Minutes) and 1.5x Stamina (30 Minutes)"
   },
   {
-   "code": "2000CCU",
-   "reward": "2,000 Cash and 20 Creatine"
+   "code": "1MVISITS",
+   "reward": "1.5x Lift Speed (30 Minutes)"
   },
   {
-   "code": "AdminShh",
-   "reward": "67 Cash , 2x Stamina Regen Boost (15 Minutes) , and 2x Lift Speed Boos"
+   "code": "2MVISITS",
+   "reward": "2x Crew XP (30 Minutes)"
   }
  ],
- "updated": "2026-10-13T00:28:55.508Z",
+ "updated": "2026-10-14T16:53:48.820Z",
  "source": "https://robloxden.com/game-codes/ultimate-gym-game"
 }

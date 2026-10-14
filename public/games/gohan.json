@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "Baby",
-   "reward": "15 Trait Spins and 15 Race Spins"
-  },
-  {
    "code": "FRESHSTORY",
    "reward": "Story Reset"
-  },
-  {
-   "code": "FRESHSTATS",
-   "reward": "Reset Stats"
   },
   {
    "code": "FRESHSTART",
@@ -27,6 +19,6 @@
    "reward": "This code resets your combat style . Warning: This deletes your past c"
   }
  ],
- "updated": "2026-10-13T00:38:37.723Z",
+ "updated": "2026-10-14T16:58:09.546Z",
  "source": "https://robloxden.com/game-codes/gohan"
 }

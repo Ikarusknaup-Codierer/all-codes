@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "1BVISITS",
-   "reward": "the 1B Knife"
-  },
-  {
    "code": "EGGHUNT",
    "reward": "1,500 Coins"
   },
@@ -31,14 +27,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "FREEMARKAHOUD",
-   "reward": "1000 Cash"
+   "code": "1BVISITS",
+   "reward": "the 1B Knife"
   },
   {
-   "code": "CWAVES",
-   "reward": "Ocean"
+   "code": "MMC",
+   "reward": "Heart Launcher"
   }
  ],
- "updated": "2026-10-13T00:31:30.961Z",
+ "updated": "2026-10-14T16:55:38.778Z",
  "source": "https://robloxden.com/game-codes/murderers-vs-sheriffs"
 }

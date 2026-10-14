@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "260KLIKES",
+   "reward": "a Mythical Chest , a Legendary Chest , an Epic Chest , a Trait Reroll "
+  },
+  {
+   "code": "FIRSTPOWERSPEC",
+   "reward": "Free Rewards . To use this code, you must first reach Level 350"
+  },
+  {
+   "code": "WOWGOKU",
+   "reward": "Free Rewards . To use this code, you must first reach Level 500"
+  },
+  {
+   "code": "OMGCASTORICE",
+   "reward": "Free Rewards . To use this code, you must first reach Level 750"
+  },
+  {
+   "code": "NEXTUPDPEAKTRUST",
+   "reward": "Free Rewards . To use this code, you must first reach Level 1,000"
+  },
+  {
+   "code": "MANYREWORKTHERE",
+   "reward": "Free Rewards . To use this code, you must first reach Level 1,500"
+  },
+  {
+   "code": "SORRYFORDELAYAGAINANDAGAIN",
+   "reward": "Free Rewards . To use this code, you must first reach Level 5,000"
+  },
+  {
    "code": "PRLZWONTSHUTDOWNAGAIN",
    "reward": "Rewards . You must reach Level 50 to use this code"
   },
@@ -147,6 +175,6 @@
    "reward": "Rerolls , Coins , and Gems . You must be at least level 125 to use thi"
   }
  ],
- "updated": "2026-10-13T00:32:30.994Z",
+ "updated": "2026-10-14T16:56:33.529Z",
  "source": "https://robloxden.com/game-codes/lineage-piece"
 }

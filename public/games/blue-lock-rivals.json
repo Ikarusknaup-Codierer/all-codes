@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "DONREVAMP",
+   "reward": "5 Lucky Spins and 5 Lucky Flows"
+  },
+  {
+   "code": "SENDOUNEXT",
+   "reward": "5 Lucky Flows"
+  },
+  {
+   "code": "ACEEATER",
+   "reward": "5 Lucky Spins"
+  },
+  {
    "code": "SNUFFYSOON",
    "reward": "5 Lucky Spins and 5 Lucky Flows"
   },
@@ -107,6 +119,6 @@
    "reward": "5 Lucky Flow"
   }
  ],
- "updated": "2026-10-13T00:31:20.357Z",
+ "updated": "2026-10-14T16:55:29.139Z",
  "source": "https://robloxden.com/game-codes/blue-lock-rivals"
 }

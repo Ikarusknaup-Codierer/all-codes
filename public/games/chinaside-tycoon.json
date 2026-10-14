@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "STEELCRATE1",
+   "reward": "1 Steel Crate"
+  },
+  {
    "code": "CASH30",
    "reward": "30K Cash"
   },
@@ -79,6 +83,6 @@
    "reward": "20,000 Cash and 150 Followers"
   }
  ],
- "updated": "2026-10-13T00:38:46.471Z",
+ "updated": "2026-10-14T16:58:17.872Z",
  "source": "https://robloxden.com/game-codes/chinaside-tycoon"
 }

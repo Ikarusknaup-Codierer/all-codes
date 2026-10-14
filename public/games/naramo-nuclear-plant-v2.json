@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "50K",
-   "reward": "40,000 XP"
-  },
-  {
    "code": "1776",
    "reward": "25,000 XP"
   },
@@ -19,10 +15,14 @@
    "reward": "2x Exp Boost"
   },
   {
+   "code": "ROADUPDATE",
+   "reward": "1 XP Booster"
+  },
+  {
    "code": "22K",
    "reward": "20,000 Exp"
   }
  ],
- "updated": "2026-10-13T14:03:15.826Z",
+ "updated": "2026-10-14T17:07:34.390Z",
  "source": "https://robloxden.com/game-codes/naramo-nuclear-plant-v2"
 }

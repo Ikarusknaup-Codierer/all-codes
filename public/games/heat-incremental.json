@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "500CCU",
+   "reward": "2x Luck Boost (30 Minutes) and 2x Plasma Boost (30 Minutes)"
+  },
+  {
+   "code": "SPIRITS",
+   "reward": "2x All Stats Boost (30 Minutes)"
+  },
+  {
+   "code": "PLASMATOOSLOW",
+   "reward": "2x Plasma Boost (10 Minutes)"
+  },
+  {
+   "code": "LUCKY!",
+   "reward": "2x Luck Boost (10 Minutes"
+  },
+  {
+   "code": "CODES!",
+   "reward": "X2 Heat Boost (30 Minutes)"
   }
  ],
- "updated": "2026-10-13T00:26:17.277Z",
+ "updated": "2026-10-14T11:38:43.905Z",
  "source": "https://robloxden.com/game-codes/heat-incremental"
 }

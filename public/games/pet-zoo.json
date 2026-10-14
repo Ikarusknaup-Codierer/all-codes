@@ -11,12 +11,12 @@
    "reward": ""
   },
   {
-   "code": "RICH",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "50KCODE",
    "reward": "100 Gems"
+  },
+  {
+   "code": "1MIL",
+   "reward": "1,000 Coins"
   },
   {
    "code": "ZOO",
@@ -27,6 +27,6 @@
    "reward": "50 Gems"
   }
  ],
- "updated": "2026-10-12T15:05:39.766Z",
+ "updated": "2026-10-14T11:36:56.328Z",
  "source": "https://robloxden.com/game-codes/pet-zoo"
 }

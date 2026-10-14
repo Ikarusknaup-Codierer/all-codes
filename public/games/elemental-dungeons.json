@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EARLYHALLOWEEN",
+   "reward": "Crimson Orb"
+  },
+  {
    "code": "BEATTHEHEAT",
    "reward": "250 Beachballs"
   },
@@ -23,14 +27,14 @@
    "reward": "Free Gems"
   },
   {
-   "code": "SORRYDELAYS3",
-   "reward": "200 Gems"
+   "code": "ATLANTIS212",
+   "reward": "100 Gems"
   },
   {
-   "code": "CALMDOWNTANGERINES",
-   "reward": "35 Gems"
+   "code": "WERESOSORRYDELAYS2",
+   "reward": "400 Gems"
   }
  ],
- "updated": "2026-10-12T15:01:10.163Z",
+ "updated": "2026-10-14T11:33:54.929Z",
  "source": "https://robloxden.com/game-codes/elemental-dungeons"
 }

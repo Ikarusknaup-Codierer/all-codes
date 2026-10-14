@@ -7,8 +7,60 @@
    "reward": "Description"
   },
   {
+   "code": "HYAKUNIN",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "ANTIGANK",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "LETSRAIL",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "INSTANTBLOCK",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "BUGFIXDAY3",
+   "reward": "30x Rerolls"
+  },
+  {
    "code": "GURENTAI",
    "reward": ""
+  },
+  {
+   "code": "FINDZOE",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "HBDSTAFFREN",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "NEWLAYOUT",
+   "reward": "50x Rerolls"
+  },
+  {
+   "code": "NORAGEQUIT",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "NOFLEE",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "BUGFIXDAY2",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "LINK",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "NEWSPAPER",
+   "reward": "30 Rerolls"
   },
   {
    "code": "GHOST",
@@ -17,6 +69,10 @@
   {
    "code": "JUMPSCARE",
    "reward": "30x Rerolls"
+  },
+  {
+   "code": "PLUSHIEISPOSESSED",
+   "reward": "50x Rerolls"
   },
   {
    "code": "BLOODDROP",
@@ -63,6 +119,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-10-13T00:26:13.570Z",
+ "updated": "2026-10-14T11:38:40.347Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

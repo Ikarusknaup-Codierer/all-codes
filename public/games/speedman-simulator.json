@@ -271,14 +271,14 @@
    "reward": "1 +3 Speed Boost"
   },
   {
-   "code": "RELEASE",
-   "reward": "100 Energy"
-  },
-  {
    "code": "MOON",
    "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "1 +1 Energy Boost"
   }
  ],
- "updated": "2026-10-13T00:27:23.401Z",
+ "updated": "2026-10-14T11:39:49.947Z",
  "source": "https://robloxden.com/game-codes/speedman-simulator"
 }

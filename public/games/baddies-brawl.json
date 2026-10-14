@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "spooky26",
+   "reward": "1,000 Candy"
+  },
+  {
    "code": "hello",
    "reward": "200 Stars"
   },
@@ -179,6 +183,6 @@
    "reward": "150 Coins"
   }
  ],
- "updated": "2026-10-12T15:01:15.069Z",
+ "updated": "2026-10-14T11:34:00.870Z",
  "source": "https://robloxden.com/game-codes/baddies-brawl"
 }

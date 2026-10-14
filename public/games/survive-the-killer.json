@@ -11,6 +11,10 @@
    "reward": "Unknown Reward"
   },
   {
+   "code": "DEVIOUS",
+   "reward": "Devious Dagger"
+  },
+  {
    "code": "10M",
    "reward": "10 Million Celebration Knife"
   },
@@ -21,12 +25,8 @@
   {
    "code": "vote1m",
    "reward": "Millionth Slycer"
-  },
-  {
-   "code": "GHOSTS",
-   "reward": "Undead Candy"
   }
  ],
- "updated": "2026-10-13T00:24:39.393Z",
+ "updated": "2026-10-14T11:37:11.311Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

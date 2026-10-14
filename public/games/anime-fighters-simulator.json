@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DUNGEONCITY",
+   "reward": "250 Challenger Fruit , 250 Demonic Fruit , 1,000 of Every Fragment , 1"
+  },
+  {
    "code": "WATERGATE",
    "reward": "250 Challenger Fruit , 250 Demonic Fruit , 1,000 of every Fragment , 1"
   },
@@ -343,6 +347,6 @@
    "reward": "3 Luck Boosts , 3 Damage Boosts , and 3 Drop Boosts"
   }
  ],
- "updated": "2026-10-12T15:03:02.196Z",
+ "updated": "2026-10-14T11:36:02.833Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

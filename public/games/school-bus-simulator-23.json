@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "53kLikes",
-   "reward": "1,000 Cash"
-  },
-  {
    "code": "Supersecretcode",
    "reward": "1,000 Cash"
   },
@@ -85,8 +81,12 @@
   {
    "code": "52KLIKES",
    "reward": "1,000 In-Game Money"
+  },
+  {
+   "code": "53kLikes",
+   "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-10-12T15:02:14.286Z",
+ "updated": "2026-10-14T11:35:07.572Z",
  "source": "https://robloxden.com/game-codes/school-bus-simulator-23"
 }

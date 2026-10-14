@@ -11,10 +11,6 @@
    "reward": "250 Coins"
   },
   {
-   "code": "1M",
-   "reward": "500 Free Coins"
-  },
-  {
    "code": "500K",
    "reward": "500 Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "PUPPY",
    "reward": "250 Coins"
+  },
+  {
+   "code": "HAPPY",
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-13T00:27:53.357Z",
+ "updated": "2026-10-14T11:40:18.291Z",
  "source": "https://robloxden.com/game-codes/pet-store-tycoon"
 }

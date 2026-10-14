@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SUPERNOVA",
+   "reward": "3 Spins"
+  },
+  {
    "code": "LUNARBOOST",
    "reward": "a Lunar Boost"
   },
@@ -35,6 +39,6 @@
    "reward": "$2,500 Cash"
   }
  ],
- "updated": "2026-10-13T00:26:18.605Z",
+ "updated": "2026-10-14T11:38:45.265Z",
  "source": "https://robloxden.com/game-codes/drive-thru-empire"
 }

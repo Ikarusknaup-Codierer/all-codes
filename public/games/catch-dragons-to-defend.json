@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SorryForShutdown",
+   "reward": "1 Legendary Egg"
+  },
+  {
+   "code": "SuperEggTime",
+   "reward": "1 Legendary Egg"
+  },
+  {
    "code": "Release",
    "reward": "3 Elite Capture Balls"
   },
@@ -27,6 +35,6 @@
    "reward": "2 Apex Capture Balls"
   }
  ],
- "updated": "2026-10-13T00:26:17.954Z",
+ "updated": "2026-10-14T11:38:44.585Z",
  "source": "https://robloxden.com/game-codes/catch-dragons-to-defend"
 }

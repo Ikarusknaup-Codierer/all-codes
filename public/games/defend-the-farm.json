@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MUTATION",
+   "reward": "2 Lucky Blocks"
+  },
+  {
    "code": "BLACKMARKET",
    "reward": "2,000 Gems"
   },
@@ -15,6 +19,6 @@
    "reward": "3,500 Cash"
   }
  ],
- "updated": "2026-10-12T15:02:20.564Z",
+ "updated": "2026-10-14T11:35:14.672Z",
  "source": "https://robloxden.com/game-codes/defend-the-farm"
 }

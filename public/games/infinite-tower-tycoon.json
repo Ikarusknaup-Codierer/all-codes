@@ -19,6 +19,14 @@
    "reward": "Cash"
   },
   {
+   "code": "CODEPOWER",
+   "reward": "Cash"
+  },
+  {
+   "code": "ILIKECODES",
+   "reward": "Cash"
+  },
+  {
    "code": "25klikes",
    "reward": "Free Cash"
   },
@@ -83,10 +91,6 @@
    "reward": "Cash"
   },
   {
-   "code": "CODEPOWER",
-   "reward": "Cash"
-  },
-  {
    "code": "WEAPON",
    "reward": "Cash"
   },
@@ -96,10 +100,6 @@
   },
   {
    "code": "DAMAGE",
-   "reward": "Cash"
-  },
-  {
-   "code": "ILIKECODES",
    "reward": "Cash"
   },
   {
@@ -159,6 +159,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-12T15:01:17.240Z",
+ "updated": "2026-10-14T11:34:03.717Z",
  "source": "https://robloxden.com/game-codes/infinite-tower-tycoon"
 }

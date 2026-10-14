@@ -11,6 +11,14 @@
    "reward": "a Reroll"
   },
   {
+   "code": "PITY",
+   "reward": "20 Rerolls"
+  },
+  {
+   "code": "GAKURANCOMEBACK",
+   "reward": "40 Rerolls"
+  },
+  {
    "code": "QOL3",
    "reward": "67 Rerolls . This code requires you to join the Gakuran group on Roblo"
   },
@@ -59,6 +67,6 @@
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-10-13T00:29:23.645Z",
+ "updated": "2026-10-14T11:41:37.465Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

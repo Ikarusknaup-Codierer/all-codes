@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ARMORS!",
-   "reward": "1,000 Gold and 10 Minutes of 2x Gold"
-  },
-  {
-   "code": "HOMETOWNPEAK",
-   "reward": "5 Weapon Loaders , 5 Soul Loaders , and 10 Minutes of 2x EXP"
-  },
-  {
    "code": "DARKFOUNTAIN",
    "reward": "10 Dungeon Keys"
   },
@@ -37,8 +29,16 @@
   {
    "code": "SORRY4BUGS!!!!",
    "reward": "1 Void Capsule and 1 Lucky Weapon Capsule"
+  },
+  {
+   "code": "ARMORS!",
+   "reward": "1,000 Gold and 10 Minutes of 2x Gold"
+  },
+  {
+   "code": "HOMETOWNPEAK",
+   "reward": "5 Weapon Loaders , 5 Soul Loaders , and 10 Minutes of 2x EXP"
   }
  ],
- "updated": "2026-10-13T00:28:28.945Z",
+ "updated": "2026-10-14T11:40:50.702Z",
  "source": "https://robloxden.com/game-codes/undertale-fractured-time"
 }

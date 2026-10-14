@@ -11,10 +11,6 @@
    "reward": "1,100 RF Points"
   },
   {
-   "code": "HAPPYBIRTHDAYRF",
-   "reward": "Rewards"
-  },
-  {
    "code": "WEEK3",
    "reward": "250 RF Points"
   },
@@ -23,10 +19,14 @@
    "reward": "500 RF Points"
   },
   {
-   "code": "RFSEPTEMBER",
+   "code": "RFXMAS24",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "100MVisits",
+   "reward": "Ice Cold"
   }
  ],
- "updated": "2026-10-12T15:00:52.795Z",
+ "updated": "2026-10-14T11:33:35.741Z",
  "source": "https://robloxden.com/game-codes/real-futbol-24"
 }

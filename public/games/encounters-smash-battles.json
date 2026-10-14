@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "trick",
+   "reward": "rewards"
+  },
+  {
+   "code": "treat",
+   "reward": "rewards"
+  },
+  {
+   "code": "halloween",
+   "reward": "rewards"
+  },
+  {
    "code": "crate",
    "reward": "a Crate"
   },
@@ -27,6 +39,6 @@
    "reward": "90 Gems"
   }
  ],
- "updated": "2026-10-12T15:01:16.147Z",
+ "updated": "2026-10-14T11:34:02.481Z",
  "source": "https://robloxden.com/game-codes/encounters-smash-battles"
 }

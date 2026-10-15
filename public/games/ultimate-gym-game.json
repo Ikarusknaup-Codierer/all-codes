@@ -11,14 +11,6 @@
    "reward": "10K Cash, 1.2x Gains (15 Minutes) and 1.2 Life Speed (15 Minutes)"
   },
   {
-   "code": "3MVISITS",
-   "reward": "1.5x Stamina Regen (30 Minutes)"
-  },
-  {
-   "code": "UpdateLoL",
-   "reward": "1.5x Gains (15 Minutes) , $10,000 , 20 Whey , 20 Creatine , and 20 Pre"
-  },
-  {
    "code": "Starter",
    "reward": "$999 , 5 Whey , 5 Creatine , and Double Gains (60 Minutes)"
   },
@@ -45,8 +37,16 @@
   {
    "code": "2MVISITS",
    "reward": "2x Crew XP (30 Minutes)"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "1.5x Stamina Regen (30 Minutes)"
+  },
+  {
+   "code": "UpdateLoL",
+   "reward": "1.5x Gains (15 Minutes) , $10,000 , 20 Whey , 20 Creatine , and 20 Pre"
   }
  ],
- "updated": "2026-10-14T16:53:48.820Z",
+ "updated": "2026-10-15T21:09:33.573Z",
  "source": "https://robloxden.com/game-codes/ultimate-gym-game"
 }

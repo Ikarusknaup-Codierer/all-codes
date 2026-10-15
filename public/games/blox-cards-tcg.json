@@ -15,10 +15,6 @@
    "reward": "250 BB , the Peasant Title , and 10 Demon Wars: The Conquerors Tickets"
   },
   {
-   "code": "PRELUDETOWAR",
-   "reward": "750 BB"
-  },
-  {
    "code": "BATTLESIM",
    "reward": "750 BB"
   },
@@ -33,10 +29,6 @@
   {
    "code": "REDACTED",
    "reward": "4x Lunar Impact Packs"
-  },
-  {
-   "code": "TRAINDEFENDER",
-   "reward": "Freebies"
   },
   {
    "code": "C0N5TRUCTIVECRITIC1SM",
@@ -159,12 +151,20 @@
    "reward": "100 BB and 3 Lunar Impacts"
   },
   {
+   "code": "PRELUDETOWAR",
+   "reward": "750 BB"
+  },
+  {
    "code": "CATACLYSM",
    "reward": "500 BB , 5 Doomspire: Complete Tickets , and the From A Different Time"
   },
   {
    "code": "UMBERGLADIATOR",
    "reward": "800 BB and the Favoured Crowd Title"
+  },
+  {
+   "code": "TRAINDEFENDER",
+   "reward": "Freebies"
   },
   {
    "code": "THETRAINISCOMING",
@@ -179,6 +179,6 @@
    "reward": "800 BB"
   }
  ],
- "updated": "2026-10-14T16:58:02.063Z",
+ "updated": "2026-10-15T21:13:01.931Z",
  "source": "https://robloxden.com/game-codes/blox-cards-tcg"
 }

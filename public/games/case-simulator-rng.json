@@ -11,14 +11,14 @@
    "reward": "15 Rerolls"
   },
   {
-   "code": "AdminAbuse",
-   "reward": "15 Trait Rerolls and 25% Luck for (20 Minutes)"
-  },
-  {
    "code": "MARKET",
    "reward": "10K Cash"
+  },
+  {
+   "code": "EasterLuck",
+   "reward": "+10% Luck (20 Minutes)"
   }
  ],
- "updated": "2026-10-14T11:45:32.485Z",
+ "updated": "2026-10-15T21:09:04.742Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

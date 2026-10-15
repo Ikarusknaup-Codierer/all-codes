@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "FREECOINS",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "FREEGEMS",
+   "reward": "30 Gems"
   }
  ],
- "updated": "2026-10-14T11:45:52.496Z",
+ "updated": "2026-10-15T21:09:08.831Z",
  "source": "https://robloxden.com/game-codes/survive-the-night"
 }

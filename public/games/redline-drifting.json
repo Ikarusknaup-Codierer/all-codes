@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "Halloween",
-   "reward": "7K Goosebucks And The Halloween Special Car"
-  },
-  {
    "code": "4JULY",
    "reward": "4th Of July Car And 5K Goosebucks"
   },
   {
-   "code": "MILESTONES",
+   "code": "GOOSE",
+   "reward": "Reward"
+  },
+  {
+   "code": "jdm",
    "reward": "Reward"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "6,000 Goosebucks"
   }
  ],
- "updated": "2026-10-14T16:55:31.000Z",
+ "updated": "2026-10-15T21:10:45.933Z",
  "source": "https://robloxden.com/game-codes/redline-drifting"
 }

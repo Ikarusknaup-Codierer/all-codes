@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY",
+   "reward": "10 Minutes of Luck and 10 Minutes of Power"
+  },
+  {
+   "code": "1kPlayers",
+   "reward": "100K Coins, 5 min x2 Power and 5 min x2 Luck"
+  },
+  {
    "code": "UPDATE4",
    "reward": "8 Minutes of 2x Power and 75,000 Coins"
   },
@@ -35,6 +43,6 @@
    "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-10-14T16:55:56.705Z",
+ "updated": "2026-10-15T21:11:05.952Z",
  "source": "https://robloxden.com/game-codes/shovel-it"
 }

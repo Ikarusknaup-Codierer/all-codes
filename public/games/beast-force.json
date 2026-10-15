@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "kaijuawaken",
-   "reward": "Beast Cells"
-  },
-  {
    "code": "beastforce",
    "reward": "3 Beast Cells"
   },
@@ -19,14 +15,18 @@
    "reward": "3 Beast Cells"
   },
   {
-   "code": "10iscoming",
+   "code": "hoshina",
    "reward": "3 Beast Cells"
   },
   {
    "code": "MERRYXMASBEASTFORCE",
    "reward": "26 Beast Cells"
+  },
+  {
+   "code": "BEASTFORCE2025",
+   "reward": "6 Beast Cells and 3,000 Yen"
   }
  ],
- "updated": "2026-10-14T11:32:27.497Z",
+ "updated": "2026-10-15T16:40:55.878Z",
  "source": "https://robloxden.com/game-codes/beast-force"
 }

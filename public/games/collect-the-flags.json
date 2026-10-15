@@ -7,10 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "SHINY2500",
+   "reward": "2,500 Diamonds"
+  },
+  {
+   "code": "MYTHIC3",
+   "reward": "3 Mythic Packs"
+  },
+  {
+   "code": "RTO27QRCL",
+   "reward": "x2 Pack Luck (10 mins)"
+  },
+  {
+   "code": "NEWPLAYER",
+   "reward": "5,000 Cash"
+  },
+  {
    "code": "DOUBLEBOOST",
    "reward": "x2 Conveyor (20 mins)"
   }
  ],
- "updated": "2026-10-14T11:37:51.488Z",
+ "updated": "2026-10-15T16:45:11.009Z",
  "source": "https://robloxden.com/game-codes/collect-the-flags"
 }

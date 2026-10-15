@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FRUITY",
+   "reward": "2 Pineapples"
+  },
+  {
+   "code": "HORSES",
+   "reward": "1 Golden Apple"
+  },
+  {
+   "code": "RACER",
+   "reward": "1 Golden Apple"
+  },
+  {
    "code": "CARROT",
    "reward": "15 Carrots"
   },
@@ -15,6 +27,6 @@
    "reward": "Pumpkins"
   }
  ],
- "updated": "2026-10-14T11:45:55.606Z",
+ "updated": "2026-10-15T16:49:19.473Z",
  "source": "https://robloxden.com/game-codes/race-horses"
 }

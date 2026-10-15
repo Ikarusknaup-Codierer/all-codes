@@ -11,26 +11,26 @@
    "reward": "20,000 Cash"
   },
   {
-   "code": "C17",
+   "code": "COPY",
+   "reward": "2,500 Cash"
+  },
+  {
+   "code": "30KLIKES",
    "reward": "Free Cash"
   },
   {
-   "code": "JANUARY",
-   "reward": "1,300 Cash"
+   "code": "ATTACK",
+   "reward": "3,000 Cash"
   },
   {
-   "code": "PORTTYCOON",
-   "reward": "3,700 Cash"
-  },
-  {
-   "code": "2023",
-   "reward": "8,000 Cash"
+   "code": "UPD",
+   "reward": "5,500 Cash"
   },
   {
    "code": "NEW",
    "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-10-14T11:35:31.466Z",
+ "updated": "2026-10-15T16:44:00.558Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

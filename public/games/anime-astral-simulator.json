@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GUILDPOINTS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "DRAGONSLAYER",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "GUILDMISSIONS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
    "code": "UPDATE16",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -503,6 +515,6 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-10-14T11:39:02.745Z",
+ "updated": "2026-10-15T16:46:22.406Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

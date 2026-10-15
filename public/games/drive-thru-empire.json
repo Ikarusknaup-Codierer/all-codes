@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORDELAY",
+   "reward": "3x Cash Boost (30 Minutes)"
+  },
+  {
    "code": "SUPERNOVA",
    "reward": "3 Spins"
   },
@@ -39,6 +43,6 @@
    "reward": "$2,500 Cash"
   }
  ],
- "updated": "2026-10-14T11:38:45.265Z",
+ "updated": "2026-10-15T16:46:05.362Z",
  "source": "https://robloxden.com/game-codes/drive-thru-empire"
 }

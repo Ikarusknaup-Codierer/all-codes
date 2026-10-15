@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "NEWRACE",
+   "reward": "5x Race Reroll and 5x Stat Reset Scroll"
+  },
+  {
+   "code": "NORTHERNLIGHTS",
+   "reward": "10x Aurorite"
+  },
+  {
+   "code": "ENCHANTEDFOREST",
+   "reward": "10x Lumen and 1x Spirit Box"
+  },
+  {
    "code": "ITSATRAP",
    "reward": "1 Mimic Chest"
   },
@@ -43,6 +55,6 @@
    "reward": "1 Wooden Glider and 1 Pet Chicken Ticket"
   }
  ],
- "updated": "2026-10-14T11:42:23.797Z",
+ "updated": "2026-10-15T16:48:36.451Z",
  "source": "https://robloxden.com/game-codes/the-portal"
 }

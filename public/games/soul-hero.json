@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FALL",
+   "reward": "250 Souls"
+  },
+  {
    "code": "RELIC",
    "reward": "250 Souls"
   },
@@ -15,6 +19,6 @@
    "reward": "250 Souls"
   }
  ],
- "updated": "2026-10-14T16:58:25.222Z",
+ "updated": "2026-10-15T16:54:00.117Z",
  "source": "https://robloxden.com/game-codes/soul-hero"
 }

@@ -11,12 +11,12 @@
    "reward": "Crimson Orb"
   },
   {
-   "code": "BEATTHEHEAT",
-   "reward": "250 Beachballs"
-  },
-  {
    "code": "SUNVSMOON",
    "reward": "200 Celestial Shards"
+  },
+  {
+   "code": "BEATTHEHEAT",
+   "reward": "250 Beachballs"
   },
   {
    "code": "SUMMERUPDATE",
@@ -25,16 +25,8 @@
   {
    "code": "GALACTIC",
    "reward": "Free Gems"
-  },
-  {
-   "code": "ATLANTIS212",
-   "reward": "100 Gems"
-  },
-  {
-   "code": "WERESOSORRYDELAYS2",
-   "reward": "400 Gems"
   }
  ],
- "updated": "2026-10-14T11:33:54.929Z",
+ "updated": "2026-10-15T16:42:22.087Z",
  "source": "https://robloxden.com/game-codes/elemental-dungeons"
 }

@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "LAPIS",
-   "reward": "a Lapis"
-  },
-  {
    "code": "CAT",
    "reward": "a Clever Cat"
+  },
+  {
+   "code": "TRAININGFIX",
+   "reward": "a Training Potion and a Super Training Potion"
   },
   {
    "code": "UPD2",
    "reward": "a Super Lucky Potion"
   }
  ],
- "updated": "2026-10-14T11:35:22.700Z",
+ "updated": "2026-10-15T16:43:51.714Z",
  "source": "https://robloxden.com/game-codes/magic-loot"
 }

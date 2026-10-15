@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "OVERTAKE",
+   "reward": "150 Volts"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "100 Volts"
   }
  ],
- "updated": "2026-10-14T16:58:24.674Z",
+ "updated": "2026-10-15T16:53:59.556Z",
  "source": "https://robloxden.com/game-codes/overtake"
 }

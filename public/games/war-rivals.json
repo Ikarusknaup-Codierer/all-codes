@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LUCKY",
+   "reward": "Lucky Charm"
+  },
+  {
    "code": "ELITE",
    "reward": "1 Elite Supply Crate"
   },
@@ -15,6 +19,6 @@
    "reward": "500 Medals"
   }
  ],
- "updated": "2026-10-14T11:41:05.051Z",
+ "updated": "2026-10-15T16:48:05.509Z",
  "source": "https://robloxden.com/game-codes/war-rivals"
 }

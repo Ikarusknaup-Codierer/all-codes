@@ -19,10 +19,6 @@
    "reward": "2 Egg Spins"
   },
   {
-   "code": "cosmic",
-   "reward": "500 Tokens"
-  },
-  {
    "code": "thunder",
    "reward": "1 Daily Wheel Spin"
   },
@@ -181,8 +177,12 @@
   {
    "code": "pirate",
    "reward": "150 Coins"
+  },
+  {
+   "code": "cosmic",
+   "reward": "500 Tokens"
   }
  ],
- "updated": "2026-10-14T11:34:00.870Z",
+ "updated": "2026-10-15T16:42:27.963Z",
  "source": "https://robloxden.com/game-codes/baddies-brawl"
 }

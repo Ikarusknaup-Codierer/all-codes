@@ -55,10 +55,6 @@
    "reward": "60 Minutes Of Chain Booster"
   },
   {
-   "code": "UsefulCode",
-   "reward": "2 Roulette Tickets"
-  },
-  {
    "code": "HappyEaster2025",
    "reward": "+1 Chain Booster (2 hours)"
   },
@@ -283,10 +279,14 @@
    "reward": "A Free Doodle"
   },
   {
+   "code": "UsefulCode",
+   "reward": "2 Roulette Tickets"
+  },
+  {
    "code": "YippeeGems",
    "reward": "400 Gems"
   }
  ],
- "updated": "2026-10-14T11:38:41.119Z",
+ "updated": "2026-10-15T16:46:00.838Z",
  "source": "https://robloxden.com/game-codes/doodle-world"
 }

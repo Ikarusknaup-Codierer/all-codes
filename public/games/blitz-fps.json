@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UFO",
+   "reward": "1 Crate"
+  },
+  {
    "code": "BOUNTY",
    "reward": "20 Gems"
   },
@@ -39,6 +43,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-10-14T04:20:57.792Z",
+ "updated": "2026-10-15T11:11:46.852Z",
  "source": "https://robloxden.com/game-codes/blitz-fps"
 }

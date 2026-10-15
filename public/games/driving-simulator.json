@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "200M",
-   "reward": "1 Legendary Crate"
-  },
-  {
    "code": "500KLIK3S",
    "reward": "the Bedazzled Wrap"
+  },
+  {
+   "code": "5KEYS",
+   "reward": "5 Crate Keys"
   },
   {
    "code": "ONEYEAR",
@@ -27,6 +27,6 @@
    "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-10-14T11:37:16.254Z",
+ "updated": "2026-10-15T11:23:37.454Z",
  "source": "https://robloxden.com/game-codes/driving-simulator"
 }

@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "5KLikes",
-   "reward": "2x Boost For 10 Minutes"
-  },
-  {
    "code": "FollowTijoro",
    "reward": "2x Boost For 10 Minutes"
-  },
-  {
-   "code": "350KVisits",
-   "reward": "2x Boost For 5 Minutes"
   },
   {
    "code": "10KLikes",
@@ -31,14 +23,18 @@
    "reward": "2x Cash Boost (7 minutes)"
   },
   {
-   "code": "30KFollowers",
-   "reward": "x2 Boost (15 Minutes)"
-  },
-  {
    "code": "5KFollowers",
    "reward": "2x Boost For 15 Minutes"
+  },
+  {
+   "code": "5KLikes",
+   "reward": "2x Boost For 10 Minutes"
+  },
+  {
+   "code": "350KVisits",
+   "reward": "2x Boost For 5 Minutes"
   }
  ],
- "updated": "2026-10-14T04:20:42.854Z",
+ "updated": "2026-10-15T11:11:27.015Z",
  "source": "https://robloxden.com/game-codes/sandiwch-restaurant-tycoon"
 }

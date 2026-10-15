@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "JK64DY",
+   "code": "JK61DY",
+   "reward": "1,000 Strength"
+  },
+  {
+   "code": "JK68DY",
    "reward": "1,000 Strength"
   },
   {
@@ -15,18 +19,14 @@
    "reward": "11 Wins"
   },
   {
-   "code": "KKK",
-   "reward": "Free Pet"
-  },
-  {
-   "code": "WX90FO",
-   "reward": "115 Wins"
-  },
-  {
    "code": "JK94DY",
    "reward": "1,000 Muscles"
+  },
+  {
+   "code": "BZ107DY",
+   "reward": "1x Potion"
   }
  ],
- "updated": "2026-10-14T04:25:15.921Z",
+ "updated": "2026-10-15T11:16:28.409Z",
  "source": "https://robloxden.com/game-codes/bro-rescue-simulator"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "FR33Z3R",
-   "reward": "200 Cash And XP"
-  },
-  {
    "code": "34k",
    "reward": "A 2x XP And Coins Boost"
   },
   {
    "code": "REL",
    "reward": "A Reward"
+  },
+  {
+   "code": "Valentines",
+   "reward": "150 Coins"
   },
   {
    "code": "30k",
@@ -27,6 +27,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-14T04:26:05.772Z",
+ "updated": "2026-10-15T11:17:12.918Z",
  "source": "https://robloxden.com/game-codes/retro-tds"
 }

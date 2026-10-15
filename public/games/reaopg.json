@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BoatReworkSoon!",
+   "reward": "50,000 Souls , 250M Beli , and 15,000 Gems"
+  },
+  {
+   "code": "Poneglyphs",
+   "reward": "20 Poneglyphs"
+  },
+  {
    "code": "Yokoso!",
    "reward": "100M Beli, 15K Gems, 10 Poneglyphs and Kyoka Suigetsu"
   },
@@ -149,6 +157,10 @@
   {
    "code": "NewInventory",
    "reward": "25 Inventory Space"
+  },
+  {
+   "code": "SORRY4LEOBUGS",
+   "reward": "1 Feral Essence , 1M Gems , and 2x Drops for (4 Hours)"
   },
   {
    "code": "Puppets",
@@ -471,6 +483,6 @@
    "reward": "30 Poneglyphs"
   }
  ],
- "updated": "2026-10-14T04:24:45.933Z",
+ "updated": "2026-10-15T11:15:45.233Z",
  "source": "https://robloxden.com/game-codes/reaopg"
 }

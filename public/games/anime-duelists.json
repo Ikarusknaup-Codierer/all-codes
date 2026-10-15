@@ -83,7 +83,7 @@
    "reward": "1 Luck , 20 Leveling Shards , 50 Stats Rerolls , 50 Trait Rerolls , an"
   },
   {
-   "code": "SHUTDOWN3",
+   "code": "SORRYSHUTDOWN",
    "reward": "Rewards"
   },
   {
@@ -91,6 +91,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-14T04:31:25.221Z",
+ "updated": "2026-10-15T11:18:31.761Z",
  "source": "https://robloxden.com/game-codes/anime-duelists"
 }

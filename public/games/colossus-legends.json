@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "NIGHTMARE",
-   "reward": "Coins"
-  },
-  {
    "code": "PVPALPHA",
    "reward": "1 Grail Sword"
   },
   {
-   "code": "LUCY",
-   "reward": "1 Lucy Disguise"
+   "code": "10MVISITS",
+   "reward": "1 Flame Staff"
   },
   {
-   "code": "10KLIKES",
-   "reward": "20 Health Potions"
+   "code": "15KLIKES",
+   "reward": "750 Gold"
   },
   {
-   "code": "JULYBETA",
-   "reward": "500 Gold"
+   "code": "5MVISITS",
+   "reward": "50 Health Potions"
+  },
+  {
+   "code": "STRAWHAT",
+   "reward": "1 Straw-hat"
   }
  ],
- "updated": "2026-10-14T04:26:42.201Z",
+ "updated": "2026-10-15T11:17:43.634Z",
  "source": "https://robloxden.com/game-codes/colossus-legends"
 }

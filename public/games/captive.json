@@ -11,22 +11,22 @@
    "reward": "300 Cash"
   },
   {
-   "code": "30m",
-   "reward": "$300 in-game dollars"
+   "code": "CAPTIVE_COLLAB",
+   "reward": "the free sleeve"
+  },
+  {
+   "code": "blacklivesmatter",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "KREW",
+   "reward": "Free Cash"
   },
   {
    "code": "discord",
    "reward": "500 Cash"
-  },
-  {
-   "code": "stages",
-   "reward": "500 Cash"
-  },
-  {
-   "code": "BEAST4",
-   "reward": "500 Cash"
   }
  ],
- "updated": "2026-10-14T04:25:55.961Z",
+ "updated": "2026-10-15T11:17:04.543Z",
  "source": "https://robloxden.com/game-codes/captive"
 }

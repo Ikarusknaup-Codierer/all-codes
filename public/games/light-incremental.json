@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE5",
+   "reward": "15 Tickets, 1 All Stats Potion and 5 Rainbows"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "15 Tickets, 1 All Stats Potion and 5 Rainbows"
+  },
+  {
    "code": "SECRETWATERFALL",
    "reward": "3 Rainbows and 3 Tickets"
   },
@@ -59,6 +67,6 @@
    "reward": "2,500 Lights , 3 Tickets , and a Double Light Potion"
   }
  ],
- "updated": "2026-10-14T04:22:48.428Z",
+ "updated": "2026-10-15T11:13:42.055Z",
  "source": "https://robloxden.com/game-codes/light-incremental"
 }

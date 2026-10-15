@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "GUILD",
+   "reward": "rewards . You must reach 5,000 rolls to use this code"
+  },
+  {
    "code": "RELEASE",
    "reward": "5 Border Luck Potions, 5 Lucky Slurps, 5 Boss Cans, 50 Weather Potions"
   },
@@ -39,6 +43,6 @@
    "reward": "Free Rewards . You must reach 5,000 Rolls to use this code"
   }
  ],
- "updated": "2026-10-14T04:24:28.963Z",
+ "updated": "2026-10-15T11:15:29.386Z",
  "source": "https://robloxden.com/game-codes/anime-card-anomaly"
 }

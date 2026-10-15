@@ -47,10 +47,6 @@
    "reward": "5 Luck Potions and 10 Carrots"
   },
   {
-   "code": "voidcrate",
-   "reward": "1 Void Egg"
-  },
-  {
    "code": "juiceblend",
    "reward": "3 Cocktail Potions"
   },
@@ -135,6 +131,10 @@
    "reward": "2 Void Eggs"
   },
   {
+   "code": "voidcrate",
+   "reward": "1 Void Egg"
+  },
+  {
    "code": "timebag",
    "reward": "10 Timeless Eggs"
   },
@@ -179,6 +179,6 @@
    "reward": "5 Power Potions and 10 Apple Fruits"
   }
  ],
- "updated": "2026-10-13T22:32:56.485Z",
+ "updated": "2026-10-15T04:01:01.380Z",
  "source": "https://robloxden.com/game-codes/launch-a-wheel"
 }

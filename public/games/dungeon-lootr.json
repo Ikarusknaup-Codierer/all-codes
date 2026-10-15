@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HAWK",
+   "reward": "5 Aspect Gems , 20 Lucky Spins , 2 Exotic Ingots and 4 Perfect Reforge"
+  },
+  {
+   "code": "SLAYER",
+   "reward": "6 Aspect Gems , 30 Lucky Spins , 4 Exotic Ingots and 2 Perfect Reforge"
+  },
+  {
+   "code": "UPDATE2_5",
+   "reward": "4 Aspect Gems , 25 Lucky Spins , 3 Exotic Ingots and 3 Perfect Reforge"
+  },
+  {
    "code": "TORUS",
    "reward": "5 Exotic Ingots and 10 Reforge Stones"
   },
@@ -91,6 +103,6 @@
    "reward": "2 Random GM Blessing chests"
   }
  ],
- "updated": "2026-10-13T22:30:32.595Z",
+ "updated": "2026-10-15T03:59:42.620Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

@@ -11,6 +11,10 @@
    "reward": "350 Cash"
   },
   {
+   "code": "delivery",
+   "reward": "Rewards"
+  },
+  {
    "code": "CarNitro",
    "reward": "500 Cash"
   },
@@ -21,12 +25,8 @@
   {
    "code": "Cactus",
    "reward": "350 Cash"
-  },
-  {
-   "code": "Jacuzzi",
-   "reward": "500 Cash"
   }
  ],
- "updated": "2026-10-15T16:47:08.935Z",
+ "updated": "2026-10-16T20:51:11.935Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

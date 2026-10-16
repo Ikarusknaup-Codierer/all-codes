@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SUPERSECRETEMOTE",
+   "reward": "a This is Called Emote"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "a That's a nice hat Emote"
+  },
+  {
    "code": "NEWTITLESYSTEM",
    "reward": "New Title and Aizo Emote"
   },
@@ -15,6 +23,6 @@
    "reward": "Six-Seven Emote"
   }
  ],
- "updated": "2026-10-15T16:54:18.156Z",
+ "updated": "2026-10-16T20:54:28.063Z",
  "source": "https://robloxden.com/game-codes/unlimited-battlegrounds"
 }

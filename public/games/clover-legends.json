@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TREASURE50K",
+   "reward": "a Wind Spirit Aura"
+  },
+  {
    "code": "REROLL50K",
    "reward": "20 Race Rerolls"
   },
@@ -99,6 +103,6 @@
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-10-15T16:43:09.797Z",
+ "updated": "2026-10-16T20:48:46.190Z",
  "source": "https://robloxden.com/game-codes/clover-legends"
 }

@@ -11,6 +11,10 @@
    "reward": "Unknown Reward"
   },
   {
+   "code": "KILLERCRAZE",
+   "reward": "Happy's Circus Knife, 50 Coins, And 100 XP"
+  },
+  {
    "code": "10M",
    "reward": "10 Million Celebration Knife"
   },
@@ -19,14 +23,10 @@
    "reward": "Hollowed Moon Knife"
   },
   {
-   "code": "WhatsTheCode",
-   "reward": "300k Knife"
-  },
-  {
    "code": "vote1m",
    "reward": "Millionth Slycer"
   }
  ],
- "updated": "2026-10-15T11:23:32.905Z",
+ "updated": "2026-10-16T20:46:14.471Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

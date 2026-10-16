@@ -11,10 +11,6 @@
    "reward": "250 Shards"
   },
   {
-   "code": "UPD5",
-   "reward": "250 Shards"
-  },
-  {
    "code": "UPD4",
    "reward": "250 Shards"
   },
@@ -25,8 +21,12 @@
   {
    "code": "UPD2",
    "reward": "250 Shards"
+  },
+  {
+   "code": "UPD1",
+   "reward": "275 Shards"
   }
  ],
- "updated": "2026-10-15T16:54:35.736Z",
+ "updated": "2026-10-16T20:54:44.683Z",
  "source": "https://robloxden.com/game-codes/night-at-the-infirmary"
 }

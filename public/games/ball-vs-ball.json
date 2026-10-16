@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPD7",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "UPD6",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "UPD5",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "UPD4",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "UPD3",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "UPD2",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "UPD1",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-10-15T11:23:20.235Z",
+ "updated": "2026-10-16T20:46:09.778Z",
  "source": "https://robloxden.com/game-codes/ball-vs-ball"
 }

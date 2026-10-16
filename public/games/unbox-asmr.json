@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE8",
+   "reward": "5 Crate Skips and 2 Worker Slots"
+  },
+  {
+   "code": "CANDY",
+   "reward": "5 Wheel Spins"
+  },
+  {
    "code": "UPDATE6",
    "reward": "3 Wheel Spins and 3 Crate Skips"
   },
@@ -19,6 +27,6 @@
    "reward": "5 Wheel Spins"
   }
  ],
- "updated": "2026-10-15T21:10:17.636Z",
+ "updated": "2026-10-16T20:56:25.766Z",
  "source": "https://robloxden.com/game-codes/unbox-asmr"
 }

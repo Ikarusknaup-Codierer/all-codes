@@ -147,6 +147,10 @@
    "reward": "1 Yellow Monkey"
   },
   {
+   "code": "monkeybackwards",
+   "reward": "350,000 Free Monkeys"
+  },
+  {
    "code": "Gorilla",
    "reward": "Free Reward"
   },
@@ -175,6 +179,6 @@
    "reward": "4.8 Million Monkeys"
   }
  ],
- "updated": "2026-10-15T16:47:42.114Z",
+ "updated": "2026-10-16T20:51:43.969Z",
  "source": "https://robloxden.com/game-codes/monkey-tycoon"
 }

@@ -31,10 +31,6 @@
    "reward": "75 Magic Tokens , 50 Stat Cubes , and a Lucky Potion"
   },
   {
-   "code": "BuffSorryForShutdown",
-   "reward": "15 Winter Capsules"
-  },
-  {
    "code": "BLUEBERRY2!",
    "reward": "5,000 Gems , 25,000 Coins , and 125 Trait Rerolls . You must be level "
   },
@@ -109,8 +105,12 @@
   {
    "code": "Berserk500CCU",
    "reward": "4,500 Gems and 25 Magic Tokens"
+  },
+  {
+   "code": "BuffSorryForShutdown",
+   "reward": "15 Winter Capsules"
   }
  ],
- "updated": "2026-10-14T21:35:29.464Z",
+ "updated": "2026-10-16T04:03:49.518Z",
  "source": "https://robloxden.com/game-codes/anime-ascendants"
 }

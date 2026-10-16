@@ -39,10 +39,6 @@
    "reward": "405 Fragments"
   },
   {
-   "code": "LifeInsurance",
-   "reward": "405 Fragments"
-  },
-  {
    "code": "MaoAdept",
    "reward": "405 Fragments"
   },
@@ -135,10 +131,14 @@
    "reward": "405 Fragments"
   },
   {
+   "code": "LifeInsurance",
+   "reward": "405 Fragments"
+  },
+  {
    "code": "WORKSHOPRELEASE",
    "reward": "405 Fragments"
   }
  ],
- "updated": "2026-10-14T21:35:09.834Z",
+ "updated": "2026-10-16T04:03:31.624Z",
  "source": "https://robloxden.com/game-codes/project-mirror-labyrinth"
 }

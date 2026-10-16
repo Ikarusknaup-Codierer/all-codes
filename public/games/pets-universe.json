@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "DroverQ",
+   "reward": "1 Coins Potion , 1 Luck Potion and 1 Rubies Potion"
+  },
+  {
+   "code": "Russo",
+   "reward": "1 Banana and 1 Coins Potion"
+  },
+  {
+   "code": "DarkRose",
+   "reward": "1 Luck Potion and 1 Kiwi"
+  },
+  {
+   "code": "AG64",
+   "reward": "1 Critical Potion and 1 Mango"
+  },
+  {
+   "code": "Cupcake",
+   "reward": "1 Critical Potion and 1 Blueberry"
+  },
+  {
+   "code": "E11opoppet",
+   "reward": "1 Hatch Potion and 1 Blueberry"
+  },
+  {
+   "code": "Olopomidoro",
+   "reward": "1 Coins Potion , 1 Luck Potion and 1 Rubies Potion"
+  },
+  {
+   "code": "Ostrichh",
+   "reward": "1 Ruby Potion and 1 Apple"
+  },
+  {
    "code": "update3",
    "reward": "2x Worm , 2x Coins Potion I , 2x Luck Potion I , 1x Ruby Potion I , an"
   },
@@ -19,6 +51,6 @@
    "reward": "1 Luck II Potion, 1 Coins II Potion and 3 Lucky II Blocks"
   }
  ],
- "updated": "2026-10-14T21:27:55.775Z",
+ "updated": "2026-10-16T03:56:47.782Z",
  "source": "https://robloxden.com/game-codes/pets-universe"
 }

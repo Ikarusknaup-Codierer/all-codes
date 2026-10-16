@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "WOW100KLIKES",
-   "reward": "5K Lumens and 100 Clan Rolls"
-  },
-  {
    "code": "200Kmembers",
    "reward": "5.5K Lumens and 55 Clan Rolls"
+  },
+  {
+   "code": "INFINITE",
+   "reward": "4.5K Lumens and 35 Clan Rolls"
   },
   {
    "code": "90KLIKES",
@@ -23,6 +23,6 @@
    "reward": "750 Coins"
   }
  ],
- "updated": "2026-10-14T21:34:49.588Z",
+ "updated": "2026-10-16T04:03:11.150Z",
  "source": "https://robloxden.com/game-codes/impact-arena"
 }

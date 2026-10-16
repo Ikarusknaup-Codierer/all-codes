@@ -11,22 +11,22 @@
    "reward": "Coconuts, Coins, And Gems"
   },
   {
-   "code": "ty_owner",
-   "reward": "Reward"
-  },
-  {
-   "code": "NewPotions",
-   "reward": "3 Gold Potions and 3 Healing Potions"
-  },
-  {
-   "code": "update3_5",
-   "reward": "100 Gems and 5,000 Coins"
-  },
-  {
-   "code": "transfer",
+   "code": "and_let_me_know",
    "reward": "60 Gems"
+  },
+  {
+   "code": "2000likes",
+   "reward": "1,500 Coins"
+  },
+  {
+   "code": "2500likes",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "discord",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-10-14T21:35:21.643Z",
+ "updated": "2026-10-16T04:03:43.162Z",
  "source": "https://robloxden.com/game-codes/units-battlegrounds"
 }

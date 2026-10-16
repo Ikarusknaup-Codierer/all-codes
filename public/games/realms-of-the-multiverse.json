@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "charmed",
-   "reward": "500 Coins"
-  },
-  {
    "code": "merryxmas",
    "reward": "Free Coins"
+  },
+  {
+   "code": "littlewitch",
+   "reward": "250 Coins"
   },
   {
    "code": "femalewizard",
@@ -23,10 +23,10 @@
    "reward": "250 Coins"
   },
   {
-   "code": "aou",
-   "reward": "2,000 Coins"
+   "code": "AGATHA",
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-14T21:41:24.139Z",
+ "updated": "2026-10-16T04:05:56.555Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

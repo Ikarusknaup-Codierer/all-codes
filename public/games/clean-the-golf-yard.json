@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "THANKYOU",
+   "reward": "7x Lucky Crate Spins"
+  },
+  {
+   "code": "REBIRTH",
+   "reward": "10,000 Fragments"
+  },
+  {
+   "code": "MERGE",
+   "reward": "5,000 Fragments"
+  },
+  {
+   "code": "GOLDGOLDGOLD",
+   "reward": "10x Lucky Crate Spins"
+  },
+  {
+   "code": "FRAGS",
+   "reward": "2,000 Fragments"
+  },
+  {
    "code": "UPDATE_4_0",
    "reward": "100 Fragments"
   },
@@ -55,6 +75,6 @@
    "reward": "3 Spins"
   }
  ],
- "updated": "2026-10-14T21:27:48.835Z",
+ "updated": "2026-10-16T03:56:42.233Z",
  "source": "https://robloxden.com/game-codes/clean-the-golf-yard"
 }

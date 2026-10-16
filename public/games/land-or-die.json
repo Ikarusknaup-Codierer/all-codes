@@ -19,14 +19,14 @@
    "reward": "1,500 Miles"
   },
   {
-   "code": "CRASHLANDING",
-   "reward": "750 Miles"
-  },
-  {
    "code": "AGENTBACON",
    "reward": "an Access Denied message"
+  },
+  {
+   "code": "ENDLESS",
+   "reward": "1,000 Miles"
   }
  ],
- "updated": "2026-10-15T11:17:32.397Z",
+ "updated": "2026-10-16T16:30:13.514Z",
  "source": "https://robloxden.com/game-codes/land-or-die"
 }

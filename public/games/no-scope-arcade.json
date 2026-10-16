@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "resolution",
+   "code": "winterishere",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "thanksgiving",
    "reward": "Free Rewards"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "communityreward",
+   "code": "mocha",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "youtube",
-   "reward": "200 EXP And 150 Tokens"
   }
  ],
- "updated": "2026-10-15T16:41:42.805Z",
+ "updated": "2026-10-16T16:34:49.609Z",
  "source": "https://robloxden.com/game-codes/no-scope-arcade"
 }

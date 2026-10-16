@@ -15,7 +15,11 @@
    "reward": "35 Rolls"
   },
   {
-   "code": "MYERS",
+   "code": "REROLLS",
+   "reward": "25 Rolls"
+  },
+  {
+   "code": "MILLIONVISITS",
    "reward": "35 Rolls"
   },
   {
@@ -43,6 +47,6 @@
    "reward": "45 Rolls"
   }
  ],
- "updated": "2026-10-15T11:18:45.072Z",
+ "updated": "2026-10-16T16:31:31.181Z",
  "source": "https://robloxden.com/game-codes/komorebi-prison"
 }

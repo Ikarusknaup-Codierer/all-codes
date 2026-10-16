@@ -19,10 +19,6 @@
    "reward": "50 Embers"
   },
   {
-   "code": "CODE4",
-   "reward": "2 Clan Spins and 2 Trait Spins"
-  },
-  {
    "code": "CODE3",
    "reward": "3 Clan Spins and 1,500 Yen"
   },
@@ -33,6 +29,10 @@
   {
    "code": "UPD",
    "reward": "5 Clan Spins"
+  },
+  {
+   "code": "CODE4",
+   "reward": "2 Clan Spins and 2 Trait Spins"
   },
   {
    "code": "SPIN",
@@ -47,6 +47,6 @@
    "reward": "5 Clan Spins and 2,000 Yen"
   }
  ],
- "updated": "2026-10-15T11:23:20.869Z",
+ "updated": "2026-10-16T16:32:49.055Z",
  "source": "https://robloxden.com/game-codes/bitslayer"
 }

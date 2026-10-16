@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SORRY",
+   "reward": "Golden and Glacier Tower Skins"
+  },
+  {
+   "code": "BIGCODE",
+   "reward": "a Booster (1 Hour) , 2 Scraps , and 2 Gems"
+  },
+  {
+   "code": "GIBILOSTHISSCRAP",
+   "reward": "a Booster (1 Hour) , 6,000 Scraps , and 50 Gems"
+  },
+  {
+   "code": "IMAGEISAWESOME",
+   "reward": "a Booster (30 Minutes) , 500 Scraps , and 20 Gems"
+  },
+  {
+   "code": "LAUNCH",
+   "reward": "a Booster (1 Hour)"
+  },
+  {
+   "code": "PART1",
+   "reward": "a Booster (2 Hours) and 5,000 Scraps"
   }
  ],
- "updated": "2026-10-15T11:13:14.608Z",
+ "updated": "2026-10-16T16:27:09.497Z",
  "source": "https://robloxden.com/game-codes/horde-defenders"
 }

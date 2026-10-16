@@ -43,10 +43,14 @@
    "reward": "50,000 Gems"
   },
   {
-   "code": "SORRYFORDUNGEONBUG",
-   "reward": "2 Lucky Potions And 2 Power Potions"
+   "code": "UPDATE2",
+   "reward": "2 Lucky Potions, 2 Power Potions, 50,000 Gems"
+  },
+  {
+   "code": "SORRYFORSHUTDOWN",
+   "reward": "1 Lucky Potion, 2 Power Potions, and 50,000 Gems"
   }
  ],
- "updated": "2026-10-15T11:15:56.732Z",
+ "updated": "2026-10-16T16:28:33.346Z",
  "source": "https://robloxden.com/game-codes/anime-islands"
 }

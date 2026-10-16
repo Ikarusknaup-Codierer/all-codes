@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Requiem",
+   "reward": "3 Awakening Potions , an Omega Potion , and 100 Fortune Potions"
+  },
+  {
+   "code": "SryForUpdDelay",
+   "reward": "30 Eternity Potions and 15 Omega Potions"
+  },
+  {
    "code": "HappyHalfAnniversary!!",
    "reward": "5 Omega Potion , 5 Eternity Potion , 5 Starlight Potion , 5 Fortune Po"
   },
@@ -143,6 +151,6 @@
    "reward": "40 Starlight Potions 80 Star Potions and 10 Eternity Potions"
   }
  ],
- "updated": "2026-10-15T16:45:32.276Z",
+ "updated": "2026-10-16T16:38:04.793Z",
  "source": "https://robloxden.com/game-codes/azaras-rng"
 }

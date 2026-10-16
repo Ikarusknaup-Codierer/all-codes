@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "300KGROUPMEMBERS",
+   "reward": "20 Gems"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "20 Gems"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "20 Gems"
+  },
+  {
    "code": "SORRYFORBUGS",
    "reward": "25 Gems"
   },
@@ -25,12 +37,8 @@
   {
    "code": "200KGROUPMEMBERS",
    "reward": "10 Gems"
-  },
-  {
-   "code": "250GROUPMEMBERS",
-   "reward": "10 Gems"
   }
  ],
- "updated": "2026-10-15T16:45:12.375Z",
+ "updated": "2026-10-16T16:37:44.824Z",
  "source": "https://robloxden.com/game-codes/larp-your-character"
 }

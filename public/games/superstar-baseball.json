@@ -63,10 +63,6 @@
    "reward": "5 Spins"
   },
   {
-   "code": "DEADEYE",
-   "reward": "5 Spins"
-  },
-  {
    "code": "SUPERSTAR",
    "reward": "100 Coins"
   },
@@ -99,6 +95,10 @@
    "reward": "5 Free Spins"
   },
   {
+   "code": "DEADEYE",
+   "reward": "5 Spins"
+  },
+  {
    "code": "SKYBOUND",
    "reward": "5 Spins"
   },
@@ -111,6 +111,6 @@
    "reward": "5 Lucky Style Spins"
   }
  ],
- "updated": "2026-10-15T04:08:11.756Z",
+ "updated": "2026-10-16T11:12:51.182Z",
  "source": "https://robloxden.com/game-codes/superstar-baseball"
 }

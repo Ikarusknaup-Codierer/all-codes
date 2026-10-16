@@ -7,7 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "500KMEMBERS",
+   "code": "250KLIKES",
    "reward": "Spins and Yen"
   },
   {
@@ -15,18 +15,18 @@
    "reward": "Spins And Yen"
   },
   {
-   "code": "UPD9",
-   "reward": "25,000 Yen"
+   "code": "CURSE",
+   "reward": "100,000 Yen"
   },
   {
-   "code": "SUNCHILD",
+   "code": "TENNISGOD",
+   "reward": "20 Lucky Style Spins and 20 Lucky Flow Spins"
+  },
+  {
+   "code": "THUNDER",
    "reward": "20 Lucky Style and 20 Lucky Flow Spins"
-  },
-  {
-   "code": "FIRSTUPD",
-   "reward": "500 Yen , 2 Lucky Style Spins and 2 Zone Spins"
   }
  ],
- "updated": "2026-10-15T04:02:38.902Z",
+ "updated": "2026-10-16T11:07:55.267Z",
  "source": "https://robloxden.com/game-codes/tennis-zero"
 }

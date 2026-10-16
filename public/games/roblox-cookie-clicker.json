@@ -23,14 +23,14 @@
    "reward": "Golden Cookie Boost (5 minutes)"
   },
   {
-   "code": "100k",
-   "reward": "3x Reindeer Cookies"
-  },
-  {
    "code": "500KVISITS",
    "reward": "1x Golden Cookie And 5x Reindeer Cookies"
+  },
+  {
+   "code": "10k_special",
+   "reward": "3x Reindeer Cookies"
   }
  ],
- "updated": "2026-10-15T04:05:47.630Z",
+ "updated": "2026-10-16T11:10:21.579Z",
  "source": "https://robloxden.com/game-codes/roblox-cookie-clicker"
 }

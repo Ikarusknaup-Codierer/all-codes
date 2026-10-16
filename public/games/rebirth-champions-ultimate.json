@@ -47,10 +47,6 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "bunny",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "thunder",
    "reward": "Free Rewards"
   },
@@ -247,10 +243,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "grinch",
-   "reward": "Three Christmas Gifts, Ten Christmas Tickets, A Grinch Exclusive Egg, "
+   "code": "bunny",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-15T11:09:07.482Z",
+ "updated": "2026-10-16T11:13:52.721Z",
  "source": "https://robloxden.com/game-codes/rebirth-champions-ultimate"
 }

@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "NEWMAP",
-   "reward": "250 Universal"
+   "code": "ApologiesForDelay",
+   "reward": "Reawakening Token"
   },
   {
-   "code": "TYFORSUPPORT",
-   "reward": "1,500 Universal"
+   "code": "WeAreSorry!",
+   "reward": "10,000 Universal Coins"
   },
   {
-   "code": "750KVISITS",
+   "code": "Advent24",
+   "reward": "2,000 Universal Coins"
+  },
+  {
+   "code": "SorryForTheLongAwait",
+   "reward": "500 Universal"
+  },
+  {
+   "code": "SORRYFORBEINGSTUPID",
    "reward": "2,000 Universal"
   }
  ],
- "updated": "2026-10-15T04:03:37.939Z",
+ "updated": "2026-10-16T11:08:59.189Z",
  "source": "https://robloxden.com/game-codes/spts-return-of-the-reaper"
 }

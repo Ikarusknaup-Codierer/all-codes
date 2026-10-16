@@ -15,18 +15,18 @@
    "reward": "Double Power Boost (10 Minutes)"
   },
   {
-   "code": "Strongest",
-   "reward": "Double Coins Boost (10 Minutes)"
-  },
-  {
-   "code": "Spraden",
-   "reward": "Double Coins Boost (5 Minutes)"
-  },
-  {
    "code": "Kolapo",
    "reward": "Double Coins Boost (5 Minutes)"
+  },
+  {
+   "code": "Christmas",
+   "reward": "Super Luck Boost (20 Minutes)"
+  },
+  {
+   "code": "SisterGuard",
+   "reward": "Super Luck Boost (15 Minutes)"
   }
  ],
- "updated": "2026-10-15T04:05:49.334Z",
+ "updated": "2026-10-16T11:10:23.456Z",
  "source": "https://robloxden.com/game-codes/missile-simulator"
 }

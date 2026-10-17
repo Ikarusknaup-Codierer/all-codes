@@ -391,14 +391,14 @@
    "reward": "4 Yoni Crates"
   },
   {
-   "code": "VOIDPART2",
-   "reward": "1 Void Ticket"
+   "code": "FIXBUG891",
+   "reward": "3 EXP Potions"
   },
   {
-   "code": "VOIDEVENT",
-   "reward": "1 Void Ticket"
+   "code": "JoinFix5",
+   "reward": "30 Void Tickets"
   }
  ],
- "updated": "2026-10-16T03:58:09.902Z",
+ "updated": "2026-10-17T10:25:19.558Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

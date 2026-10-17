@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Halloween2026",
-   "reward": "the Free Skin"
-  },
-  {
    "code": "optimization",
    "reward": "250 BloodBux , a Rare Crate , a Very Rare Crate and a Basic Crate"
   },
@@ -53,8 +49,16 @@
   {
    "code": "1kactive",
    "reward": "400 Blood Bux , 2 Rare Crates , a Very Rare Crate and 3 Basic Crates"
+  },
+  {
+   "code": "Halloween2026",
+   "reward": "the Free Skin"
+  },
+  {
+   "code": "SUMMER2026",
+   "reward": "Fruits Skin, Watergun Weapon, Beachball Weapon, Waterballoon Bucket We"
   }
  ],
- "updated": "2026-10-16T04:01:07.205Z",
+ "updated": "2026-10-17T10:27:37.919Z",
  "source": "https://robloxden.com/game-codes/blood-zone"
 }

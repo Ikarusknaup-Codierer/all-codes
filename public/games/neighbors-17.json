@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HAWK",
+   "reward": "100 Credits"
+  },
+  {
    "code": "ELF",
    "reward": "250 Credits"
   },
@@ -21,12 +25,8 @@
   {
    "code": "BACKTOSCHOOL",
    "reward": "100 Credits"
-  },
-  {
-   "code": "TREASURE",
-   "reward": "150 Credits"
   }
  ],
- "updated": "2026-10-16T04:10:54.186Z",
+ "updated": "2026-10-17T10:32:28.791Z",
  "source": "https://robloxden.com/game-codes/neighbors-17"
 }

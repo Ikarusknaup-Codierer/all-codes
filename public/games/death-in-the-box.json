@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CATS",
-   "reward": "2K Cash and 2 Spins"
-  },
-  {
    "code": "PARTIES",
    "reward": "1,000 Cash and 2 Spins"
   },
@@ -23,10 +19,14 @@
    "reward": "2 Spins"
   },
   {
+   "code": "VALENTINES",
+   "reward": "5,000 Cash and 1 Spin"
+  },
+  {
    "code": "CYBER",
    "reward": "1500 Cash And 1 Wheel Spin"
   }
  ],
- "updated": "2026-10-16T11:04:46.640Z",
+ "updated": "2026-10-17T10:33:14.847Z",
  "source": "https://robloxden.com/game-codes/death-in-the-box"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORSHUTDOWN!",
+   "reward": "30 Minutes of Crystal Notifier"
+  },
+  {
    "code": "SORRYFORSHUTDOWN",
    "reward": "the Crystal Notifier (30 Minutes)"
   },
@@ -19,14 +23,66 @@
    "reward": "2 Fishing Ease Potion II , 10 Crystal Mana , and 30 Spins"
   },
   {
+   "code": "25KLIKES!",
+   "reward": "10 Reset Stats and 25 Spins"
+  },
+  {
+   "code": "60KFAVSWOW!",
+   "reward": "25 Spins and 100% EXP (30 Minutes)"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "3 Reset Stats"
+  },
+  {
+   "code": "70KFAVSWOW!",
+   "reward": "5 Spins and 5 Crystal Mana"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "50 Spins"
+  },
+  {
    "code": "BETARELEASE",
    "reward": "a Big Chest , 50 Spins , and 5 Crystal Mana"
   },
   {
+   "code": "15KLIKES",
+   "reward": "25 Spins and a Special Spin"
+  },
+  {
+   "code": "600KVISITS",
+   "reward": "a Special Spin , 10 Reset Stats , and a Big Chest"
+  },
+  {
    "code": "25KFAVSTY",
    "reward": "a Special Spin , 15 Spins , and 5 Legendary Baits"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "25 Spins and a Medium Chest"
+  },
+  {
+   "code": "ANIMERETURNINGSEASON",
+   "reward": "25 Spins"
+  },
+  {
+   "code": "TYFOR3KPLAYERS",
+   "reward": "25 Spins and a Big Chest"
+  },
+  {
+   "code": "20KFAVS",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "10KFAVS",
+   "reward": "25 Spins and 5 Medium Chests"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "a Crystal Mana , 25 Spins , and 10 Normal Chests"
   }
  ],
- "updated": "2026-10-16T11:05:11.276Z",
+ "updated": "2026-10-17T10:33:37.368Z",
  "source": "https://robloxden.com/game-codes/clover-time"
 }

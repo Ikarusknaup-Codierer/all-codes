@@ -11,6 +11,10 @@
    "reward": "300 Cash"
   },
   {
+   "code": "wpass",
+   "reward": "Gamepass Card . You need to reach Level 5 to use this code"
+  },
+  {
    "code": "FREDAG",
    "reward": "100 Bandages"
   },
@@ -49,10 +53,6 @@
   {
    "code": "LOVELASH",
    "reward": "Lovelash Pistol"
-  },
-  {
-   "code": "wpass",
-   "reward": "Gamepass Card . You need to reach Level 5 to use this code"
   },
   {
    "code": "abuse",
@@ -171,6 +171,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-10-16T03:59:24.718Z",
+ "updated": "2026-10-17T10:26:08.814Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

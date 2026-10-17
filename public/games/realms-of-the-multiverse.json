@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "merryxmas",
-   "reward": "Free Coins"
+   "code": "ashes",
+   "reward": "500 Coins"
   },
   {
-   "code": "littlewitch",
+   "code": "taversia",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "weareback",
    "reward": "250 Coins"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "250 Coins"
   },
   {
-   "code": "waterduchess",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "AGATHA",
+   "code": "newyearnewme",
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-16T04:05:56.555Z",
+ "updated": "2026-10-17T10:31:13.251Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

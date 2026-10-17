@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LUCKYFROG",
+   "reward": "5,000 Coins and 5,000 Shards"
+  },
+  {
    "code": "SQUIRREL",
    "reward": "5k Coins and 5K Shards"
   },
@@ -27,10 +31,10 @@
    "reward": "7.5K Coins and 10K Shards"
   },
   {
-   "code": "PINEAPPLE",
-   "reward": "5,000 Coins"
+   "code": "PANDA",
+   "reward": "7.500 Shards and 7,500 Coins"
   }
  ],
- "updated": "2026-10-16T11:05:54.888Z",
+ "updated": "2026-10-17T10:34:16.809Z",
  "source": "https://robloxden.com/game-codes/sleep-for-ugc"
 }

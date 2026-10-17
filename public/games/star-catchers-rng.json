@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BAITED",
+   "reward": "25 Worm Baits"
+  },
+  {
+   "code": "ANCHORED",
+   "reward": "60 Meteor Debris and 100 Worm Baits"
+  },
+  {
+   "code": "BOUNCY",
+   "reward": "a Bouncy Mushroom Tree Decor"
+  },
+  {
    "code": "STARFORGE",
    "reward": "50 Meteor Debris and 5 Star Waw"
   },
@@ -27,6 +39,6 @@
    "reward": "Boosted Summer Star Odds On Your Next 10 Rolls"
   }
  ],
- "updated": "2026-10-15T21:13:17.085Z",
+ "updated": "2026-10-17T03:49:50.558Z",
  "source": "https://robloxden.com/game-codes/star-catchers-rng"
 }

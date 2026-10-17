@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "ITEMS5",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "PUBLICRELEASE",
    "reward": "Free Souls"
   },
   {
    "code": "NEWEVENT",
    "reward": "6,000 Souls"
+  },
+  {
+   "code": "ITEMS",
+   "reward": "5,300 Souls"
   },
   {
    "code": "NEWUPDATE",
@@ -27,6 +27,6 @@
    "reward": "100 Souls"
   }
  ],
- "updated": "2026-10-15T21:13:08.070Z",
+ "updated": "2026-10-17T03:49:40.801Z",
  "source": "https://robloxden.com/game-codes/undertale-timeline-reset"
 }

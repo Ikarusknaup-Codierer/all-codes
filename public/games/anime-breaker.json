@@ -59,10 +59,6 @@
    "reward": "200 Emeralds and 2 of Every T2 Potion"
   },
   {
-   "code": "SORRYFORSHUTDOWN",
-   "reward": "100 Emeralds"
-  },
-  {
    "code": "10KCCU",
    "reward": "free rewards"
   },
@@ -141,8 +137,12 @@
   {
    "code": "5KPLAYERS",
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
+  },
+  {
+   "code": "SORRYFORSHUTDOWN",
+   "reward": "100 Emeralds"
   }
  ],
- "updated": "2026-10-15T21:16:26.125Z",
+ "updated": "2026-10-17T03:52:31.767Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

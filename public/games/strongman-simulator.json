@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "happysun",
+   "reward": "2X Energy (30 Minutes)"
+  },
+  {
+   "code": "sunshine",
+   "reward": "2x Energy (30 Minutes)"
+  },
+  {
+   "code": "summertime",
+   "reward": "2x Energy (1 Hour)"
+  },
+  {
+   "code": "speedygains2000",
+   "reward": "2x Workout Speed Buff (20 Minutes)"
+  },
+  {
+   "code": "time4gains",
+   "reward": "50x Workout (20 Minutes)"
+  },
+  {
+   "code": "happyvalentinespump",
+   "reward": "2x Workout Speed (20 Minutes)"
+  },
+  {
    "code": "SHAZAM!FURYOFTHEGODS",
    "reward": "a 2x Movement Speed Buff"
   },
@@ -53,32 +77,8 @@
   {
    "code": "HOLIDAY",
    "reward": "a 10 Minute 2x Workout Boost"
-  },
-  {
-   "code": "happysun",
-   "reward": "2X Energy (30 Minutes)"
-  },
-  {
-   "code": "sunshine",
-   "reward": "2x Energy (30 Minutes)"
-  },
-  {
-   "code": "summertime",
-   "reward": "2x Energy (1 Hour)"
-  },
-  {
-   "code": "speedygains2000",
-   "reward": "2x Workout Speed Buff (20 Minutes)"
-  },
-  {
-   "code": "time4gains",
-   "reward": "50x Workout (20 Minutes)"
-  },
-  {
-   "code": "happyvalentinespump",
-   "reward": "2x Workout Speed (20 Minutes)"
   }
  ],
- "updated": "2026-10-15T21:09:56.840Z",
+ "updated": "2026-10-17T03:46:23.116Z",
  "source": "https://robloxden.com/game-codes/strongman-simulator"
 }

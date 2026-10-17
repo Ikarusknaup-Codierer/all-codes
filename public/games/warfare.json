@@ -49,8 +49,16 @@
   {
    "code": "ILOVEWARFARE",
    "reward": "65 Cash"
+  },
+  {
+   "code": "START",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "250 Cash"
   }
  ],
- "updated": "2026-10-15T21:15:35.907Z",
+ "updated": "2026-10-17T03:51:33.793Z",
  "source": "https://robloxden.com/game-codes/warfare"
 }

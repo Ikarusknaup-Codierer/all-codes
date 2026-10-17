@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ZEUS",
-   "reward": "50 Lightning Tokens"
-  },
-  {
    "code": "IAMPRO",
    "reward": "5K Cash . Requires best distance of 1,500 Studs"
   },
@@ -27,14 +23,14 @@
    "reward": "2 Passenger Seats"
   },
   {
-   "code": "PAINTEVERYWHERE",
-   "reward": "1,000 Cash , 1 Crossbow , and 1 Mounted Gun"
+   "code": "ZEUS",
+   "reward": "50 Lightning Tokens"
   },
   {
    "code": "HACKER",
    "reward": "50 Hacker Tokens"
   }
  ],
- "updated": "2026-10-16T03:59:34.789Z",
+ "updated": "2026-10-17T03:57:02.367Z",
  "source": "https://robloxden.com/game-codes/build-and-kill-zombies"
 }

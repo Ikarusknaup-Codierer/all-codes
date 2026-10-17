@@ -91,14 +91,14 @@
    "reward": "a 2x Luck Boost"
   },
   {
-   "code": "LikeGoalReached",
+   "code": "1stLikeGoalCode",
    "reward": "a Click Boost"
   },
   {
-   "code": "ClickCode1",
-   "reward": "a Click Boost"
+   "code": "Kolapo",
+   "reward": "a Gem Boost"
   }
  ],
- "updated": "2026-10-16T11:18:35.700Z",
+ "updated": "2026-10-17T15:27:01.689Z",
  "source": "https://robloxden.com/game-codes/tapper-simulator"
 }

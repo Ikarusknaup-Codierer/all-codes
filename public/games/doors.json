@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PROTOCOL",
+   "reward": "20 Stardusts"
+  },
+  {
    "code": "REPRESSED",
    "reward": "10 Stardusts"
   },
@@ -87,6 +91,6 @@
    "reward": "5 Knobs"
   }
  ],
- "updated": "2026-10-16T11:04:22.617Z",
+ "updated": "2026-10-17T15:17:52.229Z",
  "source": "https://robloxden.com/game-codes/doors"
 }

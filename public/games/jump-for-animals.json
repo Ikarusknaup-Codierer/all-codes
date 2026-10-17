@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AWESOMEADMIN",
+   "reward": "2 Hatch Speed (24 Hours)"
+  },
+  {
    "code": "DISCORD",
    "reward": "a Discord Egg"
   },
@@ -19,6 +23,6 @@
    "reward": "a 5x Hatch Speed Boost (6 Hours)"
   }
  ],
- "updated": "2026-10-16T11:07:28.428Z",
+ "updated": "2026-10-17T15:19:32.654Z",
  "source": "https://robloxden.com/game-codes/jump-for-animals"
 }

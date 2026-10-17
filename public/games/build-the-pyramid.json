@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DEADBYMELOL",
+   "reward": "1 Coin"
+  },
+  {
    "code": "SORRYFORUPDATEBUG",
    "reward": "2,500 Coins"
   },
@@ -23,6 +27,6 @@
    "reward": "25,000 Coins"
   }
  ],
- "updated": "2026-10-16T16:23:32.753Z",
+ "updated": "2026-10-17T15:27:41.157Z",
  "source": "https://robloxden.com/game-codes/build-the-pyramid"
 }

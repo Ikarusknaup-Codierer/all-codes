@@ -11,22 +11,22 @@
    "reward": "300 Cash"
   },
   {
-   "code": "30m",
-   "reward": "$300 in-game dollars"
+   "code": "transrights",
+   "reward": ""
   },
   {
-   "code": "stages",
+   "code": "KREW",
+   "reward": "Free Cash"
+  },
+  {
+   "code": "discord",
    "reward": "500 Cash"
   },
   {
    "code": "XMAS",
    "reward": "50 Cash"
-  },
-  {
-   "code": "MULLETMAFIA",
-   "reward": "300 Cash"
   }
  ],
- "updated": "2026-10-16T16:29:44.265Z",
+ "updated": "2026-10-17T15:32:39.649Z",
  "source": "https://robloxden.com/game-codes/captive"
 }

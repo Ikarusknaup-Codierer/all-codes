@@ -19,7 +19,7 @@
    "reward": "Unknown Reward"
   },
   {
-   "code": "UPDATEBUFF",
+   "code": "SORRYBUFF",
    "reward": "Luck 100% For 300 Seconds"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-10-16T16:26:44.584Z",
+ "updated": "2026-10-17T20:25:19.343Z",
  "source": "https://robloxden.com/game-codes/project-rng"
 }

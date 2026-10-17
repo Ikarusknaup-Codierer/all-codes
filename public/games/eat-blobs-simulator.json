@@ -511,14 +511,14 @@
    "reward": "5,000 Size"
   },
   {
-   "code": "SORRYBOUTTHAT",
-   "reward": "300 Turkey Tokens"
-  },
-  {
    "code": "YUMMYFOOD!",
    "reward": "30 Turkey Tokens"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "10,000 Size"
   }
  ],
- "updated": "2026-10-16T16:26:27.809Z",
+ "updated": "2026-10-17T20:25:03.610Z",
  "source": "https://robloxden.com/game-codes/eat-blobs-simulator"
 }

@@ -39,14 +39,14 @@
    "reward": "80 Fame Coins"
   },
   {
-   "code": "TrickOrTreat",
-   "reward": "100 Fame Coins"
-  },
-  {
    "code": "SECRETSHOP",
    "reward": "200 Coins"
+  },
+  {
+   "code": "Visit20M",
+   "reward": "300 Fame Coins"
   }
  ],
- "updated": "2026-10-16T16:24:47.684Z",
+ "updated": "2026-10-17T20:23:33.994Z",
  "source": "https://robloxden.com/game-codes/pls-buy-me"
 }

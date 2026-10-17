@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "MAGICMILLY",
-   "reward": "Race Spins"
+   "code": "GUNGANG",
+   "reward": "Spins"
   },
   {
-   "code": "STATRESET2",
+   "code": "STATRESET7",
    "reward": "a Stat Reset"
   },
   {
-   "code": "100FORGANG",
-   "reward": "Magic Spins"
-  },
-  {
-   "code": "OMAEWA",
-   "reward": "a reward"
-  },
-  {
-   "code": "2MILBOISEXP",
+   "code": "HERENOWSHOO",
    "reward": "some free spins"
+  },
+  {
+   "code": "SPINFIX",
+   "reward": "3 Race Spins"
+  },
+  {
+   "code": "1BIGLOAD",
+   "reward": "50 Race Spins"
   }
  ],
- "updated": "2026-10-16T20:51:34.536Z",
+ "updated": "2026-10-17T20:37:10.619Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

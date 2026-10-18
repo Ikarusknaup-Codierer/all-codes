@@ -11,10 +11,6 @@
    "reward": "Rewards . You must be at least Level 200 to use this code"
   },
   {
-   "code": "41MVisits",
-   "reward": "Free Rewards . You must be at least Level 50 to use this code"
-  },
-  {
    "code": "40MVisits",
    "reward": "Free Rewards . You must be at least Level 50 to use this code"
   },
@@ -65,6 +61,10 @@
   {
    "code": "Balanced",
    "reward": "rewards . You must be at least level 100 to use this code"
+  },
+  {
+   "code": "41MVisits",
+   "reward": "Free Rewards . You must be at least Level 50 to use this code"
   },
   {
    "code": "PVP",
@@ -215,6 +215,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-10-17T10:28:40.288Z",
+ "updated": "2026-10-18T15:43:20.896Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "ATOMICTOWN",
-   "reward": "500 Money"
-  },
-  {
    "code": "COMBINE",
    "reward": "500 Money"
   },
   {
    "code": "SEASON5",
    "reward": "1K Money"
+  },
+  {
+   "code": "ATOMICTOWN",
+   "reward": "500 Money"
   },
   {
    "code": "HEADHONCHO",
@@ -143,6 +143,6 @@
    "reward": "$500"
   }
  ],
- "updated": "2026-10-17T03:55:34.984Z",
+ "updated": "2026-10-18T15:38:58.408Z",
  "source": "https://robloxden.com/game-codes/hood-wars"
 }

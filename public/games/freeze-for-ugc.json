@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "JUAN",
+   "reward": "200 Time"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "200 Time"
+  },
+  {
    "code": "YEAR2026",
    "reward": "200 Time"
   },
@@ -31,6 +39,6 @@
    "reward": "250 Time"
   }
  ],
- "updated": "2026-10-17T10:29:59.956Z",
+ "updated": "2026-10-18T15:44:31.251Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

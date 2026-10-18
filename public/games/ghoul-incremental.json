@@ -23,14 +23,14 @@
    "reward": "1 Roll of each type"
   },
   {
-   "code": "LIKES150",
-   "reward": "3 Rolls of each type"
+   "code": "UPDATE",
+   "reward": "2 Rolls of each type"
   },
   {
-   "code": "LIKES500",
-   "reward": "3 Rolls of each type"
+   "code": "FASTLIKES",
+   "reward": "Rolls for each type"
   }
  ],
- "updated": "2026-10-17T10:25:15.488Z",
+ "updated": "2026-10-18T15:40:15.403Z",
  "source": "https://robloxden.com/game-codes/ghoul-incremental"
 }

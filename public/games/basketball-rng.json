@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SATURDAYCODESONYASOUL",
-   "reward": "10 Large Luck Potions, 3 King Luck Potions and 500 Gems"
-  },
-  {
    "code": "SEQUENCEBALL",
    "reward": "250 Gems"
   },
@@ -39,6 +35,10 @@
    "reward": "15 Large Luck Potions , 5 King Roll Speed Potions , and 500 Gems"
   },
   {
+   "code": "SATURDAYCODESONYASOUL",
+   "reward": "10 Large Luck Potions, 3 King Luck Potions and 500 Gems"
+  },
+  {
    "code": "ValentinesDay!",
    "reward": "500 Gems"
   },
@@ -47,6 +47,6 @@
    "reward": "2,000 Gems"
   }
  ],
- "updated": "2026-10-17T10:31:09.711Z",
+ "updated": "2026-10-18T15:45:33.730Z",
  "source": "https://robloxden.com/game-codes/basketball-rng"
 }

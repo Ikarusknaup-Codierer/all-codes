@@ -7,12 +7,32 @@
    "reward": "Description"
   },
   {
-   "code": "CASHG",
-   "reward": "300 Cash"
-  },
-  {
    "code": "wpass",
    "reward": "Gamepass Card . You need to reach Level 5 to use this code"
+  },
+  {
+   "code": "lotusdrive",
+   "reward": "Rewards . You must reach Level 3 to use this code"
+  },
+  {
+   "code": "cens",
+   "reward": "Rewards . You must be at least level 14 to use this code"
+  },
+  {
+   "code": "BAN",
+   "reward": "100 Bandages"
+  },
+  {
+   "code": "ARM",
+   "reward": "100 Armors"
+  },
+  {
+   "code": "graveyard",
+   "reward": "a Graveyard - SP"
+  },
+  {
+   "code": "Allpass",
+   "reward": "Rewards . You need to reach level 3 to use this code"
   },
   {
    "code": "FREDAG",
@@ -49,6 +69,10 @@
   {
    "code": "rar",
    "reward": "1,000 cash"
+  },
+  {
+   "code": "CASHG",
+   "reward": "300 Cash"
   },
   {
    "code": "LOVELASH",
@@ -171,6 +195,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-10-17T10:26:08.814Z",
+ "updated": "2026-10-18T15:41:03.511Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

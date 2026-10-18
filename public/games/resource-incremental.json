@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Update9",
+   "reward": "5x All Potions"
+  },
+  {
+   "code": "World3Soon",
+   "reward": "50x Tickets"
+  },
+  {
    "code": "cashbug",
    "reward": "100 Tickets"
   },
@@ -123,6 +131,6 @@
    "reward": "+1 All Potions"
   }
  ],
- "updated": "2026-10-17T03:52:37.528Z",
+ "updated": "2026-10-18T10:48:28.157Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

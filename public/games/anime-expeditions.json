@@ -15,6 +15,18 @@
    "reward": "20 Trait Crystals and 500 Sand Dollars . You need to be at least Level"
   },
   {
+   "code": "clash!",
+   "reward": "500 Defense Credits and 50 Trait Crystals"
+  },
+  {
+   "code": "brothers",
+   "reward": "20 Equipment Rerolls, 10 Equipment Locks and 10 Stat Rerolls"
+  },
+  {
+   "code": "hollowworld",
+   "reward": "50 Trait Crystals"
+  },
+  {
    "code": "sorrysmalldelay",
    "reward": "200 Trait Crystals"
   },
@@ -159,6 +171,6 @@
    "reward": "20 Trait Crystals and 2,500 Gems . You must have the Early Access Role"
   }
  ],
- "updated": "2026-10-17T03:49:01.823Z",
+ "updated": "2026-10-18T10:45:05.674Z",
  "source": "https://robloxden.com/game-codes/anime-expeditions"
 }

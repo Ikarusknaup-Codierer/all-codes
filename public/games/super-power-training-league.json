@@ -11,22 +11,22 @@
    "reward": "Tokens"
   },
   {
-   "code": "PvPServer",
+   "code": "ExoticSnipe",
+   "reward": "Extra Tokens"
+  },
+  {
+   "code": "1000Active",
    "reward": ""
   },
   {
-   "code": "MidnightRestart",
+   "code": "50kVisits",
    "reward": ""
   },
   {
-   "code": "Release",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "NewSPTLEraComing",
-   "reward": "125,000 Tokens"
+   "code": "ZumaDeluxePowerLeague",
+   "reward": "75,000 Tokens"
   }
  ],
- "updated": "2026-10-17T03:51:20.746Z",
+ "updated": "2026-10-18T10:47:15.680Z",
  "source": "https://robloxden.com/game-codes/super-power-training-league"
 }

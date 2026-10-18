@@ -23,14 +23,14 @@
    "reward": "2 2x Wins Boosts (20 minutes)"
   },
   {
-   "code": "bonusxp",
-   "reward": "Bonus XP"
-  },
-  {
    "code": "trades",
    "reward": "2x Win Boost"
+  },
+  {
+   "code": "release",
+   "reward": "2x Strength Boost"
   }
  ],
- "updated": "2026-10-17T15:22:56.400Z",
+ "updated": "2026-10-18T20:28:23.965Z",
  "source": "https://robloxden.com/game-codes/hammer-smash-simulator"
 }

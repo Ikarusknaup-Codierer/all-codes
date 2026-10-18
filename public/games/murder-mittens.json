@@ -11,6 +11,10 @@
    "reward": "12 Pride Items"
   },
   {
+   "code": "UPDATEDELAYAPOLOGY",
+   "reward": "500"
+  },
+  {
    "code": "SORRYSEASHELLS",
    "reward": "500 Seashells"
   },
@@ -19,14 +23,10 @@
    "reward": "Rare Crate"
   },
   {
-   "code": "MEOWPROMO5",
-   "reward": "Rare Crate"
-  },
-  {
    "code": "MEOW500",
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-10-17T10:33:52.904Z",
+ "updated": "2026-10-18T20:23:17.902Z",
  "source": "https://robloxden.com/game-codes/murder-mittens"
 }

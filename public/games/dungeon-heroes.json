@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DRAGON",
+   "reward": "a Burger and Fries and 3 Distilled Health Potions"
+  },
+  {
    "code": "FROSTHEIM",
    "reward": "5x Distilled Health Potion and Key Booster for 6 hours"
   },
@@ -103,6 +107,6 @@
    "reward": "5 Distilled Health Potion and Sparkler Aura"
   }
  ],
- "updated": "2026-10-17T15:19:24.292Z",
+ "updated": "2026-10-18T20:25:06.919Z",
  "source": "https://robloxden.com/game-codes/dungeon-heroes"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Sorry200",
-   "reward": "200 Gems"
-  },
-  {
    "code": "VETERAN500",
    "reward": "150 Shards, 2 No Hunger Potions, 2 x2 Shards Potion and 2 x2 Days Poti"
   },
@@ -21,8 +17,12 @@
   {
    "code": "UPDATE_01",
    "reward": "100 Shards"
+  },
+  {
+   "code": "Sorry200",
+   "reward": "200 Gems"
   }
  ],
- "updated": "2026-10-17T15:26:28.223Z",
+ "updated": "2026-10-18T20:31:41.824Z",
  "source": "https://robloxden.com/game-codes/defend-bunker-from-zombies"
 }

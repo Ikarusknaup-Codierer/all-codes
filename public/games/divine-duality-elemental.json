@@ -11,10 +11,6 @@
    "reward": "15K Shards"
   },
   {
-   "code": "40kLikes",
-   "reward": "15,000 Shards"
-  },
-  {
    "code": "35kLikes",
    "reward": "20,000 Gems"
   },
@@ -57,8 +53,12 @@
   {
    "code": "85kLikes",
    "reward": "Shards"
+  },
+  {
+   "code": "40kLikes",
+   "reward": "15,000 Shards"
   }
  ],
- "updated": "2026-10-17T15:26:39.010Z",
+ "updated": "2026-10-18T20:31:51.699Z",
  "source": "https://robloxden.com/game-codes/divine-duality-elemental"
 }

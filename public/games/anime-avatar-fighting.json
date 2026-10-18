@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "SOLOLEVELING",
+   "reward": "Gems , Spins , and Potions"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "Gems , Spins , and Potions"
+  },
+  {
+   "code": "DELAYEDUPDATE",
+   "reward": "Gems , Spins , and Potions"
+  },
+  {
+   "code": "6KLIKES",
+   "reward": "Gems , Spins , and Potions"
+  },
+  {
+   "code": "ADMINABUSE2",
+   "reward": "200 F2P Tokens"
+  },
+  {
+   "code": "FREEF2P",
+   "reward": "50 F2P Tokens"
+  },
+  {
+   "code": "ADMINABUSE3",
+   "reward": "200 F2P Tokens"
+  },
+  {
+   "code": "ALMIGHTY",
+   "reward": "Gems , Spins , and Potions"
+  },
+  {
    "code": "UPDATE4",
    "reward": "a Spin, 10,000 Gems , a Damage Potion II , a Luck Potion III , a Drop "
   },
@@ -99,6 +131,6 @@
    "reward": "25 Gems and a Spin"
   }
  ],
- "updated": "2026-10-17T15:19:51.171Z",
+ "updated": "2026-10-18T20:25:32.335Z",
  "source": "https://robloxden.com/game-codes/anime-avatar-fighting"
 }

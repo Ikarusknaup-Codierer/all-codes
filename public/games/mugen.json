@@ -7,7 +7,23 @@
    "reward": "Description"
   },
   {
+   "code": "INSECTRELEASED",
+   "reward": "5 Lucky Spins and 5 Wheel Spins"
+  },
+  {
+   "code": "60KINTERESTED",
+   "reward": "30 Lucky Spins and 100,000 Yen"
+  },
+  {
+   "code": "30DELAY",
+   "reward": "10 Wheel Spins and 40,000 Yen"
+  },
+  {
    "code": "CRISPYDAYZ",
+   "reward": "7 Lucky Spins and 50,000 Yen"
+  },
+  {
+   "code": "INSECTTOMORROW",
    "reward": "7 Lucky Spins and 50,000 Yen"
   },
   {
@@ -19,6 +35,6 @@
    "reward": "100K Yen"
   }
  ],
- "updated": "2026-10-17T15:19:13.839Z",
+ "updated": "2026-10-18T20:24:57.403Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "crystals",
+   "reward": "4 Crystals"
+  },
+  {
+   "code": "convergence",
+   "reward": "250 Moonstones"
+  },
+  {
    "code": "42klikes",
    "reward": "250 Moonstones"
   },
   {
    "code": "resurrection",
    "reward": "200 Coins"
-  },
-  {
-   "code": "winteriscoming",
-   "reward": "200 Moonstones"
   }
  ],
- "updated": "2026-10-17T10:33:06.695Z",
+ "updated": "2026-10-18T20:22:52.580Z",
  "source": "https://robloxden.com/game-codes/the-vampire-legacies-2"
 }

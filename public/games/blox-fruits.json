@@ -63,6 +63,10 @@
    "reward": "a 30 Minute 2x XP Boost"
   },
   {
+   "code": "FUDD10_V2",
+   "reward": "$2"
+  },
+  {
    "code": "BLUXXY",
    "reward": "a 20 Minute 2x XP Boost"
   },
@@ -99,14 +103,10 @@
    "reward": "a Stat Reset"
   },
   {
-   "code": "FUDD10_V2",
-   "reward": "$2"
-  },
-  {
    "code": "ENYU_IS_PRO",
    "reward": "a 20 Minute 2x XP Boost"
   }
  ],
- "updated": "2026-10-16T20:50:09.996Z",
+ "updated": "2026-10-18T03:55:59.545Z",
  "source": "https://robloxden.com/game-codes/blox-fruits"
 }

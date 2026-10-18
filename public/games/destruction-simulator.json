@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "500k",
-   "reward": "5,000 Coins"
+   "code": "leveluphype",
+   "reward": "5 Free Levels"
   },
   {
    "code": "update1hype",
-   "reward": "24 Hour X2 XP Boost"
-  },
-  {
-   "code": "updatesoon",
    "reward": "24 Hour X2 XP Boost"
   },
   {
@@ -23,10 +19,10 @@
    "reward": "100 Diamonds"
   },
   {
-   "code": "200K",
-   "reward": "50,000 Cash"
+   "code": "ranks",
+   "reward": "A Game Boost"
   }
  ],
- "updated": "2026-10-16T20:52:25.736Z",
+ "updated": "2026-10-18T03:57:14.642Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

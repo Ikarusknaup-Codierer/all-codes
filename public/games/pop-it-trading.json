@@ -477,8 +477,16 @@
   {
    "code": "CHANCE",
    "reward": "the Rock Paper Scissors Item"
+  },
+  {
+   "code": "trade2022",
+   "reward": "9,999 Corners"
+  },
+  {
+   "code": "mralladdinsir",
+   "reward": "Genie's Lamp"
   }
  ],
- "updated": "2026-10-16T20:52:14.002Z",
+ "updated": "2026-10-18T03:57:04.191Z",
  "source": "https://robloxden.com/game-codes/pop-it-trading"
 }

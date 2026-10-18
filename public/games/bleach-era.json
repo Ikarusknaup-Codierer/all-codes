@@ -123,10 +123,14 @@
    "reward": "a 1 Hour XP Boost"
   },
   {
-   "code": "RerollColor2",
-   "reward": "1 Zanpakuto Reroll"
+   "code": "45kfaves",
+   "reward": "a Drop Boost"
+  },
+  {
+   "code": "RerollRes2",
+   "reward": "1 Resurrection Reroll"
   }
  ],
- "updated": "2026-10-16T20:53:29.334Z",
+ "updated": "2026-10-18T03:58:08.167Z",
  "source": "https://robloxden.com/game-codes/bleach-era"
 }

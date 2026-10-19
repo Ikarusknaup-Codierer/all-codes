@@ -51,14 +51,14 @@
    "reward": "Flaming Shoulders and Prestige"
   },
   {
-   "code": "GZED",
-   "reward": "In-Game Rewards"
-  },
-  {
    "code": "addprestige32",
    "reward": "Free Prestige Level"
+  },
+  {
+   "code": "MOREXP",
+   "reward": "4,000 XP"
   }
  ],
- "updated": "2026-10-18T10:42:50.857Z",
+ "updated": "2026-10-19T22:14:56.250Z",
  "source": "https://robloxden.com/game-codes/faction-defence-tycoon"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LIBERATOR",
+   "reward": "900 Crimson"
+  },
+  {
+   "code": "EXPOSURE",
+   "reward": "500 Crimson"
+  },
+  {
    "code": "RETURN",
    "reward": "Rewards"
   },
@@ -19,6 +27,6 @@
    "reward": "700 Crimson"
   }
  ],
- "updated": "2026-10-18T10:44:22.634Z",
+ "updated": "2026-10-19T22:16:38.477Z",
  "source": "https://robloxden.com/game-codes/redliner"
 }

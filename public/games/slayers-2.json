@@ -11,30 +11,22 @@
    "reward": "the Race Reset"
   },
   {
-   "code": "Roguelike",
-   "reward": "35 Spins"
-  },
-  {
    "code": "M1LL1ON",
    "reward": "2x Luck"
-  },
-  {
-   "code": "BREATHRESET",
-   "reward": "a Breath Reset"
   },
   {
    "code": "ARTRESET",
    "reward": "an Evil Art Reset"
   },
   {
-   "code": "SPINS50",
-   "reward": "50 Spins"
+   "code": "BREATHRESET",
+   "reward": "a Breath Reset"
   },
   {
-   "code": "SKILLTREERESET",
-   "reward": "a Skill Tree Points Reset"
+   "code": "Release26",
+   "reward": "100 Wen , 30 Spins , and 1 Refinement Ore"
   }
  ],
- "updated": "2026-10-18T10:45:48.994Z",
+ "updated": "2026-10-19T22:18:12.392Z",
  "source": "https://robloxden.com/game-codes/slayers-2"
 }

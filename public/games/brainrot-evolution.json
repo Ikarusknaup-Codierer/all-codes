@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Legacy",
+   "reward": "2 EXP Potions"
+  },
+  {
+   "code": "Choco",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "BRAINROTHELL",
    "reward": "2 EXP Potions"
   },
@@ -391,14 +399,14 @@
    "reward": "4 Yoni Crates"
   },
   {
-   "code": "VOIDPART2",
-   "reward": "1 Void Ticket"
+   "code": "PlzSubi2",
+   "reward": "2 EXP Potions"
   },
   {
    "code": "JoinFix5",
    "reward": "30 Void Tickets"
   }
  ],
- "updated": "2026-10-18T15:40:19.605Z",
+ "updated": "2026-10-19T22:25:03.752Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "LOADING",
-   "reward": "3,000 Cash"
+   "code": "BOWIE",
+   "reward": "1,500 Coins"
   },
   {
-   "code": "2077",
-   "reward": "Cash"
+   "code": "LOADING",
+   "reward": "3,000 Cash"
   },
   {
    "code": "BUTTERFLY",
@@ -23,6 +23,6 @@
    "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-10-18T04:00:25.282Z",
+ "updated": "2026-10-19T22:13:10.795Z",
  "source": "https://robloxden.com/game-codes/knife-duels"
 }

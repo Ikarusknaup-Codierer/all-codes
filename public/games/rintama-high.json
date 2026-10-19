@@ -15,10 +15,6 @@
    "reward": "10 Reroll Tokens"
   },
   {
-   "code": "AGERATING",
-   "reward": "500 Yen and 5 Reroll Tokens"
-  },
-  {
    "code": "DOWNTAMA",
    "reward": "2,500 Yen and 10 Reroll Tokens"
   },
@@ -35,14 +31,14 @@
    "reward": "3 Reroll Tokens"
   },
   {
-   "code": "THANKSFORYOURPATIENCE",
-   "reward": "5 Reroll Tokens"
+   "code": "AGERATING",
+   "reward": "500 Yen and 5 Reroll Tokens"
   },
   {
-   "code": "HAPPYBIRTHDAYLUCIA",
+   "code": "THANKSFORYOURPATIENCE",
    "reward": "5 Reroll Tokens"
   }
  ],
- "updated": "2026-10-18T10:43:54.947Z",
+ "updated": "2026-10-19T22:16:06.831Z",
  "source": "https://robloxden.com/game-codes/rintama-high"
 }

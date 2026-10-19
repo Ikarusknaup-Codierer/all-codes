@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "color",
+   "reward": "5,000 cash"
+  },
+  {
    "code": "welcome",
    "reward": "3,000 Cash"
   },
@@ -19,6 +23,6 @@
    "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-10-18T10:44:00.860Z",
+ "updated": "2026-10-19T22:16:13.240Z",
  "source": "https://robloxden.com/game-codes/car-duels"
 }

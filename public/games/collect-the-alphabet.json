@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GALAXY",
+   "reward": "4 Mythic Packs"
+  },
+  {
+   "code": "GOLDEN",
+   "reward": "2 Mutation Luck Potions"
+  },
+  {
    "code": "GREEK24",
    "reward": "4 Mythic Packs"
   },
@@ -75,6 +83,6 @@
    "reward": "1 Mythic Pack"
   }
  ],
- "updated": "2026-10-18T10:43:53.184Z",
+ "updated": "2026-10-19T22:16:04.992Z",
  "source": "https://robloxden.com/game-codes/collect-the-alphabet"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ValentineUpdate",
+   "reward": "300 Coins"
+  },
+  {
    "code": "SeasonPassUpdate",
    "reward": "300 Coins"
   },
@@ -43,6 +47,6 @@
    "reward": "300 Coins"
   }
  ],
- "updated": "2026-10-18T10:42:30.001Z",
+ "updated": "2026-10-19T22:14:32.117Z",
  "source": "https://robloxden.com/game-codes/elder-t-tower-defense"
 }

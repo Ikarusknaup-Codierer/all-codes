@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "OCTOBER",
+   "reward": "2 Steel Crates"
+  },
+  {
    "code": "STEELCRATE1",
    "reward": "1 Steel Crate"
   },
@@ -83,10 +87,10 @@
    "reward": "20,000 Cash and 150 Followers"
   },
   {
-   "code": "OGPLAYER",
-   "reward": "Rewards"
+   "code": "EARLYACCESS",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-18T10:45:49.506Z",
+ "updated": "2026-10-19T22:18:12.962Z",
  "source": "https://robloxden.com/game-codes/chinaside-tycoon"
 }

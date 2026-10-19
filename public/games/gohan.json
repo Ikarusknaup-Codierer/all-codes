@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "StoryReset",
+   "reward": "a Story Reset . Code will take effect immediately"
+  },
+  {
    "code": "StatReset",
    "reward": "a Stat Reset . Code will take effect immediately"
   },
@@ -23,6 +27,6 @@
    "reward": "This code resets your combat style . Warning: This deletes your past c"
   }
  ],
- "updated": "2026-10-18T10:45:43.652Z",
+ "updated": "2026-10-19T22:18:06.510Z",
  "source": "https://robloxden.com/game-codes/gohan"
 }

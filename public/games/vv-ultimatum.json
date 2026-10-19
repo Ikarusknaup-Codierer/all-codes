@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "205KLIKES",
+   "reward": "5 Ability Rerolls , 5 Clan Rerolls , and 5 Experimental Hogyoku Shards"
+  },
+  {
+   "code": "SHUNKOVASTO",
+   "reward": "20 Clan Rerolls , 15 Ability Rerolls , 5 Experimental Hogyoku Shards ,"
+  },
+  {
    "code": "SORRYFORCODEBUG",
    "reward": "5 Experimental Hogyoky Shards and 5 Ability Rerolls"
   },
@@ -23,6 +31,6 @@
    "reward": "3x Ability Reroll"
   }
  ],
- "updated": "2026-10-18T10:44:28.024Z",
+ "updated": "2026-10-19T22:16:45.640Z",
  "source": "https://robloxden.com/game-codes/vv-ultimatum"
 }

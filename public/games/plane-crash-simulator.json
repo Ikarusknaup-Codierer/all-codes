@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "STALL110",
+   "reward": "7,000 Crash Points"
+  },
+  {
    "code": "100KLIKES",
    "reward": "7,000 Crash Points"
   },
@@ -23,6 +27,6 @@
    "reward": "5,000 Crash Points"
   }
  ],
- "updated": "2026-10-18T15:39:54.351Z",
+ "updated": "2026-10-19T22:24:35.457Z",
  "source": "https://robloxden.com/game-codes/plane-crash-simulator"
 }

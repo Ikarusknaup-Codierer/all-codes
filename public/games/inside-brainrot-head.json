@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EVENTPASS",
+   "reward": "30,000 Trade Tokens"
+  },
+  {
    "code": "ROBOT",
    "reward": "the 30,000 Tokens"
   },
@@ -23,6 +27,6 @@
    "reward": "20,000 Trade Tokens"
   }
  ],
- "updated": "2026-10-18T03:59:25.063Z",
+ "updated": "2026-10-19T22:12:18.343Z",
  "source": "https://robloxden.com/game-codes/inside-brainrot-head"
 }

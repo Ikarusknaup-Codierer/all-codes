@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NewEvents",
+   "reward": "15 Trait Rerolls"
+  },
+  {
    "code": "120kLikes",
    "reward": "15 Rerolls"
   },
@@ -19,6 +23,6 @@
    "reward": "+10% Luck (20 Minutes)"
   }
  ],
- "updated": "2026-10-18T03:59:28.461Z",
+ "updated": "2026-10-19T22:12:22.302Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

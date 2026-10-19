@@ -35,10 +35,6 @@
    "reward": "5 Summon Tickets"
   },
   {
-   "code": "SECRETWEEK",
-   "reward": "10 Trait Rerolls"
-  },
-  {
    "code": "PACTBREAKER",
    "reward": "5 Rare Fusion Crystals"
   },
@@ -83,10 +79,14 @@
    "reward": "10 Trait Rerolls"
   },
   {
+   "code": "SECRETWEEK",
+   "reward": "10 Trait Rerolls"
+  },
+  {
    "code": "DIVINEORSERAPH",
    "reward": "10 Trait Rerolls"
   }
  ],
- "updated": "2026-10-18T04:00:51.114Z",
+ "updated": "2026-10-19T22:13:23.632Z",
  "source": "https://robloxden.com/game-codes/summon-heroes"
 }

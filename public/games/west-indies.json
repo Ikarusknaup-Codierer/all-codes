@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "SPECIALDAY!",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "REVAMP!",
+   "reward": "50M Cash"
+  },
+  {
+   "code": "MINORSTUFF!",
+   "reward": "10 Spins"
+  },
+  {
    "code": "JDMLIFE",
    "reward": "15M Cash"
   },
   {
-   "code": "RIMS!",
-   "reward": "20M Cash"
-  },
-  {
    "code": "GERMANWHIP",
    "reward": "20M Cash"
-  },
-  {
-   "code": "25KSTRONG!",
-   "reward": "Cash"
   }
  ],
- "updated": "2026-10-18T10:42:31.816Z",
+ "updated": "2026-10-19T22:14:34.397Z",
  "source": "https://robloxden.com/game-codes/west-indies"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MOONMISSION",
+   "reward": "the a Pink Star Food Item and a VVIP Damage Potion"
+  },
+  {
+   "code": "DRAGONRISE",
+   "reward": "the 10 Lucky Tickets , a 100% Crit Potion , and a VVIP Damage Potion"
+  },
+  {
    "code": "NAGAFINALE",
    "reward": "5 Lucky Tickets and 1 100% Crit Potion"
   },
@@ -135,6 +143,6 @@
    "reward": "150 Gems and a 15-Minute Luck Boost"
   }
  ],
- "updated": "2026-10-18T15:40:42.278Z",
+ "updated": "2026-10-19T22:25:30.358Z",
  "source": "https://robloxden.com/game-codes/hunt-giant-fish"
 }

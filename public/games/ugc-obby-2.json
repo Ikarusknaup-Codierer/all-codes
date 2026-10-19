@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LikeTheGame",
+   "reward": "Gems"
+  },
+  {
    "code": "600KGroupMembers",
    "reward": "15K Gems"
   },
@@ -103,6 +107,6 @@
    "reward": "10K Gems"
   }
  ],
- "updated": "2026-10-18T04:01:48.131Z",
+ "updated": "2026-10-19T22:13:42.271Z",
  "source": "https://robloxden.com/game-codes/ugc-obby-2"
 }

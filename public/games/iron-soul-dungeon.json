@@ -11,18 +11,6 @@
    "reward": "3 Race Rerolls"
   },
   {
-   "code": "IRONWEEKENDGIFT26",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "BOSSODINARRIVED",
-   "reward": "5 Season Lucky Tickets"
-  },
-  {
-   "code": "IRONSOULBIGUPDATE",
-   "reward": "3 Race Rerolls"
-  },
-  {
    "code": "IRONSOULWEEKEND25",
    "reward": "Free Rewards"
   },
@@ -95,8 +83,20 @@
    "reward": "200 Origin Shards"
   },
   {
+   "code": "IRONWEEKENDGIFT26",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "BOSSODINARRIVED",
+   "reward": "5 Season Lucky Tickets"
+  },
+  {
    "code": "SEASON4COMING",
    "reward": "200 Origin Shards and 3 Season Lucky Tickets"
+  },
+  {
+   "code": "IRONSOULBIGUPDATE",
+   "reward": "3 Race Rerolls"
   },
   {
    "code": "ROYALCIRCUS",
@@ -175,6 +175,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-10-18T10:44:58.120Z",
+ "updated": "2026-10-19T22:17:17.470Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

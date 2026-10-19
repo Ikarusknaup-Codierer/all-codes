@@ -11,6 +11,10 @@
    "reward": "Titanic Fire Dragon"
   },
   {
+   "code": "ExclusiveDragonEgg",
+   "reward": "Exclusive Dragon Egg"
+  },
+  {
    "code": "HugeCalestialDragon",
    "reward": "Huge Calestial Dragon"
   },
@@ -21,12 +25,8 @@
   {
    "code": "pet-45a33a2dca",
    "reward": "Huge Dragon Pet"
-  },
-  {
-   "code": "pet-d67518012",
-   "reward": "Huge Dog Pet"
   }
  ],
- "updated": "2026-10-18T04:01:56.748Z",
+ "updated": "2026-10-19T22:13:45.900Z",
  "source": "https://robloxden.com/game-codes/pet-simulator-99"
 }

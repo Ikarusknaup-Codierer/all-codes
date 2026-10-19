@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WLASTSTOP",
+   "reward": "Tickets . You need to reach level 5 to redeem this code"
+  },
+  {
+   "code": "SHORTMODE",
+   "reward": "Tickets . You need to reach level 5 to redeem this code"
+  },
+  {
    "code": "UPDATE4",
    "reward": "Tickets"
   },
@@ -23,10 +31,10 @@
    "reward": "Tickets"
   },
   {
-   "code": "UPDATE1",
-   "reward": "250 Tickets"
+   "code": "UPDATE3",
+   "reward": "Tickets"
   }
  ],
- "updated": "2026-10-17T20:27:49.824Z",
+ "updated": "2026-10-19T04:07:40.307Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

@@ -23,12 +23,12 @@
    "reward": "GARFIELDISDOC Skin and 1,000 Credits"
   },
   {
-   "code": "FABRICADECOBRES",
-   "reward": "FABRICA DE COBRES Skin and 1,000 Credits"
-  },
-  {
    "code": "COB",
    "reward": "COBISCOOL Skin and 1,000 Credits"
+  },
+  {
+   "code": "FABRICADECOBRES",
+   "reward": "FABRICA DE COBRES Skin and 1,000 Credits"
   },
   {
    "code": "YOBOYROY",
@@ -37,8 +37,12 @@
   {
    "code": "VARSITY",
    "reward": "VARSITY GAMING Skin and 1,000 Credits"
+  },
+  {
+   "code": "SHAWK",
+   "reward": "SHAWK Skin"
   }
  ],
- "updated": "2026-10-17T15:27:36.286Z",
+ "updated": "2026-10-19T04:02:02.481Z",
  "source": "https://robloxden.com/game-codes/operations-siege"
 }

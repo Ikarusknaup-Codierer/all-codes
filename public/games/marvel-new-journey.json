@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ANDERSBIRTHDAY",
+   "reward": "35,000 Coins"
+  },
+  {
    "code": "NEWERA",
    "reward": "15,000 Coins"
   },
@@ -19,34 +23,10 @@
    "reward": "* 150 Skill Points"
   },
   {
-   "code": "ANDERSBIRTHDAY",
-   "reward": "35,000 Coins"
-  },
-  {
-   "code": "10MVISITS",
-   "reward": "25,000 Coins"
-  },
-  {
-   "code": "ANNIVERSARY",
-   "reward": "30,000 Coins"
-  },
-  {
-   "code": "JEANHALLOWEEN",
-   "reward": "30,000 Coins"
-  },
-  {
    "code": "DPRELEASE",
    "reward": "30,000 Coins"
-  },
-  {
-   "code": "CHRISTMAS2022",
-   "reward": "30,000 Coins"
-  },
-  {
-   "code": "2023",
-   "reward": "50,000 Coins"
   }
  ],
- "updated": "2026-10-17T20:27:32.171Z",
+ "updated": "2026-10-19T04:07:25.273Z",
  "source": "https://robloxden.com/game-codes/marvel-new-journey"
 }

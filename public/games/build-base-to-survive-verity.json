@@ -11,10 +11,6 @@
    "reward": "100 Dudu Obsidian"
   },
   {
-   "code": "UPDATE67",
-   "reward": "67 Bedrocks"
-  },
-  {
    "code": "TOP1DUDU",
    "reward": "10x DuDu"
   },
@@ -37,6 +33,10 @@
   {
    "code": "MOGGITY",
    "reward": "10x Barrier"
+  },
+  {
+   "code": "UPDATE67",
+   "reward": "67 Bedrocks"
   },
   {
    "code": "WMEMBER67",
@@ -67,6 +67,6 @@
    "reward": "10x Bedrock"
   }
  ],
- "updated": "2026-10-17T20:30:10.572Z",
+ "updated": "2026-10-19T04:09:38.119Z",
  "source": "https://robloxden.com/game-codes/build-base-to-survive-verity"
 }

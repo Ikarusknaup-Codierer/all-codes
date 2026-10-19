@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Champion",
+   "reward": "10 Chance Crates"
+  },
+  {
    "code": "BugFix",
    "reward": "100 Coins"
   },
   {
-   "code": "TrophyEvent",
-   "reward": "Free Rewards"
+   "code": "NewContent",
+   "reward": "50 EXP"
   },
   {
-   "code": "NewPlaza",
+   "code": "GymUpdate",
    "reward": "100 Coins"
   },
   {
-   "code": "RevampedDribbles",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "100XP",
-   "reward": "100 EXP"
+   "code": "30k",
+   "reward": "150 EXP"
   }
  ],
- "updated": "2026-10-17T20:27:26.127Z",
+ "updated": "2026-10-19T04:07:20.764Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

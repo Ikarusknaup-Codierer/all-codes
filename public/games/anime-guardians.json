@@ -151,10 +151,14 @@
    "reward": "1 Limit Breaker"
   },
   {
-   "code": "TESTER",
-   "reward": ""
+   "code": "JOJO_AGAIN",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "NewReroll",
+   "reward": "5 Artifact Trait Rerolls"
   }
  ],
- "updated": "2026-10-17T15:29:06.253Z",
+ "updated": "2026-10-19T04:02:18.549Z",
  "source": "https://robloxden.com/game-codes/anime-guardians"
 }

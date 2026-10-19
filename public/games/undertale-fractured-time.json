@@ -11,10 +11,6 @@
    "reward": "10 Dungeon Keys"
   },
   {
-   "code": "5500LIKES",
-   "reward": "1 Lucky Soul Capsule , 5 Bad Memory , 5 Spray Can , 20 Minutes of 2x E"
-  },
-  {
    "code": "LUCKMAXER",
    "reward": "10 Lucky Spins"
   },
@@ -37,8 +33,12 @@
   {
    "code": "HOMETOWNPEAK",
    "reward": "5 Weapon Loaders , 5 Soul Loaders , and 10 Minutes of 2x EXP"
+  },
+  {
+   "code": "5500LIKES",
+   "reward": "1 Lucky Soul Capsule , 5 Bad Memory , 5 Spray Can , 20 Minutes of 2x E"
   }
  ],
- "updated": "2026-10-18T03:56:52.003Z",
+ "updated": "2026-10-19T12:48:20.188Z",
  "source": "https://robloxden.com/game-codes/undertale-fractured-time"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD5",
+   "reward": "the Rewards"
+  },
+  {
+   "code": "GALAXY",
+   "reward": "the Free Potions"
+  },
+  {
+   "code": "ANIME",
+   "reward": "the Free Potions"
+  },
+  {
+   "code": "BUNDLES",
+   "reward": "the Rewards"
+  },
+  {
    "code": "FUSE",
    "reward": "Rewards"
   },
@@ -23,6 +39,6 @@
    "reward": "2x Jitsu Potion and 2x Wins Potion"
   }
  ],
- "updated": "2026-10-18T03:52:38.191Z",
+ "updated": "2026-10-19T12:43:41.137Z",
  "source": "https://robloxden.com/game-codes/spinjitsu-escape"
 }

@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "WOOF",
-   "reward": "250 Coins"
-  },
-  {
    "code": "500K",
    "reward": "500 Coins"
   },
   {
    "code": "ThisGameIsAwesome",
    "reward": ""
+  },
+  {
+   "code": "WOOF",
+   "reward": "250 Coins"
   },
   {
    "code": "PUPPY",
@@ -27,6 +27,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-17T20:37:15.071Z",
+ "updated": "2026-10-19T12:43:11.098Z",
  "source": "https://robloxden.com/game-codes/pet-store-tycoon"
 }

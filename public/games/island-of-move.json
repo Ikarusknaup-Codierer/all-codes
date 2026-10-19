@@ -31,14 +31,22 @@
    "reward": "the Crystalline Companion"
   },
   {
+   "code": "SETTINGTHEPACE",
+   "reward": "Running Man Emote"
+  },
+  {
    "code": "VICTORYRUN",
    "reward": "Build It Backpack"
+  },
+  {
+   "code": "MOVEIT2025",
+   "reward": "Cardio Crank Animation Pack"
   },
   {
    "code": "WONDERLAND",
    "reward": "Mystic Wings Accessory"
   }
  ],
- "updated": "2026-10-18T03:58:17.102Z",
+ "updated": "2026-10-19T12:49:52.880Z",
  "source": "https://robloxden.com/game-codes/island-of-move"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Farewell_CRH",
-   "reward": "80 Hearts"
-  },
-  {
    "code": "ANNIVERSARY-8",
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   },
@@ -55,6 +51,10 @@
    "reward": "1 Million RC , 10 Million Yen , 30 Color Credits , and 20 Hearts"
   },
   {
+   "code": "Farewell_CRH",
+   "reward": "80 Hearts"
+  },
+  {
    "code": "IwaSpecHotfixShenanigans",
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   },
@@ -71,6 +71,6 @@
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   }
  ],
- "updated": "2026-10-17T20:36:54.038Z",
+ "updated": "2026-10-19T12:42:50.852Z",
  "source": "https://robloxden.com/game-codes/ro-ghoul"
 }

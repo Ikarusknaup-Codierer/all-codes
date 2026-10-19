@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPD20261003",
+   "reward": "20 Potion Chest and 5 Rare Potion Chest"
+  },
+  {
    "code": "GargantuaBiome",
    "reward": "20 Potion Crates and 5 Rare Potion Chests"
   },
@@ -17,12 +21,8 @@
   {
    "code": "word9999aura",
    "reward": "100 Potion Chests , 60 Rare Potion Chests , and 40 Mega Potion Chests"
-  },
-  {
-   "code": "Crawler",
-   "reward": "Potions And Coins"
   }
  ],
- "updated": "2026-10-18T03:52:28.168Z",
+ "updated": "2026-10-19T12:43:29.849Z",
  "source": "https://robloxden.com/game-codes/sols-rng"
 }

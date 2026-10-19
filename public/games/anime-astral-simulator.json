@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SANDEVISTAN",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "CYBERDECK",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "NIGHTCITY",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "UPDATE17",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
    "code": "GUILDPOINTS",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -513,8 +529,12 @@
   {
    "code": "30KPLAYERS",
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "150 F2P Tickets and 5 Potions"
   }
  ],
- "updated": "2026-10-18T03:56:13.667Z",
+ "updated": "2026-10-19T12:47:38.849Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

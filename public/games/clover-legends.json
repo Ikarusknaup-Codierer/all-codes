@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NIGHTFALL",
+   "reward": "500 Gems and 10,000 Yul"
+  },
+  {
+   "code": "WORLDBOSS",
+   "reward": "500 Gems and 3 Race Rerolls"
+  },
+  {
    "code": "TREASURE50K",
    "reward": "a Wind Spirit Aura"
   },
@@ -103,6 +111,6 @@
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-10-18T03:54:48.510Z",
+ "updated": "2026-10-19T12:46:05.585Z",
  "source": "https://robloxden.com/game-codes/clover-legends"
 }

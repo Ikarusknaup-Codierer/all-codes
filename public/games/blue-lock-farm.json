@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BALLS",
+   "reward": "1 Monster Ball , 1 Supercharged Ball , and 1 Beach Ball"
+  },
+  {
+   "code": "ADMINABUSE2",
+   "reward": "the Monster Ball"
+  },
+  {
    "code": "WEATHER",
    "reward": "5 Grade Tokens and a Luck Potion"
   },
@@ -23,6 +31,6 @@
    "reward": "25 Trait Tokens"
   }
  ],
- "updated": "2026-10-18T03:55:17.041Z",
+ "updated": "2026-10-19T12:46:37.419Z",
  "source": "https://robloxden.com/game-codes/blue-lock-farm"
 }

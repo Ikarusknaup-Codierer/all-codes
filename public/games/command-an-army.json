@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SKILLTREE",
+   "reward": "5x Skill Crystals"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "700 Gems and 2x Skill Crystals"
+  },
+  {
+   "code": "MONGOLS",
+   "reward": "1,000 Gems and 2x Skill Crystals"
+  },
+  {
+   "code": "LAESTRYGONIAN",
+   "reward": "700 Gems and 2x Skill Crystals"
+  },
+  {
    "code": "SATURDAY",
    "reward": "1,000 Gems"
   },
@@ -23,6 +39,6 @@
    "reward": "300 Gems"
   }
  ],
- "updated": "2026-10-18T03:56:50.816Z",
+ "updated": "2026-10-19T12:48:19.008Z",
  "source": "https://robloxden.com/game-codes/command-an-army"
 }

@@ -7,24 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "WeekendUpdate!",
-   "reward": "1.25 Hours of All Luck"
-  },
-  {
    "code": "MiniLuck",
    "reward": "30 Minutes of All Luck"
   },
   {
    "code": "x2Event",
    "reward": "3 Hours of All Luck"
-  },
-  {
-   "code": "BATTLEPASS",
-   "reward": "15 Minutes of Ultra Luck"
-  },
-  {
-   "code": "STARRK",
-   "reward": "5 Wheel Spins"
   },
   {
    "code": "UncappedAbilities",
@@ -41,6 +29,18 @@
   {
    "code": "MovesAndChanges!",
    "reward": "1 Hour and 15 Minutes of All Luck"
+  },
+  {
+   "code": "WeekendUpdate!",
+   "reward": "1.25 Hours of All Luck"
+  },
+  {
+   "code": "BATTLEPASS",
+   "reward": "15 Minutes of Ultra Luck"
+  },
+  {
+   "code": "STARRK",
+   "reward": "5 Wheel Spins"
   },
   {
    "code": "sorryimportantshutdown",
@@ -255,6 +255,6 @@
    "reward": "1 Fast Roll Boost"
   }
  ],
- "updated": "2026-10-18T03:57:19.717Z",
+ "updated": "2026-10-19T12:48:50.712Z",
  "source": "https://robloxden.com/game-codes/ultra-un-fair"
 }

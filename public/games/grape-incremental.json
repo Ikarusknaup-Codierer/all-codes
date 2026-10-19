@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Bye",
+   "reward": "1 Permanent Luck Aura"
+  },
+  {
    "code": "Thanks700Players",
    "reward": "a Permanent Aura Luck"
   },
@@ -35,6 +39,6 @@
    "reward": "5K Fruits and 100 Honey"
   }
  ],
- "updated": "2026-10-18T03:52:53.395Z",
+ "updated": "2026-10-19T12:43:58.479Z",
  "source": "https://robloxden.com/game-codes/grape-incremental"
 }

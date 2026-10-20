@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ASCENDANT",
+   "reward": "a Frozen Crate"
+  },
+  {
+   "code": "DEVS_SUCK",
+   "reward": "5 Spins"
+  },
+  {
    "code": "SEAL",
    "reward": "3 Wheel Spins"
   },
@@ -35,6 +43,6 @@
    "reward": "500 Gold"
   }
  ],
- "updated": "2026-10-19T04:04:51.249Z",
+ "updated": "2026-10-20T16:42:35.558Z",
  "source": "https://robloxden.com/game-codes/roll-a-fisherman"
 }

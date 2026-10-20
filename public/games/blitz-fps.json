@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ATTACHED",
+   "reward": "1 Crate"
+  },
+  {
    "code": "UFO",
    "reward": "1 Crate"
   },
@@ -43,6 +47,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-10-19T04:04:49.166Z",
+ "updated": "2026-10-20T16:42:33.170Z",
  "source": "https://robloxden.com/game-codes/blitz-fps"
 }

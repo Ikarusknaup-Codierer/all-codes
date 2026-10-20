@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "10klikes",
-   "reward": "20 Candy"
-  },
-  {
-   "code": "glowz20k",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "5klikes",
    "reward": "Free Rewards"
   },
@@ -23,10 +15,18 @@
    "reward": "Free Rewards"
   },
   {
+   "code": "10kfavs",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "glowz30k",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "10klikes",
+   "reward": "20 Candy"
   }
  ],
- "updated": "2026-10-19T04:03:22.015Z",
+ "updated": "2026-10-20T16:40:49.074Z",
  "source": "https://robloxden.com/game-codes/trick-or-treat"
 }

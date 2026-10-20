@@ -11,10 +11,6 @@
    "reward": "Ninja OGAT Tower"
   },
   {
-   "code": "40KLIKES",
-   "reward": "15 Small XP Potions , 10 Medium XP Potions , and 5 Large XP Potions"
-  },
-  {
    "code": "FreeCrystal",
    "reward": "1,000 Crystals"
   },
@@ -25,6 +21,10 @@
   {
    "code": "WEAREBACK",
    "reward": "10x Small XP Potions , 10x Medium XP Potions , and 10x Large XP Potion"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "15 Small XP Potions , 10 Medium XP Potions , and 5 Large XP Potions"
   },
   {
    "code": "20klikes",
@@ -39,6 +39,6 @@
    "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-10-19T04:03:12.407Z",
+ "updated": "2026-10-20T16:40:37.116Z",
  "source": "https://robloxden.com/game-codes/toilet-verse-tower-defense"
 }

@@ -59,14 +59,14 @@
    "reward": "20 Spins"
   },
   {
-   "code": "PlanetHotlineBuff",
-   "reward": "10 Spins"
-  },
-  {
    "code": "Shutdown0",
    "reward": "5 Spins"
+  },
+  {
+   "code": "BACKBURST",
+   "reward": "13 Spins"
   }
  ],
- "updated": "2026-10-19T04:08:15.563Z",
+ "updated": "2026-10-20T16:46:31.092Z",
  "source": "https://robloxden.com/game-codes/meta-lock"
 }

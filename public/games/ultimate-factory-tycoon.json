@@ -15,18 +15,18 @@
    "reward": "Free Cash"
   },
   {
-   "code": "CHESTS",
-   "reward": "Free Chest"
+   "code": "EVENT",
+   "reward": "Cash"
+  },
+  {
+   "code": "UFTROCKS",
+   "reward": "15,000 Cash"
   },
   {
    "code": "ARMOR",
    "reward": "5,000 Cash"
-  },
-  {
-   "code": "SEASON2",
-   "reward": "8,000 Cash"
   }
  ],
- "updated": "2026-10-19T12:44:49.716Z",
+ "updated": "2026-10-20T16:52:06.676Z",
  "source": "https://robloxden.com/game-codes/ultimate-factory-tycoon"
 }

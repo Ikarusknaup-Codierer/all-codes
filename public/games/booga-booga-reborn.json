@@ -11,16 +11,16 @@
    "reward": "500 Coins"
   },
   {
+   "code": "ANCIENTBOOGA",
+   "reward": "Rewards"
+  },
+  {
    "code": "WORMFOOD!",
    "reward": "10 Worms"
   },
   {
    "code": "STRANGEFOOD",
    "reward": "5 Strange Fish"
-  },
-  {
-   "code": "ANCIENTBOOGA",
-   "reward": "Rewards"
   },
   {
    "code": "WINDOWS",
@@ -39,6 +39,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-19T04:01:36.775Z",
+ "updated": "2026-10-20T16:38:43.895Z",
  "source": "https://robloxden.com/game-codes/booga-booga-reborn"
 }

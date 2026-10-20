@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "cupgame",
+   "reward": "1 Minigame"
+  },
+  {
    "code": "WOWPEARLZ",
    "reward": "50 Pearls"
   },
@@ -123,14 +127,14 @@
    "reward": "Speech Bubble"
   },
   {
-   "code": "goals",
-   "reward": "1 Minigame Pick"
+   "code": "100mvisits",
+   "reward": "100 Coins"
   },
   {
    "code": "200kfans",
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-10-19T04:08:04.389Z",
+ "updated": "2026-10-20T16:46:18.877Z",
  "source": "https://robloxden.com/game-codes/silly-simon-says"
 }

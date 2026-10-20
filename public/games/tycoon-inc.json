@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FLOOR5",
+   "reward": "250 Coins , 10 Painite , and 10 Cubits"
+  },
+  {
    "code": "PointZero",
    "reward": "2 Painite"
   },
@@ -27,6 +31,6 @@
    "reward": "exclusive rewards"
   }
  ],
- "updated": "2026-10-19T04:02:46.217Z",
+ "updated": "2026-10-20T16:40:07.551Z",
  "source": "https://robloxden.com/game-codes/tycoon-inc"
 }

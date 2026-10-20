@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PYRAMID",
+   "reward": "3 Ultra Dice"
+  },
+  {
    "code": "NIGHTMARE",
    "reward": "2 Ultra Dice"
   },
@@ -35,6 +39,6 @@
    "reward": "2 Jackpot Dice"
   }
  ],
- "updated": "2026-10-19T04:04:48.711Z",
+ "updated": "2026-10-20T16:42:32.600Z",
  "source": "https://robloxden.com/game-codes/sword-rng-x"
 }

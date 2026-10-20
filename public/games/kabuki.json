@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "GANGWAR",
-   "reward": "25 Rerolls"
-  },
-  {
    "code": "BUGS",
    "reward": "25 Rerolls"
   },
@@ -23,10 +19,14 @@
    "reward": "10 Rerolls"
   },
   {
+   "code": "OG",
+   "reward": "50 Rerolls"
+  },
+  {
    "code": "PATCH",
    "reward": "50 Rerolls"
   }
  ],
- "updated": "2026-10-19T04:01:57.488Z",
+ "updated": "2026-10-20T16:39:08.200Z",
  "source": "https://robloxden.com/game-codes/kabuki"
 }

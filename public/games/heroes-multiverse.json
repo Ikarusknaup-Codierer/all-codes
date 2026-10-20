@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "MAINTENANCE",
-   "reward": "6,000 Coins"
+   "code": "YAYCOINS",
+   "reward": "20,000 Coins"
   },
   {
-   "code": "ICE!",
-   "reward": "10 Premium Rolls"
+   "code": "BARBERSHOP!",
+   "reward": "Hair Color Reroll"
   },
   {
-   "code": "EASTER",
+   "code": "CHAOS",
    "reward": "Free Coins"
   },
   {
-   "code": "WITCHBAG",
+   "code": "SAYHELLO",
    "reward": "Free Coins"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "12,000 Coins"
   }
  ],
- "updated": "2026-10-19T04:06:05.786Z",
+ "updated": "2026-10-20T16:44:03.551Z",
  "source": "https://robloxden.com/game-codes/heroes-multiverse"
 }

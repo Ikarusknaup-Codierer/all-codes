@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BIGPATCH",
+   "reward": "100 Krowns"
+  },
+  {
    "code": "GROUP10K",
    "reward": "400 Krowns"
   },
@@ -15,6 +19,6 @@
    "reward": "some krowns"
   }
  ],
- "updated": "2026-10-19T12:45:50.220Z",
+ "updated": "2026-10-20T21:31:18.315Z",
  "source": "https://robloxden.com/game-codes/death-valley"
 }

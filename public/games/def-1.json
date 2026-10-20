@@ -63,10 +63,6 @@
    "reward": "1 Chat Token"
   },
   {
-   "code": "candy",
-   "reward": "1 Basic Crate"
-  },
-  {
    "code": "settingsnoway",
    "reward": "1 Chat Token"
   },
@@ -151,10 +147,14 @@
    "reward": "1 Basic Crate"
   },
   {
+   "code": "candy",
+   "reward": "1 Basic Crate"
+  },
+  {
    "code": "soonTM",
    "reward": "1 Basic Crate"
   }
  ],
- "updated": "2026-10-19T12:48:00.655Z",
+ "updated": "2026-10-20T21:33:29.187Z",
  "source": "https://robloxden.com/game-codes/def-1"
 }

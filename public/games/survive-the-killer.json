@@ -11,10 +11,6 @@
    "reward": "Unknown Reward"
   },
   {
-   "code": "5MILLION",
-   "reward": "100 Coins And 50 XP"
-  },
-  {
    "code": "10M",
    "reward": "10 Million Celebration Knife"
   },
@@ -25,8 +21,12 @@
   {
    "code": "vote1m",
    "reward": "Millionth Slycer"
+  },
+  {
+   "code": "NEWYEARGRIND",
+   "reward": "a 60 Minute XP Boost"
   }
  ],
- "updated": "2026-10-19T12:42:08.791Z",
+ "updated": "2026-10-20T21:28:25.056Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

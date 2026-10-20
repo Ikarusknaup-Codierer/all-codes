@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "somethingnew",
+   "reward": "Rewards"
+  },
+  {
    "code": "OopsAsgoreDied",
    "reward": "250,000 EXP , 150x Souls , 200,000 DT , and 85 Gems"
   },
@@ -27,14 +31,14 @@
    "reward": "1 Exp , 1 Soul , 1 DT and 500 Gold"
   },
   {
-   "code": "1MILVISITS",
-   "reward": "1k XP, 1k DT, 40 Souls, And Bonus Items"
-  },
-  {
    "code": "SUMMER2022",
    "reward": "300 Gold"
+  },
+  {
+   "code": "UTA3YEARS",
+   "reward": "130 Souls , 300,000 XP , 300,000 DT and 730 G"
   }
  ],
- "updated": "2026-10-19T12:46:40.444Z",
+ "updated": "2026-10-20T21:32:07.997Z",
  "source": "https://robloxden.com/game-codes/undertale-arena"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "adminabuse",
+   "reward": "3 Green Apples"
+  },
+  {
    "code": "School",
    "reward": "2x Green Apple"
   },
@@ -27,6 +31,6 @@
    "reward": "a Tier 3 Clicks Potion , a Tier 3 Click Speed Potion , a Tier 3 Gems P"
   }
  ],
- "updated": "2026-10-19T04:09:20.438Z",
+ "updated": "2026-10-20T21:26:27.042Z",
  "source": "https://robloxden.com/game-codes/clicker-simulator"
 }

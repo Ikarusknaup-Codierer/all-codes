@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "nevelE-7",
+   "reward": "6 Hours of Metallic Luck"
+  },
+  {
+   "code": "DarkonianWaits",
+   "reward": "2 Hours of Metallic Luck"
+  },
+  {
    "code": "GoodGrief!",
    "reward": "x2 Shiny Boost (2 Hours)"
   },
@@ -211,6 +219,10 @@
    "reward": "a 1 Hour 2x Gold Boost"
   },
   {
+   "code": "NightwhispWeavesThroughMoonlitTrees",
+   "reward": "2 Hours of Shiny Luck"
+  },
+  {
    "code": "GrimWalksSilentPaths",
    "reward": "2 Hours of Gold Boost"
   },
@@ -235,6 +247,6 @@
    "reward": "2 hours of x2 Metallic Boost"
   }
  ],
- "updated": "2026-10-19T12:48:02.373Z",
+ "updated": "2026-10-20T21:33:31.060Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

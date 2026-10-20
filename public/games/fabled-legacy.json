@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "NIGHTMARES",
+   "reward": "15 Minutes of Each Boost"
+  },
+  {
+   "code": "145KLIKES",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "MINDLESS",
+   "reward": "100 Gems"
+  },
+  {
    "code": "SLEEPY",
    "reward": "15 minutes of each Boost"
   },
@@ -67,6 +79,6 @@
    "reward": "100 Gems"
   }
  ],
- "updated": "2026-10-19T04:08:47.461Z",
+ "updated": "2026-10-20T21:26:11.212Z",
  "source": "https://robloxden.com/game-codes/fabled-legacy"
 }

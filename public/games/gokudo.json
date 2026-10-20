@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "FASTERNOW",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "ALLGOOD",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "TOURNAMENT",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "NEWAPP",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "RPSERVER",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "SMOOTHWALK",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "BYEHACKER",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "PLEASETRYAGAIN",
+   "reward": "50 Rerolls"
+  },
+  {
    "code": "HYAKUNIN",
    "reward": "50 Rerolls"
   },
@@ -119,6 +151,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-10-19T12:43:44.981Z",
+ "updated": "2026-10-20T21:29:56.182Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

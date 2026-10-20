@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DRAGON",
+   "reward": "1 Dragon Fruit Seed"
+  },
+  {
    "code": "FRUITY",
    "reward": "2 Pineapples"
   },
@@ -27,6 +31,6 @@
    "reward": "Pumpkins"
   }
  ],
- "updated": "2026-10-19T12:49:28.393Z",
+ "updated": "2026-10-20T21:34:42.631Z",
  "source": "https://robloxden.com/game-codes/race-horses"
 }

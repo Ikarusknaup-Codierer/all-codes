@@ -15,14 +15,18 @@
    "reward": "1,000 Cash"
   },
   {
-   "code": "UPDATE1",
+   "code": "UPDATE2",
    "reward": "1,000 Cash"
   },
   {
-   "code": "UPDATE4",
+   "code": "MUSEUM",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "WOLFY",
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-10-19T12:43:05.468Z",
+ "updated": "2026-10-20T21:29:19.237Z",
  "source": "https://robloxden.com/game-codes/museum-tycoon"
 }

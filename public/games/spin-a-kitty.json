@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BEE",
+   "reward": "150 Gems , 10x Gold Dice , and 5x Astral Dice"
+  },
+  {
+   "code": "GUD",
+   "reward": "50 Gems , 5x Gold Dice , 10x Refined Dice , 3x Astral Dice , and 25x B"
+  },
+  {
+   "code": "HAT",
+   "reward": "10 Gems , 2x Radiant Dice , 10x Gold Dice , and 5x Astral Dice"
+  },
+  {
+   "code": "TOOT",
+   "reward": "5 Auric Dice"
+  },
+  {
    "code": "KITTYKAT",
    "reward": "200 Gems, 15 Magnetic Dice, 15 Radiant Dice, 20 Auric Dice and 100 Ref"
   },
@@ -79,6 +95,6 @@
    "reward": "500K Cash, 200 Gems, 100 Refined Dice, 50 Auric Dice, 10 Obsidian Dice"
   }
  ],
- "updated": "2026-10-19T12:49:32.871Z",
+ "updated": "2026-10-20T21:34:45.892Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

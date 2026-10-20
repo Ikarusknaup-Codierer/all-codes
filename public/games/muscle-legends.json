@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "overchargedpart2",
+   "reward": "1,000 Crystals"
+  },
+  {
    "code": "OVERCHARGE",
    "reward": "a 100 Crystals"
   },
@@ -99,6 +103,6 @@
    "reward": "250 Agility"
   }
  ],
- "updated": "2026-10-19T04:09:35.288Z",
+ "updated": "2026-10-20T21:26:34.557Z",
  "source": "https://robloxden.com/game-codes/muscle-legends"
 }

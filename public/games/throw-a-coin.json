@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD8",
+   "reward": "x8 Luck (8 mins)"
+  },
+  {
    "code": "ETERNITY",
    "reward": "15 Luck (10 Minutes)"
   },
@@ -59,6 +63,6 @@
    "reward": "1 Rainbow Treasure Chest"
   }
  ],
- "updated": "2026-10-19T12:49:22.087Z",
+ "updated": "2026-10-20T21:34:38.471Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

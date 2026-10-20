@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "NEW",
-   "reward": "New"
-  },
-  {
    "code": "JUNGLELIFE",
    "reward": "50 Gems"
+  },
+  {
+   "code": "HOLIDAY",
+   "reward": "2,000 Cash"
   },
   {
    "code": "HEART",
@@ -25,8 +25,12 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
+  },
+  {
+   "code": "NEW",
+   "reward": "New"
   }
  ],
- "updated": "2026-10-19T12:44:05.784Z",
+ "updated": "2026-10-20T21:30:15.600Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

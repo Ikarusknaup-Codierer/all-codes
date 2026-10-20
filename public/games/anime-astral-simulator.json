@@ -447,6 +447,10 @@
    "reward": "150 F2P Tickets and 5 Potions"
   },
   {
+   "code": "35KLIKES",
+   "reward": "150 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Poti"
+  },
+  {
    "code": "SKILLTREE",
    "reward": "150 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Poti"
   },
@@ -461,6 +465,10 @@
   {
    "code": "DUNGEONS",
    "reward": "150 F2P Tickets and 1 of Each Potion"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "150 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
   {
    "code": "DIVINEPASSIVES",
@@ -531,10 +539,10 @@
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   },
   {
-   "code": "100KVISITS",
-   "reward": "150 F2P Tickets and 5 Potions"
+   "code": "25KPLAYERS",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-10-19T12:47:38.849Z",
+ "updated": "2026-10-20T21:33:07.684Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

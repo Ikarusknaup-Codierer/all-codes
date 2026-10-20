@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ryszard",
+   "reward": "the Free Rewards . You need to be level 25 to redeem this code"
+  },
+  {
    "code": "2Mvisits",
    "reward": "10,000 Money . To use this code, you must first reach Level 30"
   },
@@ -155,6 +159,6 @@
    "reward": "100 Cash"
   }
  ],
- "updated": "2026-10-18T15:45:06.255Z",
+ "updated": "2026-10-20T04:21:28.832Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

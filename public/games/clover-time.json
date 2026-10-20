@@ -15,8 +15,16 @@
    "reward": "the Crystal Notifier (30 Minutes)"
   },
   {
+   "code": "100KFAVS",
+   "reward": "the Crystal Notifier (2 Hours)"
+  },
+  {
    "code": "50KLIKES",
    "reward": "50 Spins"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "100% Luck (1 Hour)"
   },
   {
    "code": "40KLIKESGG",
@@ -79,10 +87,22 @@
    "reward": "25 Spins and 5 Medium Chests"
   },
   {
+   "code": "5KLIKES",
+   "reward": "15 Spins , 3 Medium Chests , and a Big Chest"
+  },
+  {
+   "code": "FIRSTSHUTDOWN",
+   "reward": "25 Spins and 5 Crystal Mana"
+  },
+  {
+   "code": "5KFAVS",
+   "reward": "10 Normal Chests , 5 Medium Chests , and a Big Chest"
+  },
+  {
    "code": "1KLIKES",
    "reward": "a Crystal Mana , 25 Spins , and 10 Normal Chests"
   }
  ],
- "updated": "2026-10-18T15:47:31.123Z",
+ "updated": "2026-10-20T04:23:26.345Z",
  "source": "https://robloxden.com/game-codes/clover-time"
 }

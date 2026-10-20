@@ -11,22 +11,18 @@
    "reward": "5 Potions of Each and a Legendary Chest"
   },
   {
-   "code": "Sorry!",
-   "reward": "5 Elixir Potions And 5 Luck Potions"
+   "code": "NextUPDOut!",
+   "reward": "Two Of Each Potion"
+  },
+  {
+   "code": "LimitedCODE!",
+   "reward": "Pekka Chest And 2x Elixir Potions"
   },
   {
    "code": "NEWYEAR26!",
    "reward": "3 x10 Luck Potions, And 3 x10 Elixir Potions"
-  },
-  {
-   "code": "THANKYOU",
-   "reward": "Freebies"
-  },
-  {
-   "code": "UncStatus",
-   "reward": "1 Chest"
   }
  ],
- "updated": "2026-10-18T15:39:14.990Z",
+ "updated": "2026-10-20T04:16:53.680Z",
  "source": "https://robloxden.com/game-codes/clash-rng"
 }

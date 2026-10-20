@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SERVERBROWSER",
+   "reward": "2,000 Credits and 2x Credits (30 minutes)"
+  },
+  {
+   "code": "LEARNTHEROPES",
+   "reward": "1,000 Credits and 3x Quest Coins"
+  },
+  {
    "code": "FALL2026",
    "reward": "1,000 credits"
   },
@@ -55,6 +63,6 @@
    "reward": "750 Credits"
   }
  ],
- "updated": "2026-10-18T15:42:04.027Z",
+ "updated": "2026-10-20T04:18:18.746Z",
  "source": "https://robloxden.com/game-codes/catch-a-fade-2"
 }

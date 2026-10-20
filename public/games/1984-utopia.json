@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BRIBE",
+   "reward": "300 Varoons"
+  },
+  {
+   "code": "TAILOR",
+   "reward": "300 Cash"
+  },
+  {
+   "code": "FASTFIXES",
+   "reward": "500 Cash"
+  },
+  {
    "code": "GUNADIUM",
    "reward": "$101"
   },
@@ -15,6 +27,6 @@
    "reward": "1,000 Money"
   }
  ],
- "updated": "2026-10-18T10:49:36.037Z",
+ "updated": "2026-10-20T04:14:59.986Z",
  "source": "https://robloxden.com/game-codes/1984-utopia"
 }

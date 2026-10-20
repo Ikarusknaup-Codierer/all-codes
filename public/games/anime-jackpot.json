@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GOBLIN",
+   "reward": "25 RR"
+  },
+  {
+   "code": "DEVIL",
+   "reward": "6,666 Stars"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "the Mutation Potion I"
+  },
+  {
    "code": "GUILD",
    "reward": "3 Weather Potions"
   },
@@ -39,6 +51,6 @@
    "reward": "3,000 Stars"
   }
  ],
- "updated": "2026-10-18T15:42:35.359Z",
+ "updated": "2026-10-20T04:18:51.304Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

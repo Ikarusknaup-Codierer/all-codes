@@ -7,20 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "MINING",
+   "reward": "1 of Each Path Potion and 10 Tickets"
+  },
+  {
+   "code": "WORLD9PT1",
+   "reward": "1 Ore Potion and 10 Jade"
+  },
+  {
    "code": "HARDTRAINING",
    "reward": "10 Tickets , 20 Jade , and 5 of Each Mark Potion"
   },
   {
    "code": "WORLD8PT2",
    "reward": "5 Tickets and 1 of Each Path Potion"
-  },
-  {
-   "code": "DUNGEON5",
-   "reward": "20 Jades and 5 Tickets"
-  },
-  {
-   "code": "CATACOMBS",
-   "reward": "15 Jades and 5 Pots of Ore"
   },
   {
    "code": "HEAVENHASFALLEN",
@@ -343,6 +343,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-10-18T10:48:16.931Z",
+ "updated": "2026-10-20T04:14:02.096Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

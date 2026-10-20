@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HUBUPDATE",
-   "reward": "200 Shards"
-  },
-  {
    "code": "BLINKYFISH",
    "reward": "the Blinky Mascot Companion"
   },
@@ -79,10 +75,10 @@
    "reward": "50 Admin Abuse Tickets"
   },
   {
-   "code": "QUICK25",
-   "reward": "25 Shards"
+   "code": "HUBUPDATE",
+   "reward": "200 Shards"
   }
  ],
- "updated": "2026-10-18T10:48:46.007Z",
+ "updated": "2026-10-20T04:14:14.627Z",
  "source": "https://robloxden.com/game-codes/faith-incremental"
 }

@@ -7,28 +7,24 @@
    "reward": "Description"
   },
   {
+   "code": "!20kfavourites",
+   "reward": "5 Unstable Nichirin Appearance Reroll Potions , 5 Unstable Nichirin Co"
+  },
+  {
+   "code": "!update4",
+   "reward": "15 Unstable Clan Reroll Potions , 10 Unstable BDA Reroll Potions , 1 U"
+  },
+  {
+   "code": "!update4boost",
+   "reward": "2x Drop Rate (2 Hours) and 2x Yen (2 Hours)"
+  },
+  {
    "code": "ireadtips",
    "reward": "1 Unstable Clan Reroll Potion"
   },
   {
-   "code": "!freemugen2",
-   "reward": "1 Mugen Train Ticket"
-  },
-  {
    "code": "3mvisits",
    "reward": "5 Unstable Reroll Potions , 3 Unstable BDA Reroll Potions , and an Uns"
-  },
-  {
-   "code": "imback",
-   "reward": "1 of Each Runes"
-  },
-  {
-   "code": "!animationsbugfix",
-   "reward": "2 Unstable Clan Reroll Potions"
-  },
-  {
-   "code": "!summerevent2026",
-   "reward": "15 Unstable Clan Reroll Potions , 3 Unstable BDA Potions , 1 Breathing"
   },
   {
    "code": "!summerboost2026",
@@ -71,6 +67,6 @@
    "reward": "2x Drop Rate Boost (2 Hours) and 2x Yen Boost (2 Hours)"
   }
  ],
- "updated": "2026-10-18T15:41:42.504Z",
+ "updated": "2026-10-20T04:17:56.073Z",
  "source": "https://robloxden.com/game-codes/untitled-slayer"
 }

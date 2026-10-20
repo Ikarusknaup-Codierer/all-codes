@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE5",
+   "reward": "9,999 Insanity and 2x Essence"
+  },
+  {
+   "code": "MOUNTS",
+   "reward": "6,332 Insanity and 2x Essence"
+  },
+  {
    "code": "SKYBEAST",
    "reward": "9,999 Insanity and 2 Essence"
   },
@@ -39,6 +47,6 @@
    "reward": "5,000 Insanity and an Essence"
   }
  ],
- "updated": "2026-10-18T20:23:52.121Z",
+ "updated": "2026-10-20T11:14:21.827Z",
  "source": "https://robloxden.com/game-codes/journey-to-the-watchtower"
 }

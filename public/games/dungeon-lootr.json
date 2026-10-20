@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "EXPEDITION",
+   "reward": "15 Exotic Ingots , 10 GM Blessing III , 50 Mystery Boxes , and 5,000 S"
+  },
+  {
+   "code": "SLIME",
+   "reward": "50 Lucky Spins , 5 Perfect Reforge Stones , and 5 Spirit Prisms"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "50 Lucky Spins , 10 Affix Seals , and 20 Reforge Stone Bundles"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "15 Perfect Reforge Stones , 15 Spirit Prisms , and 15 Exotic Ingots"
+  },
+  {
+   "code": "OKAMI",
+   "reward": "200 Expedition Points , a Revive Sigil , and 5 Reforge Stones"
+  },
+  {
    "code": "HAWK",
    "reward": "5 Aspect Gems , 20 Lucky Spins , 2 Exotic Ingots and 4 Perfect Reforge"
   },
@@ -103,6 +123,6 @@
    "reward": "2 Random GM Blessing chests"
   }
  ],
- "updated": "2026-10-18T20:23:49.813Z",
+ "updated": "2026-10-20T11:14:19.623Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

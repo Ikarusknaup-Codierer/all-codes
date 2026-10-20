@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "XMAS",
-   "reward": "100 Snowflakes"
-  },
-  {
-   "code": "HALLOWEEN",
-   "reward": "1 Spooky Crate"
-  },
-  {
-   "code": "FALL_FESTIVAL",
-   "reward": "1 Fall Seed Pack"
-  },
-  {
    "code": "MIGHTY_FAIRIES",
    "reward": "1 Enchanted Crate"
   },
@@ -99,14 +87,18 @@
    "reward": "1 Honey Seed Pack"
   },
   {
-   "code": "UNTITLED_CODE",
-   "reward": ""
+   "code": "XMAS",
+   "reward": "100 Snowflakes"
   },
   {
-   "code": "WEATHERS",
-   "reward": "15 Gems"
+   "code": "HALLOWEEN",
+   "reward": "1 Spooky Crate"
+  },
+  {
+   "code": "FALL_FESTIVAL",
+   "reward": "1 Fall Seed Pack"
   }
  ],
- "updated": "2026-10-18T20:25:11.980Z",
+ "updated": "2026-10-20T11:15:34.907Z",
  "source": "https://robloxden.com/game-codes/grow-a-unit-td"
 }

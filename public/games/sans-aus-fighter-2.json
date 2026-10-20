@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "elcocossokindtodaygivingfreegold",
-   "reward": "25 Gold"
-  },
-  {
-   "code": "freegold",
-   "reward": "25 Gold"
-  },
-  {
-   "code": "fatcocos",
-   "reward": "25 Gold"
-  },
-  {
    "code": "Sub2Unrel",
    "reward": "100 Experience"
   },
@@ -47,10 +35,18 @@
    "reward": "100 Experience"
   },
   {
-   "code": "1YearSAF2",
-   "reward": "100,000 Exp and 150 Gold"
+   "code": "elcocossokindtodaygivingfreegold",
+   "reward": "25 Gold"
+  },
+  {
+   "code": "freegold",
+   "reward": "25 Gold"
+  },
+  {
+   "code": "fatcocos",
+   "reward": "25 Gold"
   }
  ],
- "updated": "2026-10-18T20:23:07.249Z",
+ "updated": "2026-10-20T11:13:40.199Z",
  "source": "https://robloxden.com/game-codes/sans-aus-fighter-2"
 }

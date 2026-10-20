@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LUCKYFROG",
-   "reward": "5,000 Coins and 5,000 Shards"
-  },
-  {
-   "code": "SQUIRREL",
-   "reward": "5k Coins and 5K Shards"
-  },
-  {
    "code": "GALANTOSTUDIOS",
    "reward": "25K Coins"
   },
@@ -25,6 +17,18 @@
   {
    "code": "PETS",
    "reward": "7,000 Coins and 72,000 Shards"
+  },
+  {
+   "code": "MOONLIGHT",
+   "reward": "6,500 Coins and 7,500 Shards"
+  },
+  {
+   "code": "LUCKYFROG",
+   "reward": "5,000 Coins and 5,000 Shards"
+  },
+  {
+   "code": "SQUIRREL",
+   "reward": "5k Coins and 5K Shards"
   },
   {
    "code": "MAPLE",
@@ -39,6 +43,6 @@
    "reward": "6,000 Coins and 6,000 Shards"
   }
  ],
- "updated": "2026-10-18T20:23:29.840Z",
+ "updated": "2026-10-20T11:14:00.749Z",
  "source": "https://robloxden.com/game-codes/sleep-for-ugc"
 }

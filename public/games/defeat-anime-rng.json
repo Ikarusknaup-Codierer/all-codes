@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "upd7luck",
+   "reward": "a X2 Luck Boost for (1 Hour)"
+  },
+  {
+   "code": "upd7gold",
+   "reward": "a X2 Gold Boost for (3 Hours)"
+  },
+  {
+   "code": "tokyo",
+   "reward": "50 Star Shards"
+  },
+  {
+   "code": "ghoul",
+   "reward": "250 Trait Shards"
+  },
+  {
    "code": "upd6luck",
    "reward": "2 Luck Boost (1 Hour)"
   },
@@ -87,6 +103,6 @@
    "reward": "50 Trait Shards"
   }
  ],
- "updated": "2026-10-18T20:30:10.305Z",
+ "updated": "2026-10-20T11:20:23.215Z",
  "source": "https://robloxden.com/game-codes/defeat-anime-rng"
 }

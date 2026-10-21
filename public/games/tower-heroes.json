@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "qwertyuiopasdfghjklzxcvbnm",
+   "reward": "the Candy Keys Global Skin"
+  },
+  {
    "code": "MOO",
    "reward": "a Cow Global Skin"
   },
@@ -33,6 +37,14 @@
   {
    "code": "SPOOKTACULAR",
    "reward": "the Smiley Face Sticker"
+  },
+  {
+   "code": "halloween2020",
+   "reward": "the Green Jack O Lantern Global Skin"
+  },
+  {
+   "code": "PVPUPDATE",
+   "reward": "the Jester of Chaos Modifier"
   },
   {
    "code": "500MIL",
@@ -87,14 +99,6 @@
    "reward": "the Uniform Skin, Sticky! Sticker and Reese! Sticker"
   },
   {
-   "code": "halloween2020",
-   "reward": "the Green Jack O Lantern Global Skin"
-  },
-  {
-   "code": "PVPUPDATE",
-   "reward": "the Jester of Chaos Modifier"
-  },
-  {
    "code": "HEROESXBOX",
    "reward": "the Xbox Skin"
   },
@@ -115,6 +119,6 @@
    "reward": "the Team-Up Sticker"
   }
  ],
- "updated": "2026-10-19T22:15:36.177Z",
+ "updated": "2026-10-21T04:06:52.329Z",
  "source": "https://robloxden.com/game-codes/tower-heroes"
 }

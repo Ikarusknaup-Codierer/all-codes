@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BLESSING",
+   "reward": "Rewards"
+  },
+  {
    "code": "1MILVISITS",
    "reward": "Rewards"
   },
@@ -75,10 +79,10 @@
    "reward": "Rewards"
   },
   {
-   "code": "TRIALS",
+   "code": "BIGGIEDELAY",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-19T12:49:18.052Z",
+ "updated": "2026-10-21T04:02:21.533Z",
  "source": "https://robloxden.com/game-codes/card-rng-expansion"
 }

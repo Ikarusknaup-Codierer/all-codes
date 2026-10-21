@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "EFFECTCRATE",
+   "reward": "3 Effect Crates"
+  },
+  {
+   "code": "PAINTORSEEK",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "JUMPSCARE",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-10-19T22:14:43.550Z",
+ "updated": "2026-10-21T04:06:03.113Z",
  "source": "https://robloxden.com/game-codes/paint-or-seek"
 }

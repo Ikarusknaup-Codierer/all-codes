@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DragonBallSuperRelease!",
-   "reward": "10 Race Spins , 10 Gene Spins , and 10 Aura Spins"
-  },
-  {
    "code": "ThanksFor13kLikes!",
    "reward": "5 Race Spins , 5 Gene Spins , and 5 Aura Spins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "COMMONLUPDATE",
    "reward": "1 Race Spin , 3 Aura Spins , and 1 Gene Spin"
+  },
+  {
+   "code": "COMMONBANEBUG",
+   "reward": "2 Gene Spins"
   }
  ],
- "updated": "2026-10-19T22:18:34.831Z",
+ "updated": "2026-10-21T04:09:35.526Z",
  "source": "https://robloxden.com/game-codes/budokai-z"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GEMSDAY",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "GEMRAIN",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "COINRAIN",
+   "reward": "5,000 Coins"
+  },
+  {
    "code": "FREECOINS",
    "reward": "1,000 Coins"
   },
@@ -15,6 +27,6 @@
    "reward": "30 Gems"
   }
  ],
- "updated": "2026-10-19T22:13:29.661Z",
+ "updated": "2026-10-21T04:05:01.108Z",
  "source": "https://robloxden.com/game-codes/survive-the-night"
 }

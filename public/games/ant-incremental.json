@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Part3IsHere!",
-   "reward": "50 Tickets and 100 of Each JJK Pack"
-  },
-  {
-   "code": "ILoveYouGOJO!",
-   "reward": "50 Tickets , 10 JJK Pack 2s , and 5 Tier 3 Damage Potions"
-  },
-  {
    "code": "800KVisits",
    "reward": "50 Tickets and 10 Trait Rerolls"
   },
@@ -71,14 +63,14 @@
    "reward": "50 Tickets , 5 Tier 3 Damage Potions , and 5 Tier 3 HP Potions"
   },
   {
-   "code": "Invincible2",
-   "reward": "20 Tickets and 10 Invincible Pack 2s"
+   "code": "Part3IsHere!",
+   "reward": "50 Tickets and 100 of Each JJK Pack"
   },
   {
-   "code": "Invincible",
-   "reward": "30 Tickets , 10 Invincible Packs , and 10 Invincible Chests"
+   "code": "ILoveYouGOJO!",
+   "reward": "50 Tickets , 10 JJK Pack 2s , and 5 Tier 3 Damage Potions"
   }
  ],
- "updated": "2026-10-19T22:19:21.655Z",
+ "updated": "2026-10-21T04:10:17.509Z",
  "source": "https://robloxden.com/game-codes/ant-incremental"
 }

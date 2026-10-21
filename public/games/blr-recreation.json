@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FOLLOWINFACTZENINSOCIALS",
-   "reward": "1 WC Spin"
-  },
-  {
    "code": "5MVISITS",
    "reward": "5 Mythic Spins and 2 World Class Spins"
   },
@@ -41,6 +37,10 @@
   {
    "code": "SUBBLRMODDED",
    "reward": "2 World Class Spins"
+  },
+  {
+   "code": "FOLLOWINFACTZENINSOCIALS",
+   "reward": "1 WC Spin"
   },
   {
    "code": "STYLESHOP",
@@ -75,6 +75,6 @@
    "reward": "2 World Class Spins and 5 Mythic Spins"
   }
  ],
- "updated": "2026-10-19T22:19:01.456Z",
+ "updated": "2026-10-21T04:09:59.670Z",
  "source": "https://robloxden.com/game-codes/blr-recreation"
 }

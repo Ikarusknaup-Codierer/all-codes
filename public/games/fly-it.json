@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "FREESPIN",
+   "reward": "a Spin"
+  },
+  {
+   "code": "100LIKES",
+   "reward": "200 Coins and a Revive"
+  },
+  {
+   "code": "P1Mode",
+   "reward": "200 Coins and a Spin"
+  },
+  {
    "code": "250LIKES",
    "reward": "a 250 Coins , a Revive , and a Spin"
   }
  ],
- "updated": "2026-10-19T22:20:15.200Z",
+ "updated": "2026-10-21T04:11:06.932Z",
  "source": "https://robloxden.com/game-codes/fly-it"
 }

@@ -547,10 +547,14 @@
    "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
   },
   {
-   "code": "lk300k",
-   "reward": "a 20 Minute 2x Qi Boost and a 20 Minute 2x Spirit Stone Boost"
+   "code": "cool",
+   "reward": "1 Qi Boost , 1 Spirit Stone Boost , 1 Spell Drop Boost , 1 Lucky Boost"
+  },
+  {
+   "code": "welcome",
+   "reward": "a 20 Minute 2x Spirit Stone Boost"
   }
  ],
- "updated": "2026-10-19T22:17:51.657Z",
+ "updated": "2026-10-21T04:08:50.389Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-simulator"
 }

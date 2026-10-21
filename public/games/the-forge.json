@@ -7,22 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "WAITFORHALLOWEEN",
+   "reward": "10x Rerolls"
+  },
+  {
    "code": "CRIMSONSAKURA",
    "reward": "15 Rerolls"
   },
   {
    "code": "SORRYFORSHUTDOWN",
    "reward": "Free Rerolls"
-  },
-  {
-   "code": "200K!",
-   "reward": "5 Rerolls"
-  },
-  {
-   "code": "HEART",
-   "reward": "10 Rerolls"
   }
  ],
- "updated": "2026-10-19T22:19:28.518Z",
+ "updated": "2026-10-21T04:10:24.224Z",
  "source": "https://robloxden.com/game-codes/the-forge"
 }

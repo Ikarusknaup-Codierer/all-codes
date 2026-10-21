@@ -11,10 +11,6 @@
    "reward": "100 Credits"
   },
   {
-   "code": "Zipit",
-   "reward": "the Developer Exclusive Zipit"
-  },
-  {
    "code": "Stabby",
    "reward": "100"
   },
@@ -25,8 +21,12 @@
   {
    "code": "GreedyCompany",
    "reward": "100 Credits"
+  },
+  {
+   "code": "Remake",
+   "reward": "100 Credits"
   }
  ],
- "updated": "2026-10-20T04:20:18.944Z",
+ "updated": "2026-10-21T16:56:45.943Z",
  "source": "https://robloxden.com/game-codes/spider-mines"
 }

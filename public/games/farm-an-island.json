@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "THANKYOU",
+   "reward": "2 Common Seed Packs"
+  },
+  {
+   "code": "ILOVEGEARS",
+   "reward": "3 Random Gears"
+  },
+  {
    "code": "ADMINABUSE2",
    "reward": "rewards"
   },
@@ -15,6 +23,6 @@
    "reward": "4x Bank Rate , 5x Harvest Power , and 6x Seed Luck"
   }
  ],
- "updated": "2026-10-20T04:22:55.308Z",
+ "updated": "2026-10-21T16:58:50.748Z",
  "source": "https://robloxden.com/game-codes/farm-an-island"
 }

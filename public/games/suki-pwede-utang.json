@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "GATLING",
+   "reward": "Tsinelas Gatling"
+  },
+  {
+   "code": "ILAW",
+   "reward": "Pink Light"
+  },
+  {
+   "code": "TIWALA",
+   "reward": "2x Kita (30 Mins)"
+  },
+  {
+   "code": "AYUDA",
+   "reward": "1,000 Pesos"
+  },
+  {
    "code": "SUKI",
    "reward": "300 Pesos"
   },
@@ -31,6 +47,6 @@
    "reward": "a Tambay"
   }
  ],
- "updated": "2026-10-20T11:13:41.780Z",
+ "updated": "2026-10-21T17:00:55.239Z",
  "source": "https://robloxden.com/game-codes/suki-pwede-utang"
 }

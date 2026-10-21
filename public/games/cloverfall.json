@@ -21,8 +21,28 @@
   {
    "code": "MOBILEUIFIX",
    "reward": "1,000 Arcanite and 15 Clan Rerolls"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "5,000 Arcanite and 100 Clan Rerolls"
+  },
+  {
+   "code": "TYFOR2KLIKES",
+   "reward": "2,000 Arcanite and 25 Clan Rerolls"
+  },
+  {
+   "code": "THANKYOUFOR20KVISITS",
+   "reward": "1,000 Arcanite and 25 Clan Rerolls"
+  },
+  {
+   "code": "BUGFIX1",
+   "reward": "25 Clan Rerolls"
+  },
+  {
+   "code": "TYFOR1KLIKES",
+   "reward": "3,000 Arcanite and 35 Clan Spins"
   }
  ],
- "updated": "2026-10-20T16:39:08.847Z",
+ "updated": "2026-10-21T17:10:17.759Z",
  "source": "https://robloxden.com/game-codes/cloverfall"
 }

@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "FIX1",
+   "reward": "1 Train Potion"
+  },
+  {
+   "code": "UPD1",
+   "reward": "1 Cash Potion"
+  },
+  {
+   "code": "TRAIN1",
+   "reward": "1 Train Potion"
+  },
+  {
+   "code": "LUCK1",
+   "reward": "1 Luck Potion"
+  },
+  {
+   "code": "Magia",
+   "reward": "the Yeti Pet"
+  },
+  {
+   "code": "Release",
+   "reward": "the Lizard Pet"
   }
  ],
- "updated": "2026-10-20T11:14:18.107Z",
+ "updated": "2026-10-21T17:01:34.658Z",
  "source": "https://robloxden.com/game-codes/clone-to-steal-eggs"
 }

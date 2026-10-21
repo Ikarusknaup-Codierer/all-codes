@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BlackFlamesRework!",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "MinorQol!",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "SpookyAutumn!",
+   "reward": "25 Spins"
+  },
+  {
    "code": "SkeletonSizeIncrease!",
    "reward": "20x Spins Across the Board"
   },
@@ -183,6 +195,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-10-20T04:21:23.438Z",
+ "updated": "2026-10-21T16:57:32.087Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

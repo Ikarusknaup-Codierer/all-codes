@@ -15,18 +15,18 @@
    "reward": "2x 10m Luck Potions"
   },
   {
-   "code": "kubo",
-   "reward": "2 Gold Potions , 3 Money Potions , and 10 Luck Potions"
-  },
-  {
    "code": "scorpio",
    "reward": "the Scorpion Pet"
   },
   {
    "code": "RELEASE1",
    "reward": "1 Speed Potion For 10 Minutes"
+  },
+  {
+   "code": "MERRY",
+   "reward": "2x 10m Speed Potions"
   }
  ],
- "updated": "2026-10-20T11:15:54.045Z",
+ "updated": "2026-10-21T17:03:23.084Z",
  "source": "https://robloxden.com/game-codes/racing-simulator"
 }

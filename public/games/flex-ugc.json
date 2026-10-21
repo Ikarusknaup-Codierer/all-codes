@@ -16,7 +16,7 @@
   },
   {
    "code": "August",
-   "reward": "Rewards"
+   "reward": "Blue Axe"
   },
   {
    "code": "WD40",
@@ -73,10 +73,6 @@
   {
    "code": "JUC",
    "reward": "the Jace's UGC Chain"
-  },
-  {
-   "code": "6009",
-   "reward": "the Neon White Cyber Light Saber"
   },
   {
    "code": "7007",
@@ -185,8 +181,12 @@
   {
    "code": "PURPLEGAS",
    "reward": "the Purple Smoke Spirit"
+  },
+  {
+   "code": "6009",
+   "reward": "the Neon White Cyber Light Saber"
   }
  ],
- "updated": "2026-10-19T22:25:17.629Z",
+ "updated": "2026-10-21T11:29:14.635Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

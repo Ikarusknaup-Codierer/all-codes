@@ -51,10 +51,6 @@
    "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates"
   },
   {
-   "code": "VERAFREE",
-   "reward": "50 Summer Crate , 2 Sovereign Pot , 2 Omega Pot , 2 Glitched Potions ,"
-  },
-  {
    "code": "ILIKEPOTIONS",
    "reward": "50 Summer Crates , 1 Sovereign Pot , 1 Omega Pot , 1 Transcendent Pot "
   },
@@ -185,6 +181,10 @@
   {
    "code": "ALOTNEXTUPD",
    "reward": "1 Holy Grail and 20 Summer Crates"
+  },
+  {
+   "code": "VERAFREE",
+   "reward": "50 Summer Crate , 2 Sovereign Pot , 2 Omega Pot , 2 Glitched Potions ,"
   },
   {
    "code": "BATTLEPASS2",
@@ -419,6 +419,6 @@
    "reward": "10,000 Gold 2,000 Astralis , 5 Better Goodie Crate , and 5 Better Poti"
   }
  ],
- "updated": "2026-10-20T04:17:28.842Z",
+ "updated": "2026-10-21T11:33:35.554Z",
  "source": "https://robloxden.com/game-codes/anime-girl-rng"
 }

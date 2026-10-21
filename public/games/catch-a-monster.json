@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "rainimp",
-   "reward": "1 Spritesprout Egg"
-  },
-  {
    "code": "CODEBUG",
    "reward": "5K Aether Coins"
   },
@@ -79,6 +75,10 @@
    "reward": "3 Small XP Potions and 3 Small Coin Potions"
   },
   {
+   "code": "rainimp",
+   "reward": "1 Spritesprout Egg"
+  },
+  {
    "code": "VORTUR",
    "reward": "2,000 Wanderer’s Coins and 2 Splash Isle Rifts III"
   },
@@ -99,6 +99,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-10-19T22:19:42.705Z",
+ "updated": "2026-10-21T11:28:17.025Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

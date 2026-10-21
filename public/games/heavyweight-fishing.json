@@ -7,34 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SeeYouSoon",
-   "reward": "Rewards . You must be at least Level 200 to use this code"
-  },
-  {
-   "code": "40MVisits",
-   "reward": "Free Rewards . You must be at least Level 50 to use this code"
-  },
-  {
-   "code": "39MVisits",
-   "reward": "Free Rewards . You must be at least Level 50 to use this code"
-  },
-  {
-   "code": "38MVisits",
-   "reward": "Free Rewards . You must be at least Level 50 to use this code"
-  },
-  {
-   "code": "37MVisits",
-   "reward": "Free Rewards . You must be at least Level 50 to use this code"
-  },
-  {
-   "code": "65KLikes",
-   "reward": "Free Rewards . You must be at least Level 100 to use this code"
-  },
-  {
-   "code": "BUGTrait",
-   "reward": "Free Rewards . You must be at least Level 20 to use this code"
-  },
-  {
    "code": "19KActives",
    "reward": "Rewards . To use this code, you must be at least level 200 in-game"
   },
@@ -63,8 +35,36 @@
    "reward": "rewards . You must be at least level 100 to use this code"
   },
   {
+   "code": "SeeYouSoon",
+   "reward": "Rewards . You must be at least Level 200 to use this code"
+  },
+  {
    "code": "41MVisits",
    "reward": "Free Rewards . You must be at least Level 50 to use this code"
+  },
+  {
+   "code": "40MVisits",
+   "reward": "Free Rewards . You must be at least Level 50 to use this code"
+  },
+  {
+   "code": "39MVisits",
+   "reward": "Free Rewards . You must be at least Level 50 to use this code"
+  },
+  {
+   "code": "38MVisits",
+   "reward": "Free Rewards . You must be at least Level 50 to use this code"
+  },
+  {
+   "code": "37MVisits",
+   "reward": "Free Rewards . You must be at least Level 50 to use this code"
+  },
+  {
+   "code": "65KLikes",
+   "reward": "Free Rewards . You must be at least Level 100 to use this code"
+  },
+  {
+   "code": "BUGTrait",
+   "reward": "Free Rewards . You must be at least Level 20 to use this code"
   },
   {
    "code": "PVP",
@@ -215,6 +215,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-10-20T04:19:38.347Z",
+ "updated": "2026-10-21T11:35:47.618Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

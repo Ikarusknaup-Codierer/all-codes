@@ -11,10 +11,6 @@
    "reward": "Carrats"
   },
   {
-   "code": "BUGFIXES",
-   "reward": "200 Carrats and 20 Points"
-  },
-  {
    "code": "FREEEMOTE",
    "reward": "1 Random Emote"
   },
@@ -25,8 +21,12 @@
   {
    "code": "15MINSDELAY",
    "reward": "200 Carrats"
+  },
+  {
+   "code": "OPTIMIZATION",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-10-20T04:14:50.314Z",
+ "updated": "2026-10-21T11:30:59.924Z",
  "source": "https://robloxden.com/game-codes/uma-fighters"
 }

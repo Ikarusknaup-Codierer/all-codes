@@ -15,18 +15,18 @@
    "reward": "the Wumpus Pet"
   },
   {
+   "code": "UPDATE1",
+   "reward": "Free Yen"
+  },
+  {
+   "code": "FreeTokens",
+   "reward": "Free Yen"
+  },
+  {
    "code": "ErikCarr",
    "reward": "ErikCarr Pet"
-  },
-  {
-   "code": "EmpireBlox",
-   "reward": "EmpireBlox Pet"
-  },
-  {
-   "code": "RussoPlays",
-   "reward": "RussoPlays Pet"
   }
  ],
- "updated": "2026-10-20T04:18:11.326Z",
+ "updated": "2026-10-21T11:34:15.096Z",
  "source": "https://robloxden.com/game-codes/shuriken-simulator"
 }

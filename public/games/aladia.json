@@ -31,6 +31,34 @@
    "reward": "100 Armors"
   },
   {
+   "code": "FANTASYDAGGER",
+   "reward": "a Fantasy Dagger - Knife"
+  },
+  {
+   "code": "WENPASS",
+   "reward": "rewards . You need to reach level 3 to use this code"
+  },
+  {
+   "code": "ONLYALADIA",
+   "reward": "200 Diamonds"
+  },
+  {
+   "code": "Kagen",
+   "reward": "a Kagen - Pistol .50"
+  },
+  {
+   "code": "Ravager",
+   "reward": "a Ravager - Pistol .50"
+  },
+  {
+   "code": "Cannon",
+   "reward": "a Cannon - Pistol .50"
+  },
+  {
+   "code": "kpass",
+   "reward": "rewards . You need to reach level 3 to use this code"
+  },
+  {
    "code": "graveyard",
    "reward": "a Graveyard - SP"
   },
@@ -195,6 +223,6 @@
    "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-10-19T22:25:55.454Z",
+ "updated": "2026-10-21T11:29:42.530Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

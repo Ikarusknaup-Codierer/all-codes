@@ -19,14 +19,14 @@
    "reward": "1 Character Slot"
   },
   {
-   "code": "EoSlot",
-   "reward": "1 New Character Slot"
+   "code": "doubledropforbugfixes",
+   "reward": "2x Drop Rate (20 Minutes)"
   },
   {
-   "code": "JoinExpanse",
-   "reward": "free rewards"
+   "code": "SpReset",
+   "reward": "Stats Reset"
   }
  ],
- "updated": "2026-10-20T04:16:00.364Z",
+ "updated": "2026-10-21T11:32:10.299Z",
  "source": "https://robloxden.com/game-codes/elemental-odyssey"
 }

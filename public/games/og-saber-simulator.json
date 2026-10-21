@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "EASTER",
-   "reward": "Tons of Freebies"
-  },
-  {
    "code": "350k",
    "reward": "Auto Swing (30 Minutes)"
   },
@@ -23,10 +19,14 @@
    "reward": "Auto Swing (30 Minutes)"
   },
   {
+   "code": "EASTER",
+   "reward": "Tons of Freebies"
+  },
+  {
    "code": "events",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-19T22:25:56.011Z",
+ "updated": "2026-10-21T11:29:43.061Z",
  "source": "https://robloxden.com/game-codes/og-saber-simulator"
 }

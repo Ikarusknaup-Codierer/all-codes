@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "31M",
-   "reward": "1 Grade Z Token , 5 Clan Tokens , and 300 Grade Tokens"
-  },
-  {
    "code": "NEWCHEST",
    "reward": "1 Chibi Chest"
   },
@@ -31,24 +27,12 @@
    "reward": "3 Aquarius Princess Packs"
   },
   {
-   "code": "ALEX100",
-   "reward": "3 Aquarius Card Packs"
-  },
-  {
    "code": "SECRET",
    "reward": "2 Level Up potions and 1 Relic Chest"
   },
   {
    "code": "PVP",
    "reward": "2 Level Up Potions and 1 Relic Chest"
-  },
-  {
-   "code": "456",
-   "reward": "3 Aquarius Princess Packs"
-  },
-  {
-   "code": "26M",
-   "reward": "2 Pastel Empress Packs"
   },
   {
    "code": "INFINITY",
@@ -87,8 +71,24 @@
    "reward": "1 Chibi Chest"
   },
   {
+   "code": "31M",
+   "reward": "1 Grade Z Token , 5 Clan Tokens , and 300 Grade Tokens"
+  },
+  {
    "code": "GOLDRUSH",
    "reward": "Grade Z Token , 20 Weather Tokens , and 1 Relic Chest"
+  },
+  {
+   "code": "ALEX100",
+   "reward": "3 Aquarius Card Packs"
+  },
+  {
+   "code": "456",
+   "reward": "3 Aquarius Princess Packs"
+  },
+  {
+   "code": "26M",
+   "reward": "2 Pastel Empress Packs"
   },
   {
    "code": "21M",
@@ -135,6 +135,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-10-20T04:14:43.989Z",
+ "updated": "2026-10-21T11:30:53.409Z",
  "source": "https://robloxden.com/game-codes/anime-waifu-card-collection"
 }

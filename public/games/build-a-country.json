@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "900KMEMBERS",
+   "reward": "1 Wind Farm and 1 Tree House"
+  },
+  {
    "code": "5MVISITS",
    "reward": "$5M and an Exclusive Limited Time 5M Sign"
   },
@@ -15,14 +19,10 @@
    "reward": "3 Worker Potions , 3 Strength Potions , and 1 Stock Potion"
   },
   {
-   "code": "3MVISITS",
-   "reward": "$3M and a 3M Statue"
-  },
-  {
    "code": "TALLHOUSE",
    "reward": "1 Large Penthouse"
   }
  ],
- "updated": "2026-10-20T04:16:14.164Z",
+ "updated": "2026-10-21T11:32:23.098Z",
  "source": "https://robloxden.com/game-codes/build-a-country"
 }

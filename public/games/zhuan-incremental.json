@@ -5,8 +5,48 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "guacamole",
+   "reward": "5 Tickets and 25 Crystals"
+  },
+  {
+   "code": "gamer",
+   "reward": "1 Global Runes for Everyone , 5 Tickets , and 50 Crystals"
+  },
+  {
+   "code": "10k",
+   "reward": "5 Tickets and 10 Global Runes for Everyone"
+  },
+  {
+   "code": "Release",
+   "reward": "10 Tickets and 75 Crystals"
+  },
+  {
+   "code": "600",
+   "reward": "6 Global Runes for Everyone"
+  },
+  {
+   "code": "500",
+   "reward": "250 Crystals and 3 Global Runes for Everyone"
+  },
+  {
+   "code": "400",
+   "reward": "4 Global Runes for Everyone"
+  },
+  {
+   "code": "300",
+   "reward": "3 Global Runes for Everyone"
+  },
+  {
+   "code": "200",
+   "reward": "2 Global Runes for Everyone"
+  },
+  {
+   "code": "100",
+   "reward": "1 Global Runes for Everyone"
   }
  ],
- "updated": "2026-10-20T16:45:02.130Z",
+ "updated": "2026-10-21T21:34:09.645Z",
  "source": "https://robloxden.com/game-codes/zhuan-incremental"
 }

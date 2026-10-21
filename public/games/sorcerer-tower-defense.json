@@ -11,22 +11,6 @@
    "reward": "Gems"
   },
   {
-   "code": "IAmYou",
-   "reward": "2000 Coins"
-  },
-  {
-   "code": "AnniversaryOneMoreDay",
-   "reward": "500 Anniversary Coins"
-  },
-  {
-   "code": "SorryForDelay",
-   "reward": "500 Gems"
-  },
-  {
-   "code": "Bonus",
-   "reward": "2,000 Coins"
-  },
-  {
    "code": "SorryForShutdown",
    "reward": "1,000 Gems"
   },
@@ -45,12 +29,8 @@
   {
    "code": "EndlessBugFixed",
    "reward": "500 Gems"
-  },
-  {
-   "code": "NewLobby",
-   "reward": "999 Coins"
   }
  ],
- "updated": "2026-10-20T16:46:13.472Z",
+ "updated": "2026-10-21T21:35:16.990Z",
  "source": "https://robloxden.com/game-codes/sorcerer-tower-defense"
 }

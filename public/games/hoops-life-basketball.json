@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Spooky",
-   "reward": "100 Halloween Coins"
-  },
-  {
-   "code": "SpookySeason",
-   "reward": "50 Coins"
-  },
-  {
-   "code": "Champion",
-   "reward": "10 Chance Crates"
+   "code": "Season3",
+   "reward": "150 Coins"
   },
   {
    "code": "BugFix",
    "reward": "100 Coins"
   },
   {
-   "code": "HLFutureSoon",
-   "reward": "500 Coins"
+   "code": "GreenVFX",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "100XP",
+   "reward": "100 EXP"
+  },
+  {
+   "code": "30k",
+   "reward": "150 EXP"
   }
  ],
- "updated": "2026-10-20T16:45:30.011Z",
+ "updated": "2026-10-21T21:34:36.023Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

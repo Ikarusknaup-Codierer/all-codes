@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "KAME",
+   "reward": "Goku"
+  },
+  {
    "code": "3000likes",
    "reward": "1,000 Coins"
+  },
+  {
+   "code": "2000likes",
+   "reward": "300 Coins And 5 Gems"
   }
  ],
- "updated": "2026-10-20T16:38:33.332Z",
+ "updated": "2026-10-21T21:30:13.074Z",
  "source": "https://robloxden.com/game-codes/eternal-battlegrounds"
 }

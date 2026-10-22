@@ -27,10 +27,6 @@
    "reward": "200 Expedition Points , a Revive Sigil , and 5 Reforge Stones"
   },
   {
-   "code": "HAWK",
-   "reward": "5 Aspect Gems , 20 Lucky Spins , 2 Exotic Ingots and 4 Perfect Reforge"
-  },
-  {
    "code": "SLAYER",
    "reward": "6 Aspect Gems , 30 Lucky Spins , 4 Exotic Ingots and 2 Perfect Reforge"
   },
@@ -79,8 +75,8 @@
    "reward": "5 Aspect Gems , 10 Protection Scroll , and 25,000 Coins"
   },
   {
-   "code": "RELEASE",
-   "reward": "1,000 Coins"
+   "code": "HAWK",
+   "reward": "5 Aspect Gems , 20 Lucky Spins , 2 Exotic Ingots and 4 Perfect Reforge"
   },
   {
    "code": "UPDATE1",
@@ -121,8 +117,12 @@
   {
    "code": "800LIKES",
    "reward": "2 Random GM Blessing chests"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-10-21T17:01:36.715Z",
+ "updated": "2026-10-22T17:02:46.354Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

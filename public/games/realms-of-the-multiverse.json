@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "halloween",
+   "reward": "3,500 Coins"
+  },
+  {
+   "code": "karma",
+   "reward": "300 Coins"
+  },
+  {
    "code": "femalewizard",
    "reward": "250 Coins"
   },
@@ -15,18 +23,10 @@
    "reward": "250 Coins"
   },
   {
-   "code": "scott",
-   "reward": "350 Coins"
-  },
-  {
-   "code": "skams",
-   "reward": "500 Coins"
-  },
-  {
-   "code": "aou",
-   "reward": "2,000 Coins"
+   "code": "incendia",
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-21T16:58:04.370Z",
+ "updated": "2026-10-22T16:59:24.156Z",
  "source": "https://robloxden.com/game-codes/realms-of-the-multiverse"
 }

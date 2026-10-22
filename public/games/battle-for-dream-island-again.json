@@ -23,10 +23,6 @@
    "reward": "the New Emote Skin"
   },
   {
-   "code": "Communitical",
-   "reward": "1,100 Coins"
-  },
-  {
    "code": "Cheez",
    "reward": "the Chef Woody Skin"
   },
@@ -51,10 +47,6 @@
    "reward": "the Cotton Rocky Skin"
   },
   {
-   "code": "Americaa",
-   "reward": "the Uncle Rubber Spatula Skin"
-  },
-  {
    "code": "Compensuzaetion",
    "reward": "1 Gem and 500 Coins"
   },
@@ -67,6 +59,10 @@
    "reward": "the Rich Smileyface Skin"
   },
   {
+   "code": "Communitical",
+   "reward": "1,100 Coins"
+  },
+  {
    "code": "30m",
    "reward": "2 Gems"
   },
@@ -75,10 +71,14 @@
    "reward": "500 Coins"
   },
   {
+   "code": "Americaa",
+   "reward": "the Uncle Rubber Spatula Skin"
+  },
+  {
    "code": "Epikfull",
    "reward": "the Epik Snowball Skin"
   }
  ],
- "updated": "2026-10-21T17:03:06.919Z",
+ "updated": "2026-10-22T17:04:17.444Z",
  "source": "https://robloxden.com/game-codes/battle-for-dream-island-again"
 }

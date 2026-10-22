@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "90KFAVS",
-   "reward": "2 Reset Stats , 30 Spins , 10 Crystal Mana , and 2 Fishing Ease Potion"
-  },
-  {
-   "code": "80KFAVSWOW!",
-   "reward": "3 Reset Stats"
-  },
-  {
-   "code": "MEGADROP",
-   "reward": "100 Spins , a Big Chest , and a Special Spin"
+   "code": "SHUTDOWN2",
+   "reward": "5 Reset Stats , 50 Spins , and Crystal Notifier (2 Hours)"
   },
   {
    "code": "SORRYFORSHUTDOWN!",
@@ -37,6 +29,10 @@
   {
    "code": "2MVISITS",
    "reward": "100% Luck (1 Hour)"
+  },
+  {
+   "code": "90KFAVS",
+   "reward": "2 Reset Stats , 30 Spins , 10 Crystal Mana , and 2 Fishing Ease Potion"
   },
   {
    "code": "40KLIKESGG",
@@ -61,6 +57,14 @@
   {
    "code": "40KLIKES",
    "reward": "50 Spins"
+  },
+  {
+   "code": "80KFAVSWOW!",
+   "reward": "3 Reset Stats"
+  },
+  {
+   "code": "MEGADROP",
+   "reward": "100 Spins , a Big Chest , and a Special Spin"
   },
   {
    "code": "BETARELEASE",
@@ -115,6 +119,6 @@
    "reward": "a Crystal Mana , 25 Spins , and 10 Normal Chests"
   }
  ],
- "updated": "2026-10-21T16:59:08.447Z",
+ "updated": "2026-10-22T17:00:19.612Z",
  "source": "https://robloxden.com/game-codes/clover-time"
 }

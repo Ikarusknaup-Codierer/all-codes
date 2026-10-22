@@ -7,34 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MIGHTY_FAIRIES",
-   "reward": "1 Enchanted Crate"
-  },
-  {
-   "code": "THE_GREATLY_ACHIEVEMENTS",
-   "reward": "3 Basic Seed Pack"
-  },
-  {
-   "code": "500LIKES_UNIT",
-   "reward": "1 Mango Unit"
-  },
-  {
-   "code": "BZZZ_BZZZZ",
-   "reward": "1 Honey Crate"
-  },
-  {
-   "code": "COOKING_EVENT",
-   "reward": "1 Culinarian Chest"
-  },
-  {
-   "code": "GIANT_TREE_SECRETS",
-   "reward": "1 Zen Crate"
-  },
-  {
-   "code": "NOT_A_SECRET_CODE",
-   "reward": "100 Sheckles"
-  },
-  {
    "code": "SMALL_UPDATE",
    "reward": "15 Gems"
   },
@@ -97,8 +69,36 @@
   {
    "code": "FALL_FESTIVAL",
    "reward": "1 Fall Seed Pack"
+  },
+  {
+   "code": "MIGHTY_FAIRIES",
+   "reward": "1 Enchanted Crate"
+  },
+  {
+   "code": "THE_GREATLY_ACHIEVEMENTS",
+   "reward": "3 Basic Seed Pack"
+  },
+  {
+   "code": "500LIKES_UNIT",
+   "reward": "1 Mango Unit"
+  },
+  {
+   "code": "BZZZ_BZZZZ",
+   "reward": "1 Honey Crate"
+  },
+  {
+   "code": "COOKING_EVENT",
+   "reward": "1 Culinarian Chest"
+  },
+  {
+   "code": "GIANT_TREE_SECRETS",
+   "reward": "1 Zen Crate"
+  },
+  {
+   "code": "NOT_A_SECRET_CODE",
+   "reward": "100 Sheckles"
   }
  ],
- "updated": "2026-10-21T17:03:01.006Z",
+ "updated": "2026-10-22T17:04:12.306Z",
  "source": "https://robloxden.com/game-codes/grow-a-unit-td"
 }

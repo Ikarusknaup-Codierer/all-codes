@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "10,000 Gems"
+  },
+  {
+   "code": "MONKEYS",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "SURVIVE",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "10,000 Gems"
   }
  ],
- "updated": "2026-10-21T16:59:23.554Z",
+ "updated": "2026-10-22T17:00:32.785Z",
  "source": "https://robloxden.com/game-codes/survive-a-million-monkeys"
 }

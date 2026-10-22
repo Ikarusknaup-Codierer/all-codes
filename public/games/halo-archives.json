@@ -9,8 +9,16 @@
   {
    "code": "Constance",
    "reward": "20 Friendly Essence and 5 Rare Loot"
+  },
+  {
+   "code": "BACKDOOR",
+   "reward": "1 Rare Loot and 5 Essence Crates"
+  },
+  {
+   "code": "nofair",
+   "reward": "3 Essence Crates"
   }
  ],
- "updated": "2026-10-21T17:00:38.866Z",
+ "updated": "2026-10-22T17:01:46.708Z",
  "source": "https://robloxden.com/game-codes/halo-archives"
 }

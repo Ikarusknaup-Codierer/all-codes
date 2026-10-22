@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SWEET1STCELEBRATION",
+   "reward": "Dessert Dress Blossom"
+  },
+  {
    "code": "MAKEAWISH",
    "reward": "Dessert Dress Top"
   },
@@ -19,14 +23,14 @@
    "reward": "100 Coins"
   },
   {
-   "code": "ACORNPARTY",
-   "reward": "100 Acorn"
-  },
-  {
    "code": "KIRAKIRASUMMER",
    "reward": "100 Shells"
+  },
+  {
+   "code": "NOMOREGUMDROP",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-10-21T11:35:50.973Z",
+ "updated": "2026-10-22T16:56:32.007Z",
  "source": "https://robloxden.com/game-codes/prism-runway-show"
 }

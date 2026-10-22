@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "MASTERY",
-   "reward": "100 Gems"
+   "code": "WEDNESDAY",
+   "reward": "300 Gems"
   },
   {
-   "code": "ALIEN",
-   "reward": "200 Gems and 200 Alien Coins"
+   "code": "100MVISITS",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "MASTERY",
+   "reward": "100 Gems"
   }
  ],
- "updated": "2026-10-21T16:57:49.382Z",
+ "updated": "2026-10-22T16:59:11.027Z",
  "source": "https://robloxden.com/game-codes/search-for-the-needle"
 }

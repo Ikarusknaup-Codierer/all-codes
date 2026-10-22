@@ -27,10 +27,6 @@
    "reward": "2 2x Faith Potions (15 Minutes)"
   },
   {
-   "code": "SOULPOTIONS",
-   "reward": "2 2x Soul Potions (15 Minutes)"
-  },
-  {
    "code": "LUCKYPRAY",
    "reward": "1 2x Luck Potion"
   },
@@ -77,8 +73,12 @@
   {
    "code": "HUBUPDATE",
    "reward": "200 Shards"
+  },
+  {
+   "code": "SOULPOTIONS",
+   "reward": "2 2x Soul Potions (15 Minutes)"
   }
  ],
- "updated": "2026-10-21T11:30:29.291Z",
+ "updated": "2026-10-22T11:46:15.027Z",
  "source": "https://robloxden.com/game-codes/faith-incremental"
 }

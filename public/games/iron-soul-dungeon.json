@@ -59,10 +59,6 @@
    "reward": "1,500 Cash and a Seasonal Lucky Ticket"
   },
   {
-   "code": "IRONSOULWEEKEND21",
-   "reward": "3 Race Rerolls"
-  },
-  {
    "code": "Ahjughh",
    "reward": "1 Season Lucky Ticket and 1 Starwish Card"
   },
@@ -101,6 +97,10 @@
   {
    "code": "ROYALCIRCUS",
    "reward": "3 Starwish Cards"
+  },
+  {
+   "code": "IRONSOULWEEKEND21",
+   "reward": "3 Race Rerolls"
   },
   {
    "code": "ODYSSEY",
@@ -175,6 +175,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-10-21T04:08:18.331Z",
+ "updated": "2026-10-22T11:35:45.930Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

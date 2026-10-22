@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "RAINBOWMOUNTS",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "FOOLSGOLD",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "DIVINESUPRISE",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "WENERGY",
    "reward": "Free Rewards"
   },
@@ -53,8 +41,20 @@
   {
    "code": "NEWBEGINNINGS2",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "RAINBOWMOUNTS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FOOLSGOLD",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "DIVINESUPRISE",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-21T04:10:34.769Z",
+ "updated": "2026-10-22T11:40:06.265Z",
  "source": "https://robloxden.com/game-codes/spongebob-tower-defense"
 }

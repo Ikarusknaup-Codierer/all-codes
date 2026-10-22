@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LuckySpin",
-   "reward": "1 3x Luck Potion"
-  },
-  {
    "code": "PotionPack",
    "reward": "2 of Each Potion"
   },
@@ -49,8 +45,12 @@
   {
    "code": "Golden",
    "reward": "8K Strength"
+  },
+  {
+   "code": "LuckySpin",
+   "reward": "1 3x Luck Potion"
   }
  ],
- "updated": "2026-10-21T04:03:29.498Z",
+ "updated": "2026-10-22T11:31:51.441Z",
  "source": "https://robloxden.com/game-codes/1-fist-per-click"
 }

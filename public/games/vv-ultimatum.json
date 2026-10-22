@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BUILDPOINTS",
+   "reward": "1x Built Reset Token"
+  },
+  {
    "code": "205KLIKES",
    "reward": "5 Ability Rerolls , 5 Clan Rerolls , and 5 Experimental Hogyoku Shards"
   },
@@ -31,6 +35,6 @@
    "reward": "3x Ability Reroll"
   }
  ],
- "updated": "2026-10-21T04:07:52.093Z",
+ "updated": "2026-10-22T11:35:06.845Z",
  "source": "https://robloxden.com/game-codes/vv-ultimatum"
 }

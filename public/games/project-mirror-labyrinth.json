@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "gogcode",
+   "reward": "405 Fragments"
+  },
+  {
    "code": "BeakMeta",
    "reward": "405 Fragments"
   },
@@ -49,10 +53,6 @@
   {
    "code": "5MVisits!",
    "reward": "1 SR Guaranteed Mega Ticket"
-  },
-  {
-   "code": "UpperLibrary",
-   "reward": "1 Mega Reflection Ticket"
   },
   {
    "code": "SkoshiPASSED",
@@ -137,8 +137,12 @@
   {
    "code": "WORKSHOPRELEASE",
    "reward": "405 Fragments"
+  },
+  {
+   "code": "UpperLibrary",
+   "reward": "1 Mega Reflection Ticket"
   }
  ],
- "updated": "2026-10-21T11:33:19.459Z",
+ "updated": "2026-10-22T11:50:06.563Z",
  "source": "https://robloxden.com/game-codes/project-mirror-labyrinth"
 }

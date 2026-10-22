@@ -47,10 +47,6 @@
    "reward": "150 Spins and 15,000 RELL Coins"
   },
   {
-   "code": "ThankYouForPatience249Patch!",
-   "reward": "100 Spins and 10,000 RELL Coins"
-  },
-  {
    "code": "6YearsofShindoSoon!",
    "reward": "100 Spins and 10,000 RELL Coins"
   },
@@ -72,10 +68,6 @@
   },
   {
    "code": "FutureAndRELLSeas!",
-   "reward": "5,000 RELL Coins"
-  },
-  {
-   "code": "TimeFliesForFiveYears!",
    "reward": "5,000 RELL Coins"
   },
   {
@@ -143,6 +135,10 @@
    "reward": "10,000 RELL Coins . You can buy the Spin Storage gamepass to increase "
   },
   {
+   "code": "ThankYouForPatience249Patch!",
+   "reward": "100 Spins and 10,000 RELL Coins"
+  },
+  {
    "code": "ShindoLife2026Peak!",
    "reward": "Spins and RELL Coins"
   },
@@ -167,10 +163,14 @@
    "reward": "5,000 RELL Coins"
   },
   {
+   "code": "TimeFliesForFiveYears!",
+   "reward": "5,000 RELL Coins"
+  },
+  {
    "code": "ITSBeen5Years!",
    "reward": "5,000 RELL Coins"
   }
  ],
- "updated": "2026-10-20T21:34:41.575Z",
+ "updated": "2026-10-22T11:29:10.652Z",
  "source": "https://robloxden.com/game-codes/shindo-life"
 }

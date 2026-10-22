@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "KAISERSOON",
+   "reward": "100x Style Lucky Spins"
+  },
+  {
+   "code": "MONEYSPREAD",
+   "reward": "100,000 Coins and 100x Style Spins"
+  },
+  {
+   "code": "RSPECIALS",
+   "reward": "50x Ego Spins"
+  },
+  {
+   "code": "RIENGOAT",
+   "reward": "20x Style Spins , 20x Lucky Style Spins , 20x Ego Spins , and 20x Luck"
+  },
+  {
    "code": "CHRISTMAS",
    "reward": "Lucky Spins"
   },
@@ -79,6 +95,6 @@
    "reward": "Lucky Spins"
   }
  ],
- "updated": "2026-10-21T11:29:57.434Z",
+ "updated": "2026-10-22T11:45:12.200Z",
  "source": "https://robloxden.com/game-codes/goalbound"
 }

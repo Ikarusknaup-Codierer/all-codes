@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPD1",
+   "reward": "1 Luck Potion , 1 Attack Potion , and 1 Win Potion"
+  },
+  {
+   "code": "TRADING",
+   "reward": "1 Large Luck Potion"
+  },
+  {
+   "code": "INFINITY",
+   "reward": "1 Large Luck Potion , 1 Large Attack Potion , and 1 Large Win Potion"
+  },
+  {
+   "code": "STARTER",
+   "reward": "10,000 Wins"
+  },
+  {
+   "code": "POTIONS",
+   "reward": "All 6 potion types (one of each)"
   }
  ],
- "updated": "2026-10-21T11:30:54.961Z",
+ "updated": "2026-10-22T11:46:52.973Z",
  "source": "https://robloxden.com/game-codes/1-claw-to-escape"
 }

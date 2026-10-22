@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "StoryReset",
-   "reward": "a Story Reset . Code will take effect immediately"
-  },
-  {
    "code": "StatReset",
    "reward": "a Stat Reset . Code will take effect immediately"
+  },
+  {
+   "code": "StoryReset",
+   "reward": "a Story Reset . Code will take effect immediately"
   },
   {
    "code": "FRESHSTORY",
@@ -21,12 +21,8 @@
   {
    "code": "FRESHSTART",
    "reward": "This code resets story progress . Warning: This deletes your story pro"
-  },
-  {
-   "code": "NEWSTYLE",
-   "reward": "This code resets your combat style . Warning: This deletes your past c"
   }
  ],
- "updated": "2026-10-21T04:09:09.854Z",
+ "updated": "2026-10-22T11:37:08.869Z",
  "source": "https://robloxden.com/game-codes/gohan"
 }

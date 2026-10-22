@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "dalays",
+   "reward": "1K GP"
+  },
+  {
+   "code": "back2back",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "sorry4dalays",
    "reward": "501 GP"
   },
@@ -195,6 +203,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-10-21T04:08:16.671Z",
+ "updated": "2026-10-22T11:35:43.981Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

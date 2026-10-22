@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "rally",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "potions",
+   "reward": "3 of every Potion"
+  },
+  {
+   "code": "lotsofspins",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "1MVisits",
+   "reward": "3 of every Potion"
+  },
+  {
+   "code": "community",
+   "reward": "3 of every Potion"
   }
  ],
- "updated": "2026-10-21T11:31:38.165Z",
+ "updated": "2026-10-22T11:48:01.081Z",
  "source": "https://robloxden.com/game-codes/ping-pong-training"
 }

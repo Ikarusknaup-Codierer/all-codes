@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "6KCCUREWARD",
+   "reward": "50 Trait Rerolls , 15 Gaster Hands , 5 Glamburger , a Temmie Flakes V "
+  },
+  {
+   "code": "5KCCUREWARD",
+   "reward": "50 Trait Rerolls , 15 Gaster Hands , 5 Glamburger , a Temmie Flakes V "
+  },
+  {
+   "code": "MOREFREESTUFF",
+   "reward": "25 Trait Rerolls , 3 Gaster Hands , and 1,000 Souls"
+  },
+  {
    "code": "UPDATEJUNE10",
    "reward": ""
-  },
-  {
-   "code": "WELOVEUAPLAYERS",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "SORRYAFTERTALEDELAY",
-   "reward": "3 Rerolls"
   }
  ],
- "updated": "2026-10-21T11:31:45.429Z",
+ "updated": "2026-10-22T11:48:08.583Z",
  "source": "https://robloxden.com/game-codes/undertale-adventures"
 }

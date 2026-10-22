@@ -59,6 +59,10 @@
    "reward": "rewards . You need to reach level 3 to use this code"
   },
   {
+   "code": "CANDY",
+   "reward": "a Candy - Pistol"
+  },
+  {
    "code": "graveyard",
    "reward": "a Graveyard - SP"
   },
@@ -223,6 +227,6 @@
    "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-10-21T11:29:42.530Z",
+ "updated": "2026-10-22T11:44:54.930Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

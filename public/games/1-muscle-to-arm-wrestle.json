@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "COMEBACK",
-   "reward": "3 Luck Potion III and 3 Royal Eggs"
-  },
-  {
    "code": "COLISEUMPUSH",
    "reward": "3 Muscle Potion III and 6,000 Muscle"
   },
@@ -55,10 +51,14 @@
    "reward": "Freebies"
   },
   {
+   "code": "COMEBACK",
+   "reward": "3 Luck Potion III and 3 Royal Eggs"
+  },
+  {
    "code": "BIGUPDATE3",
    "reward": "Freebies"
   }
  ],
- "updated": "2026-10-21T04:02:45.529Z",
+ "updated": "2026-10-22T11:30:41.751Z",
  "source": "https://robloxden.com/game-codes/1-muscle-to-arm-wrestle"
 }

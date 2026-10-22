@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "150KLIKES",
-   "reward": "3 Souls"
-  },
-  {
    "code": "100MVISITS",
    "reward": "100 Diamonds"
   },
@@ -19,14 +15,14 @@
    "reward": "2 Souls"
   },
   {
-   "code": "100KLIKES",
-   "reward": "10 Rebirth Coins"
+   "code": "150KLIKES",
+   "reward": "3 Souls"
   },
   {
    "code": "50MVISITS",
    "reward": "50 Gems"
   }
  ],
- "updated": "2026-10-21T04:03:35.820Z",
+ "updated": "2026-10-22T11:31:58.916Z",
  "source": "https://robloxden.com/game-codes/elemental-magic-arena"
 }

@@ -15,22 +15,18 @@
    "reward": "2x Strength for 10 minutes"
   },
   {
-   "code": "SECRET",
-   "reward": "250 Weather Tokens"
-  },
-  {
    "code": "STAGE36!",
    "reward": "4x Coins Boost (5 Minutes) and 4x Strength Boost (5 Minutes)"
   },
   {
-   "code": "CORRUPTION",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "500K!",
    "reward": "4x Coins Boost (5 Minutes) and 4x Strength Boost (5 Minutes)"
+  },
+  {
+   "code": "SECRET",
+   "reward": "250 Weather Tokens"
   }
  ],
- "updated": "2026-10-21T04:04:36.118Z",
+ "updated": "2026-10-22T11:33:29.246Z",
  "source": "https://robloxden.com/game-codes/infinity-lifting-simulator"
 }

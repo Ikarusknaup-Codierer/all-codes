@@ -15,10 +15,6 @@
    "reward": "5,000 Credits"
   },
   {
-   "code": "8MILLETSGO",
-   "reward": "3,000 Credits"
-  },
-  {
    "code": "7MILLLETSGO",
    "reward": "4,000 Credits"
   },
@@ -41,8 +37,12 @@
   {
    "code": "9MILLETSGO",
    "reward": "9,000 Credits"
+  },
+  {
+   "code": "8MILLETSGO",
+   "reward": "3,000 Credits"
   }
  ],
- "updated": "2026-10-21T04:08:34.620Z",
+ "updated": "2026-10-22T11:36:20.397Z",
  "source": "https://robloxden.com/game-codes/saber-unbound"
 }

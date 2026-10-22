@@ -15,48 +15,12 @@
    "reward": "1 Grade Z Token, 5 Clan Tokens and 300 Grade Tokens"
   },
   {
-   "code": "29M",
-   "reward": "1 Grade Z Token , 1 Aquarius Token , 2 Relic Chest"
-  },
-  {
-   "code": "CASOB",
-   "reward": "3 Aquarius Princess Packs"
-  },
-  {
-   "code": "1000HR",
-   "reward": "3 Aquarius Princess Packs"
-  },
-  {
-   "code": "SECRET",
-   "reward": "2 Level Up potions and 1 Relic Chest"
-  },
-  {
-   "code": "PVP",
-   "reward": "2 Level Up Potions and 1 Relic Chest"
-  },
-  {
-   "code": "INFINITY",
-   "reward": "1 Level Up Potion and 1 Relic Chest"
-  },
-  {
-   "code": "CASEYBDAY",
-   "reward": "1 Grade XX Pack and 1 Relic Item"
-  },
-  {
-   "code": "24M",
-   "reward": "2 Pastel Empress Packs"
-  },
-  {
-   "code": "BEYONDZ",
-   "reward": "2 Pastel Princess Packs"
-  },
-  {
-   "code": "22M",
-   "reward": "1 XX Grade Token and 1 Relic Chest"
-  },
-  {
    "code": "17M",
    "reward": "150 Grade Tokens and 1 XX Token"
+  },
+  {
+   "code": "CITRON",
+   "reward": "1 Chibi Chest"
   },
   {
    "code": "32M",
@@ -75,6 +39,18 @@
    "reward": "1 Grade Z Token , 5 Clan Tokens , and 300 Grade Tokens"
   },
   {
+   "code": "29M",
+   "reward": "1 Grade Z Token , 1 Aquarius Token , 2 Relic Chest"
+  },
+  {
+   "code": "CASOB",
+   "reward": "3 Aquarius Princess Packs"
+  },
+  {
+   "code": "1000HR",
+   "reward": "3 Aquarius Princess Packs"
+  },
+  {
    "code": "GOLDRUSH",
    "reward": "Grade Z Token , 20 Weather Tokens , and 1 Relic Chest"
   },
@@ -83,12 +59,28 @@
    "reward": "3 Aquarius Card Packs"
   },
   {
+   "code": "SECRET",
+   "reward": "2 Level Up potions and 1 Relic Chest"
+  },
+  {
+   "code": "PVP",
+   "reward": "2 Level Up Potions and 1 Relic Chest"
+  },
+  {
    "code": "456",
    "reward": "3 Aquarius Princess Packs"
   },
   {
    "code": "26M",
    "reward": "2 Pastel Empress Packs"
+  },
+  {
+   "code": "INFINITY",
+   "reward": "1 Level Up Potion and 1 Relic Chest"
+  },
+  {
+   "code": "CASEYBDAY",
+   "reward": "1 Grade XX Pack and 1 Relic Item"
   },
   {
    "code": "21M",
@@ -105,6 +97,18 @@
   {
    "code": "NEWXP",
    "reward": "a Level Up Potion , 2 Large XP Potions , 3 Medium XP Potions , and 4 S"
+  },
+  {
+   "code": "24M",
+   "reward": "2 Pastel Empress Packs"
+  },
+  {
+   "code": "BEYONDZ",
+   "reward": "2 Pastel Princess Packs"
+  },
+  {
+   "code": "22M",
+   "reward": "1 XX Grade Token and 1 Relic Chest"
   },
   {
    "code": "RIPBEYOND",
@@ -135,6 +139,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-10-21T11:30:53.409Z",
+ "updated": "2026-10-22T11:46:46.673Z",
  "source": "https://robloxden.com/game-codes/anime-waifu-card-collection"
 }

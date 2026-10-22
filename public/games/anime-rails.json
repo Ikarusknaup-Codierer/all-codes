@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WATER",
+   "reward": "300 Cash"
+  },
+  {
    "code": "S5",
    "reward": "400 Cash"
   },
@@ -47,6 +51,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-10-21T17:03:10.277Z",
+ "updated": "2026-10-22T21:22:18.117Z",
  "source": "https://robloxden.com/game-codes/anime-rails"
 }

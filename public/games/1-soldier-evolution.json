@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "2 Luck Potions"
+  },
+  {
+   "code": "4KLIKES",
+   "reward": "1 Spin"
+  },
+  {
+   "code": "SOLDIER",
+   "reward": "1 Luck Potion , 1 Power Potion , and 2 Spins"
+  },
+  {
+   "code": "GROUP",
+   "reward": "2 Win Potions and 3 Spins . To use this code, you must first join the "
   }
  ],
- "updated": "2026-10-21T21:28:49.930Z",
+ "updated": "2026-10-22T21:29:36.124Z",
  "source": "https://robloxden.com/game-codes/1-soldier-evolution"
 }

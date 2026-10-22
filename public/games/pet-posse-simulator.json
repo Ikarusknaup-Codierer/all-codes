@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "10KLikes",
+   "code": "3kLikes",
    "reward": "50 Mega Coins"
   },
   {
-   "code": "1500Likes",
-   "reward": "75 Mega Coins"
-  },
-  {
-   "code": "750Likes",
-   "reward": "a reward"
-  },
-  {
-   "code": "Sorry",
+   "code": "25KLikes",
    "reward": "1 2x Coins Potion"
   },
   {
-   "code": "40KLikes",
+   "code": "55KLikes",
+   "reward": "1 2x Coins Potion"
+  },
+  {
+   "code": "60KLikes",
    "reward": "1 2x Coins Potion"
   }
  ],
- "updated": "2026-10-21T17:11:20.411Z",
+ "updated": "2026-10-22T21:26:46.804Z",
  "source": "https://robloxden.com/game-codes/pet-posse-simulator"
 }

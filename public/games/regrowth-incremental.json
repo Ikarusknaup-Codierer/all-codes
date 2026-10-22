@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "500Active",
+   "reward": "30 Eternal Shards"
+  },
+  {
    "code": "Improvements",
    "reward": "25 Eternal Shards"
   },
@@ -23,6 +27,6 @@
    "reward": "25 Eternal Shards"
   }
  ],
- "updated": "2026-10-21T17:04:48.921Z",
+ "updated": "2026-10-22T21:23:07.077Z",
  "source": "https://robloxden.com/game-codes/regrowth-incremental"
 }

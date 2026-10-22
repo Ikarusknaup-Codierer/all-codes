@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WITCHESFARMSER",
+   "reward": "Double XP for 2 Hours"
+  },
+  {
    "code": "WFEEDVAMPS",
    "reward": "4x XP for 1 Hour"
   },
@@ -47,6 +51,6 @@
    "reward": "Double XP and Double Money for 15 Minutes and 10,000 Money"
   }
  ],
- "updated": "2026-10-21T17:03:04.846Z",
+ "updated": "2026-10-22T21:22:16.664Z",
  "source": "https://robloxden.com/game-codes/vampire-life"
 }

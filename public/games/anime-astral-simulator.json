@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "GLOBALBOOSTS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "OVERCLOCK",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "FIXERGIGS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "SERVERBOOSTS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
    "code": "SANDEVISTAN",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -537,12 +553,8 @@
   {
    "code": "30KPLAYERS",
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
-  },
-  {
-   "code": "25KPLAYERS",
-   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-10-20T21:33:07.684Z",
+ "updated": "2026-10-22T04:12:56.701Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

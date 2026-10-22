@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "santa",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "firsttophat",
    "reward": "Free Rewards"
   },
@@ -19,14 +15,18 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "beaglebullet",
+   "code": "pumpkinspice",
    "reward": "Free Rewards"
   },
   {
-   "code": "mocha",
+   "code": "chilly",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "RoBeats",
+   "reward": "Disco Ball Skin"
   }
  ],
- "updated": "2026-10-20T21:27:38.861Z",
+ "updated": "2026-10-22T04:05:56.479Z",
  "source": "https://robloxden.com/game-codes/no-scope-arcade"
 }

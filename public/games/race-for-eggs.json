@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "TRAIN1",
+   "reward": "a Train Potion"
+  },
+  {
+   "code": "LUCK1",
+   "reward": "a Luck Potion"
+  },
+  {
+   "code": "UPD1",
+   "reward": "1 Cash Potion"
+  },
+  {
    "code": "RELEASE",
    "reward": "1 Lizard Pet"
   }
  ],
- "updated": "2026-10-20T21:32:04.126Z",
+ "updated": "2026-10-22T04:11:19.219Z",
  "source": "https://robloxden.com/game-codes/race-for-eggs"
 }

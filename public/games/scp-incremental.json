@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "MININGTIME",
+   "reward": "a 2x Stat Boost Potion , a 2x Rune Luck Potion and a 2x Rune Bulk Poti"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "a Rune Luck Potion and 100 Keycards"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "a Stat Boost Potion"
   }
  ],
- "updated": "2026-10-20T21:26:31.658Z",
+ "updated": "2026-10-22T04:04:41.509Z",
  "source": "https://robloxden.com/game-codes/scp-incremental"
 }

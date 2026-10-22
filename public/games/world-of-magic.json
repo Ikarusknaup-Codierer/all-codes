@@ -11,10 +11,6 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "GREATHOLIDAYZ",
-   "reward": "a 24 Hour 2x Crown Boost and a 24 Hour 2x XP Boost"
-  },
-  {
    "code": "WEKNOW10",
    "reward": "a 10 Hour 1.5x XP Boost"
   },
@@ -23,10 +19,14 @@
    "reward": "200 Crowns"
   },
   {
+   "code": "ALCHEMY200",
+   "reward": "200 Crowns"
+  },
+  {
    "code": "CURSE300",
    "reward": "300 Crowns"
   }
  ],
- "updated": "2026-10-20T21:28:53.085Z",
+ "updated": "2026-10-22T04:07:31.282Z",
  "source": "https://robloxden.com/game-codes/world-of-magic"
 }

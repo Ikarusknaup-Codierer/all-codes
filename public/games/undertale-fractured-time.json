@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DARKFOUNTAIN",
-   "reward": "10 Dungeon Keys"
-  },
-  {
    "code": "LUCKMAXER",
    "reward": "10 Lucky Spins"
   },
@@ -35,10 +31,14 @@
    "reward": "5 Weapon Loaders , 5 Soul Loaders , and 10 Minutes of 2x EXP"
   },
   {
+   "code": "DARKFOUNTAIN",
+   "reward": "10 Dungeon Keys"
+  },
+  {
    "code": "5500LIKES",
    "reward": "1 Lucky Soul Capsule , 5 Bad Memory , 5 Spray Can , 20 Minutes of 2x E"
   }
  ],
- "updated": "2026-10-20T21:33:48.206Z",
+ "updated": "2026-10-22T04:13:44.673Z",
  "source": "https://robloxden.com/game-codes/undertale-fractured-time"
 }

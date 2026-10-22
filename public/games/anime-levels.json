@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Shutdown",
+   "reward": "100 Gems , a Coin Potion , a Super Damage Potion , a Super Drop Potion"
+  },
+  {
+   "code": "ThankYou",
+   "reward": "a Coin Potion , a Damage Potion , a Drop Potion , an Energy Potion , a"
+  },
+  {
+   "code": "Hype",
+   "reward": "a Coin Potion , a Damage Potion , a Drop Potion , an Energy Potion , a"
+  },
+  {
+   "code": "FreeGems",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Release",
+   "reward": "300 Gems , a Super Energy Potion , and a Super Damage Potion"
+  },
+  {
+   "code": "MoreGems",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Shrines",
+   "reward": "100 Gems , a Coin Potion , a Damage Potion , a Drop Potion , an Energy"
   }
  ],
- "updated": "2026-10-20T21:27:18.312Z",
+ "updated": "2026-10-22T04:05:28.203Z",
  "source": "https://robloxden.com/game-codes/anime-levels"
 }

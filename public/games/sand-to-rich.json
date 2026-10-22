@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "GOLDENEGG",
+   "reward": "a Legendary Egg"
+  },
+  {
+   "code": "5GAMBA",
+   "reward": "5 Wheel Tickets"
+  },
+  {
+   "code": "THANKSANUBIS",
+   "reward": "1,000 Crystals"
+  },
+  {
+   "code": "HOMESWEETHOME",
+   "reward": "a Wood Shack Base Skin"
+  },
+  {
+   "code": "KEEPOUT",
+   "reward": "a Keep Out! Door Skin"
+  },
+  {
+   "code": "STRONGLEGS",
+   "reward": "10% Walk Speed (7 Days)"
   }
  ],
- "updated": "2026-10-20T21:30:07.597Z",
+ "updated": "2026-10-22T04:08:57.165Z",
  "source": "https://robloxden.com/game-codes/sand-to-rich"
 }

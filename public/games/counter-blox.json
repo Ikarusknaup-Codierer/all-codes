@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "REFUNDTHEHITREG",
-   "reward": "150 Credits"
-  },
-  {
    "code": "CBUNRESTRICTED2",
    "reward": "100 Credits"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Rewards"
   },
   {
+   "code": "CB2025",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "GAPPTV",
    "reward": "150 Cash"
   }
  ],
- "updated": "2026-10-20T21:27:47.892Z",
+ "updated": "2026-10-22T04:06:08.964Z",
  "source": "https://robloxden.com/game-codes/counter-blox"
 }

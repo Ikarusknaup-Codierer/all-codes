@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NOISY",
-   "reward": "1x Weapon Crate , 2x Building Box , and 70 Cash"
-  },
-  {
    "code": "IMPOSTERS58K",
    "reward": "1 Weapon Crate and 60 Cash"
   },
@@ -31,14 +27,14 @@
    "reward": "$50 Cash"
   },
   {
-   "code": "CONSOLE",
-   "reward": "2 Weapon Crates, and 60 Cash"
+   "code": "NOISY",
+   "reward": "1x Weapon Crate , 2x Building Box , and 70 Cash"
   },
   {
-   "code": "MPOSTERS24K",
-   "reward": "2 Building Boxes and an Imposter Ticket"
+   "code": "FREETICKETS",
+   "reward": "2 Imposter Tickets"
   }
  ],
- "updated": "2026-10-20T21:32:09.785Z",
+ "updated": "2026-10-22T04:11:29.668Z",
  "source": "https://robloxden.com/game-codes/imposters-and-roles"
 }

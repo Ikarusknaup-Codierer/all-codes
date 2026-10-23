@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "absolutegarbage",
-   "reward": ""
-  },
-  {
    "code": "coolcode",
    "reward": ""
   },
   {
    "code": "absolutelyterrible",
    "reward": "15 Rare Crates"
+  },
+  {
+   "code": "dogkeepers",
+   "reward": "45 Common Crates"
   },
   {
    "code": "ilovepeace",
@@ -27,6 +27,6 @@
    "reward": "5 Legendary Crates"
   }
  ],
- "updated": "2026-10-22T11:46:19.145Z",
+ "updated": "2026-10-23T16:54:49.388Z",
  "source": "https://robloxden.com/game-codes/peacekeepers"
 }

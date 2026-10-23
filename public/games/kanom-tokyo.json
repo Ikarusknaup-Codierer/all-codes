@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "IXA",
+   "reward": "10 EventPoint , 1,000,000 Yen and X2 Yen/Exp (30 Minutes)"
+  },
+  {
+   "code": "INeverGonnaYouUpNeverGonnaLetYouDown",
+   "reward": "10 Clan Spins"
+  },
+  {
+   "code": "ITMYFAULT",
+   "reward": "25 Mythic Gacha and X2 Yen (30 Minutes)"
+  },
+  {
    "code": "JackkeyxTei",
    "reward": "Double XP (15 Minutes)"
   },
@@ -37,8 +49,12 @@
   {
    "code": "SEWERDOG",
    "reward": "1 Clan Spin"
+  },
+  {
+   "code": "QOLUPDATES",
+   "reward": "5 Clan Spins"
   }
  ],
- "updated": "2026-10-22T11:49:14.548Z",
+ "updated": "2026-10-23T16:57:11.373Z",
  "source": "https://robloxden.com/game-codes/kanom-tokyo"
 }

@@ -271,10 +271,14 @@
    "reward": "100 Free Gems, 1 Dragon Balls Token, 1 Luck Potion II, 1 Power Potion "
   },
   {
-   "code": "700KVISITSINGAME",
+   "code": "400KVISITSINCREDIBLE",
+   "reward": "rewards"
+  },
+  {
+   "code": "RELEASEPATCH",
    "reward": "rewards"
   }
  ],
- "updated": "2026-10-22T11:48:34.146Z",
+ "updated": "2026-10-23T16:56:35.541Z",
  "source": "https://robloxden.com/game-codes/world-fighters"
 }

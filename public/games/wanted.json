@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LAUNDER",
-   "reward": "2 Basic Vehicle Crates"
-  },
-  {
    "code": "FRAG",
    "reward": "2 M67's"
   },
@@ -31,14 +27,14 @@
    "reward": "10,000 Cash"
   },
   {
-   "code": "EVIDENCE",
+   "code": "LAUNDER",
    "reward": "2 Basic Vehicle Crates"
   },
   {
-   "code": "SAWNOFF",
-   "reward": "a Sawn Off and 2 Basic Vehicle Crates"
+   "code": "FIREWORK",
+   "reward": "2 Basic Vehicle Crates and 5 Fireworks"
   }
  ],
- "updated": "2026-10-22T11:43:48.067Z",
+ "updated": "2026-10-23T16:53:11.783Z",
  "source": "https://robloxden.com/game-codes/wanted"
 }

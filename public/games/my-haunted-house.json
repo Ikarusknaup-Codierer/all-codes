@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Halloween2026",
+   "reward": "250 Candies"
+  },
+  {
+   "code": "ALIEN",
+   "reward": "250 Candies"
+  },
+  {
+   "code": "MUMMY",
+   "reward": "250 Candies"
+  },
+  {
+   "code": "haunted",
+   "reward": "350 Candies"
+  },
+  {
+   "code": "zombie",
+   "reward": "250 Candies"
+  },
+  {
+   "code": "discord",
+   "reward": "350 Candies"
   }
  ],
- "updated": "2026-10-22T11:46:52.317Z",
+ "updated": "2026-10-23T16:55:15.375Z",
  "source": "https://robloxden.com/game-codes/my-haunted-house"
 }

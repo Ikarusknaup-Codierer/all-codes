@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "x2Event",
-   "reward": "3 Hours of All Luck"
-  },
-  {
    "code": "UncappedAbilities",
    "reward": "Luck Boost (2 hrs) , Luck Boost++ (2 hrs) , and Lucky Boost+ (2 hrs)"
   },
@@ -33,6 +29,10 @@
   {
    "code": "MiniLuck",
    "reward": "30 Minutes of All Luck"
+  },
+  {
+   "code": "x2Event",
+   "reward": "3 Hours of All Luck"
   },
   {
    "code": "BATTLEPASS",
@@ -255,6 +255,6 @@
    "reward": "1 Fast Roll Boost"
   }
  ],
- "updated": "2026-10-22T11:28:54.531Z",
+ "updated": "2026-10-23T11:26:32.507Z",
  "source": "https://robloxden.com/game-codes/ultra-un-fair"
 }

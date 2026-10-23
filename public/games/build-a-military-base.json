@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TRAITCHANGES",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "WRECKER",
    "reward": "1 Premium Crate"
   },
@@ -63,6 +67,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-10-22T04:18:02.824Z",
+ "updated": "2026-10-23T11:24:37.949Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

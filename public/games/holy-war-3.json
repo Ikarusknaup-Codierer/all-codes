@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "MINATO",
-   "reward": ""
+   "code": "YOUWANTMAGIC",
+   "reward": "100 Magic Spins"
   },
   {
-   "code": "GUNGANG",
-   "reward": "Spins"
-  },
-  {
-   "code": "PEEKAPEEKABOO",
-   "reward": "Spins"
-  },
-  {
-   "code": "STATRESET6",
+   "code": "STATRESET8",
    "reward": "a Stat Reset"
   },
   {
-   "code": "DIMPLE2",
-   "reward": "Spins"
+   "code": "CRISMAGIC",
+   "reward": "a reward"
+  },
+  {
+   "code": "SOMEMAGIC",
+   "reward": "Magic Spins"
+  },
+  {
+   "code": "MAGICSPIN",
+   "reward": "1 Magic Spin"
   }
  ],
- "updated": "2026-10-22T04:08:05.149Z",
+ "updated": "2026-10-23T11:18:59.819Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

@@ -11,8 +11,8 @@
    "reward": "a Reroll"
   },
   {
-   "code": "PITY",
-   "reward": "20 Rerolls"
+   "code": "QOL4",
+   "reward": "67 Rerolls and 5,000 Yen"
   },
   {
    "code": "GAKURANCOMEBACK",
@@ -43,14 +43,10 @@
    "reward": "30 Rerolls"
   },
   {
-   "code": "idk",
-   "reward": "15 Rerolls"
-  },
-  {
    "code": "EATUP",
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-10-22T11:30:10.511Z",
+ "updated": "2026-10-23T11:27:23.127Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

@@ -95,10 +95,6 @@
    "reward": "20 Coins"
   },
   {
-   "code": "ODDPORT",
-   "reward": "the Uniform Skin, Sticky! Sticker and Reese! Sticker"
-  },
-  {
    "code": "HEROESXBOX",
    "reward": "the Xbox Skin"
   },
@@ -111,14 +107,26 @@
    "reward": "the Tower Heroes Sticker"
   },
   {
+   "code": "ODDPORT",
+   "reward": "the Uniform Skin, Sticky! Sticker and Reese! Sticker"
+  },
+  {
    "code": "ENEMYPETS",
    "reward": "the Spiders Sticker"
   },
   {
    "code": "TEAMUP",
    "reward": "the Team-Up Sticker"
+  },
+  {
+   "code": "ONEYEAR_TH",
+   "reward": "the Exclusive Chef Skin [Concept Chef]"
+  },
+  {
+   "code": "Easter2022",
+   "reward": "the Maoi Sticker"
   }
  ],
- "updated": "2026-10-22T04:19:45.049Z",
+ "updated": "2026-10-23T11:26:07.269Z",
  "source": "https://robloxden.com/game-codes/tower-heroes"
 }

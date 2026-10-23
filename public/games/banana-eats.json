@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CANDY",
+   "reward": "Candy Corn Banana"
+  },
+  {
    "code": "SuperSecretSkin",
    "reward": "The Golden Egg"
   },
@@ -23,6 +27,6 @@
    "reward": "a Purple Stocking"
   }
  ],
- "updated": "2026-10-22T04:09:09.988Z",
+ "updated": "2026-10-23T11:19:30.691Z",
  "source": "https://robloxden.com/game-codes/banana-eats"
 }

@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PASSEXPAND",
-   "reward": "5 Premium Wish Tokens and 5 Race Spins"
-  },
-  {
-   "code": "MOREUPDATES",
-   "reward": "10 Premium Wish Tokens , 10 Race Spins , and 50 Raid Tickets . You mus"
-  },
-  {
    "code": "OTAD",
    "reward": "5 Premium Wish Tokens , 6 Race Spins , and 7 Raid Tickets . You must h"
   },
@@ -23,8 +15,16 @@
    "reward": "5 Premium Wish Tokens and 5 Race Spins"
   },
   {
+   "code": "PASSEXPAND",
+   "reward": "5 Premium Wish Tokens and 5 Race Spins"
+  },
+  {
    "code": "REAPER",
    "reward": "5 Premium Wish Tokens and 5 Race Spins . You must play for at least an"
+  },
+  {
+   "code": "MOREUPDATES",
+   "reward": "10 Premium Wish Tokens , 10 Race Spins , and 50 Raid Tickets . You mus"
   },
   {
    "code": "BRUS",
@@ -167,6 +167,6 @@
    "reward": "10 Premium Wishes"
   }
  ],
- "updated": "2026-10-22T04:07:33.627Z",
+ "updated": "2026-10-23T11:18:54.126Z",
  "source": "https://robloxden.com/game-codes/dragon-blox"
 }

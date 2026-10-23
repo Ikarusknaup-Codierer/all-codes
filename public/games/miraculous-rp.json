@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FREEMIRACULOUS",
-   "reward": "a free Character of your choice"
-  },
-  {
    "code": "MLBFREES19",
    "reward": "a Free Character of your choice"
   },
@@ -23,6 +19,10 @@
    "reward": "character of your choice . If you have all the characters, you'll get "
   },
   {
+   "code": "FREEMIRACULOUS",
+   "reward": "a free Character of your choice"
+  },
+  {
    "code": "DAY20",
    "reward": "1,500 Charms"
   },
@@ -31,6 +31,6 @@
    "reward": "Christmas Kwami Plagg"
   }
  ],
- "updated": "2026-10-22T04:13:55.276Z",
+ "updated": "2026-10-23T11:23:17.122Z",
  "source": "https://robloxden.com/game-codes/miraculous-rp"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "10000members",
+   "reward": "200 Starfall Coins"
+  },
+  {
    "code": "cyberants",
    "reward": "a Cash Boost (15 Minute)"
   },
@@ -15,6 +19,6 @@
    "reward": "a Cash Boost (15 Minutes)"
   }
  ],
- "updated": "2026-10-22T11:30:56.722Z",
+ "updated": "2026-10-23T11:28:06.474Z",
  "source": "https://robloxden.com/game-codes/build-an-ant-empire"
 }

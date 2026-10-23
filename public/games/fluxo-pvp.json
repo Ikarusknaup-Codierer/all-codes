@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "10M",
+   "reward": "10,000 Cash"
+  },
+  {
    "code": "SORRYFORBUGS",
    "reward": "3,000 Coins"
   },
@@ -19,6 +23,6 @@
    "reward": "1 Easter Gun"
   }
  ],
- "updated": "2026-10-22T04:17:44.562Z",
+ "updated": "2026-10-23T11:24:19.537Z",
  "source": "https://robloxden.com/game-codes/fluxo-pvp"
 }

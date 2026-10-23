@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "!clanadvisorfix",
+   "reward": "3 Unstable Clan Reroll Potion"
+  },
+  {
    "code": "!20kfavourites",
    "reward": "5 Unstable Nichirin Appearance Reroll Potions , 5 Unstable Nichirin Co"
   },
@@ -21,10 +25,6 @@
   {
    "code": "ireadtips",
    "reward": "1 Unstable Clan Reroll Potion"
-  },
-  {
-   "code": "3mvisits",
-   "reward": "5 Unstable Reroll Potions , 3 Unstable BDA Reroll Potions , and an Uns"
   },
   {
    "code": "!summerboost2026",
@@ -67,6 +67,6 @@
    "reward": "2x Drop Rate Boost (2 Hours) and 2x Yen Boost (2 Hours)"
   }
  ],
- "updated": "2026-10-22T11:51:01.966Z",
+ "updated": "2026-10-23T21:14:24.924Z",
  "source": "https://robloxden.com/game-codes/untitled-slayer"
 }

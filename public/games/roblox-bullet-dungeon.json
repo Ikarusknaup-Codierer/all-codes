@@ -15,18 +15,18 @@
    "reward": "80 Emeralds"
   },
   {
-   "code": "RevivalEvent",
-   "reward": "2 Event Spin Tickets"
-  },
-  {
    "code": "KING",
    "reward": "100 Emeralds"
   },
   {
    "code": "EVENTRELEASE",
    "reward": "100 Emeralds"
+  },
+  {
+   "code": "FIRST",
+   "reward": "100 Emeralds"
   }
  ],
- "updated": "2026-10-22T16:57:06.241Z",
+ "updated": "2026-10-23T21:17:01.127Z",
  "source": "https://robloxden.com/game-codes/roblox-bullet-dungeon"
 }

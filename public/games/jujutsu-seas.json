@@ -63,10 +63,14 @@
    "reward": "30 Min EXP Boost"
   },
   {
-   "code": "Rahumi",
-   "reward": "a 15 Minute 2x EXP Boost"
+   "code": "SORRYFORSOULREAPERDELAY",
+   "reward": "15 Min EXP Boost"
+  },
+  {
+   "code": "1Klikes",
+   "reward": "Stat Reset"
   }
  ],
- "updated": "2026-10-22T17:01:53.188Z",
+ "updated": "2026-10-23T21:20:36.446Z",
  "source": "https://robloxden.com/game-codes/jujutsu-seas"
 }

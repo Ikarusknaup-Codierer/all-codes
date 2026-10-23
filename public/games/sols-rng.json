@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "UPD20261003",
-   "reward": "20 Potion Chest and 5 Rare Potion Chest"
-  },
-  {
    "code": "GargantuaBiome",
    "reward": "20 Potion Crates and 5 Rare Potion Chests"
+  },
+  {
+   "code": "UPD20261003",
+   "reward": "20 Potion Chest and 5 Rare Potion Chest"
   },
   {
    "code": "2026ValentineDay",
@@ -23,6 +23,6 @@
    "reward": "100 Potion Chests , 60 Rare Potion Chests , and 40 Mega Potion Chests"
   }
  ],
- "updated": "2026-10-22T04:08:29.223Z",
+ "updated": "2026-10-23T04:15:23.020Z",
  "source": "https://robloxden.com/game-codes/sols-rng"
 }

@@ -59,10 +59,6 @@
    "reward": "20 Mega Boosts (all types) , 100 Heavenly Fruits , 100 Cursed Orbs , 2"
   },
   {
-   "code": "RAIDREADY",
-   "reward": "3 Mysterious Keys and 25 Heavenly Fruits"
-  },
-  {
    "code": "THANKYOU96",
    "reward": "50 Cursed Orbs , 25 Heavenly Fruits , and 5 Passive Transfer Tokens"
   },
@@ -349,8 +345,12 @@
   {
    "code": "13FIGHTERS",
    "reward": "75 Passive Tokens and 100 Requiem Tokens"
+  },
+  {
+   "code": "RAIDREADY",
+   "reward": "3 Mysterious Keys and 25 Heavenly Fruits"
   }
  ],
- "updated": "2026-10-22T04:03:34.138Z",
+ "updated": "2026-10-23T04:11:10.304Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE_91",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "REPLAYS",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "MVP",
+   "reward": "5 Lucky Ability Spins"
+  },
+  {
    "code": "UPDATE_90",
    "reward": "5 Lucky Style Spins"
   },
@@ -143,6 +155,6 @@
    "reward": "5 Lucky Ability Spins"
   }
  ],
- "updated": "2026-10-22T04:07:28.145Z",
+ "updated": "2026-10-23T04:14:32.761Z",
  "source": "https://robloxden.com/game-codes/volleyball-legends"
 }

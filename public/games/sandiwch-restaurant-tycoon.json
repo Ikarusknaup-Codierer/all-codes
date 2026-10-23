@@ -11,10 +11,6 @@
    "reward": "2x Boost For 10 Minutes"
   },
   {
-   "code": "10KLikes",
-   "reward": "2x Cash Boost (10 minutes)"
-  },
-  {
    "code": "15KLikes",
    "reward": "2x Cash Boost (10 minutes)"
   },
@@ -33,8 +29,12 @@
   {
    "code": "350KVisits",
    "reward": "2x Boost For 5 Minutes"
+  },
+  {
+   "code": "10KLikes",
+   "reward": "2x Cash Boost (10 minutes)"
   }
  ],
- "updated": "2026-10-21T21:31:38.917Z",
+ "updated": "2026-10-23T04:06:42.758Z",
  "source": "https://robloxden.com/game-codes/sandiwch-restaurant-tycoon"
 }

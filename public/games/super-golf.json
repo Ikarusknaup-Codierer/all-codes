@@ -23,24 +23,12 @@
    "reward": "Green Whoosh Hair"
   },
   {
-   "code": "SG4YEARS2",
-   "reward": "Year 4 Candle Hat . This code requires level 25"
-  },
-  {
    "code": "SG4YEARS",
    "reward": "Cake Skin . This code requires level 25"
   },
   {
-   "code": "SPRING2024",
-   "reward": "Skin Chest . This code requires you to be at least level 25"
-  },
-  {
    "code": "like_super_golf",
    "reward": "Skin Chest . In order to redeem this code, you must be at least level "
-  },
-  {
-   "code": "WINTER2023",
-   "reward": "Chest Chest . In order to redeem this code, you must be at least level"
   },
   {
    "code": "BITWISE",
@@ -67,10 +55,6 @@
    "reward": "Chest Chest"
   },
   {
-   "code": "SEASON9",
-   "reward": "Speed Potion"
-  },
-  {
    "code": "292024",
    "reward": "Luck Potion"
   },
@@ -89,8 +73,20 @@
   {
    "code": "SORRYFORTHEDELAY",
    "reward": "Chest Chest"
+  },
+  {
+   "code": "SG4YEARS2",
+   "reward": "Year 4 Candle Hat . This code requires level 25"
+  },
+  {
+   "code": "SPRING2024",
+   "reward": "Skin Chest . This code requires you to be at least level 25"
+  },
+  {
+   "code": "WINTER2023",
+   "reward": "Chest Chest . In order to redeem this code, you must be at least level"
   }
  ],
- "updated": "2026-10-22T04:04:34.938Z",
+ "updated": "2026-10-23T04:12:06.923Z",
  "source": "https://robloxden.com/game-codes/super-golf"
 }

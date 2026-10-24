@@ -55,14 +55,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "healme",
-   "reward": "Superior Health Potions"
+   "code": "coins",
+   "reward": "500 Coins"
   },
   {
    "code": "cash",
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-10-23T11:27:44.320Z",
+ "updated": "2026-10-24T15:49:52.884Z",
  "source": "https://robloxden.com/game-codes/adventure-guild-battles"
 }

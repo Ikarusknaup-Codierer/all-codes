@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "robloxrox",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "rebirth",
+   "reward": "25,000 Coins"
+  },
+  {
+   "code": "gottagrind",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "updatealmostready",
    "reward": "3 Free Levels"
   },
   {
-   "code": "turkeytime",
-   "reward": "48 Hour X2 XP Boost"
-  },
-  {
-   "code": "UPDATE4",
-   "reward": "Free Diamonds"
-  },
-  {
-   "code": "BLACKCLOUDS",
-   "reward": "15,000 Cash"
-  },
-  {
-   "code": "EPICVOLCANO",
-   "reward": "a Double Coins Boost for 60 Minutes"
+   "code": "DIAMOND",
+   "reward": "a Double Bricks Boost for 10 Minutes"
   }
  ],
- "updated": "2026-10-23T11:23:26.235Z",
+ "updated": "2026-10-24T15:45:44.298Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

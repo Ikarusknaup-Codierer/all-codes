@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "sneezy",
+   "reward": "500x Paint Cans"
+  },
+  {
+   "code": "turkey",
+   "reward": "500x Paint Cans"
+  },
+  {
    "code": "audish",
    "reward": "500 Paint Cans"
   },
@@ -23,6 +31,6 @@
    "reward": "500 Paint Cans"
   }
  ],
- "updated": "2026-10-23T11:22:30.976Z",
+ "updated": "2026-10-24T15:44:51.705Z",
  "source": "https://robloxden.com/game-codes/draw-n-spawn"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BIGNUKE",
+   "reward": "a Nuke"
+  },
+  {
+   "code": "DAMAGECONTROL",
+   "reward": "50 Blocks"
+  },
+  {
    "code": "1M",
    "reward": "Fast Speed Boost"
   },
@@ -17,16 +25,8 @@
   {
    "code": "HOORAY",
    "reward": "God Mode Boost"
-  },
-  {
-   "code": "900K",
-   "reward": "a Fast Speed Boost"
-  },
-  {
-   "code": "150MVISITS",
-   "reward": "Fast Speed Boost , Fling Others , and 3 Spins"
   }
  ],
- "updated": "2026-10-23T11:23:47.378Z",
+ "updated": "2026-10-24T15:46:04.698Z",
  "source": "https://robloxden.com/game-codes/bridge-battles"
 }

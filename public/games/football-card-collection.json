@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "GENESIS",
+   "reward": "50% Off Packs (2 minutes) and 2x Luck (20 minutes)"
+  },
+  {
+   "code": "SHOWCASE",
+   "reward": "4x Coins (5 minutes) and 4x Luck (5 minutes)"
+  },
+  {
+   "code": "ROUNDTOWN",
+   "reward": "Silver Roundtown Jameer Gib"
+  },
+  {
+   "code": "RADAR",
+   "reward": "2x Coins (5 minutes) , 2x Luck (5 minutes) , and No Pack Cooldown (5 m"
+  },
+  {
+   "code": "TICKET",
+   "reward": "2x Coins (30 minutes)"
+  },
+  {
+   "code": "MUNCHER",
+   "reward": "50% off Fuse Packs activated (2 minutes)"
+  },
+  {
    "code": "COACH",
    "reward": "+5% Luck DC Wayde Phillip"
   },
@@ -23,6 +47,6 @@
    "reward": "50% OFF Packs and No Pack Cooldowns (5 Minutes)"
   }
  ],
- "updated": "2026-10-23T11:26:00.365Z",
+ "updated": "2026-10-24T15:48:10.373Z",
  "source": "https://robloxden.com/game-codes/football-card-collection"
 }

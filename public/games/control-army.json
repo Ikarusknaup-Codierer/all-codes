@@ -99,14 +99,14 @@
    "reward": "2 2x Luck Boosts and 5 Ancient Fragments"
   },
   {
-   "code": "MerryChristmas",
-   "reward": "2,000 Gold"
-  },
-  {
    "code": "HappyValentines",
    "reward": "Healer Barrack"
+  },
+  {
+   "code": "HappyValentine",
+   "reward": "A Healer Barrack"
   }
  ],
- "updated": "2026-10-23T11:19:31.342Z",
+ "updated": "2026-10-24T15:42:02.442Z",
  "source": "https://robloxden.com/game-codes/control-army"
 }

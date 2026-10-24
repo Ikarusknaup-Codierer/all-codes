@@ -11,10 +11,6 @@
    "reward": "35 Coins"
   },
   {
-   "code": "Halloween",
-   "reward": "50 Coins"
-  },
-  {
    "code": "icouldreallyuseawish",
    "reward": "30 Coins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "PopPopsicle",
    "reward": "100 Coins"
+  },
+  {
+   "code": "Christmas",
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-23T11:22:42.415Z",
+ "updated": "2026-10-24T15:45:02.602Z",
  "source": "https://robloxden.com/game-codes/fidget-world"
 }

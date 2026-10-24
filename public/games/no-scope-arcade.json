@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Christmas",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "firsttophat",
    "reward": "Free Rewards"
   },
@@ -19,14 +15,18 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "pumpkinspice",
+   "code": "bglcansnipe",
    "reward": "Free Rewards"
   },
   {
-   "code": "horror",
-   "reward": "150 EXP And 150 Tokens"
+   "code": "pookie",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "leapyear",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-23T04:13:21.795Z",
+ "updated": "2026-10-24T15:40:05.834Z",
  "source": "https://robloxden.com/game-codes/no-scope-arcade"
 }

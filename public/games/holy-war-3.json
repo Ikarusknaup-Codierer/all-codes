@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "YOUWANTMAGIC",
-   "reward": "100 Magic Spins"
+   "code": "SACREDTREASURE",
+   "reward": "Spins"
   },
   {
-   "code": "STATRESET8",
+   "code": "STATRESET4",
    "reward": "a Stat Reset"
   },
   {
-   "code": "CRISMAGIC",
+   "code": "BUGBUGEXP",
    "reward": "a reward"
   },
   {
-   "code": "SOMEMAGIC",
-   "reward": "Magic Spins"
+   "code": "HAVESOME",
+   "reward": "40 Race Spins"
   },
   {
-   "code": "MAGICSPIN",
-   "reward": "1 Magic Spin"
+   "code": "HOLDITWELL",
+   "reward": "Spins"
   }
  ],
- "updated": "2026-10-23T11:18:59.819Z",
+ "updated": "2026-10-24T15:41:32.546Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

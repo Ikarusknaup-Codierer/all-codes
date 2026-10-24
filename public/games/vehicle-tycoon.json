@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWS25",
-   "reward": "75,000 Cash and 20 Pumpkins"
-  },
-  {
-   "code": "MEMBER",
-   "reward": "20,000 Cash"
+   "code": "LITEEMPIRE700",
+   "reward": "250,000 Cash"
   },
   {
    "code": "VOLCANO",
    "reward": "Cash"
   },
   {
-   "code": "BUILDCAR",
+   "code": "EGGHUNT",
    "reward": "12,500 Cash"
   },
   {
    "code": "SCHOOL",
    "reward": "1,250 cash"
+  },
+  {
+   "code": "TURKEY",
+   "reward": "1,500 cash"
   }
  ],
- "updated": "2026-10-23T11:24:57.813Z",
+ "updated": "2026-10-24T15:47:10.058Z",
  "source": "https://robloxden.com/game-codes/vehicle-tycoon"
 }

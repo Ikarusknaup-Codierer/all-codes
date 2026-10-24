@@ -15,18 +15,18 @@
    "reward": "a 2x Coins Boost"
   },
   {
-   "code": "Cannon",
+   "code": "Flash",
+   "reward": "1 Faster Attack Boost"
+  },
+  {
+   "code": "FreeBoost",
    "reward": "1 Double Coins Boost"
   },
   {
-   "code": "King",
-   "reward": "450 Coins"
-  },
-  {
-   "code": "20KLIKES",
-   "reward": "a 2x Damage Boost"
+   "code": "Release",
+   "reward": "80 Coins"
   }
  ],
- "updated": "2026-10-23T04:15:56.731Z",
+ "updated": "2026-10-24T15:40:48.220Z",
  "source": "https://robloxden.com/game-codes/cannon-simulator"
 }

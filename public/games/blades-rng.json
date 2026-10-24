@@ -43,14 +43,14 @@
    "reward": "Special Luck Elixir"
   },
   {
-   "code": "FIVESTARLUCK",
-   "reward": "Luck Boost"
-  },
-  {
    "code": "ThankYouLuck",
    "reward": "30% Luck Potion For One Hour"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "250 Gems"
   }
  ],
- "updated": "2026-10-23T04:07:47.972Z",
+ "updated": "2026-10-24T10:40:31.722Z",
  "source": "https://robloxden.com/game-codes/blades-rng"
 }

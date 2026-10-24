@@ -79,14 +79,14 @@
    "reward": "5 Hero Magic Dust and 500 Gems"
   },
   {
-   "code": "DELAYHEROES",
-   "reward": "Rewards"
-  },
-  {
    "code": "NEWGAME",
    "reward": "50 Cos Coins"
+  },
+  {
+   "code": "GEMGIFT",
+   "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-10-23T04:11:03.167Z",
+ "updated": "2026-10-24T10:43:02.812Z",
  "source": "https://robloxden.com/game-codes/anime-dungeon-fighters"
 }

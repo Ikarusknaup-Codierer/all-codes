@@ -15,18 +15,18 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "100k Cash"
-  },
-  {
-   "code": "pvp",
+   "code": "apc",
    "reward": "50k Free Cash"
   },
   {
-   "code": "cargo",
-   "reward": "50k Free Cash"
+   "code": "BUNKER",
+   "reward": "50k Cash"
+  },
+  {
+   "code": "hardcore",
+   "reward": "50k Cash"
   }
  ],
- "updated": "2026-10-23T04:08:59.250Z",
+ "updated": "2026-10-24T10:41:38.962Z",
  "source": "https://robloxden.com/game-codes/zombie-battle-tycoon"
 }

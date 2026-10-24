@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SPACEFORCE",
-   "reward": "1,250 Gym Tokens"
-  },
-  {
    "code": "500M",
    "reward": "Freebies"
   },
@@ -83,14 +79,14 @@
    "reward": "2 Spins"
   },
   {
-   "code": "BOOTCAMP",
+   "code": "SPACEFORCE",
    "reward": "1,250 Gym Tokens"
   },
   {
-   "code": "Jack-O-Lantern",
-   "reward": "Level-Up And 105 Coins"
+   "code": "BOOTCAMP",
+   "reward": "1,250 Gym Tokens"
   }
  ],
- "updated": "2026-10-22T21:31:23.784Z",
+ "updated": "2026-10-24T10:38:15.618Z",
  "source": "https://robloxden.com/game-codes/gym-star-simulator"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "60 Rolls"
-  },
-  {
    "code": "DAILYREWARDS",
    "reward": "45 Rolls"
   },
@@ -25,6 +21,10 @@
   {
    "code": "MILLIONVISITS",
    "reward": "35 Rolls"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "60 Rolls"
   },
   {
    "code": "BIRTHDAY",
@@ -43,6 +43,6 @@
    "reward": "25 Rolls"
   }
  ],
- "updated": "2026-10-23T04:10:27.960Z",
+ "updated": "2026-10-24T10:42:29.463Z",
  "source": "https://robloxden.com/game-codes/komorebi-prison"
 }

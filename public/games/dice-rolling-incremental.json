@@ -5,8 +5,60 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "DISCOVERED",
+   "reward": "5 Frozen Chests"
+  },
+  {
+   "code": "JADED",
+   "reward": "5 Frozen Chests"
+  },
+  {
+   "code": "COLLECTION",
+   "reward": "5 Frozen Chests"
+  },
+  {
+   "code": "INDEX",
+   "reward": "5 Frozen Chests"
+  },
+  {
+   "code": "100K",
+   "reward": "5 Frozen Chests"
+  },
+  {
+   "code": "NOMORESTEALING",
+   "reward": "5 Frozen Chests"
+  },
+  {
+   "code": "THEISLES",
+   "reward": "200 Tickets , 5 Frozen Chests , and 5 Amethyst Chests"
+  },
+  {
+   "code": "RUNES",
+   "reward": "5 Amethyst Chests"
+  },
+  {
+   "code": "FIXES",
+   "reward": "50 Tickets"
+  },
+  {
+   "code": "QOL",
+   "reward": "5 Golden Chests"
+  },
+  {
+   "code": "REBALANCE",
+   "reward": "3 Amethyst Chests"
+  },
+  {
+   "code": "PATCH",
+   "reward": "3 Amethyst Chests"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "a Amethyst Chest , 3 Golden Chests , and 5 Basic Chests"
   }
  ],
- "updated": "2026-10-22T21:29:39.261Z",
+ "updated": "2026-10-24T04:08:16.888Z",
  "source": "https://robloxden.com/game-codes/dice-rolling-incremental"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "sneezy",
+   "reward": "500x Paint Cans"
+  },
+  {
+   "code": "turkey",
+   "reward": "500x Paint Cans"
+  },
+  {
    "code": "audish",
    "reward": "500 Paint Cans"
   },
@@ -23,6 +31,6 @@
    "reward": "500 Paint Cans"
   }
  ],
- "updated": "2026-10-22T17:04:26.344Z",
+ "updated": "2026-10-24T04:00:10.339Z",
  "source": "https://robloxden.com/game-codes/drawings-attack"
 }

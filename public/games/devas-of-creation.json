@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "C115KLikes",
+   "reward": "3 Blessed Armor Enchant Scrolls , 2 Resurrect Scrolls , 3 Trait Spins "
+  },
+  {
    "code": "DOCSpecialReward",
    "reward": "3 Trait Spins , 3 Inventory Slots , 2 Warehouse Slots , and 150 Factio"
   },
@@ -19,14 +23,10 @@
    "reward": "a Crafting Mastery Flask, 3500 Essence Tokens, Weapon Enchant Scroll, "
   },
   {
-   "code": "DOC35KLikess",
-   "reward": "1 Resurrect Scroll, 1 Weapon Enchant Scroll, 1 Armor Enchant Scroll, 1"
-  },
-  {
-   "code": "DOC115KLikes",
-   "reward": "3 Blessed Armor Enchant Scrolls , 2 Resurrect Scrolls , 3 Trait Spins "
+   "code": "DOCFortuneCode",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-22T21:28:18.984Z",
+ "updated": "2026-10-24T04:06:59.193Z",
  "source": "https://robloxden.com/game-codes/devas-of-creation"
 }

@@ -27,10 +27,6 @@
    "reward": "5 Lucky Spins"
   },
   {
-   "code": "250",
-   "reward": "3 Lucky Spins"
-  },
-  {
    "code": "150KLIKES",
    "reward": "2 Free Spins"
   },
@@ -75,6 +71,10 @@
    "reward": "5 Lucky Spins"
   },
   {
+   "code": "250",
+   "reward": "3 Lucky Spins"
+  },
+  {
    "code": "SLINGSHOT",
    "reward": "5 Spins"
   },
@@ -111,6 +111,6 @@
    "reward": "5 Lucky Style Spins"
   }
  ],
- "updated": "2026-10-22T21:28:58.964Z",
+ "updated": "2026-10-24T04:07:38.073Z",
  "source": "https://robloxden.com/game-codes/superstar-baseball"
 }

@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Engineer",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "UpgradedTitanSpeakerman",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "NewMaps",
+   "reward": "50 Coins"
   }
  ],
- "updated": "2026-10-23T04:06:08.264Z",
+ "updated": "2026-10-24T04:11:10.511Z",
  "source": "https://robloxden.com/game-codes/cameraman-tower-defense"
 }

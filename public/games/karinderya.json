@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "75MVISITS",
+   "reward": "75,000 Cash and 2x Cash Potions"
+  },
+  {
+   "code": "CUSHIONCHAIR",
+   "reward": "Cash and the Chair"
+  },
+  {
    "code": "Buhay",
    "reward": "70,000 cash"
   },
@@ -29,10 +37,6 @@
   {
    "code": "50MVISITS",
    "reward": "50,000 Cash and 2x Luck Potions"
-  },
-  {
-   "code": "CUSHIONCHAIR",
-   "reward": "Cash and the Chair"
   },
   {
    "code": "45MVISITS",
@@ -83,6 +87,6 @@
    "reward": "3,000 Cash , 1 Cash Potion , and 1 Luck Potion"
   }
  ],
- "updated": "2026-10-22T21:23:28.775Z",
+ "updated": "2026-10-24T04:02:14.030Z",
  "source": "https://robloxden.com/game-codes/karinderya"
 }

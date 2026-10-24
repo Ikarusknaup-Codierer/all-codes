@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "batcat",
+   "reward": "50,000 Crystals"
+  },
+  {
+   "code": "halloween",
+   "reward": "75,000 Crystals"
+  },
+  {
    "code": "KPOP",
    "reward": "50,000 Gems"
   },
@@ -71,6 +79,6 @@
    "reward": "42,500 Crystals"
   }
  ],
- "updated": "2026-10-22T21:25:43.576Z",
+ "updated": "2026-10-24T04:04:28.117Z",
  "source": "https://robloxden.com/game-codes/cookie-run-gacha-simulator"
 }

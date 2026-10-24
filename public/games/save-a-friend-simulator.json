@@ -47,14 +47,14 @@
    "reward": "2x Wins Boost (30 minutes)"
   },
   {
-   "code": "NEWGAME",
-   "reward": "50 Wins And 5 Power"
-  },
-  {
    "code": "CHAMPION1",
    "reward": "30min Of X2 Rewards"
+  },
+  {
+   "code": "resetquests",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-22T21:27:51.918Z",
+ "updated": "2026-10-24T04:06:31.443Z",
  "source": "https://robloxden.com/game-codes/save-a-friend-simulator"
 }

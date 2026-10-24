@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "wearehomenow",
+   "reward": "3x Stat Boost for one week"
+  },
+  {
+   "code": "supersorry",
+   "reward": "3x Boost for one week , 10x Rebirths , and 10% to all strengths"
+  },
+  {
+   "code": "pixelfixlol",
+   "reward": "1% to all strengths and 3x Boost (72 Hours)"
+  },
+  {
    "code": "majorpane",
    "reward": "5% Of Current Strength and 3x Stat Boost (72 Hours)"
   },
@@ -475,14 +487,14 @@
    "reward": "+10% Stats"
   },
   {
-   "code": "jazzclub",
-   "reward": "3x Stat Boosts (12 hours)"
+   "code": "ninja",
+   "reward": "3x Stat Boosts (48 hours) and 1,500 Prison Coins"
   },
   {
-   "code": "eastereventstays",
-   "reward": "3x Stat Boost (12 hours)"
+   "code": "itschocotime",
+   "reward": "3x Stat Boost (4 hours)"
   }
  ],
- "updated": "2026-10-22T21:26:21.042Z",
+ "updated": "2026-10-24T04:05:04.385Z",
  "source": "https://robloxden.com/game-codes/arm-wrestle-simulator"
 }

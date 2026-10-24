@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SMALL_UPDATE",
-   "reward": "15 Gems"
-  },
-  {
-   "code": "2K_LIKES_BEAN",
-   "reward": "100 Sheckles"
-  },
-  {
-   "code": "COCOMANGO_COMPENSATION",
-   "reward": "Cocomango"
-  },
-  {
    "code": "KITCHEN_DISASTER",
    "reward": "1 Food Crate"
   },
@@ -97,8 +85,20 @@
   {
    "code": "NOT_A_SECRET_CODE",
    "reward": "100 Sheckles"
+  },
+  {
+   "code": "SMALL_UPDATE",
+   "reward": "15 Gems"
+  },
+  {
+   "code": "2K_LIKES_BEAN",
+   "reward": "100 Sheckles"
+  },
+  {
+   "code": "COCOMANGO_COMPENSATION",
+   "reward": "Cocomango"
   }
  ],
- "updated": "2026-10-22T17:04:12.306Z",
+ "updated": "2026-10-24T04:00:02.506Z",
  "source": "https://robloxden.com/game-codes/grow-a-unit-td"
 }

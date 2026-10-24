@@ -79,12 +79,28 @@
    "reward": "a Ghost - Pistol"
   },
   {
+   "code": "hallowpass",
+   "reward": "Rewards . You need to reach level 3 to use this code"
+  },
+  {
    "code": "crimsonhalloween",
    "reward": "a CrimsonHalloween - Combat_P!"
   },
   {
    "code": "revolve",
    "reward": "a Revolve - SP!"
+  },
+  {
+   "code": "spiderweb",
+   "reward": "a Spiderweb - SP!"
+  },
+  {
+   "code": "Hpass",
+   "reward": "Rewards . You need to reach level 3 to use this code"
+  },
+  {
+   "code": "spirit",
+   "reward": "Spirit - Pistol .50!"
   },
   {
    "code": "FREDAG",
@@ -239,6 +255,6 @@
    "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-10-23T16:53:47.001Z",
+ "updated": "2026-10-24T20:38:40.559Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

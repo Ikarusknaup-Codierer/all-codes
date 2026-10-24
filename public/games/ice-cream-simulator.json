@@ -43,14 +43,14 @@
    "reward": "10 Super Rebirths"
   },
   {
-   "code": "oops",
-   "reward": "150 Tokens"
+   "code": "fail",
+   "reward": "500 Tokens"
   },
   {
-   "code": "cold",
-   "reward": "25,000 Air Tokens"
+   "code": "bigfail",
+   "reward": "5,000 Tokens"
   }
  ],
- "updated": "2026-10-23T16:49:43.708Z",
+ "updated": "2026-10-24T20:34:52.737Z",
  "source": "https://robloxden.com/game-codes/ice-cream-simulator"
 }

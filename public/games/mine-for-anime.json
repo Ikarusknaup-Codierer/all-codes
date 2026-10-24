@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE3",
+   "reward": "a Cosmic Potion , a Rainbow Potion , a Money Potion , a Strength Potio"
+  },
+  {
+   "code": "ACCESSORIES",
+   "reward": "a Cosmic Potion"
+  },
+  {
    "code": "300LIKES",
    "reward": "Yhwatch's Cloak"
   }
  ],
- "updated": "2026-10-23T11:33:17.149Z",
+ "updated": "2026-10-24T20:31:37.236Z",
  "source": "https://robloxden.com/game-codes/mine-for-anime"
 }

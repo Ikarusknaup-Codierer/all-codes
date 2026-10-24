@@ -19,16 +19,8 @@
    "reward": "1 Ore Potion and 10 Jade"
   },
   {
-   "code": "HARDTRAINING",
-   "reward": "10 Tickets , 20 Jade , and 5 of Each Mark Potion"
-  },
-  {
    "code": "WORLD8PT2",
    "reward": "5 Tickets and 1 of Each Path Potion"
-  },
-  {
-   "code": "HEAVENHASFALLEN",
-   "reward": "1 Weather Potion and 10 Jade"
   },
   {
    "code": "ETERNALRESEARCH",
@@ -347,6 +339,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-10-23T16:54:30.854Z",
+ "updated": "2026-10-24T20:39:22.284Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

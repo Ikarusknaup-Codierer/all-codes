@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE05",
+   "reward": "20x Characteristic , 50x Release Capsule , 1,000 Coins , and 1,000 Jew"
+  },
+  {
+   "code": "FATESTAYNIGHT",
+   "reward": "20x Characteristic , 50x Release Capsule , 1,000 Fate Coins , 1,000 Co"
+  },
+  {
+   "code": "GILGAMESH",
+   "reward": "10x Characteristic , 1,000 Fate Coins , 1,000 Coins , and 1,000 Jewels"
+  },
+  {
    "code": "THANKSFOR7000CCU",
    "reward": "Free Rewards"
   },
@@ -59,6 +71,6 @@
    "reward": "1,000 Coins , 10x Trait , and 40x Release Capsule"
   }
  ],
- "updated": "2026-10-23T16:52:51.451Z",
+ "updated": "2026-10-24T20:37:44.566Z",
  "source": "https://robloxden.com/game-codes/anime-mysterious"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SummerEvent!",
-   "reward": "2,500 Gems"
+   "code": "30klikes",
+   "reward": ""
   },
   {
-   "code": "Gone",
-   "reward": "3,000 Gems"
+   "code": "50klikes",
+   "reward": "Reward Unknown"
   },
   {
-   "code": "Ranked",
-   "reward": "3,000 Gems"
+   "code": "privatematches",
+   "reward": "1,500 Gems"
   },
   {
-   "code": "Update2",
-   "reward": "2,500 Gems"
-  },
-  {
-   "code": "Arise",
+   "code": "100kInterested",
    "reward": "1,000 Gems"
+  },
+  {
+   "code": "SorryForBugs",
+   "reward": "1,500 Gems"
   }
  ],
- "updated": "2026-10-23T16:51:54.144Z",
+ "updated": "2026-10-24T20:36:48.806Z",
  "source": "https://robloxden.com/game-codes/jump-stars"
 }

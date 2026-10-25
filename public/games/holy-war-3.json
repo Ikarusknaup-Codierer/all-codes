@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "PROJECT",
+   "reward": "the Estarossa's Armour"
+  },
+  {
+   "code": "LMBFAO",
+   "reward": "Exp"
+  },
+  {
    "code": "SACREDTREASURE",
    "reward": "Spins"
   },
   {
-   "code": "STATRESET4",
-   "reward": "a Stat Reset"
+   "code": "WESORRY4BUG",
+   "reward": "some free spins"
   },
   {
-   "code": "BUGBUGEXP",
-   "reward": "a reward"
-  },
-  {
-   "code": "HAVESOME",
-   "reward": "40 Race Spins"
-  },
-  {
-   "code": "HOLDITWELL",
-   "reward": "Spins"
+   "code": "DEMONMAGIC",
+   "reward": "Magic Spins"
   }
  ],
- "updated": "2026-10-24T15:41:32.546Z",
+ "updated": "2026-10-25T20:42:21.500Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

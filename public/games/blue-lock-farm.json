@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BLUETOOTH",
+   "reward": "2x Bluetooth Potions"
+  },
+  {
+   "code": "ADMINABUSE3",
+   "reward": "10x Grade Tokens , 10x Trait Tokens , and 1x Duck Potion"
+  },
+  {
    "code": "BALLS",
    "reward": "1 Monster Ball , 1 Supercharged Ball , and 1 Beach Ball"
   },
@@ -31,6 +39,6 @@
    "reward": "25 Trait Tokens"
   }
  ],
- "updated": "2026-10-24T15:43:43.544Z",
+ "updated": "2026-10-25T20:44:08.779Z",
  "source": "https://robloxden.com/game-codes/blue-lock-farm"
 }

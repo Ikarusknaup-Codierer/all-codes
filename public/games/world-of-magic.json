@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "Brooms",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "Fireball",
    "reward": "Free Rewards"
   },
   {
    "code": "WEKNOW10",
    "reward": "a 10 Hour 1.5x XP Boost"
-  },
-  {
-   "code": "NEW2021YEAR",
-   "reward": "a 24 Hour 1.5x Crown Boost and a 24 Hour 1.5x XP Boost"
   },
   {
    "code": "SELECTORCH200",
@@ -27,6 +27,6 @@
    "reward": "300 Crowns"
   }
  ],
- "updated": "2026-10-24T15:40:20.026Z",
+ "updated": "2026-10-25T20:41:14.291Z",
  "source": "https://robloxden.com/game-codes/world-of-magic"
 }

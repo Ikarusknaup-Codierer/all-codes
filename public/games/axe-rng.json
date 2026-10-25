@@ -35,14 +35,14 @@
    "reward": "a Logs Potion and a Honey Potion"
   },
   {
-   "code": "POTIONS",
+   "code": "SWEETBOOST",
    "reward": "1 Logs Potion and 1 Honey Potion"
   },
   {
-   "code": "SWEETBOOST",
-   "reward": "1 Logs Potion and 1 Honey Potion"
+   "code": "ADMINABUSESOON",
+   "reward": "2 Super Luck Potions"
   }
  ],
- "updated": "2026-10-24T10:45:28.746Z",
+ "updated": "2026-10-25T20:40:00.079Z",
  "source": "https://robloxden.com/game-codes/axe-rng"
 }

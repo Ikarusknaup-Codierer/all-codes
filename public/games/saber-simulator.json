@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN26",
+   "reward": "31x Void Charms"
+  },
+  {
    "code": "SPOOKYSZN",
    "reward": "31x Void Charms , 31x Shiny Charms , and 31x Rainbow Charms"
   },
@@ -423,14 +427,14 @@
    "reward": "10,000 Strength"
   },
   {
-   "code": "CHARMS",
-   "reward": "Charms"
+   "code": "SCYTHE",
+   "reward": "600"
   },
   {
-   "code": "600MY",
-   "reward": "25 Void Charms"
+   "code": "CHARMS",
+   "reward": "Charms"
   }
  ],
- "updated": "2026-10-24T04:05:40.609Z",
+ "updated": "2026-10-25T11:09:52.920Z",
  "source": "https://robloxden.com/game-codes/saber-simulator"
 }

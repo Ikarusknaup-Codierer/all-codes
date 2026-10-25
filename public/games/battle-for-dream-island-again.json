@@ -31,10 +31,6 @@
    "reward": "the Butter Cake Skin"
   },
   {
-   "code": "rewindtime",
-   "reward": "Skidibi Teardrop Skin"
-  },
-  {
    "code": "cat",
    "reward": "the Avis Pie Skin"
   },
@@ -47,16 +43,16 @@
    "reward": "the Cotton Rocky Skin"
   },
   {
-   "code": "Compensuzaetion",
-   "reward": "1 Gem and 500 Coins"
-  },
-  {
    "code": "SpaceVisor",
    "reward": "the Devoted Donut Skin"
   },
   {
    "code": "SoRich!",
    "reward": "the Rich Smileyface Skin"
+  },
+  {
+   "code": "PADOREOE",
+   "reward": "the Blocky Skin"
   },
   {
    "code": "Communitical",
@@ -67,6 +63,10 @@
    "reward": "2 Gems"
   },
   {
+   "code": "rewindtime",
+   "reward": "Skidibi Teardrop Skin"
+  },
+  {
    "code": "25kmany",
    "reward": "500 Coins"
   },
@@ -75,10 +75,14 @@
    "reward": "the Uncle Rubber Spatula Skin"
   },
   {
+   "code": "Compensuzaetion",
+   "reward": "1 Gem and 500 Coins"
+  },
+  {
    "code": "Epikfull",
    "reward": "the Epik Snowball Skin"
   }
  ],
- "updated": "2026-10-24T04:00:05.139Z",
+ "updated": "2026-10-25T11:04:34.708Z",
  "source": "https://robloxden.com/game-codes/battle-for-dream-island-again"
 }

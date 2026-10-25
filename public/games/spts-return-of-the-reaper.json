@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DeathAuras",
+   "reward": "2,500 Universal Coins"
+  },
+  {
    "code": "Update8",
    "reward": "5,000 Universal Coins"
   },
@@ -15,14 +19,10 @@
    "reward": "Reawakening Token"
   },
   {
-   "code": "NEWMAP",
-   "reward": "250 Universal"
-  },
-  {
-   "code": "TYFORSUPPORT",
-   "reward": "1,500 Universal"
+   "code": "Advent24",
+   "reward": "2,000 Universal Coins"
   }
  ],
- "updated": "2026-10-24T04:00:43.212Z",
+ "updated": "2026-10-25T11:05:10.313Z",
  "source": "https://robloxden.com/game-codes/spts-return-of-the-reaper"
 }

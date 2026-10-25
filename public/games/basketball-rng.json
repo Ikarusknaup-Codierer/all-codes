@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "THEGREATWIPE!",
-   "reward": "15 Large Luck Potions , 5 King Roll Speed Potions , and 500 Gems"
-  },
-  {
    "code": "24HMIRACLE",
    "reward": "100 Gems"
   },
@@ -25,6 +21,10 @@
   {
    "code": "NEWMENEWYOU",
    "reward": "100 Gems"
+  },
+  {
+   "code": "THEGREATWIPE!",
+   "reward": "15 Large Luck Potions , 5 King Roll Speed Potions , and 500 Gems"
   },
   {
    "code": "ValentinesDay!",
@@ -47,6 +47,6 @@
    "reward": "15 Large Luck Potions , 5 King Roll Speed Potions , and 500 Gems"
   }
  ],
- "updated": "2026-10-23T21:18:13.460Z",
+ "updated": "2026-10-25T04:06:29.054Z",
  "source": "https://robloxden.com/game-codes/basketball-rng"
 }

@@ -19,14 +19,14 @@
    "reward": "5 Spins"
   },
   {
-   "code": "FREESPIN",
-   "reward": "Free Spin"
-  },
-  {
    "code": "FIXMONEY",
    "reward": "20K Cash"
+  },
+  {
+   "code": "update",
+   "reward": "10K Cash"
   }
  ],
- "updated": "2026-10-23T21:18:53.969Z",
+ "updated": "2026-10-25T04:07:04.028Z",
  "source": "https://robloxden.com/game-codes/mechanic-legends"
 }

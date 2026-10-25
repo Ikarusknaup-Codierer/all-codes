@@ -11,10 +11,6 @@
    "reward": "250 Credits"
   },
   {
-   "code": "FREE_CREDITS",
-   "reward": "Credits"
-  },
-  {
    "code": "100kMembers",
    "reward": "1,000 Credits"
   },
@@ -23,10 +19,14 @@
    "reward": "500 Credits"
   },
   {
+   "code": "80kMembers",
+   "reward": "500 Credits"
+  },
+  {
    "code": "30kMembers",
    "reward": "500 Credits"
   }
  ],
- "updated": "2026-10-23T17:02:07.902Z",
+ "updated": "2026-10-25T04:01:59.453Z",
  "source": "https://robloxden.com/game-codes/lone-survival"
 }

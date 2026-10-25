@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ZaecBurmaldaec",
-   "reward": "1 Easter Basket"
-  },
-  {
    "code": "NewLobby!",
    "reward": "1,000 Cash"
   },
@@ -23,10 +19,14 @@
    "reward": "a Common Crate"
   },
   {
+   "code": "MidWeekSecret",
+   "reward": "rewards"
+  },
+  {
    "code": "MoreCode",
    "reward": "rewards"
   }
  ],
- "updated": "2026-10-23T21:20:02.915Z",
+ "updated": "2026-10-25T04:08:03.428Z",
  "source": "https://robloxden.com/game-codes/hide-the-body"
 }

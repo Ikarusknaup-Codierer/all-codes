@@ -15,6 +15,10 @@
    "reward": "15 Gold"
   },
   {
+   "code": "updatefinally",
+   "reward": "5 Gold"
+  },
+  {
    "code": "weareback",
    "reward": "5 Gold"
   },
@@ -55,14 +59,10 @@
    "reward": "5 Gold"
   },
   {
-   "code": "updatefinally",
-   "reward": "5 Gold"
-  },
-  {
    "code": "76249183",
    "reward": "Freebies"
   }
  ],
- "updated": "2026-10-23T21:14:13.147Z",
+ "updated": "2026-10-25T04:03:21.561Z",
  "source": "https://robloxden.com/game-codes/dropper-incremental"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "update6",
+   "reward": "15 Tickets , 1 Rune Potion , and 6 Rainbows"
+  },
+  {
+   "code": "update7",
+   "reward": "15 Tickets , an All Stat Potion , and 7 Rainbows"
+  },
+  {
    "code": "UPDATE5",
    "reward": "15 Tickets, 1 All Stats Potion and 5 Rainbows"
   },
@@ -67,6 +75,6 @@
    "reward": "2,500 Lights , 3 Tickets , and a Double Light Potion"
   }
  ],
- "updated": "2026-10-24T10:38:04.926Z",
+ "updated": "2026-10-25T15:54:14.670Z",
  "source": "https://robloxden.com/game-codes/light-incremental"
 }

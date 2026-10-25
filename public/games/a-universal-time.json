@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "THESLAYER",
+   "reward": "1x Random Emote . You must level up any ability to level 100 to claim "
+  },
+  {
+   "code": "HEIGHTOFMAGIC",
+   "reward": "10x Trait Rerolls . You must level up any ability to level 100 to clai"
+  },
+  {
    "code": "THXFORPATIENCE",
    "reward": "10x Trait Reroll"
   },
@@ -19,6 +27,6 @@
    "reward": "10 Skin Crates"
   }
  ],
- "updated": "2026-10-24T10:40:43.585Z",
+ "updated": "2026-10-25T15:57:15.357Z",
  "source": "https://robloxden.com/game-codes/a-universal-time"
 }

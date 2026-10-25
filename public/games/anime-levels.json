@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Runes",
+   "reward": "1x Super Coin Potion , 1x Super Damage Potion , 1x Super Drop Potion ,"
+  },
+  {
+   "code": "Battlepass",
+   "reward": "200 Gems"
+  },
+  {
    "code": "Shutdown",
    "reward": "100 Gems , a Coin Potion , a Super Damage Potion , a Super Drop Potion"
   },
@@ -35,6 +43,6 @@
    "reward": "100 Gems , a Coin Potion , a Damage Potion , a Drop Potion , an Energy"
   }
  ],
- "updated": "2026-10-24T10:44:48.919Z",
+ "updated": "2026-10-25T16:01:42.787Z",
  "source": "https://robloxden.com/game-codes/anime-levels"
 }

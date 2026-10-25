@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "streetfighter",
+   "reward": "6x Lucky Spins"
+  },
+  {
+   "code": "ryu",
+   "reward": "10x Spins"
+  },
+  {
    "code": "terror",
    "reward": "15 Spins"
   },
@@ -39,6 +47,6 @@
    "reward": "5 Lucky Spins"
   }
  ],
- "updated": "2026-10-24T10:38:36.713Z",
+ "updated": "2026-10-25T15:54:50.350Z",
  "source": "https://robloxden.com/game-codes/untitled-boxing-game"
 }

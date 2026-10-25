@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "IDKWHATTONAMETHISCODE",
+   "code": "SPOOKYHALLOWEEN",
+   "reward": "$2,000"
+  },
+  {
+   "code": "AA13",
    "reward": "$1,000"
   },
   {
-   "code": "4MIL",
+   "code": "PACKJET",
    "reward": "$1,000"
   },
   {
-   "code": "EGGSPLOSION",
-   "reward": "$2,500"
-  },
-  {
-   "code": "FLAME",
-   "reward": "$1,500"
-  },
-  {
-   "code": "JINGLEBELLS",
+   "code": "TSARSKELLY",
    "reward": "Unknown Reward"
+  },
+  {
+   "code": "PRIVATESERVER",
+   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-10-24T15:42:54.908Z",
+ "updated": "2026-10-25T16:05:34.543Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

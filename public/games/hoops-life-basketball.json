@@ -11,22 +11,22 @@
    "reward": "10 Chance Crates"
   },
   {
-   "code": "GoldRush",
-   "reward": "50 Gold"
+   "code": "CoinsStage",
+   "reward": "100 Coins"
   },
   {
-   "code": "Mascots",
+   "code": "RevampedDribbles",
    "reward": "250 Coins"
   },
   {
-   "code": "SpinTheWheel",
-   "reward": "2 Spins"
+   "code": "100XP",
+   "reward": "100 EXP"
   },
   {
    "code": "GymUpdate",
    "reward": "100 Coins"
   }
  ],
- "updated": "2026-10-24T10:42:04.440Z",
+ "updated": "2026-10-25T15:58:45.454Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

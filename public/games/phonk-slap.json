@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE4",
+   "reward": "250 Aura and 1x Spin"
+  },
+  {
+   "code": "MAGIC",
+   "reward": "3x Spins"
+  },
+  {
    "code": "KITTY",
    "reward": "150 Aura and 1 Spin"
   },
@@ -39,6 +47,6 @@
    "reward": "4 Spins"
   }
  ],
- "updated": "2026-10-24T10:42:01.204Z",
+ "updated": "2026-10-25T15:58:41.820Z",
  "source": "https://robloxden.com/game-codes/phonk-slap"
 }

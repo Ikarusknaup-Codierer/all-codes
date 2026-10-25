@@ -11,6 +11,14 @@
    "reward": "a 200 Yen , a Spirit Pack , 2 Standard Packs , a Rackets Pack , and a "
   },
   {
+   "code": "FLICK",
+   "reward": "750 Yen"
+  },
+  {
+   "code": "ORTREAT",
+   "reward": "750 Yen"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "750 Yen"
   },
@@ -47,6 +55,6 @@
    "reward": "1,500 Season Pass XP"
   }
  ],
- "updated": "2026-10-24T10:37:48.683Z",
+ "updated": "2026-10-25T15:53:55.294Z",
  "source": "https://robloxden.com/game-codes/racket-rivals"
 }

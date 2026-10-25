@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "AI20",
-   "reward": "Gems And A Bunch Of Free Rewards"
-  },
-  {
    "code": "GEMSPLEASE",
    "reward": "3 Keys Of Potential And 100 Gems"
   },
   {
    "code": "UPDATE8",
    "reward": "3 Orbs of Potential and 250 Gems"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "5 Orbs of Potential and 500 Gems"
   },
   {
    "code": "UPDATE2",
@@ -27,6 +27,6 @@
    "reward": "1 Random Potion Box, 1 Orb of Potential and 50 Gems"
   }
  ],
- "updated": "2026-10-24T04:09:43.105Z",
+ "updated": "2026-10-25T15:52:41.395Z",
  "source": "https://robloxden.com/game-codes/anime-immortals"
 }

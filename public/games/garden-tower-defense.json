@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TRAITS",
+   "reward": "25 Fertilizer"
+  },
+  {
+   "code": "LAB",
+   "reward": "50 Fertilizer"
+  },
+  {
    "code": "SHOCKFROST",
    "reward": "500 Seeds"
   },
@@ -111,6 +119,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-10-25T11:06:01.034Z",
+ "updated": "2026-10-26T22:34:37.719Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

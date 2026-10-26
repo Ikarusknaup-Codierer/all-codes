@@ -11,10 +11,6 @@
    "reward": "100,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
   },
   {
-   "code": "MIX",
-   "reward": "200,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
-  },
-  {
    "code": "miximax",
    "reward": "200,000 Coins"
   },
@@ -25,10 +21,6 @@
   {
    "code": "PROJECT",
    "reward": "300,000 Coins , 1 Celebration Spin , and 1 Mythical Manual"
-  },
-  {
-   "code": "TORCH",
-   "reward": "50,000 Coins , 60 Minutes Double XP , 2 Stats Resets , and 2 Rare Manu"
   },
   {
    "code": "ROADTO4K",
@@ -103,6 +95,10 @@
    "reward": "2 Hours Double XP , 10,000 Coins , and 3 Uncommon Manuals"
   },
   {
+   "code": "MIX",
+   "reward": "200,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
+  },
+  {
    "code": "MECHANICS",
    "reward": "300,000 Coins , 1 Celebration Spin , and 1 Rare Manual"
   },
@@ -117,6 +113,10 @@
   {
    "code": "CATAPULT",
    "reward": "120,000 Coins , 60 Minutes Double EXP , 60 Minutes Double Coins , 1 El"
+  },
+  {
+   "code": "TORCH",
+   "reward": "50,000 Coins , 60 Minutes Double XP , 2 Stats Resets , and 2 Rare Manu"
   },
   {
    "code": "DEVITO",
@@ -199,6 +199,6 @@
    "reward": "1 Uncommon Manual and 30 Mins Double XP"
   }
  ],
- "updated": "2026-10-25T11:02:44.218Z",
+ "updated": "2026-10-26T22:32:26.487Z",
  "source": "https://robloxden.com/game-codes/inazuma-strikers"
 }

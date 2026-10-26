@@ -59,10 +59,6 @@
    "reward": "500 miles . You can redeem this code in World 2"
   },
   {
-   "code": "FREEMILES",
-   "reward": "200 Miles"
-  },
-  {
    "code": "UNSTOPPABLE",
    "reward": "the Unstoppable Goggings Skin"
   },
@@ -75,10 +71,14 @@
    "reward": "5 Rebirths"
   },
   {
+   "code": "FREEMILES",
+   "reward": "200 Miles"
+  },
+  {
    "code": "SPECIAL",
    "reward": "5 Rebirths"
   }
  ],
- "updated": "2026-10-25T11:09:45.373Z",
+ "updated": "2026-10-26T22:37:55.821Z",
  "source": "https://robloxden.com/game-codes/stay-hard-run"
 }

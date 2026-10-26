@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1",
+   "reward": "3,000 cash and 1x Double Cash Potion"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "200 Pumpin Tokens"
+  },
+  {
+   "code": "650KVISITS",
+   "reward": "2,000 cash"
+  },
+  {
    "code": "BUTTERFLY",
    "reward": "1 Pastel Pearl Table (Sky Blue) and 1 Butterfly Chair (Sky Blue)"
   },
@@ -29,8 +41,12 @@
   {
    "code": "SALAMAT",
    "reward": "1 Customer Rush Potion"
+  },
+  {
+   "code": "NEWEVENT",
+   "reward": "150 Pumpkin Tokens"
   }
  ],
- "updated": "2026-10-25T04:07:18.245Z",
+ "updated": "2026-10-26T22:30:38.368Z",
  "source": "https://robloxden.com/game-codes/my-sari-sari-store"
 }

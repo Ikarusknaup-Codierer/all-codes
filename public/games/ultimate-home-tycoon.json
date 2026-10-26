@@ -15,10 +15,6 @@
    "reward": "1 x2 Cash Boost"
   },
   {
-   "code": "460kLikes",
-   "reward": "a +25 Cash Per Second Boost"
-  },
-  {
    "code": "HALT",
    "reward": "1,000 Cash"
   },
@@ -27,14 +23,14 @@
    "reward": "1 2x Cash Boost"
   },
   {
-   "code": "450kLikes",
-   "reward": "Free Rewards"
+   "code": "460kLikes",
+   "reward": "a +25 Cash Per Second Boost"
   },
   {
-   "code": "35kLikes",
-   "reward": "SRT Durango Vehicle"
+   "code": "450kLikes",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-25T11:08:21.728Z",
+ "updated": "2026-10-26T22:36:44.348Z",
  "source": "https://robloxden.com/game-codes/ultimate-home-tycoon"
 }

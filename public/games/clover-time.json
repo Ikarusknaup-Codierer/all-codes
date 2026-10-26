@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SHADOW",
+   "reward": "30x Crystal Mana , 2x Reset Stats and 100% EXP (30 Minutes)"
+  },
+  {
+   "code": "NATCH",
+   "reward": "5x Special Spins , 50x Spins and Crystal Notifier (1 Hour)"
+  },
+  {
    "code": "SHUTDOWN2",
    "reward": "5 Reset Stats , 50 Spins , and Crystal Notifier (2 Hours)"
   },
@@ -119,6 +127,6 @@
    "reward": "a Crystal Mana , 25 Spins , and 10 Normal Chests"
   }
  ],
- "updated": "2026-10-25T11:02:06.350Z",
+ "updated": "2026-10-26T22:31:51.431Z",
  "source": "https://robloxden.com/game-codes/clover-time"
 }

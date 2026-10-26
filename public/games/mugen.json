@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "INSECTPATCH2",
+   "reward": "10x Lucky Spins"
+  },
+  {
    "code": "INSECTRELEASED",
    "reward": "5 Lucky Spins and 5 Wheel Spins"
   },
@@ -39,6 +43,6 @@
    "reward": "100K Yen"
   }
  ],
- "updated": "2026-10-25T11:05:26.279Z",
+ "updated": "2026-10-26T22:34:07.421Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

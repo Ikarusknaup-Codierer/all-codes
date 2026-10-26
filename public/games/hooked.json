@@ -11,10 +11,6 @@
    "reward": "5 Forge Stones"
   },
   {
-   "code": "HOOKRUSH",
-   "reward": "500 Event Currency"
-  },
-  {
    "code": "HOOKED7KLIKES",
    "reward": "500 Gold and 10 Skill Shards"
   },
@@ -47,14 +43,14 @@
    "reward": "500 Gold"
   },
   {
-   "code": "HOOKEDDC10K",
-   "reward": "500 Gold"
+   "code": "HOOKRUSH",
+   "reward": "500 Event Currency"
   },
   {
    "code": "PROSKILLS",
    "reward": "50 Skill Shards"
   }
  ],
- "updated": "2026-10-25T11:06:28.939Z",
+ "updated": "2026-10-26T22:35:02.508Z",
  "source": "https://robloxden.com/game-codes/hooked"
 }

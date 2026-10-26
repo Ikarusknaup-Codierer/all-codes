@@ -7,11 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "SIGNUP",
-   "reward": "5K Cash"
+   "code": "STARTER",
+   "reward": "5,000 Cash"
   },
   {
-   "code": "STARTER",
+   "code": "BURGER",
    "reward": "5,000 Cash"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "7,500 Cash"
   }
  ],
- "updated": "2026-10-25T11:07:09.707Z",
+ "updated": "2026-10-26T22:35:39.923Z",
  "source": "https://robloxden.com/game-codes/prodigy-drift"
 }

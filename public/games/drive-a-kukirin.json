@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKY",
+   "reward": "2,000 Cash"
+  },
+  {
+   "code": "RESTART",
+   "reward": "2,000 cash"
+  },
+  {
    "code": "BUGFIX",
    "reward": "2,000 Cash"
   },
@@ -19,6 +27,6 @@
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-10-25T11:04:33.371Z",
+ "updated": "2026-10-26T22:33:17.708Z",
  "source": "https://robloxden.com/game-codes/drive-a-kukirin"
 }

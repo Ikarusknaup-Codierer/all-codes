@@ -19,14 +19,14 @@
    "reward": "the Scorpion Pet"
   },
   {
-   "code": "goldenegg",
-   "reward": "the Golden Egg"
-  },
-  {
    "code": "RELEASE1",
    "reward": "1 Speed Potion For 10 Minutes"
+  },
+  {
+   "code": "THANKSFORPLAYING",
+   "reward": "Free Potions"
   }
  ],
- "updated": "2026-10-25T11:05:34.365Z",
+ "updated": "2026-10-26T22:34:14.359Z",
  "source": "https://robloxden.com/game-codes/racing-simulator"
 }

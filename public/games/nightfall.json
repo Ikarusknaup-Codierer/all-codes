@@ -7,7 +7,15 @@
    "reward": "Description"
   },
   {
+   "code": "DEADLY",
+   "reward": "10 Cash"
+  },
+  {
    "code": "NEWFERAL",
+   "reward": "1 Revive"
+  },
+  {
+   "code": "HOST",
    "reward": "1 Revive"
   },
   {
@@ -23,6 +31,6 @@
    "reward": "10 Cash"
   }
  ],
- "updated": "2026-10-25T04:00:29.206Z",
+ "updated": "2026-10-26T12:39:09.763Z",
  "source": "https://robloxden.com/game-codes/nightfall"
 }

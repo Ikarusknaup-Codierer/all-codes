@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "KONOYARO!",
-   "reward": "1 Hour Double Yen and 1 Hour Double Mastery"
-  },
-  {
    "code": "JUSTASIEXPECTED",
    "reward": "Double Money (30 Minutes) and Double Mastery (30 Minutes)"
   },
@@ -31,10 +27,14 @@
    "reward": "1,000 Yen"
   },
   {
+   "code": "KONOYARO!",
+   "reward": "1 Hour Double Yen and 1 Hour Double Mastery"
+  },
+  {
    "code": "ARTISETERNAL",
    "reward": "500 Yen , 1 Hour Double Money , and 1 Hour Double Mastery"
   }
  ],
- "updated": "2026-10-25T04:03:31.445Z",
+ "updated": "2026-10-26T12:42:41.917Z",
  "source": "https://robloxden.com/game-codes/naruto-clash-of-ninja"
 }

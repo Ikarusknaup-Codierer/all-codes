@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MULTIVERSE",
-   "reward": "1 Multiverse Crate"
-  },
-  {
-   "code": "CC_CODE_8",
-   "reward": "new units . TO use this code, you must have the Content Creator Role"
-  },
-  {
    "code": "MTD",
    "reward": "100 Cash"
   },
@@ -31,6 +23,14 @@
    "reward": "1 Fragment"
   },
   {
+   "code": "MULTIVERSE",
+   "reward": "1 Multiverse Crate"
+  },
+  {
+   "code": "CC_CODE_8",
+   "reward": "new units . TO use this code, you must have the Content Creator Role"
+  },
+  {
    "code": "UNDERTALE",
    "reward": "1 Undertale Crate"
   },
@@ -39,18 +39,10 @@
    "reward": "a MultiShard"
   },
   {
-   "code": "ABILITIES",
-   "reward": "an Ability Spin"
-  },
-  {
-   "code": "EXCUSE_ME_SIR",
-   "reward": "3 The Boys Crates"
-  },
-  {
    "code": "THE_BOYS",
    "reward": "a The Boys Crate"
   }
  ],
- "updated": "2026-10-25T04:02:14.569Z",
+ "updated": "2026-10-26T12:41:09.272Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

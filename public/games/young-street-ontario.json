@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "70klikes",
+   "code": "100klikes",
+   "reward": "100k Cash"
+  },
+  {
+   "code": "90klikes",
    "reward": "30,000 Cash"
   },
   {
@@ -15,6 +19,6 @@
    "reward": "30,000 Cash"
   }
  ],
- "updated": "2026-10-24T20:40:34.704Z",
+ "updated": "2026-10-26T12:37:28.259Z",
  "source": "https://robloxden.com/game-codes/young-street-ontario"
 }

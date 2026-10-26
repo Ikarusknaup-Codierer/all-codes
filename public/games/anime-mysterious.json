@@ -27,18 +27,6 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "THANKFORSUPPORT",
-   "reward": "Freebies"
-  },
-  {
-   "code": "500KVISIT",
-   "reward": "Freebies"
-  },
-  {
-   "code": "5KCCU",
-   "reward": "5 Traits and 1,000 Gems"
-  },
-  {
    "code": "THANKSFOR1MVITS",
    "reward": "15 Traits , 10 Release Capsules , 2,000 Coins , and 1,000 Gems"
   },
@@ -69,8 +57,20 @@
   {
    "code": "THANKSFOR20KMEMBERDISCORD",
    "reward": "1,000 Coins , 10x Trait , and 40x Release Capsule"
+  },
+  {
+   "code": "THANKFORSUPPORT",
+   "reward": "Freebies"
+  },
+  {
+   "code": "500KVISIT",
+   "reward": "Freebies"
+  },
+  {
+   "code": "5KCCU",
+   "reward": "5 Traits and 1,000 Gems"
   }
  ],
- "updated": "2026-10-24T20:37:44.566Z",
+ "updated": "2026-10-26T12:35:09.447Z",
  "source": "https://robloxden.com/game-codes/anime-mysterious"
 }

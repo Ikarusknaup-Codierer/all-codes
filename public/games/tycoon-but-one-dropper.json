@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BOOST",
-   "reward": "2x Cash for 30 Minutes"
+   "code": "Update5",
+   "reward": "Free Rewards"
   },
   {
-   "code": "RELEASE",
-   "reward": "10,000 Cash"
+   "code": "Friends",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Events",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "1MilVisits",
+   "reward": "25 Scrap and 2x Cash (10 Minutes)"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "15 Scrap and 2x Cash (15 mins)"
   }
  ],
- "updated": "2026-10-25T03:59:48.457Z",
+ "updated": "2026-10-26T12:38:21.839Z",
  "source": "https://robloxden.com/game-codes/tycoon-but-one-dropper"
 }

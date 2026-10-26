@@ -35,20 +35,12 @@
    "reward": "a Koshi Pillow"
   },
   {
-   "code": "Iriska1337",
-   "reward": "a Rainbow Bridge Iriska Cat Pillow"
-  },
-  {
    "code": "ReimuPlush",
    "reward": "a Reimu Plush"
   },
   {
    "code": "facecute123",
    "reward": "a purchaseable Face item on Roblox"
-  },
-  {
-   "code": "1002",
-   "reward": "the Black Valk"
   },
   {
    "code": "CD3",
@@ -63,10 +55,6 @@
    "reward": "the Red Overseer Tophat"
   },
   {
-   "code": "REO",
-   "reward": "the Ruby Eternal Crown"
-  },
-  {
    "code": "USS",
    "reward": "the Inferno Skull Sword"
   },
@@ -77,10 +65,6 @@
   {
    "code": "7007",
    "reward": "the Black Horns"
-  },
-  {
-   "code": "HB350",
-   "reward": "the Heyop Backpack"
   },
   {
    "code": "G2b",
@@ -159,12 +143,20 @@
    "reward": "the Star Backling"
   },
   {
+   "code": "D198",
+   "reward": "White Blouse"
+  },
+  {
    "code": "SFV",
    "reward": "the Sci-Fi Valk"
   },
   {
    "code": "3321",
    "reward": "the Chrome Y2K Wing Shades"
+  },
+  {
+   "code": "Iriska1337",
+   "reward": "a Rainbow Bridge Iriska Cat Pillow"
   },
   {
    "code": "Nightfall",
@@ -183,10 +175,22 @@
    "reward": "the Purple Smoke Spirit"
   },
   {
+   "code": "1002",
+   "reward": "the Black Valk"
+  },
+  {
+   "code": "REO",
+   "reward": "the Ruby Eternal Crown"
+  },
+  {
    "code": "6009",
    "reward": "the Neon White Cyber Light Saber"
+  },
+  {
+   "code": "HB350",
+   "reward": "the Heyop Backpack"
   }
  ],
- "updated": "2026-10-24T20:38:07.121Z",
+ "updated": "2026-10-26T12:35:26.983Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

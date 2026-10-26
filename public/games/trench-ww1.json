@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "RETURNCODE1000",
+   "reward": "-1 Medal"
+  },
+  {
+   "code": "SUPERCODE1000",
+   "reward": "1 Medal"
+  },
+  {
    "code": "100KENLISTEES",
    "reward": "1,000 Medals"
   },
@@ -123,6 +131,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-10-25T11:03:45.979Z",
+ "updated": "2026-10-26T12:49:11.423Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

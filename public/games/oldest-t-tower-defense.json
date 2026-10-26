@@ -39,6 +39,10 @@
    "reward": "200 Coins"
   },
   {
+   "code": "FoodCrate",
+   "reward": "200 Coins"
+  },
+  {
    "code": "ClockUpdate",
    "reward": "200 Coins"
   },
@@ -83,6 +87,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-10-25T04:00:25.028Z",
+ "updated": "2026-10-26T12:39:04.679Z",
  "source": "https://robloxden.com/game-codes/oldest-t-tower-defense"
 }

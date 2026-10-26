@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "17M",
-   "reward": "150 Grade Tokens and 1 XX Token"
-  },
-  {
    "code": "CITRON",
    "reward": "1 Chibi Chest"
   },
@@ -139,10 +135,14 @@
    "reward": "2x Pastel Princess Pack"
   },
   {
+   "code": "17M",
+   "reward": "150 Grade Tokens and 1 XX Token"
+  },
+  {
    "code": "NEW",
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-10-25T03:59:47.892Z",
+ "updated": "2026-10-26T12:38:21.280Z",
  "source": "https://robloxden.com/game-codes/anime-waifu-card-collection"
 }

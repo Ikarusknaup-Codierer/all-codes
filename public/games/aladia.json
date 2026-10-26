@@ -7,20 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "waxen",
-   "reward": "a Waxen - Combat_P"
-  },
-  {
-   "code": "wpass",
-   "reward": "Gamepass Card . You need to reach Level 5 to use this code"
-  },
-  {
    "code": "NEWUPDATE",
    "reward": "200 Cash"
   },
   {
    "code": "FREEEGG",
    "reward": "25 Diamonds"
+  },
+  {
+   "code": "npass",
+   "reward": "Rewards"
   },
   {
    "code": "lotusdrive",
@@ -91,6 +87,10 @@
    "reward": "a Revolve - SP!"
   },
   {
+   "code": "Allpass",
+   "reward": "Rewards . You need to reach level 3 to use this code"
+  },
+  {
    "code": "spiderweb",
    "reward": "a Spiderweb - SP!"
   },
@@ -101,6 +101,10 @@
   {
    "code": "spirit",
    "reward": "Spirit - Pistol .50!"
+  },
+  {
+   "code": "nightfall",
+   "reward": "Nightfall - SP!"
   },
   {
    "code": "FREDAG",
@@ -127,6 +131,10 @@
    "reward": "200 Cash"
   },
   {
+   "code": "waxen",
+   "reward": "a Waxen - Combat_P"
+  },
+  {
    "code": "nightshard",
    "reward": "Nightshard - Pistol"
   },
@@ -145,6 +153,10 @@
   {
    "code": "LOVELASH",
    "reward": "Lovelash Pistol"
+  },
+  {
+   "code": "wpass",
+   "reward": "Gamepass Card . You need to reach Level 5 to use this code"
   },
   {
    "code": "abuse",
@@ -255,6 +267,6 @@
    "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-10-24T20:38:40.559Z",
+ "updated": "2026-10-26T12:36:00.319Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

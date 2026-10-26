@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DARKFOREST",
-   "reward": "8x Weapon Tier Scroll , 8x Armor Tier Scroll , and 8x Mount Tier Scrol"
-  },
-  {
-   "code": "DARKDUNGEON",
-   "reward": "5x Inventory Slots"
-  },
-  {
-   "code": "CLANS",
-   "reward": "5x Weapon Tier Scroll , 5x Armor Tier Scroll , and 5x Mount Tier Scrol"
-  },
-  {
    "code": "Spark",
    "reward": "1,000 Coins , 500 XP , and 5x Weapon Tier Scrolls"
   },
@@ -31,14 +19,18 @@
    "reward": "1,000 Coins , 500 EXP , and 5 Weapon Tier Scrolls"
   },
   {
-   "code": "ENCHANTMENTS",
-   "reward": "1 Health I Enchant"
+   "code": "DARKFOREST",
+   "reward": "8x Weapon Tier Scroll , 8x Armor Tier Scroll , and 8x Mount Tier Scrol"
   },
   {
-   "code": "JUNGLE",
-   "reward": "5 Weapon Tier Scrolls , 5 Armor Tier Scrolls , and 5 Mount Tier Scroll"
+   "code": "DARKDUNGEON",
+   "reward": "5x Inventory Slots"
+  },
+  {
+   "code": "CLANS",
+   "reward": "5x Weapon Tier Scroll , 5x Armor Tier Scroll , and 5x Mount Tier Scrol"
   }
  ],
- "updated": "2026-10-24T20:38:45.708Z",
+ "updated": "2026-10-26T12:36:05.996Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

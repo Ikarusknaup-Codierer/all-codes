@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "NOMORE",
+   "reward": "6,767 Coins"
+  },
+  {
    "code": "Sorry",
    "reward": "500 Coins"
   },
   {
    "code": "CASH",
    "reward": "777"
-  },
-  {
-   "code": "SHROOM",
-   "reward": "300 Tickets"
   },
   {
    "code": "RAIN",
@@ -27,6 +27,6 @@
    "reward": "1K Coins"
   }
  ],
- "updated": "2026-10-24T20:34:57.699Z",
+ "updated": "2026-10-26T04:11:38.548Z",
  "source": "https://robloxden.com/game-codes/tower-adventure"
 }

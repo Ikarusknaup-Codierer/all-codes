@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "MYBAD",
-   "reward": "25 Luck"
+   "code": "geometric",
+   "reward": "50 Luck"
   },
   {
    "code": "LIGHT",
    "reward": "25 Luck"
   },
   {
-   "code": "SORRY",
-   "reward": "10x Enchant Tokens and 25x Lucky Rolls"
-  },
-  {
    "code": "LUCKY",
    "reward": "25 Lucky Rolls"
+  },
+  {
+   "code": "RESTART2",
+   "reward": "250 Cash , 10 Gems , and 5 Enchant Tokens"
+  },
+  {
+   "code": "RESTART",
+   "reward": "500 Cash and 10 Enchant Tokens"
   }
  ],
- "updated": "2026-10-24T15:49:32.054Z",
+ "updated": "2026-10-26T04:06:17.346Z",
  "source": "https://robloxden.com/game-codes/make-rugs"
 }

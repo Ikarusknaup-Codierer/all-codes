@@ -75,6 +75,14 @@
    "reward": "3 Small XP Potions and 3 Small Coin Potions"
   },
   {
+   "code": "ANUBAEL",
+   "reward": "1 Holycrown Egg"
+  },
+  {
+   "code": "NEWRIFT",
+   "reward": "1 Mythical Chest"
+  },
+  {
    "code": "rainimp",
    "reward": "1 Spritesprout Egg"
   },
@@ -99,6 +107,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-10-24T20:37:02.111Z",
+ "updated": "2026-10-26T04:13:36.214Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

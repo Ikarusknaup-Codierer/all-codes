@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RECVEH",
+   "reward": "a Sawed-Off"
+  },
+  {
    "code": "BOTCHER",
    "reward": "2,500 Credz"
   },
@@ -19,6 +23,6 @@
    "reward": "a Light Pistol"
   }
  ],
- "updated": "2026-10-24T15:49:46.849Z",
+ "updated": "2026-10-26T04:06:26.485Z",
  "source": "https://robloxden.com/game-codes/runaways"
 }

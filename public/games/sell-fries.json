@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FreeCandy",
+   "reward": "Rewards"
+  },
+  {
    "code": "Golden",
    "reward": "a Golden Vacuum (next game)"
   },
@@ -15,6 +19,6 @@
    "reward": "100 Candies"
   }
  ],
- "updated": "2026-10-24T15:49:28.014Z",
+ "updated": "2026-10-26T04:06:15.125Z",
  "source": "https://robloxden.com/game-codes/sell-fries"
 }

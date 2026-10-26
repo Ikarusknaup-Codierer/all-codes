@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "ThisisforGohan",
+   "reward": "50 Trait Spins"
+  },
+  {
+   "code": "Zeni50K",
+   "reward": "50,000 Zeni"
+  },
+  {
+   "code": "Deflect",
+   "reward": "10 Trait Spins and 10 Race Spins"
+  },
+  {
+   "code": "revamp",
+   "reward": "10 Trait Spins"
+  },
+  {
    "code": "StatReset",
    "reward": "a Stat Reset . Code will take effect immediately"
   },
@@ -23,6 +39,6 @@
    "reward": "This code resets story progress . Warning: This deletes your story pro"
   }
  ],
- "updated": "2026-10-24T20:35:43.589Z",
+ "updated": "2026-10-26T04:12:22.031Z",
  "source": "https://robloxden.com/game-codes/gohan"
 }

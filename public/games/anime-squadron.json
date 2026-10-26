@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "DrumsOfLiberation!",
+   "reward": "2,500 Beli and 25 Trait Shards"
+  },
+  {
+   "code": "GEAR5!",
+   "reward": "2,500 Beli and 25 Trait Shards"
+  },
+  {
+   "code": "SryForSillyBugs",
+   "reward": "3,500 Beli , 25 Prisms , and 50 Trait Shards"
+  },
+  {
    "code": "Dragon!",
    "reward": "15 Prisms and 25 Trait Shards"
   },
@@ -143,6 +155,6 @@
    "reward": "50 Trait Shards and 2,000 Gold"
   }
  ],
- "updated": "2026-10-24T20:31:39.908Z",
+ "updated": "2026-10-26T04:08:37.718Z",
  "source": "https://robloxden.com/game-codes/anime-squadron"
 }

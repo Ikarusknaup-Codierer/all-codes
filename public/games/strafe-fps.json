@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "300 Tokens"
+  },
+  {
    "code": "FREECASH",
    "reward": "5,000 Cash"
   },
@@ -19,6 +23,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-24T15:50:42.147Z",
+ "updated": "2026-10-26T04:06:53.697Z",
  "source": "https://robloxden.com/game-codes/strafe-fps"
 }

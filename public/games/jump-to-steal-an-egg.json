@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "50x Crystals"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "x2 Cash for 10 minutes and x2 Growth for 10 minutes"
+  },
+  {
    "code": "BATSKINS",
    "reward": "the Golden Bat Skin"
   },
@@ -23,6 +31,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-10-24T20:32:21.901Z",
+ "updated": "2026-10-26T04:09:14.551Z",
  "source": "https://robloxden.com/game-codes/jump-to-steal-an-egg"
 }

@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "HAPPYHOLIDAYS",
+   "code": "TOUTOU",
+   "reward": "A Free Pet, A Double Power Boost, A Double Win Boost, And One Big Frui"
+  },
+  {
+   "code": "BLACKMYTHWUKONG",
    "reward": "A Free Pet, One Huge Fruit, And Two Toys"
   },
   {
@@ -15,18 +19,14 @@
    "reward": "A Free Pet, A Double Power Boost, A Double Win Boost, And One Big Frui"
   },
   {
-   "code": "WEEKEND666",
-   "reward": "A Free Pet, A Golden Fruit, And Two Toys"
+   "code": "FIGHT666",
+   "reward": "A Free Spirit Of Fire Pet, A Double Win Boost, And A Double Power Boos"
   },
   {
-   "code": "NICEDAY",
+   "code": "PARIS",
    "reward": "A Free Pet, A Golden Fruit, And Two Toys"
-  },
-  {
-   "code": "JIAOZI",
-   "reward": "A Free General Flame Pet, A Banana, And Two Bones"
   }
  ],
- "updated": "2026-10-25T15:56:15.427Z",
+ "updated": "2026-10-27T04:32:22.928Z",
  "source": "https://robloxden.com/game-codes/shark-bite-simulator"
 }

@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "MARKET",
-   "reward": "500 Coins"
-  },
-  {
    "code": "ANCIENTBOOGA",
    "reward": "Rewards"
+  },
+  {
+   "code": "MARKET",
+   "reward": "500 Coins"
   },
   {
    "code": "WORMFOOD!",
@@ -39,6 +39,6 @@
    "reward": "250 Coins"
   }
  ],
- "updated": "2026-10-25T15:52:42.666Z",
+ "updated": "2026-10-27T04:28:53.547Z",
  "source": "https://robloxden.com/game-codes/booga-booga-reborn"
 }

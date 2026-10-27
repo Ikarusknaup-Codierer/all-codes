@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CANDY",
+   "reward": "500x Candy"
+  },
+  {
    "code": "1MVISITS",
    "reward": "2x Delivery Speed (120 Minutes)"
   },
@@ -35,6 +39,6 @@
    "reward": "10,000 Cash and x2 Delivery Speed (30 Minutes)"
   }
  ],
- "updated": "2026-10-25T15:51:21.964Z",
+ "updated": "2026-10-27T04:27:33.087Z",
  "source": "https://robloxden.com/game-codes/fleet-empire"
 }

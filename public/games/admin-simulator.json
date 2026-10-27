@@ -15,18 +15,18 @@
    "reward": "Rewards"
   },
   {
+   "code": "lastchancesaloon",
+   "reward": "Luck Potion VI (91 minutes)"
+  },
+  {
    "code": "cicero",
    "reward": "Luck Potion VI (1 hour)"
   },
   {
-   "code": "80klikes",
-   "reward": "+90% levels (80 minutes)"
-  },
-  {
-   "code": "woahitsameadow",
-   "reward": "+90% Levels (30 minutes)"
+   "code": "whenlifegivesyou",
+   "reward": "+%90 Luck Boost (114 minutes)"
   }
  ],
- "updated": "2026-10-25T15:56:51.283Z",
+ "updated": "2026-10-27T04:32:57.922Z",
  "source": "https://robloxden.com/game-codes/admin-simulator"
 }

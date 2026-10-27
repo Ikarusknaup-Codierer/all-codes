@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FANPAGE",
+   "reward": "2,000 Rubies"
+  },
+  {
    "code": "BOXINGLOVE2024",
    "reward": "500 Emeralds"
   },
@@ -15,18 +19,14 @@
    "reward": "a reward"
   },
   {
-   "code": "200KMEMBERS",
-   "reward": "a reward"
-  },
-  {
    "code": "BUNZO2023",
    "reward": "a reward"
   },
   {
-   "code": "MATRABACKPACK2024",
-   "reward": "600 Gems"
+   "code": "SPIDERBACKPACK",
+   "reward": "a reward"
   }
  ],
- "updated": "2026-10-25T15:56:39.385Z",
+ "updated": "2026-10-27T04:32:45.967Z",
  "source": "https://robloxden.com/game-codes/project-monster"
 }

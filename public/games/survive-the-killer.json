@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "MASHEDPOTATOES",
-   "reward": "Purple Pinstripe Knife"
+   "code": "HALLOWVEMBER",
+   "reward": "Friendly Spirits Knife"
+  },
+  {
+   "code": "PRIDE",
+   "reward": "Pride Knife"
   },
   {
    "code": "SPOOKY2020",
    "reward": "Hollowed Moon Knife"
   },
   {
+   "code": "ThatsALotOfVisits",
+   "reward": "Ribbons of Gold Knife"
+  },
+  {
    "code": "vote1m",
    "reward": "Millionth Slycer"
-  },
-  {
-   "code": "TRICKORTREAT",
-   "reward": "Stab-O'-Lantern Slycer"
-  },
-  {
-   "code": "LUCKY2022",
-   "reward": "the Cookie Cutter Slycer"
   }
  ],
- "updated": "2026-10-25T20:40:15.515Z",
+ "updated": "2026-10-27T11:57:42.723Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

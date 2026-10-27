@@ -31,10 +31,6 @@
    "reward": "1 Pride Swarm Snack"
   },
   {
-   "code": "200KLikes",
-   "reward": "2 hours of +1 Chain Booster"
-  },
-  {
    "code": "Stinky",
    "reward": "the Stench Aura Particle Effect"
   },
@@ -235,10 +231,6 @@
    "reward": "8 Unique Seeds"
   },
   {
-   "code": "IslandVoucherss",
-   "reward": "3 Island Vouchers"
-  },
-  {
    "code": "DELICIOUSFINWICK",
    "reward": "a Misprint 5 Stars Random Tinted Garracude"
   },
@@ -247,8 +239,8 @@
    "reward": "3 Tint Seeds"
   },
   {
-   "code": "WRaps",
-   "reward": "the 6 Stars Double Tinted Wrappy"
+   "code": "200KLikes",
+   "reward": "2 hours of +1 Chain Booster"
   },
   {
    "code": "NewStarters",
@@ -283,6 +275,6 @@
    "reward": "400 Gems"
   }
  ],
- "updated": "2026-10-25T20:41:03.960Z",
+ "updated": "2026-10-27T11:58:18.286Z",
  "source": "https://robloxden.com/game-codes/doodle-world"
 }

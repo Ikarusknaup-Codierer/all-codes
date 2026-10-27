@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "LEGACYRAIDACCESSIBLE",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "UPDATE18",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "MORIOHTOWN",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "STANDRUSH",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
+   "code": "LEGACYRAID",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "GLOBALBOOSTS",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -551,14 +571,14 @@
    "reward": "250 F2P Tickets and 12 Potions"
   },
   {
-   "code": "30KPLAYERS",
-   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
+   "code": "BACKTOASTRAL",
+   "reward": "Tickets , Potions , or Boosts"
   },
   {
-   "code": "17KPLAYERS",
-   "reward": "200 F2P Tickets , a Damage II Potion , a Luck II Potion , a Power II P"
+   "code": "30KPLAYERS",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-10-25T20:45:08.296Z",
+ "updated": "2026-10-27T12:02:44.016Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "50,000 Halloween Pack"
+  },
+  {
    "code": "BLESSING",
    "reward": "Rewards"
   },
@@ -75,14 +79,14 @@
    "reward": "15 Legendary Speed Potions , 50 Boss Potions , 15 Legendary Luck Potio"
   },
   {
-   "code": "COMPENSATION",
+   "code": "BIGGIEDELAY",
    "reward": "Rewards"
   },
   {
-   "code": "BIGGIEDELAY",
+   "code": "TRIALS",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-26T04:06:22.158Z",
+ "updated": "2026-10-27T12:06:34.255Z",
  "source": "https://robloxden.com/game-codes/card-rng-expansion"
 }

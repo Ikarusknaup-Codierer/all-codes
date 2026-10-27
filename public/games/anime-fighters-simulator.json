@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ALICIZATION",
+   "reward": "250 Challenger Fruit , 250 Demonic Fruit , 1,000 of Every Fragment , 1"
+  },
+  {
    "code": "LUNARSOLAR",
    "reward": "250 Challenger Fruit , 250 Demonic Fruit , 1,000 of Every Fragment , 1"
   },
@@ -57,10 +61,6 @@
   {
    "code": "AKIRACODE",
    "reward": "20 Mega Boosts (all types) , 100 Heavenly Fruits , 100 Cursed Orbs , 2"
-  },
-  {
-   "code": "THANKYOU96",
-   "reward": "50 Cursed Orbs , 25 Heavenly Fruits , and 5 Passive Transfer Tokens"
   },
   {
    "code": "BUGHUNTERS",
@@ -349,8 +349,12 @@
   {
    "code": "RAIDREADY",
    "reward": "3 Mysterious Keys and 25 Heavenly Fruits"
+  },
+  {
+   "code": "THANKYOU96",
+   "reward": "50 Cursed Orbs , 25 Heavenly Fruits , and 5 Passive Transfer Tokens"
   }
  ],
- "updated": "2026-10-25T20:38:24.315Z",
+ "updated": "2026-10-27T11:55:39.260Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

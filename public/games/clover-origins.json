@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "NATCHGRIMOIRE",
+   "reward": "15 Grimoire Spins"
+  },
+  {
+   "code": "CHESTSYTEM",
+   "reward": "10 Grimoire Shards"
+  },
+  {
+   "code": "25MVISITS",
+   "reward": "20 Race Spins"
+  },
+  {
+   "code": "190KLIKES",
+   "reward": "10 Trait Spins"
+  },
+  {
    "code": "SorryForTutorialBug",
    "reward": "15x Grimoire Spins"
   },
@@ -147,6 +163,6 @@
    "reward": "10,000 Yens , 3 Stat Resets , 10 Grimoire Spins , 10 Broom Spins , 10 "
   }
  ],
- "updated": "2026-10-26T04:07:00.916Z",
+ "updated": "2026-10-27T12:07:14.522Z",
  "source": "https://robloxden.com/game-codes/clover-origins"
 }

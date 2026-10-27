@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "TRIALSPATCH",
+   "reward": "300 Trait Rerolls , 1M Coins , and 150 Lucky Spins . This code require"
+  },
+  {
+   "code": "UPDATE3LEGACY",
+   "reward": "333 Lucky Spins , 122 Trait Rerolls , and 322,222 Coins"
+  },
+  {
+   "code": "3TIMESACHARM",
+   "reward": "111 Lucky Spins , 111 Trait Rerolls , and 111,111 Coins"
+  },
+  {
+   "code": "SORRY4DELAY",
+   "reward": "222 Lucky Spins , 222 Trait Rerolls , and 222,222 Coins"
+  },
+  {
+   "code": "UPDATETHREE",
+   "reward": "Rewards . This code requires you to reach level 5"
+  },
+  {
    "code": "50KCCU",
    "reward": "500 Lucky Spins , 350 Trait Rerolls , 250,000 Coins , and 5,000 Gems"
   },
@@ -107,6 +127,6 @@
    "reward": "2,500 Coins , 10 Rolls , and 1 Lucky Spin"
   }
  ],
- "updated": "2026-10-25T15:59:09.767Z",
+ "updated": "2026-10-27T11:53:24.303Z",
  "source": "https://robloxden.com/game-codes/anime-zero"
 }

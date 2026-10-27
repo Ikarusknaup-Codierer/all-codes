@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "INVASION",
+   "reward": "250 Gems"
+  },
+  {
    "code": "FIREWORK",
    "reward": "Free Rewards"
   },
@@ -19,6 +23,6 @@
    "reward": "100 Gems"
   }
  ],
- "updated": "2026-10-25T20:43:17.364Z",
+ "updated": "2026-10-27T12:00:46.113Z",
  "source": "https://robloxden.com/game-codes/elemental-dungeons"
 }

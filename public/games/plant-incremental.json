@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "9313804",
-   "reward": "5 Rubies . This is a community reward code"
-  },
-  {
    "code": "recover",
    "reward": "5 Rubies"
   },
@@ -25,8 +21,12 @@
   {
    "code": "finally",
    "reward": "5 Rubies"
+  },
+  {
+   "code": "9313804",
+   "reward": "5 Rubies . This is a community reward code"
   }
  ],
- "updated": "2026-10-25T20:44:09.840Z",
+ "updated": "2026-10-27T12:01:40.855Z",
  "source": "https://robloxden.com/game-codes/plant-incremental"
 }

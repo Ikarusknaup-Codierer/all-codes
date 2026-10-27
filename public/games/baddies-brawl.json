@@ -11,14 +11,6 @@
    "reward": "1,000 Candy"
   },
   {
-   "code": "hello",
-   "reward": "200 Stars"
-  },
-  {
-   "code": "happyeaster26",
-   "reward": "2 Egg Spins"
-  },
-  {
    "code": "thunder",
    "reward": "1 Daily Wheel Spin"
   },
@@ -179,10 +171,18 @@
    "reward": "150 Coins"
   },
   {
+   "code": "hello",
+   "reward": "200 Stars"
+  },
+  {
+   "code": "happyeaster26",
+   "reward": "2 Egg Spins"
+  },
+  {
    "code": "cosmic",
    "reward": "500 Tokens"
   }
  ],
- "updated": "2026-10-25T20:43:24.203Z",
+ "updated": "2026-10-27T12:00:50.728Z",
  "source": "https://robloxden.com/game-codes/baddies-brawl"
 }

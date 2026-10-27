@@ -19,10 +19,6 @@
    "reward": "200 Trait Crystals . You must be at least level 25 to redeem this code"
   },
   {
-   "code": "EPISODE80",
-   "reward": "Freebies . You must be at least level 5 to redeem this code"
-  },
-  {
    "code": "160KLIKES",
    "reward": "150 Toilet Papers and 1 Epic Lucky Drop"
   },
@@ -83,6 +79,10 @@
    "reward": "30 Trait Tokens and 1,000 Toilet Paper"
   },
   {
+   "code": "EPISODE80",
+   "reward": "Freebies . You must be at least level 5 to redeem this code"
+  },
+  {
    "code": "115KLIKES",
    "reward": "150 Toilet Paper and 1 Trait Token"
   },
@@ -119,6 +119,6 @@
    "reward": "Reward"
   }
  ],
- "updated": "2026-10-25T20:43:16.717Z",
+ "updated": "2026-10-27T12:00:45.367Z",
  "source": "https://robloxden.com/game-codes/skibidi-masters-tower-defense"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FREEMODULE",
+   "reward": "1 Free Module"
+  },
+  {
+   "code": "DANCEFOREVER",
+   "reward": "the Cat Dance Emote and 1 Universal Shard"
+  },
+  {
+   "code": "ENCOREVI",
+   "reward": "4 Meiko Tickets , 2,000 Fans , and 30 Crests"
+  },
+  {
    "code": "HAPPYBIRTHDAY",
    "reward": "a 19th Birthday Miku Skin and a Universal Shard"
   },
@@ -27,6 +39,6 @@
    "reward": "a Level 6+ Free Tower"
   }
  ],
- "updated": "2026-10-25T20:42:19.671Z",
+ "updated": "2026-10-27T11:59:43.561Z",
  "source": "https://robloxden.com/game-codes/vocaloid-tower-defense"
 }

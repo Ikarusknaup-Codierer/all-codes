@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MAKESHIP",
-   "reward": "1 Plushcrawler"
-  },
-  {
    "code": "1234567891011121314151617181920",
    "reward": "1 Unusual Gift"
   },
@@ -23,10 +19,14 @@
    "reward": "a Lord Hughmaen Album"
   },
   {
-   "code": "YOW!!",
-   "reward": "2 Unusual Gifts"
+   "code": "MAKESHIP",
+   "reward": "1 Plushcrawler"
+  },
+  {
+   "code": "RaytraxStatFix",
+   "reward": "4 Unusual Gifts"
   }
  ],
- "updated": "2026-10-25T16:00:08.067Z",
+ "updated": "2026-10-27T11:54:11.594Z",
  "source": "https://robloxden.com/game-codes/kaiju-paradise"
 }

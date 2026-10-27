@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE6",
+   "reward": "10,000,000 Cash and 100 Clan Rerolls"
+  },
+  {
+   "code": "BIGBANG",
+   "reward": "200 Clan Rerolls"
+  },
+  {
+   "code": "NEWBLOOD",
+   "reward": "150 Clan Rerolls and 2,500,000 Cash"
+  },
+  {
+   "code": "THEPITCH",
+   "reward": "5,000,000 Cash and 30 Training Points"
+  },
+  {
+   "code": "HIGHLIGHTS",
+   "reward": "7,500,000 Cash and 40 Egoes"
+  },
+  {
+   "code": "MATCHDAY",
+   "reward": "5,000,000 Cash and 50 Clan Rerolls"
+  },
+  {
+   "code": "UNLEASH",
+   "reward": "100 Clan Rerolls"
+  },
+  {
+   "code": "SQUADUP",
+   "reward": "2,500,000 Cash and 20 Training Points"
+  },
+  {
    "code": "SYNCED",
    "reward": "$2,000,000 and 15 Ego"
   },
@@ -99,6 +131,6 @@
    "reward": "10 Training Points"
   }
  ],
- "updated": "2026-10-25T15:59:24.469Z",
+ "updated": "2026-10-27T11:53:36.652Z",
  "source": "https://robloxden.com/game-codes/bitlock"
 }

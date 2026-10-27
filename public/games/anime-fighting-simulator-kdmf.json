@@ -7,16 +7,24 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "5 Trick or Treat Bags , 5 Stat Boosts , 1,000 Candy , and 2,500 Tensei"
+  },
+  {
+   "code": "THEBEGINNING",
+   "reward": "1,500 Tensei Shards , 5,000 Chikara , 5 Yen Boosts , and 5 Stat Boosts"
+  },
+  {
+   "code": "BEGINNERLUCK",
+   "reward": "5 Fruit Rolls , 5 Shifting Serums , 5 Champion Luck Potions , and 5 Bo"
+  },
+  {
    "code": "WIZARDKING",
    "reward": "5K Chikara, 3K Tensei Shards, 2K Clover Tokens, 2 Clover Giftboxes, 2 "
   },
   {
    "code": "SUB2DWAX",
    "reward": "1,000 Chikara , 1 Stat Boost , and Dwax Title"
-  },
-  {
-   "code": "CLOVERPASS",
-   "reward": "1K tensei Shards, 25K Chikara, 1K Clover Tokens, 1 Temporary Server Bo"
   },
   {
    "code": "400KMEMBERS",
@@ -39,6 +47,10 @@
    "reward": "1,000 Clover Token and 1 Temporary Server Boost"
   },
   {
+   "code": "CLOVERPASS",
+   "reward": "1K tensei Shards, 25K Chikara, 1K Clover Tokens, 1 Temporary Server Bo"
+  },
+  {
    "code": "DEMONLORD",
    "reward": "2 Tensei Shard Boosts , 4 Stat Boosts , 4 Yen Boosts , 1,500 Tensei Sh"
   },
@@ -51,6 +63,6 @@
    "reward": "1,500 Chikara , 1,500 Tensei Shards , 4 Training Speed Boosts , 4 Stat"
   }
  ],
- "updated": "2026-10-25T20:45:17.455Z",
+ "updated": "2026-10-27T12:02:52.581Z",
  "source": "https://robloxden.com/game-codes/anime-fighting-simulator-kdmf"
 }

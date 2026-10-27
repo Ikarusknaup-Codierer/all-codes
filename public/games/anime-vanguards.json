@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "2ndAnniversary",
+   "reward": "1,000 Rerolls . You need to be level 10 to redeem this code"
+  },
+  {
+   "code": "TrueShadowMonarch",
+   "reward": "the Red Key , 50,000 Gems , and 500 Stat Chips . You need to be level "
+  },
+  {
+   "code": "HappyAnniversary",
+   "reward": "1 Memoria Maker Puzzle Piece . You need to be level 10 to redeem this "
+  },
+  {
+   "code": "Finally",
+   "reward": "1,000 Memoria Shards , 100,000 Gold , and 30 Rainbow Essences . You ne"
+  },
+  {
    "code": "2ndAnniDay7",
    "reward": "100 Trait Reroll and 100 Memoria Shard . You need to be level 10 to re"
   },
@@ -103,6 +119,6 @@
    "reward": "50 Memoria Shards and 50 Green Essences . You must be level 30 to clai"
   }
  ],
- "updated": "2026-10-26T04:05:26.864Z",
+ "updated": "2026-10-27T17:50:02.291Z",
  "source": "https://robloxden.com/game-codes/anime-vanguards"
 }

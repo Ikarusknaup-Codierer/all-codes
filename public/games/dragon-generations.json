@@ -7,14 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "BadBalancingSorry",
+   "reward": "50 Mastery Points"
+  },
+  {
+   "code": "BOJACKRESET",
+   "reward": "the Reset Path Progress for Bojacks"
+  },
+  {
+   "code": "MAJINRESET",
+   "reward": "the Reset Path Progress for Majins"
+  },
+  {
+   "code": "PATHSPART2CCPLS",
+   "reward": "the Free Character Redesign"
+  },
+  {
    "code": "HTCGC3",
    "reward": "a HTC/GC Cooldown Reset"
   },
   {
-   "code": "DAIMAWONDERLAND!",
-   "reward": "a 2x Zeni Boost"
+   "code": "PATHSBUGFIXING!",
+   "reward": "1 Hour of 2x EXP"
   }
  ],
- "updated": "2026-10-26T04:12:18.528Z",
+ "updated": "2026-10-27T17:56:09.115Z",
  "source": "https://robloxden.com/game-codes/dragon-generations"
 }

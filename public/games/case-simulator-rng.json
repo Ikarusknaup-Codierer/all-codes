@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "125kLikes",
+   "reward": "rewards"
+  },
+  {
    "code": "Halloween26",
    "reward": "Free Rewards . You must reach Level 10 to use this code"
   },
@@ -23,6 +27,6 @@
    "reward": "15 Trait Rerolls"
   }
  ],
- "updated": "2026-10-26T04:07:55.402Z",
+ "updated": "2026-10-27T17:51:25.517Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

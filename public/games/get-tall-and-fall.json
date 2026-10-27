@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE",
+   "reward": "1x Goat and 3x Coin Potion"
+  },
+  {
    "code": "FREEPLAYCOINS",
    "reward": "Rewards"
   },
@@ -19,6 +23,6 @@
    "reward": "a free in-game reward"
   }
  ],
- "updated": "2026-10-26T04:10:38.222Z",
+ "updated": "2026-10-27T17:54:24.359Z",
  "source": "https://robloxden.com/game-codes/get-tall-and-fall"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SCIFI",
+   "reward": "the 30,000 Tokens"
+  },
+  {
    "code": "EVENTPASS",
    "reward": "30,000 Trade Tokens"
   },
@@ -19,14 +23,14 @@
    "reward": "30K Trade Tokens"
   },
   {
-   "code": "SORRY",
-   "reward": "30,000 Trade Tokens"
-  },
-  {
    "code": "LIMITED",
    "reward": "20,000 Trade Tokens"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "50 Trade Tokens"
   }
  ],
- "updated": "2026-10-26T04:07:53.639Z",
+ "updated": "2026-10-27T17:51:23.412Z",
  "source": "https://robloxden.com/game-codes/inside-brainrot-head"
 }

@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TENMILLION",
-   "reward": "25 Reroll Tokens"
-  },
-  {
-   "code": "MUSICCLUB",
-   "reward": "10 Reroll Tokens"
-  },
-  {
    "code": "DOWNTAMA",
    "reward": "2,500 Yen and 10 Reroll Tokens"
   },
@@ -31,14 +23,30 @@
    "reward": "3 Reroll Tokens"
   },
   {
-   "code": "AGERATING",
-   "reward": "500 Yen and 5 Reroll Tokens"
+   "code": "MANYFAVORITES",
+   "reward": "15 Reroll Tokens"
   },
   {
-   "code": "THANKSFORYOURPATIENCE",
-   "reward": "5 Reroll Tokens"
+   "code": "EATINGCHEESE",
+   "reward": "8 Reroll Tokens"
+  },
+  {
+   "code": "DESTRUCTION",
+   "reward": "25 Reroll Tokens"
+  },
+  {
+   "code": "TENMILLION",
+   "reward": "25 Reroll Tokens"
+  },
+  {
+   "code": "MUSICCLUB",
+   "reward": "10 Reroll Tokens"
+  },
+  {
+   "code": "AGERATING",
+   "reward": "500 Yen and 5 Reroll Tokens"
   }
  ],
- "updated": "2026-10-26T04:10:37.165Z",
+ "updated": "2026-10-27T17:54:23.240Z",
  "source": "https://robloxden.com/game-codes/rintama-high"
 }

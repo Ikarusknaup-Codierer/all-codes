@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "firstupdate",
-   "reward": "25 Locked Ability Rerolls , 25 Locked Weapon Skin Rerolls , and 25 Loc"
-  },
-  {
    "code": "snowbankai",
    "reward": "1 Wipe Essence and 3 Stat Resets"
   },
@@ -39,10 +35,14 @@
    "reward": "10 Ability Rerolls and 2 Wipe Essence"
   },
   {
+   "code": "firstupdate",
+   "reward": "25 Locked Ability Rerolls , 25 Locked Weapon Skin Rerolls , and 25 Loc"
+  },
+  {
    "code": "bugfixes1",
    "reward": "25 Ability Rerolls , 2 Stat Resets , and 10 Clan Rerolls"
   }
  ],
- "updated": "2026-10-26T04:08:24.041Z",
+ "updated": "2026-10-27T17:51:56.112Z",
  "source": "https://robloxden.com/game-codes/paradox"
 }

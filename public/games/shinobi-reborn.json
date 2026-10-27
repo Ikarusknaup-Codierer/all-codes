@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SRHALLOWEEN",
+   "reward": "200 Spins"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "150 Spins"
+  },
+  {
+   "code": "DEVOISSPINS",
+   "reward": "300 Spins"
+  },
+  {
    "code": "5MVISITS",
    "reward": "50 Spins"
   },
@@ -75,6 +87,6 @@
    "reward": "Spins"
   }
  ],
- "updated": "2026-10-26T04:13:24.337Z",
+ "updated": "2026-10-27T17:57:06.806Z",
  "source": "https://robloxden.com/game-codes/shinobi-reborn"
 }

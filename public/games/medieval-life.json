@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORTHEWAIT",
+   "reward": "1,000 Gold"
+  },
+  {
    "code": "KNIGHTUPGRADE",
    "reward": "Freebies"
   },
@@ -19,14 +23,10 @@
    "reward": "676 Priest EXP and 676 Knight EXP"
   },
   {
-   "code": "SORRYFORTHEWAIT",
-   "reward": "1,000 Gold"
-  },
-  {
    "code": "500KYAY",
    "reward": "555 Knight EXP , 555 Noble EXP , 555 Priest EXP , 555 Monarch EXP , an"
   }
  ],
- "updated": "2026-10-26T04:09:04.336Z",
+ "updated": "2026-10-27T17:52:40.198Z",
  "source": "https://robloxden.com/game-codes/medieval-life"
 }

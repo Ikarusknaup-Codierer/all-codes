@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "14MVISITS",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "110KFAVORITES",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "NEWKAGUNE",
+   "reward": "200 Emeralds , 2x Energy Potion T2 , 2x Damage Potion T2 , 2x Gold Pot"
+  },
+  {
+   "code": "NEWGHOUL",
+   "reward": "200 Emeralds"
+  },
+  {
    "code": "SORRYFORSHUT",
    "reward": "200 Emeralds"
   },
@@ -187,6 +203,6 @@
    "reward": "100 Emeralds"
   }
  ],
- "updated": "2026-10-26T12:34:55.522Z",
+ "updated": "2026-10-27T17:57:54.657Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "THRILLER",
-   "reward": "50 Scraps"
+   "code": "woah",
+   "reward": "25 Gems"
   },
   {
-   "code": "GLADIEGGOR",
-   "reward": "Coins And Gems"
-  },
-  {
-   "code": "SEASON10",
-   "reward": "10 Gems and 10 Snowballs"
+   "code": "SPOOKYSEASON",
+   "reward": "Bonus Scrap"
   },
   {
    "code": "SEASON4",
@@ -27,6 +23,6 @@
    "reward": "40 gems"
   }
  ],
- "updated": "2026-10-25T20:48:23.578Z",
+ "updated": "2026-10-27T17:48:59.139Z",
  "source": "https://robloxden.com/game-codes/deathrun"
 }

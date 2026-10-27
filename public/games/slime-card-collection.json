@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CRYSTAL",
+   "reward": "2 Super Plerts Potions"
+  },
+  {
+   "code": "Halloween",
+   "reward": "2 Super Plerts Potions"
+  },
+  {
    "code": "Royal",
    "reward": "1 x2 Super Plerts Potion"
   },
@@ -75,6 +83,6 @@
    "reward": "2 Insta Hatch Tokens"
   }
  ],
- "updated": "2026-10-25T20:47:16.886Z",
+ "updated": "2026-10-27T17:48:15.085Z",
  "source": "https://robloxden.com/game-codes/slime-card-collection"
 }

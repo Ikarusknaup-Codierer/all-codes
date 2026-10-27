@@ -27,6 +27,10 @@
    "reward": "35,000,000 Rp"
   },
   {
+   "code": "BIGTHX100KROADTO125KLIKESP",
+   "reward": "10,000,000 RP"
+  },
+  {
    "code": "THX3000LIKES",
    "reward": "10,000,001 RP"
   },
@@ -41,10 +45,6 @@
   {
    "code": "DELAYDIKITBARULOMBA",
    "reward": "25,000,000 RP"
-  },
-  {
-   "code": "BIGTHX100KROADTO125KLIKESP",
-   "reward": "10,000,000 RP"
   },
   {
    "code": "DDSTHX175KROADTO200KLIKES",
@@ -111,6 +111,6 @@
    "reward": "35M RP"
   }
  ],
- "updated": "2026-10-26T04:12:16.287Z",
+ "updated": "2026-10-27T17:56:06.515Z",
  "source": "https://robloxden.com/game-codes/drag-drive-simulator"
 }

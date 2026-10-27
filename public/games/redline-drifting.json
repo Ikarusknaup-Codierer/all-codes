@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "Halloween",
-   "reward": "7K Goosebucks And The Halloween Special Car"
-  },
-  {
-   "code": "MAY",
-   "reward": "Reward"
+   "code": "TrickOrTreat",
+   "reward": "5K Goosebucks"
   },
   {
    "code": "30kfavs",
@@ -23,10 +19,14 @@
    "reward": "Reward"
   },
   {
-   "code": "5klikes",
+   "code": "stunts",
    "reward": "Reward"
+  },
+  {
+   "code": "RD2021",
+   "reward": "6,000 Goosebucks"
   }
  ],
- "updated": "2026-10-26T04:04:44.911Z",
+ "updated": "2026-10-27T17:49:16.976Z",
  "source": "https://robloxden.com/game-codes/redline-drifting"
 }

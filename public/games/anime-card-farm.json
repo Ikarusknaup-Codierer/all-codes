@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWPOTIONS!",
+   "reward": "1 Trait Potion and 1 Rank Potion"
+  },
+  {
    "code": "TRADING!",
    "reward": "1 Trade Ticket"
   },
@@ -27,6 +31,6 @@
    "reward": "1 Time II Potion and 100 Trait Gems"
   }
  ],
- "updated": "2026-10-26T04:09:39.351Z",
+ "updated": "2026-10-27T17:53:21.025Z",
  "source": "https://robloxden.com/game-codes/anime-card-farm"
 }

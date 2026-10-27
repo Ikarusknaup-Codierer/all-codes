@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Towerrr",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "Legacy",
    "reward": "2 EXP Potions"
   },
@@ -403,10 +407,10 @@
    "reward": "2 EXP Potions"
   },
   {
-   "code": "FIXBUG891",
-   "reward": "3 EXP Potions"
+   "code": "VOIDPART2",
+   "reward": "1 Void Ticket"
   }
  ],
- "updated": "2026-10-26T04:13:28.110Z",
+ "updated": "2026-10-27T17:57:09.602Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

@@ -11,6 +11,14 @@
    "reward": "Free Rewards"
   },
   {
+   "code": "597kCash",
+   "reward": "75,000 Cash"
+  },
+  {
+   "code": "598kCash",
+   "reward": "75,000 Cash"
+  },
+  {
    "code": "601kHalvedExpReq",
    "reward": "2x Exp Boost (1 hour)"
   },
@@ -23,22 +31,10 @@
    "reward": "40,000 Cash"
   },
   {
-   "code": "597kCash",
-   "reward": "75,000 Cash"
-  },
-  {
-   "code": "598kCash",
-   "reward": "75,000 Cash"
-  },
-  {
-   "code": "JollyXMas",
-   "reward": "75,000 Cash"
-  },
-  {
    "code": "sh1ns0",
    "reward": "50,000 cash"
   }
  ],
- "updated": "2026-10-26T04:13:03.881Z",
+ "updated": "2026-10-27T17:56:51.869Z",
  "source": "https://robloxden.com/game-codes/boku-no-roblox"
 }

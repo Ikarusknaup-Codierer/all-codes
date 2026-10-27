@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "EPICSENDOU",
+   "reward": "Rewards . You must be level 10 to redeem this code"
+  },
+  {
+   "code": "ONEMOREWEEK",
+   "reward": "Rewards . You must be level 10 to redeem this code"
+  },
+  {
+   "code": "NELAIKUNEXT",
+   "reward": "Rewards . You must be level 10 to redeem this code"
+  },
+  {
    "code": "DONREVAMP",
    "reward": "5 Lucky Spins and 5 Lucky Flows"
   },
@@ -119,6 +131,6 @@
    "reward": "5 Lucky Flow"
   }
  ],
- "updated": "2026-10-25T20:46:47.496Z",
+ "updated": "2026-10-27T17:47:53.327Z",
  "source": "https://robloxden.com/game-codes/blue-lock-rivals"
 }

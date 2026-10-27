@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HOLLOWKING",
+   "reward": "100 Crypt Tokens and a 2x Luck Boost (10 Minutes)"
+  },
+  {
+   "code": "HOLLOW",
+   "reward": "50 Crypt Tokens"
+  },
+  {
+   "code": "CRYPTCRAWLER",
+   "reward": "250 Crypt Tokens"
+  },
+  {
    "code": "IAMPRO",
    "reward": "5K Cash . Requires best distance of 1,500 Studs"
   },
@@ -31,6 +43,6 @@
    "reward": "50 Hacker Tokens"
   }
  ],
- "updated": "2026-10-26T12:39:32.203Z",
+ "updated": "2026-10-27T22:04:00.049Z",
  "source": "https://robloxden.com/game-codes/build-and-kill-zombies"
 }

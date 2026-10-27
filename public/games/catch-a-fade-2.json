@@ -31,16 +31,16 @@
    "reward": "Fade11 Crate and 750 Credits"
   },
   {
-   "code": "ServersWereCooked",
-   "reward": "1,500 Credits and 2x Credits boost"
-  },
-  {
-   "code": "BigUpdate!",
-   "reward": "3,000 Credits and x2 Cash Boost (20 mins)"
-  },
-  {
    "code": "150FOLLOWERS",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "JUGGERNAUTBOOST",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "ServersWereCooked",
+   "reward": "1,500 Credits and 2x Credits boost"
   },
   {
    "code": "MyBadYall",
@@ -61,8 +61,12 @@
   {
    "code": "WelcomeAuras!",
    "reward": "a Random Aura"
+  },
+  {
+   "code": "BigUpdate!",
+   "reward": "3,000 Credits and x2 Cash Boost (20 mins)"
   }
  ],
- "updated": "2026-10-26T12:43:05.591Z",
+ "updated": "2026-10-27T22:07:08.663Z",
  "source": "https://robloxden.com/game-codes/catch-a-fade-2"
 }

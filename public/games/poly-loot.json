@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "LOOTAWEEN",
+   "reward": "300x Candy Corn"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "5x Weapon Tier Scroll , 5x Armor Tier Scroll , and 5x Mount Tier Scrol"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "3x Halloween Dungeon 2026"
+  },
+  {
    "code": "Spark",
    "reward": "1,000 Coins , 500 XP , and 5x Weapon Tier Scrolls"
   },
@@ -31,6 +43,6 @@
    "reward": "5x Weapon Tier Scroll , 5x Armor Tier Scroll , and 5x Mount Tier Scrol"
   }
  ],
- "updated": "2026-10-26T12:36:05.996Z",
+ "updated": "2026-10-27T22:01:51.168Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

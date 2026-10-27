@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "LUCKY161",
+   "reward": "3 Luck Potions and a Z Potion"
+  },
+  {
+   "code": "TRADINGPLAZA",
+   "reward": "2 Awakening Gems"
+  },
+  {
+   "code": "RAIDKEYS",
+   "reward": "3 Raid Keys"
+  },
+  {
+   "code": "PRIMORDIAL",
+   "reward": "3 Big Luck Potions , 3 Big Money Potions and 3 Big Damage Potions"
+  },
+  {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "2 Oni Potions and a Angelic Potion"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "30 Candies"
+  },
+  {
+   "code": "SPOOKYUPDATE",
+   "reward": "$3M"
+  },
+  {
    "code": "JANTSISNOTCOOL",
    "reward": "3 Luck Potions , 3 Money Potions , and 3 Damage Potions"
   },
@@ -95,6 +123,6 @@
    "reward": "1 Rare Crimson Scarf Artifact"
   }
  ],
- "updated": "2026-10-26T12:39:51.943Z",
+ "updated": "2026-10-27T22:04:16.833Z",
  "source": "https://robloxden.com/game-codes/beat-the-anime-boss"
 }

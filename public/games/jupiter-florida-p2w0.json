@@ -11,10 +11,6 @@
    "reward": "50,000 Cash"
   },
   {
-   "code": "Sinna",
-   "reward": "25,000 Cash"
-  },
-  {
    "code": "May26",
    "reward": "50,000 Cash"
   },
@@ -193,8 +189,12 @@
   {
    "code": "Cube",
    "reward": "30k Cash"
+  },
+  {
+   "code": "Sinna",
+   "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-10-26T12:41:02.966Z",
+ "updated": "2026-10-27T22:05:25.908Z",
  "source": "https://robloxden.com/game-codes/jupiter-florida-p2w0"
 }

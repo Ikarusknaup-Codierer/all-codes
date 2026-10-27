@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SPECTAR",
+   "reward": "50 Trait Crystals"
+  },
+  {
    "code": "GOBLIN",
    "reward": "25 RR"
   },
@@ -43,14 +47,14 @@
    "reward": "3 Weather Potions"
   },
   {
-   "code": "CAKE",
-   "reward": "Summon Luck Pot II"
+   "code": "BYEBYESUMMER",
+   "reward": "1 Summon Potion II"
   },
   {
-   "code": "PLS",
-   "reward": "3,000 Stars"
+   "code": "POTIONUPDATE",
+   "reward": "1 Clover Potion"
   }
  ],
- "updated": "2026-10-26T12:37:59.497Z",
+ "updated": "2026-10-27T22:03:32.301Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

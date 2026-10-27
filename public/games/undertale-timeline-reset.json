@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PREBETA",
+   "reward": "a free reward"
+  },
+  {
    "code": "PUBLICRELEASE",
    "reward": "Free Souls"
   },
@@ -21,12 +25,8 @@
   {
    "code": "NEWUPDATE",
    "reward": "200 Dust"
-  },
-  {
-   "code": "VOZAN",
-   "reward": "100 Souls"
   }
  ],
- "updated": "2026-10-26T04:12:20.839Z",
+ "updated": "2026-10-27T21:59:41.097Z",
  "source": "https://robloxden.com/game-codes/undertale-timeline-reset"
 }

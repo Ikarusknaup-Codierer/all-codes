@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Update10",
+   "reward": "10 For All Potions"
+  },
+  {
+   "code": "5MEvent",
+   "reward": "50 Tickets"
+  },
+  {
    "code": "Update9",
    "reward": "5x All Potions"
   },
@@ -131,6 +139,6 @@
    "reward": "+1 All Potions"
   }
  ],
- "updated": "2026-10-26T12:36:44.028Z",
+ "updated": "2026-10-27T22:02:24.013Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

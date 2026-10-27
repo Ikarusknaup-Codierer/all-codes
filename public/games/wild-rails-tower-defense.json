@@ -31,14 +31,14 @@
    "reward": "250 Cash"
   },
   {
-   "code": "RELEASE",
-   "reward": "250 Bonds"
+   "code": "STOCK",
+   "reward": "250 Sands"
   },
   {
-   "code": "RAILS",
-   "reward": "100 Bonds"
+   "code": "FISH",
+   "reward": "Bonds"
   }
  ],
- "updated": "2026-10-26T12:49:01.989Z",
+ "updated": "2026-10-27T22:08:39.715Z",
  "source": "https://robloxden.com/game-codes/wild-rails-tower-defense"
 }

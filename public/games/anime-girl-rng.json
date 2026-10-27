@@ -75,10 +75,6 @@
    "reward": "100 Premium Potion Crates and 100 Premium Goodie Crates"
   },
   {
-   "code": "KILLSEL",
-   "reward": "100 Premium Potion Crates and 100 Premium Goodie Crates"
-  },
-  {
    "code": "IWANTMYROLLS",
    "reward": "1 Omega Pot"
   },
@@ -101,10 +97,6 @@
   {
    "code": "COOLCODEEZ",
    "reward": "1 Glitched Potion , 75 Premium Potion Crates , and 75 Premium Goodie C"
-  },
-  {
-   "code": "LIVEANNOUNCE",
-   "reward": "100 Premium Potion Crates"
   },
   {
    "code": "SORRYLOL",
@@ -197,6 +189,10 @@
   {
    "code": "FIVEHUNDREDHEAVENPOTS",
    "reward": "500 Heavens Pots"
+  },
+  {
+   "code": "KILLSEL",
+   "reward": "100 Premium Potion Crates and 100 Premium Goodie Crates"
   },
   {
    "code": "KILLNIAPLIXPT2",
@@ -305,6 +301,10 @@
   {
    "code": "LIVEEVENT",
    "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates"
+  },
+  {
+   "code": "LIVEANNOUNCE",
+   "reward": "100 Premium Potion Crates"
   },
   {
    "code": "4KCCU",
@@ -419,6 +419,6 @@
    "reward": "10,000 Gold 2,000 Astralis , 5 Better Goodie Crate , and 5 Better Poti"
   }
  ],
- "updated": "2026-10-26T12:39:54.645Z",
+ "updated": "2026-10-27T22:04:19.091Z",
  "source": "https://robloxden.com/game-codes/anime-girl-rng"
 }

@@ -19,6 +19,10 @@
    "reward": "Rewards"
   },
   {
+   "code": "midashalo",
+   "reward": "Rewards . You need to reach level 3 to use this code"
+  },
+  {
    "code": "lotusdrive",
    "reward": "Rewards . You must reach Level 3 to use this code"
   },
@@ -267,6 +271,6 @@
    "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-10-26T12:36:00.319Z",
+ "updated": "2026-10-27T22:01:46.998Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

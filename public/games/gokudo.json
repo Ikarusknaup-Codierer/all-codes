@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MUSICIAN",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "BUGFIXDAY4",
+   "reward": "30 Rerolls"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "50 Rerolls"
   },
@@ -155,6 +163,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-10-27T11:58:51.149Z",
+ "updated": "2026-10-28T22:30:06.129Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

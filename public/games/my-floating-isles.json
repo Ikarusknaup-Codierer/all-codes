@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "PUMPKIN",
+   "reward": "a Halloween Pumpkin"
+  },
+  {
+   "code": "SORRYFORBUGS",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "BUGFIXESBUGFIXESBUGFIXES",
+   "reward": "100 Gems"
+  },
+  {
    "code": "HOW",
    "reward": "500 Gems"
   },
@@ -19,6 +31,6 @@
    "reward": "500 Coins"
   }
  ],
- "updated": "2026-10-27T04:33:25.962Z",
+ "updated": "2026-10-28T22:24:09.887Z",
  "source": "https://robloxden.com/game-codes/my-floating-isles"
 }

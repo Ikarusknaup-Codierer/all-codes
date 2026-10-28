@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MOONRISE",
+   "reward": "1 Enchanted Dice"
+  },
+  {
+   "code": "HALLOWKEEP",
+   "reward": "2 Enchanted Dice"
+  },
+  {
    "code": "STORM",
    "reward": "1 Enchanted Dice and 1 Summon Scroll"
   },
@@ -15,6 +23,6 @@
    "reward": "2 Damage Potions"
   }
  ],
- "updated": "2026-10-27T04:33:41.648Z",
+ "updated": "2026-10-28T22:24:20.586Z",
  "source": "https://robloxden.com/game-codes/my-anime-mine"
 }

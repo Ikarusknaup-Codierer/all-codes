@@ -11,10 +11,6 @@
    "reward": "5 Gems"
   },
   {
-   "code": "4500likes",
-   "reward": "25,000 Cash"
-  },
-  {
    "code": "Update",
    "reward": "Free Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "100LIKES",
    "reward": "Reward"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "Reward"
   }
  ],
- "updated": "2026-10-27T11:53:54.633Z",
+ "updated": "2026-10-28T22:26:29.536Z",
  "source": "https://robloxden.com/game-codes/car-wash-tycoon"
 }

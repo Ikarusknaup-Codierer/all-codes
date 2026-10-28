@@ -127,10 +127,6 @@
    "reward": "5 Mysterious Keys"
   },
   {
-   "code": "SorryForEarlyShutDown",
-   "reward": "5 Mega Drop Boost , 5 Mega Time Boost , and 5 Mega Passive Lucky Boost"
-  },
-  {
    "code": "HappyNewYear!",
    "reward": "500 Cursed Orbs"
   },
@@ -353,8 +349,12 @@
   {
    "code": "THANKYOU96",
    "reward": "50 Cursed Orbs , 25 Heavenly Fruits , and 5 Passive Transfer Tokens"
+  },
+  {
+   "code": "SorryForEarlyShutDown",
+   "reward": "5 Mega Drop Boost , 5 Mega Time Boost , and 5 Mega Passive Lucky Boost"
   }
  ],
- "updated": "2026-10-27T11:55:39.260Z",
+ "updated": "2026-10-28T22:28:00.867Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

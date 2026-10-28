@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE4",
-   "reward": "30,000 cash , 3x Double Cash Potions , and 3x Double Luck Potions"
-  },
-  {
    "code": "NEWMAP",
    "reward": "30,000 cash , 3x Double Cash Potions , and 3x Double Luck Potions"
   },
@@ -23,10 +19,14 @@
    "reward": "5K Cash"
   },
   {
+   "code": "1KLIKES",
+   "reward": "7K Cash, 2x Luck Potion and 2x Cash Potion"
+  },
+  {
    "code": "100KVISITS",
    "reward": "15K Cash, 2x Luck Potion and 2x Cash Potion"
   }
  ],
- "updated": "2026-10-26T22:32:30.315Z",
+ "updated": "2026-10-28T05:00:02.098Z",
  "source": "https://robloxden.com/game-codes/ihaw-ihaw"
 }

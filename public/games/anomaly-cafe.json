@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FALLUPD",
+   "reward": "rewards"
+  },
+  {
    "code": "FIRSTCODE",
    "reward": "200 Bells"
   },
@@ -23,6 +27,6 @@
    "reward": "300 Bells"
   }
  ],
- "updated": "2026-10-26T22:34:09.031Z",
+ "updated": "2026-10-28T05:01:37.732Z",
  "source": "https://robloxden.com/game-codes/anomaly-cafe"
 }

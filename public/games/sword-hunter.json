@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SWORDBOOST",
+   "reward": "rewards"
+  },
+  {
    "code": "SWORDUP",
    "reward": "2 Cash Boost II (5 Minutes) , 2 Loot Boost II (5 Minutes) , and a Dama"
   },
@@ -95,6 +99,6 @@
    "reward": "a Valor Sword"
   }
  ],
- "updated": "2026-10-26T22:32:05.280Z",
+ "updated": "2026-10-28T04:59:37.599Z",
  "source": "https://robloxden.com/game-codes/sword-hunter"
 }

@@ -11,22 +11,22 @@
    "reward": "25 of each Tier VI Potions"
   },
   {
-   "code": "100kvisits",
-   "reward": "Misc. Rewards"
-  },
-  {
-   "code": "Update16",
-   "reward": "Freebies"
+   "code": "update17",
+   "reward": "Misc. Potions"
   },
   {
    "code": "Update9",
    "reward": "Level VI Boost Potions"
   },
   {
-   "code": "1mvisits",
-   "reward": "6 Damage VI, 6 Luck VI, 6 Fast Hatch VI, 6 Gems VI, and 6 Shiny Luck V"
+   "code": "Enchants",
+   "reward": "Freebies"
+  },
+  {
+   "code": "2mvisits",
+   "reward": "7 Coins V, 7 Damage V, 7 Luck V, 7 Gems V, 7 Fast Hatch V, and 7 Shiny"
   }
  ],
- "updated": "2026-10-26T22:34:19.820Z",
+ "updated": "2026-10-28T05:01:48.402Z",
  "source": "https://robloxden.com/game-codes/pet-quest"
 }

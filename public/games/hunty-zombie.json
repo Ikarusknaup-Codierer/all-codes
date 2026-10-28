@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Oni!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
+   "code": "WowNiceUI!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
+   "code": "Deal!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
    "code": "Spookye!",
    "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
   },
@@ -295,6 +307,6 @@
    "reward": "30 Lucky Weapon Spins and 30 Lucky Perk Spins"
   }
  ],
- "updated": "2026-10-26T22:35:17.622Z",
+ "updated": "2026-10-28T05:02:46.965Z",
  "source": "https://robloxden.com/game-codes/hunty-zombie"
 }

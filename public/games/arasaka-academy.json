@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "LikeFifteen",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "LikeThirteen",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "LikeFourteen",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "CodeLikeCodeLIke",
+   "reward": "50 Rerolls"
+  },
+  {
    "code": "UPDZeroPointFive",
    "reward": "50x Rerolls"
   },
@@ -27,6 +43,6 @@
    "reward": "100 Rerolls"
   }
  ],
- "updated": "2026-10-26T22:32:02.718Z",
+ "updated": "2026-10-28T04:59:34.965Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

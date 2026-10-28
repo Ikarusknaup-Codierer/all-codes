@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "WEDNESDAY",
-   "reward": "300 Gems"
+   "code": "POTION",
+   "reward": "325 Gems"
   },
   {
    "code": "100MVISITS",
    "reward": "300 Gems"
+  },
+  {
+   "code": "ALIEN",
+   "reward": "200 Gems and 200 Alien Coins"
   }
  ],
- "updated": "2026-10-26T22:29:50.218Z",
+ "updated": "2026-10-28T04:57:23.400Z",
  "source": "https://robloxden.com/game-codes/search-for-the-needle"
 }

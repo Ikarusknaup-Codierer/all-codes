@@ -45,8 +45,16 @@
   {
    "code": "NEWEVENT",
    "reward": "150 Pumpkin Tokens"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "3,000 Cash"
+  },
+  {
+   "code": "RENOVATE",
+   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-10-26T22:30:38.368Z",
+ "updated": "2026-10-28T04:58:10.216Z",
  "source": "https://robloxden.com/game-codes/my-sari-sari-store"
 }

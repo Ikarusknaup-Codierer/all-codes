@@ -7,12 +7,32 @@
    "reward": "Description"
   },
   {
+   "code": "Lucky_Blocks",
+   "reward": "12 Lucky Blocks"
+  },
+  {
+   "code": "Retrooooo",
+   "reward": "2,500 Rocoins and 3 Solar Boxes"
+  },
+  {
+   "code": "Silly",
+   "reward": "1 Silly Heligrader"
+  },
+  {
+   "code": "Easter",
+   "reward": "3 Solar Boxes and 25 Cosmite"
+  },
+  {
    "code": "StarReward",
    "reward": "an Exclusive Reward"
   },
   {
    "code": "welcomeBackReddit",
    "reward": "25 Cosmite , 3 Solar Boxes , and a Dropper"
+  },
+  {
+   "code": "PatchinStuff",
+   "reward": "25 Cosmite"
   },
   {
    "code": "Ovalord",
@@ -37,28 +57,8 @@
   {
    "code": "Beta",
    "reward": "50 Cosmite and 3 Solar Boxes"
-  },
-  {
-   "code": "Lucky_Blocks",
-   "reward": "12 Lucky Blocks"
-  },
-  {
-   "code": "Retrooooo",
-   "reward": "2,500 Rocoins and 3 Solar Boxes"
-  },
-  {
-   "code": "Silly",
-   "reward": "1 Silly Heligrader"
-  },
-  {
-   "code": "Easter",
-   "reward": "3 Solar Boxes and 25 Cosmite"
-  },
-  {
-   "code": "PatchinStuff",
-   "reward": "25 Cosmite"
   }
  ],
- "updated": "2026-10-26T12:45:20.512Z",
+ "updated": "2026-10-28T04:55:41.609Z",
  "source": "https://robloxden.com/game-codes/reincarnated"
 }

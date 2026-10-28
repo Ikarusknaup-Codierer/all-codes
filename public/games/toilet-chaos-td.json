@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GAME_IS_BACK",
+   "reward": "rewards"
+  },
+  {
+   "code": "Flower",
+   "reward": "rewards"
+  },
+  {
    "code": "Scientist_2",
    "reward": "rewards"
   },
@@ -63,6 +71,6 @@
    "reward": "1 Injured Crate"
   }
  ],
- "updated": "2026-10-26T12:43:54.746Z",
+ "updated": "2026-10-28T04:55:24.456Z",
  "source": "https://robloxden.com/game-codes/toilet-chaos-td"
 }

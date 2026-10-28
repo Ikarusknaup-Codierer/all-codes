@@ -7,22 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "600_LIKES_PRIZE",
-   "reward": "15 Gems"
-  },
-  {
-   "code": "DUNGEON_BUG",
-   "reward": "250 Bones"
-  },
-  {
-   "code": "PEPPER_NERF",
-   "reward": "100 Sheckles"
-  },
-  {
-   "code": "DUNGEON",
-   "reward": "250 Bones"
-  },
-  {
    "code": "BIZZY_BEES",
    "reward": "1 Honey Seed Pack"
   },
@@ -97,8 +81,24 @@
   {
    "code": "750LIKES_PACK",
    "reward": "the Ancient Seed Pack"
+  },
+  {
+   "code": "600_LIKES_PRIZE",
+   "reward": "15 Gems"
+  },
+  {
+   "code": "DUNGEON_BUG",
+   "reward": "250 Bones"
+  },
+  {
+   "code": "PEPPER_NERF",
+   "reward": "100 Sheckles"
+  },
+  {
+   "code": "DUNGEON",
+   "reward": "250 Bones"
   }
  ],
- "updated": "2026-10-26T22:33:16.684Z",
+ "updated": "2026-10-28T05:00:47.424Z",
  "source": "https://robloxden.com/game-codes/grow-a-unit-td"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HWTRAILS",
+   "reward": "1 Summer Trail Case"
+  },
+  {
+   "code": "HWSKINS",
+   "reward": "1 Summer Skin Case"
+  },
+  {
    "code": "NEWSZN",
    "reward": "the Summer Trail Case"
   },
@@ -55,6 +63,6 @@
    "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-10-27T04:31:14.610Z",
+ "updated": "2026-10-28T12:35:36.501Z",
  "source": "https://robloxden.com/game-codes/football-legends"
 }

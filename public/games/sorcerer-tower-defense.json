@@ -11,10 +11,6 @@
    "reward": "10,000 Gems"
   },
   {
-   "code": "Miguel",
-   "reward": "Gems"
-  },
-  {
    "code": "Hakari",
    "reward": "300 Lucky Tokens"
   },
@@ -23,10 +19,14 @@
    "reward": "300 Gems"
   },
   {
+   "code": "DropAnimations",
+   "reward": "1,000 Gems"
+  },
+  {
    "code": "6MVisits",
    "reward": "300 Gems"
   }
  ],
- "updated": "2026-10-27T04:29:45.190Z",
+ "updated": "2026-10-28T12:34:05.219Z",
  "source": "https://robloxden.com/game-codes/sorcerer-tower-defense"
 }

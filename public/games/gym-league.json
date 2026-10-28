@@ -43,6 +43,10 @@
    "reward": "1.25x Cash (20 Minutes)"
   },
   {
+   "code": "Bonusgains2",
+   "reward": "50 Cosmic Potions , 50 Shadow Potions , 50 Lightning Potions , and 50 "
+  },
+  {
    "code": "LIGHTNINGQUEST",
    "reward": "10 Lightning Pots"
   },
@@ -183,6 +187,6 @@
    "reward": "3 Small Speed Potions"
   }
  ],
- "updated": "2026-10-27T04:28:13.133Z",
+ "updated": "2026-10-28T12:32:29.737Z",
  "source": "https://robloxden.com/game-codes/gym-league"
 }

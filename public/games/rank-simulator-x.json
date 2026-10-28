@@ -11,22 +11,22 @@
    "reward": "Double Gems Boost"
   },
   {
+   "code": "3000Likes",
+   "reward": "Reward"
+  },
+  {
    "code": "1500Likes",
+   "reward": "Reward"
+  },
+  {
+   "code": "500Likes",
    "reward": "Reward"
   },
   {
    "code": "5000Likes",
    "reward": "Reward"
-  },
-  {
-   "code": "XMASEVENT",
-   "reward": "3 2x Star Boost (30 minutes)"
-  },
-  {
-   "code": "Perks",
-   "reward": "2x Gems Boost (30 minutes)"
   }
  ],
- "updated": "2026-10-26T22:37:47.319Z",
+ "updated": "2026-10-28T12:28:23.164Z",
  "source": "https://robloxden.com/game-codes/rank-simulator-x"
 }

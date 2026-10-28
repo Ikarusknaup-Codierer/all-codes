@@ -11,22 +11,22 @@
    "reward": "Giyuu Pet"
   },
   {
-   "code": "update1",
+   "code": "UPDATE6",
    "reward": "Free Rewards"
   },
   {
-   "code": "10KLikes",
-   "reward": "10 Minute Gems Potion"
+   "code": "5kLikes",
+   "reward": "10 Minute Damage Potion, 10 Minute Lucky Potion"
   },
   {
-   "code": "4kLikes",
-   "reward": "10 Minute Gems Potion"
-  },
-  {
-   "code": "HEROGRAME",
+   "code": "20KLIKES",
    "reward": "10 Minute Energy Potion, 10 Minute Gems Potion, 10 Minute Damage Potio"
+  },
+  {
+   "code": "SUMMER",
+   "reward": "10 Minute Lucky Potion, 10 Minute Damage Energy"
   }
  ],
- "updated": "2026-10-27T11:52:55.701Z",
+ "updated": "2026-10-28T12:39:10.275Z",
  "source": "https://robloxden.com/game-codes/anime-sword-simulator"
 }

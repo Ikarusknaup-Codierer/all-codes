@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "300 Tickets"
+  },
+  {
+   "code": "HEADLESS",
+   "reward": "500 Tickets"
+  },
+  {
+   "code": "ENDLESS",
+   "reward": "400 Tickets"
+  },
+  {
    "code": "WLASTSTOP",
    "reward": "Tickets . You need to reach level 5 to redeem this code"
   },
@@ -35,6 +47,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-10-27T04:29:29.903Z",
+ "updated": "2026-10-28T12:33:49.592Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORDELAY",
+   "reward": "50,000 Coins"
+  },
+  {
+   "code": "PETS",
+   "reward": "25,000 Coins"
+  },
+  {
+   "code": "SECRETSPHINX",
+   "reward": "100,000 Coins"
+  },
+  {
    "code": "DEADBYMELOL",
    "reward": "1 Coin"
   },
@@ -23,6 +35,6 @@
    "reward": "500 Speed and 500 Strength"
   }
  ],
- "updated": "2026-10-26T22:37:07.739Z",
+ "updated": "2026-10-28T12:28:02.362Z",
  "source": "https://robloxden.com/game-codes/build-the-pyramid"
 }

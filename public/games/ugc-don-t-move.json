@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "boyHairDontMove",
+   "code": "FREEZE!",
+   "reward": "25,000 Still Points"
+  },
+  {
+   "code": "SAVE",
    "reward": "50,000 Still Points"
   },
   {
@@ -19,6 +23,6 @@
    "reward": "2 Hours Of 2x Points Boost"
   }
  ],
- "updated": "2026-10-27T04:31:25.352Z",
+ "updated": "2026-10-28T12:35:47.591Z",
  "source": "https://robloxden.com/game-codes/ugc-don-t-move"
 }

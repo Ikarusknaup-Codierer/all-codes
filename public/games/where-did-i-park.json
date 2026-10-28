@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "update4",
+   "reward": "600 Gems"
+  },
+  {
+   "code": "scanner",
+   "reward": "300 Gems"
+  },
+  {
    "code": "UPDATE3",
    "reward": "700 Gems"
   },
@@ -23,6 +31,6 @@
    "reward": "100 Gems"
   }
  ],
- "updated": "2026-10-27T04:29:09.812Z",
+ "updated": "2026-10-28T12:33:28.473Z",
  "source": "https://robloxden.com/game-codes/where-did-i-park"
 }

@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "nevelE-7",
-   "reward": "6 Hours of Metallic Luck"
-  },
-  {
    "code": "DarkonianWaits",
    "reward": "2 Hours of Metallic Luck"
-  },
-  {
-   "code": "GoodGrief!",
-   "reward": "x2 Shiny Boost (2 Hours)"
-  },
-  {
-   "code": "RealityContinuesToRuinMyLife",
-   "reward": "x2 Metallic Boost (2 Hours)"
   },
   {
    "code": "IsSpinalStrangerTapThingsThis",
@@ -227,8 +215,20 @@
    "reward": "2 Hours of Gold Boost"
   },
   {
+   "code": "nevelE-7",
+   "reward": "6 Hours of Metallic Luck"
+  },
+  {
    "code": "IHateMondays",
    "reward": "x2 Gold Boost (2 Hours)"
+  },
+  {
+   "code": "GoodGrief!",
+   "reward": "x2 Shiny Boost (2 Hours)"
+  },
+  {
+   "code": "RealityContinuesToRuinMyLife",
+   "reward": "x2 Metallic Boost (2 Hours)"
   },
   {
    "code": "AriadneOliver",
@@ -247,6 +247,6 @@
    "reward": "2 hours of x2 Metallic Boost"
   }
  ],
- "updated": "2026-10-27T17:46:53.646Z",
+ "updated": "2026-10-29T05:09:05.020Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

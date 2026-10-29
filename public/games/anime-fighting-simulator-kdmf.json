@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "MAINTENANCE",
+   "reward": "5,000 Chikara , 2,500 Tensei Shards , 1,500 Candies , 3 Upper One Keys"
+  },
+  {
+   "code": "HELLOWORLD",
+   "reward": "1 Standard Limit Break Vial , 1 Hour of Passive Income , 5 Training Sp"
+  },
+  {
+   "code": "UPDATE11",
+   "reward": "2,500 Clover Tokens , 10 Stat Boosts , 3 Clover Boxes , 50,000 Chikara"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "5 Trick or Treat Bags , 5 Stat Boosts , 1,000 Candy , and 2,500 Tensei"
   },
@@ -63,6 +75,6 @@
    "reward": "1,500 Chikara , 1,500 Tensei Shards , 4 Training Speed Boosts , 4 Stat"
   }
  ],
- "updated": "2026-10-27T12:02:52.581Z",
+ "updated": "2026-10-29T05:07:01.402Z",
  "source": "https://robloxden.com/game-codes/anime-fighting-simulator-kdmf"
 }

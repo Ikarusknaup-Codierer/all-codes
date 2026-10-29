@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FIGHTINGSTYLES",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "BIZARREMODS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "TAROTBLESSINGS",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
    "code": "LEGACYRAIDACCESSIBLE",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -571,14 +583,14 @@
    "reward": "250 F2P Tickets and 12 Potions"
   },
   {
-   "code": "BACKTOASTRAL",
-   "reward": "Tickets , Potions , or Boosts"
+   "code": "30KPLAYERS",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   },
   {
-   "code": "30KPLAYERS",
+   "code": "28KPLAYERS",
    "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-10-27T12:02:44.016Z",
+ "updated": "2026-10-29T05:06:59.518Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

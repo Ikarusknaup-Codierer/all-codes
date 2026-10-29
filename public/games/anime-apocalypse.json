@@ -95,6 +95,14 @@
    "reward": "20 Trait Rolls , 250 Summer Coins , 20 Lucky Ability Spins , 15 Lucky "
   },
   {
+   "code": "BOMBHOTFIX",
+   "reward": "2,500,000 Coins and 100 Lucky Ability Spins"
+  },
+  {
+   "code": "VANITYHOTFIX",
+   "reward": "750 Candy and 100 Lucky Ability Spins"
+  },
+  {
    "code": "BUFFHOTFIX",
    "reward": "5,000,000 Coins , 100 Lucky Ability Spins , and 50 Lucky Gadget Spins"
   },
@@ -215,6 +223,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-10-27T17:52:54.713Z",
+ "updated": "2026-10-29T05:14:40.093Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

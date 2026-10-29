@@ -7,26 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CC2543",
-   "reward": "4,444 Ghoulars"
-  },
-  {
-   "code": "PATCHES26",
-   "reward": "26,000 Ghoulars"
-  },
-  {
-   "code": "LNY26",
-   "reward": "26,000 Ghoulars"
-  },
-  {
-   "code": "DEADX5",
-   "reward": "5,555 Ghoulars"
-  },
-  {
-   "code": "SOULAAN",
-   "reward": "22,000 Ghoulars"
-  },
-  {
    "code": "PATCH03",
    "reward": "1,111 Ghoulars"
   },
@@ -129,8 +109,28 @@
   {
    "code": "C00K0FF",
    "reward": "1,000 Ghoulars"
+  },
+  {
+   "code": "CC2543",
+   "reward": "4,444 Ghoulars"
+  },
+  {
+   "code": "PATCHES26",
+   "reward": "26,000 Ghoulars"
+  },
+  {
+   "code": "LNY26",
+   "reward": "26,000 Ghoulars"
+  },
+  {
+   "code": "DEADX5",
+   "reward": "5,555 Ghoulars"
+  },
+  {
+   "code": "SOULAAN",
+   "reward": "22,000 Ghoulars"
   }
  ],
- "updated": "2026-10-27T17:51:58.129Z",
+ "updated": "2026-10-29T05:13:46.312Z",
  "source": "https://robloxden.com/game-codes/monsterverze"
 }

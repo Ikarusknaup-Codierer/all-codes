@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "QUESTSNEW",
+   "reward": "50 Gems , 5 Refined Dice , a Radiant Dice , 5 Astral Dice , and 25 Gol"
+  },
+  {
+   "code": "MEOW",
+   "reward": "3 Refined Dice , a Radiant Dice , an Astral Dice , and 10 Gold Dice"
+  },
+  {
+   "code": "UPD25",
+   "reward": "50 Gems , 5 Refined Dice , a Radiant Dice , 5 Astral Dice , and 25 Gol"
+  },
+  {
    "code": "BEE",
    "reward": "150 Gems , 10x Gold Dice , and 5x Astral Dice"
   },
@@ -87,14 +99,14 @@
    "reward": "100 Cash and 10 Basic Dice"
   },
   {
-   "code": "hicheddar",
-   "reward": "400 Gems , 50 Refined Dice , 20 Auric Dice , 10 Obsidian Dice , and 5 "
+   "code": "mrcat67",
+   "reward": "Free Rewards"
   },
   {
-   "code": "EARLYGAME",
-   "reward": "Rewards"
+   "code": "censil",
+   "reward": "100 Astral Dice"
   }
  ],
- "updated": "2026-10-27T17:50:29.762Z",
+ "updated": "2026-10-29T05:12:25.154Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

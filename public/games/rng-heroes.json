@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SPECTRAL",
+   "reward": "the Spectral Lantern"
+  },
+  {
+   "code": "TOWERFUN",
+   "reward": "5 Tower Keys"
+  },
+  {
+   "code": "NEWTESTCODE",
+   "reward": "10,000 Beans"
+  },
+  {
    "code": "iiiiiinfinite",
    "reward": "10 Infinity Chests"
   },
@@ -79,6 +91,6 @@
    "reward": "one Abyss Reaver Crate"
   }
  ],
- "updated": "2026-10-27T17:52:59.040Z",
+ "updated": "2026-10-29T05:14:44.048Z",
  "source": "https://robloxden.com/game-codes/rng-heroes"
 }

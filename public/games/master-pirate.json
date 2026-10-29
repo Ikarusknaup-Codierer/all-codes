@@ -263,14 +263,14 @@
    "reward": "1 Level"
   },
   {
-   "code": "10MVisit",
+   "code": "COLDRESETSTATS",
    "reward": "Stats Reset"
   },
   {
-   "code": "10KLIKE",
-   "reward": "1,000 Beli"
+   "code": "10MVisit",
+   "reward": "Stats Reset"
   }
  ],
- "updated": "2026-10-27T12:02:36.615Z",
+ "updated": "2026-10-29T05:06:57.414Z",
  "source": "https://robloxden.com/game-codes/master-pirate"
 }

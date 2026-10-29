@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "REEL",
-   "reward": "10,000 Coins"
+   "code": "freebee",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "cit",
+   "reward": ""
   },
   {
    "code": "updatealmostready",
@@ -19,14 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "EPICVOLCANO",
-   "reward": "a Double Coins Boost for 60 Minutes"
-  },
-  {
-   "code": "LEVELUP",
-   "reward": "a 5 Level Boost and Double XP for 48 Hours"
+   "code": "DIAMOND",
+   "reward": "a Double Bricks Boost for 10 Minutes"
   }
  ],
- "updated": "2026-10-27T17:47:16.952Z",
+ "updated": "2026-10-29T05:09:26.903Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

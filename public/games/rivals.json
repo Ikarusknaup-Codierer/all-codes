@@ -19,14 +19,6 @@
    "reward": "3 Keys"
   },
   {
-   "code": "COMMUNITY24",
-   "reward": "a Community Wrap"
-  },
-  {
-   "code": "FREE184",
-   "reward": "3 Keys"
-  },
-  {
    "code": "ELBILLUG",
    "reward": "Nothing"
   },
@@ -55,18 +47,22 @@
    "reward": "3 Keys"
   },
   {
-   "code": "FREE200",
-   "reward": "3x Keys"
-  },
-  {
    "code": "NOSNIYGAMESONTOP",
    "reward": "the RIA26 Best Studio Emote"
   },
   {
    "code": "BACK2BACK",
    "reward": "Rewards"
+  },
+  {
+   "code": "COMMUNITY24",
+   "reward": "a Community Wrap"
+  },
+  {
+   "code": "FREE184",
+   "reward": "3 Keys"
   }
  ],
- "updated": "2026-10-27T12:07:02.293Z",
+ "updated": "2026-10-29T05:07:42.281Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

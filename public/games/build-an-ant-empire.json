@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "autorollandautobuy",
+   "reward": "a Cash Boost (15 Minutes)"
+  },
+  {
+   "code": "timevent",
+   "reward": "a Cash Boost (15 Minutes)"
+  },
+  {
    "code": "10000members",
    "reward": "200 Starfall Coins"
   },
@@ -19,6 +27,6 @@
    "reward": "a Cash Boost (15 Minutes)"
   }
  ],
- "updated": "2026-10-27T12:06:55.560Z",
+ "updated": "2026-10-29T05:07:37.071Z",
  "source": "https://robloxden.com/game-codes/build-an-ant-empire"
 }

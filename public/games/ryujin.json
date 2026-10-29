@@ -35,14 +35,14 @@
    "reward": "200 Ryujin Coins , 5 Clan Rerolls , 7 Psyche Rerolls , and 3 Single Ps"
   },
   {
-   "code": "fixedclothes",
-   "reward": "150 Ryujin Coins"
-  },
-  {
    "code": "bigcode",
    "reward": "999 RC , 20 Clan Rerolls , 21 Psyche Rerolls , 6 Specific Psyche Rerol"
+  },
+  {
+   "code": "GEN2",
+   "reward": "250 Ryujin Coins"
   }
  ],
- "updated": "2026-10-27T17:46:26.736Z",
+ "updated": "2026-10-29T05:08:39.704Z",
  "source": "https://robloxden.com/game-codes/ryujin"
 }

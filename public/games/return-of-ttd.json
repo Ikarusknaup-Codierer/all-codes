@@ -15,18 +15,18 @@
    "reward": "rewards"
   },
   {
-   "code": "Summon10",
-   "reward": "rewards"
-  },
-  {
    "code": "Merchant",
    "reward": "Coins"
   },
   {
-   "code": "Free",
+   "code": "Spider",
+   "reward": "Coins"
+  },
+  {
+   "code": "Coins",
    "reward": "Coins"
   }
  ],
- "updated": "2026-10-27T17:49:06.969Z",
+ "updated": "2026-10-29T05:11:09.047Z",
  "source": "https://robloxden.com/game-codes/return-of-ttd"
 }

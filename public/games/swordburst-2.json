@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Wave",
+   "reward": "30 Minutes Boost"
+  },
+  {
+   "code": "Defense",
+   "reward": "30 Minutes Boost"
+  },
+  {
+   "code": "Elite",
+   "reward": "Rewards . You must be at least level 100 to use this code"
+  },
+  {
    "code": "Welcome",
    "reward": "30 Minutes Boost"
   },
@@ -67,6 +79,6 @@
    "reward": "Rewards . You must be at least level 300 to use this code"
   }
  ],
- "updated": "2026-10-27T17:51:37.392Z",
+ "updated": "2026-10-29T05:13:26.169Z",
  "source": "https://robloxden.com/game-codes/swordburst-2"
 }

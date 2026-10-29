@@ -35,14 +35,6 @@
    "reward": "the Chef Woody Skin"
   },
   {
-   "code": "cat",
-   "reward": "the Avis Pie Skin"
-  },
-  {
-   "code": "SpaceVisor",
-   "reward": "the Devoted Donut Skin"
-  },
-  {
    "code": "SoRich!",
    "reward": "the Rich Smileyface Skin"
   },
@@ -67,6 +59,10 @@
    "reward": "Skidibi Teardrop Skin"
   },
   {
+   "code": "cat",
+   "reward": "the Avis Pie Skin"
+  },
+  {
    "code": "Novatic",
    "reward": "the Novatic Gaty Novabfdc Skin"
   },
@@ -87,10 +83,14 @@
    "reward": "1 Gem and 500 Coins"
   },
   {
+   "code": "SpaceVisor",
+   "reward": "the Devoted Donut Skin"
+  },
+  {
    "code": "Epikfull",
    "reward": "the Epik Snowball Skin"
   }
  ],
- "updated": "2026-10-28T05:00:49.645Z",
+ "updated": "2026-10-29T22:45:20.168Z",
  "source": "https://robloxden.com/game-codes/battle-for-dream-island-again"
 }

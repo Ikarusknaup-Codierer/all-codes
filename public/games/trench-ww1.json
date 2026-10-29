@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "THECODEXBADGE",
+   "reward": "the Free Badge . This code requires you to join the Appy bot in the Di"
+  },
+  {
+   "code": "WOULDYOUCODER",
+   "reward": "the Code Minigame for Medals"
+  },
+  {
+   "code": "MYSTERYCODE100",
+   "reward": "the Special Delivery"
+  },
+  {
+   "code": "DECISION1000",
+   "reward": "the Fate of the Enlisted"
+  },
+  {
+   "code": "PROTOTYPECLAIMCODE",
+   "reward": "Prototype Weapons"
+  },
+  {
+   "code": "INTELFACTOR",
+   "reward": "100 Intel Documents"
+  },
+  {
    "code": "RETURNCODE1000",
    "reward": "-1 Medal"
   },
@@ -131,6 +155,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-10-28T04:56:00.795Z",
+ "updated": "2026-10-29T22:40:29.665Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

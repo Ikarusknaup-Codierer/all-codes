@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "V1RUSAHUR",
+   "reward": "10x cash for 2 hours"
+  },
+  {
    "code": "ADMIN",
    "reward": "5x Cash (2 Hours)"
   },
@@ -151,6 +155,6 @@
    "reward": "5x Cash (2 Hours)"
   }
  ],
- "updated": "2026-10-28T04:58:58.724Z",
+ "updated": "2026-10-29T22:43:29.943Z",
  "source": "https://robloxden.com/game-codes/build-a-soccer-team"
 }

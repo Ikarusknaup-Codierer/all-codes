@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "thiscodedoesntwork",
+   "reward": "10,000 Money . You need to be level 40 to redeem this code"
+  },
+  {
+   "code": "kartawyslana",
+   "reward": "5,000 Money . You need to be level 25 to redeem this code"
+  },
+  {
    "code": "skrzypas",
    "reward": "10,000 Money . You need to be level 30 to redeem this code"
   },
@@ -183,6 +191,6 @@
    "reward": "100 Cash"
   }
  ],
- "updated": "2026-10-28T04:57:15.586Z",
+ "updated": "2026-10-29T22:41:44.995Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

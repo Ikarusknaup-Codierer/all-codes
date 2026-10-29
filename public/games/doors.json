@@ -83,10 +83,14 @@
    "reward": "25 Doorknobs"
   },
   {
-   "code": "SCREECHSHUCKS",
-   "reward": "Free Reward"
+   "code": "1000",
+   "reward": "100 Knobs"
+  },
+  {
+   "code": "2BILLIONVISITS",
+   "reward": "100 Doorknobs and 1 Revive"
   }
  ],
- "updated": "2026-10-28T05:00:16.401Z",
+ "updated": "2026-10-29T22:44:47.181Z",
  "source": "https://robloxden.com/game-codes/doors"
 }

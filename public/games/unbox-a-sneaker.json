@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "GIFTING",
+   "reward": "3x Wheel Spins"
+  },
+  {
+   "code": "FRESHLOOK",
+   "reward": "2x Cash Boost for 20 minutes"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "429k cash and 2,500 Gems"
+  },
+  {
+   "code": "GODBOXES",
+   "reward": "2x Luck Boost for 15 minutes"
+  },
+  {
    "code": "CASHBOOST",
    "reward": "a 2x Cash Boost (15 min)"
   },
@@ -47,6 +63,6 @@
    "reward": "1K Gems"
   }
  ],
- "updated": "2026-10-28T05:00:13.705Z",
+ "updated": "2026-10-29T22:44:44.311Z",
  "source": "https://robloxden.com/game-codes/unbox-a-sneaker"
 }

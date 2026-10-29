@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "16MVISITS",
+   "reward": "Rewards"
+  },
+  {
+   "code": "115KFAVORITES",
+   "reward": "Rewards"
+  },
+  {
+   "code": "NEWTITAN",
+   "reward": "Rewards"
+  },
+  {
+   "code": "NEWCHIMERA",
+   "reward": "Rewards"
+  },
+  {
    "code": "14MVISITS",
    "reward": "200 Emeralds"
   },
@@ -203,6 +219,6 @@
    "reward": "100 Emeralds"
   }
  ],
- "updated": "2026-10-27T17:57:54.657Z",
+ "updated": "2026-10-29T12:39:25.453Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

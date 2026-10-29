@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FREECRATE",
+   "reward": "1 Crate"
+  },
+  {
    "code": "PAGEUPDATE",
    "reward": "500 Cash"
   },
@@ -31,6 +35,6 @@
    "reward": "2,000 Cash"
   }
  ],
- "updated": "2026-10-27T18:00:58.651Z",
+ "updated": "2026-10-29T12:39:58.308Z",
  "source": "https://robloxden.com/game-codes/ophelia"
 }

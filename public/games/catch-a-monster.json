@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WORLDBOSS",
-   "reward": "1 Copter Egg"
-  },
-  {
    "code": "TWIRLY",
    "reward": "5,000 Twirly Coins"
   },
@@ -87,6 +83,10 @@
    "reward": "3,000 Twirly Coin"
   },
   {
+   "code": "WORLDBOSS",
+   "reward": "1 Copter Egg"
+  },
+  {
    "code": "VORTUR",
    "reward": "2,000 Wanderer’s Coins and 2 Splash Isle Rifts III"
   },
@@ -107,6 +107,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-10-27T22:00:25.537Z",
+ "updated": "2026-10-29T12:41:24.077Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

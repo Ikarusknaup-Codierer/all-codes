@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Bob",
+   "reward": "350 Candies"
+  },
+  {
+   "code": "Sewer",
+   "reward": "250 Candies"
+  },
+  {
    "code": "fog",
    "reward": "250 Candies"
   },
@@ -35,6 +43,6 @@
    "reward": "350 Candies"
   }
  ],
- "updated": "2026-10-27T18:00:41.239Z",
+ "updated": "2026-10-29T12:39:42.549Z",
  "source": "https://robloxden.com/game-codes/my-haunted-house"
 }

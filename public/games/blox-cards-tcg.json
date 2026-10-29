@@ -15,10 +15,6 @@
    "reward": "250 BB , the Peasant Title , and 10 Demon Wars: The Conquerors Tickets"
   },
   {
-   "code": "BATTLESIM",
-   "reward": "750 BB"
-  },
-  {
    "code": "THECURSEDONES",
    "reward": "750 BB"
   },
@@ -155,6 +151,10 @@
    "reward": "750 BB"
   },
   {
+   "code": "BATTLESIM",
+   "reward": "750 BB"
+  },
+  {
    "code": "CATACLYSM",
    "reward": "500 BB , 5 Doomspire: Complete Tickets , and the From A Different Time"
   },
@@ -179,6 +179,6 @@
    "reward": "800 BB"
   }
  ],
- "updated": "2026-10-27T21:59:38.544Z",
+ "updated": "2026-10-29T12:40:35.737Z",
  "source": "https://robloxden.com/game-codes/blox-cards-tcg"
 }

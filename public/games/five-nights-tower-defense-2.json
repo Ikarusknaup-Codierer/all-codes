@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "NEWINVENTORY",
+   "reward": "50,000 Tokens , 2,500 Untradable Souls , 50 Seasonal Presents , 50 End"
+  },
+  {
+   "code": "PARTSANDSERVICES",
+   "reward": "25,000 Tokens , 1,500 Untradable Souls , 10 Endo Chips , and 5 Springl"
+  },
+  {
+   "code": "CHIPSTACKING",
+   "reward": "2,500 Untradable Souls , 150 Apocalypse Presents , and 50 Slumber Pres"
+  },
+  {
+   "code": "DOUBLEJUMP",
+   "reward": "50,000 Tokens , 200 Apocalypse Presents , 50 Springlocks , and 10 Remn"
+  },
+  {
+   "code": "MONDAYUPDATE",
+   "reward": "50,000 Tokens , 1 XP Potion 2 , 1,000 Season XP , 100 Raid Coins , 50 "
+  },
+  {
    "code": "SOMEFREECRAFTINGMATERIALS",
    "reward": "30 White Crying Souls , 10 of Each Color Crying Soul , and 1 Rainbow C"
   },
@@ -267,6 +287,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-27T22:03:57.866Z",
+ "updated": "2026-10-29T12:44:54.678Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

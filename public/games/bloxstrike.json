@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "25KCCU",
-   "reward": "150 Credits"
-  },
-  {
    "code": "ZOMBIES",
    "reward": "250 Credits"
-  },
-  {
-   "code": "1MILLIONFAVORITES",
-   "reward": "150 Credits"
   },
   {
    "code": "MICHAELSRETURN",
@@ -25,8 +17,16 @@
   {
    "code": "HAPPYBDAYYUUTO",
    "reward": "125 Credits"
+  },
+  {
+   "code": "FREEDOM",
+   "reward": "250 Credits"
+  },
+  {
+   "code": "GAMEBROKE318",
+   "reward": "Credits"
   }
  ],
- "updated": "2026-10-27T17:57:13.620Z",
+ "updated": "2026-10-29T12:39:17.508Z",
  "source": "https://robloxden.com/game-codes/bloxstrike"
 }

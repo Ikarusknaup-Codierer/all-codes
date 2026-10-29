@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ArcadeIsHere",
+   "reward": "2 Arcade Tickets"
+  },
+  {
    "code": "D1amondF3ver",
    "reward": "2x Diamonds (30 Minutes)"
   },
@@ -51,6 +55,6 @@
    "reward": "1 Artifact Crate Roll with x2 Luck"
   }
  ],
- "updated": "2026-10-27T22:04:10.542Z",
+ "updated": "2026-10-29T12:45:07.256Z",
  "source": "https://robloxden.com/game-codes/fruit-zombie-survival"
 }

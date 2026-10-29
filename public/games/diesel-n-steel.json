@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PISO",
-   "reward": "1 Cash"
-  },
-  {
    "code": "SorryForDelay",
    "reward": "Rewards"
   },
@@ -79,6 +75,10 @@
    "reward": "200 Cash"
   },
   {
+   "code": "PISO",
+   "reward": "1 Cash"
+  },
+  {
    "code": "CADEZ",
    "reward": "2,000 Cash"
   },
@@ -95,6 +95,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-10-27T18:00:35.915Z",
+ "updated": "2026-10-29T12:39:38.876Z",
  "source": "https://robloxden.com/game-codes/diesel-n-steel"
 }

@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "LUCKY",
-   "reward": "2x Luck"
-  },
-  {
    "code": "NEWEXCLUSIVES",
    "reward": "3 Solar Packs"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "2x Luck"
   },
   {
    "code": "RELEASE",
    "reward": "5,000 Cash and 3x Bronze Packs"
   }
  ],
- "updated": "2026-10-27T22:04:38.549Z",
+ "updated": "2026-10-29T12:45:34.686Z",
  "source": "https://robloxden.com/game-codes/pack-a-soccer-card"
 }

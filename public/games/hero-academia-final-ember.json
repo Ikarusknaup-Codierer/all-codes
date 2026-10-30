@@ -7,22 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "WallGlitch",
-   "reward": "Yen Boost (30 minutes)"
-  },
-  {
-   "code": "Part1Fix",
+   "code": "OverhaulUpdate",
    "reward": "5 Spins"
   },
   {
-   "code": "iWANTLEGENDARY",
-   "reward": "a 10 Minute XP Boost"
+   "code": "Part1Update",
+   "reward": "5 Spins"
   },
   {
-   "code": "RELEASE",
+   "code": "Part2Update",
+   "reward": "5 Spins"
+  },
+  {
+   "code": "Shutdown",
    "reward": "a 10 Minute Yen Boost"
+  },
+  {
+   "code": "DessiXEmber",
+   "reward": "a 10 Minute XP Boost"
   }
  ],
- "updated": "2026-10-28T22:33:25.462Z",
+ "updated": "2026-10-30T22:09:42.803Z",
  "source": "https://robloxden.com/game-codes/hero-academia-final-ember"
 }

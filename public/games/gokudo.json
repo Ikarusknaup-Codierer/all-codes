@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "GIVEAWAY",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "YENTOREROLL",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "FAMILYPAYOUTREROLL",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "MOBILEFIX",
+   "reward": "20x Rerolls"
+  },
+  {
+   "code": "FRESHLOOK",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "STORM",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "BASKETBALL",
+   "reward": "30x Rerolls"
+  },
+  {
+   "code": "HBDDELICTVM",
+   "reward": "50x Rerolls"
+  },
+  {
    "code": "MUSICIAN",
    "reward": "30 Rerolls"
   },
@@ -17,6 +49,54 @@
   {
    "code": "HALLOWEEN",
    "reward": "50 Rerolls"
+  },
+  {
+   "code": "MOREPLUSHIES",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "NOWSING",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "BONUS",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "QUICKFIX",
+   "reward": "20 Rerolls"
+  },
+  {
+   "code": "VAMPNOTSOFAST",
+   "reward": "the Free Rewards"
+  },
+  {
+   "code": "NEWLOOK",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "FRESHDYE",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "WALLSARESOLID",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "PRISMHAIR",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "BUGFIXDAY",
+   "reward": "the Free Rewards"
+  },
+  {
+   "code": "TROLLED",
+   "reward": "the Free Rewards"
+  },
+  {
+   "code": "QUICKFIX2",
+   "reward": "20 Rerolls"
   },
   {
    "code": "FASTERNOW",
@@ -163,6 +243,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-10-28T22:30:06.129Z",
+ "updated": "2026-10-30T22:07:15.859Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

@@ -55,14 +55,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "gems",
-   "reward": "20 Gems"
+   "code": "exp",
+   "reward": "2 Minor Exp Potions"
   },
   {
-   "code": "spin",
-   "reward": "a Summon Spin"
+   "code": "dawn",
+   "reward": "a Gem"
   }
  ],
- "updated": "2026-10-29T05:07:25.746Z",
+ "updated": "2026-10-30T22:10:54.051Z",
  "source": "https://robloxden.com/game-codes/adventure-guild-battles"
 }

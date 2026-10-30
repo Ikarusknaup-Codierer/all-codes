@@ -11,12 +11,8 @@
    "reward": "Spoon Knife"
   },
   {
-   "code": "jumpbug",
-   "reward": "Jumping Bug Knife"
-  },
-  {
-   "code": "cupid2021",
-   "reward": "Heartbreaker Knife"
+   "code": "HALLOWVEMBER",
+   "reward": "Friendly Spirits Knife"
   },
   {
    "code": "SPOOKY2020",
@@ -25,8 +21,12 @@
   {
    "code": "vote1m",
    "reward": "Millionth Slycer"
+  },
+  {
+   "code": "HAVEPRIDE",
+   "reward": "Slyce Of Pride"
   }
  ],
- "updated": "2026-10-28T22:29:03.488Z",
+ "updated": "2026-10-30T22:06:31.359Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

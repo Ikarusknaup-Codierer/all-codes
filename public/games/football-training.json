@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "nobleflask",
-   "reward": "1 Royal Potion"
-  },
-  {
    "code": "multieggs",
    "reward": "2x Void Eggs and 5x Timeless Eggs"
   },
@@ -117,8 +113,12 @@
   {
    "code": "cheerup",
    "reward": "5 Cocktail Potion"
+  },
+  {
+   "code": "nobleflask",
+   "reward": "1 Royal Potion"
   }
  ],
- "updated": "2026-10-29T05:07:23.796Z",
+ "updated": "2026-10-30T22:10:52.286Z",
  "source": "https://robloxden.com/game-codes/football-training"
 }

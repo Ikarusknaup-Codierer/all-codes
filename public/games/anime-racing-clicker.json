@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Halloween",
+   "reward": "6 Shurikens Potions"
+  },
+  {
    "code": "KuramaEgg",
    "reward": "6 x2 Shuriken Potions (20 Minutes)"
   },
@@ -75,6 +79,6 @@
    "reward": "1 Super Lucky Potion"
   }
  ],
- "updated": "2026-10-28T22:27:44.416Z",
+ "updated": "2026-10-30T22:05:58.558Z",
  "source": "https://robloxden.com/game-codes/anime-racing-clicker"
 }

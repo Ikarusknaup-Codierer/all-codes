@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "AUDIRS5",
+   "code": "VILLACOSTA",
    "reward": "200,000 Cash"
   },
   {
-   "code": "VILLACOSTA",
+   "code": "BEMVINDO",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "AUDIRS5",
    "reward": "200,000 Cash"
   },
   {
@@ -19,18 +23,10 @@
    "reward": "250,000 Cash"
   },
   {
-   "code": "BEMVINDO",
-   "reward": "50,000 Cash"
-  },
-  {
-   "code": "UPDATE1_7",
-   "reward": "250,000 Cash"
-  },
-  {
    "code": "CARROSCLASSICOS",
    "reward": "Freebies"
   }
  ],
- "updated": "2026-10-28T22:31:52.723Z",
+ "updated": "2026-10-30T22:08:56.963Z",
  "source": "https://robloxden.com/game-codes/brazil-motorfest"
 }

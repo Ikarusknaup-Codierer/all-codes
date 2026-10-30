@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NARUSOON",
-   "reward": "50 Spins and a 20 Minutes x2 Materials Boost"
-  },
-  {
-   "code": "UPDATE3",
-   "reward": "100 Spins , a 15 Minutes x2 Drop Boost , a 15 Minutes x2 Material Boos"
-  },
-  {
    "code": "CombatRework",
    "reward": "50 Spins and 15 Minutes EXP Boost"
   },
@@ -23,10 +15,14 @@
    "reward": "100 Spins and 15 Minutes DROP Boost"
   },
   {
+   "code": "RankedMatchesPog",
+   "reward": "Cash and 20 Spins"
+  },
+  {
    "code": "XMAS2025",
    "reward": "100 Spins, 2000 Materials, 5000 Rc, 500k Yen, And 2 Hours Of Boosts"
   }
  ],
- "updated": "2026-10-29T05:08:38.386Z",
+ "updated": "2026-10-30T22:11:56.432Z",
  "source": "https://robloxden.com/game-codes/project-ghoul"
 }

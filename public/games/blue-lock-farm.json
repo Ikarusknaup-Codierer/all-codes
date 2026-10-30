@@ -11,10 +11,6 @@
    "reward": "2x Bluetooth Potions"
   },
   {
-   "code": "ADMINABUSE2",
-   "reward": "the Monster Ball"
-  },
-  {
    "code": "WEATHER",
    "reward": "5 Grade Tokens and a Luck Potion"
   },
@@ -31,10 +27,14 @@
    "reward": "1 Monster Ball , 1 Supercharged Ball , and 1 Beach Ball"
   },
   {
+   "code": "ADMINABUSE2",
+   "reward": "the Monster Ball"
+  },
+  {
    "code": "ADMINABUSE",
    "reward": "20 Trait Tokens , 20 Grade Tokens , and 1 Variant Token"
   }
  ],
- "updated": "2026-10-29T05:06:31.750Z",
+ "updated": "2026-10-30T22:10:07.510Z",
  "source": "https://robloxden.com/game-codes/blue-lock-farm"
 }

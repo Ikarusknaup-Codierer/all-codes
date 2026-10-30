@@ -271,10 +271,14 @@
    "reward": "1 +3 Speed Boost"
   },
   {
-   "code": "THANKYOUFORTHEJOURNEY",
-   "reward": "1 +5 Speed Boost"
+   "code": "THANKSGRAVY",
+   "reward": "1 +1 Speed Boost"
+  },
+  {
+   "code": "LOVEMAYRUSHART",
+   "reward": "1 +1 Speed Boost"
   }
  ],
- "updated": "2026-10-28T22:30:49.037Z",
+ "updated": "2026-10-30T22:07:57.129Z",
  "source": "https://robloxden.com/game-codes/speedman-simulator"
 }

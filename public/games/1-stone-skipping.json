@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "1MFAV",
+   "reward": "1 Luck Potion and 1 Common Egg"
+  },
+  {
+   "code": "2MGROUP",
+   "reward": "1 Skill Potion , 1 Win Potion , 1 Luck Potion , 3 Wins , 2,630 Skill ,"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "1 Win Potion , 3 Wins , and 2,630 Skill"
+  },
+  {
+   "code": "40MVISITS",
+   "reward": "1 Skill Potion , 1 Luck Potion , 3 Wins , 1.31k Skill , and 1 Common E"
+  },
+  {
    "code": "30MVISITS",
    "reward": "1 Luck Potion , 3 Wins , 2.63k Skill , and 1 Common Egg"
   },
@@ -23,10 +39,10 @@
    "reward": "the 1x Skill Potion , 1.31k Skill , and 1x Common Egg"
   },
   {
-   "code": "500KFAV",
-   "reward": "a 1 Luck Potion , 1 Common Egg , 3 Wins , and Skills"
+   "code": "20MVISITS",
+   "reward": "1 Win Potion and 3 Wins"
   }
  ],
- "updated": "2026-10-29T05:07:41.009Z",
+ "updated": "2026-10-30T22:11:07.054Z",
  "source": "https://robloxden.com/game-codes/1-stone-skipping"
 }

@@ -11,10 +11,6 @@
    "reward": "150 Gems"
   },
   {
-   "code": "HUGEUPDATE1",
-   "reward": "No Stated Reward"
-  },
-  {
    "code": "rampantreborn",
    "reward": "Golden Crate"
   },
@@ -25,8 +21,12 @@
   {
    "code": "goldencrate",
    "reward": "Golden Crate"
+  },
+  {
+   "code": "PLAYRAMPANT1V1",
+   "reward": "No Stated Reward"
   }
  ],
- "updated": "2026-10-28T22:30:18.508Z",
+ "updated": "2026-10-30T22:07:27.029Z",
  "source": "https://robloxden.com/game-codes/rampant"
 }

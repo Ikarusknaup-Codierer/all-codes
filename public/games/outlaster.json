@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "JUNGLELIFE",
-   "reward": "50 Gems"
+   "code": "NEW",
+   "reward": "New"
   },
   {
-   "code": "HORNS",
-   "reward": "1 Darkhorn Torch (VIP ONLY)"
+   "code": "JUNGLELIFE",
+   "reward": "50 Gems"
   },
   {
    "code": "HEART",
@@ -25,12 +25,8 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
-  },
-  {
-   "code": "NEW",
-   "reward": "New"
   }
  ],
- "updated": "2026-10-28T22:31:18.551Z",
+ "updated": "2026-10-30T22:08:24.449Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

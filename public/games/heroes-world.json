@@ -11,10 +11,6 @@
    "reward": "50,000 Money and a Legendary Spin"
   },
   {
-   "code": "Hwisalive",
-   "reward": "Free Spins and Cash"
-  },
-  {
    "code": "MimicItems",
    "reward": "1 Epic Spin and 1 Wheel Spin"
   },
@@ -47,10 +43,14 @@
    "reward": "Free Spins and Cash"
   },
   {
+   "code": "Hwisalive",
+   "reward": "Free Spins and Cash"
+  },
+  {
    "code": "MimicBossfight",
    "reward": "1 Legendary Spin and 50,000 Money"
   }
  ],
- "updated": "2026-10-28T22:30:51.779Z",
+ "updated": "2026-10-30T22:07:59.910Z",
  "source": "https://robloxden.com/game-codes/heroes-world"
 }

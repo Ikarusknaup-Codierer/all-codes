@@ -15,18 +15,18 @@
    "reward": "a Regular Spin"
   },
   {
-   "code": "!ReBalance",
-   "reward": "100,000 XP"
-  },
-  {
    "code": "!BloodCurse",
    "reward": "90 Spins"
   },
   {
-   "code": "!FirstResetCode",
-   "reward": "Stat Reset"
+   "code": "!Prestige",
+   "reward": "60 Spins"
+  },
+  {
+   "code": "!EXPCode2",
+   "reward": "500,000 XP"
   }
  ],
- "updated": "2026-10-28T22:32:33.753Z",
+ "updated": "2026-10-30T22:09:25.999Z",
  "source": "https://robloxden.com/game-codes/rojutsu-blox"
 }

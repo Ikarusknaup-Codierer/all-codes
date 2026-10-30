@@ -39,14 +39,14 @@
    "reward": "20,000 Gems , 2x Damage Potion , Protection Potion , 2 2x Strength Pot"
   },
   {
-   "code": "Secret",
-   "reward": "1 Strength Potion"
-  },
-  {
    "code": "Protection",
    "reward": "1 Protection Potion"
+  },
+  {
+   "code": "Lucky",
+   "reward": "1 Lucky Potion"
   }
  ],
- "updated": "2026-10-28T12:32:28.309Z",
+ "updated": "2026-10-30T05:14:04.110Z",
  "source": "https://robloxden.com/game-codes/power-punch-simulator"
 }

@@ -19,14 +19,14 @@
    "reward": "the Scorpion Pet"
   },
   {
-   "code": "BOOSTPRO2",
-   "reward": "2 Speed Potions For 10 Minutes"
-  },
-  {
    "code": "RELEASE1",
    "reward": "1 Speed Potion For 10 Minutes"
+  },
+  {
+   "code": "BOOSTPRO",
+   "reward": "2x 10m Speed Potions"
   }
  ],
- "updated": "2026-10-28T05:01:42.984Z",
+ "updated": "2026-10-30T05:06:55.166Z",
  "source": "https://robloxden.com/game-codes/racing-simulator"
 }

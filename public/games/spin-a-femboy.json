@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "tokentok",
+   "reward": "20,000 Money , 25 Gems , 1 Token , 25 Silver Dice , 20 Platinum Dice ,"
+  },
+  {
+   "code": "tokenshop",
+   "reward": "10,000 Money , 20 Gems , 20 Platinum Dice , 10 Holy Dice , and 3 Emera"
+  },
+  {
+   "code": "catcat",
+   "reward": "100,000 Money , 100 Gems , 5 Shards , and 1 Token"
+  },
+  {
    "code": "CATMEOW",
    "reward": "100 Gems , 5x Mutation Rerolls , 70x Platinum Dice , and 20x Diamond D"
   },
@@ -163,6 +175,6 @@
    "reward": "350 Gems , 50 Aquamarine Dice , 25 Glacial Dice , 5 Pride Dice , and 3"
   }
  ],
- "updated": "2026-10-28T05:01:45.736Z",
+ "updated": "2026-10-30T05:06:55.841Z",
  "source": "https://robloxden.com/game-codes/spin-a-femboy"
 }

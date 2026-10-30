@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LEVELUP",
+   "reward": "XP"
+  },
+  {
    "code": "80KL1KES",
    "reward": "400 Bones"
   },
@@ -51,6 +55,6 @@
    "reward": "500 Bones"
   }
  ],
- "updated": "2026-10-28T12:32:52.582Z",
+ "updated": "2026-10-30T05:14:26.792Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

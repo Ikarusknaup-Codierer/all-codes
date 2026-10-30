@@ -31,6 +31,14 @@
    "reward": "5 X-Large Luck Potion , 5 X-Large Roll Speed Potion , 2 Boss Chance Po"
   },
   {
+   "code": "CYBER3",
+   "reward": "5 X-Large Luck Potion , 5 X-Large Roll Speed Potion , 5 Boss Chance Po"
+  },
+  {
+   "code": "CYBER4",
+   "reward": "5 X-Large Luck Potion , 5 X-Large Roll Speed Potion , 2 Boss Chance Po"
+  },
+  {
    "code": "DEITY5",
    "reward": "5 X-Large Luck Potions , 5 X-Large Roll Speed Potions , 5 Boss Chance "
   },
@@ -139,6 +147,6 @@
    "reward": "2 50,000x Instant Rolls"
   }
  ],
- "updated": "2026-10-28T12:29:40.685Z",
+ "updated": "2026-10-30T05:11:32.425Z",
  "source": "https://robloxden.com/game-codes/anime-card-clash"
 }

@@ -51,10 +51,14 @@
    "reward": "This code credits your accounts with Duck Pet"
   },
   {
-   "code": "GoldBoost",
-   "reward": "This code credits your accounts with 1 Gold Pet Potion"
+   "code": "Cauldron",
+   "reward": "3 2x Luck Boosts"
+  },
+  {
+   "code": "HeavenWorld",
+   "reward": "This code credits your accounts with 1 Luck Potion"
   }
  ],
- "updated": "2026-10-28T05:01:07.100Z",
+ "updated": "2026-10-30T05:06:17.397Z",
  "source": "https://robloxden.com/game-codes/pet-racer-simulator"
 }

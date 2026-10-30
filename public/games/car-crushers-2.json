@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOW26PART1",
-   "reward": "2,700 Cash"
-  },
-  {
    "code": "UNLIMITEDPOWER",
    "reward": "2,400 Cash"
+  },
+  {
+   "code": "HALLOW26PART1",
+   "reward": "2,700 Cash"
   },
   {
    "code": "WORLDTOUR",
@@ -27,6 +27,6 @@
    "reward": "20 MP"
   }
  ],
- "updated": "2026-10-28T12:34:08.620Z",
+ "updated": "2026-10-30T05:15:38.011Z",
  "source": "https://robloxden.com/game-codes/car-crushers-2"
 }

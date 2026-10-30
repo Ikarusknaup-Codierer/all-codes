@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WHEELSPINS",
+   "reward": "3 Wheel Spins"
+  },
+  {
+   "code": "FREEREROLLS",
+   "reward": "20 Rerolls"
+  },
+  {
    "code": "BBQ",
    "reward": "40x Rerolls"
   },
@@ -15,6 +23,6 @@
    "reward": "10 Rerolls"
   }
  ],
- "updated": "2026-10-28T12:32:53.845Z",
+ "updated": "2026-10-30T05:14:28.094Z",
  "source": "https://robloxden.com/game-codes/anime-high-school-rp"
 }

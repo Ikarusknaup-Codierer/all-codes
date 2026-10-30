@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "wing",
+   "reward": "30 Color Feathers and 50 Color Stones"
+  },
+  {
    "code": "iceman",
    "reward": "2,000 Coins and 5 Random Advanced Crystals"
   },
@@ -31,6 +35,6 @@
    "reward": "5 Random Advanced Crystals and 1,000 Endless Coins"
   }
  ],
- "updated": "2026-10-28T05:02:17.100Z",
+ "updated": "2026-10-30T05:07:31.777Z",
  "source": "https://robloxden.com/game-codes/nook-loot"
 }

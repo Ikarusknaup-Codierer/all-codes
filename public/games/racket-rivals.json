@@ -11,6 +11,10 @@
    "reward": "a 200 Yen , a Spirit Pack , 2 Standard Packs , a Rackets Pack , and a "
   },
   {
+   "code": "WITCHING",
+   "reward": "750 Yen"
+  },
+  {
    "code": "HOUR",
    "reward": "750 Yen"
   },
@@ -59,6 +63,6 @@
    "reward": "1,500 Season Pass XP"
   }
  ],
- "updated": "2026-10-28T12:34:25.590Z",
+ "updated": "2026-10-30T12:29:15.106Z",
  "source": "https://robloxden.com/game-codes/racket-rivals"
 }

@@ -15,10 +15,6 @@
    "reward": "2x Speed and 2x Win for 15 Minutes"
   },
   {
-   "code": "7KCCU",
-   "reward": "250K Speed, 7K Wins and 2x Speed (10 Minutes)"
-  },
-  {
    "code": "5MVISITS",
    "reward": "150K Speed, 15K Wins and 2x Speed (10 Minutes)"
   },
@@ -29,8 +25,12 @@
   {
    "code": "UPDATE2",
    "reward": "2x Speed (10 Minutes)"
+  },
+  {
+   "code": "7KCCU",
+   "reward": "250K Speed, 7K Wins and 2x Speed (10 Minutes)"
   }
  ],
- "updated": "2026-10-28T22:25:24.386Z",
+ "updated": "2026-10-30T12:34:21.241Z",
  "source": "https://robloxden.com/game-codes/1-speedster-escape"
 }

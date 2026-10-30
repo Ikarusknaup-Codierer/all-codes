@@ -15,18 +15,18 @@
    "reward": "Rewards"
   },
   {
-   "code": "storm20421",
+   "code": "greenplanet",
+   "reward": "Expired Reward"
+  },
+  {
+   "code": "Iammelonlord",
    "reward": "Boosts"
   },
   {
-   "code": "10years1",
-   "reward": "Level Potion VI (60 minutes)"
-  },
-  {
-   "code": "400kmonthlyusers",
-   "reward": "2x Luck (1 hour) and 400,000 MAUs"
+   "code": "orangetree",
+   "reward": "+90% Luck (122 minutes)"
   }
  ],
- "updated": "2026-10-28T22:23:54.978Z",
+ "updated": "2026-10-30T12:32:48.799Z",
  "source": "https://robloxden.com/game-codes/admin-simulator"
 }

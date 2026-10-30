@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SuperRetroBall",
+   "reward": "250 Retrobux"
+  },
+  {
+   "code": "HappyBirthdayCarmesi2026",
+   "reward": "Giftmesi and La Favorable"
+  },
+  {
    "code": "TheCoolestCode",
    "reward": "the Wumpus Egg"
   },
@@ -35,14 +43,14 @@
    "reward": "the Jumbled UI"
   },
   {
-   "code": "July4th2026",
-   "reward": "250 Retrobux"
+   "code": "Gourdolicious!",
+   "reward": "This code is used to get the ninth gift from Bloxtober 2026"
   },
   {
    "code": "steadiyer",
    "reward": "A Fake Ban Message"
   }
  ],
- "updated": "2026-10-28T12:41:30.021Z",
+ "updated": "2026-10-30T12:31:50.443Z",
  "source": "https://robloxden.com/game-codes/retrostudio"
 }

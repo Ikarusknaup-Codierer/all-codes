@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Shenron",
+   "reward": "1x Super Coin Potion , 1x Super Damage Potion , 1x Super Drop Potion ,"
+  },
+  {
+   "code": "SoManyGems",
+   "reward": "200 Gems"
+  },
+  {
    "code": "Guilds",
    "reward": "1x Super Coin Potion , 1x Super Damage Potion , 1x Super Drop Potion ,"
   },
@@ -51,6 +59,6 @@
    "reward": "100 Gems , a Coin Potion , a Damage Potion , a Drop Potion , an Energy"
   }
  ],
- "updated": "2026-10-28T22:27:26.248Z",
+ "updated": "2026-10-30T12:36:29.162Z",
  "source": "https://robloxden.com/game-codes/anime-levels"
 }

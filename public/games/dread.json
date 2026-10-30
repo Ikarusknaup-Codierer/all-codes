@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "EPICDANCE",
-   "reward": "$650"
-  },
-  {
-   "code": "DREADBREAD",
-   "reward": "$1,000"
-  },
-  {
-   "code": "PRIVATESERVERS",
-   "reward": "$1,500"
-  },
-  {
-   "code": "EGGSPLOSION",
+   "code": "BUFF",
    "reward": "$2,500"
   },
   {
-   "code": "DISCONNECT",
+   "code": "PACKJET",
+   "reward": "$1,000"
+  },
+  {
+   "code": "ANODIZED",
    "reward": "Unknown Reward"
+  },
+  {
+   "code": "ZUPER",
+   "reward": "Unknown Reward"
+  },
+  {
+   "code": "EADGBE",
+   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-10-28T22:27:47.155Z",
+ "updated": "2026-10-30T12:36:49.486Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

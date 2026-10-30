@@ -11,10 +11,6 @@
    "reward": "6x Lucky Spins"
   },
   {
-   "code": "ryu",
-   "reward": "10x Spins"
-  },
-  {
    "code": "terror",
    "reward": "15 Spins"
   },
@@ -39,14 +35,14 @@
    "reward": "Free Emote"
   },
   {
-   "code": "thedoctorwillseeyousoon",
-   "reward": "15 Spins"
+   "code": "ryu",
+   "reward": "10x Spins"
   },
   {
-   "code": "spooky",
-   "reward": "10,000 Cash"
+   "code": "thedoctorwillseeyousoon",
+   "reward": "15 Spins"
   }
  ],
- "updated": "2026-10-28T12:35:19.188Z",
+ "updated": "2026-10-30T12:29:56.794Z",
  "source": "https://robloxden.com/game-codes/untitled-boxing-game"
 }

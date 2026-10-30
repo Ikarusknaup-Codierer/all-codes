@@ -7,10 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "LEGENDS",
+   "reward": "2,500 Gold , 100 Knowledge , 5 Potions , 5 Race Spins , 5 Talent Spins"
+  },
+  {
+   "code": "TORMENT",
+   "reward": "1,000 Gold , 100 Knowledge , 3 Potions , 8 Race Spins , and 8 Talent S"
+  },
+  {
+   "code": "OCTOBER",
+   "reward": "25 Candy"
+  },
+  {
+   "code": "TUTORIAL",
+   "reward": "3 Race Spins and 3 Talent Spins"
+  },
+  {
+   "code": "0y0",
+   "reward": "10 Race Spins , 10 Talent Spins , and 1 Life"
+  },
+  {
+   "code": "SAKURA",
+   "reward": "10 Race Spins , 10 Talent Spins , 1 Life , and 1 Renewal Crystal"
+  },
+  {
+   "code": "COMMUNITY!",
+   "reward": "5 Race Spins , 5 Talent Spins , and 1 Life"
+  },
+  {
    "code": "THANKYOU",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-10-28T12:41:44.273Z",
+ "updated": "2026-10-30T12:32:00.516Z",
  "source": "https://robloxden.com/game-codes/pixel-lineage"
 }

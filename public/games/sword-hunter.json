@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TRICKORTREAT",
+   "reward": "5 Raid Tickets , 100 Pet Tokens , 2 Base Cash +100% Potions , 2 Base L"
+  },
+  {
+   "code": "RESTART123",
+   "reward": "3 Raid Tickets and 2 Base Cash +100% Potions"
+  },
+  {
    "code": "SWORDBOOST",
    "reward": "rewards"
   },
@@ -99,6 +107,6 @@
    "reward": "a Valor Sword"
   }
  ],
- "updated": "2026-10-29T22:44:07.915Z",
+ "updated": "2026-10-31T17:13:07.836Z",
  "source": "https://robloxden.com/game-codes/sword-hunter"
 }

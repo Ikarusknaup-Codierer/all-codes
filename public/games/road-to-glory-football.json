@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATEV13",
+   "reward": "2,000 Coins , 7 Pipeline Rerolls , 7 Height Rerolls , and a Slot"
+  },
+  {
+   "code": "NOTDONE",
+   "reward": "5,000 Coins , 8 Heights Rerolls , and a Slot"
+  },
+  {
    "code": "WERESORRY",
    "reward": "5,000 Coins , 5 Pipeline Rerolls , 5 Height Rerolls , and a Slot"
   },
@@ -15,6 +23,6 @@
    "reward": "1,000 Coins , 5 Pipeline Rerolls , 5 Height Rerolls , and Slot 1"
   }
  ],
- "updated": "2026-10-30T05:09:59.105Z",
+ "updated": "2026-10-31T17:18:09.208Z",
  "source": "https://robloxden.com/game-codes/road-to-glory-football"
 }

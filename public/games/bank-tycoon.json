@@ -11,6 +11,10 @@
    "reward": "Free Cash"
   },
   {
+   "code": "PRINT20",
+   "reward": "2,000 Cash"
+  },
+  {
    "code": "MONEY30",
    "reward": "1,200 Cash"
   },
@@ -19,14 +23,10 @@
    "reward": "1,500 Cash"
   },
   {
-   "code": "PRINT70",
-   "reward": "2,000 Cash"
-  },
-  {
    "code": "BANKING10",
    "reward": "1,700 Cash"
   }
  ],
- "updated": "2026-10-30T05:09:05.400Z",
+ "updated": "2026-10-31T17:17:21.998Z",
  "source": "https://robloxden.com/game-codes/bank-tycoon"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEENSOON",
+   "reward": "5,000 coins and 5,000 Shards"
+  },
+  {
    "code": "GALANTOSTUDIOS",
    "reward": "25K Coins"
   },
@@ -19,14 +23,14 @@
    "reward": "7,000 Coins and 72,000 Shards"
   },
   {
-   "code": "MOONLIGHT",
-   "reward": "6,500 Coins and 7,500 Shards"
+   "code": "PANDA",
+   "reward": "7.500 Shards and 7,500 Coins"
   },
   {
-   "code": "SUMMER",
-   "reward": "10,000 Coins"
+   "code": "BERRY",
+   "reward": "10,000 Coins and 10,000 Shards"
   }
  ],
- "updated": "2026-10-29T22:44:35.649Z",
+ "updated": "2026-10-31T17:13:34.713Z",
  "source": "https://robloxden.com/game-codes/sleep-for-ugc"
 }

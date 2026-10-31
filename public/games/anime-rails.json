@@ -27,10 +27,6 @@
    "reward": "200 Cash"
   },
   {
-   "code": "ATOMICV2",
-   "reward": "500 Cash"
-  },
-  {
    "code": "JANKEN",
    "reward": "400 Cash"
   },
@@ -51,10 +47,14 @@
    "reward": "300 Cash"
   },
   {
+   "code": "ATOMICV2",
+   "reward": "500 Cash"
+  },
+  {
    "code": "SUNGEAR",
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-10-30T05:06:52.233Z",
+ "updated": "2026-10-31T17:15:21.224Z",
  "source": "https://robloxden.com/game-codes/anime-rails"
 }

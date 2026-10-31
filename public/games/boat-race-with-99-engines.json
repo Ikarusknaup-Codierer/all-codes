@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELIC",
+   "reward": "a Double Power Potion"
+  },
+  {
+   "code": "CITY",
+   "reward": "a Double Power Potion"
+  },
+  {
+   "code": "BOAT",
+   "reward": "a Golden Potion"
+  },
+  {
+   "code": "NEW",
+   "reward": "a Double Win Potion"
   }
  ],
- "updated": "2026-10-30T05:11:29.339Z",
+ "updated": "2026-10-31T21:15:46.994Z",
  "source": "https://robloxden.com/game-codes/boat-race-with-99-engines"
 }

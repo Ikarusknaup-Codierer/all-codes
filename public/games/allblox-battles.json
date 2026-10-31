@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "GMZAQVRRAP",
-   "reward": "10 Windmills"
-  },
-  {
    "code": "R4AIHX5U5",
    "reward": "Freebies"
   },
@@ -25,8 +21,12 @@
   {
    "code": "OE0EGXI2",
    "reward": "100 Coins"
+  },
+  {
+   "code": "GMZAQVRRAP",
+   "reward": "10 Windmills"
   }
  ],
- "updated": "2026-10-30T05:13:09.012Z",
+ "updated": "2026-10-31T21:17:17.844Z",
  "source": "https://robloxden.com/game-codes/allblox-battles"
 }

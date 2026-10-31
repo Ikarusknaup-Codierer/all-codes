@@ -55,10 +55,6 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "monochrone",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "bee",
    "reward": "1 Fruit Chest"
   },
@@ -245,8 +241,12 @@
   {
    "code": "anniversary",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "monochrone",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-10-30T05:12:38.898Z",
+ "updated": "2026-10-31T21:16:48.743Z",
  "source": "https://robloxden.com/game-codes/rebirth-champions-ultimate"
 }

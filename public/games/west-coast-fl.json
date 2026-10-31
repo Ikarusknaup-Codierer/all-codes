@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ImprovementsSoon",
+   "reward": "100,000 Cash"
+  },
+  {
    "code": "hello",
    "reward": "50,000 Cash"
   },
@@ -19,14 +23,14 @@
    "reward": "100,000 Cash"
   },
   {
-   "code": "BoatHorns",
-   "reward": "125K Cash"
+   "code": "event1",
+   "reward": "700k Cash"
   },
   {
    "code": "eventfail",
    "reward": "500,000 Cash"
   }
  ],
- "updated": "2026-10-30T05:14:04.773Z",
+ "updated": "2026-10-31T21:18:14.558Z",
  "source": "https://robloxden.com/game-codes/west-coast-fl"
 }

@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "50,000 Drop Tokens , 2x Cash Boost (15 Minutes) , 2x Drop Token Boost "
+  },
+  {
+   "code": "TYSMFOR50CCU",
+   "reward": "10,000 Drop Tokens , 2x Cash Boost (5 Minutes) , 2x Drop Token Boost ("
+  },
+  {
+   "code": "Plinko",
+   "reward": "5,000 Drop Tokens"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "20,000 Money , a Spin , 3 Stock Refreshes , x2 Money Boost (10 Minutes"
   }
  ],
- "updated": "2026-10-30T05:11:29.887Z",
+ "updated": "2026-10-31T21:15:47.560Z",
  "source": "https://robloxden.com/game-codes/press-key-to-drop"
 }

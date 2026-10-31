@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "NEWPOWERUPS",
-   "reward": "5 Collection Slots and 60 Minutes of Genre Lock"
-  },
-  {
    "code": "LIKED",
    "reward": "2,000 Coins and an Artist Pack . You must like and add the game to you"
+  },
+  {
+   "code": "NEWPOWERUPS",
+   "reward": "5 Collection Slots and 60 Minutes of Genre Lock"
   },
   {
    "code": "EVENTWEEKEND",
@@ -27,6 +27,6 @@
    "reward": "5,151 Coins and 4 Artist Packs"
   }
  ],
- "updated": "2026-10-29T22:38:50.602Z",
+ "updated": "2026-10-31T12:04:12.501Z",
  "source": "https://robloxden.com/game-codes/song-rng"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "NOETIC",
+   "reward": "the Noetic Item"
+  },
+  {
+   "code": "HALEYBEARSUIT",
+   "reward": "the Bear Suit"
+  },
+  {
+   "code": "SEEKME",
+   "reward": "the SeekMe Item"
+  },
+  {
    "code": "2500RBLX",
    "reward": "Fairy Wings"
   },
@@ -103,6 +115,6 @@
    "reward": "a Cat Hat"
   }
  ],
- "updated": "2026-10-29T22:40:54.374Z",
+ "updated": "2026-10-31T12:06:28.843Z",
  "source": "https://robloxden.com/game-codes/fashion-disaster"
 }

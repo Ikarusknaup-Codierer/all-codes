@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "JUSTASIEXPECTED",
-   "reward": "Double Money (30 Minutes) and Double Mastery (30 Minutes)"
-  },
-  {
    "code": "ARTISANEXPLOSION",
    "reward": "200 Cash"
   },
@@ -27,6 +23,10 @@
    "reward": "500 Yen , 1 Hour Double Money , and 1 Hour Double Mastery"
   },
   {
+   "code": "JUSTASIEXPECTED",
+   "reward": "Double Money (30 Minutes) and Double Mastery (30 Minutes)"
+  },
+  {
    "code": "KIDDING!",
    "reward": "500 Yen"
   },
@@ -35,6 +35,6 @@
    "reward": "300 Cash"
   }
  ],
- "updated": "2026-10-29T22:38:19.267Z",
+ "updated": "2026-10-31T12:03:39.456Z",
  "source": "https://robloxden.com/game-codes/naruto-clash-of-ninja"
 }

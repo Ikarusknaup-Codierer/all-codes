@@ -7,15 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "COMBINE",
-   "reward": "500 Money"
-  },
-  {
    "code": "SEASON5",
    "reward": "1K Money"
   },
   {
    "code": "ATOMICTOWN",
+   "reward": "500 Money"
+  },
+  {
+   "code": "COMBINE",
    "reward": "500 Money"
   },
   {
@@ -143,6 +143,6 @@
    "reward": "$500"
   }
  ],
- "updated": "2026-10-29T12:45:04.015Z",
+ "updated": "2026-10-31T12:00:58.386Z",
  "source": "https://robloxden.com/game-codes/hood-wars"
 }

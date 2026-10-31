@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "EVENT",
+   "reward": "10 Cash"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "150 candies"
+  },
+  {
    "code": "DEADLY",
    "reward": "10 Cash"
   },
   {
-   "code": "NEWFERAL",
-   "reward": "1 Revive"
-  },
-  {
    "code": "HOST",
    "reward": "1 Revive"
-  },
-  {
-   "code": "SRYFORANOTHERDELAY",
-   "reward": "20 Cash"
   }
  ],
- "updated": "2026-10-29T12:44:37.061Z",
+ "updated": "2026-10-31T12:00:31.830Z",
  "source": "https://robloxden.com/game-codes/nightfall"
 }

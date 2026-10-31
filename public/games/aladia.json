@@ -15,6 +15,46 @@
    "reward": "25 Diamonds"
   },
   {
+   "code": "PlasmaDenim",
+   "reward": "the Plasma Denim SP Skin"
+  },
+  {
+   "code": "CobaltCream",
+   "reward": "the CobaltCream SP Skin"
+  },
+  {
+   "code": "SteelSoda",
+   "reward": "the SteelSoda SP Skin"
+  },
+  {
+   "code": "SileVoid",
+   "reward": "the SileVoid SP Skin"
+  },
+  {
+   "code": "PastelHeart",
+   "reward": "the PastelHeart Combat_P Skin"
+  },
+  {
+   "code": "IndigoComet",
+   "reward": "the IndigoComet Pistol Skin"
+  },
+  {
+   "code": "OrchidSteel",
+   "reward": "the OrchidSteel Combat_P Skin"
+  },
+  {
+   "code": "MintShift",
+   "reward": "the MindShift SP Skin"
+  },
+  {
+   "code": "PALDO",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "DISS",
+   "reward": "50 Diamonds"
+  },
+  {
    "code": "npass",
    "reward": "Rewards"
   },
@@ -24,6 +64,10 @@
   },
   {
    "code": "cherrygale",
+   "reward": "Rewards . You need to reach level 3 to use this code"
+  },
+  {
+   "code": "QPASS",
    "reward": "Rewards . You need to reach level 3 to use this code"
   },
   {
@@ -279,6 +323,6 @@
    "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-10-29T12:42:47.678Z",
+ "updated": "2026-10-31T11:58:02.766Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

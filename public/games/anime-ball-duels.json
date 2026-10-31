@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "CHATSHUTDOWN",
+   "reward": "500 Candy Corn and 3 Boss Tickets"
+  },
+  {
+   "code": "HALLOWEEN2026",
+   "reward": "250 Candy Corns , 5 Trait Crystals , 150 Gems , and 1,500 Coins"
+  },
+  {
+   "code": "KOKUSHIBONPCISHERE",
+   "reward": "150 Candy Corns , 5 Trait Crystals , 150 Gems , and 1,500 Coins"
+  },
+  {
+   "code": "WEWANTCANDYCORN",
+   "reward": "150 Candy Corns , 5 Trait Crystals , 150 Gems , and 1,500 Coins"
   }
  ],
- "updated": "2026-10-29T12:44:12.359Z",
+ "updated": "2026-10-31T12:00:04.908Z",
  "source": "https://robloxden.com/game-codes/anime-ball-duels"
 }

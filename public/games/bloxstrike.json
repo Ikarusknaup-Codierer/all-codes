@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ZOMBIES",
-   "reward": "250 Credits"
-  },
-  {
    "code": "MICHAELSRETURN",
    "reward": "125 Credits"
   },
@@ -25,8 +21,12 @@
   {
    "code": "GAMEBROKE318",
    "reward": "Credits"
+  },
+  {
+   "code": "OHNEPIXEL",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-10-29T12:39:17.508Z",
+ "updated": "2026-10-31T04:58:33.571Z",
  "source": "https://robloxden.com/game-codes/bloxstrike"
 }

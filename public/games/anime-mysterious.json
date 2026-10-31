@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "THANKFOR12KCCU",
-   "reward": "10 Characteristics and 50 Release Capsules"
-  },
-  {
-   "code": "THANKFOR13KCCU",
-   "reward": "10 Characteristics and 50 Release Capsules"
-  },
-  {
    "code": "UPDATE05",
    "reward": "20x Characteristic , 50x Release Capsule , 1,000 Coins , and 1,000 Jew"
   },
@@ -59,6 +51,14 @@
    "reward": "15 Traits , 10 Release Capsules , 2,000 Coins , and 1,000 Gems"
   },
   {
+   "code": "THANKFOR12KCCU",
+   "reward": "10 Characteristics and 50 Release Capsules"
+  },
+  {
+   "code": "THANKFOR13KCCU",
+   "reward": "10 Characteristics and 50 Release Capsules"
+  },
+  {
    "code": "THANKSFOR3MVISIT",
    "reward": "1,000 Coins , 15x Trait , and 25x Release Capsule"
   },
@@ -79,6 +79,6 @@
    "reward": "5 Traits and 1,000 Gems"
   }
  ],
- "updated": "2026-10-29T12:42:04.947Z",
+ "updated": "2026-10-31T05:01:20.426Z",
  "source": "https://robloxden.com/game-codes/anime-mysterious"
 }

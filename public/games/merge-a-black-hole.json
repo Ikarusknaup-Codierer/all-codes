@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEENSOON",
+   "reward": "7x Spin Tickets , 2x Pet Crates , and 2x cash for 5 minutes"
+  },
+  {
+   "code": "WMEL",
+   "reward": "5x Stars , 5x Holes , and 2x Hole Spawns for 5 minutes"
+  },
+  {
    "code": "UPDATE12",
    "reward": "Double Cash for (20 Minutes)"
   },
@@ -91,6 +99,6 @@
    "reward": "3 Spin Tickets"
   }
  ],
- "updated": "2026-10-29T12:38:55.885Z",
+ "updated": "2026-10-31T04:58:12.523Z",
  "source": "https://robloxden.com/game-codes/merge-a-black-hole"
 }

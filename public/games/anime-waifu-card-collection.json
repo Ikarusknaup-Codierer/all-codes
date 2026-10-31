@@ -11,6 +11,10 @@
    "reward": "1 Citron Token , 300 Grade Tokens , and 5 Clan Tokens"
   },
   {
+   "code": "BOSS",
+   "reward": "1 Relic and 1 Chibi Chest"
+  },
+  {
    "code": "CITRON",
    "reward": "1 Chibi Chest"
   },
@@ -147,6 +151,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-10-29T12:39:41.553Z",
+ "updated": "2026-10-31T04:58:56.010Z",
  "source": "https://robloxden.com/game-codes/anime-waifu-card-collection"
 }

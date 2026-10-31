@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "HALLOWEENSOON",
+   "reward": "1,000 Gems and 15 Trait Crystals"
+  },
+  {
+   "code": "THANKSFOR100CCU",
+   "reward": "500 Gems and 20 Trait Crystals"
+  },
+  {
+   "code": "THANKSFOR200LIKES",
+   "reward": "1,500 Gems and 10 Trait Crystals"
+  },
+  {
+   "code": "ALGEBRAIC",
+   "reward": "3 Trait Crystals"
+  },
+  {
+   "code": "MATHEMATICAL",
+   "reward": "100 Gems and 3 XP Candies"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,500 Gems , 15 Trait Crystals , and 5 Units of Juice"
   }
  ],
- "updated": "2026-10-29T05:14:34.612Z",
+ "updated": "2026-10-31T04:55:30.720Z",
  "source": "https://robloxden.com/game-codes/candy-kingdom-defense"
 }

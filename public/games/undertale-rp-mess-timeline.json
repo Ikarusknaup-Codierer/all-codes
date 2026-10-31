@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "monster",
-   "reward": "1,000 Souls"
-  },
-  {
    "code": "goldgoldgold",
    "reward": "500 Gold"
   },
@@ -23,10 +19,10 @@
    "reward": "1,000 Gold"
   },
   {
-   "code": "billsans",
-   "reward": "500 Gold"
+   "code": "monster",
+   "reward": "1,000 Souls"
   }
  ],
- "updated": "2026-10-29T05:14:18.905Z",
+ "updated": "2026-10-31T04:55:18.442Z",
  "source": "https://robloxden.com/game-codes/undertale-rp-mess-timeline"
 }

@@ -7,15 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "AyezanVsIchin",
-   "reward": "2,250 Gems , 2,500 Yen , 1,900 Power Points , and 1 Mythical Star Caps"
+   "code": "30klikes",
+   "reward": ""
   },
   {
-   "code": "privatematches",
-   "reward": "1,500 Gems"
-  },
-  {
-   "code": "guilds",
+   "code": "Gamemodes",
    "reward": "2,000 Gems"
   },
   {
@@ -23,10 +19,14 @@
    "reward": "2,500 Gems"
   },
   {
-   "code": "Release",
-   "reward": "2,500 Gems"
+   "code": "Arise",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "130klikes",
+   "reward": "2,000 Gems"
   }
  ],
- "updated": "2026-10-29T12:41:17.531Z",
+ "updated": "2026-10-31T05:00:32.764Z",
  "source": "https://robloxden.com/game-codes/jump-stars"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TRADE",
+   "reward": "the Limited Trade Stall Skin"
+  },
+  {
    "code": "MERGER",
    "reward": "50,000 Cash"
   },
@@ -19,6 +23,6 @@
    "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-10-31T04:56:15.449Z",
+ "updated": "2026-11-01T13:04:05.854Z",
  "source": "https://robloxden.com/game-codes/create-a-car"
 }

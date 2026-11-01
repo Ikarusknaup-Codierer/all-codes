@@ -11,6 +11,10 @@
    "reward": "5 Gold Bars"
   },
   {
+   "code": "300LIKES",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "Release",
    "reward": "Free Rewards"
   },
@@ -21,12 +25,8 @@
   {
    "code": "5000LIKES",
    "reward": "5 Gold"
-  },
-  {
-   "code": "1000LIKES",
-   "reward": "5 Gold"
   }
  ],
- "updated": "2026-10-31T04:56:13.815Z",
+ "updated": "2026-11-01T13:04:04.185Z",
  "source": "https://robloxden.com/game-codes/forest-bound"
 }

@@ -7,22 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PATCH03",
-   "reward": "1,111 Ghoulars"
-  },
-  {
-   "code": "PATCH09",
-   "reward": "3,333 Ghoulars"
-  },
-  {
-   "code": "PATCH10",
-   "reward": "1,000"
-  },
-  {
-   "code": "JUNETEENTHPT2",
-   "reward": "250 Gems"
-  },
-  {
    "code": "MINIUPDATE",
    "reward": "4,444 Ghoulars"
   },
@@ -49,10 +33,6 @@
   {
    "code": "PATCH05",
    "reward": "30,000 Ghoulars"
-  },
-  {
-   "code": "Daisy20Ghoulars",
-   "reward": "the Denim Miniskirt and 20 Ghoulars"
   },
   {
    "code": "HAPPYHOLIDAYS2025",
@@ -129,8 +109,28 @@
   {
    "code": "SOULAAN",
    "reward": "22,000 Ghoulars"
+  },
+  {
+   "code": "PATCH03",
+   "reward": "1,111 Ghoulars"
+  },
+  {
+   "code": "PATCH09",
+   "reward": "3,333 Ghoulars"
+  },
+  {
+   "code": "PATCH10",
+   "reward": "1,000"
+  },
+  {
+   "code": "JUNETEENTHPT2",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "Daisy20Ghoulars",
+   "reward": "the Denim Miniskirt and 20 Ghoulars"
   }
  ],
- "updated": "2026-10-31T04:54:49.010Z",
+ "updated": "2026-11-01T13:02:40.360Z",
  "source": "https://robloxden.com/game-codes/monsterverze"
 }

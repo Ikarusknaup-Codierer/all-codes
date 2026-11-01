@@ -23,10 +23,14 @@
    "reward": "a Tuff Title"
   },
   {
-   "code": "SPACEBOUND",
-   "reward": "the Space-themed Aura"
+   "code": "MAPSMASH",
+   "reward": "the Bonus Cosmetic Reward"
+  },
+  {
+   "code": "HEROCLIP",
+   "reward": "the Free Emote Effect"
   }
  ],
- "updated": "2026-10-31T04:53:01.715Z",
+ "updated": "2026-11-01T13:01:18.109Z",
  "source": "https://robloxden.com/game-codes/invincible-edit-test"
 }

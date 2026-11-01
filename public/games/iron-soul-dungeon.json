@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "IRONSOULWEEKEND28",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "BOWANDSKILLTREE",
+   "reward": "300 Origin Shards and 3 Luxury Relic (Bow)"
+  },
+  {
+   "code": "IRONNEWUPDATE",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "LALAGANG",
+   "reward": "1,500 Cash and a Seasonal Lucky Ticket"
+  },
+  {
+   "code": "Ahjughh",
+   "reward": "1 Season Lucky Ticket and 1 Starwish Card"
+  },
+  {
+   "code": "SEASON2OPEN",
+   "reward": "3 Season Lucky Tickets"
+  },
+  {
+   "code": "IRONSOULWEEKEND13",
+   "reward": "3 Race Rerolls"
+  },
+  {
    "code": "TRADEISLANDUPDATE",
    "reward": "200 Origin Shards"
   },
@@ -16,6 +44,26 @@
   },
   {
    "code": "RAGNAROK",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "IRONTRADETYCOON",
+   "reward": "200 Origin Shards"
+  },
+  {
+   "code": "IRONWEEKENDGIFT26",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "BOSSODINARRIVED",
+   "reward": "5 Season Lucky Tickets"
+  },
+  {
+   "code": "SEASON4COMING",
+   "reward": "200 Origin Shards and 3 Season Lucky Tickets"
+  },
+  {
+   "code": "IRONSOULBIGUPDATE",
    "reward": "3 Race Rerolls"
   },
   {
@@ -29,10 +77,6 @@
   {
    "code": "IRONSMALLUPDATE",
    "reward": "2 Season Lucky Tickets"
-  },
-  {
-   "code": "IRONNEWUPDATE",
-   "reward": "3 Race Rerolls"
   },
   {
    "code": "IRONSOULWEEKEND24",
@@ -63,46 +107,6 @@
    "reward": "10 Race Rerolls"
   },
   {
-   "code": "LALAGANG",
-   "reward": "1,500 Cash and a Seasonal Lucky Ticket"
-  },
-  {
-   "code": "Ahjughh",
-   "reward": "1 Season Lucky Ticket and 1 Starwish Card"
-  },
-  {
-   "code": "SEASONVOUCHER",
-   "reward": "6,000 Season Vouchers"
-  },
-  {
-   "code": "SEASON2OPEN",
-   "reward": "3 Season Lucky Tickets"
-  },
-  {
-   "code": "IRONSOULWEEKEND13",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "IRONTRADETYCOON",
-   "reward": "200 Origin Shards"
-  },
-  {
-   "code": "IRONWEEKENDGIFT26",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "BOSSODINARRIVED",
-   "reward": "5 Season Lucky Tickets"
-  },
-  {
-   "code": "SEASON4COMING",
-   "reward": "200 Origin Shards and 3 Season Lucky Tickets"
-  },
-  {
-   "code": "IRONSOULBIGUPDATE",
-   "reward": "3 Race Rerolls"
-  },
-  {
    "code": "ROYALCIRCUS",
    "reward": "3 Starwish Cards"
   },
@@ -113,6 +117,10 @@
   {
    "code": "ODYSSEY",
    "reward": "3 Starwish Cards"
+  },
+  {
+   "code": "SEASONVOUCHER",
+   "reward": "6,000 Season Vouchers"
   },
   {
    "code": "IRONSOULWEEKEND20",
@@ -183,6 +191,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-10-31T04:57:55.478Z",
+ "updated": "2026-11-01T13:05:43.018Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

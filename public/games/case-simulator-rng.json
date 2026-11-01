@@ -19,14 +19,14 @@
    "reward": "15 Rerolls"
   },
   {
-   "code": "NewCase",
-   "reward": "rewards"
+   "code": "AdminAbuse",
+   "reward": "15 Trait Rerolls and 25% Luck for (20 Minutes)"
   },
   {
-   "code": "NewEvents",
-   "reward": "15 Trait Rerolls"
+   "code": "QUESTS",
+   "reward": "25 Rerolls"
   }
  ],
- "updated": "2026-10-31T04:54:22.102Z",
+ "updated": "2026-11-01T13:02:13.772Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

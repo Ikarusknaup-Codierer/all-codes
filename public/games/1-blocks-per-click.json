@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE3",
-   "reward": "2 Blocks Potions"
-  },
-  {
    "code": "UPDATE2",
    "reward": "1 Wins Potion"
   },
@@ -25,8 +21,12 @@
   {
    "code": "RELEASE",
    "reward": "1,000 Blocks"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "2 Blocks Potions"
   }
  ],
- "updated": "2026-10-31T04:53:38.293Z",
+ "updated": "2026-11-01T13:01:54.231Z",
  "source": "https://robloxden.com/game-codes/1-blocks-per-click"
 }

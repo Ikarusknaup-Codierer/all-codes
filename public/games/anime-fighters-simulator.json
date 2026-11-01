@@ -63,10 +63,6 @@
    "reward": "20 Mega Boosts (all types) , 100 Heavenly Fruits , 100 Cursed Orbs , 2"
   },
   {
-   "code": "BUGHUNTERS",
-   "reward": "50 Wand Shards , 3 Damage Boosts , and 3 Luck Boosts"
-  },
-  {
    "code": "GROUNDED",
    "reward": "75 Passive Tokens and 25 Heavenly Fruits"
   },
@@ -351,10 +347,14 @@
    "reward": "50 Cursed Orbs , 25 Heavenly Fruits , and 5 Passive Transfer Tokens"
   },
   {
+   "code": "BUGHUNTERS",
+   "reward": "50 Wand Shards , 3 Damage Boosts , and 3 Luck Boosts"
+  },
+  {
    "code": "SorryForEarlyShutDown",
    "reward": "5 Mega Drop Boost , 5 Mega Time Boost , and 5 Mega Passive Lucky Boost"
   }
  ],
- "updated": "2026-10-30T12:37:03.495Z",
+ "updated": "2026-11-01T05:22:01.555Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

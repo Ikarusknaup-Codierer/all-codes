@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Ramen",
+   "reward": "1x Super Coin Potion , 1x Super Damage Potion , 1x Super Drop Potion ,"
+  },
+  {
+   "code": "MediumDungeon",
+   "reward": "200 Gems"
+  },
+  {
    "code": "Shenron",
    "reward": "1x Super Coin Potion , 1x Super Damage Potion , 1x Super Drop Potion ,"
   },
@@ -59,6 +67,6 @@
    "reward": "100 Gems , a Coin Potion , a Damage Potion , a Drop Potion , an Energy"
   }
  ],
- "updated": "2026-10-30T12:36:29.162Z",
+ "updated": "2026-11-01T05:21:31.933Z",
  "source": "https://robloxden.com/game-codes/anime-levels"
 }

@@ -23,10 +23,6 @@
    "reward": "Green Whoosh Hair"
   },
   {
-   "code": "like_super_golf",
-   "reward": "Skin Chest . In order to redeem this code, you must be at least level "
-  },
-  {
    "code": "BITWISE",
    "reward": "Walker"
   },
@@ -75,10 +71,14 @@
    "reward": "Skin Chest . This code requires you to be at least level 25"
   },
   {
+   "code": "like_super_golf",
+   "reward": "Skin Chest . In order to redeem this code, you must be at least level "
+  },
+  {
    "code": "WINTER2023",
    "reward": "Chest Chest . In order to redeem this code, you must be at least level"
   }
  ],
- "updated": "2026-10-30T12:36:15.430Z",
+ "updated": "2026-11-01T05:21:18.936Z",
  "source": "https://robloxden.com/game-codes/super-golf"
 }

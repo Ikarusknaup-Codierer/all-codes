@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PIRATE",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "DISCORD",
    "reward": "500 Cash"
   },
@@ -15,6 +19,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-10-30T22:09:29.281Z",
+ "updated": "2026-11-01T05:26:30.717Z",
  "source": "https://robloxden.com/game-codes/cowboy-duels"
 }

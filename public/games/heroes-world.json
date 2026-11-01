@@ -11,10 +11,6 @@
    "reward": "50,000 Money and a Legendary Spin"
   },
   {
-   "code": "MimicItems",
-   "reward": "1 Epic Spin and 1 Wheel Spin"
-  },
-  {
    "code": "SantaFillesh",
    "reward": "1 Rare Spin and 50,000 Money"
   },
@@ -49,8 +45,12 @@
   {
    "code": "MimicBossfight",
    "reward": "1 Legendary Spin and 50,000 Money"
+  },
+  {
+   "code": "MimicItems",
+   "reward": "1 Epic Spin and 1 Wheel Spin"
   }
  ],
- "updated": "2026-10-30T22:07:59.910Z",
+ "updated": "2026-11-01T05:24:49.166Z",
  "source": "https://robloxden.com/game-codes/heroes-world"
 }

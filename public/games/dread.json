@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BUFF",
-   "reward": "$2,500"
-  },
-  {
-   "code": "PACKJET",
+   "code": "DREAD2020",
    "reward": "$1,000"
   },
   {
-   "code": "ANODIZED",
-   "reward": "Unknown Reward"
+   "code": "EASTER22",
+   "reward": "$2,500"
   },
   {
-   "code": "ZUPER",
-   "reward": "Unknown Reward"
+   "code": "NEWYEARS",
+   "reward": "$2,500"
   },
   {
-   "code": "EADGBE",
-   "reward": "1,500 Cash"
+   "code": "AA13",
+   "reward": "$1,000"
+  },
+  {
+   "code": "DISCONNECT",
+   "reward": "Unknown Reward"
   }
  ],
- "updated": "2026-10-30T12:36:49.486Z",
+ "updated": "2026-11-01T05:21:48.970Z",
  "source": "https://robloxden.com/game-codes/dread"
 }

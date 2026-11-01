@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE1",
+   "code": "PVP",
    "reward": "A Reward"
+  },
+  {
+   "code": "BOOSTS",
+   "reward": "A Reward"
+  },
+  {
+   "code": "HATBAF",
+   "reward": "Boost And Small Shard Shuffle"
   },
   {
    "code": "HELMET",
@@ -17,16 +25,8 @@
   {
    "code": "FEEDBACK",
    "reward": "100 Coins and Damage Boost (5 minutes)"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "100 Coins and Money Boost (5 minutes)"
-  },
-  {
-   "code": "UPDATE2",
-   "reward": "Money Boost (5 minutes)"
   }
  ],
- "updated": "2026-10-30T22:08:59.743Z",
+ "updated": "2026-11-01T05:25:56.804Z",
  "source": "https://robloxden.com/game-codes/ai-tycoon"
 }

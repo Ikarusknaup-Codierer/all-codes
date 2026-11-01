@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "2x Race Roll"
+  },
+  {
    "code": "PET",
    "reward": "2 Race Rolls and 1 Watermelon"
   },
@@ -23,6 +27,6 @@
    "reward": "2,000 Coins and 1 Power Potion"
   }
  ],
- "updated": "2026-10-31T05:00:13.277Z",
+ "updated": "2026-11-01T21:55:01.205Z",
  "source": "https://robloxden.com/game-codes/1-loot-to-forge"
 }

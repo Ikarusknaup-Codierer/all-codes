@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HalloweenSoon",
+   "reward": "3 ALL Potions and 50 Tickets"
+  },
+  {
    "code": "Update10",
    "reward": "10 For All Potions"
   },
@@ -139,6 +143,6 @@
    "reward": "+1 All Potions"
   }
  ],
- "updated": "2026-10-31T11:58:39.593Z",
+ "updated": "2026-11-01T21:57:45.040Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

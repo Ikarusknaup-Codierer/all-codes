@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "10 Characteristics , 20 Bingo Coins , 1,000 Coins and 1,000 Jewels"
+  },
+  {
+   "code": "IAMATOMIC",
+   "reward": "10 Characteristics , 20 Bingo Coins , 1,000 Coins and 1,000 Jewels"
+  },
+  {
+   "code": "UPDATE075",
+   "reward": "20 Characteristics , 50 Release Capsules , 1,000 Coins and 1,000 Jewel"
+  },
+  {
+   "code": "HALLOWEENEVENT",
+   "reward": "20 Characteristics , 50 Release Capsules , 1,000 Coins and 1,000 Jewel"
+  },
+  {
    "code": "UPDATE05",
    "reward": "20x Characteristic , 50x Release Capsule , 1,000 Coins , and 1,000 Jew"
   },
@@ -79,6 +95,6 @@
    "reward": "5 Traits and 1,000 Gems"
   }
  ],
- "updated": "2026-10-31T05:01:20.426Z",
+ "updated": "2026-11-01T21:56:02.011Z",
  "source": "https://robloxden.com/game-codes/anime-mysterious"
 }

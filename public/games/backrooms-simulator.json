@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BUGTINYNOTDROP",
+   "reward": "20 Trait Rerolls"
+  },
+  {
    "code": "BUGNOTDROP",
    "reward": "20 Trait Rerolls"
   },
@@ -47,6 +51,6 @@
    "reward": "2,000 Coins"
   }
  ],
- "updated": "2026-10-31T12:00:35.952Z",
+ "updated": "2026-11-01T21:59:11.794Z",
  "source": "https://robloxden.com/game-codes/backrooms-simulator"
 }

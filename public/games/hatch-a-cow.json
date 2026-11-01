@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "MONSTOBER",
+   "reward": "1 Cursed Egg and the Monster 2026 Title"
+  },
+  {
+   "code": "FANCY",
+   "reward": "1 Cursed Egg"
+  },
+  {
+   "code": "CURSED",
+   "reward": "1 Cursed Artifact"
+  },
+  {
+   "code": "VOODOOMAN",
+   "reward": "10 Spirit Bottles"
+  },
+  {
    "code": "ROBOT",
    "reward": "2.5K Gems"
   },
@@ -47,6 +63,6 @@
    "reward": "10 Spins"
   }
  ],
- "updated": "2026-10-31T12:02:53.092Z",
+ "updated": "2026-11-01T22:01:40.876Z",
  "source": "https://robloxden.com/game-codes/hatch-a-cow"
 }

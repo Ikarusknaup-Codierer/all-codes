@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EP76",
+   "reward": "200 Coins"
+  },
+  {
    "code": "EP75",
    "reward": "200 Coins"
   },
@@ -32,6 +36,10 @@
   },
   {
    "code": "NewTitansUpdate",
+   "reward": "200 Coins"
+  },
+  {
+   "code": "Ep77Update",
    "reward": "200 Coins"
   },
   {
@@ -87,6 +95,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-10-31T04:59:33.218Z",
+ "updated": "2026-11-01T21:54:17.763Z",
  "source": "https://robloxden.com/game-codes/oldest-t-tower-defense"
 }

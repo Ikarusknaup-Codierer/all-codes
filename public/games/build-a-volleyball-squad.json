@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "CandyRain",
+   "reward": "7 Rerolls , 7 Refreshes , and 1 Lucky Spin"
+  },
+  {
+   "code": "Spooky",
+   "reward": "6 Rerolls , 6 Refreshes , and 1 Lucky Spin"
+  },
+  {
+   "code": "TrickOrTreat",
+   "reward": "7 Rerolls , 7 Refreshes , and 1 Lucky Spin"
+  },
+  {
    "code": "Karasuno",
    "reward": "15x Rerolls and 10x Refreshes"
   },
@@ -15,6 +27,6 @@
    "reward": "10x Rerolls and 3x Lucky Spins"
   }
  ],
- "updated": "2026-10-31T04:58:28.646Z",
+ "updated": "2026-11-01T21:53:23.134Z",
  "source": "https://robloxden.com/game-codes/build-a-volleyball-squad"
 }

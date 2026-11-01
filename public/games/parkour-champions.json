@@ -11,6 +11,10 @@
    "reward": "3 Super Champ Spins, 3 Super Enchant Spins, And 25,000 Coins"
   },
   {
+   "code": "SEEUSOON",
+   "reward": "Reward"
+  },
+  {
    "code": "THANKU",
    "reward": "Reward"
   },
@@ -19,10 +23,10 @@
    "reward": "5 Champ Spins"
   },
   {
-   "code": "Test2",
-   "reward": "10 Champ Spins and 15 Enchant Spins"
+   "code": "RELEASE",
+   "reward": "2 Super Champ Spins and 2 Super Spirit Spins"
   }
  ],
- "updated": "2026-10-31T04:59:06.548Z",
+ "updated": "2026-11-01T21:53:52.362Z",
  "source": "https://robloxden.com/game-codes/parkour-champions"
 }

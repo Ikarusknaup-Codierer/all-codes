@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE2",
+   "reward": "5,000 Arcanite and 50 Clan Rolls"
+  },
+  {
    "code": "UPDATE1",
    "reward": "5,000 Arcanite and 100 Clan Rerolls"
   },
@@ -35,6 +39,6 @@
    "reward": "1,000 Arcanite and 10 Clan Rerolls"
   }
  ],
- "updated": "2026-10-31T17:18:08.185Z",
+ "updated": "2026-11-02T15:16:58.750Z",
  "source": "https://robloxden.com/game-codes/cloverfall"
 }

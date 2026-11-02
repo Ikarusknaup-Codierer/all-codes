@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "upd9luck",
+   "reward": "an X2 Luck Boost (1 Hour)"
+  },
+  {
+   "code": "upd9gold",
+   "reward": "an X2 Gold Boost (3 Hours)"
+  },
+  {
+   "code": "Steel",
+   "reward": "100 Trait Shards"
+  },
+  {
+   "code": "Ball",
+   "reward": "100 Trait Shards"
+  },
+  {
+   "code": "Run",
+   "reward": "100 Trait Shards"
+  },
+  {
+   "code": "Mozzarella",
+   "reward": "50 Star Shards"
+  },
+  {
    "code": "upd8luck",
    "reward": "an X2 Luck Boost (1 Hour)"
   },
@@ -119,6 +143,6 @@
    "reward": "50 Trait Shards"
   }
  ],
- "updated": "2026-10-31T21:16:38.479Z",
+ "updated": "2026-11-02T15:19:14.758Z",
  "source": "https://robloxden.com/game-codes/defeat-anime-rng"
 }

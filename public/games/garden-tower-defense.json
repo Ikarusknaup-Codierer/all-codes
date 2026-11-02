@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PUSHPETAL",
+   "reward": "50 Fertilizer"
+  },
+  {
+   "code": "INVERSIA",
+   "reward": "750 Seeds"
+  },
+  {
    "code": "TRAITS",
    "reward": "25 Fertilizer"
   },
@@ -119,6 +127,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-10-31T17:15:46.071Z",
+ "updated": "2026-11-02T15:15:10.189Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

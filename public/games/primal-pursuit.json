@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NIGHTMARE",
+   "reward": "500 Pumpkins"
+  },
+  {
    "code": "LEVELUP",
    "reward": "XP"
   },
@@ -55,6 +59,6 @@
    "reward": "500 Bones"
   }
  ],
- "updated": "2026-10-31T21:18:34.086Z",
+ "updated": "2026-11-02T15:20:33.610Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

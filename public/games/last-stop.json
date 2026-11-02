@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PUMPKIN",
+   "reward": "500 Tickets"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "300 Tickets"
   },
@@ -47,6 +51,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-10-31T21:20:16.884Z",
+ "updated": "2026-11-02T15:22:02.717Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

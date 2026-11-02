@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "JACKOLANTERN",
+   "reward": "31x Void Charms , 31x Shiny Charms , and 31x Rainbow Charms"
+  },
+  {
    "code": "HALLOWEEN26",
    "reward": "31x Void Charms"
   },
@@ -431,10 +435,10 @@
    "reward": "600"
   },
   {
-   "code": "VALENTINE",
-   "reward": "300 Hearts"
+   "code": "CHARMS",
+   "reward": "Charms"
   }
  ],
- "updated": "2026-10-31T21:15:37.890Z",
+ "updated": "2026-11-02T15:18:21.376Z",
  "source": "https://robloxden.com/game-codes/saber-simulator"
 }

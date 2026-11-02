@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SON",
+   "reward": "67 Cash"
+  },
+  {
+   "code": "Riku",
+   "reward": "1x Ticket , 1 Cash , 1x Crystal , and 1x Trait Reroll"
+  },
+  {
+   "code": "25KActives",
+   "reward": "Rewards . You need to be level 500 to redeem this code"
+  },
+  {
    "code": "23KActives",
    "reward": "Free Rewards . You must be at least Level 500 to use this code"
   },
@@ -235,6 +247,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-10-31T12:04:30.316Z",
+ "updated": "2026-11-02T05:18:55.313Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

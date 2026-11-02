@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TEAMUP",
+   "reward": "100 Crowns"
+  },
+  {
    "code": "KINGMAKER",
    "reward": "100 Crowns"
   },
@@ -15,6 +19,6 @@
    "reward": "60 Crowns"
   }
  ],
- "updated": "2026-10-31T17:11:30.568Z",
+ "updated": "2026-11-02T05:22:43.650Z",
  "source": "https://robloxden.com/game-codes/crownmarch"
 }

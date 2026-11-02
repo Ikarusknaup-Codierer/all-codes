@@ -35,12 +35,20 @@
    "reward": "100 Burgers"
   },
   {
+   "code": "HappyBirthdayLynn",
+   "reward": "500 Burgers"
+  },
+  {
    "code": "33MVISITS",
    "reward": "75 Burgers"
   },
   {
    "code": "123KMEMBERS",
    "reward": "200 Burgers"
+  },
+  {
+   "code": "NewQuests",
+   "reward": "100 Burgers"
   },
   {
    "code": "70KLIKES",
@@ -51,20 +59,12 @@
    "reward": "100 Burgers"
   },
   {
-   "code": "32MVISITS",
-   "reward": "75 Burgers"
-  },
-  {
-   "code": "HappyBirthdayLynn",
-   "reward": "500 Burgers"
-  },
-  {
-   "code": "NewQuests",
-   "reward": "100 Burgers"
-  },
-  {
    "code": "NewTraits",
    "reward": "100 Burgers"
+  },
+  {
+   "code": "32MVISITS",
+   "reward": "75 Burgers"
   },
   {
    "code": "QOL",
@@ -99,6 +99,6 @@
    "reward": "200 Burgers"
   }
  ],
- "updated": "2026-10-31T12:03:08.600Z",
+ "updated": "2026-11-02T05:17:58.600Z",
  "source": "https://robloxden.com/game-codes/dead-spells"
 }

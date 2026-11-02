@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKY",
+   "reward": "25x Candy"
+  },
+  {
+   "code": "JustDance",
+   "reward": "350 cash"
+  },
+  {
    "code": "Iluvdinos",
    "reward": "500 Cash"
   },
@@ -19,6 +27,6 @@
    "reward": "100 Cash"
   }
  ],
- "updated": "2026-10-31T12:05:52.988Z",
+ "updated": "2026-11-02T05:20:15.456Z",
  "source": "https://robloxden.com/game-codes/my-dino-life"
 }

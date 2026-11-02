@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HUNTERUPDATE",
+   "reward": "25 Tickets , 2 Energy Potions , and 2 Damage Potions"
+  },
+  {
+   "code": "THANKYOUHUNTERS",
+   "reward": "50 Tickets , 2 Energy Potions , and 2 XP Potions"
+  },
+  {
    "code": "SorryForEverything!",
    "reward": "Tickets"
   },
@@ -15,6 +23,6 @@
    "reward": "2 Energy Potions and 2 Luck Potions"
   }
  ],
- "updated": "2026-10-31T12:05:51.776Z",
+ "updated": "2026-11-02T05:20:14.166Z",
  "source": "https://robloxden.com/game-codes/anime-destroyers"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN2026",
+   "reward": "120 Cash , 1 Weapon Crate , and 12 Building Boxes"
+  },
+  {
    "code": "IMPOSTERS58K",
    "reward": "1 Weapon Crate and 60 Cash"
   },
@@ -27,14 +31,14 @@
    "reward": "$50 Cash"
   },
   {
-   "code": "CONSOLE",
-   "reward": "2 Weapon Crates, and 60 Cash"
+   "code": "SUMMER2026",
+   "reward": "12 Building Boxes , 2 Weapon Crates , and 80 Cash"
   },
   {
-   "code": "EASTER2026",
-   "reward": "120 Cash and 2 Weapon Crates"
+   "code": "CONSOLE",
+   "reward": "2 Weapon Crates, and 60 Cash"
   }
  ],
- "updated": "2026-11-01T05:26:23.925Z",
+ "updated": "2026-11-03T00:59:48.743Z",
  "source": "https://robloxden.com/game-codes/imposters-and-roles"
 }

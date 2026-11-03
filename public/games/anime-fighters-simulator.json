@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "STOHESS",
+   "reward": "250 Challenger Fruit , 250 Demonic Fruit , 1,000 of Every Fragment , 1"
+  },
+  {
    "code": "ALICIZATION",
    "reward": "250 Challenger Fruit , 250 Demonic Fruit , 1,000 of Every Fragment , 1"
   },
@@ -61,10 +65,6 @@
   {
    "code": "AKIRACODE",
    "reward": "20 Mega Boosts (all types) , 100 Heavenly Fruits , 100 Cursed Orbs , 2"
-  },
-  {
-   "code": "GROUNDED",
-   "reward": "75 Passive Tokens and 25 Heavenly Fruits"
   },
   {
    "code": "REBIRTHSHOP",
@@ -323,6 +323,10 @@
    "reward": "5 Easter Time Boosts (30 minutes) , 5 Easter Passive Luck Boosts (30 m"
   },
   {
+   "code": "SORRYFORNOCODEHALLOWEEN",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "OPCODE1",
    "reward": "5 Mega Boosts , 100 Wistoria Shards , 150 Passive Tokens , 200 Requiem"
   },
@@ -351,10 +355,14 @@
    "reward": "50 Wand Shards , 3 Damage Boosts , and 3 Luck Boosts"
   },
   {
+   "code": "GROUNDED",
+   "reward": "75 Passive Tokens and 25 Heavenly Fruits"
+  },
+  {
    "code": "SorryForEarlyShutDown",
    "reward": "5 Mega Drop Boost , 5 Mega Time Boost , and 5 Mega Passive Lucky Boost"
   }
  ],
- "updated": "2026-11-01T05:22:01.555Z",
+ "updated": "2026-11-03T00:55:28.966Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

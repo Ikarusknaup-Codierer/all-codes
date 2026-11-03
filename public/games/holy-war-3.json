@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ANDAGEEN",
-   "reward": "Exp"
-  },
-  {
-   "code": "STATRESET5",
-   "reward": "a Stat Reset"
-  },
-  {
-   "code": "OMAEWA",
-   "reward": "a reward"
-  },
-  {
-   "code": "SOMERACE",
+   "code": "RACEMILLY",
    "reward": "Race Spins"
   },
   {
-   "code": "TELLMEAGAIN",
-   "reward": "a Beta Sword"
+   "code": "10MILLYOURWELCOME",
+   "reward": "Magic Spins"
+  },
+  {
+   "code": "MINATO",
+   "reward": ""
+  },
+  {
+   "code": "SUB2SWEENALPHI",
+   "reward": "10 Race Spins"
+  },
+  {
+   "code": "2BIGLOAD",
+   "reward": "30 Magic Spins"
   }
  ],
- "updated": "2026-11-01T05:24:50.456Z",
+ "updated": "2026-11-03T00:58:25.015Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

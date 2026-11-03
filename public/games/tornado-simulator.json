@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Cyclone",
+   "reward": "15,000 Cash"
+  },
+  {
    "code": "NOMNOM",
    "reward": "5,000 Cash"
   },
@@ -21,12 +25,8 @@
   {
    "code": "DISASTER",
    "reward": "5,000 Cash"
-  },
-  {
-   "code": "WHOOSH",
-   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-10-31T21:24:15.358Z",
+ "updated": "2026-11-03T00:49:52.437Z",
  "source": "https://robloxden.com/game-codes/tornado-simulator"
 }

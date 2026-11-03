@@ -15,14 +15,18 @@
    "reward": "500 Texts and 200 Wins"
   },
   {
+   "code": "UPDATE1",
+   "reward": ""
+  },
+  {
    "code": "BACK",
    "reward": "Free Rewards"
   },
   {
-   "code": "SECRETABC",
-   "reward": "500 Wins"
+   "code": "SUPERSECRETCODE",
+   "reward": "1000 Wins"
   }
  ],
- "updated": "2026-11-01T05:20:01.426Z",
+ "updated": "2026-11-03T00:53:18.960Z",
  "source": "https://robloxden.com/game-codes/text-a-friend"
 }

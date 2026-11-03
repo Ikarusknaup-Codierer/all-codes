@@ -51,10 +51,14 @@
    "reward": "1 Player Boost"
   },
   {
-   "code": "SPACE",
-   "reward": "A Reward"
+   "code": "COUNTDOWN",
+   "reward": "Devil's Hat Pet"
+  },
+  {
+   "code": "500STAR",
+   "reward": "50 Strength"
   }
  ],
- "updated": "2026-11-01T05:22:43.964Z",
+ "updated": "2026-11-03T00:56:11.239Z",
  "source": "https://robloxden.com/game-codes/lifting-titans"
 }

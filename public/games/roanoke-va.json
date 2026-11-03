@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "45,000 cash"
+  },
+  {
    "code": "EXCUSE",
    "reward": "55,000 Cash"
   },
@@ -23,6 +27,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-11-01T05:21:43.624Z",
+ "updated": "2026-11-03T00:55:11.464Z",
  "source": "https://robloxden.com/game-codes/roanoke-va"
 }

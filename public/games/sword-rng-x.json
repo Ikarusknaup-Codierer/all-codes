@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "SMALLPUSH",
+   "reward": "5 Enhance Luck Potion , 5 Gold Potion , 15 Carrot and 5 Diamond Dice"
+  },
+  {
+   "code": "REVISE",
+   "reward": "1 Ultra Dice and 10 Loot"
+  },
+  {
+   "code": "MINIUPD",
+   "reward": "3 Umbral Dice and 2 Enhance Luck Potion"
+  },
+  {
+   "code": "MINI3",
+   "reward": "3 Umbral Dice and 2 Enhance Luck Potion"
+  },
+  {
+   "code": "SKILLTREE",
+   "reward": "1 Ultra Dice and 2 Loot Potion"
+  },
+  {
+   "code": "COOP",
+   "reward": "1 Enhanced Luck Potion , 5 Luck Potions , 5 Gold Potions , 5 EXP Potio"
+  },
+  {
+   "code": "NEWUPDD",
+   "reward": "5 Luck Potions , 3 Enhanced Luck Potions , 5 Gold Potions , 5 Carrots "
+  },
+  {
    "code": "PYRAMID",
    "reward": "3 Ultra Dice"
   },
@@ -51,6 +79,6 @@
    "reward": "5 Enhance Gold Potions"
   }
  ],
- "updated": "2026-11-01T05:19:22.731Z",
+ "updated": "2026-11-03T00:52:37.788Z",
  "source": "https://robloxden.com/game-codes/sword-rng-x"
 }

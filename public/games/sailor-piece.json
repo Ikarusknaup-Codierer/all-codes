@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GEAR5UPDATE",
+   "reward": "Rewards . To use this code, you must be at least level 12,500 in-game"
+  },
+  {
+   "code": "LUFFYUPDATE",
+   "reward": "Rewards . To use this code, you must be at least level 12,500 in-game"
+  },
+  {
+   "code": "THANKYOUFORWAITING",
+   "reward": "Rewards . To use this code, you must be at least level 12,500 in-game"
+  },
+  {
    "code": "2XLUCKMASTERYEVENT",
    "reward": "Free Rewards"
   },
@@ -71,6 +83,6 @@
    "reward": "50 Power Shards , 75 Passive Shards , 12 Secret Chests (Untradeable) ,"
   }
  ],
- "updated": "2026-11-01T12:57:37.172Z",
+ "updated": "2026-11-03T01:01:55.263Z",
  "source": "https://robloxden.com/game-codes/sailor-piece"
 }

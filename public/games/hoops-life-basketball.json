@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Season3",
-   "reward": "150 Coins"
-  },
-  {
    "code": "SpookySeason",
    "reward": "50 Coins"
+  },
+  {
+   "code": "Champion",
+   "reward": "10 Chance Crates"
   },
   {
    "code": "TrophyEvent",
@@ -23,10 +23,10 @@
    "reward": "2 Spins"
   },
   {
-   "code": "GymUpdate",
-   "reward": "100 Coins"
+   "code": "50XP",
+   "reward": "50 EXP"
   }
  ],
- "updated": "2026-11-01T05:19:52.165Z",
+ "updated": "2026-11-03T00:53:10.850Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

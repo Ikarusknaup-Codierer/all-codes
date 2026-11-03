@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "Anniversary2026",
-   "reward": "10 Boost Tokens and 1 Celebration Disc B"
-  },
-  {
    "code": "RainbowEgg",
    "reward": "10 Boost Tokens and 100 Easter Eggs"
   },
   {
    "code": "Meant2Bee",
    "reward": "10 Boost Tokens , the Valentine Card Profile Background , 20 Heart Dis"
+  },
+  {
+   "code": "JollyTokens",
+   "reward": "Reward"
   },
   {
    "code": "JollySendoff",
@@ -27,6 +27,6 @@
    "reward": "Vari Reskin And Mount"
   }
  ],
- "updated": "2026-10-31T21:23:08.650Z",
+ "updated": "2026-11-03T00:48:47.437Z",
  "source": "https://robloxden.com/game-codes/loomian-legacy"
 }

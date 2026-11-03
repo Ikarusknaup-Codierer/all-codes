@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CLASSES",
+   "reward": "2,500 Gems and 10x Skill Crystals"
+  },
+  {
    "code": "COSMETIC",
    "reward": "2,500 Gems and 10 Skill Crystals"
   },
@@ -35,14 +39,14 @@
    "reward": "1,000 Gems"
   },
   {
-   "code": "GUILDFIX",
-   "reward": "5K Gems and 10 Skill Crystals"
+   "code": "COMMANDER",
+   "reward": "500 Gems"
   },
   {
-   "code": "COMMANDER",
+   "code": "D0ggy103",
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-11-01T13:01:48.819Z",
+ "updated": "2026-11-03T14:01:50.618Z",
  "source": "https://robloxden.com/game-codes/command-an-army"
 }

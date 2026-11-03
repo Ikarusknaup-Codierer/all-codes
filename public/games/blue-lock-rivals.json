@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "nelaiku",
+   "reward": "5 Lucky Spins and 5 Lucky Flows"
+  },
+  {
+   "code": "SORRYFORDELAYAIKU",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "WSNAKE",
+   "reward": "5 Lucky Flows"
+  },
+  {
    "code": "EPICSENDOU",
    "reward": "Rewards . You must be level 10 to redeem this code"
   },
@@ -17,6 +33,18 @@
   {
    "code": "NELAIKUNEXT",
    "reward": "Rewards . You must be level 10 to redeem this code"
+  },
+  {
+   "code": "Spooky",
+   "reward": "5 Lucky Spins and 5 Lucky Flows"
+  },
+  {
+   "code": "SKELETON",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "AIKUCHANGES",
+   "reward": "5 Lucky Flows"
   },
   {
    "code": "DONREVAMP",
@@ -131,6 +159,6 @@
    "reward": "5 Lucky Flow"
   }
  ],
- "updated": "2026-11-01T12:59:35.147Z",
+ "updated": "2026-11-03T13:59:21.908Z",
  "source": "https://robloxden.com/game-codes/blue-lock-rivals"
 }

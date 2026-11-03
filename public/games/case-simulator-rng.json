@@ -7,8 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "125kLikes",
-   "reward": "rewards"
+   "code": "LagFix",
+   "reward": "Rewards . You must reach Level 10 to use this code"
   },
   {
    "code": "Halloween26",
@@ -19,14 +19,14 @@
    "reward": "15 Rerolls"
   },
   {
-   "code": "AdminAbuse",
-   "reward": "15 Trait Rerolls and 25% Luck for (20 Minutes)"
+   "code": "NewHalloweenItems",
+   "reward": "Rewards . You must reach Level 10 to use this code"
   },
   {
-   "code": "QUESTS",
-   "reward": "25 Rerolls"
+   "code": "125kLikes",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-01T13:02:13.772Z",
+ "updated": "2026-11-03T14:02:18.425Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

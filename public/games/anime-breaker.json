@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "18MVISITS",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "CURSEDHIGH",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "200 Emeralds and Potions"
+  },
+  {
+   "code": "NEWAURA",
+   "reward": "200 Emeralds and Potions"
+  },
+  {
    "code": "16MVISITS",
    "reward": "Rewards"
   },
@@ -103,22 +119,6 @@
    "reward": "200 Emeralds"
   },
   {
-   "code": "3MVISITS",
-   "reward": "200 Emeralds"
-  },
-  {
-   "code": "30KFAVORITES",
-   "reward": "200 Emeralds"
-  },
-  {
-   "code": "40KFAVORITES",
-   "reward": "200 Emeralds"
-  },
-  {
-   "code": "CLASSTREE",
-   "reward": "200 Emeralds and 2 of Every T2 Potion"
-  },
-  {
    "code": "SHUTDOWN",
    "reward": "250 Emeralds , 1 Gold Potion , 1 Drop Potion , 1 Damage Potion , 1 Luc"
   },
@@ -149,6 +149,22 @@
   {
    "code": "NEWHARBOR",
    "reward": "200 Emeralds"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "30KFAVORITES",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "40KFAVORITES",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "CLASSTREE",
+   "reward": "200 Emeralds and 2 of Every T2 Potion"
   },
   {
    "code": "SORRYFORSHUTDOWN",
@@ -219,6 +235,6 @@
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
   }
  ],
- "updated": "2026-11-01T13:06:24.920Z",
+ "updated": "2026-11-03T14:05:49.360Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

@@ -35,10 +35,6 @@
    "reward": "a Coin Booster and 5,000 Coins"
   },
   {
-   "code": "cantkilldaboss",
-   "reward": "a Soul Booster , 5 Epic Fusion Shards , and 3 Spin Tickets"
-  },
-  {
    "code": "finalboss4life",
    "reward": "2 Epic Fusion Shards"
   },
@@ -69,8 +65,12 @@
   {
    "code": "noherocanwin",
    "reward": "3 Epic Fusion Shards and 1 Shard Drop Boost"
+  },
+  {
+   "code": "cantkilldaboss",
+   "reward": "a Soul Booster , 5 Epic Fusion Shards , and 3 Spin Tickets"
   }
  ],
- "updated": "2026-11-01T13:01:54.810Z",
+ "updated": "2026-11-03T14:01:57.653Z",
  "source": "https://robloxden.com/game-codes/be-the-final-boss"
 }

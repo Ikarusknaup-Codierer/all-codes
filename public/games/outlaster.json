@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "CLOWN!",
-   "reward": "Clown!"
-  },
-  {
    "code": "JUNGLELIFE",
    "reward": "50 Gems"
   },
   {
    "code": "HEART",
    "reward": "1 Valentine Torch"
+  },
+  {
+   "code": "SPRING",
+   "reward": "1 Flower Necklace"
   },
   {
    "code": "GIFT",
@@ -31,6 +31,6 @@
    "reward": "New"
   }
  ],
- "updated": "2026-11-01T05:25:16.557Z",
+ "updated": "2026-11-03T13:55:25.749Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

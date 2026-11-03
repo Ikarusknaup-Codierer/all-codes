@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "STARTERMIKU",
+   "reward": "1,000 Fans and 20 Crests"
+  },
+  {
    "code": "FREEMODULE",
    "reward": "1 Free Module"
   },
@@ -25,20 +29,8 @@
   {
    "code": "2MVISITS",
    "reward": "2,000 Fans , 40 Chests , and 2 Universal Shards"
-  },
-  {
-   "code": "STARTERMIKU",
-   "reward": "1,000 Fans and 20 Crests"
-  },
-  {
-   "code": "2KMEMBERS",
-   "reward": "25 Crests and 50 Euphony Waves"
-  },
-  {
-   "code": "1MVISITS",
-   "reward": "30 Crests , 50 Euphony Waves , and 2 Universal Shards"
   }
  ],
- "updated": "2026-11-01T05:24:48.512Z",
+ "updated": "2026-11-03T13:55:04.681Z",
  "source": "https://robloxden.com/game-codes/vocaloid-tower-defense"
 }

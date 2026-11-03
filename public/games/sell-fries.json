@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "nougatbits",
+   "code": "Ch2Soon",
+   "reward": "500 Candies"
+  },
+  {
+   "code": "Potato",
    "reward": "100 Gems"
   },
   {
-   "code": "PlsCode",
-   "reward": "100 Gems and 100 Candies"
+   "code": "Classes",
+   "reward": "5 Class Spins"
   },
   {
-   "code": "2000Members",
+   "code": "5000Members",
+   "reward": "50 Gems and 100 Candies"
+  },
+  {
+   "code": "Halloween",
    "reward": "100 Candies"
   }
  ],
- "updated": "2026-11-01T05:27:58.769Z",
+ "updated": "2026-11-03T13:57:28.553Z",
  "source": "https://robloxden.com/game-codes/sell-fries"
 }

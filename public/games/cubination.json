@@ -43,10 +43,6 @@
    "reward": "a Dirt Cube"
   },
   {
-   "code": "ImNotHeavy",
-   "reward": "a Gravity Coil"
-  },
-  {
    "code": "MODDED",
    "reward": "a White Cube"
   },
@@ -57,14 +53,6 @@
   {
    "code": "theghostofschmooey",
    "reward": "an Air Cube"
-  },
-  {
-   "code": "Tutorial",
-   "reward": "a Sledgehammer"
-  },
-  {
-   "code": "Cheese",
-   "reward": "a Melted Cheese Cube"
   },
   {
    "code": "SirWholesome",
@@ -79,12 +67,24 @@
    "reward": "a Speed Coil"
   },
   {
+   "code": "ImNotHeavy",
+   "reward": "a Gravity Coil"
+  },
+  {
    "code": "SecretCode",
    "reward": "a Hammer"
   },
   {
+   "code": "Tutorial",
+   "reward": "a Sledgehammer"
+  },
+  {
    "code": "yellow",
    "reward": "an Enriched Yellow Cube"
+  },
+  {
+   "code": "Cheese",
+   "reward": "a Melted Cheese Cube"
   },
   {
    "code": "Russer",
@@ -99,6 +99,6 @@
    "reward": "a Certificate of Excellence"
   }
  ],
- "updated": "2026-11-01T05:23:09.577Z",
+ "updated": "2026-11-03T13:54:34.934Z",
  "source": "https://robloxden.com/game-codes/cubination"
 }

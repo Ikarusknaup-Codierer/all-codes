@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "mortar",
+   "reward": "3,000 Plutonium"
+  },
+  {
    "code": "CentreWaves",
    "reward": "Plutonium"
   },
@@ -23,6 +27,6 @@
    "reward": "50% of the BTR-80A mission"
   }
  ],
- "updated": "2026-11-01T05:25:28.409Z",
+ "updated": "2026-11-03T13:55:31.387Z",
  "source": "https://robloxden.com/game-codes/military-army-tycoon"
 }

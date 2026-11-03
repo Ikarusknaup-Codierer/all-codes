@@ -19,10 +19,6 @@
    "reward": "1 Epic Spin and 1 Wheel Spin"
   },
   {
-   "code": "CrimsonMimic",
-   "reward": "1 Legendary Spin"
-  },
-  {
    "code": "FlexUrMuscles",
    "reward": "15,000 Money , 2 Epic Spins , and 1 Wheel Spin"
   },
@@ -49,8 +45,12 @@
   {
    "code": "MimicItems",
    "reward": "1 Epic Spin and 1 Wheel Spin"
+  },
+  {
+   "code": "CrimsonMimic",
+   "reward": "1 Legendary Spin"
   }
  ],
- "updated": "2026-11-01T05:24:49.166Z",
+ "updated": "2026-11-03T13:55:05.397Z",
  "source": "https://robloxden.com/game-codes/heroes-world"
 }

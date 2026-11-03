@@ -15,10 +15,6 @@
    "reward": "30 Minutes Boost"
   },
   {
-   "code": "Elite",
-   "reward": "Rewards . You must be at least level 100 to use this code"
-  },
-  {
    "code": "Welcome",
    "reward": "30 Minutes Boost"
   },
@@ -71,6 +67,10 @@
    "reward": "This code randomizes your head's size"
   },
   {
+   "code": "Elite",
+   "reward": "Rewards . You must be at least level 100 to use this code"
+  },
+  {
    "code": "SorryForTheBugsToday",
    "reward": "Rewards . You must be at least level 300 to use this code"
   },
@@ -79,6 +79,6 @@
    "reward": "Rewards . You must be at least level 300 to use this code"
   }
  ],
- "updated": "2026-11-01T13:02:23.193Z",
+ "updated": "2026-11-03T14:02:28.554Z",
  "source": "https://robloxden.com/game-codes/swordburst-2"
 }

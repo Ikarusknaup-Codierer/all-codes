@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN2026",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "Towerrr",
    "reward": "2 EXP Potions"
   },
@@ -403,14 +407,14 @@
    "reward": "4 Yoni Crates"
   },
   {
-   "code": "CoralBlox",
-   "reward": "3 Void Tickets"
+   "code": "FIXBUG891",
+   "reward": "3 EXP Potions"
   },
   {
    "code": "VOIDPART2",
    "reward": "1 Void Ticket"
   }
  ],
- "updated": "2026-11-01T21:53:25.162Z",
+ "updated": "2026-11-03T23:06:22.155Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

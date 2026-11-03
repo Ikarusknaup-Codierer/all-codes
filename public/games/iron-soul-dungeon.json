@@ -31,10 +31,6 @@
    "reward": "3 Season Lucky Tickets"
   },
   {
-   "code": "IRONSOULWEEKEND13",
-   "reward": "3 Race Rerolls"
-  },
-  {
    "code": "TRADEISLANDUPDATE",
    "reward": "200 Origin Shards"
   },
@@ -183,6 +179,10 @@
    "reward": "10 Race Rerolls"
   },
   {
+   "code": "IRONSOULWEEKEND13",
+   "reward": "3 Race Rerolls"
+  },
+  {
    "code": "GROCERYFIX",
    "reward": "2 Race Rerolls"
   },
@@ -191,6 +191,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-11-01T13:05:43.018Z",
+ "updated": "2026-11-03T23:04:58.119Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

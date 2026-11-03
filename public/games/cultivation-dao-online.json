@@ -23,10 +23,6 @@
    "reward": "1,000 Merit , 3 Instant Health , and 3 Instant Qi"
   },
   {
-   "code": "MoonlitDaoFestival",
-   "reward": "1,000 Merit"
-  },
-  {
    "code": "DelayedUpdate028",
    "reward": "5 Spirit Root Spins , 5 Body Constitution Spins , and 5 Instant Health"
   },
@@ -75,8 +71,8 @@
    "reward": "50 Forge Shards , 5 Spirit Root Spins , and 5 Body Constitution Spins"
   },
   {
-   "code": "VerifiedCommunity",
-   "reward": "5 Instant Health , 1 Body Constitution Spin , 5 Instant Qi , 5 Body Co"
+   "code": "MoonlitDaoFestival",
+   "reward": "1,000 Merit"
   },
   {
    "code": "Update210",
@@ -199,6 +195,6 @@
    "reward": "5 Spirit Boon Spins, 5 Body Constitutions Spins, 10 Common Chests, 2 I"
   }
  ],
- "updated": "2026-11-01T13:05:56.518Z",
+ "updated": "2026-11-03T23:05:05.870Z",
  "source": "https://robloxden.com/game-codes/cultivation-dao-online"
 }

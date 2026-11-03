@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE_35",
+   "reward": "IC 500"
+  },
+  {
+   "code": "SPINGETPASS",
+   "reward": "IC 500"
+  },
+  {
+   "code": "GETLUCKY",
+   "reward": "IC 500"
+  },
+  {
    "code": "UPDATE_34",
    "reward": "IC 500"
   },
@@ -39,6 +51,6 @@
    "reward": "Rp 250,000,000"
   }
  ],
- "updated": "2026-11-01T13:04:56.971Z",
+ "updated": "2026-11-03T23:04:27.439Z",
  "source": "https://robloxden.com/game-codes/the-driving-indonesia-2"
 }

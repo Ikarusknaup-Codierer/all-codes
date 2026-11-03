@@ -31,6 +31,10 @@
    "reward": "1 Pumpkin Potion and 10 Tickets"
   },
   {
+   "code": "NEWEVENT",
+   "reward": "1 Curse Potion and 10 Jade"
+  },
+  {
    "code": "DUNGEON4",
    "reward": "15 Jades and 1 Potion of Everything"
   },
@@ -339,6 +343,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-11-01T21:57:43.047Z",
+ "updated": "2026-11-03T23:10:43.149Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

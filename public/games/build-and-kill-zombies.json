@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FORGE",
+   "reward": "50 Crypt Tokens"
+  },
+  {
+   "code": "DOCTORSORDERS",
+   "reward": "250 Crypt Tokens"
+  },
+  {
+   "code": "TRUSTTHEJUICE",
+   "reward": "100 Crypt Tokens and 4 Luck Boost (10 Minutes)"
+  },
+  {
    "code": "HOLLOWKING",
    "reward": "100 Crypt Tokens and a 2x Luck Boost (10 Minutes)"
   },
@@ -43,6 +55,6 @@
    "reward": "50 Hacker Tokens"
   }
  ],
- "updated": "2026-11-01T21:59:27.897Z",
+ "updated": "2026-11-03T23:12:35.219Z",
  "source": "https://robloxden.com/game-codes/build-and-kill-zombies"
 }

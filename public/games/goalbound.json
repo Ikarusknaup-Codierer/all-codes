@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NO_KIYORA_WONT_GET_ADDED",
+   "reward": "Rewards"
+  },
+  {
    "code": "NOUPDATETHISWEEK",
    "reward": "5 Normal Style Spins and 2 Lucky Style Spins"
   },
@@ -107,6 +111,6 @@
    "reward": "Lucky Spins"
   }
  ],
- "updated": "2026-11-01T21:57:20.736Z",
+ "updated": "2026-11-03T23:10:17.723Z",
  "source": "https://robloxden.com/game-codes/goalbound"
 }

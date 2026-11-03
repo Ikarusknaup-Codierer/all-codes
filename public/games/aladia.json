@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NEWUPDATE",
-   "reward": "200 Cash"
-  },
-  {
    "code": "FREEEGG",
    "reward": "25 Diamonds"
   },
@@ -53,6 +49,10 @@
   {
    "code": "DISS",
    "reward": "50 Diamonds"
+  },
+  {
+   "code": "Submarine",
+   "reward": "Rewards . You must be at least level 3 to use this code"
   },
   {
    "code": "npass",
@@ -315,6 +315,10 @@
    "reward": "50 Diamonds"
   },
   {
+   "code": "NEWUPDATE",
+   "reward": "200 Cash"
+  },
+  {
    "code": "NEWEVENTANNIVERSARY",
    "reward": "10 Diamonds"
   },
@@ -323,6 +327,6 @@
    "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-11-01T21:57:06.210Z",
+ "updated": "2026-11-03T23:10:02.907Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

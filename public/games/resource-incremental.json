@@ -141,8 +141,12 @@
   {
    "code": "Release",
    "reward": "+1 All Potions"
+  },
+  {
+   "code": "MiniUpdate",
+   "reward": "10 Diamonds and 25 Red Stars"
   }
  ],
- "updated": "2026-11-01T21:57:45.040Z",
+ "updated": "2026-11-03T23:10:46.319Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

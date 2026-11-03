@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SINKABLES",
-   "reward": "111 Anchors"
-  },
-  {
    "code": "KATO",
    "reward": "30 Anchors"
   },
@@ -19,10 +15,14 @@
    "reward": "120 Anchors"
   },
   {
+   "code": "SINKABLES",
+   "reward": "111 Anchors"
+  },
+  {
    "code": "RESEARCH",
    "reward": "150 Anchors"
   }
  ],
- "updated": "2026-11-01T13:05:33.680Z",
+ "updated": "2026-11-03T23:04:51.875Z",
  "source": "https://robloxden.com/game-codes/sail-and-sink-simulator"
 }

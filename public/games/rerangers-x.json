@@ -43,10 +43,14 @@
    "reward": "1 Asto (Half) , 150 Trait Rerolls , 20,000 Gems , and 100,000 Gold . Y"
   },
   {
-   "code": "!RaitoLovesARX",
-   "reward": "15 Trait Rerolls"
+   "code": "GrindBoost!",
+   "reward": "1M Sol Token and 1M Shadow Orbs"
+  },
+  {
+   "code": "SmartRejoin",
+   "reward": "Free Rewards (new servers only)"
   }
  ],
- "updated": "2026-11-01T21:56:28.423Z",
+ "updated": "2026-11-03T23:09:22.949Z",
  "source": "https://robloxden.com/game-codes/rerangers-x"
 }

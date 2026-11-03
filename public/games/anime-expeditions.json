@@ -15,6 +15,22 @@
    "reward": "20 Trait Crystals and 500 Sand Dollars . You need to be at least Level"
   },
   {
+   "code": "awakening",
+   "reward": "150 Trait Crystals , 20 Equipment Rerolls , 10 Equipment Locks , and 1"
+  },
+  {
+   "code": "breakthelimit",
+   "reward": "2,500 Gems and 100 Trait Crystals"
+  },
+  {
+   "code": "otherside",
+   "reward": "50 Trait Crystals"
+  },
+  {
+   "code": "SorryForDelay",
+   "reward": "200 Trait Crystals"
+  },
+  {
    "code": "clash!",
    "reward": "500 Defense Credits and 50 Trait Crystals"
   },
@@ -171,6 +187,6 @@
    "reward": "20 Trait Crystals and 2,500 Gems . You must have the Early Access Role"
   }
  ],
- "updated": "2026-11-01T13:05:48.502Z",
+ "updated": "2026-11-03T23:05:00.736Z",
  "source": "https://robloxden.com/game-codes/anime-expeditions"
 }

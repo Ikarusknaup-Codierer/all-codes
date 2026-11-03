@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "NIGHTMARE",
+   "reward": "2x Money Potion III"
+  },
+  {
+   "code": "CREEPY",
+   "reward": "2x Luck Potion III"
+  },
+  {
+   "code": "HAUNTED",
+   "reward": "2x Time Package Potion III"
+  },
+  {
+   "code": "PHANTOM",
+   "reward": "30 Soul Shards"
+  },
+  {
+   "code": "TRICK",
+   "reward": "50x Pumpkins"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "60x Pumpkins"
+  },
+  {
    "code": "10KMEMBERS",
    "reward": "5 Time Package Potions III"
   },
@@ -63,6 +87,6 @@
    "reward": "$5,000 Money"
   }
  ],
- "updated": "2026-11-01T13:04:24.984Z",
+ "updated": "2026-11-03T23:04:02.567Z",
  "source": "https://robloxden.com/game-codes/creepypastas-cards"
 }

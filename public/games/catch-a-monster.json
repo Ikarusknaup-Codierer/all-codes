@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TWIRLY",
-   "reward": "5,000 Twirly Coins"
-  },
-  {
    "code": "PVPFIX",
    "reward": "12,000 Wanderer's Coins"
   },
@@ -59,6 +55,10 @@
    "reward": "3 Small XP Potions and 3 Small Coin Potions"
   },
   {
+   "code": "Eventb",
+   "reward": "2 Mythical Chests"
+  },
+  {
    "code": "Lumen",
    "reward": "1 Golden Radiance Egg"
   },
@@ -91,6 +91,10 @@
    "reward": "1 Copter Egg"
   },
   {
+   "code": "TWIRLY",
+   "reward": "5,000 Twirly Coins"
+  },
+  {
    "code": "VORTUR",
    "reward": "2,000 Wanderer’s Coins and 2 Splash Isle Rifts III"
   },
@@ -111,6 +115,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-11-01T21:55:31.169Z",
+ "updated": "2026-11-03T23:08:27.015Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKY",
+   "reward": "2x Candy Corn XP for (12 Hours)"
+  },
+  {
+   "code": "DUNGEONS",
+   "reward": "2x Spooky Free Spins"
+  },
+  {
    "code": "DELAY",
    "reward": "2,500 Credits and a Bloodmoon Crate"
   },
@@ -87,6 +95,6 @@
    "reward": "3 Bloodmoon Spins and 2x Bloodmoon Shards (4 Hours)"
   }
  ],
- "updated": "2026-11-01T13:04:18.850Z",
+ "updated": "2026-11-03T23:03:56.967Z",
  "source": "https://robloxden.com/game-codes/survive-zombie-arena"
 }

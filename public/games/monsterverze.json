@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MINIUPDATE",
-   "reward": "4,444 Ghoulars"
-  },
-  {
    "code": "PATCH08",
    "reward": "8,000 Ghoulars"
   },
@@ -127,10 +123,14 @@
    "reward": "250 Gems"
   },
   {
+   "code": "MINIUPDATE",
+   "reward": "4,444 Ghoulars"
+  },
+  {
    "code": "Daisy20Ghoulars",
    "reward": "the Denim Miniskirt and 20 Ghoulars"
   }
  ],
- "updated": "2026-11-01T13:02:40.360Z",
+ "updated": "2026-11-03T23:03:05.848Z",
  "source": "https://robloxden.com/game-codes/monsterverze"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "OptimizationsGoHard",
+   "reward": "100 Burgers"
+  },
+  {
+   "code": "QOLGoesHard",
+   "reward": "100 Burgers"
+  },
+  {
    "code": "34MVISITS",
    "reward": "75 Burgers"
   },
@@ -99,6 +107,6 @@
    "reward": "200 Burgers"
   }
  ],
- "updated": "2026-11-02T05:17:58.600Z",
+ "updated": "2026-11-04T05:41:02.819Z",
  "source": "https://robloxden.com/game-codes/dead-spells"
 }

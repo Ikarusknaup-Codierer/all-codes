@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "forge",
+   "reward": "10 Gold"
+  },
+  {
    "code": "tinyupdate",
    "reward": "10 Gold"
   },
@@ -20,6 +24,10 @@
   },
   {
    "code": "weareback",
+   "reward": "5 Gold"
+  },
+  {
+   "code": "sorryagain",
    "reward": "5 Gold"
   },
   {
@@ -55,14 +63,10 @@
    "reward": "5 Gold"
   },
   {
-   "code": "sorryagain",
-   "reward": "5 Gold"
-  },
-  {
    "code": "76249183",
    "reward": "Freebies"
   }
  ],
- "updated": "2026-11-02T05:18:08.125Z",
+ "updated": "2026-11-04T05:41:11.141Z",
  "source": "https://robloxden.com/game-codes/dropper-incremental"
 }

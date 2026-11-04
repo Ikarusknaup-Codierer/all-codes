@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "PART2SHUTDOWN",
+   "reward": "800 Candy Corn and 3 Boss Tickets"
+  },
+  {
+   "code": "WEAREBACK",
+   "reward": "15,000 Coins , 1,000 Gems , 50 Trait Rolls , 2,000 Candy Corn , and 10"
+  },
+  {
+   "code": "HACKERSLOST",
+   "reward": "7,500 Coins , 500 Gems , 25 Trait Rolls , 1,000 Candy Corn , and 5 Spi"
+  },
+  {
    "code": "CHATSHUTDOWN",
    "reward": "500 Candy Corn and 3 Boss Tickets"
   },
@@ -27,6 +39,6 @@
    "reward": "500 Candy Corns and 3 Boss Tickets"
   }
  ],
- "updated": "2026-11-01T21:58:39.332Z",
+ "updated": "2026-11-04T05:38:17.315Z",
  "source": "https://robloxden.com/game-codes/anime-ball-duels"
 }

@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "NEL",
-   "reward": "25,000 cash"
-  },
-  {
    "code": "NELISAGI",
    "reward": "50,000 cash"
+  },
+  {
+   "code": "NEL",
+   "reward": "25,000 cash"
   },
   {
    "code": "PATCH",
@@ -23,6 +23,6 @@
    "reward": "40,000 Cash"
   }
  ],
- "updated": "2026-11-02T05:19:42.576Z",
+ "updated": "2026-11-04T05:42:32.986Z",
  "source": "https://robloxden.com/game-codes/blue-lock-skibidi"
 }

@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "CHAMPIONS",
-   "reward": "1,000,000 Stars and 4 Luck Potion"
-  },
-  {
-   "code": "AUTUMN",
-   "reward": "300 Fallen Leaves and 500 Gems"
-  },
-  {
    "code": "SUNGLASSES",
    "reward": "500,000 Stars"
   },
@@ -31,10 +23,14 @@
    "reward": "10,000,000 Stars"
   },
   {
-   "code": "20MVISITS",
-   "reward": "150,000 Stars"
+   "code": "CHAMPIONS",
+   "reward": "1,000,000 Stars and 4 Luck Potion"
+  },
+  {
+   "code": "AUTUMN",
+   "reward": "300 Fallen Leaves and 500 Gems"
   }
  ],
- "updated": "2026-11-01T22:01:50.323Z",
+ "updated": "2026-11-04T05:39:42.507Z",
  "source": "https://robloxden.com/game-codes/nft-battle"
 }

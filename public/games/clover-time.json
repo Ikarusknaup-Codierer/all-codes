@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SorryForShutdown2",
+   "reward": "20x EXP for (30 Minutes)"
+  },
+  {
    "code": "60KMEMBERS",
    "reward": "50 Spins and 5 Crystal Mana . You need to be at least level 75 to use "
   },
@@ -135,6 +139,6 @@
    "reward": "a Crystal Mana , 25 Spins , and 10 Normal Chests"
   }
  ],
- "updated": "2026-11-02T05:24:00.095Z",
+ "updated": "2026-11-04T05:45:53.327Z",
  "source": "https://robloxden.com/game-codes/clover-time"
 }

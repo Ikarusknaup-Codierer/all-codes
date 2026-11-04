@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "50 Gems and 50 Chaos Cores"
+  },
+  {
    "code": "SORRYGUYS",
    "reward": "100 Gems"
   },
@@ -23,6 +27,6 @@
    "reward": "75 Gems"
   }
  ],
- "updated": "2026-11-02T05:22:46.693Z",
+ "updated": "2026-11-04T05:44:42.083Z",
  "source": "https://robloxden.com/game-codes/navy-war"
 }

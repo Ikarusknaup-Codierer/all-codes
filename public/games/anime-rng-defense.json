@@ -47,10 +47,6 @@
    "reward": "Free Rewards . You need at least 100,000 Rolls to use this code"
   },
   {
-   "code": "SHUTDOWNKAISEN",
-   "reward": "3x Blessed Rolls and 3x Divine Rolls"
-  },
-  {
    "code": "UPDATEKAISEN",
    "reward": "1,000 Crystals and 1x Blessed Roll"
   },
@@ -73,6 +69,26 @@
   {
    "code": "LUFFOSUNGOD",
    "reward": "Cursed Fingers and Divine Rerolls . To use this code, you must at leas"
+  },
+  {
+   "code": "TY100K",
+   "reward": "100,000 Rerolls . You need at least 10,000 Rolls to use this code"
+  },
+  {
+   "code": "TYFOR10KCCU",
+   "reward": "Rewards . To use this code, you must at least reach 10,000 Rolls"
+  },
+  {
+   "code": "THANKSFORPLAYING",
+   "reward": "150 Crystals and 10 Epic Boxes"
+  },
+  {
+   "code": "SHUTDOWNKAISEN",
+   "reward": "3x Blessed Rolls and 3x Divine Rolls"
+  },
+  {
+   "code": "WORLDTOWERSHUTDOWN",
+   "reward": "2x Divine Rolls and 1x Blessed Roll"
   },
   {
    "code": "UPDATEPUNCH",
@@ -115,44 +131,12 @@
    "reward": "1K Crystals and 1 Blessed Roll"
   },
   {
-   "code": "UPDATEGHOUL",
-   "reward": "1,000 Crystals and 1 Blessed Roll"
-  },
-  {
-   "code": "SLIMEEVENT",
-   "reward": "Free Rewards . You need at least 10K Rolls to use this code"
-  },
-  {
-   "code": "DAILYCHALLENGE",
-   "reward": "Free Rewards . You need at least 25K Rolls to use this code"
-  },
-  {
-   "code": "PAUSEPOTIONS",
-   "reward": "Free Rewards . You need at least 50K Rolls to use this code"
-  },
-  {
-   "code": "AWAKENEDSLIME",
-   "reward": "Free Rewards . You need at least 100K Rolls to use this code"
-  },
-  {
-   "code": "TY100K",
-   "reward": "100,000 Rerolls . You need at least 10,000 Rolls to use this code"
-  },
-  {
-   "code": "TYFOR10KCCU",
-   "reward": "Rewards . To use this code, you must at least reach 10,000 Rolls"
-  },
-  {
-   "code": "THANKSFORPLAYING",
-   "reward": "150 Crystals and 10 Epic Boxes"
-  },
-  {
-   "code": "WORLDTOWERSHUTDOWN",
-   "reward": "2x Divine Rolls and 1x Blessed Roll"
-  },
-  {
    "code": "SORRYFORSHUTDOWNGHOUL",
    "reward": "3 Divine Rolls"
+  },
+  {
+   "code": "UPDATEGHOUL",
+   "reward": "1,000 Crystals and 1 Blessed Roll"
   },
   {
    "code": "GHOULCITY",
@@ -175,12 +159,24 @@
    "reward": "1,000 Crystals and 1 Blessed Roll"
   },
   {
-   "code": "10MVISITS",
-   "reward": "10,000 Crystals , 3 Divine Rolls , and 100 Legendary Boxes"
+   "code": "SLIMEEVENT",
+   "reward": "Free Rewards . You need at least 10K Rolls to use this code"
   },
   {
-   "code": "SORRYFORSHUTDOWN10",
-   "reward": "2,500 Crystals , 3 Divine Rolls , and 2 Limit Breakers"
+   "code": "DAILYCHALLENGE",
+   "reward": "Free Rewards . You need at least 25K Rolls to use this code"
+  },
+  {
+   "code": "PAUSEPOTIONS",
+   "reward": "Free Rewards . You need at least 50K Rolls to use this code"
+  },
+  {
+   "code": "AWAKENEDSLIME",
+   "reward": "Free Rewards . You need at least 100K Rolls to use this code"
+  },
+  {
+   "code": "10MVISITS",
+   "reward": "10,000 Crystals , 3 Divine Rolls , and 100 Legendary Boxes"
   },
   {
    "code": "BATTLEPASS",
@@ -275,6 +271,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-11-01T22:00:38.648Z",
+ "updated": "2026-11-04T05:39:00.962Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

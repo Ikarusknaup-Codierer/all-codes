@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "abasaiyanwalk500k",
-   "reward": "1,000 Apples and a Saiyan Walk Emote"
-  },
-  {
    "code": "RELEASE",
    "reward": "500 Apples"
   },
@@ -23,6 +19,10 @@
    "reward": "1,200 Apples"
   },
   {
+   "code": "abasaiyanwalk500k",
+   "reward": "1,000 Apples and a Saiyan Walk Emote"
+  },
+  {
    "code": "visits300k",
    "reward": "1,000 Apples"
   },
@@ -31,6 +31,6 @@
    "reward": "500 Apples"
   }
  ],
- "updated": "2026-11-02T05:22:11.965Z",
+ "updated": "2026-11-04T05:44:09.180Z",
  "source": "https://robloxden.com/game-codes/bloxnote"
 }

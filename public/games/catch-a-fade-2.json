@@ -7,16 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "JUGGERNAUT",
+   "reward": "2 Wheel Spins and 1,000 Credits"
+  },
+  {
+   "code": "MUAYTHAI",
+   "reward": "2,000 Credits and 2x Credits for 30 Minutes"
+  },
+  {
    "code": "SERVERBROWSER",
    "reward": "2,000 Credits and 2x Credits (30 minutes)"
   },
   {
    "code": "LEARNTHEROPES",
    "reward": "1,000 Credits and 3x Quest Coins"
-  },
-  {
-   "code": "FALL2026",
-   "reward": "1,000 credits"
   },
   {
    "code": "CLANSARECOMING",
@@ -31,12 +35,28 @@
    "reward": "Fade11 Crate and 750 Credits"
   },
   {
+   "code": "800K",
+   "reward": "a Cyber Crate and 2 Spins"
+  },
+  {
+   "code": "BIGCHANGES!",
+   "reward": "25 QC , 3 Spawns , and the HellSpawn Crate"
+  },
+  {
    "code": "150FOLLOWERS",
    "reward": "Free Rewards"
   },
   {
    "code": "JUGGERNAUTBOOST",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "9KCODE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FALL2026",
+   "reward": "1,000 credits"
   },
   {
    "code": "ServersWereCooked",
@@ -67,6 +87,6 @@
    "reward": "3,000 Credits and x2 Cash Boost (20 mins)"
   }
  ],
- "updated": "2026-11-02T05:18:23.299Z",
+ "updated": "2026-11-04T05:41:24.427Z",
  "source": "https://robloxden.com/game-codes/catch-a-fade-2"
 }

@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "ANOTHERCODE",
+   "reward": "5 Solar Box and a Basic Box"
+  },
+  {
+   "code": "REIGNITED",
+   "reward": "50 Cosmite and 5 Solar Box"
+  },
+  {
    "code": "StPattys",
    "reward": "2,500 Lucky Clovers and 3 Solar Boxes"
   },
   {
-   "code": "Roblox",
-   "reward": "25 Cosmite and 3 Solar Boxes"
-  },
-  {
-   "code": "EarlyUpdateWoohoo",
-   "reward": "Reward"
+   "code": "PatchinStuff",
+   "reward": "25 Cosmite"
   }
  ],
- "updated": "2026-11-02T05:20:02.491Z",
+ "updated": "2026-11-04T05:42:48.980Z",
  "source": "https://robloxden.com/game-codes/reincarnated"
 }

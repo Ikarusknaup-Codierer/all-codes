@@ -31,14 +31,14 @@
    "reward": "300 Vectors"
   },
   {
-   "code": "AFK",
-   "reward": "Vectors"
-  },
-  {
    "code": "OVERSEAS",
    "reward": "500 Vectors"
+  },
+  {
+   "code": "SorryForTempClose",
+   "reward": "2,000 Vectors"
   }
  ],
- "updated": "2026-11-02T05:25:56.042Z",
+ "updated": "2026-11-04T05:47:34.884Z",
  "source": "https://robloxden.com/game-codes/triangulate"
 }

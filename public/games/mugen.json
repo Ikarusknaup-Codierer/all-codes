@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "DISTRICTPATCH1",
+   "reward": "5 Lucky Spins and 15,000 Yen"
+  },
+  {
+   "code": "25KAGAIN",
+   "reward": "13 Lucky Spins and 75,000 Yen"
+  },
+  {
+   "code": "50KAGAIN",
+   "reward": "15 Lucky Spins and 100,000 Yen"
+  },
+  {
+   "code": "ETRETURN",
+   "reward": "10 Lucky Spins and 50,000 Yen"
+  },
+  {
    "code": "INSECTPATCH2",
    "reward": "10x Lucky Spins"
   },
@@ -43,6 +59,6 @@
    "reward": "100K Yen"
   }
  ],
- "updated": "2026-11-02T05:26:40.292Z",
+ "updated": "2026-11-04T05:48:06.626Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

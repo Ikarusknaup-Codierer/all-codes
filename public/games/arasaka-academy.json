@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "SANDWHICHES",
+   "reward": "25x Rerolls"
+  },
+  {
+   "code": "CYBERDECKED",
+   "reward": "50x Rerolls"
+  },
+  {
+   "code": "LOTSOFLIKES",
+   "reward": "50x Rerolls"
+  },
+  {
+   "code": "UPD1",
+   "reward": "100x Rerolls"
+  },
+  {
+   "code": "WhatKindOfEdgerunnerAreYou",
+   "reward": "50x Rerolls"
+  },
+  {
    "code": "SorryForDelay",
    "reward": "35 Rerolls"
   },
@@ -63,6 +83,6 @@
    "reward": "Rewards . You need to be level 10 to redeem this code"
   }
  ],
- "updated": "2026-11-02T05:24:12.457Z",
+ "updated": "2026-11-04T05:46:04.925Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

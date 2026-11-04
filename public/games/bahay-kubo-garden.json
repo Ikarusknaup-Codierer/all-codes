@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "11KLIKES",
+   "reward": "1 Halloween Potion , 1 Pet Potion IV , and 1 Cash Potion IV"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "1 Luck Potion IV , 1 Growth Potion IV , and 1 Mutation Potion IV"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "1 Halloween Potion and 1 Pumpkin Egg"
+  },
+  {
    "code": "BAHAYKUBO",
    "reward": "500 Pesos and 3 Mango Seeds"
   },
@@ -27,6 +39,6 @@
    "reward": "rewards . This code is only for those who played before the update"
   }
  ],
- "updated": "2026-11-02T05:23:19.451Z",
+ "updated": "2026-11-04T05:45:13.898Z",
  "source": "https://robloxden.com/game-codes/bahay-kubo-garden"
 }

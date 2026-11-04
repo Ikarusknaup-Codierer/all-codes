@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "VAMPIRERETURN",
+   "reward": "15 Lucky Style Spins , 15 Lucky Zone Spins , and 50,000 Money"
+  },
+  {
+   "code": "15VAMPIRERETURN",
+   "reward": "10 Lucky Style Spins , 10 Lucky Zone Spins , and 100,000 Money . Requi"
+  },
+  {
    "code": "15JOHNNYRETURN",
    "reward": "10 Lucky Style Spins , 10 Lucky Zone Spins , and 100,000 Money"
   },
@@ -39,6 +47,6 @@
    "reward": "20 Lucky Style Spins and 20 Lucky Zone Spins"
   }
  ],
- "updated": "2026-11-02T05:27:22.278Z",
+ "updated": "2026-11-04T14:04:20.308Z",
  "source": "https://robloxden.com/game-codes/basketball-zero"
 }

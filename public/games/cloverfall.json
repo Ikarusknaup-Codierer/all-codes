@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORDELAY2",
+   "reward": "3,000 Arcanite and 50 Clan Spins"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "5,000 Arcanite and 100 Clan Spins"
+  },
+  {
+   "code": "6KLIKES",
+   "reward": "5,000 Arcanite and 100 Clan Rolls"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "5,000 Arcanite and 100 Clan Rolls"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "3k Arcanite"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "2k Arcanite and 20 Clan Spins"
+  },
+  {
+   "code": "10KINTERESTED",
+   "reward": "3k Arcanite and 25 Clan Spins"
+  },
+  {
    "code": "UPDATE2",
    "reward": "5,000 Arcanite and 50 Clan Rolls"
   },
@@ -39,6 +67,6 @@
    "reward": "1,000 Arcanite and 10 Clan Rerolls"
   }
  ],
- "updated": "2026-11-02T15:16:58.750Z",
+ "updated": "2026-11-04T14:07:09.207Z",
  "source": "https://robloxden.com/game-codes/cloverfall"
 }

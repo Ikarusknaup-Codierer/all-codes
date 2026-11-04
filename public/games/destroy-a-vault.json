@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "BUGFIX2",
+   "reward": "38.38k cash"
+  },
+  {
+   "code": "10MVISITS",
+   "reward": "20x Admin Shards"
+  },
+  {
    "code": "MOREGEMS",
    "reward": "25,000 Gems"
   },
   {
-   "code": "BUGFIXES",
-   "reward": "57.53k cash"
+   "code": "ADMIN3",
+   "reward": "1 Admin Crate"
   },
   {
-   "code": "RELEASE",
-   "reward": "750 Cash"
+   "code": "BUGFIXES",
+   "reward": "57.53k cash"
   }
  ],
- "updated": "2026-11-02T05:26:26.009Z",
+ "updated": "2026-11-04T14:03:55.488Z",
  "source": "https://robloxden.com/game-codes/destroy-a-vault"
 }

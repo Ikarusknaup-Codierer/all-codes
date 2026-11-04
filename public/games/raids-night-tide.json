@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "QUALITY",
-   "reward": "3,000 cash"
-  },
-  {
    "code": "FIXES",
    "reward": "5,000 cash"
+  },
+  {
+   "code": "QUALITY",
+   "reward": "3,000 cash"
   },
   {
    "code": "INTERIOR",
@@ -23,6 +23,6 @@
    "reward": "3K Cash"
   }
  ],
- "updated": "2026-11-02T15:16:36.072Z",
+ "updated": "2026-11-04T14:06:44.767Z",
  "source": "https://robloxden.com/game-codes/raids-night-tide"
 }

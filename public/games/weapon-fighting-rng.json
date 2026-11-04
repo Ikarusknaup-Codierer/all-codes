@@ -11,10 +11,6 @@
    "reward": "3 Luck Boosts II , 3 Stone Boosts II , 3 Roll Speed Boosts II , and 3 "
   },
   {
-   "code": "arise2",
-   "reward": "2 Lucky Boost I, 2 Roll Speed Boost I, 2 Stone Boost I, And 2 EXP Boos"
-  },
-  {
    "code": "kun",
    "reward": "Free Rewards"
   },
@@ -23,10 +19,14 @@
    "reward": "Boosts"
   },
   {
-   "code": "shark",
+   "code": "friend",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "mount",
+   "reward": "Boosts"
   }
  ],
- "updated": "2026-11-02T15:17:31.298Z",
+ "updated": "2026-11-04T14:07:43.479Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-rng"
 }

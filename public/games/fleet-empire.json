@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CABOVER",
+   "reward": "a 3-Star Cabover Tractor-Trailer"
+  },
+  {
    "code": "CANDY",
    "reward": "500x Candy"
   },
@@ -39,6 +43,6 @@
    "reward": "10,000 Cash and x2 Delivery Speed (30 Minutes)"
   }
  ],
- "updated": "2026-11-02T15:19:43.094Z",
+ "updated": "2026-11-04T14:09:59.883Z",
  "source": "https://robloxden.com/game-codes/fleet-empire"
 }

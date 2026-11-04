@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "a Crown and 15 Candies"
+  },
+  {
    "code": "SUMMEREVENT2ELECTRICBOOGALOO",
    "reward": "2,000 Qubits and 30 Seashells"
   },
@@ -43,14 +47,14 @@
    "reward": "2 Crowns and 3,000 Qubits"
   },
   {
-   "code": "250LIKES!",
-   "reward": "2,000 Qubits"
+   "code": "150LIKES",
+   "reward": ""
   },
   {
    "code": "DAILYQUESTS",
    "reward": "2,500 Qubits"
   }
  ],
- "updated": "2026-11-02T05:25:03.590Z",
+ "updated": "2026-11-04T14:03:17.171Z",
  "source": "https://robloxden.com/game-codes/quantify"
 }

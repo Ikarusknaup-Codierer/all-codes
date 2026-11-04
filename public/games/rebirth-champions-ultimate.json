@@ -59,10 +59,6 @@
    "reward": "1 Fruit Chest"
   },
   {
-   "code": "wildwest",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "lovely",
    "reward": "Free Rewards"
   },
@@ -89,10 +85,6 @@
   {
    "code": "cloud",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "balloon",
-   "reward": "One Giant Luck Potion, Three Red Balloons, One Blue Balloon, Three Gre"
   },
   {
    "code": "garden",
@@ -245,8 +237,16 @@
   {
    "code": "monochrone",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "wildwest",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "balloon",
+   "reward": "One Giant Luck Potion, Three Red Balloons, One Blue Balloon, Three Gre"
   }
  ],
- "updated": "2026-11-02T15:19:23.425Z",
+ "updated": "2026-11-04T14:09:38.169Z",
  "source": "https://robloxden.com/game-codes/rebirth-champions-ultimate"
 }

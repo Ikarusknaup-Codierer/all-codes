@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEENSOON",
+   "reward": "10 Universal Spins"
+  },
+  {
+   "code": "MAJORFIXS",
+   "reward": "10 Universal Spins"
+  },
+  {
+   "code": "PURGATORY",
+   "reward": "10 Universal Spins"
+  },
+  {
+   "code": "LOVEFIX",
+   "reward": "10 Universal Spins"
+  },
+  {
+   "code": "MUSICUPDATE",
+   "reward": "10 Universal Spins"
+  },
+  {
+   "code": "MAGICREWORK",
+   "reward": "15 Universal Spins"
+  },
+  {
+   "code": "BITDEADLYSINS",
+   "reward": "10 Universal Spins"
+  },
+  {
    "code": "BITSINSRELEASE",
    "reward": "500 Gold , 50 Gems , and 5 Universal Spins"
   },
@@ -15,6 +43,6 @@
    "reward": "250 Gold , 25 Gems , 10 Merit , and 3 Universal Spins"
   }
  ],
- "updated": "2026-11-03T00:47:35.589Z",
+ "updated": "2026-11-04T23:30:07.439Z",
  "source": "https://robloxden.com/game-codes/bitdeadlysins"
 }

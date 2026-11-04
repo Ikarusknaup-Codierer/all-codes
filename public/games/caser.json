@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "SEASON",
-   "reward": "30,000 Coins"
+   "code": "CASERDONE",
+   "reward": "10,000 Coins"
   },
   {
-   "code": "READY",
-   "reward": "rewards"
+   "code": "CASER",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "SEASON",
+   "reward": "30,000 Coins"
   }
  ],
- "updated": "2026-11-03T00:49:56.331Z",
+ "updated": "2026-11-04T23:32:10.799Z",
  "source": "https://robloxden.com/game-codes/caser"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SPRING",
-   "reward": "Free Hat"
-  },
-  {
    "code": "SPOOKY",
    "reward": "Free Hat"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Eyelashes"
   },
   {
+   "code": "SPRING",
+   "reward": "Free Hat"
+  },
+  {
    "code": "SANTA",
    "reward": "Free Hat"
   }
  ],
- "updated": "2026-11-02T15:22:52.079Z",
+ "updated": "2026-11-04T23:29:09.991Z",
  "source": "https://robloxden.com/game-codes/dress-to-slay"
 }

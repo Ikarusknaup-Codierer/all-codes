@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "TwentyFourthScare",
+   "reward": "25 Rerolls"
+  },
+  {
+   "code": "HowScaryIsTheTwentyFourth",
+   "reward": "25 Rerolls"
+  },
+  {
+   "code": "IsThisReallyTheUpdate",
+   "reward": "25 Rerolls"
+  },
+  {
+   "code": "WillShigakuGetScarier",
+   "reward": "25 Rerolls"
+  },
+  {
    "code": "HALLOWEEN2026",
    "reward": "150x Rerolls"
   },
@@ -63,6 +79,6 @@
    "reward": "25x Rerolls"
   }
  ],
- "updated": "2026-11-02T15:23:53.872Z",
+ "updated": "2026-11-04T23:29:51.146Z",
  "source": "https://robloxden.com/game-codes/shigaku"
 }

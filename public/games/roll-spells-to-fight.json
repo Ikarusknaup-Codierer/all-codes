@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "HAUNTEDCASTLE",
+   "reward": "3 Luck Potions and 2 Basic Runes"
+  },
+  {
+   "code": "REAPERSHARVEST",
+   "reward": "1 Divine Potion"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "2 Singularity Wheel Spins"
+  },
+  {
+   "code": "SPOOKYSPELLS",
+   "reward": "3 Singularity Wheel Spins"
   }
  ],
- "updated": "2026-11-02T15:21:35.921Z",
+ "updated": "2026-11-04T23:28:07.209Z",
  "source": "https://robloxden.com/game-codes/roll-spells-to-fight"
 }

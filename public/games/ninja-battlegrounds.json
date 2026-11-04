@@ -15,8 +15,8 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "!1010",
-   "reward": "$100"
+   "code": "!fix2",
+   "reward": "75¥"
   },
   {
    "code": "awake",
@@ -27,6 +27,6 @@
    "reward": "Early Access (3 days)"
   }
  ],
- "updated": "2026-11-02T15:21:24.446Z",
+ "updated": "2026-11-04T23:27:57.846Z",
  "source": "https://robloxden.com/game-codes/ninja-battlegrounds"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD11ISHERE",
+   "reward": "1 Admin Egg and 5x Win Boosts"
+  },
+  {
+   "code": "ESCAPETHEMAZE",
+   "reward": "5 Admin Eggs and 2x Candy Boosts"
+  },
+  {
    "code": "HALLOWEEN26",
    "reward": "5 Pumpkin Eggs"
   },
@@ -55,6 +63,6 @@
    "reward": "1 Admin Egg"
   }
  ],
- "updated": "2026-11-03T00:53:38.574Z",
+ "updated": "2026-11-04T23:35:38.359Z",
  "source": "https://robloxden.com/game-codes/superhero-evolution"
 }

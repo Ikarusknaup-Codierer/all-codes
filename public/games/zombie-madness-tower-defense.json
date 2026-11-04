@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Boost",
+   "reward": "A Reward"
+  },
+  {
    "code": "Event",
    "reward": "A Reward"
   },
@@ -17,12 +21,8 @@
   {
    "code": "X2BRAINSAGAIN",
    "reward": "A Reward"
-  },
-  {
-   "code": "Sapnap",
-   "reward": "1,000 Z-Coins"
   }
  ],
- "updated": "2026-11-03T00:57:08.190Z",
+ "updated": "2026-11-04T23:38:22.808Z",
  "source": "https://robloxden.com/game-codes/zombie-madness-tower-defense"
 }

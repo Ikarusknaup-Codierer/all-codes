@@ -15,18 +15,18 @@
    "reward": "Rewards"
   },
   {
-   "code": "50MII",
-   "reward": "Free Rewards"
+   "code": "questline",
+   "reward": "Luck Potion VI (135 minutes)"
   },
   {
-   "code": "samuraisword",
-   "reward": "+90% Luck (2 hours)"
+   "code": "hubbletelescope",
+   "reward": "+90% Luck (1 hour)"
   },
   {
    "code": "apothecary",
    "reward": "+90% Levels (1 hour)"
   }
  ],
- "updated": "2026-11-03T00:50:09.847Z",
+ "updated": "2026-11-04T23:32:24.201Z",
  "source": "https://robloxden.com/game-codes/admin-simulator"
 }

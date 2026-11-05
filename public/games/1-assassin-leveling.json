@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "x2 Wins (10 mins) and 1,000 Boss Coins"
+  },
+  {
+   "code": "14KCCU",
+   "reward": "x3 Strength (15 mins) and 1 Rebirth Skip"
+  },
+  {
+   "code": "WORLD5",
+   "reward": "500 Boss Coins"
+  },
+  {
+   "code": "LEVELING",
+   "reward": "20 Levels"
   }
  ],
- "updated": "2026-11-04T05:38:16.159Z",
+ "updated": "2026-11-05T23:35:19.870Z",
  "source": "https://robloxden.com/game-codes/1-assassin-leveling"
 }

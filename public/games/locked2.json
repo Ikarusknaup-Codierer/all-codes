@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "BUGFIXESWOW",
+   "reward": "10,000 Yen"
+  },
+  {
+   "code": "GRIEFVERIFIED",
+   "reward": "20,000 Yen and 5 Lucky Spins"
+  },
+  {
+   "code": "TOURNEYREWORK",
+   "reward": "15,000 Yen and 500 Tournament Yen"
+  },
+  {
+   "code": "KARASUANDHIORILATEROKIMREALLYSORRY",
+   "reward": "10,000 Yen and 30 Spins"
+  },
+  {
+   "code": "SORRYFORROLLBACK",
+   "reward": "Yen"
+  },
+  {
    "code": "PICKUPS",
    "reward": "35,000 Yen"
   },
@@ -103,6 +123,6 @@
    "reward": "7,500 Yen"
   }
  ],
- "updated": "2026-11-03T23:07:46.883Z",
+ "updated": "2026-11-05T23:30:00.716Z",
  "source": "https://robloxden.com/game-codes/locked2"
 }

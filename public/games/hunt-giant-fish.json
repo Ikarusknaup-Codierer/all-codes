@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LUNARDRAGONEND",
+   "reward": "10x Lucky Tickets , 1x 100% Crit Potion , and 1x VVIP Damage Potion"
+  },
+  {
+   "code": "DRAGONMISSIONEND",
+   "reward": "1x Sea Puff Food Item , 1x VVIP Damage Potion , and 1x 100% Crit Potio"
+  },
+  {
    "code": "DRAGONMISSION",
    "reward": "a Sea Puff Food Item , a VVIPDamage Potion , and a 100% Crit Potion"
   },
@@ -143,14 +151,14 @@
    "reward": "5 Potions"
   },
   {
-   "code": "GALAXY",
-   "reward": "150 Gems and a 15-Minute Luck Boost"
-  },
-  {
    "code": "FREELUCK",
    "reward": "a 15-Minute Luck Potion"
+  },
+  {
+   "code": "NEWYEAR2026!",
+   "reward": "Potions"
   }
  ],
- "updated": "2026-11-03T23:09:44.777Z",
+ "updated": "2026-11-05T23:31:36.714Z",
  "source": "https://robloxden.com/game-codes/hunt-giant-fish"
 }

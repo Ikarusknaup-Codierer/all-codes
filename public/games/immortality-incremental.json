@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LASTD1UPD",
-   "reward": "10 Tickets and 1 of Each Path Potion"
-  },
-  {
-   "code": "ALCHEMY",
-   "reward": "10 Jades and 3 of Each Mark Potion"
-  },
-  {
    "code": "MININGEXPANSION",
    "reward": "10 Tickets and 10 Jade"
   },
@@ -35,8 +27,12 @@
    "reward": "1 Curse Potion and 10 Jade"
   },
   {
-   "code": "DUNGEON4",
-   "reward": "15 Jades and 1 Potion of Everything"
+   "code": "LASTD1UPD",
+   "reward": "10 Tickets and 1 of Each Path Potion"
+  },
+  {
+   "code": "ALCHEMY",
+   "reward": "10 Jades and 3 of Each Mark Potion"
   },
   {
    "code": "ORIGINSECRETS",
@@ -343,6 +339,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-11-03T23:10:43.149Z",
+ "updated": "2026-11-05T23:32:33.104Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

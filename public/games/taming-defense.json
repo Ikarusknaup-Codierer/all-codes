@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "!UPDATE",
+   "reward": "200 Gold , 30 Ruby , and 2 Daily Spins"
+  },
+  {
    "code": "!5000LIKE",
    "reward": "200 Gold , 30 Rubies , and 2 Daily Spins"
   },
@@ -23,6 +27,6 @@
    "reward": "100 Gold"
   }
  ],
- "updated": "2026-11-03T23:13:40.959Z",
+ "updated": "2026-11-05T23:34:39.918Z",
  "source": "https://robloxden.com/game-codes/taming-defense"
 }

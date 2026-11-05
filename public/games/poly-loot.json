@@ -31,14 +31,18 @@
    "reward": "1,000 Coins , 500 EXP , and 5 Weapon Tier Scrolls"
   },
   {
-   "code": "DARKFOREST",
-   "reward": "8x Weapon Tier Scroll , 8x Armor Tier Scroll , and 8x Mount Tier Scrol"
+   "code": "BEACH",
+   "reward": "8 Weapon Tier Scrolls , 8 Armor Tier Scrolls , and 8 Mount Tier Scroll"
   },
   {
-   "code": "CLANS",
-   "reward": "5x Weapon Tier Scroll , 5x Armor Tier Scroll , and 5x Mount Tier Scrol"
+   "code": "GONEFISHING",
+   "reward": "10 Golden Bait and 2 Lucky Charm"
+  },
+  {
+   "code": "CRABDANCE",
+   "reward": "the Crab Dance Emote"
   }
  ],
- "updated": "2026-11-03T23:10:07.788Z",
+ "updated": "2026-11-05T23:32:00.646Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

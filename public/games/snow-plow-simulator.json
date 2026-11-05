@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Christmas45",
-   "reward": "45,000 Gems"
-  },
-  {
    "code": "begginer",
    "reward": "Reward"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "SnowPlow",
-   "reward": "5,000 Snow"
+   "code": "Update",
+   "reward": "15,000 Gems"
+  },
+  {
+   "code": "Likes40k",
+   "reward": "20,000 Gems"
   }
  ],
- "updated": "2026-11-04T05:47:45.339Z",
+ "updated": "2026-11-05T23:43:50.834Z",
  "source": "https://robloxden.com/game-codes/snow-plow-simulator"
 }

@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "200 Candies"
+  },
+  {
+   "code": "NEW_BIOMES",
+   "reward": "10 Tickets"
   }
  ],
- "updated": "2026-11-03T23:11:43.389Z",
+ "updated": "2026-11-05T23:33:25.271Z",
  "source": "https://robloxden.com/game-codes/a-long-walk"
 }

@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "halloween",
+   "reward": "1 Cash Potion"
+  },
+  {
+   "code": "Magia",
+   "reward": "a Trex Pet"
+  },
+  {
+   "code": "Release",
+   "reward": "a Lizard Pet"
   }
  ],
- "updated": "2026-11-03T23:11:42.697Z",
+ "updated": "2026-11-05T23:33:24.554Z",
  "source": "https://robloxden.com/game-codes/dont-steal-my-eggs"
 }

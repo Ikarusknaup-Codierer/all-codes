@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATEHALLOWEEN",
+   "reward": "1,000 Crystals , 1 Blessed Roll , and 1,500 Candy"
+  },
+  {
+   "code": "SORRYFORSHUTDOWNHALLOWEEN",
+   "reward": "3 Divine Rolls"
+  },
+  {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "Cursed Fingers and Divine Rerolls . You must atleast ahve 10,000 rolls"
+  },
+  {
+   "code": "SPOOKYCAPSULE",
+   "reward": "Cursed Fingers and Divine Rerolls . You must atleast ahve 100,000 roll"
+  },
+  {
+   "code": "HALLOWEENMODE",
+   "reward": "Cursed Fingers and Divine Rerolls . You must atleast ahve 50,000 rolls"
+  },
+  {
+   "code": "SKINS",
+   "reward": "Cursed Fingers and Divine Rerolls . You must atleast ahve 25,000 rolls"
+  },
+  {
+   "code": "HALLOWEENISLAND",
+   "reward": "Cursed Fingers and Divine Rerolls . You must atleast ahve 10,000 rolls"
+  },
+  {
+   "code": "SORRYFORSHUTDOWNHALLOWEEN2",
+   "reward": "1 Divine Roll and 3,000 Candy"
+  },
+  {
    "code": "UPDATESHINOBI",
    "reward": "1,000 Crystals and a Blessed Roll"
   },
@@ -271,6 +303,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-11-04T05:39:00.962Z",
+ "updated": "2026-11-05T23:36:08.554Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

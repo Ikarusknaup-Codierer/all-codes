@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "InfiniteTower",
+   "reward": "1,500 Spirit Jade"
+  },
+  {
+   "code": "DynastyUpdate",
+   "reward": "2,000 Spirit Jade"
+  },
+  {
+   "code": "CrimsonEmperor",
+   "reward": "1,500 Spirit Jade"
+  },
+  {
    "code": "Spiritbeasts",
    "reward": "500 Spirit Jades"
   },
   {
-   "code": "HeavenRealm",
+   "code": "5kccu",
    "reward": "500 Spirit Jade"
   }
  ],
- "updated": "2026-11-03T23:09:54.830Z",
+ "updated": "2026-11-05T23:31:46.839Z",
  "source": "https://robloxden.com/game-codes/cultivation-evermortal"
 }

@@ -51,6 +51,10 @@
    "reward": "50 Diamonds"
   },
   {
+   "code": "ASTRONAUT",
+   "reward": "Rewards . You must be at least level 3 to use this code"
+  },
+  {
    "code": "Submarine",
    "reward": "Rewards . You must be at least level 3 to use this code"
   },
@@ -327,6 +331,6 @@
    "reward": "50 Diamonds"
   }
  ],
- "updated": "2026-11-03T23:10:02.907Z",
+ "updated": "2026-11-05T23:31:54.073Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

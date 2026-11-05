@@ -11,22 +11,22 @@
    "reward": "50 Wins"
   },
   {
-   "code": "NewYear",
-   "reward": "Double Power Boost (10 Minutes)"
-  },
-  {
    "code": "Climb",
    "reward": "Double Power Boost (10 Minutes)"
   },
   {
-   "code": "Dungeons",
-   "reward": "Double Coins Boost (10 Minutes)"
+   "code": "ASFS",
+   "reward": "Boost"
+  },
+  {
+   "code": "Christmas",
+   "reward": "Super Luck Boost (20 Minutes)"
   },
   {
    "code": "FeelingLucky",
    "reward": "Super Luck Boost (5 Minutes)"
   }
  ],
- "updated": "2026-11-04T05:48:55.329Z",
+ "updated": "2026-11-05T23:44:07.819Z",
  "source": "https://robloxden.com/game-codes/missile-simulator"
 }

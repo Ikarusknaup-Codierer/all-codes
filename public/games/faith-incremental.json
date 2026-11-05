@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CANDYCORN",
+   "reward": "the Candy Corn Companion"
+  },
+  {
    "code": "BLINKYFISH",
    "reward": "the Blinky Mascot Companion"
   },
@@ -79,6 +83,6 @@
    "reward": "2 2x Soul Potions (15 Minutes)"
   }
  ],
- "updated": "2026-11-03T23:10:57.734Z",
+ "updated": "2026-11-05T23:32:44.199Z",
  "source": "https://robloxden.com/game-codes/faith-incremental"
 }

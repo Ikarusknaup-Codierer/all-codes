@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MILITARY",
+   "reward": "200 AirMiles"
+  },
+  {
+   "code": "OCTOBER",
+   "reward": "300 AirMiles"
+  },
+  {
    "code": "OPERATIONS",
    "reward": "200 AirMiles"
   },
@@ -23,6 +31,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-03T23:10:29.046Z",
+ "updated": "2026-11-05T23:32:21.082Z",
  "source": "https://robloxden.com/game-codes/air-traffic-simulator"
 }

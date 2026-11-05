@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "halloween",
+   "reward": "100 Orbs , 10 Boss Keys , and 50 Candies"
+  },
+  {
    "code": "beach",
    "reward": "25 Orbz"
   },
@@ -79,6 +83,6 @@
    "reward": "20 Orbs"
   }
  ],
- "updated": "2026-11-03T23:08:54.850Z",
+ "updated": "2026-11-05T23:30:47.685Z",
  "source": "https://robloxden.com/game-codes/the-cul-de-sac"
 }

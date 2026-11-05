@@ -1,32 +1,20 @@
 {
  "slug": "anime-nexus",
- "name": "Anime Nexus",
+ "name": "Anime Nexus RNG X",
  "codes": [
   {
    "code": "Code",
    "reward": "Description"
   },
   {
-   "code": "oficialrelease",
-   "reward": "1 All Potions"
+   "code": "HALLOWEEN",
+   "reward": "250 Halloween Candy , 60 Super Stat Chips , 2 Mutation Chests , 60 Tra"
   },
   {
-   "code": "UPDATE5",
-   "reward": "Freebies"
-  },
-  {
-   "code": "SHUTDOWN",
-   "reward": "1 Nex Potion I , 1 Damage Potion I , 1 Drop Potion I , 1 Luck Potion I"
-  },
-  {
-   "code": "2KLIKES",
-   "reward": "20 Nebux , 25 Iceburst Crystals , 25 Titan Serum , 2 Nex Potion I , 2 "
-  },
-  {
-   "code": "1KLIKES",
-   "reward": "20 Nebux , 1 Nex Potion I , 1 Damage Potion I , 1 Drop Potion I , 1 Lu"
+   "code": "ZAFKIEL",
+   "reward": "500 Halloween Candy , 55 Super Stat Chips , 55 Trait Rerolls , 100 Sta"
   }
  ],
- "updated": "2026-11-04T05:41:25.060Z",
+ "updated": "2026-11-05T23:38:51.133Z",
  "source": "https://robloxden.com/game-codes/anime-nexus"
 }

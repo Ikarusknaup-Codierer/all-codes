@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "a Pumpkin Chair"
+  },
+  {
    "code": "ITSTHEWORLDCUPTIME!",
    "reward": "1 Penalty Card Chair and 100 Bux"
   },
@@ -27,14 +31,14 @@
    "reward": "1 Sunrise Chair and 1 Rare Chair"
   },
   {
-   "code": "WOHOO",
-   "reward": "the Laugh Chair"
+   "code": "HAPPYEASTER",
+   "reward": "the Exclusive Easter Chair"
   },
   {
-   "code": "NEWCODEYAY",
-   "reward": "250 Bux"
+   "code": "WOHOO",
+   "reward": "the Laugh Chair"
   }
  ],
- "updated": "2026-11-03T23:07:58.257Z",
+ "updated": "2026-11-05T14:36:14.354Z",
  "source": "https://robloxden.com/game-codes/stop-the-timer"
 }

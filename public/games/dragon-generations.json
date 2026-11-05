@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "onemoredelayLDevs",
+   "reward": "Stat Reset"
+  },
+  {
    "code": "BadBalancingSorry",
    "reward": "50 Mastery Points"
   },
@@ -27,10 +31,10 @@
    "reward": "a HTC/GC Cooldown Reset"
   },
   {
-   "code": "PATHSSOON!",
+   "code": "PATHSBUGFIXING!",
    "reward": "1 Hour of 2x EXP"
   }
  ],
- "updated": "2026-11-03T23:06:10.830Z",
+ "updated": "2026-11-05T14:34:27.904Z",
  "source": "https://robloxden.com/game-codes/dragon-generations"
 }

@@ -7,23 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "PATCH08",
-   "reward": "8,000 Ghoulars"
-  },
-  {
-   "code": "JUNETEENTH",
-   "reward": "5,000 Ghoulars"
-  },
-  {
-   "code": "PATCH07",
-   "reward": "7,000 Ghoulars"
-  },
-  {
    "code": "PATCH06",
-   "reward": "5,000 Ghoulars"
-  },
-  {
-   "code": "WELCOMEBACK",
    "reward": "5,000 Ghoulars"
   },
   {
@@ -127,10 +111,26 @@
    "reward": "4,444 Ghoulars"
   },
   {
+   "code": "PATCH08",
+   "reward": "8,000 Ghoulars"
+  },
+  {
+   "code": "JUNETEENTH",
+   "reward": "5,000 Ghoulars"
+  },
+  {
+   "code": "PATCH07",
+   "reward": "7,000 Ghoulars"
+  },
+  {
+   "code": "WELCOMEBACK",
+   "reward": "5,000 Ghoulars"
+  },
+  {
    "code": "Daisy20Ghoulars",
    "reward": "the Denim Miniskirt and 20 Ghoulars"
   }
  ],
- "updated": "2026-11-03T23:03:05.848Z",
+ "updated": "2026-11-05T14:31:25.605Z",
  "source": "https://robloxden.com/game-codes/monsterverze"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "bowtotheboss",
-   "reward": "7,500 Cash and a Coin Booster"
-  },
-  {
    "code": "raidthecastle",
    "reward": "6 Rare Fusion Shards and 3 Forge Stones"
   },
@@ -63,6 +59,10 @@
    "reward": "100 Gear Lucky Spins , 100 Weapon Lucky Spins , 1.5M Gold , 150 Runes "
   },
   {
+   "code": "bowtotheboss",
+   "reward": "7,500 Cash and a Coin Booster"
+  },
+  {
    "code": "noherocanwin",
    "reward": "3 Epic Fusion Shards and 1 Shard Drop Boost"
   },
@@ -71,6 +71,6 @@
    "reward": "a Soul Booster , 5 Epic Fusion Shards , and 3 Spin Tickets"
   }
  ],
- "updated": "2026-11-03T14:01:57.653Z",
+ "updated": "2026-11-05T14:29:10.543Z",
  "source": "https://robloxden.com/game-codes/be-the-final-boss"
 }

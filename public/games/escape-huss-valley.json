@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "INFECTION",
+   "reward": "150 Candy Corn and 500 Coins"
+  },
+  {
    "code": "CANDY",
    "reward": "150 Candy Corns and 500 Coins"
   },
@@ -23,6 +27,6 @@
    "reward": "2x Gem Boost (15 Minutes) , +100 Gems and a random emote (e.g. E Dance"
   }
  ],
- "updated": "2026-11-03T14:04:01.233Z",
+ "updated": "2026-11-05T14:30:54.385Z",
  "source": "https://robloxden.com/game-codes/escape-huss-valley"
 }

@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "KNIGHTUPGRADE",
-   "reward": "Freebies"
+   "code": "SPOOKYSEASON",
+   "reward": "III Knight EXP, III Noble EXP, III Priest EXP, III Monarch EXP and III"
   },
   {
-   "code": "BAKERSDOZEN",
-   "reward": "1,000 Villager EXP"
+   "code": "TURNIPPATCH",
+   "reward": "67 Knight EXP, 67 Noble EXP, 67 Priest EXP, 67 Monarch EXP and 67 Vill"
+  },
+  {
+   "code": "HALLOWEEN2026",
+   "reward": "225K Gold"
   },
   {
    "code": "GETTOWORK",
    "reward": "676 Priest EXP and 676 Knight EXP"
+  },
+  {
+   "code": "BIGBOOM24",
+   "reward": "1,000 Gold and 1,000 EXP for all Roles"
   }
  ],
- "updated": "2026-11-03T14:03:25.358Z",
+ "updated": "2026-11-05T14:30:29.117Z",
  "source": "https://robloxden.com/game-codes/medieval-life"
 }

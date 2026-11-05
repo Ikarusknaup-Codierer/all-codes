@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "20MVISITS",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "120KFAVORITES",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "NEWDEFENSE",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "SHUTSHUT",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "TALISMANS",
+   "reward": "200 Emeralds"
+  },
+  {
    "code": "18MVISITS",
    "reward": "200 Emeralds"
   },
@@ -235,6 +255,6 @@
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
   }
  ],
- "updated": "2026-11-03T14:05:49.360Z",
+ "updated": "2026-11-05T14:31:18.850Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

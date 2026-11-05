@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "MEOW",
+   "reward": "250 Kibbles"
+  },
+  {
+   "code": "GNPOTIONS",
+   "reward": "2 Luck Boost (15 Minutes) , 2 Super Luck Boost (15 Minutes) , 2 Cash B"
+  },
+  {
+   "code": "TYFOR200CCU",
+   "reward": "3 Pajama Party Pack , a Luck Boost (15 Minutes) and a Cash Boost (15 M"
+  },
+  {
+   "code": "RIPIT1K",
+   "reward": "2,000 Kibbles and a Cash Boost (15 Minutes)"
+  },
+  {
+   "code": "RIPIT500",
+   "reward": "1,000 Kibbles and a Super Luck Boost (15 Minutes)"
+  },
+  {
+   "code": "RIPIT100",
+   "reward": "500 Kibbles and a Luck Boost (15 Minutes)"
+  },
+  {
    "code": "NEWAUTOSELL",
    "reward": "1,000 Kibble , 3 of Your Best Packs , 1 Luck Potion , and 1 Cash Potio"
   },
@@ -15,6 +39,6 @@
    "reward": "2,500 Kibbles"
   }
  ],
- "updated": "2026-11-03T14:03:32.154Z",
+ "updated": "2026-11-05T14:30:36.009Z",
  "source": "https://robloxden.com/game-codes/collect-cat-cards"
 }

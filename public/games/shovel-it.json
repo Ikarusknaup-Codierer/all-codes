@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BIGUPDATE!",
+   "reward": "10 Minutes of 2x Luck and Power"
+  },
+  {
    "code": "SORRY",
    "reward": "10 Minutes of Luck and 10 Minutes of Power"
   },
@@ -43,6 +47,6 @@
    "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-11-03T13:59:24.372Z",
+ "updated": "2026-11-05T14:27:00.227Z",
  "source": "https://robloxden.com/game-codes/shovel-it"
 }

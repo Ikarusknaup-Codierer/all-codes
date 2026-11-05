@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SEASON4",
+   "reward": "4,000 Cash"
+  },
+  {
+   "code": "UPDATE23",
+   "reward": "23,000 Cash"
+  },
+  {
    "code": "REVAMP26",
    "reward": "15,000 Cash"
   },
@@ -55,6 +63,6 @@
    "reward": "3k Cash"
   }
  ],
- "updated": "2026-11-03T23:07:44.909Z",
+ "updated": "2026-11-05T14:36:02.643Z",
  "source": "https://robloxden.com/game-codes/motor-legends-open-world-racing"
 }

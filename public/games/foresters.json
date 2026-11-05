@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASESOON",
+   "code": "3kccu",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "release",
+   "reward": "17 Rerolls and 2x XP (30 Minutes)"
+  },
+  {
+   "code": "2kccu",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "FADERISSORRY",
    "reward": ""
   },
   {
-   "code": "OG",
+   "code": "SORRYGUYS",
    "reward": ""
   }
  ],
- "updated": "2026-11-03T23:04:14.638Z",
+ "updated": "2026-11-05T14:32:33.848Z",
  "source": "https://robloxden.com/game-codes/foresters"
 }

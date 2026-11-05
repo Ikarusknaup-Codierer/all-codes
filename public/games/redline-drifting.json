@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "GOOSE",
-   "reward": "Reward"
-  },
-  {
    "code": "MAY",
    "reward": "Reward"
   },
@@ -23,10 +19,14 @@
    "reward": "Reward"
   },
   {
+   "code": "jdm",
+   "reward": "Reward"
+  },
+  {
    "code": "RD2021",
    "reward": "6,000 Goosebucks"
   }
  ],
- "updated": "2026-11-03T14:01:21.879Z",
+ "updated": "2026-11-05T14:28:37.527Z",
  "source": "https://robloxden.com/game-codes/redline-drifting"
 }

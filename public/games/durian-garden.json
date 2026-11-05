@@ -7,14 +7,54 @@
    "reward": "Description"
   },
   {
+   "code": "Moddy",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "$1,000 Cash"
+  },
+  {
+   "code": "Petdurian",
+   "reward": "$1,000 Cash"
+  },
+  {
    "code": "POPPY5STAR",
    "reward": "$5,000"
   },
   {
    "code": "LOVEADMIN",
    "reward": "$10,000"
+  },
+  {
+   "code": "watergun",
+   "reward": "$8,000"
+  },
+  {
+   "code": "Tester",
+   "reward": "$5,000"
+  },
+  {
+   "code": "Sorry",
+   "reward": "$10,000"
+  },
+  {
+   "code": "Fixbug",
+   "reward": "$3,000"
+  },
+  {
+   "code": "ShanaKung",
+   "reward": "$3,000"
+  },
+  {
+   "code": "Durian",
+   "reward": "$500"
+  },
+  {
+   "code": "PALMTREE",
+   "reward": "$3,000"
   }
  ],
- "updated": "2026-11-03T23:04:07.305Z",
+ "updated": "2026-11-05T14:32:26.533Z",
  "source": "https://robloxden.com/game-codes/durian-garden"
 }

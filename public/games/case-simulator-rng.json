@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LagFix",
-   "reward": "Rewards . You must reach Level 10 to use this code"
-  },
-  {
    "code": "Halloween26",
    "reward": "Free Rewards . You must reach Level 10 to use this code"
   },
@@ -23,10 +19,14 @@
    "reward": "Rewards . You must reach Level 10 to use this code"
   },
   {
+   "code": "LagFix",
+   "reward": "Rewards . You must reach Level 10 to use this code"
+  },
+  {
    "code": "125kLikes",
    "reward": "rewards"
   }
  ],
- "updated": "2026-11-03T14:02:18.425Z",
+ "updated": "2026-11-05T14:29:32.228Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

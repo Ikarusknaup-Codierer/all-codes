@@ -19,10 +19,6 @@
    "reward": "5K Trophies"
   },
   {
-   "code": "TrophyHunt",
-   "reward": "4K Trophies"
-  },
-  {
    "code": "Milestone",
    "reward": "15K Strength"
   },
@@ -49,8 +45,12 @@
   {
    "code": "LuckySpin",
    "reward": "1 3x Luck Potion"
+  },
+  {
+   "code": "TrophyHunt",
+   "reward": "4K Trophies"
   }
  ],
- "updated": "2026-11-03T14:03:43.490Z",
+ "updated": "2026-11-05T14:30:43.740Z",
  "source": "https://robloxden.com/game-codes/1-fist-per-click"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Furnace",
+   "reward": "100 Prisms"
+  },
+  {
+   "code": "Prism",
+   "reward": "100 Prisms"
+  },
+  {
+   "code": "Somni",
+   "reward": "100 Prisms"
+  },
+  {
    "code": "Ether",
    "reward": "100 Prisms"
   },
@@ -15,6 +27,6 @@
    "reward": "500 Prisms"
   }
  ],
- "updated": "2026-11-03T14:05:55.220Z",
+ "updated": "2026-11-05T14:31:20.011Z",
  "source": "https://robloxden.com/game-codes/somnis-engine"
 }

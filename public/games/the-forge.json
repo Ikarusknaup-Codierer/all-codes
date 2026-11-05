@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GUILDS",
+   "reward": "5 Rerolls and a Resurrection Stone"
+  },
+  {
+   "code": "HALLOWEEN26",
+   "reward": "10 Rerolls and a Resurrection Stone"
+  },
+  {
    "code": "CRIMSONSAKURA",
    "reward": "15 Rerolls"
   },
@@ -15,6 +23,6 @@
    "reward": "Free Rerolls"
   }
  ],
- "updated": "2026-11-03T14:02:29.195Z",
+ "updated": "2026-11-05T14:29:43.885Z",
  "source": "https://robloxden.com/game-codes/the-forge"
 }

@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "2xluck",
+   "reward": "2x Luck (15 mins)"
+  },
+  {
+   "code": "2xhatchtime",
+   "reward": "2x Hatch Speed (15 mins)"
+  },
+  {
+   "code": "galewing",
+   "reward": "a Storm Galewing"
   }
  ],
- "updated": "2026-11-03T23:08:45.075Z",
+ "updated": "2026-11-05T14:36:57.466Z",
  "source": "https://robloxden.com/game-codes/ride-a-dragon"
 }

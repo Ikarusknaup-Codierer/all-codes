@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GHOST",
+   "reward": "Freebies"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "Freebies"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "180 Pumpkin Coins"
+  },
+  {
    "code": "NIGHTMARE",
    "reward": "2x Money Potion III"
   },
@@ -87,6 +99,6 @@
    "reward": "$5,000 Money"
   }
  ],
- "updated": "2026-11-03T23:04:02.567Z",
+ "updated": "2026-11-05T14:32:21.751Z",
  "source": "https://robloxden.com/game-codes/creepypastas-cards"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "RAIDENSHOGUN",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "MUSOUSHINSETSU",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 10 Boss Fragments"
+  },
+  {
    "code": "NIGHTTOKYOREZE",
    "reward": "300,000 Coins , 15 Raid Tickets , 1,500 Candy , 20 Trait Rerolls , 15 "
   },
@@ -231,6 +239,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-11-03T14:03:38.066Z",
+ "updated": "2026-11-05T14:30:40.258Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

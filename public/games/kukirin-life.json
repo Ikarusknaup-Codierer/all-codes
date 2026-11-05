@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "DEVBUGFIX",
+   "reward": "$1,000"
+  },
+  {
+   "code": "CR4TE",
+   "reward": "1 Basic Crate"
+  },
+  {
+   "code": "TEST1NG",
+   "reward": "$750"
+  },
+  {
+   "code": "KUK1L1F3",
+   "reward": "$500"
+  },
+  {
+   "code": "MORECR4TE",
+   "reward": "1 Basic Crate"
   }
  ],
- "updated": "2026-11-03T13:56:37.853Z",
+ "updated": "2026-11-05T06:02:31.886Z",
  "source": "https://robloxden.com/game-codes/kukirin-life"
 }

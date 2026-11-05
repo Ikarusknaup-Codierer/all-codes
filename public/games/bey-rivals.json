@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "LUCKYSPIN",
-   "reward": "3 Lucky Spins"
+   "code": "SPOOKYSEASON",
+   "reward": "8 Spin Tickets and 3 Lucky Spins"
   },
   {
-   "code": "AUTOSELL",
-   "reward": "2 Spin Tickets and 2 Lucky Spins"
+   "code": "BIGFIXUPDATE",
+   "reward": "7,500 Bey Points and 5 Spin Tickets"
+  },
+  {
+   "code": "RINGOUTFIX",
+   "reward": "5 Spin Tickets and 5 Lucky Spins"
+  },
+  {
+   "code": "BUGSQUASHED",
+   "reward": "6 Lucky Spins"
+  },
+  {
+   "code": "BALANCEPATCH",
+   "reward": "20,000 Bey Points and 15 Trait Tokens"
   }
  ],
- "updated": "2026-11-03T13:56:51.339Z",
+ "updated": "2026-11-05T06:02:45.016Z",
  "source": "https://robloxden.com/game-codes/bey-rivals"
 }

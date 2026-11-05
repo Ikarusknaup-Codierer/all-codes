@@ -7,30 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "pyramids",
+   "reward": "20,000 Cash"
+  },
+  {
    "code": "B21",
    "reward": "Free Cash"
   },
   {
-   "code": "C17",
+   "code": "NEWUPD",
+   "reward": "4,000 Cash"
+  },
+  {
+   "code": "30KLIKES",
    "reward": "Free Cash"
   },
   {
-   "code": "10KLIKES",
-   "reward": "$10k Cash"
-  },
-  {
-   "code": "5KLIKES",
-   "reward": "$5k Cash"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "5K Cash"
+   "code": "UPDATE",
+   "reward": "Free Cash"
   },
   {
    "code": "NEW",
    "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-11-03T13:57:07.949Z",
+ "updated": "2026-11-05T06:03:02.170Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

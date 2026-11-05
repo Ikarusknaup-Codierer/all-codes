@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BLOODMOON",
+   "reward": "500 Gems"
+  },
+  {
    "code": "COOKING",
    "reward": "5,000 Coins"
   },
@@ -35,6 +39,6 @@
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-11-03T00:59:10.821Z",
+ "updated": "2026-11-05T05:59:05.708Z",
  "source": "https://robloxden.com/game-codes/ice-fishing-simulator"
 }

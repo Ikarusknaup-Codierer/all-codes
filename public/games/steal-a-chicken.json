@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "3x Money for 48 hours and 3x Growth Boosts for 48 hours"
+  },
+  {
    "code": "CantWait",
    "reward": "3x Money and 3x Growth for 48 hours"
   },
@@ -35,6 +39,6 @@
    "reward": "75,000 Cash"
   }
  ],
- "updated": "2026-11-03T13:56:02.943Z",
+ "updated": "2026-11-05T06:01:59.413Z",
  "source": "https://robloxden.com/game-codes/steal-a-chicken"
 }

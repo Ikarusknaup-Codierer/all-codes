@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DarkonianWaits",
-   "reward": "2 Hours of Metallic Luck"
-  },
-  {
    "code": "IsSpinalStrangerTapThingsThis",
    "reward": "x2 Shiny Boost (2hrs)"
   },
@@ -219,6 +215,10 @@
    "reward": "6 Hours of Metallic Luck"
   },
   {
+   "code": "DarkonianWaits",
+   "reward": "2 Hours of Metallic Luck"
+  },
+  {
    "code": "IHateMondays",
    "reward": "x2 Gold Boost (2 Hours)"
   },
@@ -247,6 +247,6 @@
    "reward": "2 hours of x2 Metallic Boost"
   }
  ],
- "updated": "2026-11-03T01:03:16.119Z",
+ "updated": "2026-11-05T06:00:28.996Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "3ON3",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "BARISTA",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "CLERK",
+   "reward": "30 Rerolls"
+  },
+  {
    "code": "GIVEAWAY",
    "reward": "30x Rerolls"
   },
@@ -243,6 +255,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-11-03T00:57:30.388Z",
+ "updated": "2026-11-05T05:58:25.761Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

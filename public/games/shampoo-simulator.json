@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "Release",
-   "reward": "200 Coins"
+   "code": "lucky",
+   "reward": "Luck Boost For An Hour"
   },
   {
-   "code": "tdemon",
-   "reward": "Pet"
+   "code": "titles",
+   "reward": "Gems And Boost"
+  },
+  {
+   "code": "DOKIBU",
+   "reward": "1 DoKiBu Pet"
   }
  ],
- "updated": "2026-11-03T13:58:20.386Z",
+ "updated": "2026-11-05T06:04:06.083Z",
  "source": "https://robloxden.com/game-codes/shampoo-simulator"
 }

@@ -59,10 +59,6 @@
    "reward": "1 Chat Token"
   },
   {
-   "code": "corn",
-   "reward": "1 Chat Token"
-  },
-  {
    "code": "settingsnoway",
    "reward": "1 Chat Token"
   },
@@ -87,10 +83,6 @@
    "reward": "1 Basic Crate"
   },
   {
-   "code": "daily",
-   "reward": "1 Basic Crate"
-  },
-  {
    "code": "speeeed",
    "reward": "1 Basic Crate"
   },
@@ -99,16 +91,8 @@
    "reward": "10,000 Coins"
   },
   {
-   "code": "FONUFO",
-   "reward": "1 Trade Token"
-  },
-  {
    "code": "wal",
    "reward": "1 Shiny Wall"
-  },
-  {
-   "code": "thatswild",
-   "reward": "1 Trade Token"
   },
   {
    "code": "SUPERCHAT",
@@ -139,6 +123,10 @@
    "reward": "1 Basic Crate"
   },
   {
+   "code": "corn",
+   "reward": "1 Chat Token"
+  },
+  {
    "code": "candy",
    "reward": "1 Basic Crate"
   },
@@ -149,8 +137,20 @@
   {
    "code": "spamspam",
    "reward": "1 Chat Token"
+  },
+  {
+   "code": "daily",
+   "reward": "1 Basic Crate"
+  },
+  {
+   "code": "FONUFO",
+   "reward": "1 Trade Token"
+  },
+  {
+   "code": "thatswild",
+   "reward": "1 Trade Token"
   }
  ],
- "updated": "2026-11-03T01:03:14.051Z",
+ "updated": "2026-11-05T06:00:27.834Z",
  "source": "https://robloxden.com/game-codes/def-1"
 }

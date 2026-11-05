@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WELCOMEFRIEND",
+   "reward": "The code credits your account with the 2 Weapon Crates and 2 Building "
+  },
+  {
    "code": "HALLOWEEN2026",
    "reward": "120 Cash , 1 Weapon Crate , and 12 Building Boxes"
   },
@@ -35,10 +39,10 @@
    "reward": "12 Building Boxes , 2 Weapon Crates , and 80 Cash"
   },
   {
-   "code": "CONSOLE",
-   "reward": "2 Weapon Crates, and 60 Cash"
+   "code": "SUMMER2025",
+   "reward": "1 Weapon Crate and 50 Cash"
   }
  ],
- "updated": "2026-11-03T00:59:48.743Z",
+ "updated": "2026-11-05T05:59:10.880Z",
  "source": "https://robloxden.com/game-codes/imposters-and-roles"
 }

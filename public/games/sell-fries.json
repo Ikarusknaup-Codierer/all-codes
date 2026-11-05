@@ -7,26 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "FreeBoost",
+   "reward": "1.25x Gems (90 mins)"
+  },
+  {
    "code": "Ch2Soon",
    "reward": "500 Candies"
-  },
-  {
-   "code": "Potato",
-   "reward": "100 Gems"
-  },
-  {
-   "code": "Classes",
-   "reward": "5 Class Spins"
-  },
-  {
-   "code": "5000Members",
-   "reward": "50 Gems and 100 Candies"
   },
   {
    "code": "Halloween",
    "reward": "100 Candies"
   }
  ],
- "updated": "2026-11-03T13:57:28.553Z",
+ "updated": "2026-11-05T06:03:22.259Z",
  "source": "https://robloxden.com/game-codes/sell-fries"
 }

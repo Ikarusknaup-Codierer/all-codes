@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "a Double Cash Potion (10 Minutes)"
+  },
+  {
    "code": "TRAIN1",
    "reward": "a Train Potion"
   },
@@ -23,6 +27,6 @@
    "reward": "1 Lizard Pet"
   }
  ],
- "updated": "2026-11-03T13:57:02.048Z",
+ "updated": "2026-11-05T06:02:56.229Z",
  "source": "https://robloxden.com/game-codes/race-for-eggs"
 }

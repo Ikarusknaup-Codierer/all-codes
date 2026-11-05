@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ACTUALTRAITCHANGES",
+   "reward": "an 1 Premium Crate"
+  },
+  {
+   "code": "SORRYNOWIFI",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "PISTOLS",
    "reward": "1 Premium Crate"
   },
@@ -79,6 +87,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-11-03T13:57:28.025Z",
+ "updated": "2026-11-05T06:03:21.797Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

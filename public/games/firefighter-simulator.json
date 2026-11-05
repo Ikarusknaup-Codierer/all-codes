@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "5000LIKES",
-   "reward": "500 Cash"
-  },
-  {
    "code": "THANKYOU",
    "reward": "1,000 Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "1COAL",
    "reward": "1coalThis code credits your account with 100 Cash"
+  },
+  {
+   "code": "5000LIKES",
+   "reward": "500 Cash"
   }
  ],
- "updated": "2026-11-03T01:02:39.084Z",
+ "updated": "2026-11-05T05:59:59.073Z",
  "source": "https://robloxden.com/game-codes/firefighter-simulator"
 }

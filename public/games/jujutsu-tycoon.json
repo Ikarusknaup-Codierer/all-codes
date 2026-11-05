@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Shadows",
-   "reward": "20,000 Cash"
-  },
-  {
-   "code": "Quest",
-   "reward": "25,000 Coins"
-  },
-  {
    "code": "Autosave",
    "reward": "25,000 Cash"
   },
@@ -23,14 +15,18 @@
    "reward": "35,000 Cash"
   },
   {
-   "code": "Quality",
-   "reward": "30,000 Coins"
+   "code": "Shadows",
+   "reward": "20,000 Cash"
   },
   {
-   "code": "FirstCode",
-   "reward": "1,000 Coins"
+   "code": "Quest",
+   "reward": "25,000 Coins"
+  },
+  {
+   "code": "Quality",
+   "reward": "30,000 Coins"
   }
  ],
- "updated": "2026-11-03T13:55:58.719Z",
+ "updated": "2026-11-05T06:01:55.298Z",
  "source": "https://robloxden.com/game-codes/jujutsu-tycoon"
 }

@@ -7,8 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "s4ndw0rm",
-   "reward": "3 Raid Tickets"
+   "code": "ev0lution5",
+   "reward": "750 Keys and 5 Evolution Shards"
   },
   {
    "code": "firstswarm",
@@ -17,6 +17,14 @@
   {
    "code": "supdoggy",
    "reward": "100 Keys"
+  },
+  {
+   "code": "s0rry4shards",
+   "reward": "1 Evo Shard Potion"
+  },
+  {
+   "code": "s4ndw0rm",
+   "reward": "3 Raid Tickets"
   },
   {
    "code": "w0rldw1d3",
@@ -51,6 +59,6 @@
    "reward": "3 Golden Chests"
   }
  ],
- "updated": "2026-11-03T00:57:18.352Z",
+ "updated": "2026-11-05T05:58:16.000Z",
  "source": "https://robloxden.com/game-codes/final-swarm"
 }

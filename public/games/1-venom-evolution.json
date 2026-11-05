@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "WORLD2",
+   "reward": "x2 Wins (30 mins)"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "x2 Venom (30 mins) and 1 Revive"
+  },
+  {
+   "code": "SECRET",
+   "reward": "2x Venom , 2x Wins (15 mins) , and 1 Revive"
   }
  ],
- "updated": "2026-11-03T13:57:53.536Z",
+ "updated": "2026-11-05T06:03:42.136Z",
  "source": "https://robloxden.com/game-codes/1-venom-evolution"
 }

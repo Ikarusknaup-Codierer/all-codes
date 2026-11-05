@@ -15,18 +15,18 @@
    "reward": "a Regular Spin"
   },
   {
-   "code": "!ResetCode2",
-   "reward": "a Free Stat Reset"
+   "code": "!TestNoJutsu",
+   "reward": "a Level Up"
   },
   {
-   "code": "!SpinCode5",
-   "reward": "200 Spins And 50 Premium Spins"
+   "code": "!ClapItUp",
+   "reward": "a Level Up"
   },
   {
-   "code": "!PremSpin7",
-   "reward": "1 Premium Spin"
+   "code": "!PremiumSpin2",
+   "reward": "15 Premium Spins"
   }
  ],
- "updated": "2026-11-03T13:56:21.437Z",
+ "updated": "2026-11-05T06:02:16.571Z",
  "source": "https://robloxden.com/game-codes/rojutsu-blox"
 }

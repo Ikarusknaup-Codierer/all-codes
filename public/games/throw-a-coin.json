@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "x15 Luck (15 Minutes)"
+  },
+  {
    "code": "WORLD8",
    "reward": "x8 Luck (8 mins)"
   },
@@ -63,6 +67,6 @@
    "reward": "1 Rainbow Treasure Chest"
   }
  ],
- "updated": "2026-11-03T13:57:51.284Z",
+ "updated": "2026-11-05T06:03:40.078Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

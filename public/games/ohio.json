@@ -11,10 +11,6 @@
    "reward": "Helicopter Keys"
   },
   {
-   "code": "HYPERLASER",
-   "reward": "5,000 Cash"
-  },
-  {
    "code": "RICHINOHIO",
    "reward": "1,600 Cash"
   },
@@ -23,10 +19,14 @@
    "reward": "5,000 Cash"
   },
   {
+   "code": "IGOTAGUN",
+   "reward": "the M1911 Pistol"
+  },
+  {
    "code": "STPATRICK",
    "reward": "2,000 Cash"
   }
  ],
- "updated": "2026-11-03T13:57:17.284Z",
+ "updated": "2026-11-05T06:03:11.162Z",
  "source": "https://robloxden.com/game-codes/ohio"
 }

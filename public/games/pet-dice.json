@@ -7,10 +7,58 @@
    "reward": "Description"
   },
   {
+   "code": "750FAVS",
+   "reward": "3 Untradable Jackpot Spins"
+  },
+  {
+   "code": "750LIKES",
+   "reward": "3 Untradable Jackpot Spins"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "3 Untradable Jackpot Spins"
+  },
+  {
+   "code": "1KFAVS",
+   "reward": "3 Untradable Jackpot Spins"
+  },
+  {
+   "code": "1KMEMBERS",
+   "reward": "5 Untradable Jackpot Spins"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "3 Untradable Jackpot Spins"
+  },
+  {
+   "code": "LOADINGBUG",
+   "reward": "5 Untradable Jackpot Spins"
+  },
+  {
+   "code": "2KCCU",
+   "reward": "5 Untradable Jackpot Spins"
+  },
+  {
+   "code": "250KVISITS",
+   "reward": "5 Untradable Jackpot Spins"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "5 Untradable Jackpot Spins"
+  },
+  {
+   "code": "ETERNAL",
+   "reward": "5 Untradable Jackpot Spins"
+  },
+  {
+   "code": "HALLOWEENEXTENSION",
+   "reward": "1,000 Halloween Candy"
+  },
+  {
    "code": "RELEASE",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-05T06:01:01.553Z",
+ "updated": "2026-11-06T23:03:33.178Z",
  "source": "https://robloxden.com/game-codes/pet-dice"
 }

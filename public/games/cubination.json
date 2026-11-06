@@ -11,10 +11,6 @@
    "reward": "80 Gems and a Sacrificial Cube"
   },
   {
-   "code": "imhappyinlife",
-   "reward": "67 Gems and a Yuzi Cube"
-  },
-  {
    "code": "dirt",
    "reward": "50 Dirts"
   },
@@ -59,6 +55,10 @@
    "reward": "a Wawa Cube"
   },
   {
+   "code": "imhappyinlife",
+   "reward": "67 Gems and a Yuzi Cube"
+  },
+  {
    "code": "discord",
    "reward": "an Explosive Cube"
   },
@@ -99,6 +99,6 @@
    "reward": "a Certificate of Excellence"
   }
  ],
- "updated": "2026-11-05T06:00:45.768Z",
+ "updated": "2026-11-06T23:03:16.443Z",
  "source": "https://robloxden.com/game-codes/cubination"
 }

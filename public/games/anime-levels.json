@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Zanpakuto",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "Godlyyyy",
+   "reward": "200 Gems and 1 of Each Potion"
+  },
+  {
    "code": "Asta",
    "reward": "the 200 Gems, 1 Coin Potion, 1 Damage Potion, 1 Energy Potion, 1 Luck "
   },
@@ -63,26 +71,26 @@
    "reward": "a Coin Potion , a Damage Potion , a Drop Potion , an Energy Potion , a"
   },
   {
-   "code": "Hype",
-   "reward": "a Coin Potion , a Damage Potion , a Drop Potion , an Energy Potion , a"
-  },
-  {
    "code": "FreeGems",
    "reward": "200 Gems"
-  },
-  {
-   "code": "Release",
-   "reward": "300 Gems , a Super Energy Potion , and a Super Damage Potion"
   },
   {
    "code": "MoreGems",
    "reward": "200 Gems"
   },
   {
+   "code": "Hype",
+   "reward": "a Coin Potion , a Damage Potion , a Drop Potion , an Energy Potion , a"
+  },
+  {
+   "code": "Release",
+   "reward": "300 Gems , a Super Energy Potion , and a Super Damage Potion"
+  },
+  {
    "code": "Shrines",
    "reward": "100 Gems , a Coin Potion , a Damage Potion , a Drop Potion , an Energy"
   }
  ],
- "updated": "2026-11-05T05:56:54.753Z",
+ "updated": "2026-11-06T22:59:15.957Z",
  "source": "https://robloxden.com/game-codes/anime-levels"
 }

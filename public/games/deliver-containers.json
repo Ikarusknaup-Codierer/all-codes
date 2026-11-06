@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "RainyDay",
+   "reward": "50K Cash and 2x Cash (15 Minutes)"
+  },
+  {
+   "code": "FullMoon",
+   "reward": "3 Spins and 2x Luck (15 Minutes)"
+  },
+  {
+   "code": "Spooky",
+   "reward": "75K Cash and 5 Spins"
+  },
+  {
+   "code": "CrateTime",
+   "reward": "750 DP"
+  },
+  {
+   "code": "HighRoller",
+   "reward": "3 Spins and 2x Luck (20 Minutes)"
+  },
+  {
+   "code": "Nitro",
+   "reward": "50K Cash and 2x Cash (20 Minutes)"
+  },
+  {
+   "code": "Island",
+   "reward": "100K Cash and 10 Spins"
+  },
+  {
    "code": "BigTrailers",
    "reward": "2x Cash (15 Minutes)"
   },
@@ -15,6 +43,6 @@
    "reward": "50K Cash and 5 Spins"
   }
  ],
- "updated": "2026-11-05T06:01:04.402Z",
+ "updated": "2026-11-06T23:03:36.477Z",
  "source": "https://robloxden.com/game-codes/deliver-containers"
 }

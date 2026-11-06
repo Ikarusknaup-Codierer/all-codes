@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "RESETME7",
+   "code": "RACEMILLY",
+   "reward": "Race Spins"
+  },
+  {
+   "code": "YOUWANTTRYME",
+   "reward": "Exp"
+  },
+  {
+   "code": "STATRESET9",
    "reward": "a Stat Reset"
   },
   {
-   "code": "PEEKAPEEKABOO",
-   "reward": "Spins"
+   "code": "TAKEIT",
+   "reward": "free Race Spins"
   },
   {
-   "code": "RACECODEBUGGY",
-   "reward": "a reward"
-  },
-  {
-   "code": "CATASTROPHE",
-   "reward": "some free spins"
-  },
-  {
-   "code": "SOMERACE",
-   "reward": "Race Spins"
+   "code": "FAIRYKINGYUH",
+   "reward": "Magic Spins"
   }
  ],
- "updated": "2026-11-05T05:58:52.693Z",
+ "updated": "2026-11-06T23:01:18.427Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

@@ -5,8 +5,48 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "1KCCU",
+   "reward": "1KCCUThis code credits your account with 3 Crates"
+  },
+  {
+   "code": "LAUNCH",
+   "reward": "1KCCUThis code credits your account with 2,000 Coins and a Potion"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "1KCCUThis code credits your account with a 200% Luck (15 Minutes)"
+  },
+  {
+   "code": "INFERNO",
+   "reward": "1KCCUThis code credits your account with 3 Crates"
+  },
+  {
+   "code": "TRAILS",
+   "reward": "1KCCUThis code credits your account with 3 Keys"
+  },
+  {
+   "code": "POWERUP",
+   "reward": "2 Potions and a 200% Power (20 Minutes)"
+  },
+  {
+   "code": "COINRUSH",
+   "reward": "3,000 Coins and a 200% Power (15 Minutes)"
+  },
+  {
+   "code": "HATCHER",
+   "reward": "2 Keys and a 200% Power (20 Minutes)"
+  },
+  {
+   "code": "RACES",
+   "reward": "1KCCUThis code credits your account with 3 Race Rerolls"
   }
  ],
- "updated": "2026-11-05T05:57:43.538Z",
+ "updated": "2026-11-06T23:00:06.051Z",
  "source": "https://robloxden.com/game-codes/1-ride-pets-to-fight"
 }

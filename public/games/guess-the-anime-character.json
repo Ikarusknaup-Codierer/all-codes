@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SENPAI",
+   "reward": "1 Emote Crate"
+  },
+  {
+   "code": "ANIME",
+   "reward": "50 Crowns"
+  },
+  {
+   "code": "XOUBA",
+   "reward": "100 Crowns"
+  },
+  {
+   "code": "XOUBA50",
+   "reward": "150 Crowns"
+  },
+  {
+   "code": "XOUBA100",
+   "reward": "1 Emote Crate"
+  },
+  {
+   "code": "XOUBA250",
+   "reward": "300 Crowns"
   }
  ],
- "updated": "2026-11-05T05:58:45.951Z",
+ "updated": "2026-11-06T23:01:12.134Z",
  "source": "https://robloxden.com/game-codes/guess-the-anime-character"
 }

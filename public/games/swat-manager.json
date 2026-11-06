@@ -7,10 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "NEWCITY",
+   "reward": "Cash , 75 RP , and 1 Elite Personnel Rifle"
+  },
+  {
+   "code": "MANAGER1",
+   "reward": "a Duty Refill and 1-hour Timer Skip"
+  },
+  {
+   "code": "SWATTEAM",
+   "reward": "1 Uncommon Officer and 100 RP"
+  },
+  {
+   "code": "FRESHGEAR",
+   "reward": "Cash and 50 RP"
+  },
+  {
    "code": "ONDUTY",
    "reward": "15 Minutes of Cash , 100 RP , and a Full Duty Bar"
   }
  ],
- "updated": "2026-11-05T05:58:44.146Z",
+ "updated": "2026-11-06T23:01:10.475Z",
  "source": "https://robloxden.com/game-codes/swat-manager"
 }

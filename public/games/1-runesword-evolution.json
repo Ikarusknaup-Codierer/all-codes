@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Update4",
+   "reward": "1M Pet Essence"
+  },
+  {
+   "code": "Apxarena",
+   "reward": "1 Universal Core"
+  },
+  {
+   "code": "Update3",
+   "reward": "300 Trait Tickets"
+  },
+  {
+   "code": "Update1",
+   "reward": "100k Pet Essence, 1 Universal Core and 10 Trait Tickets"
+  },
+  {
+   "code": "Echopet",
+   "reward": "100k Pet Essence, 1 Trait Seal and 10 Trait Tickets"
+  },
+  {
+   "code": "Reincarnation",
+   "reward": "20 Trait Seals"
   }
  ],
- "updated": "2026-11-05T06:01:05.928Z",
+ "updated": "2026-11-06T23:03:38.465Z",
  "source": "https://robloxden.com/game-codes/1-runesword-evolution"
 }

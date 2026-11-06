@@ -7,6 +7,50 @@
    "reward": "Description"
   },
   {
+   "code": "HIGHWAYPATROL",
+   "reward": "10K Cash"
+  },
+  {
+   "code": "KLA674",
+   "reward": "6.74K cash"
+  },
+  {
+   "code": "CommBank",
+   "reward": "5K Cash"
+  },
+  {
+   "code": "AusPost",
+   "reward": "5K Cash"
+  },
+  {
+   "code": "NEUEKLASSE",
+   "reward": "5K Cash"
+  },
+  {
+   "code": "Bunnings",
+   "reward": "8K Cash"
+  },
+  {
+   "code": "Paanda",
+   "reward": "20K Cash"
+  },
+  {
+   "code": "Woolies",
+   "reward": "8K Cash"
+  },
+  {
+   "code": "Kmart",
+   "reward": "8K Cash"
+  },
+  {
+   "code": "Targa",
+   "reward": "5K Cash"
+  },
+  {
+   "code": "LikeTheGame",
+   "reward": "3K Cash"
+  },
+  {
    "code": "Aussie",
    "reward": "10K Cash"
   },
@@ -17,8 +61,12 @@
   {
    "code": "YARIS",
    "reward": "5K Cash"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "1K Cash"
   }
  ],
- "updated": "2026-11-05T06:01:03.329Z",
+ "updated": "2026-11-06T23:03:34.992Z",
  "source": "https://robloxden.com/game-codes/project-neue-klasse"
 }

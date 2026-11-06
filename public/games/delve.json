@@ -7,14 +7,38 @@
    "reward": "Description"
   },
   {
-   "code": "PIRATES",
-   "reward": "10 Race Rerolls and an XP Potion"
+   "code": "1500LIKES",
+   "reward": "20 Candy and a Luck Potion"
   },
   {
-   "code": "UNMAKER",
-   "reward": "5 Race Rerolls and a Luck Potion"
+   "code": "HALLOWEEN",
+   "reward": "30 Rerolls , 25 Candy , and a Luck Potion"
+  },
+  {
+   "code": "1000LIKES",
+   "reward": "45 Rerolls and 4 Potions"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "25 Rerolls"
+  },
+  {
+   "code": "INFERNIA",
+   "reward": "12 Race Rerolls and an XP Potion"
+  },
+  {
+   "code": "TIER6RUNES",
+   "reward": "10 Race Rerolls and a Luck Potion"
+  },
+  {
+   "code": "250LIKES",
+   "reward": "20 Race Rerolls , a Cash Potion , an XP Potion , a Quantity Potion , a"
   }
  ],
- "updated": "2026-11-05T06:00:42.294Z",
+ "updated": "2026-11-06T23:03:12.993Z",
  "source": "https://robloxden.com/game-codes/delve"
 }

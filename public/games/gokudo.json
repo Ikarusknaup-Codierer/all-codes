@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "DAILYREWARDFIX",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "MUSCLES",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "DAILYREWARD",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "WORKOUT",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "BUFFS",
+   "reward": "30 Rerolls"
+  },
+  {
    "code": "3ON3",
    "reward": "30 Rerolls"
   },
@@ -255,6 +275,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-11-05T05:58:25.761Z",
+ "updated": "2026-11-06T23:00:50.433Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

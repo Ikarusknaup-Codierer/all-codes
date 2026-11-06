@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "HALLOWEENFIXES",
+   "reward": "7 Weapon Spins, 7 Flow Spins, 3 Lucky Weapon Spins, 3 Lucky Flow Spins"
+  },
+  {
+   "code": "HALLOWEENUPDATEDELAY",
+   "reward": "7 Lucky Weapon Rolls, 7 Lucky Flow spins and 200 Egocoins"
+  },
+  {
+   "code": "HALLOWEENMULTIPLAYERUPDATE",
+   "reward": "25 Weapon Spins, 25 Flow Spins, 7 Lucky Weapon Rolls, 7 Lucky Flow Spi"
+  },
+  {
+   "code": "FIFTEENTHOUSANDLIKES",
+   "reward": "12 Lucky Weapon Rolls and 12 Lucky Flow Spins"
+  },
+  {
+   "code": "TWELVETHOUSANDFIVEHUNDREDLIKES",
+   "reward": "15 Weapon Spins, 15 Flow Spins and 200 Egocoins"
   }
  ],
- "updated": "2026-11-05T05:57:40.105Z",
+ "updated": "2026-11-06T23:00:02.453Z",
  "source": "https://robloxden.com/game-codes/start-your-blue-lock-career"
 }

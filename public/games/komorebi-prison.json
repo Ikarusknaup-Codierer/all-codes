@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FOV",
+   "reward": "15 Rolls"
+  },
+  {
+   "code": "STAGEFIX",
+   "reward": "15 Rolls"
+  },
+  {
    "code": "UP",
    "reward": "45 Rerolls"
   },
@@ -127,6 +135,6 @@
    "reward": "25 Rolls"
   }
  ],
- "updated": "2026-11-04T23:35:35.921Z",
+ "updated": "2026-11-06T22:58:15.971Z",
  "source": "https://robloxden.com/game-codes/komorebi-prison"
 }

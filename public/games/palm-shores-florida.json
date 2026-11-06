@@ -11,10 +11,6 @@
    "reward": "Cash"
   },
   {
-   "code": "15KLIKES",
-   "reward": "10K Cash"
-  },
-  {
    "code": "RipRadio",
    "reward": "Cash"
   },
@@ -25,8 +21,12 @@
   {
    "code": "2DOT5KLIKES",
    "reward": "10K Cash"
+  },
+  {
+   "code": "1MIL",
+   "reward": "25,000 Cash"
   }
  ],
- "updated": "2026-11-05T05:57:06.256Z",
+ "updated": "2026-11-06T22:59:27.358Z",
  "source": "https://robloxden.com/game-codes/palm-shores-florida"
 }

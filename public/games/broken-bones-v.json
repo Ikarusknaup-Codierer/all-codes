@@ -15,18 +15,18 @@
    "reward": "1 Firework, 2 Joint Elixir Potions, 1 S Sprains Potions and a 3 Second"
   },
   {
-   "code": "FOLLOW2000",
-   "reward": "4 Fireworks, 2 S Money Potions, 2 S Breaks Potions, 1 Joint Elixir and"
-  },
-  {
-   "code": "BETA1",
-   "reward": "3 Random Potions"
+   "code": "BETA",
+   "reward": "6 Random Potions"
   },
   {
    "code": "LIKE20K",
    "reward": "4 Fireworks, 2 S Money Potions, 2 S Breaks Potions, 1 Joint Elixir and"
+  },
+  {
+   "code": "LIKE40K",
+   "reward": "4 Fireworks, 2 S Money Potions, 2 S Breaks Potions, 1 Joint Elixir and"
   }
  ],
- "updated": "2026-11-04T23:33:09.805Z",
+ "updated": "2026-11-06T22:56:02.086Z",
  "source": "https://robloxden.com/game-codes/broken-bones-v"
 }

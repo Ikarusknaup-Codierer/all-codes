@@ -11,22 +11,22 @@
    "reward": "1 Triple Strength Boost"
   },
   {
-   "code": "BuffSimulator",
+   "code": "UPDATE3",
+   "reward": "Op Boost"
+  },
+  {
+   "code": "2MUPDATE",
+   "reward": "Op Boost"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "Luck Boost"
+  },
+  {
+   "code": "RockDevs",
    "reward": "50 Coins & 50 Gems"
-  },
-  {
-   "code": "Rockandgreen",
-   "reward": "50 Coins & 50 Gems"
-  },
-  {
-   "code": "UPDATE6",
-   "reward": "1 Super Lucky Boost"
-  },
-  {
-   "code": "3MVISITS",
-   "reward": "1 Super Lucky Boost"
   }
  ],
- "updated": "2026-11-05T06:00:31.178Z",
+ "updated": "2026-11-06T23:03:01.165Z",
  "source": "https://robloxden.com/game-codes/buffman-simulator"
 }

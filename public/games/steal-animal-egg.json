@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "1 Cash Potion and 1 Speed Gain Potion"
+  },
+  {
+   "code": "SHOWSPEED",
+   "reward": "a speed gain potion"
+  },
+  {
+   "code": "HASHTAGS",
+   "reward": "a 5 cash potion"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "the Pookie egg"
+  },
+  {
+   "code": "ENDGAME",
+   "reward": "10 minutes of income"
+  },
+  {
+   "code": "DEMONIC",
+   "reward": "10 minutes of income"
   }
  ],
- "updated": "2026-11-05T05:58:47.739Z",
+ "updated": "2026-11-06T23:01:13.717Z",
  "source": "https://robloxden.com/game-codes/steal-animal-egg"
 }

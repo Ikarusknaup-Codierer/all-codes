@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "BUGFIXED17",
+   "reward": "40 Purple Tickets and 60 Rune Fragments"
+  },
+  {
+   "code": "UPDATE17",
+   "reward": "100 Purple Tickets, 300 Rune Fragments and 1 A-grade Rune Stone"
+  },
+  {
+   "code": "UPDATE163",
+   "reward": "40 Purple Tickets"
+  },
+  {
+   "code": "NEWCONTENT20",
+   "reward": "20 Purple Tickets"
+  },
+  {
+   "code": "UPDATEGIFT20",
+   "reward": "20 Purple Tickets"
+  },
+  {
+   "code": "UPDATEGOLD30",
+   "reward": "30 Golden Tickets"
+  },
+  {
+   "code": "BUGFIX100",
+   "reward": "100 Purple Tickets"
   }
  ],
- "updated": "2026-11-05T06:01:05.418Z",
+ "updated": "2026-11-06T23:03:37.796Z",
  "source": "https://robloxden.com/game-codes/survive-66-nights-rpg"
 }

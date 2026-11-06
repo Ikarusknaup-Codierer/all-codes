@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "AntiMagicIsHere",
+   "reward": "250M Beli and 50,000 Gems"
+  },
+  {
+   "code": "TheFlawOfTheWorld!",
+   "reward": "2x EXP (2 Hours)"
+  },
+  {
+   "code": "HalloweenSoon",
+   "reward": "300M Beli , 50,000 Gems , and 1 Admin Chest"
+  },
+  {
    "code": "QuickLeoPatch!",
    "reward": "1 Leopard Fruit , 1 Leopard Scroll , and 1 Feral Essence"
   },
@@ -507,6 +519,6 @@
    "reward": "30 Poneglyphs"
   }
  ],
- "updated": "2026-11-04T23:34:24.934Z",
+ "updated": "2026-11-06T22:57:11.309Z",
  "source": "https://robloxden.com/game-codes/reaopg"
 }

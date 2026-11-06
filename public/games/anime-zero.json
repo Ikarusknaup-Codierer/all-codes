@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MINICODE",
+   "reward": "10 Trait Rerolls , 100 Gems , and 10 Lucky Spins"
+  },
+  {
    "code": "THANKS4WAITING",
    "reward": "1x Burger , 1x Caprese , and 1x Ham"
   },
@@ -139,6 +143,6 @@
    "reward": "2,500 Coins , 10 Rolls , and 1 Lucky Spin"
   }
  ],
- "updated": "2026-11-04T23:35:32.787Z",
+ "updated": "2026-11-06T22:58:13.415Z",
  "source": "https://robloxden.com/game-codes/anime-zero"
 }

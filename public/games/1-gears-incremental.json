@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "START",
+   "reward": "2x Cogs (10 mins)"
+  },
+  {
+   "code": "GEARS",
+   "reward": "2x Cogs (15 mins)"
   }
  ],
- "updated": "2026-11-05T05:58:42.573Z",
+ "updated": "2026-11-06T23:01:08.647Z",
  "source": "https://robloxden.com/game-codes/1-gears-incremental"
 }

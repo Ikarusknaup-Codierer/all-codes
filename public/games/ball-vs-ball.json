@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPD11",
+   "reward": "100 Coins"
+  },
+  {
    "code": "UPD10",
    "reward": "100 Coins"
   },
@@ -47,6 +51,6 @@
    "reward": "100 Coins"
   }
  ],
- "updated": "2026-11-05T05:58:27.879Z",
+ "updated": "2026-11-06T23:00:52.599Z",
  "source": "https://robloxden.com/game-codes/ball-vs-ball"
 }

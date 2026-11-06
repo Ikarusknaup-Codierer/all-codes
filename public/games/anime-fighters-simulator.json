@@ -71,10 +71,6 @@
    "reward": "100 Cursed Orbs and 50 Heavenly Fruit"
   },
   {
-   "code": "SHOPFIXED",
-   "reward": "5 Mega Luck Boosts and 5 Mega Drops Boosts"
-  },
-  {
    "code": "PASSIVESFIXED",
    "reward": "500 Requiem Tokens , 250 Passive Tokens , and 50 Passive Transfer Toke"
   },
@@ -359,10 +355,14 @@
    "reward": "75 Passive Tokens and 25 Heavenly Fruits"
   },
   {
+   "code": "SHOPFIXED",
+   "reward": "5 Mega Luck Boosts and 5 Mega Drops Boosts"
+  },
+  {
    "code": "SorryForEarlyShutDown",
    "reward": "5 Mega Drop Boost , 5 Mega Time Boost , and 5 Mega Passive Lucky Boost"
   }
  ],
- "updated": "2026-11-04T23:37:16.809Z",
+ "updated": "2026-11-06T14:14:18.058Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

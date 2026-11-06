@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "INFECTION",
+   "reward": "150 Candy Corn and 500 Coins"
+  },
+  {
    "code": "CANDY",
    "reward": "150 Candy Corns and 500 Coins"
   },
@@ -21,8 +25,12 @@
   {
    "code": "FIRSTCODEEVER",
    "reward": "2x Gem Boost (15 Minutes) , +100 Gems and a random emote (e.g. E Dance"
+  },
+  {
+   "code": "BOSSISHERE!",
+   "reward": "1 Ghost Key and 500 Candy Corn"
   }
  ],
- "updated": "2026-11-04T14:09:44.268Z",
+ "updated": "2026-11-06T14:03:49.563Z",
  "source": "https://robloxden.com/game-codes/huss-valley-3v9n"
 }

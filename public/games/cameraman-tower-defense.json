@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UTCM",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "Battlepass",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "LStriderSpeaker",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "Halloween",
+   "reward": "50 Coins"
+  },
+  {
    "code": "Engineer",
    "reward": "50 Coins"
   },
@@ -27,6 +43,6 @@
    "reward": "50 Coins"
   }
  ],
- "updated": "2026-11-04T23:27:42.206Z",
+ "updated": "2026-11-06T14:06:11.962Z",
  "source": "https://robloxden.com/game-codes/cameraman-tower-defense"
 }

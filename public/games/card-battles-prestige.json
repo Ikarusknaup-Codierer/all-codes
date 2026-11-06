@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE2",
+   "reward": "Rewards . You must atleast have 100,000 rolls to claim this code"
+  },
+  {
    "code": "500PLAYERS",
    "reward": "rewards . You must reach at least 50,000 rolls to claim this code"
   },
@@ -15,6 +19,6 @@
    "reward": "10 Luck Potions I , 10 Speed Potions I , and 10 Battle Potions I"
   }
  ],
- "updated": "2026-11-04T14:08:42.841Z",
+ "updated": "2026-11-06T14:02:21.963Z",
  "source": "https://robloxden.com/game-codes/card-battles-prestige"
 }

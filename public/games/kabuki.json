@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WEAPONS",
+   "reward": "20x Rolls"
+  },
+  {
+   "code": "DELAY",
+   "reward": "15X Rolls"
+  },
+  {
    "code": "GARBAGEMAN",
    "reward": "10 Rerolls"
   },
@@ -19,6 +27,6 @@
    "reward": "50 Rerolls"
   }
  ],
- "updated": "2026-11-04T14:08:16.930Z",
+ "updated": "2026-11-06T14:01:45.882Z",
  "source": "https://robloxden.com/game-codes/kabuki"
 }

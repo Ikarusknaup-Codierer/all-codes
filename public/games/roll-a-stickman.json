@@ -5,8 +5,64 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "DUNGEON",
+   "reward": "4 of Each Dungeon Ticket . You must reach stage 100 first to use this "
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "5 Pumpkin Eggs . You must reach stage 100 first to use this code"
+  },
+  {
+   "code": "GEMSFORDAYS",
+   "reward": "50 Gems . You must reach stage 100 first to use this code"
+  },
+  {
+   "code": "6KLIKES",
+   "reward": "Instant Rolls , 21 Potions , 6 Crates , 25 Card Tomes , 20 Trait Rerol"
+  },
+  {
+   "code": "3KLIKES",
+   "reward": "7,000 Instant Rolls , 21 Potions , 6 Crates , 25 Card Tomes , 20 Trait"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "6,600 Instant Rolls , 21 Potions , 6 Crates , 25 Card Tomes , 20 Trait"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "5,500 Rolls , 6 Crates , 21 Potions , 25 Card Tomes , 20 Trait Rerolls"
+  },
+  {
+   "code": "200LIKES",
+   "reward": "Instant Rolls , 5 Luck Potions , 4 Haste Potions , 4 War Potions , 4 G"
+  },
+  {
+   "code": "50LIKES",
+   "reward": "2,300 Instant Rolls , 4 Luck Potions , 3 Haste Potions , 3 War Potions"
+  },
+  {
+   "code": "20LIKES",
+   "reward": "1,400 Instant Rolls , 9 Potions , 2 Crates , 12 Card Tomes , 8 Trait R"
+  },
+  {
+   "code": "GRINDER",
+   "reward": "750 Rolls , 3 Crates , 12 Potions , 15 Card Tomes , 10 Trait Rerolls ,"
+  },
+  {
+   "code": "RANKED",
+   "reward": "920 Instant Rolls , 2 Crates , 8 Potions , 10 Card Tomes , and 5 Trait"
+  },
+  {
+   "code": "BREW",
+   "reward": "3 Luck Potions , 2 Haste Potions , 1 Gilded Potion , and 120 Instant R"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "720 Instant Rolls , 2 Luck Potions , 1 Haste Potion , 1 Crate , 5 Card"
   }
  ],
- "updated": "2026-11-04T14:13:48.961Z",
+ "updated": "2026-11-06T14:05:42.551Z",
  "source": "https://robloxden.com/game-codes/roll-a-stickman"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HWPASS",
+   "reward": "the Halloween Effect Case"
+  },
+  {
+   "code": "HWCLANS",
+   "reward": "the Halloween Skin Case"
+  },
+  {
+   "code": "HWSTOCK",
+   "reward": "the Halloween Banner Case"
+  },
+  {
    "code": "670KLIKES",
    "reward": "1.000 coins"
   },
@@ -111,6 +123,6 @@
    "reward": "10,000 Coins"
   }
  ],
- "updated": "2026-11-04T23:27:58.504Z",
+ "updated": "2026-11-06T14:06:28.750Z",
  "source": "https://robloxden.com/game-codes/basketball-legends"
 }

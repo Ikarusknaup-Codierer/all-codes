@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "1500Likes",
-   "reward": "Reward"
-  },
-  {
    "code": "500Likes",
    "reward": "Reward"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Gear",
    "reward": "2x Luck Boost (30 minutes)"
+  },
+  {
+   "code": "Perks",
+   "reward": "2x Gems Boost (30 minutes)"
   }
  ],
- "updated": "2026-11-04T14:07:25.619Z",
+ "updated": "2026-11-06T14:00:55.588Z",
  "source": "https://robloxden.com/game-codes/rank-simulator-x"
 }

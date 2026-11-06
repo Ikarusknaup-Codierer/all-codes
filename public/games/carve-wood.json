@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "PAINTPARTY",
+   "reward": "5 Paint Buckets"
+  },
+  {
+   "code": "WATER256",
+   "reward": "256 Watering Cans"
+  },
+  {
+   "code": "GROWGOLD",
+   "reward": "3 Golden Fertilizer"
+  },
+  {
+   "code": "POWERUP",
+   "reward": "5 Charged Energy Capsules"
+  },
+  {
+   "code": "MOONGEMS",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "CHIPCHOP",
+   "reward": "2,500 Wood Chips"
   }
  ],
- "updated": "2026-11-04T23:30:26.534Z",
+ "updated": "2026-11-06T14:08:59.274Z",
  "source": "https://robloxden.com/game-codes/carve-wood"
 }

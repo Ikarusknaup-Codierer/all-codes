@@ -7,14 +7,34 @@
    "reward": "Description"
   },
   {
-   "code": "2KCCU",
-   "reward": "10,000 DF Coins and 10 Attribute Points"
+   "code": "6KLIKES",
+   "reward": "112,500 DF Coins and Double Exp (2 hours)"
   },
   {
-   "code": "100KVISITS",
-   "reward": "25,000 DF Coins , 20 Attribute Points , and Double Rep (2 hours)"
+   "code": "2MILLIONVISITS",
+   "reward": "100,000 DF Coins , 60 Attribute Points , and Double Rep (2 hours)"
+  },
+  {
+   "code": "1MILLIONVISITS",
+   "reward": "100,000 DF Coins , 100 Attribute Points , and Double Rep (2 hours)"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "56,250 DF Coins and 75 Attribute Points"
+  },
+  {
+   "code": "400KVISITS",
+   "reward": "Double Rep (2 hours)"
+  },
+  {
+   "code": "BUILTDIFFERENT",
+   "reward": "15 Attribute Points"
+  },
+  {
+   "code": "2KCCU",
+   "reward": "10,000 DF Coins and 10 Attribute Points"
   }
  ],
- "updated": "2026-11-04T23:28:04.410Z",
+ "updated": "2026-11-06T14:06:34.522Z",
  "source": "https://robloxden.com/game-codes/driven-football"
 }

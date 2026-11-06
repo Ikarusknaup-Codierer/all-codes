@@ -5,8 +5,48 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "COLDCURRENT",
+   "reward": "1,000 Salvage"
+  },
+  {
+   "code": "ICEPARTY",
+   "reward": "750 Salvage"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "500 Salvage"
+  },
+  {
+   "code": "HALLOWEENTIME",
+   "reward": "2x Salvage (1 Hour)"
+  },
+  {
+   "code": "PENGUIN",
+   "reward": "1.5x Salvage (1 Hour)"
+  },
+  {
+   "code": "PARTYPOWER",
+   "reward": "1.5x Salvage (1 Hour)"
+  },
+  {
+   "code": "EXTRASHIFT",
+   "reward": "1.5x Salvage (1 Hour)"
+  },
+  {
+   "code": "PARTYCRATE",
+   "reward": "a Pet Crate"
+  },
+  {
+   "code": "DRONES",
+   "reward": "a Pet Crate"
+  },
+  {
+   "code": "MACHINECREW",
+   "reward": "the Rare Uniform"
   }
  ],
- "updated": "2026-11-04T23:29:43.146Z",
+ "updated": "2026-11-06T14:08:12.189Z",
  "source": "https://robloxden.com/game-codes/machine-party"
 }

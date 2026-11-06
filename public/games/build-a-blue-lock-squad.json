@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TRADING",
+   "reward": "150 Rerolls , 150 Refreshes , and 1M Cash"
+  },
+  {
+   "code": "IS_DIS_PERMA",
+   "reward": "150 Rerolls and 150 Refreshes"
+  },
+  {
    "code": "kaiserayo",
    "reward": "150 Rerolls and 150 Refreshes"
   },
@@ -119,6 +127,6 @@
    "reward": "50 Refreshes"
   }
  ],
- "updated": "2026-11-04T23:29:59.289Z",
+ "updated": "2026-11-06T14:08:30.377Z",
  "source": "https://robloxden.com/game-codes/build-a-blue-lock-squad"
 }

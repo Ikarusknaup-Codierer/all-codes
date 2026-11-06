@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "150 Candy"
+  },
+  {
+   "code": "HEXED",
+   "reward": "a Hex"
+  },
+  {
+   "code": "DOUBLEUP",
+   "reward": "a 2x Boost (30 mins)"
+  },
+  {
+   "code": "YEET",
+   "reward": "1 Eject"
+  },
+  {
+   "code": "MEGAFART",
+   "reward": "3 Mega Fart"
+  },
+  {
+   "code": "FULLSEND",
+   "reward": "5,000 Cash . Must reach level 5 to use this code"
   }
  ],
- "updated": "2026-11-04T23:27:42.838Z",
+ "updated": "2026-11-06T14:06:12.755Z",
  "source": "https://robloxden.com/game-codes/wrong-way"
 }

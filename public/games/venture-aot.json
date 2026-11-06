@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FREESP",
-   "reward": "10 Skill Points"
-  },
-  {
    "code": "20KGROUPMEMBERS",
    "reward": "4,000 Kroner"
   },
@@ -25,8 +21,12 @@
   {
    "code": "VENTUREOG!",
    "reward": "OG Title"
+  },
+  {
+   "code": "THESEA",
+   "reward": "5K Kroner"
   }
  ],
- "updated": "2026-11-04T14:09:55.543Z",
+ "updated": "2026-11-06T14:04:00.359Z",
  "source": "https://robloxden.com/game-codes/venture-aot"
 }

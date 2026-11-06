@@ -11,10 +11,6 @@
    "reward": "Some In-Game Freebies"
   },
   {
-   "code": "FRESHSALAD",
-   "reward": "A Free Face And 75 Brownies"
-  },
-  {
    "code": "LUCKYME",
    "reward": "A Free Pot Of Gold Accessory"
   },
@@ -23,10 +19,14 @@
    "reward": "Banana Buddy"
   },
   {
+   "code": "SKEGGHUNT",
+   "reward": "Easter Basket Accessory"
+  },
+  {
    "code": "WHIP",
    "reward": "320 Brownies"
   }
  ],
- "updated": "2026-11-04T14:05:03.022Z",
+ "updated": "2026-11-06T05:59:36.279Z",
  "source": "https://robloxden.com/game-codes/skengines-racing"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "3MIL",
+   "reward": "+50% XP(60 Min) , 1 Honor , 4 Medals and 15,000 Credits"
+  },
+  {
+   "code": "4MIL",
+   "reward": "50% Credits(30 Mins) , 50% XP(60mins) , 2 Honors , 5 Medals and 20,000"
+  },
+  {
    "code": "LITTLEBIRD",
    "reward": "a 50 Credits boost (30 Minutes) and 1,000 Credits"
   },
@@ -27,6 +35,6 @@
    "reward": "1,500 Credits and an XP Boost (15 Minutes)"
   }
  ],
- "updated": "2026-11-04T05:42:31.149Z",
+ "updated": "2026-11-06T05:53:38.494Z",
  "source": "https://robloxden.com/game-codes/zombie-air-force"
 }

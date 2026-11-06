@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MidWeekUpdate!",
+   "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
+  },
+  {
    "code": "FistofHell!",
    "reward": "Spins and Traits"
   },
@@ -27,18 +31,6 @@
    "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
   },
   {
-   "code": "Oni!",
-   "reward": "50 Lucky Spins and 50 Traits"
-  },
-  {
-   "code": "WowNiceUI!",
-   "reward": "50 Lucky Spins and 50 Traits"
-  },
-  {
-   "code": "Deal!",
-   "reward": "50 Lucky Spins and 50 Traits"
-  },
-  {
    "code": "Spookye!",
    "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
   },
@@ -55,22 +47,6 @@
    "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
   },
   {
-   "code": "CoinSurgeFixLOL!",
-   "reward": "50 Lucky Spins and 50 Traits"
-  },
-  {
-   "code": "Obsession!",
-   "reward": "50 Lucky Spins and 50 Traits"
-  },
-  {
-   "code": "NewRaid!",
-   "reward": "50 Lucky Spins and 50 Traits"
-  },
-  {
-   "code": "AnchorEvo!",
-   "reward": "50 Lucky Spins and 50 Traits"
-  },
-  {
    "code": "RUPTURESHOTFIX",
    "reward": "5M Coins , 100 Lucky Weapon Spins , 1 Tier 1 Rupture , 3 Tier 1 Cataly"
   },
@@ -85,6 +61,46 @@
   {
    "code": "ZZZNext!",
    "reward": "50 Lucky Spins of Each and 50 Traits"
+  },
+  {
+   "code": "HappyHalloween!",
+   "reward": "50 Lucky Spins of Each and 50 Traits"
+  },
+  {
+   "code": "HWSEvo!",
+   "reward": "50 Lucky Spins of Each and 50 Traits"
+  },
+  {
+   "code": "GhostBuffed!",
+   "reward": "50 Lucky Spins of Each and 50 Traits"
+  },
+  {
+   "code": "Oni!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
+   "code": "WowNiceUI!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
+   "code": "Deal!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
+   "code": "CoinSurgeFixLOL!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
+   "code": "Obsession!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
+   "code": "NewRaid!",
+   "reward": "50 Lucky Spins and 50 Traits"
+  },
+  {
+   "code": "AnchorEvo!",
+   "reward": "50 Lucky Spins and 50 Traits"
   },
   {
    "code": "CursedBuffs!",
@@ -331,6 +347,6 @@
    "reward": "30 Lucky Weapon Spins and 30 Lucky Perk Spins"
   }
  ],
- "updated": "2026-11-04T14:05:42.103Z",
+ "updated": "2026-11-06T06:00:15.472Z",
  "source": "https://robloxden.com/game-codes/hunty-zombie"
 }

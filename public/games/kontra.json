@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKYTIME",
+   "reward": "100 Kredits"
+  },
+  {
+   "code": "2MILVISITS",
+   "reward": "75 Kredits"
+  },
+  {
+   "code": "25KFAVORITES",
+   "reward": "65 Kredits"
+  },
+  {
+   "code": "MILLIONVISITS",
+   "reward": "500 Kredits"
+  },
+  {
+   "code": "900KVISITS",
+   "reward": "85 Kredits"
+  },
+  {
+   "code": "800KVISITS",
+   "reward": "75 Kredits"
+  },
+  {
    "code": "JUGGERCOMP",
    "reward": "70 Kredits"
   },
@@ -19,6 +43,6 @@
    "reward": "75 Kredits"
   }
  ],
- "updated": "2026-11-04T05:43:28.754Z",
+ "updated": "2026-11-06T05:54:23.471Z",
  "source": "https://robloxden.com/game-codes/kontra"
 }

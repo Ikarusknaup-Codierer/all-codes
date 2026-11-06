@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "35MVISITS",
+   "reward": "a 1x Blacksite Crate"
+  },
+  {
    "code": "30MVISITS",
    "reward": "1 Random Case"
   },
@@ -63,6 +67,6 @@
    "reward": "1 Foundry Crate"
   }
  ],
- "updated": "2026-11-04T05:43:50.781Z",
+ "updated": "2026-11-06T05:54:43.635Z",
  "source": "https://robloxden.com/game-codes/killstreak-rins"
 }

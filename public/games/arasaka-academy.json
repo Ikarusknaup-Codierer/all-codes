@@ -11,10 +11,6 @@
    "reward": "25x Rerolls"
   },
   {
-   "code": "CYBERDECKED",
-   "reward": "50x Rerolls"
-  },
-  {
    "code": "LOTSOFLIKES",
    "reward": "50x Rerolls"
   },
@@ -75,6 +71,10 @@
    "reward": "50 Rerolls"
   },
   {
+   "code": "CYBERDECKED",
+   "reward": "50x Rerolls"
+  },
+  {
    "code": "UPDZeroPointFive",
    "reward": "50x Rerolls"
   },
@@ -83,6 +83,6 @@
    "reward": "Rewards . You need to be level 10 to redeem this code"
   }
  ],
- "updated": "2026-11-04T05:46:04.925Z",
+ "updated": "2026-11-06T05:56:45.621Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

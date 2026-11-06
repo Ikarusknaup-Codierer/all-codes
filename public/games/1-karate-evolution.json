@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "10MILLIONVISITS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "2 Halloween Chests"
+  },
+  {
+   "code": "WORLD4",
+   "reward": "3 Bamboo Temple Eggs and 1 Halloween Chest"
+  },
+  {
+   "code": "20KCCU",
+   "reward": "8 Bamboo Temple Eggs and 2 Halloween Chests"
+  },
+  {
+   "code": "10KCCU",
+   "reward": "5 Bamboo Temple Eggs and 1 Halloween Chest"
+  },
+  {
+   "code": "5KCCU",
+   "reward": "3 Bamboo Temple Eggs"
   }
  ],
- "updated": "2026-11-04T14:04:01.861Z",
+ "updated": "2026-11-06T05:58:32.721Z",
  "source": "https://robloxden.com/game-codes/1-karate-evolution"
 }

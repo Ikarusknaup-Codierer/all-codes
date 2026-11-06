@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "MikamisGift",
+   "reward": "15 Clan Rerolls , 8 Height Rerolls , 25 Eye Color Rerolls , 1 Style Re"
+  },
+  {
+   "code": "MOBILEUPDATE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "BIGTHOUSAND",
+   "reward": "3 Clan Rerolls and 3 Height Rerolls"
+  },
+  {
+   "code": "UPDATEUPDATE",
+   "reward": "3 Clan Rerolls , 4 Height Rerolls , 1 Style Reset , and 1 Skill Reset"
+  },
+  {
    "code": "HORDES",
    "reward": "Rerolls (30 Minutes)"
   },
@@ -19,22 +35,14 @@
    "reward": "Free rewards"
   },
   {
-   "code": "MikamisGift",
-   "reward": "15 Clan Rerolls , 8 Height Rerolls , 25 Eye Color Rerolls , 1 Style Re"
-  },
-  {
    "code": "THANKYOUGUYS",
    "reward": "Free Rewards"
   },
   {
    "code": "SHUTDOWNFOR",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "MOBILEUPDATE",
-   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-04T05:42:15.882Z",
+ "updated": "2026-11-06T05:53:26.144Z",
  "source": "https://robloxden.com/game-codes/ken"
 }

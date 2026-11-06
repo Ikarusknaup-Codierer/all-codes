@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "1,000 Corn Candies"
+  },
+  {
    "code": "BUGFIX2",
    "reward": "38.38k cash"
   },
@@ -23,10 +27,10 @@
    "reward": "1 Admin Crate"
   },
   {
-   "code": "BUGFIXES",
-   "reward": "57.53k cash"
+   "code": "RELEASE",
+   "reward": "750 Cash"
   }
  ],
- "updated": "2026-11-04T14:03:55.488Z",
+ "updated": "2026-11-06T05:58:25.409Z",
  "source": "https://robloxden.com/game-codes/destroy-a-vault"
 }

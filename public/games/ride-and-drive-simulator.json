@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "THX5000LIKES",
-   "reward": "5,000,000 RP"
-  },
-  {
    "code": "RDS20MVISITS",
    "reward": "20,000,000 RP"
+  },
+  {
+   "code": "THX5000LIKES",
+   "reward": "5,000,000 RP"
   },
   {
    "code": "THX200KSUBS",
@@ -27,6 +27,6 @@
    "reward": "10,000,000 RP"
   }
  ],
- "updated": "2026-11-04T14:05:31.211Z",
+ "updated": "2026-11-06T06:00:03.933Z",
  "source": "https://robloxden.com/game-codes/ride-and-drive-simulator"
 }

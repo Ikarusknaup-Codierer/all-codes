@@ -7,26 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "TRADESOON",
+   "code": "SUN",
    "reward": "2x Wins Potion"
   },
   {
-   "code": "RELEASE",
-   "reward": "15-Minute 2x Wins Potion"
-  },
-  {
-   "code": "LuckyDay",
-   "reward": "15-Minute 2x Luck Potion"
+   "code": "TRADESOON",
+   "reward": "2x Wins Potion"
   },
   {
    "code": "EASTER",
    "reward": "50 Easter Eggs"
   },
   {
-   "code": "1KLIKES",
-   "reward": "40 Gems and Rare Clover"
+   "code": "WELCOME",
+   "reward": "50 Gems and Rare Short Swords"
   }
  ],
- "updated": "2026-11-04T14:03:48.959Z",
+ "updated": "2026-11-06T05:58:18.172Z",
  "source": "https://robloxden.com/game-codes/fat-race"
 }

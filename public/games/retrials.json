@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "750KVISITS",
+   "reward": "20 Race Rerolls"
+  },
+  {
+   "code": "MidUpdate",
+   "reward": "20 Race Rerolls"
+  },
+  {
    "code": "R1GEL",
    "reward": "10 Race Rerolls"
   },
@@ -15,7 +23,7 @@
    "reward": "10 Race Rerolls"
   },
   {
-   "code": "600KVISITS",
+   "code": "GoodLooser",
    "reward": "20 Race Rolls"
   },
   {
@@ -23,6 +31,6 @@
    "reward": "20 Race Rerolls"
   }
  ],
- "updated": "2026-11-04T05:46:31.323Z",
+ "updated": "2026-11-06T05:57:03.681Z",
  "source": "https://robloxden.com/game-codes/retrials"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "patientzero",
+   "reward": "Rewards"
+  },
+  {
    "code": "readyforspooks",
    "reward": "3x Stat Boost (one week)"
   },
@@ -491,14 +495,14 @@
    "reward": "+10% Stats"
   },
   {
-   "code": "doitagain",
-   "reward": "3 Free Rebirths"
+   "code": "Secret2",
+   "reward": ""
   },
   {
    "code": "600mvisits",
    "reward": "+5% Stats"
   }
  ],
- "updated": "2026-11-04T14:07:20.187Z",
+ "updated": "2026-11-06T06:01:49.902Z",
  "source": "https://robloxden.com/game-codes/arm-wrestle-simulator"
 }

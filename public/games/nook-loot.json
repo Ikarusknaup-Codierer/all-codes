@@ -19,10 +19,6 @@
    "reward": "2,000 Coins and 5 Random Advanced Crystals"
   },
   {
-   "code": "map4",
-   "reward": "100 of Each Crystal and 5 Random Advance Crystals"
-  },
-  {
    "code": "first",
    "reward": "5,000 Coins , 2 Lifespan Flowers , 2 Trait Potions and 2 Advanced Trai"
   },
@@ -35,10 +31,14 @@
    "reward": "5K Coins and 5 N Coins"
   },
   {
+   "code": "map4",
+   "reward": "100 of Each Crystal and 5 Random Advance Crystals"
+  },
+  {
    "code": "endless",
    "reward": "5 Random Advanced Crystals and 1,000 Endless Coins"
   }
  ],
- "updated": "2026-11-04T14:04:20.827Z",
+ "updated": "2026-11-06T05:58:52.877Z",
  "source": "https://robloxden.com/game-codes/nook-loot"
 }

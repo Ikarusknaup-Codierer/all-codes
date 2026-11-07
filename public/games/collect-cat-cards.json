@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TOWERS",
+   "reward": "5,000 Kibble , 2 of Your Best Packs , 2 Luck , a Super Luck and a Cash"
+  },
+  {
    "code": "MEOW",
    "reward": "250 Kibbles"
   },
@@ -39,6 +43,6 @@
    "reward": "2,500 Kibbles"
   }
  ],
- "updated": "2026-11-05T14:30:36.009Z",
+ "updated": "2026-11-07T05:31:30.272Z",
  "source": "https://robloxden.com/game-codes/collect-cat-cards"
 }

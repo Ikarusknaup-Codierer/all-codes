@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RELEASE",
+   "reward": "288 Coins and 50 Gems"
+  },
+  {
    "code": "CRATES",
    "reward": "Rewards"
   },
@@ -15,6 +19,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-05T06:02:44.412Z",
+ "updated": "2026-11-07T05:25:34.809Z",
  "source": "https://robloxden.com/game-codes/stick-wars"
 }

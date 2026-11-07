@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "payday",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "dragstrip",
    "reward": "25,000 Cash"
   },
@@ -19,14 +23,14 @@
    "reward": "20,000 Cash"
   },
   {
-   "code": "SMR_26",
-   "reward": "2X Cash (48 Hours)"
+   "code": "weback",
+   "reward": "50,000 Cash"
   },
   {
-   "code": "IMBOBBYMUM",
+   "code": "tldr",
    "reward": "20,000 Cash"
   }
  ],
- "updated": "2026-11-05T14:27:05.499Z",
+ "updated": "2026-11-07T05:28:25.544Z",
  "source": "https://robloxden.com/game-codes/nitrolab-drag-racing"
 }

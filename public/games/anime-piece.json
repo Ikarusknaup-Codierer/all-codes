@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "4kCCU",
-   "reward": "15 Race Spins and 2x Drop (15 Minutes)"
+   "code": "100kGroup",
+   "reward": "2 Teleport Crystals , a Common Fruit Chest , and 5 Race Spins"
   },
   {
-   "code": "100kVisits!",
+   "code": "1MVisits",
+   "reward": "a 2x Drop (1 Hour)"
+  },
+  {
+   "code": "AnimePieceUpdate1",
    "reward": "10 Race Spins and 5 Teleport Crystals"
+  },
+  {
+   "code": "SorryForTheHakers",
+   "reward": "a Common Chest"
+  },
+  {
+   "code": "SorryForThe2xDropBug",
+   "reward": "a 2x Drop (10 Minutes)"
   }
  ],
- "updated": "2026-11-05T14:26:22.335Z",
+ "updated": "2026-11-07T05:28:04.657Z",
  "source": "https://robloxden.com/game-codes/anime-piece"
 }

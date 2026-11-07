@@ -15,18 +15,18 @@
    "reward": ""
   },
   {
+   "code": "REEL",
+   "reward": "10,000 Coins"
+  },
+  {
    "code": "updatealmostready",
    "reward": "3 Free Levels"
   },
   {
-   "code": "saletime",
-   "reward": "48 Hour X2 XP Boost"
-  },
-  {
-   "code": "IDK",
-   "reward": "50,000 Cash"
+   "code": "RELEASE",
+   "reward": "a Double Coins Boost for 60 Minutes"
   }
  ],
- "updated": "2026-11-05T06:04:35.078Z",
+ "updated": "2026-11-07T05:27:14.808Z",
  "source": "https://robloxden.com/game-codes/destruction-simulator"
 }

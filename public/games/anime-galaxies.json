@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "1,000 Gems , 30 Stat Tokens , 150 Trait Crystals , and 20 Stat Locks"
+  },
+  {
+   "code": "100KVIS",
+   "reward": "2,000 Gems , 100 Trait Crystals , and 20 Stat Tokens"
+  },
+  {
+   "code": "1KFAV",
+   "reward": "1,500 Gems , 100 Trait Crystals , and 20 Stat Locks"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,500 Gems , 50 Trait Crystals , and 10 Stat Tokens"
+  },
+  {
+   "code": "1KCCU",
+   "reward": "2,500 Gems , 100 Trait Crystals , and 20 Stat Tokens"
   }
  ],
- "updated": "2026-11-05T06:02:42.698Z",
+ "updated": "2026-11-07T05:25:33.136Z",
  "source": "https://robloxden.com/game-codes/anime-galaxies"
 }

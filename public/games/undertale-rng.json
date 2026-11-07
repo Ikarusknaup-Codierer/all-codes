@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "countingcode",
-   "reward": "15 Heavens"
-  },
-  {
    "code": "weloveducks",
    "reward": "Free Rewards"
   },
@@ -29,6 +25,10 @@
   {
    "code": "fixbrokendata",
    "reward": "Rewards"
+  },
+  {
+   "code": "countingcode",
+   "reward": "15 Heavens"
   },
   {
    "code": "milestone2026",
@@ -59,6 +59,6 @@
    "reward": "4,000 DarkDollars , 500 Ducks , and 2 Spider Ciders"
   }
  ],
- "updated": "2026-11-05T06:02:12.349Z",
+ "updated": "2026-11-07T05:25:12.078Z",
  "source": "https://robloxden.com/game-codes/undertale-rng"
 }

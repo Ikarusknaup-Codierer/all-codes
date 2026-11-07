@@ -7,18 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "FreeBoost",
-   "reward": "1.25x Gems (90 mins)"
-  },
-  {
    "code": "Ch2Soon",
    "reward": "500 Candies"
   },
   {
-   "code": "Halloween",
-   "reward": "100 Candies"
+   "code": "FreeCandy",
+   "reward": "Rewards"
+  },
+  {
+   "code": "Golden",
+   "reward": "a Golden Vacuum (next game)"
   }
  ],
- "updated": "2026-11-05T06:03:22.259Z",
+ "updated": "2026-11-07T05:26:04.853Z",
  "source": "https://robloxden.com/game-codes/sell-fries"
 }

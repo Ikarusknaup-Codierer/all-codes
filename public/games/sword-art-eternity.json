@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FLOOR2STORY",
+   "reward": "2x Col (1 Hours) and 2x Luck (1 Hours)"
+  },
+  {
    "code": "FSCDWEEMM",
    "reward": "Floor 1 Boss Code"
   },
@@ -15,6 +19,6 @@
    "reward": "2x Luck (1 Hour)"
   }
  ],
- "updated": "2026-11-05T06:01:02.151Z",
+ "updated": "2026-11-07T05:24:35.549Z",
  "source": "https://robloxden.com/game-codes/sword-art-eternity"
 }

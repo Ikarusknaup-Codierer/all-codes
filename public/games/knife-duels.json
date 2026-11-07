@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "GRAVEYARD",
    "reward": "1,500 Coins"
   },
@@ -15,14 +19,14 @@
    "reward": "3,000 Cash"
   },
   {
-   "code": "BOWIE",
-   "reward": "1,500 Coins"
+   "code": "1MILGROUP",
+   "reward": "3,000 Cash"
   },
   {
-   "code": "2077",
-   "reward": "Cash"
+   "code": "BUTTERFLY",
+   "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-11-05T14:33:54.255Z",
+ "updated": "2026-11-07T12:46:24.034Z",
  "source": "https://robloxden.com/game-codes/knife-duels"
 }

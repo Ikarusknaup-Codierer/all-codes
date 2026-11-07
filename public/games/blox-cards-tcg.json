@@ -19,10 +19,6 @@
    "reward": "750 BB"
   },
   {
-   "code": "INITIATION",
-   "reward": "1,200 BB and the +PARRY! Title"
-  },
-  {
    "code": "REDACTED",
    "reward": "4x Lunar Impact Packs"
   },
@@ -155,6 +151,10 @@
    "reward": "750 BB"
   },
   {
+   "code": "INITIATION",
+   "reward": "1,200 BB and the +PARRY! Title"
+  },
+  {
    "code": "CATACLYSM",
    "reward": "500 BB , 5 Doomspire: Complete Tickets , and the From A Different Time"
   },
@@ -179,6 +179,6 @@
    "reward": "800 BB"
   }
  ],
- "updated": "2026-11-05T23:29:52.819Z",
+ "updated": "2026-11-07T12:49:09.314Z",
  "source": "https://robloxden.com/game-codes/blox-cards-tcg"
 }

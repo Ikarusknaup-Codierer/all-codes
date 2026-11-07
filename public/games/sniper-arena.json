@@ -15,10 +15,6 @@
    "reward": "Two Untradeable Dreamcases . You need to be level 10 to redeem this co"
   },
   {
-   "code": "FREELIKE4",
-   "reward": "a Random Mystic Knife . You need to be level 5 to redeem this code"
-  },
-  {
    "code": "freecase",
    "reward": "1 Release Case"
   },
@@ -28,6 +24,10 @@
   },
   {
    "code": "FREELIKE5",
+   "reward": "a Random Mystic Knife . You need to be level 5 to redeem this code"
+  },
+  {
+   "code": "FREELIKE4",
    "reward": "a Random Mystic Knife . You need to be level 5 to redeem this code"
   },
   {
@@ -43,6 +43,6 @@
    "reward": "a Random Mystic Knife . You need to be level 5 to redeem this code"
   }
  ],
- "updated": "2026-11-05T23:31:09.400Z",
+ "updated": "2026-11-07T12:50:18.419Z",
  "source": "https://robloxden.com/game-codes/sniper-arena"
 }

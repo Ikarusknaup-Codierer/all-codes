@@ -7,16 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "MININGEXPANSION",
-   "reward": "10 Tickets and 10 Jade"
+   "code": "HALLOWEENEXTRA",
+   "reward": "2 Pumpkin Potion and 15 Jade"
   },
   {
-   "code": "MINING",
-   "reward": "1 of Each Path Potion and 10 Tickets"
+   "code": "REBALANCES",
+   "reward": "10 Tickets and 5 of each Mark Potion"
   },
   {
-   "code": "WORLD9PT1",
-   "reward": "1 Ore Potion and 10 Jade"
+   "code": "HALLOWEENFINAL",
+   "reward": "10 Tickets and 3 Curse Potions"
+  },
+  {
+   "code": "CANDYCORN",
+   "reward": "10 Tickets and 15 Jade"
   },
   {
    "code": "HALLOWEEN",
@@ -35,8 +39,16 @@
    "reward": "10 Jades and 3 of Each Mark Potion"
   },
   {
-   "code": "ORIGINSECRETS",
-   "reward": "1 Ore Potion and 15 Tickets"
+   "code": "MININGEXPANSION",
+   "reward": "10 Tickets and 10 Jade"
+  },
+  {
+   "code": "MINING",
+   "reward": "1 of Each Path Potion and 10 Tickets"
+  },
+  {
+   "code": "WORLD9PT1",
+   "reward": "1 Ore Potion and 10 Jade"
   },
   {
    "code": "DAOCORE",
@@ -339,6 +351,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-11-05T23:32:33.104Z",
+ "updated": "2026-11-07T12:51:31.025Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

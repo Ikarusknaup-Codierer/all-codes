@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TOURNAMENT",
+   "reward": "1,500 Bloodline Score and 5 Clan Rerolls"
+  },
+  {
+   "code": "HYUGA",
+   "reward": "1,500 Bloodline Score"
+  },
+  {
    "code": "BORUTO",
    "reward": "2,000 Bloodline Score and 5 Free Clan Rerolls"
   },
@@ -19,6 +27,6 @@
    "reward": "3000 Bloodline Score"
   }
  ],
- "updated": "2026-11-05T23:32:12.460Z",
+ "updated": "2026-11-07T12:51:12.833Z",
  "source": "https://robloxden.com/game-codes/bitshippuden"
 }

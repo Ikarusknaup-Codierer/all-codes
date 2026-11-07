@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "PATCH06",
-   "reward": "5,000 Ghoulars"
-  },
-  {
    "code": "PATCH05",
    "reward": "30,000 Ghoulars"
-  },
-  {
-   "code": "HAPPYHOLIDAYS2025",
-   "reward": "24k Ghoulars"
-  },
-  {
-   "code": "WEAREBACKX3",
-   "reward": "33,333 Ghoulars"
   },
   {
    "code": "MV4MILLION",
@@ -33,10 +21,6 @@
   {
    "code": "MVHOMECOMING",
    "reward": "6,000 Ghoulars , the Homecoming Balloons , and the Opal Plushie"
-  },
-  {
-   "code": "MV1MILLION",
-   "reward": "the Shattered Love Crown"
   },
   {
    "code": "BUGFIXES02",
@@ -123,14 +107,30 @@
    "reward": "7,000 Ghoulars"
   },
   {
+   "code": "PATCH06",
+   "reward": "5,000 Ghoulars"
+  },
+  {
    "code": "WELCOMEBACK",
    "reward": "5,000 Ghoulars"
   },
   {
    "code": "Daisy20Ghoulars",
    "reward": "the Denim Miniskirt and 20 Ghoulars"
+  },
+  {
+   "code": "HAPPYHOLIDAYS2025",
+   "reward": "24k Ghoulars"
+  },
+  {
+   "code": "WEAREBACKX3",
+   "reward": "33,333 Ghoulars"
+  },
+  {
+   "code": "MV1MILLION",
+   "reward": "the Shattered Love Crown"
   }
  ],
- "updated": "2026-11-05T14:31:25.605Z",
+ "updated": "2026-11-07T12:44:35.123Z",
  "source": "https://robloxden.com/game-codes/monsterverze"
 }

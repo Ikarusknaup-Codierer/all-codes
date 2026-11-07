@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DOOMBYFATE",
-   "reward": "Special Merchandise Skin And 2,000 Tix"
-  },
-  {
    "code": "BYEBYERAMPAGE",
    "reward": "2,000 Tix"
   },
@@ -27,10 +23,14 @@
    "reward": "1,500 Tix"
   },
   {
+   "code": "DOOMBYFATE",
+   "reward": "Special Merchandise Skin And 2,000 Tix"
+  },
+  {
    "code": "DOOMEDBYFATE",
    "reward": "Special Skin Merchandise and 2,000 Tix"
   }
  ],
- "updated": "2026-11-05T23:34:18.562Z",
+ "updated": "2026-11-07T12:53:06.349Z",
  "source": "https://robloxden.com/game-codes/doom-by-fate"
 }

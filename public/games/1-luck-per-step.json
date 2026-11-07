@@ -11,18 +11,18 @@
    "reward": "1 Win Potion (15 mins) , 1 Luck Potion (30 mins) , and 1 Speed Potion "
   },
   {
-   "code": "ADMINABUSE",
-   "reward": "a Wins Potion (15 Minutes) , a Luck Potion (30 Minutes) , and a Speed "
-  },
-  {
    "code": "Gusthegoat",
    "reward": "a Wins Potion (15 Minutes) , a Luck Potion (30 Minutes) , and a Speed "
   },
   {
    "code": "8000LIKES",
    "reward": "a Wins Potion (15 Minutes) , a Luck Potion (30 Minutes) , and a Speed "
+  },
+  {
+   "code": "1000LIKES",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-05T14:32:37.658Z",
+ "updated": "2026-11-07T12:45:22.399Z",
  "source": "https://robloxden.com/game-codes/1-luck-per-step"
 }

@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "TrickOrTreat",
-   "reward": "7 Rerolls , 7 Refreshes , and 1 Lucky Spin"
+   "code": "Kuroo",
+   "reward": "8 Rerolls , 7 Refreshes and a Lucky Spin"
+  },
+  {
+   "code": "ThirdGym",
+   "reward": "7 Rerolls , 6 Refreshes and a Lucky Spin"
+  },
+  {
+   "code": "ReadBlock",
+   "reward": "6 Rerolls , 6 Refreshes and a Lucky Spin"
   },
   {
    "code": "Karasuno",
@@ -25,8 +33,12 @@
   {
    "code": "Spooky",
    "reward": "6 Rerolls , 6 Refreshes , and 1 Lucky Spin"
+  },
+  {
+   "code": "TrickOrTreat",
+   "reward": "7 Rerolls , 7 Refreshes , and 1 Lucky Spin"
   }
  ],
- "updated": "2026-11-05T14:34:37.997Z",
+ "updated": "2026-11-07T12:47:03.501Z",
  "source": "https://robloxden.com/game-codes/build-a-volleyball-squad"
 }

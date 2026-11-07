@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE_36",
+   "reward": "IC 500"
+  },
+  {
+   "code": "EVENTHALLOWEEN2026",
+   "reward": "IC 500"
+  },
+  {
+   "code": "FISHPUMKIN",
+   "reward": "IC 500"
+  },
+  {
    "code": "UPDATE_35",
    "reward": "IC 500"
   },
@@ -51,6 +63,6 @@
    "reward": "Rp 250,000,000"
   }
  ],
- "updated": "2026-11-05T14:32:45.277Z",
+ "updated": "2026-11-07T12:45:27.618Z",
  "source": "https://robloxden.com/game-codes/the-driving-indonesia-2"
 }

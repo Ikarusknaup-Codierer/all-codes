@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PREBETA",
-   "reward": "a free reward"
-  },
-  {
    "code": "PUBLICRELEASE",
    "reward": "Free Souls"
   },
@@ -25,8 +21,12 @@
   {
    "code": "NEWUPDATE",
    "reward": "200 Dust"
+  },
+  {
+   "code": "MoreCodes",
+   "reward": "10 Tier I Keys"
   }
  ],
- "updated": "2026-11-05T23:29:54.734Z",
+ "updated": "2026-11-07T12:49:10.992Z",
  "source": "https://robloxden.com/game-codes/undertale-timeline-reset"
 }

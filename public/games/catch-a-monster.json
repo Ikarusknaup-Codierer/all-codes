@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "a Wizard Egg"
+  },
+  {
    "code": "PVPFIX",
    "reward": "12,000 Wanderer's Coins"
   },
@@ -115,6 +119,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-11-05T23:30:27.400Z",
+ "updated": "2026-11-07T12:49:39.859Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

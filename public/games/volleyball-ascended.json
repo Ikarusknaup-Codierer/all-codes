@@ -11,10 +11,6 @@
    "reward": "3 Athlete Packs"
   },
   {
-   "code": "proservers",
-   "reward": "an Ability Pack"
-  },
-  {
    "code": "update1",
    "reward": "1,000 Yen"
   },
@@ -23,10 +19,14 @@
    "reward": "1,000 Yen"
   },
   {
+   "code": "offlinecrates",
+   "reward": "6,000 Yen"
+  },
+  {
    "code": "ranked",
    "reward": "4,000 Yen"
   }
  ],
- "updated": "2026-11-06T05:53:56.242Z",
+ "updated": "2026-11-07T21:45:38.002Z",
  "source": "https://robloxden.com/game-codes/volleyball-ascended"
 }

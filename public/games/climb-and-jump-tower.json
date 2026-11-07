@@ -111,14 +111,14 @@
    "reward": "1 Speed Boost and 1 Secret Luck Boost"
   },
   {
-   "code": "CLIMB2026",
-   "reward": "500 Coins"
-  },
-  {
    "code": "TOWERFREE",
    "reward": "300 Coins"
+  },
+  {
+   "code": "NEWSEASON",
+   "reward": "400 Coins"
   }
  ],
- "updated": "2026-11-06T05:53:46.739Z",
+ "updated": "2026-11-07T21:45:28.287Z",
  "source": "https://robloxden.com/game-codes/climb-and-jump-tower"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HelloHalloween",
+   "reward": "1 Pumpkin Mask"
+  },
+  {
+   "code": "AuraFarmingHalloween",
+   "reward": "the 1 Pumpkin"
+  },
+  {
    "code": "IXAHASSOUNDYET!",
    "reward": "X2 Yen and Exp (30 Minutes) and 15 Mythic Gacha"
   },
@@ -59,6 +67,6 @@
    "reward": "a Battlepass Level-Up Ticket: IV"
   }
  ],
- "updated": "2026-11-05T23:34:04.863Z",
+ "updated": "2026-11-07T21:39:01.432Z",
  "source": "https://robloxden.com/game-codes/kanom-tokyo"
 }

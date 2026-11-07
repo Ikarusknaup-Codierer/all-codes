@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "10KFAVORITES",
-   "reward": "45 minutes of 1.5x XP and 1.5x cash"
-  },
-  {
    "code": "DISASSEMBLE1000",
    "reward": "30 minutes of 1.5x XP and 1.5x cash"
   },
@@ -19,10 +15,14 @@
    "reward": "5K Cash"
   },
   {
+   "code": "10KFAVORITES",
+   "reward": "45 minutes of 1.5x XP and 1.5x cash"
+  },
+  {
    "code": "500KVISITS",
    "reward": "30 minutes of 1.5x XP and 1.5x cash"
   }
  ],
- "updated": "2026-11-05T23:38:14.919Z",
+ "updated": "2026-11-07T21:42:22.396Z",
  "source": "https://robloxden.com/game-codes/disassemble-car-tycoon"
 }

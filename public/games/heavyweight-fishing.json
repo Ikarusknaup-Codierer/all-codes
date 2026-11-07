@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "85KLikes",
-   "reward": "Rewards . You need to be level 100 to redeem this code"
+   "code": "BannerShop",
+   "reward": "Freebies . You need to be level 100 to redeem this code"
+  },
+  {
+   "code": "WeeklyUPD1",
+   "reward": "Freebies . You need to be level 100 to redeem this code"
   },
   {
    "code": "SON",
@@ -27,6 +31,22 @@
    "reward": "Free Rewards . You must be at least Level 500 to use this code"
   },
   {
+   "code": "Welcome",
+   "reward": "Free Rewards . To use this code, you must be at least level 20 in-game"
+  },
+  {
+   "code": "19KActives",
+   "reward": "Rewards . To use this code, you must be at least level 200 in-game"
+  },
+  {
+   "code": "Balanced",
+   "reward": "rewards . You must be at least level 100 to use this code"
+  },
+  {
+   "code": "85KLikes",
+   "reward": "Rewards . You need to be level 100 to redeem this code"
+  },
+  {
    "code": "80KLikes",
    "reward": "Free Rewards . To use this code, you must be at least level 100 in-gam"
   },
@@ -37,38 +57,6 @@
   {
    "code": "VermilionBird",
    "reward": "Free Rewards . To use this code, you must be at least level 500 in-gam"
-  },
-  {
-   "code": "Welcome",
-   "reward": "Free Rewards . To use this code, you must be at least level 20 in-game"
-  },
-  {
-   "code": "19KActives",
-   "reward": "Rewards . To use this code, you must be at least level 200 in-game"
-  },
-  {
-   "code": "36MVisits",
-   "reward": "rewards . You must be at least level 50 to use this code"
-  },
-  {
-   "code": "35MVisits",
-   "reward": "rewards . You must be at least level 50 to use this code"
-  },
-  {
-   "code": "34MVisits",
-   "reward": "rewards . You must be at least level 50 to use this code"
-  },
-  {
-   "code": "60KLikes",
-   "reward": "5 Tickets , 10 Crystals , and 5 Trait Rerolls . You must be at least l"
-  },
-  {
-   "code": "50KLikes",
-   "reward": "5 Tickets , 10 Crystals , and 5 Trait Rerolls . You must be at least l"
-  },
-  {
-   "code": "Balanced",
-   "reward": "rewards . You must be at least level 100 to use this code"
   },
   {
    "code": "SeeYouSoon",
@@ -105,6 +93,26 @@
   {
    "code": "PVP",
    "reward": "Rewards . To use this code, you must be at least level 100 in-game"
+  },
+  {
+   "code": "36MVisits",
+   "reward": "rewards . You must be at least level 50 to use this code"
+  },
+  {
+   "code": "35MVisits",
+   "reward": "rewards . You must be at least level 50 to use this code"
+  },
+  {
+   "code": "34MVisits",
+   "reward": "rewards . You must be at least level 50 to use this code"
+  },
+  {
+   "code": "60KLikes",
+   "reward": "5 Tickets , 10 Crystals , and 5 Trait Rerolls . You must be at least l"
+  },
+  {
+   "code": "50KLikes",
+   "reward": "5 Tickets , 10 Crystals , and 5 Trait Rerolls . You must be at least l"
   },
   {
    "code": "17KActives",
@@ -251,6 +259,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-11-05T23:39:18.472Z",
+ "updated": "2026-11-07T21:43:04.900Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

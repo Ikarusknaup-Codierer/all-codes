@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE5",
+   "reward": "10 Endless Tower Tickets , 100 Trader Tokens , 20 Pet Tokens , 2 Base "
+  },
+  {
+   "code": "RESTARTTOKENS",
+   "reward": "3 Endless Tower Tickets and 3 Raid Tickets"
+  },
+  {
    "code": "TRICKORTREAT",
    "reward": "5 Raid Tickets , 100 Pet Tokens , 2 Base Cash +100% Potions , 2 Base L"
   },
@@ -107,6 +115,6 @@
    "reward": "a Valor Sword"
   }
  ],
- "updated": "2026-11-06T05:56:47.277Z",
+ "updated": "2026-11-08T05:23:03.432Z",
  "source": "https://robloxden.com/game-codes/sword-hunter"
 }

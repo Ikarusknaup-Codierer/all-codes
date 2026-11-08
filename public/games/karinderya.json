@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CANDIES",
+   "reward": "1,000 Halloween Candy"
+  },
+  {
    "code": "80MVISITS",
    "reward": "a Cash Potion and 80,000 Cash"
   },
@@ -99,6 +103,6 @@
    "reward": "3,000 Cash , 1 Cash Potion , and 1 Luck Potion"
   }
  ],
- "updated": "2026-11-06T06:00:08.288Z",
+ "updated": "2026-11-08T05:26:39.830Z",
  "source": "https://robloxden.com/game-codes/karinderya"
 }

@@ -51,10 +51,14 @@
    "reward": "This code credits your accounts with Duck Pet"
   },
   {
+   "code": "HalloweenQuestPets",
+   "reward": "Zombie Bat Pet"
+  },
+  {
    "code": "GoldBoost",
    "reward": "This code credits your accounts with 1 Gold Pet Potion"
   }
  ],
- "updated": "2026-11-06T05:58:15.871Z",
+ "updated": "2026-11-08T05:24:32.851Z",
  "source": "https://robloxden.com/game-codes/pet-racer-simulator"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "circus",
+   "reward": "75,000 Crystals"
+  },
+  {
+   "code": "tradeboard",
+   "reward": "50,000 Crystals"
+  },
+  {
    "code": "batcat",
    "reward": "50,000 Crystals"
   },
@@ -79,6 +87,6 @@
    "reward": "42,500 Crystals"
   }
  ],
- "updated": "2026-11-06T06:00:45.364Z",
+ "updated": "2026-11-08T05:27:17.246Z",
  "source": "https://robloxden.com/game-codes/cookie-run-gacha-simulator"
 }

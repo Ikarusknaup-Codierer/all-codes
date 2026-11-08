@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GHOST",
+   "reward": "500 Candy"
+  },
+  {
+   "code": "CANDY",
+   "reward": "750 Candy"
+  },
+  {
    "code": "PUSHPETAL",
    "reward": "50 Fertilizer"
   },
@@ -127,6 +135,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-11-06T05:59:53.084Z",
+ "updated": "2026-11-08T05:26:23.141Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

@@ -57,8 +57,16 @@
   {
    "code": "LOST",
    "reward": "Lostvorce Property Sign"
+  },
+  {
+   "code": "NewPlayers!",
+   "reward": "Rewards"
+  },
+  {
+   "code": "GRABMONEY",
+   "reward": "10,001 Cash"
   }
  ],
- "updated": "2026-11-06T14:08:02.954Z",
+ "updated": "2026-11-08T13:03:59.527Z",
  "source": "https://robloxden.com/game-codes/oaklands"
 }

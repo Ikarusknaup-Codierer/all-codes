@@ -11,6 +11,10 @@
    "reward": "15,000 Cash"
   },
   {
+   "code": "INDUSTRIAL",
+   "reward": "5,000 Cash"
+  },
+  {
    "code": "BREEZE",
    "reward": "10,000 Cash"
   },
@@ -21,12 +25,8 @@
   {
    "code": "DISASTER",
    "reward": "5,000 Cash"
-  },
-  {
-   "code": "WHOOSH",
-   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-11-06T22:55:15.999Z",
+ "updated": "2026-11-08T13:07:23.062Z",
  "source": "https://robloxden.com/game-codes/tornado-simulator"
 }

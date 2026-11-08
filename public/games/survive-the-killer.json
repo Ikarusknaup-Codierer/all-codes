@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "TRADINGWHEN",
-   "reward": "Sunlit Glass Knife"
+   "code": "KILLERCRAZE",
+   "reward": "Happy's Circus Knife, 50 Coins, And 100 XP"
   },
   {
    "code": "STK2YEARS",
    "reward": "2 Year Birthday Slycer Knife"
   },
   {
-   "code": "SANTA",
-   "reward": "Santa Hat Slycer Knife"
-  },
-  {
-   "code": "LUCKY2021",
-   "reward": "Lucky Carver Knife"
+   "code": "CUPID",
+   "reward": "Heartbreaker Knife"
   },
   {
    "code": "vote1m",
    "reward": "Millionth Slycer"
+  },
+  {
+   "code": "NEWYEARGRIND",
+   "reward": "a 60 Minute XP Boost"
   }
  ],
- "updated": "2026-11-06T22:56:02.764Z",
+ "updated": "2026-11-08T13:08:11.528Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

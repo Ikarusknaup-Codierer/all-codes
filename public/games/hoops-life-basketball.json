@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "Season3",
-   "reward": "150 Coins"
+   "code": "GoldRush",
+   "reward": "50 Gold"
   },
   {
-   "code": "48k",
-   "reward": "Experience"
-  },
-  {
-   "code": "TrophyEvent",
-   "reward": "Free Rewards"
+   "code": "GreenVFX",
+   "reward": "250 Coins"
   },
   {
    "code": "Mascots",
    "reward": "250 Coins"
   },
   {
-   "code": "100XP",
-   "reward": "100 EXP"
+   "code": "RevampedDribbles",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "50XP",
+   "reward": "50 EXP"
   }
  ],
- "updated": "2026-11-06T22:57:59.701Z",
+ "updated": "2026-11-08T13:10:11.087Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "akuma",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "ragingdemon",
+   "reward": "10 Spins"
+  },
+  {
    "code": "streetfighter",
    "reward": "6x Lucky Spins"
   },
@@ -43,6 +51,6 @@
    "reward": "15 Spins"
   }
  ],
- "updated": "2026-11-06T14:07:52.479Z",
+ "updated": "2026-11-08T13:03:49.804Z",
  "source": "https://robloxden.com/game-codes/untitled-boxing-game"
 }

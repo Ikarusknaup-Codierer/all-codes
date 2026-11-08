@@ -11,22 +11,22 @@
    "reward": "Rewards"
   },
   {
-   "code": "MARKET",
-   "reward": "500 Coins"
-  },
-  {
    "code": "WORMFOOD!",
    "reward": "10 Worms"
   },
   {
-   "code": "STRANGEFOOD",
-   "reward": "5 Strange Fish"
-  },
-  {
    "code": "PirateSummer",
    "reward": "300 Coins"
+  },
+  {
+   "code": "10MVisits",
+   "reward": "Free Coins"
+  },
+  {
+   "code": "BoogaBooga!",
+   "reward": "Free Coins"
   }
  ],
- "updated": "2026-11-06T14:05:03.394Z",
+ "updated": "2026-11-08T13:01:36.523Z",
  "source": "https://robloxden.com/game-codes/booga-booga-reborn"
 }

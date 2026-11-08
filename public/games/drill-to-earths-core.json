@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SOULPRISON",
+   "reward": "500 Cores"
+  },
+  {
+   "code": "POORPEOPLE",
+   "reward": "Rewards"
+  },
+  {
    "code": "TRICKORTREAT",
    "reward": "500 Cores"
   },
@@ -15,6 +23,6 @@
    "reward": "500 Cores"
   }
  ],
- "updated": "2026-11-06T22:56:40.930Z",
+ "updated": "2026-11-08T13:08:51.126Z",
  "source": "https://robloxden.com/game-codes/drill-to-earths-core"
 }

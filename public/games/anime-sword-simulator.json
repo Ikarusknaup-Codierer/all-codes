@@ -11,22 +11,22 @@
    "reward": "Giyuu Pet"
   },
   {
-   "code": "UPDATE6",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "update1",
    "reward": "Free Rewards"
   },
   {
-   "code": "JojoPart2",
-   "reward": "10 Minute Energy Potion, 10 Minute Gems Potion, 10 Minute Damage Potio"
+   "code": "10KLikes",
+   "reward": "10 Minute Gems Potion"
   },
   {
-   "code": "UPDATE9",
-   "reward": "10 Minute Energy Potion, 10 Minute Gems Potion, 10 Minute Damage Potio"
+   "code": "RELEASE",
+   "reward": "250 Energy"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "10 Minute Lucky Potion, 10 Minute Damage Potion"
   }
  ],
- "updated": "2026-11-06T22:54:53.051Z",
+ "updated": "2026-11-08T13:06:55.755Z",
  "source": "https://robloxden.com/game-codes/anime-sword-simulator"
 }

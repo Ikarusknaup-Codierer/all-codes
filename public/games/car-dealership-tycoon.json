@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HAUNTEDBARN",
+   "reward": "100 Pumpkins"
+  },
+  {
    "code": "SPOOKYSEASON",
    "reward": "100x Pumpkins"
   },
@@ -135,6 +139,6 @@
    "reward": "100k Cash"
   }
  ],
- "updated": "2026-11-06T22:58:22.375Z",
+ "updated": "2026-11-08T21:52:48.635Z",
  "source": "https://robloxden.com/game-codes/car-dealership-tycoon"
 }

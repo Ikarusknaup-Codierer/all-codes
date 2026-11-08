@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BIGGERAPARTMENT",
+   "reward": "20 Rerolls and 10,000 Yen"
+  },
+  {
+   "code": "HITODAMA",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "GARDENING",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "APARTMENT",
+   "reward": "30 Rerolls and 10,000 Yen"
+  },
+  {
    "code": "DAILYREWARDFIX",
    "reward": "50 Rerolls"
   },
@@ -275,6 +291,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-11-06T23:00:50.433Z",
+ "updated": "2026-11-08T21:54:57.024Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE_94",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "TSO_RETURNS",
+   "reward": "5 Lucky Style Spins"
+  },
+  {
+   "code": "VAMPIRES",
+   "reward": "5 Lucky Ability Spins"
+  },
+  {
    "code": "UPDATE_93",
    "reward": "5 Lucky Style Spins"
   },
@@ -179,6 +191,6 @@
    "reward": "5 Lucky Ability Spins"
   }
  ],
- "updated": "2026-11-06T23:00:34.686Z",
+ "updated": "2026-11-08T21:54:42.122Z",
  "source": "https://robloxden.com/game-codes/volleyball-legends"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKY",
+   "reward": "2,222 Credz"
+  },
+  {
    "code": "BOO",
    "reward": "3,333 Credz"
   },
@@ -27,6 +31,6 @@
    "reward": "2,500 Credz"
   }
  ],
- "updated": "2026-11-06T23:01:47.905Z",
+ "updated": "2026-11-08T21:55:56.508Z",
  "source": "https://robloxden.com/game-codes/runaways"
 }

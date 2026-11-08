@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "THANKYOU100K",
+   "reward": "5,000 Tensei Shards , 2 Server Boosts , and 8 Speed Training Boosts"
+  },
+  {
+   "code": "500KFAVS",
+   "reward": "2,500 Tensei Shards , 4 Training Boosts , and 8 Fruit Rolls"
+  },
+  {
    "code": "BLEACHEXPANSION",
    "reward": "1,000 Tensei Shards , 2,000 Chikara , and 5 Limbo Keys"
   },
@@ -15,20 +23,8 @@
    "reward": "2,500 Tensei Shards , 5,000 Chikara , 1,500 Candy , 3 Upper One Keys ,"
   },
   {
-   "code": "MAINTENANCE",
-   "reward": "5,000 Chikara , 2,500 Tensei Shards , 1,500 Candies , 3 Upper One Keys"
-  },
-  {
    "code": "HELLOWORLD",
    "reward": "1 Standard Limit Break Vial , 1 Hour of Passive Income , 5 Training Sp"
-  },
-  {
-   "code": "UPDATE11",
-   "reward": "2,500 Clover Tokens , 10 Stat Boosts , 3 Clover Boxes , 50,000 Chikara"
-  },
-  {
-   "code": "HALLOWEEN",
-   "reward": "5 Trick or Treat Bags , 5 Stat Boosts , 1,000 Candy , and 2,500 Tensei"
   },
   {
    "code": "THEBEGINNING",
@@ -37,10 +33,6 @@
   {
    "code": "BEGINNERLUCK",
    "reward": "5 Fruit Rolls , 5 Shifting Serums , 5 Champion Luck Potions , and 5 Bo"
-  },
-  {
-   "code": "WIZARDKING",
-   "reward": "5K Chikara, 3K Tensei Shards, 2K Clover Tokens, 2 Clover Giftboxes, 2 "
   },
   {
    "code": "SUB2DWAX",
@@ -63,6 +55,34 @@
    "reward": "1 Temporary Server Boost , 4 Stat Boosts , 4 Chikara Boosts , and 2 Te"
   },
   {
+   "code": "UPD12RELEASE",
+   "reward": "2,500 Candy , 5,000 Tensei Shards , and 4 Tensei Shard Boosts"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "1,500 Chikara , 3,000 Tensei Shards , 1,000 Candy , 3 Stat Boosts , 3 "
+  },
+  {
+   "code": "SORRY4RESTART",
+   "reward": "6 Temporary Server Boosts"
+  },
+  {
+   "code": "MAINTENANCE",
+   "reward": "5,000 Chikara , 2,500 Tensei Shards , 1,500 Candies , 3 Upper One Keys"
+  },
+  {
+   "code": "UPDATE11",
+   "reward": "2,500 Clover Tokens , 10 Stat Boosts , 3 Clover Boxes , 50,000 Chikara"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "5 Trick or Treat Bags , 5 Stat Boosts , 1,000 Candy , and 2,500 Tensei"
+  },
+  {
+   "code": "WIZARDKING",
+   "reward": "5K Chikara, 3K Tensei Shards, 2K Clover Tokens, 2 Clover Giftboxes, 2 "
+  },
+  {
    "code": "SORRY4SHUTDOWN",
    "reward": "1,000 Clover Token and 1 Temporary Server Boost"
   },
@@ -83,6 +103,6 @@
    "reward": "1,500 Chikara , 1,500 Tensei Shards , 4 Training Speed Boosts , 4 Stat"
   }
  ],
- "updated": "2026-11-06T23:05:32.519Z",
+ "updated": "2026-11-08T21:58:06.514Z",
  "source": "https://robloxden.com/game-codes/anime-fighting-simulator-kdmf"
 }

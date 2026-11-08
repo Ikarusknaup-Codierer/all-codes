@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SCIENCE",
+   "reward": "3 Bluetooth Potions , 10 Trait Tokens , and 10 Grade Tokens"
+  },
+  {
    "code": "WEATHER",
    "reward": "5 Grade Tokens and a Luck Potion"
   },
@@ -43,6 +47,6 @@
    "reward": "20 Trait Tokens , 20 Grade Tokens , and 1 Variant Token"
   }
  ],
- "updated": "2026-11-07T05:26:58.358Z",
+ "updated": "2026-11-08T22:01:14.419Z",
  "source": "https://robloxden.com/game-codes/blue-lock-farm"
 }

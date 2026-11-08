@@ -847,6 +847,10 @@
    "reward": "6 Hours of 2x Luck"
   },
   {
+   "code": "CocoaEgg",
+   "reward": "rewards"
+  },
+  {
    "code": "800K",
    "reward": "a Luck Boost"
   },
@@ -1119,6 +1123,6 @@
    "reward": "2 Hours of 3x Mythic Chance"
   }
  ],
- "updated": "2026-11-07T05:27:38.632Z",
+ "updated": "2026-11-08T22:02:01.747Z",
  "source": "https://robloxden.com/game-codes/bubble-gum-simulator"
 }

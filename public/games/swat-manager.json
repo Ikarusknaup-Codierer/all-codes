@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SQUADUP",
+   "reward": "Cash (15 Minutes) , 100 RP , and 15 Clan Marks"
+  },
+  {
    "code": "NEWCITY",
    "reward": "Cash , 75 RP , and 1 Elite Personnel Rifle"
   },
@@ -27,6 +31,6 @@
    "reward": "15 Minutes of Cash , 100 RP , and a Full Duty Bar"
   }
  ],
- "updated": "2026-11-06T23:01:10.475Z",
+ "updated": "2026-11-08T21:55:17.089Z",
  "source": "https://robloxden.com/game-codes/swat-manager"
 }

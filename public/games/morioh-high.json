@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "TUSKUPDATE",
+   "reward": "15 Rerolls and 25 Arrow Shards"
+  },
+  {
+   "code": "GRIPBUG",
+   "reward": "10 Rerolls and 20 Arrow Shards"
+  },
+  {
+   "code": "OOPSVAMPIRE",
+   "reward": "35 Rerolls and 75 Arrow Shards"
+  },
+  {
+   "code": "LIKES15K",
+   "reward": "35 Rerolls and 85 Arrow Shards"
+  },
+  {
+   "code": "LIKES20K",
+   "reward": "35 Rerolls and 100 Arrow Shards"
+  },
+  {
    "code": "LIKES10K",
    "reward": "35 Rerolls and 75 Arrow Shards"
   },
@@ -47,6 +67,6 @@
    "reward": "50 Rerolls and 100 Arrow Shards"
   }
  ],
- "updated": "2026-11-06T23:03:35.819Z",
+ "updated": "2026-11-08T21:57:25.144Z",
  "source": "https://robloxden.com/game-codes/morioh-high"
 }

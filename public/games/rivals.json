@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKYSCARYGARGOYLES",
+   "reward": "1 Spooky Prize Wheel"
+  },
+  {
    "code": "community27",
    "reward": "the Community Wrap"
+  },
+  {
+   "code": "FREE199",
+   "reward": "3 Keys"
   },
   {
    "code": "FREE198",
@@ -31,11 +39,15 @@
    "reward": "1 Key"
   },
   {
-   "code": "FREE203",
+   "code": "FREE205",
    "reward": "3 Keys"
   },
   {
-   "code": "FREE199",
+   "code": "FREE204",
+   "reward": "3 Keys"
+  },
+  {
+   "code": "FREE203",
    "reward": "3 Keys"
   },
   {
@@ -49,12 +61,8 @@
   {
    "code": "BACK2BACK",
    "reward": "Rewards"
-  },
-  {
-   "code": "COMMUNITY24",
-   "reward": "a Community Wrap"
   }
  ],
- "updated": "2026-11-06T23:01:57.027Z",
+ "updated": "2026-11-08T21:56:06.176Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

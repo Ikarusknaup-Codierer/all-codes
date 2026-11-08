@@ -83,10 +83,14 @@
    "reward": "7,500 Cash"
   },
   {
-   "code": "50KVISITS",
-   "reward": "Various In-Game Gifts"
+   "code": "ActivityCheck",
+   "reward": "$5,000 in-game Cash"
+  },
+  {
+   "code": "CASH",
+   "reward": "4,000 Cash"
   }
  ],
- "updated": "2026-11-06T22:58:59.189Z",
+ "updated": "2026-11-08T21:53:13.789Z",
  "source": "https://robloxden.com/game-codes/special-forces-simulator"
 }

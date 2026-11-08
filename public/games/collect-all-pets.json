@@ -11,10 +11,6 @@
    "reward": "x2 Shiny Boost (2hrs)"
   },
   {
-   "code": "LeftPersonLeftPath",
-   "reward": "a 2 Hour 2x Gold Boost"
-  },
-  {
    "code": "STONEHENGE",
    "reward": "2x Gold Boost (8 Hours)"
   },
@@ -243,10 +239,14 @@
    "reward": "x2 Gold Boost (2 Hours)"
   },
   {
+   "code": "LeftPersonLeftPath",
+   "reward": "a 2 Hour 2x Gold Boost"
+  },
+  {
    "code": "Zazu",
    "reward": "2 hours of x2 Metallic Boost"
   }
  ],
- "updated": "2026-11-06T23:02:58.676Z",
+ "updated": "2026-11-08T21:56:59.772Z",
  "source": "https://robloxden.com/game-codes/collect-all-pets"
 }

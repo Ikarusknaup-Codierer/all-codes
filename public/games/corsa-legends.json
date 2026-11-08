@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "V8POWER",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "25,000 Cash"
   },
@@ -15,14 +19,14 @@
    "reward": "25,000 Cash"
   },
   {
-   "code": "350Z",
-   "reward": "$25,000 Cash"
+   "code": "GOLF",
+   "reward": "25,000 Cash"
   },
   {
-   "code": "M5CS",
-   "reward": "Free Rewards"
+   "code": "HAL",
+   "reward": "30,000 Cash"
   }
  ],
- "updated": "2026-11-06T23:02:08.260Z",
+ "updated": "2026-11-08T21:56:18.009Z",
  "source": "https://robloxden.com/game-codes/corsa-legends"
 }

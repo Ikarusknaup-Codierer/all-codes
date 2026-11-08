@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "GrimReaper",
+   "reward": "1 Charm Capsule"
+  },
+  {
    "code": "SpookyTime",
    "reward": "1,000 Candy"
   },
@@ -47,6 +51,6 @@
    "reward": "2 Apex Capture Balls"
   }
  ],
- "updated": "2026-11-06T22:59:50.805Z",
+ "updated": "2026-11-08T21:53:58.808Z",
  "source": "https://robloxden.com/game-codes/catch-dragons-to-defend"
 }

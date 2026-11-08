@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "ACCESSORIES",
+   "reward": "250 Accessory Dust"
+  },
+  {
+   "code": "TRADINGREWORK",
+   "reward": "3 Trade Tickets"
+  },
+  {
+   "code": "PREMIUMTICKET",
+   "reward": "1 Premium Trade Ticket"
+  },
+  {
+   "code": "3KFAVS",
+   "reward": "3 Untradable Jackpot Spins"
+  },
+  {
+   "code": "750KVISITS",
+   "reward": "5 Untradable Jackpot Spins"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "5 Untradable Jackpot Spins"
+  },
+  {
+   "code": "LAB",
+   "reward": "10 Untradable Research Potions"
+  },
+  {
+   "code": "DUNGEONS",
+   "reward": "10 Dungeon Keys"
+  },
+  {
    "code": "750FAVS",
    "reward": "3 Untradable Jackpot Spins"
   },
@@ -59,6 +91,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-06T23:03:33.178Z",
+ "updated": "2026-11-08T21:57:23.189Z",
  "source": "https://robloxden.com/game-codes/pet-dice"
 }

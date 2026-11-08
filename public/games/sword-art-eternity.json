@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DEATHMODE",
+   "reward": "1.5x Exp (1 Hour)"
+  },
+  {
    "code": "FLOOR2STORY",
    "reward": "2x Col (1 Hours) and 2x Luck (1 Hours)"
   },
@@ -19,6 +23,6 @@
    "reward": "2x Luck (1 Hour)"
   }
  ],
- "updated": "2026-11-07T05:24:35.549Z",
+ "updated": "2026-11-08T21:58:26.188Z",
  "source": "https://robloxden.com/game-codes/sword-art-eternity"
 }

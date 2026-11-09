@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "RINSOONSTAYTUNED",
+   "reward": "10,000 Style Coins and 15,000 Cash"
+  },
+  {
+   "code": "HITBOXESFIXED",
+   "reward": "10,000 Style Coins and 15,000 Cash"
+  },
+  {
    "code": "NEWHITBOXES",
    "reward": "10,000 Style Currency and 15,000 Cash"
   },
@@ -175,6 +183,6 @@
    "reward": "X Emote"
   }
  ],
- "updated": "2026-11-07T12:47:24.926Z",
+ "updated": "2026-11-09T05:41:51.626Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

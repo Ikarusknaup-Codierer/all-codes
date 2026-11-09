@@ -25,8 +25,16 @@
   {
    "code": "BLU",
    "reward": "$100 Cash"
+  },
+  {
+   "code": "PART2",
+   "reward": "125 Cash"
+  },
+  {
+   "code": "100MILLY",
+   "reward": "the 100M Knife"
   }
  ],
- "updated": "2026-11-07T12:49:16.729Z",
+ "updated": "2026-11-09T05:43:52.593Z",
  "source": "https://robloxden.com/game-codes/mm2-aim-trainer-2"
 }

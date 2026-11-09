@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "1000LIKES",
+   "reward": "25,000 Coins and 75 Bananas"
+  },
+  {
    "code": "BANANAS",
    "reward": "250 Power , 250 Speed and 25 Bananas"
   },
@@ -23,6 +27,6 @@
    "reward": "500 Coins and 10 Bananas"
   }
  ],
- "updated": "2026-11-07T05:31:29.172Z",
+ "updated": "2026-11-09T05:37:50.917Z",
  "source": "https://robloxden.com/game-codes/steal-the-moon"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PotionPack",
-   "reward": "2 of Each Potion"
-  },
-  {
    "code": "ThankYou",
    "reward": "8K Strength and 4K Trophies"
   },
@@ -47,10 +43,14 @@
    "reward": "1 3x Luck Potion"
   },
   {
+   "code": "PotionPack",
+   "reward": "2 of Each Potion"
+  },
+  {
    "code": "TrophyHunt",
    "reward": "4K Trophies"
   }
  ],
- "updated": "2026-11-07T05:31:36.879Z",
+ "updated": "2026-11-09T05:37:59.643Z",
  "source": "https://robloxden.com/game-codes/1-fist-per-click"
 }

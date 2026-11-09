@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BOO",
+   "reward": "15 Candy Corns"
+  },
+  {
    "code": "TRADE",
    "reward": "the Limited Trade Stall Skin"
   },
@@ -19,6 +23,6 @@
    "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-11-07T05:31:53.355Z",
+ "updated": "2026-11-09T05:38:16.468Z",
  "source": "https://robloxden.com/game-codes/create-a-car"
 }

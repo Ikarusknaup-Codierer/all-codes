@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE10",
+   "reward": "2 Fast Workers and 3 Wheel Spins"
+  },
+  {
+   "code": "DELAYUPD10",
+   "reward": "1 Superior Crate"
+  },
+  {
+   "code": "SORRY",
+   "reward": "5 Crate Skips"
+  },
+  {
    "code": "UPDATE8",
    "reward": "5 Crate Skips and 2 Worker Slots"
   },
@@ -27,6 +39,6 @@
    "reward": "5 Wheel Spins"
   }
  ],
- "updated": "2026-11-07T05:28:22.144Z",
+ "updated": "2026-11-09T05:34:22.301Z",
  "source": "https://robloxden.com/game-codes/unbox-asmr"
 }

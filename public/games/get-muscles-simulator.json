@@ -15,18 +15,18 @@
    "reward": "250 Strength"
   },
   {
+   "code": "boost20k",
+   "reward": "100 Strength"
+  },
+  {
    "code": "buffsanta",
    "reward": "100 Strength and 50 Gems"
   },
   {
-   "code": "fitness10k",
-   "reward": "100 Strength"
-  },
-  {
-   "code": "boost200",
-   "reward": "200 Strength and 200 Gems"
+   "code": "lift1yr",
+   "reward": "400 Strength and 50 Gems"
   }
  ],
- "updated": "2026-11-07T12:47:52.917Z",
+ "updated": "2026-11-09T05:42:22.744Z",
  "source": "https://robloxden.com/game-codes/get-muscles-simulator"
 }

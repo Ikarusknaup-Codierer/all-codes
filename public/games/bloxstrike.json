@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEEN2026",
-   "reward": "100 Credits . Limited to 2,500 uses"
-  },
-  {
    "code": "MICHAELSRETURN",
    "reward": "125 Credits"
   },
@@ -25,8 +21,12 @@
   {
    "code": "GAMEBROKE318",
    "reward": "Credits"
+  },
+  {
+   "code": "OHNEPIXEL",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-11-07T12:47:06.616Z",
+ "updated": "2026-11-09T05:41:31.164Z",
  "source": "https://robloxden.com/game-codes/bloxstrike"
 }

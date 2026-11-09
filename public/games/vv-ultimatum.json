@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "HOLLOVVEEN",
-   "reward": "30 Clan Rerolls , 15 Ability Rerolls , 5 Experimental Hogyoku Shards ,"
-  },
-  {
    "code": "BUILDPOINTS",
    "reward": "1x Built Reset Token"
   },
   {
-   "code": "SHUNKOVASTO",
-   "reward": "20 Clan Rerolls , 15 Ability Rerolls , 5 Experimental Hogyoku Shards ,"
+   "code": "checkmailbox",
+   "reward": "Tokens and Ability Rerolls"
+  },
+  {
+   "code": "HOLLOVVEEN",
+   "reward": "30 Clan Rerolls , 15 Ability Rerolls , 5 Experimental Hogyoku Shards ,"
   },
   {
    "code": "CLANS",
@@ -27,6 +27,10 @@
    "reward": "5 Ability Rerolls , 5 Clan Rerolls , and 5 Experimental Hogyoku Shards"
   },
   {
+   "code": "SHUNKOVASTO",
+   "reward": "20 Clan Rerolls , 15 Ability Rerolls , 5 Experimental Hogyoku Shards ,"
+  },
+  {
    "code": "SORRYFORCODEBUG",
    "reward": "5 Experimental Hogyoky Shards and 5 Ability Rerolls"
   },
@@ -35,6 +39,6 @@
    "reward": "3 Ability Rerolls , 5 Clan Rerolls , 5 Experimental Hogyoky Shards , a"
   }
  ],
- "updated": "2026-11-07T12:45:43.014Z",
+ "updated": "2026-11-09T05:39:57.591Z",
  "source": "https://robloxden.com/game-codes/vv-ultimatum"
 }

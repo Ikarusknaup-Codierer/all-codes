@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "7500LIKES",
+   "reward": "2x Luck (15 Minutes) , 2x Wins (15 Minutes) , and 2x Speed (15 Minutes"
+  },
+  {
+   "code": "5000LIKES",
+   "reward": "2x Luck (15 Minutes) and 3 Common Eggs"
+  },
+  {
    "code": "1500LIKES",
    "reward": "2x Luck (15 mins) and 1 Pet Egg"
   },
@@ -15,6 +23,6 @@
    "reward": "2x Speed (15 Minutes) and 1 random pet egg"
   }
  ],
- "updated": "2026-11-07T21:39:32.164Z",
+ "updated": "2026-11-09T05:48:12.314Z",
  "source": "https://robloxden.com/game-codes/1-money-per-click"
 }

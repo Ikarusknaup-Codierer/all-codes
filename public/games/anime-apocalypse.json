@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CYBERPSYCHO",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "SANDEVISTAN",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 10 Boss Fragments"
+  },
+  {
    "code": "RAIDENSHOGUN",
    "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
   },
@@ -239,6 +247,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-11-07T05:31:33.507Z",
+ "updated": "2026-11-09T05:37:55.926Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

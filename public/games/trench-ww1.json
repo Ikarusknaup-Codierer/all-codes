@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "COSMETICSNEW",
+   "reward": "2 Enlisted Cosmetic Crates"
+  },
+  {
+   "code": "GIVEMEMYHAND",
+   "reward": "2 Dead Man’s Hand Draws"
+  },
+  {
+   "code": "WHATISMYFUTURE",
+   "reward": "a Dead Man's Tarot Draw"
+  },
+  {
+   "code": "LETSGETTHISPARTYSTARTED",
+   "reward": "Event Time (2 Hours)"
+  },
+  {
+   "code": "FINALMEDALCODE",
+   "reward": "3,000 Medals"
+  },
+  {
+   "code": "CHARMSOHMY",
+   "reward": "2 Charm Crates"
+  },
+  {
+   "code": "REGALIAYESPLEASE",
+   "reward": "2 Regalia Crates"
+  },
+  {
+   "code": "INFODOC1500",
+   "reward": "1,500 Intel Docs"
+  },
+  {
    "code": "THECODEXBADGE",
    "reward": "the Free Badge . This code requires you to join the Appy bot in the Di"
   },
@@ -147,6 +179,6 @@
    "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-11-07T21:39:26.094Z",
+ "updated": "2026-11-09T05:48:05.881Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

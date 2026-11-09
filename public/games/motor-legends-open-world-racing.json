@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE24",
+   "reward": "24,000 Cash"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "SEASON4",
    "reward": "4,000 Cash"
   },
@@ -63,6 +71,6 @@
    "reward": "3k Cash"
   }
  ],
- "updated": "2026-11-07T12:48:03.459Z",
+ "updated": "2026-11-09T05:42:34.183Z",
  "source": "https://robloxden.com/game-codes/motor-legends-open-world-racing"
 }

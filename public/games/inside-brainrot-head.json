@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN2",
+   "reward": "a 30K Tokens"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "the 30,000 Tokens"
   },
@@ -25,16 +29,8 @@
   {
    "code": "FAVORITE",
    "reward": "30K Trade Tokens"
-  },
-  {
-   "code": "EASY",
-   "reward": "30,000 Trade Tokens"
-  },
-  {
-   "code": "COSMIC2",
-   "reward": "30,000 Trade Tokens"
   }
  ],
- "updated": "2026-11-07T05:30:32.751Z",
+ "updated": "2026-11-09T05:36:44.178Z",
  "source": "https://robloxden.com/game-codes/inside-brainrot-head"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKY",
+   "reward": "3 Pumpkin Dice"
+  },
+  {
    "code": "QUESTSNEW",
    "reward": "50 Gems , 5 Refined Dice , a Radiant Dice , 5 Astral Dice , and 25 Gol"
   },
@@ -99,14 +103,14 @@
    "reward": "100 Cash and 10 Basic Dice"
   },
   {
-   "code": "SOK4LYFEE",
-   "reward": "8 Demonic Dice and 200 Gems"
-  },
-  {
    "code": "wedidit",
    "reward": "15 Sakura dice, 10 Hacker Dice and 200 Gems"
+  },
+  {
+   "code": "censil",
+   "reward": "100 Astral Dice"
   }
  ],
- "updated": "2026-11-07T05:29:12.673Z",
+ "updated": "2026-11-09T05:35:11.574Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

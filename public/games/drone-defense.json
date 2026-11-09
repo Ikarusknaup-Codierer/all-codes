@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TY4_10K",
-   "reward": "300 Event Shards"
-  },
-  {
    "code": "Shutdown",
    "reward": "a Keybug"
   },
@@ -35,10 +31,10 @@
    "reward": "Rewards"
   },
   {
-   "code": "2MILLION",
-   "reward": "400 Keybugs"
+   "code": "TY4_10K",
+   "reward": "300 Event Shards"
   }
  ],
- "updated": "2026-11-07T21:41:14.990Z",
+ "updated": "2026-11-09T15:49:15.688Z",
  "source": "https://robloxden.com/game-codes/drone-defense"
 }

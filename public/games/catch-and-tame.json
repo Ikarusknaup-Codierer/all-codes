@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "25 Spooky Pumpkins"
+  },
+  {
    "code": "SPOOKY",
    "reward": "10 Spooky Pumpkins"
   },
@@ -83,6 +87,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-11-07T21:40:30.956Z",
+ "updated": "2026-11-09T15:48:34.856Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

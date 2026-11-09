@@ -29,8 +29,16 @@
   {
    "code": "250KVISITS",
    "reward": "2,500 Coins"
+  },
+  {
+   "code": "50KVISITS",
+   "reward": "rewards"
+  },
+  {
+   "code": "LAUNCH",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-07T21:41:58.095Z",
+ "updated": "2026-11-09T15:49:55.890Z",
  "source": "https://robloxden.com/game-codes/musor-drop"
 }

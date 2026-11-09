@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SpookyHalloween!",
+   "reward": "25 Spins"
+  },
+  {
+   "code": "ImmortalClan!",
+   "reward": "25 Spins"
+  },
+  {
+   "code": "HalloweenEvent26!",
+   "reward": "50 Spins"
+  },
+  {
    "code": "AmaterasuVariants!",
    "reward": "15 Spins"
   },
@@ -203,6 +215,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-11-07T21:45:13.057Z",
+ "updated": "2026-11-09T15:52:58.848Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

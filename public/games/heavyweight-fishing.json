@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Legendary",
+   "reward": "50 Tickets and 50 Trait Rerolls . You must be at least level 100 to us"
+  },
+  {
    "code": "BannerShop",
    "reward": "Freebies . You need to be level 100 to redeem this code"
   },
@@ -259,6 +263,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-11-07T21:43:04.900Z",
+ "updated": "2026-11-09T15:51:00.548Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

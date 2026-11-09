@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "270KLIKES",
-   "reward": "a Recruit Case"
-  },
-  {
    "code": "120KLIKES",
    "reward": "a Free Case"
   },
@@ -21,8 +17,12 @@
   {
    "code": "10KLIKES",
    "reward": "a Recruit Case . You must be at least level 5 to redeem this code"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "a recruit case"
   }
  ],
- "updated": "2026-11-07T12:51:54.118Z",
+ "updated": "2026-11-09T15:46:12.407Z",
  "source": "https://robloxden.com/game-codes/murder-duels"
 }

@@ -7,6 +7,46 @@
    "reward": "Description"
   },
   {
+   "code": "freecandymulti123",
+   "reward": "x1.1 Candy"
+  },
+  {
+   "code": "Ticketsss10",
+   "reward": "10 Tickets"
+  },
+  {
+   "code": "goodeyesbro",
+   "reward": "3 All Potions"
+  },
+  {
+   "code": "Wheremywings",
+   "reward": "5 Wings"
+  },
+  {
+   "code": "woodmulti67",
+   "reward": "x1.25 Wood"
+  },
+  {
+   "code": "hahayoufoundpotions",
+   "reward": "1 Cash , Stats , and Scrap Potions"
+  },
+  {
+   "code": "wowmegaboostcash",
+   "reward": "x1.25 Cash"
+  },
+  {
+   "code": "Halloween",
+   "reward": "the 10 Cash Potions , 10 Stats Potions , 10 Scrap Potions and 10 Rune "
+  },
+  {
+   "code": "ILoveTickets",
+   "reward": "the 50 Tickets"
+  },
+  {
+   "code": "ilovebats",
+   "reward": "1.1x Bat Damage"
+  },
+  {
    "code": "HalloweenSoon",
    "reward": "3 ALL Potions and 50 Tickets"
   },
@@ -143,14 +183,14 @@
    "reward": "+1 All Potions"
   },
   {
-   "code": "600ccu",
-   "reward": "3 All Potions and 25 Tickets"
+   "code": "1000ccu",
+   "reward": "75 Tickets"
   },
   {
-   "code": "MiniPatch",
-   "reward": "+2 All Potions"
+   "code": "MiniUpdate",
+   "reward": "10 Diamonds and 25 Red Stars"
   }
  ],
- "updated": "2026-11-07T12:51:32.844Z",
+ "updated": "2026-11-09T15:45:52.825Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

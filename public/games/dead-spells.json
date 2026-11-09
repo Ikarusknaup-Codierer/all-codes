@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HappyBirthdayDecent",
+   "reward": "250 Burgers"
+  },
+  {
    "code": "OptimizationsGoHard",
    "reward": "100 Burgers"
   },
@@ -107,6 +111,6 @@
    "reward": "200 Burgers"
   }
  ],
- "updated": "2026-11-07T21:44:35.834Z",
+ "updated": "2026-11-09T15:52:25.538Z",
  "source": "https://robloxden.com/game-codes/dead-spells"
 }

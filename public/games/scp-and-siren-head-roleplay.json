@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY",
+   "reward": "3,333 Coins"
+  },
+  {
    "code": "COINS",
    "reward": "5,555 Coins"
   },
@@ -15,6 +19,6 @@
    "reward": "1 Lucky Spin"
   }
  ],
- "updated": "2026-11-07T12:52:33.729Z",
+ "updated": "2026-11-09T15:46:45.535Z",
  "source": "https://robloxden.com/game-codes/scp-and-siren-head-roleplay"
 }

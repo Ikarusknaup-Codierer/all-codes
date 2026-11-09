@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "May26",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "REVAMP",
    "reward": "250,000 Cash"
-  },
-  {
-   "code": "TripleLimited",
-   "reward": "20,000 Cash"
   },
   {
    "code": "Stinger",
@@ -193,8 +185,12 @@
   {
    "code": "Sinna",
    "reward": "25,000 Cash"
+  },
+  {
+   "code": "May26",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-11-07T21:40:07.916Z",
+ "updated": "2026-11-09T15:48:13.361Z",
  "source": "https://robloxden.com/game-codes/jupiter-florida-p2w0"
 }

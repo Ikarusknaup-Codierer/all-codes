@@ -11,22 +11,22 @@
    "reward": ""
   },
   {
-   "code": "group1mthx",
+   "code": "1mVisits",
+   "reward": "Reward Unknown"
+  },
+  {
+   "code": "50klikes",
+   "reward": "Reward Unknown"
+  },
+  {
+   "code": "kill!",
    "reward": "2,500 Gems"
   },
   {
-   "code": "Gone",
-   "reward": "3,000 Gems"
-  },
-  {
-   "code": "Update2",
-   "reward": "2,500 Gems"
-  },
-  {
-   "code": "SorryForBugs",
+   "code": "100klikes",
    "reward": "1,500 Gems"
   }
  ],
- "updated": "2026-11-07T12:49:34.544Z",
+ "updated": "2026-11-09T15:44:03.901Z",
  "source": "https://robloxden.com/game-codes/jump-stars"
 }

@@ -43,16 +43,8 @@
    "reward": "a purchaseable Face item on Roblox"
   },
   {
-   "code": "CD3",
-   "reward": "the Crimson Dragonlord Crown"
-  },
-  {
    "code": "V10",
    "reward": "the Pink Hair"
-  },
-  {
-   "code": "REU",
-   "reward": "the Red Overseer Tophat"
   },
   {
    "code": "USS",
@@ -191,6 +183,14 @@
    "reward": "the Black Valk"
   },
   {
+   "code": "CD3",
+   "reward": "the Crimson Dragonlord Crown"
+  },
+  {
+   "code": "REU",
+   "reward": "the Red Overseer Tophat"
+  },
+  {
    "code": "REO",
    "reward": "the Ruby Eternal Crown"
   },
@@ -203,6 +203,6 @@
    "reward": "the Heyop Backpack"
   }
  ],
- "updated": "2026-11-07T12:50:35.297Z",
+ "updated": "2026-11-09T15:44:56.861Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

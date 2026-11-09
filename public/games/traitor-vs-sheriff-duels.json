@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN2026",
+   "reward": "the Scarecrow Sickle"
+  },
+  {
+   "code": "COINS",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "COWBOY",
    "reward": "the Cowboy"
   },
@@ -19,6 +27,6 @@
    "reward": "2,500 Coins"
   }
  ],
- "updated": "2026-11-07T12:50:00.779Z",
+ "updated": "2026-11-09T15:44:25.486Z",
  "source": "https://robloxden.com/game-codes/traitor-vs-sheriff-duels"
 }

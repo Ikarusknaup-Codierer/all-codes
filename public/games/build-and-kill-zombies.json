@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "50 Candies"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "250 Candies"
+  },
+  {
+   "code": "PUMPKINKING",
+   "reward": "100 Candies and 4 Luck Boost (10 Minutes)"
+  },
+  {
    "code": "FORGE",
    "reward": "50 Crypt Tokens"
   },
@@ -51,10 +63,10 @@
    "reward": "50 Lightning Tokens"
   },
   {
-   "code": "HACKER",
-   "reward": "50 Hacker Tokens"
+   "code": "PAINTEVERYWHERE",
+   "reward": "1,000 Cash , 1 Crossbow , and 1 Mounted Gun"
   }
  ],
- "updated": "2026-11-07T12:52:51.428Z",
+ "updated": "2026-11-09T15:47:00.786Z",
  "source": "https://robloxden.com/game-codes/build-and-kill-zombies"
 }

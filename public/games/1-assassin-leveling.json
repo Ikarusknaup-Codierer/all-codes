@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "2,000 Candies and 3 Tickets"
+  },
+  {
    "code": "THANKYOU",
    "reward": "x2 Wins (10 mins) and 1,000 Boss Coins"
   },
@@ -23,6 +27,6 @@
    "reward": "20 Levels"
   }
  ],
- "updated": "2026-11-07T12:53:59.230Z",
+ "updated": "2026-11-09T15:47:39.583Z",
  "source": "https://robloxden.com/game-codes/1-assassin-leveling"
 }

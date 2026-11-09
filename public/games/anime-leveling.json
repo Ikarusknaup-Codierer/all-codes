@@ -35,10 +35,14 @@
    "reward": "100 Gems and 2 Super Luck Potions"
   },
   {
-   "code": "Exchange",
-   "reward": "75 Gems , 1 Super XP Potion , and 1 Super Coin Potion"
+   "code": "CCG",
+   "reward": "150 Gems , 2 Super Luck Potions , and 2 Super Damage Potions"
+  },
+  {
+   "code": "Leveling",
+   "reward": "100 Gems, 1 Damage Potion, 1 Energy Potion, 1 Drop Potion, 1 XP Potion"
   }
  ],
- "updated": "2026-11-07T12:51:53.576Z",
+ "updated": "2026-11-09T15:46:11.884Z",
  "source": "https://robloxden.com/game-codes/anime-leveling"
 }

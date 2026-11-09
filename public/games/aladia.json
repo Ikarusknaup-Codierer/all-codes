@@ -7,6 +7,42 @@
    "reward": "Description"
   },
   {
+   "code": "Racing",
+   "reward": "Rewards . You must be at least level 2 to use this code"
+  },
+  {
+   "code": "DISF",
+   "reward": "Rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "BLOODPASS",
+   "reward": "Rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "MOONPASS",
+   "reward": "Rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "THANKYOUKIN",
+   "reward": "Rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "armpor",
+   "reward": "Free Rewards . You need to reach Level 3 to use this code"
+  },
+  {
+   "code": "KODE",
+   "reward": "Freebies"
+  },
+  {
+   "code": "EDOK",
+   "reward": "Freebies"
+  },
+  {
+   "code": "FATY",
+   "reward": "Freebies"
+  },
+  {
    "code": "PRIME",
    "reward": "Rewards . You must be at least level 3 to use this code"
   },
@@ -17,6 +53,22 @@
   {
    "code": "KFX",
    "reward": "Rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "ARCANEPRISM",
+   "reward": "the ArcanePrism Pistol Skin . You must be at least level 3 to use this"
+  },
+  {
+   "code": "SSS",
+   "reward": "1 Gamepass Card . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "KKK",
+   "reward": "Free Rewards . You must be at least level 5 to use this code"
+  },
+  {
+   "code": "YYY",
+   "reward": "Free Rewards . You must be at least level 5 to use this code"
   },
   {
    "code": "PlasmaDenim",
@@ -71,11 +123,35 @@
    "reward": "Rewards . You must be at least level 3 to use this code"
   },
   {
+   "code": "PorcelainGhost",
+   "reward": "Rewards . You must be at least level 2 to use this code"
+  },
+  {
    "code": "PaperDragon",
    "reward": "Rewards . You must be at least level 2 to use this code"
   },
   {
+   "code": "FossilFang",
+   "reward": "Rewards . You must be at least level 2 to use this code"
+  },
+  {
    "code": "Clockwork",
+   "reward": "Rewards . You must be at least level 2 to use this code"
+  },
+  {
+   "code": "Dessert",
+   "reward": "Rewards . You must be at least level 2 to use this code"
+  },
+  {
+   "code": "Brick",
+   "reward": "Rewards . You must be at least level 2 to use this code"
+  },
+  {
+   "code": "DesertMirage",
+   "reward": "Rewards . You must be at least level 2 to use this code"
+  },
+  {
+   "code": "GCAZZ",
    "reward": "Rewards . You must be at least level 2 to use this code"
   },
   {
@@ -355,6 +431,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-11-07T12:50:57.773Z",
+ "updated": "2026-11-09T15:45:20.482Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

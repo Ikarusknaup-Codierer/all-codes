@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UNDEAD_MONARCH",
+   "reward": "50 Spins"
+  },
+  {
    "code": "HALLOWEEN_2026_KNIGHT",
    "reward": "50 Spins"
   },
@@ -23,6 +27,6 @@
    "reward": "100 Spins"
   }
  ],
- "updated": "2026-11-07T21:40:06.629Z",
+ "updated": "2026-11-09T15:48:12.221Z",
  "source": "https://robloxden.com/game-codes/jujutsu-infinite"
 }

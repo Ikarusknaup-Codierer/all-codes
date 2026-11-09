@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE4",
+   "reward": "5 Aspect Gems"
+  },
+  {
    "code": "HOLLOWREALM",
    "reward": "20 Lucky Spins , 3 Perfect Reforge Stones , and 3 Spirit Prisms"
   },
@@ -131,6 +135,6 @@
    "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-11-07T21:43:42.921Z",
+ "updated": "2026-11-09T15:51:36.964Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

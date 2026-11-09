@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "8243098911",
-   "reward": "the Do you feel sorry for me? Kill Sound Effect"
-  },
-  {
    "code": "8233569802",
    "reward": "the Ara Ara Kill Sound Effect"
   },
@@ -191,6 +187,10 @@
    "reward": "the Death Kill Sound Effect"
   },
   {
+   "code": "8243098911",
+   "reward": "the Do you feel sorry for me? Kill Sound Effect"
+  },
+  {
    "code": "6286038151",
    "reward": "the Birb Kill Sound Effect"
   },
@@ -199,6 +199,6 @@
    "reward": "the Blood Splash Kill Sound Effect"
   }
  ],
- "updated": "2026-11-07T12:49:54.621Z",
+ "updated": "2026-11-09T15:44:19.397Z",
  "source": "https://robloxden.com/game-codes/project-viltrumites"
 }

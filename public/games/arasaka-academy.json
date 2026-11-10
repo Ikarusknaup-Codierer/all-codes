@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "LikeSixteen",
+   "reward": "50 Rerolls"
+  },
+  {
+   "code": "Tired",
+   "reward": "35 Rerolls"
+  },
+  {
+   "code": "KarmaBad",
+   "reward": "35 Rerolls"
+  },
+  {
+   "code": "UPDOnePointFive",
+   "reward": "96 Rerolls"
+  },
+  {
+   "code": "Capri",
+   "reward": "69 Rerolls"
+  },
+  {
+   "code": "PumpkinSpice",
+   "reward": "35 Rerolls"
+  },
+  {
+   "code": "BadGame",
+   "reward": "35 Rerolls"
+  },
+  {
    "code": "SANDWHICHES",
    "reward": "25x Rerolls"
   },
@@ -83,6 +111,6 @@
    "reward": "Rewards . You need to be level 10 to redeem this code"
   }
  ],
- "updated": "2026-11-08T05:23:02.187Z",
+ "updated": "2026-11-10T01:27:20.243Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

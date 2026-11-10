@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PUMPKINHALLOWEEN",
-   "reward": "100 Pumpkins"
-  },
-  {
    "code": "THANKYOUSTYLISTS",
    "reward": "the Rollcake Backpack"
   },
@@ -35,14 +31,14 @@
    "reward": "100 Coins"
   },
   {
-   "code": "FRIDAYEGG",
-   "reward": "Free Rewards"
+   "code": "BRINGTHEBOX",
+   "reward": "400 Pumpkins"
   },
   {
-   "code": "FIXTHEEASTER",
-   "reward": "Freebies"
+   "code": "PUMPKINHALLOWEEN",
+   "reward": "100 Pumpkins"
   }
  ],
- "updated": "2026-11-07T21:45:40.601Z",
+ "updated": "2026-11-10T01:23:10.801Z",
  "source": "https://robloxden.com/game-codes/prism-runway-show"
 }

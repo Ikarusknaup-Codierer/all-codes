@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATEDAYWOW",
+   "code": "CODE3",
    "reward": "Luck"
   },
   {
-   "code": "STYLES",
-   "reward": "3 Lucky Rolls"
-  },
-  {
-   "code": "LUFFY",
-   "reward": "5 Power Rolls"
-  },
-  {
-   "code": "CODE2",
-   "reward": "3 Lucky Rolls"
+   "code": "SERVER10K",
+   "reward": "500M Yen"
   },
   {
    "code": "UPDATEDAY",
    "reward": "Revive"
+  },
+  {
+   "code": "RANKED",
+   "reward": "40M Yen"
+  },
+  {
+   "code": "MOREPOWERS",
+   "reward": "3 Power Rolls"
   }
  ],
- "updated": "2026-11-07T21:46:25.865Z",
+ "updated": "2026-11-10T01:23:55.241Z",
  "source": "https://robloxden.com/game-codes/sky-fighters"
 }

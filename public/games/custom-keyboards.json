@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "PETS",
-   "reward": "2 wheel Spins , a 4x Rolls Item (10 Minutes) , a 2x Luck Item (10 Minu"
-  },
-  {
    "code": "STICKERS",
    "reward": "2 wheel Spins , a 4x Rolls Item (10 Minutes) , a 2x Luck Item (10 Minu"
   },
@@ -51,14 +47,14 @@
    "reward": "2x Kick Power Item (15 Minutes) , 2x Cash Item (10 Minutes) , a Boba P"
   },
   {
-   "code": "BOBA",
-   "reward": "2x Luck (20 Minutes) , 20,000 Cash , and a Boba Pack"
+   "code": "PETS",
+   "reward": "2 wheel Spins , a 4x Rolls Item (10 Minutes) , a 2x Luck Item (10 Minu"
   },
   {
-   "code": "650LIKES",
-   "reward": "a Legendary Pack , a Boba Pack , 2x Luck (10 Minutes) , and 2x Kick Po"
+   "code": "BOBA",
+   "reward": "2x Luck (20 Minutes) , 20,000 Cash , and a Boba Pack"
   }
  ],
- "updated": "2026-11-08T05:23:18.883Z",
+ "updated": "2026-11-10T01:27:38.559Z",
  "source": "https://robloxden.com/game-codes/custom-keyboards"
 }

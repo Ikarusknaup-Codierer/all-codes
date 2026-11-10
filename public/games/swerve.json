@@ -15,6 +15,10 @@
    "reward": "50,000 Cash"
   },
   {
+   "code": "8KLIKES",
+   "reward": "Rewards"
+  },
+  {
    "code": "barnboost",
    "reward": "Cash"
   },
@@ -25,10 +29,6 @@
   {
    "code": "lilbaby",
    "reward": "500,000 Cash"
-  },
-  {
-   "code": "8KLIKES",
-   "reward": ""
   },
   {
    "code": "7KLIKES",
@@ -63,6 +63,6 @@
    "reward": "the GT3RS 992 Car"
   }
  ],
- "updated": "2026-11-07T21:45:58.169Z",
+ "updated": "2026-11-10T01:23:27.181Z",
  "source": "https://robloxden.com/game-codes/swerve"
 }

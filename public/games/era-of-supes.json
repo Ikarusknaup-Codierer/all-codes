@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HULKSMASH",
+   "reward": "75,000 Cash"
+  },
+  {
    "code": "LANTERNS",
    "reward": "2,000 Cash"
   },
@@ -51,10 +55,10 @@
    "reward": "2,000 Cash"
   },
   {
-   "code": "gameiskindaback",
-   "reward": "60 Levels"
+   "code": "gameisback",
+   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-11-07T21:48:29.215Z",
+ "updated": "2026-11-10T01:25:50.702Z",
  "source": "https://robloxden.com/game-codes/era-of-supes"
 }

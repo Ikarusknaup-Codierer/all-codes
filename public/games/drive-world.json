@@ -7,12 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "HUNDRIMS",
-   "reward": "Rims for the Hund"
-  },
-  {
-   "code": "elfevent",
-   "reward": "5,000 Cash"
+   "code": "525klikes",
+   "reward": "Off-Roading Sport Tires"
   },
   {
    "code": "450klikes",
@@ -63,8 +59,8 @@
    "reward": "Sparkle Time Wrap"
   },
   {
-   "code": "525klikes",
-   "reward": "Off-Roading Sport Tires"
+   "code": "HUNDRIMS",
+   "reward": "Rims for the Hund"
   },
   {
    "code": "goldenranches",
@@ -81,8 +77,12 @@
   {
    "code": "475k",
    "reward": "Tie Dye Wrap"
+  },
+  {
+   "code": "elfevent",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-11-08T05:25:39.154Z",
+ "updated": "2026-11-10T01:30:02.230Z",
  "source": "https://robloxden.com/game-codes/drive-world"
 }

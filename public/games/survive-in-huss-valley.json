@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TRICKORTREAT",
+   "reward": "150 Candy Corn"
+  },
+  {
+   "code": "SPOOKYSEASON",
+   "reward": "200 Candy Corn and 2 Wheel Spins"
+  },
+  {
    "code": "INFECTION",
    "reward": "150 Candy Corn and 500 Coins"
   },
@@ -31,6 +39,6 @@
    "reward": "1 Ghost Key and 500 Candy Corn"
   }
  ],
- "updated": "2026-11-07T21:46:02.626Z",
+ "updated": "2026-11-10T01:23:31.584Z",
  "source": "https://robloxden.com/game-codes/survive-in-huss-valley"
 }

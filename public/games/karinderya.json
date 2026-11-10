@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NADAPA",
+   "reward": "50,000 Cash and 1 Ultra Luck Potion"
+  },
+  {
    "code": "CANDIES",
    "reward": "1,000 Halloween Candy"
   },
@@ -67,16 +71,8 @@
    "reward": "200,000 Cash and x2 Cash Potions"
   },
   {
-   "code": "CUSHIONCHAIRSTO",
-   "reward": "1,000 Cash and 12 Cushion Chairs"
-  },
-  {
    "code": "100KCCU",
    "reward": "100,000 Cash"
-  },
-  {
-   "code": "BRGYPERMIT",
-   "reward": "15,000 Cash , 2 Cash Potions , and 2 Luck Potions"
   },
   {
    "code": "50KCCU",
@@ -95,14 +91,10 @@
    "reward": "10,000 Cash , a Folding Table and a Folding Chair"
   },
   {
-   "code": "1MVISITS",
-   "reward": "5,000 Cash , 1 Deluxe Stove , 1 Parson Chair , and 1 Parson Table"
-  },
-  {
    "code": "BAKARENEPAIRYAN",
    "reward": "3,000 Cash , 1 Cash Potion , and 1 Luck Potion"
   }
  ],
- "updated": "2026-11-08T05:26:39.830Z",
+ "updated": "2026-11-10T01:31:06.891Z",
  "source": "https://robloxden.com/game-codes/karinderya"
 }

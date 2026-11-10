@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "10,000 Gems and 400 Candy"
+  },
+  {
    "code": "25MVISITS",
    "reward": "5,000 Gems"
   },
@@ -35,6 +39,6 @@
    "reward": "10,000 Gems"
   }
  ],
- "updated": "2026-11-07T21:47:50.830Z",
+ "updated": "2026-11-10T01:25:22.895Z",
  "source": "https://robloxden.com/game-codes/survive-a-million-monkeys"
 }

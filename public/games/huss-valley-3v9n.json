@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TRICKORTREAT",
+   "reward": "150 Candy Corn"
+  },
+  {
+   "code": "SPOOKYSEASON",
+   "reward": "200 Candy Corn and 2 Wheel Spins"
+  },
+  {
    "code": "INFECTION",
    "reward": "150 Candy Corn and 500 Coins"
   },
@@ -31,6 +39,6 @@
    "reward": "1 Ghost Key and 500 Candy Corn"
   }
  ],
- "updated": "2026-11-08T05:31:11.947Z",
+ "updated": "2026-11-10T14:40:54.954Z",
  "source": "https://robloxden.com/game-codes/huss-valley-3v9n"
 }

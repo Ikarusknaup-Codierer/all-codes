@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "CHOCOLATE_FONDUE",
+   "reward": "2.9M Cash"
+  },
+  {
+   "code": "BUM_PLAYER",
+   "reward": "100 Rerolls and 199 Refreshes"
+  },
+  {
+   "code": "DON_LORENZO",
+   "reward": "2,222,222 Cash"
+  },
+  {
+   "code": "GIVEMEMONEY",
+   "reward": "1M Cash"
+  },
+  {
+   "code": "ACEEATER",
+   "reward": "150 Rerolls and 100 Refreshes"
+  },
+  {
    "code": "TRADING",
    "reward": "150 Rerolls , 150 Refreshes , and 1M Cash"
   },
@@ -127,6 +147,6 @@
    "reward": "50 Refreshes"
   }
  ],
- "updated": "2026-11-08T13:04:24.673Z",
+ "updated": "2026-11-10T14:44:30.747Z",
  "source": "https://robloxden.com/game-codes/build-a-blue-lock-squad"
 }

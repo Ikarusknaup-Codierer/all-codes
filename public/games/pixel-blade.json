@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY4BUG",
+   "reward": "1 Wish"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "1 Wish"
+  },
+  {
    "code": "OMEGAYT",
    "reward": "3x Class Dice , 3x Revives , and 400 Coins"
   },
@@ -23,6 +31,10 @@
    "reward": "2 Ominous Chests , 26 Coins , and 10 Dead Sticks"
   },
   {
+   "code": "LASTCHANCE",
+   "reward": "250 Candy and 1 Wish"
+  },
+  {
    "code": "FREEWISH2",
    "reward": "the 1 Free Wish"
   },
@@ -31,6 +43,6 @@
    "reward": "a Wish"
   }
  ],
- "updated": "2026-11-08T05:29:16.527Z",
+ "updated": "2026-11-10T14:39:13.121Z",
  "source": "https://robloxden.com/game-codes/pixel-blade"
 }

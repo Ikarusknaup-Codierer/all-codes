@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "35 Rolls"
+  },
+  {
    "code": "WEAPONS",
    "reward": "20x Rolls"
   },
@@ -27,6 +31,6 @@
    "reward": "50 Rerolls"
   }
  ],
- "updated": "2026-11-08T05:29:32.245Z",
+ "updated": "2026-11-10T14:39:25.815Z",
  "source": "https://robloxden.com/game-codes/kabuki"
 }

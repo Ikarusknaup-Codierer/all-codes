@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "3500LIKES",
-   "reward": ""
+   "code": "4500LIKES",
+   "reward": "rewards"
   },
   {
-   "code": "NEWCODESUPDATE",
-   "reward": ""
+   "code": "CLASSANDMISSION",
+   "reward": "rewards"
+  },
+  {
+   "code": "4000LIKES",
+   "reward": "rewards"
+  },
+  {
+   "code": "HALLOWEEN26",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-08T13:02:49.959Z",
+ "updated": "2026-11-10T14:43:05.120Z",
  "source": "https://robloxden.com/game-codes/cqb-hell"
 }

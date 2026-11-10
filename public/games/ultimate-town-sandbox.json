@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEENEXPANDED",
+   "reward": "500 Candy . This code only works in the Map Expansion Mode"
+  },
+  {
    "code": "TOMMY",
    "reward": "A Tommy Gun For Thomas"
   },
@@ -119,6 +123,6 @@
    "reward": "250 Cookies On Your Current Character"
   }
  ],
- "updated": "2026-11-08T05:28:31.520Z",
+ "updated": "2026-11-10T14:38:41.964Z",
  "source": "https://robloxden.com/game-codes/ultimate-town-sandbox"
 }

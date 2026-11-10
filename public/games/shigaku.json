@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "OurApolocheese",
+   "reward": "125 Rerolls"
+  },
+  {
    "code": "TenToes",
    "reward": "65 Rerolls"
   },
@@ -33,10 +37,6 @@
   {
    "code": "HALLOWEEN2026",
    "reward": "150x Rerolls"
-  },
-  {
-   "code": "25kMEMBERS",
-   "reward": "100 Rerolls and 500 Cash"
   },
   {
    "code": "2XROLLS",
@@ -85,8 +85,12 @@
   {
    "code": "FINALSHUTDOWN4THENIGHTMAYBEIDK",
    "reward": "25x Rerolls"
+  },
+  {
+   "code": "25kMEMBERS",
+   "reward": "100 Rerolls and 500 Cash"
   }
  ],
- "updated": "2026-11-08T13:04:16.405Z",
+ "updated": "2026-11-10T14:44:23.334Z",
  "source": "https://robloxden.com/game-codes/shigaku"
 }

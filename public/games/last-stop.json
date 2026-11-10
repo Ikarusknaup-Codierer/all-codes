@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORTHEDELAY",
+   "reward": "400 Tickets"
+  },
+  {
+   "code": "BUSRUSH!",
+   "reward": "300 Tickets"
+  },
+  {
    "code": "SPOOKY",
    "reward": "100 Pumpkin Tokens , 500 Tickets , and 2 Class Rerolls"
   },
@@ -59,6 +67,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-11-08T13:03:00.872Z",
+ "updated": "2026-11-10T14:43:14.802Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

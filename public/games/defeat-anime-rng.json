@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "upd10luck",
+   "reward": "2 Luck Boost (1 Hour)"
+  },
+  {
+   "code": "upd10gold",
+   "reward": "2 Gold Boost (3 Hours)"
+  },
+  {
+   "code": "Vampire",
+   "reward": "300 Trait Shards"
+  },
+  {
+   "code": "Halloween",
+   "reward": "50 Star Shards"
+  },
+  {
    "code": "upd9luck",
    "reward": "an X2 Luck Boost (1 Hour)"
   },
@@ -143,6 +159,6 @@
    "reward": "50 Trait Shards"
   }
  ],
- "updated": "2026-11-08T05:30:55.265Z",
+ "updated": "2026-11-10T14:40:39.226Z",
  "source": "https://robloxden.com/game-codes/defeat-anime-rng"
 }

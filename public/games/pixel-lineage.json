@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ARENA",
-   "reward": "1 Life , 15 Race Spins , and 10 Talent Spins"
-  },
-  {
    "code": "SKYRON",
    "reward": "10 Race Rerolls and 10 Talent Spins"
   },
@@ -43,10 +39,10 @@
    "reward": "5 Race Spins , 5 Talent Spins , and 1 Life"
   },
   {
-   "code": "THANKYOU",
-   "reward": "Rewards"
+   "code": "ARENA",
+   "reward": "1 Life , 15 Race Spins , and 10 Talent Spins"
   }
  ],
- "updated": "2026-11-08T13:07:06.731Z",
+ "updated": "2026-11-10T14:46:37.793Z",
  "source": "https://robloxden.com/game-codes/pixel-lineage"
 }

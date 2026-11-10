@@ -11,10 +11,6 @@
    "reward": "50,000 Gold, 7 Bloodline Rolls, 1 ODMG Crate, 1 Blade Crate, 5 Titan C"
   },
   {
-   "code": "KiroIsBad",
-   "reward": "1 Loot Box"
-  },
-  {
    "code": "18000Likes!",
    "reward": "2,500 Gold And Loot Boxes"
   },
@@ -149,8 +145,12 @@
   {
    "code": "29000Likes",
    "reward": "3,000 Coins , 5 Loot Boxes , 1 Cosmetic Loot Box , and 2 Bloodline Rol"
+  },
+  {
+   "code": "KiroIsBad",
+   "reward": "1 Loot Box"
   }
  ],
- "updated": "2026-11-08T05:30:37.965Z",
+ "updated": "2026-11-10T14:40:23.315Z",
  "source": "https://robloxden.com/game-codes/attack-on-titan-vengeance"
 }

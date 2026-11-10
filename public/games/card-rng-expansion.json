@@ -7,30 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "50,000 Halloween Pack"
-  },
-  {
-   "code": "BLESSING",
-   "reward": "Rewards"
-  },
-  {
-   "code": "1MILVISITS",
-   "reward": "Rewards"
-  },
-  {
-   "code": "LEHDEPTH",
-   "reward": "10 Mutation Potions , 10 Divine Potions , 50,000 Stat Aura Packs , and"
-  },
-  {
-   "code": "MUTATION",
-   "reward": "15 Legendary Luck Potions"
-  },
-  {
-   "code": "VIDEOGAME",
-   "reward": "15 Legendary Luck Potions"
-  },
-  {
    "code": "600PLAYERS",
    "reward": "15 Legendary Luck Potions"
   },
@@ -79,14 +55,34 @@
    "reward": "15 Legendary Speed Potions , 50 Boss Potions , 15 Legendary Luck Potio"
   },
   {
-   "code": "COMPENSATION",
+   "code": "HALLOWEENTWO",
    "reward": "Rewards"
   },
   {
-   "code": "BIGGIEDELAY",
+   "code": "HALLOWEEN",
+   "reward": "50,000 Halloween Pack"
+  },
+  {
+   "code": "BLESSING",
    "reward": "Rewards"
+  },
+  {
+   "code": "1MILVISITS",
+   "reward": "Rewards"
+  },
+  {
+   "code": "LEHDEPTH",
+   "reward": "10 Mutation Potions , 10 Divine Potions , 50,000 Stat Aura Packs , and"
+  },
+  {
+   "code": "MUTATION",
+   "reward": "15 Legendary Luck Potions"
+  },
+  {
+   "code": "VIDEOGAME",
+   "reward": "15 Legendary Luck Potions"
   }
  ],
- "updated": "2026-11-08T21:55:54.687Z",
+ "updated": "2026-11-10T23:09:20.772Z",
  "source": "https://robloxden.com/game-codes/card-rng-expansion"
 }

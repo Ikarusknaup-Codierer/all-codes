@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "Vegetation",
-   "reward": "350 Cash"
-  },
-  {
    "code": "alarms",
    "reward": "Rewards"
   },
   {
    "code": "delivery",
    "reward": "Rewards"
+  },
+  {
+   "code": "Vegetation",
+   "reward": "350 Cash"
   },
   {
    "code": "Gang",
@@ -27,6 +27,6 @@
    "reward": "350 Cash"
   }
  ],
- "updated": "2026-11-08T13:09:28.205Z",
+ "updated": "2026-11-10T23:04:24.104Z",
  "source": "https://robloxden.com/game-codes/my-prison"
 }

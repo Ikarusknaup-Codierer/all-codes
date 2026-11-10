@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "TRICKORTREAT",
+   "reward": "1 Lucky Spin"
+  },
+  {
+   "code": "HACKED",
+   "reward": "2x Cash (20 mins)"
+  },
+  {
+   "code": "PLUSHIE",
+   "reward": "the Pumpkin Plushie"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "200 Candies"
+  },
+  {
+   "code": "500k",
+   "reward": "10 Random Phones . X Exclusive Code!"
+  },
+  {
+   "code": "1X1X1X1",
+   "reward": "1 Random Phone . Hidden in the thumbnail!"
+  },
+  {
    "code": "FIXIT",
    "reward": "1 Lot Key"
   },
@@ -15,6 +39,6 @@
    "reward": "2x Cash (15 mins)"
   }
  ],
- "updated": "2026-11-08T21:56:23.105Z",
+ "updated": "2026-11-10T23:09:49.271Z",
  "source": "https://robloxden.com/game-codes/fix-my-phone"
 }

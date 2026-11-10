@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ZOMBIES",
+   "reward": "2,500 Credits and 1 Halloween Case Key"
+  },
+  {
    "code": "CHAOS_AND_RAGE",
    "reward": "2,500 Credits , a Skin Key , and an Enchant Key"
   },
@@ -23,6 +27,6 @@
    "reward": "5 Free Valentine Crates"
   }
  ],
- "updated": "2026-11-08T21:57:59.627Z",
+ "updated": "2026-11-10T23:11:26.568Z",
  "source": "https://robloxden.com/game-codes/combat-warriors"
 }

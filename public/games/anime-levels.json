@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Cauldron",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Pumpkin",
+   "reward": "200 Gems"
+  },
+  {
+   "code": "Halloween",
+   "reward": "1x Super Coin Potion , 1x Super Damage Potion , 1x Super Drop Potion ,"
+  },
+  {
    "code": "Zanpakuto",
    "reward": "500 Gems"
   },
@@ -91,6 +103,6 @@
    "reward": "100 Gems , a Coin Potion , a Damage Potion , a Drop Potion , an Energy"
   }
  ],
- "updated": "2026-11-08T21:53:28.307Z",
+ "updated": "2026-11-10T23:06:54.338Z",
  "source": "https://robloxden.com/game-codes/anime-levels"
 }

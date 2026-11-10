@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "250 Pumpkins"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "a Halloween Crate"
+  },
+  {
+   "code": "SCARECROW",
+   "reward": "a Wall"
+  },
+  {
    "code": "HOTFIX3",
    "reward": "3 Wheel Spins"
   },
@@ -15,6 +27,6 @@
    "reward": "1 Golden Spin"
   }
  ],
- "updated": "2026-11-08T21:55:12.704Z",
+ "updated": "2026-11-10T23:08:38.660Z",
  "source": "https://robloxden.com/game-codes/build-the-great-wall"
 }

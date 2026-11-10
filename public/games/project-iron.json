@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "THANKYOU",
+   "reward": "Rewards"
+  },
+  {
+   "code": "ZINO",
+   "reward": "Rewards"
+  },
+  {
+   "code": "SORRY",
+   "reward": "Rewards"
+  },
+  {
    "code": "REROLLS",
    "reward": "50 Rerolls (All Categories)"
   }
  ],
- "updated": "2026-11-08T13:09:40.274Z",
+ "updated": "2026-11-10T23:04:37.303Z",
  "source": "https://robloxden.com/game-codes/project-iron"
 }

@@ -11,14 +11,6 @@
    "reward": "50,000 Money and a Legendary Spin"
   },
   {
-   "code": "SantaFillesh",
-   "reward": "1 Rare Spin and 50,000 Money"
-  },
-  {
-   "code": "RewardsUpdate",
-   "reward": "1 Epic Spin and 1 Wheel Spin"
-  },
-  {
    "code": "FlexUrMuscles",
    "reward": "15,000 Money , 2 Epic Spins , and 1 Wheel Spin"
   },
@@ -47,10 +39,18 @@
    "reward": "1 Epic Spin and 1 Wheel Spin"
   },
   {
+   "code": "SantaFillesh",
+   "reward": "1 Rare Spin and 50,000 Money"
+  },
+  {
+   "code": "RewardsUpdate",
+   "reward": "1 Epic Spin and 1 Wheel Spin"
+  },
+  {
    "code": "CrimsonMimic",
    "reward": "1 Legendary Spin"
   }
  ],
- "updated": "2026-11-08T21:58:30.840Z",
+ "updated": "2026-11-10T23:11:56.402Z",
  "source": "https://robloxden.com/game-codes/heroes-world"
 }

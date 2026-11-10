@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEENUPDATE",
-   "reward": "1K ForestBux"
-  },
-  {
-   "code": "NEWBOOTHS",
-   "reward": "1K ForestBux"
-  },
-  {
    "code": "Forest",
    "reward": "50 ForestBux"
   },
@@ -25,8 +17,16 @@
   {
    "code": "Secretsewer",
    "reward": "the Sewer Booth"
+  },
+  {
+   "code": "HALLOWEENUPDATE",
+   "reward": "1K ForestBux"
+  },
+  {
+   "code": "NEWBOOTHS",
+   "reward": "1K ForestBux"
   }
  ],
- "updated": "2026-11-08T21:55:20.990Z",
+ "updated": "2026-11-10T23:08:46.923Z",
  "source": "https://robloxden.com/game-codes/forest-donations"
 }

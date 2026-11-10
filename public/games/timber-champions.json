@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "bee",
-   "reward": "Free In-Game Boost And Rewards"
+   "code": "UPD20",
+   "reward": "2 Ultra Lucky Boosts"
   },
   {
-   "code": "EASTER",
+   "code": "SPRING",
+   "reward": "2 Ultra Lucky Boosts"
+  },
+  {
+   "code": "SATURN",
    "reward": "2 Ultra Lucky Boosts"
   },
   {
@@ -19,14 +23,10 @@
    "reward": "2 Ultra Lucky Boosts"
   },
   {
-   "code": "SAMURAI",
-   "reward": "2 Lucky Boosts"
-  },
-  {
-   "code": "15M",
-   "reward": "2 Ultra Lucky Boosts"
+   "code": "STEAMPUNK",
+   "reward": "2 2x Damage Boosts"
   }
  ],
- "updated": "2026-11-08T13:07:58.058Z",
+ "updated": "2026-11-10T23:02:54.982Z",
  "source": "https://robloxden.com/game-codes/timber-champions"
 }

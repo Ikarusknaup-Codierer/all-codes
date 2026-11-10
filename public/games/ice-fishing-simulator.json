@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BLOODMOON",
-   "reward": "500 Gems"
-  },
-  {
-   "code": "COOKING",
-   "reward": "5,000 Coins"
-  },
-  {
    "code": "FISH",
    "reward": "500 Gems"
   },
@@ -31,14 +23,14 @@
    "reward": "5,000 Coins"
   },
   {
-   "code": "FIREWORKS",
+   "code": "BLOODMOON",
    "reward": "500 Gems"
   },
   {
-   "code": "VOIDFANG",
-   "reward": "500 Gems"
+   "code": "COOKING",
+   "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-11-08T21:55:40.169Z",
+ "updated": "2026-11-10T23:09:06.222Z",
  "source": "https://robloxden.com/game-codes/ice-fishing-simulator"
 }

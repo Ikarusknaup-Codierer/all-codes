@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "GoldRush",
-   "reward": "50 Gold"
+   "code": "48k",
+   "reward": "Experience"
   },
   {
-   "code": "GreenVFX",
-   "reward": "250 Coins"
+   "code": "Chance",
+   "reward": "10 Chance Crates"
   },
   {
-   "code": "Mascots",
-   "reward": "250 Coins"
+   "code": "CoinsStage",
+   "reward": "100 Coins"
   },
   {
-   "code": "RevampedDribbles",
-   "reward": "250 Coins"
+   "code": "Snatchback",
+   "reward": "100 Coins"
   },
   {
-   "code": "50XP",
-   "reward": "50 EXP"
+   "code": "NewPlaza",
+   "reward": "100 Coins"
   }
  ],
- "updated": "2026-11-08T13:10:11.087Z",
+ "updated": "2026-11-10T23:05:04.658Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

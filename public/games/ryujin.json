@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "sorryfordelayfixed!",
+   "reward": "500 Ryujin Coins"
+  },
+  {
+   "code": "generework",
+   "reward": "300 Ryujin Coins , 10 Psyche Rerolls and 5 Specific Psyche Rerolls"
+  },
+  {
+   "code": "pityrework",
+   "reward": "250 Ryujin Coins , 10 Psyche Rerolls and 2 Specific Psyche Rerolls"
+  },
+  {
+   "code": "panclan",
+   "reward": "250 Ryujin Coins and 10 Clan Rerolls"
+  },
+  {
    "code": "likesmilestone29",
    "reward": "200 Ryujin Coins , 5 Clan Rerolls , 7 Psyche Rerolls , and 3 Single Ps"
   },
@@ -35,14 +51,14 @@
    "reward": "200 Ryujin Coins , 5 Clan Rerolls , 7 Psyche Rerolls , and 3 Single Ps"
   },
   {
-   "code": "merryryujinchristmas",
-   "reward": "55 Ryujin Coins"
+   "code": "likesmilestone21",
+   "reward": "200 Ryujin Coins , 5 Clan Rerolls , 7 Psyche Rerolls , and 3 Single Ps"
   },
   {
    "code": "bigcode",
    "reward": "999 RC , 20 Clan Rerolls , 21 Psyche Rerolls , 6 Specific Psyche Rerol"
   }
  ],
- "updated": "2026-11-08T21:56:43.288Z",
+ "updated": "2026-11-10T23:10:09.538Z",
  "source": "https://robloxden.com/game-codes/ryujin"
 }

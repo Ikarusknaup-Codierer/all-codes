@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HalloSzn26",
-   "reward": "80 Hearts"
-  },
-  {
-   "code": "TataTuning",
-   "reward": "1 Million RC , 10 Million Yen , 30 Color Credits , and 20 Hearts"
-  },
-  {
    "code": "ANNIVERSARY-8",
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   },
@@ -47,7 +39,15 @@
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   },
   {
+   "code": "HalloSzn26",
+   "reward": "80 Hearts"
+  },
+  {
    "code": "ReTatara!!!",
+   "reward": "1 Million RC , 10 Million Yen , 30 Color Credits , and 20 Hearts"
+  },
+  {
+   "code": "TataTuning",
    "reward": "1 Million RC , 10 Million Yen , 30 Color Credits , and 20 Hearts"
   },
   {
@@ -87,6 +87,6 @@
    "reward": "1M RC , 10M Yen , 30 Color Credits , and 20 Hearts"
   }
  ],
- "updated": "2026-11-08T21:54:44.594Z",
+ "updated": "2026-11-10T23:08:10.514Z",
  "source": "https://robloxden.com/game-codes/ro-ghoul"
 }

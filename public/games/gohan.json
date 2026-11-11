@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GRAVEYARDRESET",
+   "reward": "the Story Reset"
+  },
+  {
+   "code": "TRICKORZENI",
+   "reward": "50,000 Zeni"
+  },
+  {
+   "code": "SPOOKYSPINS",
+   "reward": "15 Spins and 15 Trait Spins"
+  },
+  {
    "code": "HitReset",
    "reward": "Stats Reset"
   },
@@ -23,10 +35,6 @@
    "reward": "50,000 Zeni"
   },
   {
-   "code": "revamp",
-   "reward": "10 Trait Spins"
-  },
-  {
    "code": "StatReset",
    "reward": "a Stat Reset . Code will take effect immediately"
   },
@@ -35,6 +43,6 @@
    "reward": "a Story Reset . Code will take effect immediately"
   }
  ],
- "updated": "2026-11-09T05:42:29.221Z",
+ "updated": "2026-11-11T13:55:16.900Z",
  "source": "https://robloxden.com/game-codes/gohan"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FischFright2026",
-   "reward": "2,026 Coins , The Doomsekkar Bobber , Jack-o-Statue Lantern , and 226x"
-  },
-  {
    "code": "scarlet",
    "reward": "Scarlet Skin For Nate’s Blade"
   },
@@ -31,10 +27,14 @@
    "reward": "Rewards . You need to be level 25 to redeem this code"
   },
   {
+   "code": "FischFright2026",
+   "reward": "2,026 Coins , The Doomsekkar Bobber , Jack-o-Statue Lantern , and 226x"
+  },
+  {
    "code": "TemporarySubmarine",
    "reward": "Submarine Parts"
   }
  ],
- "updated": "2026-11-09T15:46:32.726Z",
+ "updated": "2026-11-11T14:00:45.762Z",
  "source": "https://robloxden.com/game-codes/fisch"
 }

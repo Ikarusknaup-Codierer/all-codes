@@ -15,14 +15,6 @@
    "reward": "10,000 Style Coins and 15,000 Cash"
   },
   {
-   "code": "NEWHITBOXES",
-   "reward": "10,000 Style Currency and 15,000 Cash"
-  },
-  {
-   "code": "TIMOTHYSAYSRINISCOMINGSOON",
-   "reward": "Money"
-  },
-  {
    "code": "KAISERISNEXTWEEKNOWORRIES",
    "reward": "10K Cash"
   },
@@ -37,6 +29,14 @@
   {
    "code": "BROTHERNOAH",
    "reward": "Brother Noah Emote"
+  },
+  {
+   "code": "NEWHITBOXES",
+   "reward": "10,000 Style Currency and 15,000 Cash"
+  },
+  {
+   "code": "TIMOTHYSAYSRINISCOMINGSOON",
+   "reward": "Money"
   },
   {
    "code": "october",
@@ -183,6 +183,6 @@
    "reward": "X Emote"
   }
  ],
- "updated": "2026-11-09T05:41:51.626Z",
+ "updated": "2026-11-11T13:54:42.364Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

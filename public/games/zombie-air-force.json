@@ -31,10 +31,14 @@
    "reward": "a 50 Credits boost (30 Minutes) and 1,000 Credits"
   },
   {
+   "code": "HOLLOW",
+   "reward": "+50% XP (60 mins) and 2,500 Credits"
+  },
+  {
    "code": "FREE12",
    "reward": "1,500 Credits and an XP Boost (15 Minutes)"
   }
  ],
- "updated": "2026-11-10T01:22:49.335Z",
+ "updated": "2026-11-11T14:06:49.113Z",
  "source": "https://robloxden.com/game-codes/zombie-air-force"
 }

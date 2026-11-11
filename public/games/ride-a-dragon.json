@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "crownhorn",
+   "reward": "a Clay Crownhorn Dragon"
+  },
+  {
+   "code": "drake",
+   "reward": "a Teal Drake Dragon"
+  },
+  {
+   "code": "thornback",
+   "reward": "a Moss Thornback Dragon"
+  },
+  {
+   "code": "squeaker",
+   "reward": "a Mint Squeaker Dragon"
+  },
+  {
+   "code": "stripeclaw",
+   "reward": "a Candy Stripeclaw Dragon"
+  },
+  {
+   "code": "tidefin",
+   "reward": "a Sun Tidefin Dragon"
+  },
+  {
    "code": "2xluck",
    "reward": "2x Luck (15 mins)"
   },
@@ -19,6 +43,6 @@
    "reward": "a Storm Galewing"
   }
  ],
- "updated": "2026-11-09T05:42:53.923Z",
+ "updated": "2026-11-11T13:55:29.404Z",
  "source": "https://robloxden.com/game-codes/ride-a-dragon"
 }

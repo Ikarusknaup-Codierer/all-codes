@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "10 Pumpkin , a Reaper Potion , and a Ghost Potion"
+  },
+  {
+   "code": "TRANS2",
+   "reward": "5 Hourglass , an Oblivion Shard , and an Eternal Prism"
+  },
+  {
    "code": "BUGFIX",
    "reward": "Free Rewards"
   },
   {
-   "code": "STAGE36!",
-   "reward": "4x Coins Boost (5 Minutes) and 4x Strength Boost (5 Minutes)"
+   "code": "CORRUPTION",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-09T05:40:43.223Z",
+ "updated": "2026-11-11T13:53:41.436Z",
  "source": "https://robloxden.com/game-codes/infinity-lifting-simulator"
 }

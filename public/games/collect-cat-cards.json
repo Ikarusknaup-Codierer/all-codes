@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "30 Candy Corn"
-  },
-  {
-   "code": "SPOOKYCATS",
-   "reward": "50 Candy Corn"
-  },
-  {
    "code": "TOWERS",
    "reward": "5,000 Kibble , 2 of Your Best Packs , 2 Luck , a Super Luck and a Cash"
   },
@@ -43,14 +35,26 @@
    "reward": "500 Kibbles and a Luck Boost (15 Minutes)"
   },
   {
-   "code": "ATH3NA",
-   "reward": "Luck & Cash Boosts and Free Packs"
+   "code": "UPDATE5",
+   "reward": "Free Rewards"
   },
   {
-   "code": "NEWAUTOSELL",
-   "reward": "1,000 Kibble , 3 of Your Best Packs , 1 Luck Potion , and 1 Cash Potio"
+   "code": "HAUNTED",
+   "reward": "30 Candy Corn and 1 Halloween Pack"
+  },
+  {
+   "code": "CANDY",
+   "reward": "50 Candy Corn"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "30 Candy Corn"
+  },
+  {
+   "code": "SPOOKYCATS",
+   "reward": "50 Candy Corn"
   }
  ],
- "updated": "2026-11-09T05:37:52.184Z",
+ "updated": "2026-11-11T13:52:12.907Z",
  "source": "https://robloxden.com/game-codes/collect-cat-cards"
 }

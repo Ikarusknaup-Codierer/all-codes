@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1",
+   "reward": "20 Characteristics , 25 Release Capsules , 25 Halloween Capsules , 20 "
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "50 Characteristics , 1,000 Coins , and 1,000 Jewels"
+  },
+  {
+   "code": "THANKSFORWAITING",
+   "reward": "25 Characteristics , 25 Stats Rerolls , 25 Reroll All Stats , 1,000 Co"
+  },
+  {
+   "code": "SHARDSPEND",
+   "reward": "2 Mythical Fragments , 5 Mythic Fragments , 10 Legend Fragments , 10 E"
+  },
+  {
    "code": "SRYFORLATEUPDATE",
    "reward": "Rewards"
   },
@@ -103,6 +119,6 @@
    "reward": "5 Traits and 1,000 Gems"
   }
  ],
- "updated": "2026-11-09T15:44:24.921Z",
+ "updated": "2026-11-11T13:58:27.647Z",
  "source": "https://robloxden.com/game-codes/anime-mysterious"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "RETRO2",
+   "reward": "1 Relic and 1 Chibi Chest"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "1 Citron Token , 300 Grade Tokens , and 5 Clan Tokens"
+  },
+  {
    "code": "GIANTS",
    "reward": "1 Citron Token , 300 Grade Tokens , and 5 Clan Tokens"
   },
@@ -111,6 +119,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-11-09T15:43:52.228Z",
+ "updated": "2026-11-11T13:57:52.450Z",
  "source": "https://robloxden.com/game-codes/youtuber-card-collection"
 }

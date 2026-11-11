@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "THANKSFORPLAYING",
+   "reward": "2,000,000 Cash , 2x Double Luck (1 hr) , 2x Double Cash (1 hr) , and +"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "2 +2 Roll (1 hr) , 2x Quick Hands II (1 hr) , 2 3x Mutation Luck (1 hr"
+  },
+  {
    "code": "JohnKun",
    "reward": "2x Secret Dice"
   },
@@ -35,6 +43,6 @@
    "reward": "$500k, One One-Hour Triple Luck Boost, And One One-Hour +1 Roll Boost"
   }
  ],
- "updated": "2026-11-09T05:41:43.277Z",
+ "updated": "2026-11-11T13:54:33.769Z",
  "source": "https://robloxden.com/game-codes/emote-rng"
 }

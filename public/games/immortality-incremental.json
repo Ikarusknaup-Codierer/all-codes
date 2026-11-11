@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEENFINAL",
-   "reward": "10 Tickets and 3 Curse Potions"
-  },
-  {
-   "code": "CANDYCORN",
-   "reward": "10 Tickets and 15 Jade"
-  },
-  {
-   "code": "NEWEVENT",
-   "reward": "1 Curse Potion and 10 Jade"
-  },
-  {
    "code": "LASTD1UPD",
    "reward": "10 Tickets and 1 of Each Path Potion"
   },
@@ -37,10 +25,6 @@
   {
    "code": "WORLD9PT1",
    "reward": "1 Ore Potion and 10 Jade"
-  },
-  {
-   "code": "DAOCORE",
-   "reward": "15 Jades"
   },
   {
    "code": "W7PT2",
@@ -335,6 +319,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-11-09T15:45:50.612Z",
+ "updated": "2026-11-11T13:59:58.644Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

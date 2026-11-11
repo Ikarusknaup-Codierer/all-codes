@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PUMPKINPARTY",
+   "reward": "200 Pumpkins"
+  },
+  {
    "code": "COSMETICSNEW",
    "reward": "2 Enlisted Cosmetic Crates"
   },
@@ -173,12 +177,8 @@
   {
    "code": "BetaT3st3r",
    "reward": "Beta Tester Rank"
-  },
-  {
-   "code": "FirearmsMoreLikeArmFire",
-   "reward": "1 Enlisted Firearms Crate"
   }
  ],
- "updated": "2026-11-09T05:48:05.881Z",
+ "updated": "2026-11-11T13:56:45.615Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

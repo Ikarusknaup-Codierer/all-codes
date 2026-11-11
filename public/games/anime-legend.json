@@ -7,19 +7,19 @@
    "reward": "Description"
   },
   {
-   "code": "ASSASSIN",
-   "reward": "Gems and Stars"
+   "code": "AURAS",
+   "reward": "Coins And Gems"
+  },
+  {
+   "code": "FREEPET",
+   "reward": "Coins And Gems"
   },
   {
    "code": "ANIM3PLAYTIM3",
    "reward": "Coins And Gems"
   },
   {
-   "code": "vol",
-   "reward": "Gift"
-  },
-  {
-   "code": "antiafk",
+   "code": "bugsfix",
    "reward": "Gift"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "2,000 Coins and 2,000 Gems"
   }
  ],
- "updated": "2026-11-09T15:48:02.985Z",
+ "updated": "2026-11-11T14:02:23.880Z",
  "source": "https://robloxden.com/game-codes/anime-legend"
 }

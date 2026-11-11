@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "LOOTAWEEN",
-   "reward": "300x Candy Corn"
-  },
-  {
-   "code": "PUMPKIN",
-   "reward": "5x Weapon Tier Scroll , 5x Armor Tier Scroll , and 5x Mount Tier Scrol"
-  },
-  {
-   "code": "TRICKORTREAT",
-   "reward": "3x Halloween Dungeon 2026"
-  },
-  {
    "code": "Spark",
    "reward": "1,000 Coins , 500 XP , and 5x Weapon Tier Scrolls"
   },
@@ -47,10 +35,18 @@
    "reward": "10 Golden Bait and 2 Lucky Charm"
   },
   {
-   "code": "CRABDANCE",
-   "reward": "the Crab Dance Emote"
+   "code": "LOOTAWEEN",
+   "reward": "300x Candy Corn"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "5x Weapon Tier Scroll , 5x Armor Tier Scroll , and 5x Mount Tier Scrol"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "3x Halloween Dungeon 2026"
   }
  ],
- "updated": "2026-11-09T15:45:23.776Z",
+ "updated": "2026-11-11T13:59:29.270Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

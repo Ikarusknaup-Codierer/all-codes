@@ -91,10 +91,6 @@
    "reward": "200 Emeralds"
   },
   {
-   "code": "SORRYFORSHUT",
-   "reward": "200 Emeralds"
-  },
-  {
    "code": "12MVISITS",
    "reward": "200 Emeralds"
   },
@@ -157,6 +153,10 @@
   {
    "code": "SHUTDOWN",
    "reward": "250 Emeralds , 1 Gold Potion , 1 Drop Potion , 1 Damage Potion , 1 Luc"
+  },
+  {
+   "code": "SORRYFORSHUT",
+   "reward": "200 Emeralds"
   },
   {
    "code": "5MVISITS",
@@ -271,6 +271,6 @@
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
   }
  ],
- "updated": "2026-11-09T05:38:27.592Z",
+ "updated": "2026-11-11T05:38:10.319Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

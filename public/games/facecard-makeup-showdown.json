@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Nightmare26",
-   "reward": "100 Candy"
-  },
-  {
    "code": "10M",
    "reward": "the Dramatic Doll Lashes"
   },
@@ -23,10 +19,14 @@
    "reward": "1,000 Cash"
   },
   {
+   "code": "Nightmare26",
+   "reward": "100 Candy"
+  },
+  {
    "code": "Release",
    "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-11-08T22:01:44.242Z",
+ "updated": "2026-11-11T05:33:38.436Z",
  "source": "https://robloxden.com/game-codes/facecard-makeup-showdown"
 }

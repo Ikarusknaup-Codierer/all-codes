@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "CARDUPDATE29",
+   "reward": "5M Cash"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "5M Cash"
+  },
+  {
    "code": "ELITES",
    "reward": "5M Cash"
   },
@@ -63,6 +71,6 @@
    "reward": "4M Cash"
   }
  ],
- "updated": "2026-11-08T22:01:39.553Z",
+ "updated": "2026-11-11T05:33:35.252Z",
  "source": "https://robloxden.com/game-codes/blue-lock-card-battles"
 }

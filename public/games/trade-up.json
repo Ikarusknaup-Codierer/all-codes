@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE2",
+   "reward": "a Lucky Box"
+  },
+  {
    "code": "FEELINGLUCKY",
    "reward": "a Lucky Box"
   },
@@ -31,6 +35,6 @@
    "reward": "2x Money (10 minutes) , 1.5 Crate Speed (10 minutes) , and 1 Spin"
   }
  ],
- "updated": "2026-11-09T05:37:49.622Z",
+ "updated": "2026-11-11T05:37:38.291Z",
  "source": "https://robloxden.com/game-codes/trade-up"
 }

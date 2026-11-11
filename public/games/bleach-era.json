@@ -123,14 +123,14 @@
    "reward": "a 1 Hour XP Boost"
   },
   {
-   "code": "20klikes",
-   "reward": "an XP Boost"
+   "code": "skillpointreset",
+   "reward": "1 Skill Points Reset"
   },
   {
-   "code": "3mvisits",
-   "reward": "an XP Boost"
+   "code": "RerollElement2",
+   "reward": "1 Element Reroll"
   }
  ],
- "updated": "2026-11-08T21:59:27.474Z",
+ "updated": "2026-11-11T05:31:44.104Z",
  "source": "https://robloxden.com/game-codes/bleach-era"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BALANCE",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "SORRYBUGISACCIDENT",
    "reward": "200 Shards"
   },
@@ -23,6 +27,6 @@
    "reward": "1,000 Coins and 200 Shards"
   }
  ],
- "updated": "2026-11-09T05:36:33.537Z",
+ "updated": "2026-11-11T05:36:33.835Z",
  "source": "https://robloxden.com/game-codes/king-tower"
 }

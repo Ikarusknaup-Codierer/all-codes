@@ -19,14 +19,14 @@
    "reward": "24 Basic Crates and 1,400 Cash"
   },
   {
-   "code": "drills",
-   "reward": "15 Basic Crates and 1,200 Cash"
-  },
-  {
    "code": "trading",
    "reward": "3 Basic Crates and $1,000"
+  },
+  {
+   "code": "isurvived",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-08T22:02:50.641Z",
+ "updated": "2026-11-11T05:34:08.003Z",
  "source": "https://robloxden.com/game-codes/dig"
 }

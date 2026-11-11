@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AutumnUpdate",
+   "reward": "150 Perk Rerolls , 150 Trait Rerolls , 10 Impure Souls and a Pure Soul"
+  },
+  {
    "code": "TraitRework2026",
    "reward": "150x Trait Reroll , 75x Perk Reroll , and 8x Impure Soul"
   },
@@ -93,8 +97,12 @@
   {
    "code": "StoryReworked",
    "reward": "Rewards"
+  },
+  {
+   "code": "MovingDay!",
+   "reward": "40 Trait Rerolls"
   }
  ],
- "updated": "2026-11-08T22:02:13.079Z",
+ "updated": "2026-11-11T05:33:55.500Z",
  "source": "https://robloxden.com/game-codes/ultimate-tower-defense"
 }

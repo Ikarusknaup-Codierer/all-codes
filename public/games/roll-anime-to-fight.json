@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN2026!",
+   "reward": "rewards . This code requires you to reach Wave 1"
+  },
+  {
+   "code": "REWORKALL!",
+   "reward": "rewards . This code requires you to reach Wave 300"
+  },
+  {
    "code": "QUALITYOFLIFE!",
    "reward": "300,000 Coins , 25 Trait Rerolls , an Infinite Ticket and a Diamond Jo"
   },
@@ -21,10 +29,6 @@
   {
    "code": "BOOSTERISHERE!",
    "reward": "300k Gold , Gold Hesuka , 25 Trait Shards , and 5 Boost Coins"
-  },
-  {
-   "code": "SLAYERSISHERE!",
-   "reward": "200,000 Gold , Diamond Ulquiorra , 25 Trait Shards , and 5 Infinite Ti"
   },
   {
    "code": "DUPINGISHERE!",
@@ -75,6 +79,6 @@
    "reward": "300,000 Gold , 1 Gold Joti , 1 Mythic Capsule , and 1 Trading Ticket"
   }
  ],
- "updated": "2026-11-08T22:07:01.166Z",
+ "updated": "2026-11-11T05:34:30.105Z",
  "source": "https://robloxden.com/game-codes/roll-anime-to-fight"
 }

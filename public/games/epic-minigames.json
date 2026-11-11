@@ -11,6 +11,10 @@
    "reward": "Epic Cake"
   },
   {
+   "code": "Plasma",
+   "reward": "Rewards"
+  },
+  {
    "code": "quack",
    "reward": "the 8-bit Duck Pet"
   },
@@ -21,12 +25,8 @@
   {
    "code": "leafy",
    "reward": "Leaves Effect"
-  },
-  {
-   "code": "newinvention",
-   "reward": "the Inventor Title"
   }
  ],
- "updated": "2026-11-09T05:37:41.213Z",
+ "updated": "2026-11-11T05:37:32.307Z",
  "source": "https://robloxden.com/game-codes/epic-minigames"
 }

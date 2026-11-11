@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORCHAT",
+   "reward": "15 Reroll Tokens"
+  },
+  {
+   "code": "BLUELOCK",
+   "reward": "15 Reroll Tokens"
+  },
+  {
    "code": "DOWNTAMA",
    "reward": "2,500 Yen and 10 Reroll Tokens"
   },
@@ -47,6 +55,6 @@
    "reward": "500 Yen and 5 Reroll Tokens"
   }
  ],
- "updated": "2026-11-09T05:39:14.071Z",
+ "updated": "2026-11-11T05:38:50.493Z",
  "source": "https://robloxden.com/game-codes/rintama-high"
 }

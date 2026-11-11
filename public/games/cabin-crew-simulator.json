@@ -55,10 +55,6 @@
    "reward": "2,000 Skybux"
   },
   {
-   "code": "migrate",
-   "reward": "2,000 Skybux"
-  },
-  {
    "code": "avro",
    "reward": "3,000 Skybux"
   },
@@ -79,14 +75,14 @@
    "reward": "2,000 Skybux"
   },
   {
-   "code": "paris",
+   "code": "migrate",
    "reward": "2,000 Skybux"
   },
   {
-   "code": "evacuate",
-   "reward": "1,400 SkyBux"
+   "code": "airstairs",
+   "reward": "1,300 Skybux"
   }
  ],
- "updated": "2026-11-08T21:59:23.786Z",
+ "updated": "2026-11-11T05:31:41.967Z",
  "source": "https://robloxden.com/game-codes/cabin-crew-simulator"
 }

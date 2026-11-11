@@ -15,14 +15,6 @@
    "reward": "200 Origin Shards"
   },
   {
-   "code": "IRONSOULWEEKEND28",
-   "reward": "3 Race Rerolls"
-  },
-  {
-   "code": "BOWANDSKILLTREE",
-   "reward": "300 Origin Shards and 3 Luxury Relic (Bow)"
-  },
-  {
    "code": "IRONNEWUPDATE",
    "reward": "3 Race Rerolls"
   },
@@ -37,6 +29,14 @@
   {
    "code": "SEASON2OPEN",
    "reward": "3 Season Lucky Tickets"
+  },
+  {
+   "code": "IRONSOULWEEKEND28",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "BOWANDSKILLTREE",
+   "reward": "300 Origin Shards and 3 Luxury Relic (Bow)"
   },
   {
    "code": "TRADEISLANDUPDATE",
@@ -199,6 +199,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-11-09T05:40:10.117Z",
+ "updated": "2026-11-11T05:39:32.840Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

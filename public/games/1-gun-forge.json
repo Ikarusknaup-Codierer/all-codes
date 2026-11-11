@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Halloween",
-   "reward": "500 Candies and 1 Mini Luck Potion"
+   "code": "1MVISITS",
+   "reward": "2 3x Luck , 2 Power Potion , and 2 Luck Potion"
+  },
+  {
+   "code": "WORLD2",
+   "reward": "2 Tickets , 2 3x Luck , and a Cash Potion"
   },
   {
    "code": "4KLIKES",
@@ -17,8 +21,12 @@
   {
    "code": "Release",
    "reward": "2,500 Cash and a Ticket"
+  },
+  {
+   "code": "Halloween",
+   "reward": "500 Candies and 1 Mini Luck Potion"
   }
  ],
- "updated": "2026-11-09T05:37:51.468Z",
+ "updated": "2026-11-11T05:37:39.921Z",
  "source": "https://robloxden.com/game-codes/1-gun-forge"
 }

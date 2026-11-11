@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Simian",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "Arboreal",
    "reward": "Free Rewards"
   },
@@ -37,10 +33,6 @@
   {
    "code": "Nevergonnamakeyoucry",
    "reward": "1 Million Monkeys"
-  },
-  {
-   "code": "RIGVSQERGIV",
-   "reward": "4.8 Million Monkeys"
   },
   {
    "code": "Nirvana",
@@ -177,8 +169,16 @@
   {
    "code": "statues",
    "reward": "4.8 Million Monkeys"
+  },
+  {
+   "code": "Simian",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "RIGVSQERGIV",
+   "reward": "4.8 Million Monkeys"
   }
  ],
- "updated": "2026-11-08T22:00:04.182Z",
+ "updated": "2026-11-11T05:32:16.035Z",
  "source": "https://robloxden.com/game-codes/monkey-tycoon"
 }

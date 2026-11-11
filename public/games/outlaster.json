@@ -7,8 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "NEW",
-   "reward": "New"
+   "code": "CRYS",
+   "reward": "Crys"
   },
   {
    "code": "JUNGLELIFE",
@@ -25,8 +25,12 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
+  },
+  {
+   "code": "NEW",
+   "reward": "New"
   }
  ],
- "updated": "2026-11-08T21:58:45.871Z",
+ "updated": "2026-11-11T05:31:15.687Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

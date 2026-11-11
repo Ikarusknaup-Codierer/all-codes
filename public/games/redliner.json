@@ -11,12 +11,12 @@
    "reward": "1,500 Crimson"
   },
   {
-   "code": "LIBERATOR",
-   "reward": "900 Crimson"
-  },
-  {
    "code": "BLACKHOLE",
    "reward": "800 Crimson"
+  },
+  {
+   "code": "SRY4DELAY",
+   "reward": "700 Crimson"
   },
   {
    "code": "SRY4DOWNTIME",
@@ -27,6 +27,6 @@
    "reward": "500 Crimson"
   }
  ],
- "updated": "2026-11-09T05:38:53.635Z",
+ "updated": "2026-11-11T05:38:33.064Z",
  "source": "https://robloxden.com/game-codes/redliner"
 }

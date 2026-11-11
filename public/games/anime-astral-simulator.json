@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LESSLAG",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
+  },
+  {
    "code": "UPDATE20",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -631,14 +635,14 @@
    "reward": "250 F2P Tickets and 12 Potions"
   },
   {
-   "code": "NEYMAR",
-   "reward": "1,000 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II"
+   "code": "BACKTOASTRAL",
+   "reward": "Tickets , Potions , or Boosts"
   },
   {
-   "code": "3KEVENT",
-   "reward": "200 F2P Tickets , a Damage II Potion , a Luck II Potion , a Power II P"
+   "code": "15MVISTS",
+   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-11-08T22:00:00.753Z",
+ "updated": "2026-11-11T05:32:13.163Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

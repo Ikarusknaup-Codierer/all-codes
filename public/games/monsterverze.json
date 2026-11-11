@@ -7,40 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "washedup212",
+   "reward": "500 Gems"
+  },
+  {
    "code": "OfficialRelease!",
    "reward": "1,023"
   },
   {
    "code": "20M1LY",
    "reward": "20,000"
-  },
-  {
-   "code": "PATCH05",
-   "reward": "30,000 Ghoulars"
-  },
-  {
-   "code": "MV4MILLION",
-   "reward": "20,000 Ghoulars"
-  },
-  {
-   "code": "WEAREBACK",
-   "reward": "the Nautical Nacre Halo and 5,000 Ghoulars"
-  },
-  {
-   "code": "MVHOMECOMING",
-   "reward": "6,000 Ghoulars , the Homecoming Balloons , and the Opal Plushie"
-  },
-  {
-   "code": "BUGFIXES02",
-   "reward": "10,000 Ghoulars"
-  },
-  {
-   "code": "MV6MILLION",
-   "reward": "30,000 Ghoulars"
-  },
-  {
-   "code": "VV3ampireRi0t",
-   "reward": "5,000 Ghoulars"
   },
   {
    "code": "FRI3NDS",
@@ -123,6 +99,10 @@
    "reward": "5,000 Ghoulars"
   },
   {
+   "code": "PATCH05",
+   "reward": "30,000 Ghoulars"
+  },
+  {
    "code": "Daisy20Ghoulars",
    "reward": "the Denim Miniskirt and 20 Ghoulars"
   },
@@ -135,10 +115,30 @@
    "reward": "33,333 Ghoulars"
   },
   {
+   "code": "MV4MILLION",
+   "reward": "20,000 Ghoulars"
+  },
+  {
+   "code": "WEAREBACK",
+   "reward": "the Nautical Nacre Halo and 5,000 Ghoulars"
+  },
+  {
+   "code": "MVHOMECOMING",
+   "reward": "6,000 Ghoulars , the Homecoming Balloons , and the Opal Plushie"
+  },
+  {
    "code": "MV1MILLION",
    "reward": "the Shattered Love Crown"
+  },
+  {
+   "code": "BUGFIXES02",
+   "reward": "10,000 Ghoulars"
+  },
+  {
+   "code": "MV6MILLION",
+   "reward": "30,000 Ghoulars"
   }
  ],
- "updated": "2026-11-08T22:06:54.419Z",
+ "updated": "2026-11-11T05:34:24.634Z",
  "source": "https://robloxden.com/game-codes/monsterverze"
 }

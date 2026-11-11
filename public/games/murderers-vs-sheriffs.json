@@ -11,6 +11,10 @@
    "reward": "1,500 Coins"
   },
   {
+   "code": "HOTEL",
+   "reward": "a Flare Gun Skin"
+  },
+  {
    "code": "FREE",
    "reward": "a Sea Sword Skin"
   },
@@ -23,14 +27,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "WEAREBACK",
-   "reward": "Struck Scythe"
+   "code": "EGUN",
+   "reward": "Rainbow Gun"
   },
   {
-   "code": "HOTEL",
-   "reward": "a Flare Gun Skin"
+   "code": "EKNIFE",
+   "reward": "Rainbow Sword"
   }
  ],
- "updated": "2026-11-09T05:35:03.143Z",
+ "updated": "2026-11-11T05:35:12.797Z",
  "source": "https://robloxden.com/game-codes/murderers-vs-sheriffs"
 }

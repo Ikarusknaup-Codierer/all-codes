@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "omgfinally",
-   "reward": "100 Gems"
+   "code": "CRAFTING",
+   "reward": "the Iridescent Slycer Crafting Recipe"
   },
   {
-   "code": "HAPPYNEWYEAR",
-   "reward": "2022 New Year Slycer Knife"
-  },
-  {
-   "code": "CUPID",
-   "reward": "Heartbreaker Knife"
+   "code": "DEVIOUS",
+   "reward": "Devious Dagger"
   },
   {
    "code": "SAWBLADE",
    "reward": "Sawblade's Jigsaw Knife"
   },
   {
-   "code": "MOREPOWER",
-   "reward": "Machine Dagger"
+   "code": "MINING",
+   "reward": "Charcoal Slycer"
+  },
+  {
+   "code": "HOLIDAY",
+   "reward": "Holiday Splinter"
   }
  ],
- "updated": "2026-11-10T23:03:05.865Z",
+ "updated": "2026-11-12T23:29:29.702Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

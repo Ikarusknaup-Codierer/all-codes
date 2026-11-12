@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "REMODEL",
+   "reward": "30 Rolls , 10% Luck , 10% Muscle , and 10% Strength Boost"
+  },
+  {
+   "code": "booper",
+   "reward": "Rewards"
+  },
+  {
    "code": "THANKYOU",
    "reward": "Rewards"
   },
@@ -23,6 +31,6 @@
    "reward": "50 Rerolls (All Categories)"
   }
  ],
- "updated": "2026-11-10T23:04:37.303Z",
+ "updated": "2026-11-12T23:30:55.944Z",
  "source": "https://robloxden.com/game-codes/project-iron"
 }

@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "DELAYIMMORTALS",
+   "reward": "2 Legendary Orbs Of Potential And 100 Gems"
+  },
+  {
    "code": "RELEASE",
    "reward": "A Random Potion Box, A Legendary Orb Of Potential, And 250 Rare Gems"
   },
   {
-   "code": "SPRING",
-   "reward": "3 Mythic Solo Keys And 100 Mythic Stones"
+   "code": "BLOOM",
+   "reward": "100 Gems And 100 Mythic Bloom Stones"
   },
   {
-   "code": "UPDATE11",
-   "reward": "3 Legendary Orbs Of Potential"
+   "code": "UPDATE",
+   "reward": "5 Orbs of Potential and 500 Gems"
   },
   {
-   "code": "MOREGEMS",
-   "reward": "5 Legendary Orbs Of Potential"
-  },
-  {
-   "code": "SORRYDELAY",
-   "reward": "2 Orbs of Potential and 100 Gems"
+   "code": "UPDATE2",
+   "reward": "2 Orbs of Potential and 250 Gems"
   }
  ],
- "updated": "2026-11-10T14:41:37.177Z",
+ "updated": "2026-11-12T23:24:07.943Z",
  "source": "https://robloxden.com/game-codes/anime-immortals"
 }

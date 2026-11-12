@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PASSIVES",
+   "reward": "3 Passive Rerolls"
+  },
+  {
    "code": "SORRYFORTHEDELAY",
    "reward": "400 Tickets"
   },
@@ -67,6 +71,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-11-10T14:43:14.802Z",
+ "updated": "2026-11-12T23:25:37.735Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

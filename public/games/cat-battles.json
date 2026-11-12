@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKYGRAVE",
+   "reward": "1 Free Grave Skip"
+  },
+  {
+   "code": "REAPERSKIP",
+   "reward": "1 Free Grave Skip"
+  },
+  {
+   "code": "GRAVERESET",
+   "reward": "1 Free Grave Skip"
+  },
+  {
    "code": "20KNAPZ",
    "reward": "250 Coins"
   },
@@ -43,6 +55,6 @@
    "reward": "250 coins"
   }
  ],
- "updated": "2026-11-10T14:41:29.647Z",
+ "updated": "2026-11-12T23:24:03.764Z",
  "source": "https://robloxden.com/game-codes/cat-battles"
 }

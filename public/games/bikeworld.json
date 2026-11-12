@@ -19,10 +19,14 @@
    "reward": "3,000 EXP"
   },
   {
-   "code": "3BIKES",
+   "code": "NEWBIKES",
    "reward": "Cash"
+  },
+  {
+   "code": "FASTBIKES",
+   "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-11-10T01:27:53.851Z",
+ "updated": "2026-11-12T14:55:28.864Z",
  "source": "https://robloxden.com/game-codes/bikeworld"
 }

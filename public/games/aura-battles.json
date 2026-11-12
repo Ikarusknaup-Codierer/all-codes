@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATEREALLYSOON",
-   "reward": "500 Gems"
-  },
-  {
-   "code": "LIKES5000",
-   "reward": "250 Gems And 25 Points"
+   "code": "BUGFIXES",
+   "reward": "150 Gems"
   },
   {
    "code": "DISCORD500",
    "reward": "Free Rewards"
   },
   {
+   "code": "LIKES10000",
+   "reward": "150 Gems and 25 Points"
+  },
+  {
    "code": "UPDATE1",
    "reward": "600 Gems and 50 Points"
   }
  ],
- "updated": "2026-11-10T14:41:22.273Z",
+ "updated": "2026-11-12T15:04:24.919Z",
  "source": "https://robloxden.com/game-codes/aura-battles"
 }

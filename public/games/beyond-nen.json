@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "PATCH2!",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "PATCH1!",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "UPDATECOMING",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "THANKYOU!",
+   "reward": "10 Spins"
   }
  ],
- "updated": "2026-11-10T14:37:31.249Z",
+ "updated": "2026-11-12T15:00:15.319Z",
  "source": "https://robloxden.com/game-codes/beyond-nen"
 }

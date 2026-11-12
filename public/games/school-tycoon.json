@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BCK2SCH00L",
-   "reward": "1,500 Cash"
-  },
-  {
    "code": "rebirth",
    "reward": "500 Coins"
   },
@@ -25,8 +21,16 @@
   {
    "code": "study",
    "reward": "500 Coins"
+  },
+  {
+   "code": "BCK2SCH00L",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "like1500",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-10T01:30:04.703Z",
+ "updated": "2026-11-12T14:57:11.747Z",
  "source": "https://robloxden.com/game-codes/school-tycoon"
 }

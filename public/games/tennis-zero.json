@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SORRYFORSHUTDOWN",
-   "reward": ""
-  },
-  {
-   "code": "50KLIKES",
-   "reward": ""
-  },
-  {
-   "code": "SLAYERS",
-   "reward": "100 Lucky Style and 20 Flow Spins"
-  },
-  {
    "code": "BIG10",
    "reward": "20 Lucky Style & 20 Lucky Flow Spins"
   },
   {
-   "code": "JACKPOTBUFF",
+   "code": "SUNCHILD",
+   "reward": "20 Lucky Style and 20 Lucky Flow Spins"
+  },
+  {
+   "code": "600KLIKES",
+   "reward": "1,000 Yen and 6 Lucky Spins"
+  },
+  {
+   "code": "SORRYFORSHUTDOWN2",
    "reward": "2 Lucky Style Spins and 2 Lucky Flow Spins"
+  },
+  {
+   "code": "FIRSTUPD",
+   "reward": "500 Yen , 2 Lucky Style Spins and 2 Zone Spins"
   }
  ],
- "updated": "2026-11-10T01:30:40.166Z",
+ "updated": "2026-11-12T14:57:43.278Z",
  "source": "https://robloxden.com/game-codes/tennis-zero"
 }

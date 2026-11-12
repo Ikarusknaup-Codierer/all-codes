@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "10KMembers",
-   "reward": "Credits"
-  },
-  {
    "code": "Secret",
    "reward": "1 Currency"
   },
@@ -43,14 +39,14 @@
    "reward": "200 Cash"
   },
   {
-   "code": "3kMembers",
-   "reward": "15k Credits"
+   "code": "10KMembers",
+   "reward": "Credits"
   },
   {
-   "code": "Bee",
-   "reward": "Credits"
+   "code": "3kMembers",
+   "reward": "15k Credits"
   }
  ],
- "updated": "2026-11-10T01:31:58.764Z",
+ "updated": "2026-11-12T14:58:34.870Z",
  "source": "https://robloxden.com/game-codes/ship-defense-simulator-2-0"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PUMPKIN",
+   "reward": "1,000 Candy Corn and a Pumpkin Patch Rug"
+  },
+  {
    "code": "BOB",
    "reward": "the 1x Uncle Bob"
   },
@@ -51,6 +55,6 @@
    "reward": "500 Gold"
   }
  ],
- "updated": "2026-11-10T14:42:20.882Z",
+ "updated": "2026-11-12T15:05:20.346Z",
  "source": "https://robloxden.com/game-codes/roll-a-fisherman"
 }

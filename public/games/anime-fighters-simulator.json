@@ -71,14 +71,6 @@
    "reward": "20 Mega Boosts (all types) , 100 Heavenly Fruits , 100 Cursed Orbs , 2"
   },
   {
-   "code": "REQUIEMSORRY",
-   "reward": "750 Requiem Tokens"
-  },
-  {
-   "code": "BUGSQUASHED",
-   "reward": "5 Mega Passive Luck Boost and 5 Mega Luck Boost"
-  },
-  {
    "code": "THANKSFORPATIENCE",
    "reward": "150 Cursed Orb and 75 Heavenly Fruit"
   },
@@ -363,10 +355,18 @@
    "reward": "500 Requiem Tokens , 250 Passive Tokens , and 50 Passive Transfer Toke"
   },
   {
+   "code": "REQUIEMSORRY",
+   "reward": "750 Requiem Tokens"
+  },
+  {
+   "code": "BUGSQUASHED",
+   "reward": "5 Mega Passive Luck Boost and 5 Mega Luck Boost"
+  },
+  {
    "code": "SorryForEarlyShutDown",
    "reward": "5 Mega Drop Boost , 5 Mega Time Boost , and 5 Mega Passive Lucky Boost"
   }
  ],
- "updated": "2026-11-10T01:36:18.566Z",
+ "updated": "2026-11-12T14:59:39.655Z",
  "source": "https://robloxden.com/game-codes/anime-fighters-simulator"
 }

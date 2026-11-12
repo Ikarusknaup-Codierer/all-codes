@@ -27,10 +27,6 @@
    "reward": "100 Coins and 50 Celestia Stars"
   },
   {
-   "code": "WHITEKNIGHT",
-   "reward": "an Exclusive White Knight Noobie"
-  },
-  {
    "code": "SUB4GDOYEN",
    "reward": "100 Coins"
   },
@@ -83,10 +79,14 @@
    "reward": "100 Celestia Stars"
   },
   {
+   "code": "WHITEKNIGHT",
+   "reward": "an Exclusive White Knight Noobie"
+  },
+  {
    "code": "HAPPYANNIVERSARYFTN1",
    "reward": "Party Noobie Exclusive"
   }
  ],
- "updated": "2026-11-10T01:29:53.851Z",
+ "updated": "2026-11-12T14:57:00.892Z",
  "source": "https://robloxden.com/game-codes/find-the-noobies-morphs"
 }

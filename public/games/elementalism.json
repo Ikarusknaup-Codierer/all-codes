@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DOMINATION!",
-   "reward": "Freebies"
-  },
-  {
-   "code": "UPD15",
-   "reward": "1,000 Aureus"
-  },
-  {
    "code": "WBrazil",
    "reward": "the Brazilian Fedora accessory . You must join the group to claim code"
   },
@@ -35,10 +27,18 @@
    "reward": "1,000 Aureus"
   },
   {
+   "code": "DOMINATION!",
+   "reward": "Freebies"
+  },
+  {
+   "code": "UPD15",
+   "reward": "1,000 Aureus"
+  },
+  {
    "code": "Conjurer!",
    "reward": "a Rare Trait Reroll"
   }
  ],
- "updated": "2026-11-10T01:27:47.141Z",
+ "updated": "2026-11-12T00:29:00.852Z",
  "source": "https://robloxden.com/game-codes/elementalism"
 }

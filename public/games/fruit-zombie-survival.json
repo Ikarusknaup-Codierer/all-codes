@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "GemRush2X",
+   "reward": "2x Diamonds (30 Minutes)"
+  },
+  {
    "code": "ThisIsHalloween",
    "reward": "3 Halloween Tickets"
   },
@@ -59,6 +63,6 @@
    "reward": "1 Artifact Crate Roll with x2 Luck"
   }
  ],
- "updated": "2026-11-09T15:47:58.804Z",
+ "updated": "2026-11-12T00:19:25.020Z",
  "source": "https://robloxden.com/game-codes/fruit-zombie-survival"
 }

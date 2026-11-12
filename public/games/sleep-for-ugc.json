@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WITCHHAT",
+   "reward": "7,500 Coins and 10,000 Shards"
+  },
+  {
    "code": "HALLOWEEN2026",
    "reward": "20,000 Coins and 30,000 Shards"
   },
@@ -27,14 +31,14 @@
    "reward": "7,000 Coins and 72,000 Shards"
   },
   {
-   "code": "STRAWBERRY",
-   "reward": "6,000 Coins and 6,000 Shards"
+   "code": "LUCKYFROG",
+   "reward": "5,000 Coins and 5,000 Shards"
   },
   {
-   "code": "348KMEMBERS",
+   "code": "NEWUGCS",
    "reward": "Coins"
   }
  ],
- "updated": "2026-11-10T01:27:39.797Z",
+ "updated": "2026-11-12T00:28:54.378Z",
  "source": "https://robloxden.com/game-codes/sleep-for-ugc"
 }

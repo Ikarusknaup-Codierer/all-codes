@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BOTCHED",
-   "reward": "20,000 Cash"
-  },
-  {
    "code": "5KLIKES",
    "reward": "rewards"
   },
@@ -21,8 +17,12 @@
   {
    "code": "BAGS",
    "reward": "rewards"
+  },
+  {
+   "code": "COMEBACK",
+   "reward": "50,000 Cash and Double Job EXP (2 hours)"
   }
  ],
- "updated": "2026-11-09T15:46:42.296Z",
+ "updated": "2026-11-12T00:18:53.550Z",
  "source": "https://robloxden.com/game-codes/carolina-leaners"
 }

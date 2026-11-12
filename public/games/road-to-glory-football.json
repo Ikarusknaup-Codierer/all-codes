@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "10K",
-   "reward": "1,000 Coins , 10 Pipeline Rerolls and 10 Height Rerolls"
-  },
-  {
-   "code": "YOURLEGACY",
-   "reward": "4,000 Coins , 8 Pipeline Rerolls , 8 Height Rerolls , and 1 Slot"
-  },
-  {
-   "code": "CAREERMODEV1",
-   "reward": "10 Pipeline Rerolls , 10 Height Rerolls , and 1 Slot"
-  },
-  {
    "code": "UPDATEV13",
    "reward": "2,000 Coins , 7 Pipeline Rerolls , 7 Height Rerolls , and a Slot"
   },
@@ -33,8 +21,20 @@
   {
    "code": "CAREERMODEV2",
    "reward": "5 Pipeline Rerolls and 5 Height Rerolls"
+  },
+  {
+   "code": "10K",
+   "reward": "1,000 Coins , 10 Pipeline Rerolls and 10 Height Rerolls"
+  },
+  {
+   "code": "YOURLEGACY",
+   "reward": "4,000 Coins , 8 Pipeline Rerolls , 8 Height Rerolls , and 1 Slot"
+  },
+  {
+   "code": "CAREERMODEV1",
+   "reward": "10 Pipeline Rerolls , 10 Height Rerolls , and 1 Slot"
   }
  ],
- "updated": "2026-11-10T01:26:19.757Z",
+ "updated": "2026-11-12T00:27:43.126Z",
  "source": "https://robloxden.com/game-codes/road-to-glory-football"
 }

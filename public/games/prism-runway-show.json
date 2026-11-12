@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "MRLEAF",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "CHIOTOKIO",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "RAINE",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "DELYRIONN",
+   "reward": "100 Coins"
+  },
+  {
    "code": "THANKYOUSTYLISTS",
    "reward": "the Rollcake Backpack"
   },
@@ -31,6 +47,10 @@
    "reward": "100 Coins"
   },
   {
+   "code": "SPOOKYHALLOWEEN",
+   "reward": "the 2,500 Pumpkins"
+  },
+  {
    "code": "BRINGTHEBOX",
    "reward": "400 Pumpkins"
   },
@@ -39,6 +59,6 @@
    "reward": "100 Pumpkins"
   }
  ],
- "updated": "2026-11-10T01:23:10.801Z",
+ "updated": "2026-11-12T00:24:39.126Z",
  "source": "https://robloxden.com/game-codes/prism-runway-show"
 }

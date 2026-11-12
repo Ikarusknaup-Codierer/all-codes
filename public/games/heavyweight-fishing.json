@@ -15,10 +15,6 @@
    "reward": "Freebies . You need to be level 100 to redeem this code"
   },
   {
-   "code": "WeeklyUPD1",
-   "reward": "Freebies . You need to be level 100 to redeem this code"
-  },
-  {
    "code": "SON",
    "reward": "67 Cash"
   },
@@ -45,6 +41,10 @@
   {
    "code": "Balanced",
    "reward": "rewards . You must be at least level 100 to use this code"
+  },
+  {
+   "code": "WeeklyUPD1",
+   "reward": "Freebies . You need to be level 100 to redeem this code"
   },
   {
    "code": "85KLikes",
@@ -263,6 +263,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-11-09T15:51:00.548Z",
+ "updated": "2026-11-12T00:22:28.818Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

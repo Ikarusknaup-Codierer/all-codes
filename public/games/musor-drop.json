@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "XBOOST",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "GIVEAWAYS",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "BIGUPDATE",
+   "reward": "5,000 Coins"
+  },
+  {
    "code": "CUSTOMCASES",
    "reward": "3,000 Coins"
   },
@@ -39,6 +51,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-11-09T15:49:55.890Z",
+ "updated": "2026-11-12T00:21:22.033Z",
  "source": "https://robloxden.com/game-codes/musor-drop"
 }

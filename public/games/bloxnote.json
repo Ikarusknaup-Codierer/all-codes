@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "rerelease",
+   "reward": "1,200 Apples"
+  },
+  {
+   "code": "sorryfordelay",
+   "reward": "1,200 Apples"
+  },
+  {
+   "code": "halloween2026",
+   "reward": "30 Pumpkins"
+  },
+  {
    "code": "RELEASE",
    "reward": "500 Apples"
   },
@@ -31,6 +43,6 @@
    "reward": "500 Apples"
   }
  ],
- "updated": "2026-11-10T01:24:28.215Z",
+ "updated": "2026-11-12T00:25:51.927Z",
  "source": "https://robloxden.com/game-codes/bloxnote"
 }

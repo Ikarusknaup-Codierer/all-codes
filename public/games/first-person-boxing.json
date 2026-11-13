@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "FIRSTPERSON",
+   "reward": "1 Lucky Spin"
+  },
+  {
+   "code": "SOVIETUPD",
+   "reward": "1,000 Coins, 1 Lucky Spin, and 3 Spins"
+  },
+  {
+   "code": "BALANCEUPD",
+   "reward": "5 Spins"
+  },
+  {
+   "code": "RANKEDUPD",
+   "reward": "1,000 Coins, 1 Lucky Spin, and 3 Spins"
+  },
+  {
+   "code": "LUCK1",
+   "reward": "5 Spins"
+  },
+  {
+   "code": "FPSBOXING2",
+   "reward": "1,000 Coins and 3 Spins"
+  },
+  {
    "code": "REAPER",
    "reward": "1 Lucky Spin , 3 Spins , and 3,500 Cash"
   },
@@ -15,6 +39,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-11-11T05:39:03.895Z",
+ "updated": "2026-11-13T06:08:38.892Z",
  "source": "https://robloxden.com/game-codes/first-person-boxing"
 }

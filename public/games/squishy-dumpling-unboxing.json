@@ -19,14 +19,14 @@
    "reward": "1 Heart-mutated box of your next unreached tier"
   },
   {
-   "code": "UPDATE2",
-   "reward": "3 Random Boxes"
+   "code": "HICHAT",
+   "reward": "3 Random Boxes (limited usage). This is limited to 5,000 players only"
   },
   {
-   "code": "UPDATE",
+   "code": "UPDATE2",
    "reward": "3 Random Boxes"
   }
  ],
- "updated": "2026-11-11T13:52:34.176Z",
+ "updated": "2026-11-13T06:09:36.854Z",
  "source": "https://robloxden.com/game-codes/squishy-dumpling-unboxing"
 }

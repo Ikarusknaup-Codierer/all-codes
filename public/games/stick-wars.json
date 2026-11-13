@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "STICKWARS",
+   "reward": "25 Gems"
+  },
+  {
+   "code": "SEASON1",
+   "reward": "35 Coins and 25 Gems"
+  },
+  {
+   "code": "DISCORD",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "KASH",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "115 Coins and 50 Gems"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "100 Gems"
+  },
+  {
    "code": "RELEASE",
    "reward": "288 Coins and 50 Gems"
   },
@@ -19,6 +43,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-11T05:31:51.448Z",
+ "updated": "2026-11-13T06:01:23.874Z",
  "source": "https://robloxden.com/game-codes/stick-wars"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DUNGEON",
+   "reward": "2 Dungeon Keys and 1 Heart Shard"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "50 Red Potions and 3 Drop Potions"
   },
@@ -15,6 +19,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-11T05:31:54.140Z",
+ "updated": "2026-11-13T06:01:27.076Z",
  "source": "https://robloxden.com/game-codes/hunting-together"
 }

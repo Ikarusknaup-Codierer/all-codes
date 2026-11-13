@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "welcome",
+   "reward": "10 Gems"
+  },
+  {
+   "code": "thanku",
+   "reward": "a Super Iron"
+  },
+  {
+   "code": "love",
+   "reward": "a Paint Bucket"
+  },
+  {
+   "code": "bead",
+   "reward": "a 150% Coin Potion (15 Minutes)"
+  },
+  {
+   "code": "likeus",
+   "reward": "a Speed Potion (15 Minutes)"
+  },
+  {
+   "code": "favorite",
+   "reward": "5 Gems and 10 Coins"
   }
  ],
- "updated": "2026-11-11T05:31:54.622Z",
+ "updated": "2026-11-13T06:01:27.670Z",
  "source": "https://robloxden.com/game-codes/bead-by-bead"
 }

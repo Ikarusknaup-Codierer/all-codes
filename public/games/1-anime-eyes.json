@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "AWAKEN",
+   "reward": "100 Wins , x2 Chakra (30 mins) , and 3 Shinobi Eggs"
+  },
+  {
+   "code": "SHARINGAN",
+   "reward": "250 Wins , x2 Trophies (30 mins) , and 1 Akatsuki Egg"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "x2 Chakra (10 mins)"
+  },
+  {
+   "code": "NEWWORLDS",
+   "reward": "x2 Trophies (10 mins)"
   }
  ],
- "updated": "2026-11-11T05:31:55.118Z",
+ "updated": "2026-11-13T06:01:28.249Z",
  "source": "https://robloxden.com/game-codes/1-anime-eyes"
 }

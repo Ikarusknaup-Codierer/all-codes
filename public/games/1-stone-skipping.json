@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "70MVISITS",
+   "reward": "1 Skill Potion , 1 Win Potion , 1 Luck Potion , 5 Wins , 3.94k Skill ,"
+  },
+  {
+   "code": "SKIPRUSH",
+   "reward": "1 Skill Potion , 1 Luck Potion , and 3.94k Skill"
+  },
+  {
+   "code": "60MVISITS",
+   "reward": "1 Skill Potion , 1 Win Potion , 1 Luck Potion , 3 Wins , 2.63k Skill ,"
+  },
+  {
+   "code": "4MGROUP",
+   "reward": "1 Win Potion , 3 Wins , and 1 Common Egg"
+  },
+  {
    "code": "WORLD8",
    "reward": "1 Skill Potion , 1.31K Skill , and 1 Common Egg"
   },
@@ -59,6 +75,6 @@
    "reward": "1 Skill Potion , 1 Win Potion , 1 Luck Potion , and 1 Common Egg"
   }
  ],
- "updated": "2026-11-10T23:09:31.064Z",
+ "updated": "2026-11-13T05:57:36.959Z",
  "source": "https://robloxden.com/game-codes/1-stone-skipping"
 }

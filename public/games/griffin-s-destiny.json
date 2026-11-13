@@ -11,10 +11,6 @@
    "reward": "Anubis Mask"
   },
   {
-   "code": "10klikes",
-   "reward": "rewards"
-  },
-  {
    "code": "LOVELYEASTER",
    "reward": "Easter Skirt Accessory"
   },
@@ -25,8 +21,12 @@
   {
    "code": "babygriffplush",
    "reward": "Griff Baby Plush and Baby Griffin Accessory"
+  },
+  {
+   "code": "40klikes",
+   "reward": "Solar Wings"
   }
  ],
- "updated": "2026-11-10T23:08:32.558Z",
+ "updated": "2026-11-13T05:56:36.023Z",
  "source": "https://robloxden.com/game-codes/griffin-s-destiny"
 }

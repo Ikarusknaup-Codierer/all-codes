@@ -55,14 +55,6 @@
    "reward": "2,000 Skybux"
   },
   {
-   "code": "avro",
-   "reward": "3,000 Skybux"
-  },
-  {
-   "code": "lounge",
-   "reward": "3,000 Skybux"
-  },
-  {
    "code": "1m",
    "reward": "2,000 Cash"
   },
@@ -79,10 +71,14 @@
    "reward": "2,000 Skybux"
   },
   {
-   "code": "airstairs",
-   "reward": "1,300 Skybux"
+   "code": "avro",
+   "reward": "3,000 Skybux"
+  },
+  {
+   "code": "lounge",
+   "reward": "3,000 Skybux"
   }
  ],
- "updated": "2026-11-11T05:31:41.967Z",
+ "updated": "2026-11-13T06:01:12.767Z",
  "source": "https://robloxden.com/game-codes/cabin-crew-simulator"
 }

@@ -131,14 +131,14 @@
    "reward": "a 10 Minute 2x Power Boost"
   },
   {
-   "code": "RICH",
+   "code": "GETRICHQUICK",
    "reward": "Free Coins"
   },
   {
-   "code": "GETRICHQUICK",
-   "reward": "Free Coins"
+   "code": "DUNGEON",
+   "reward": "a 10 Minute 2x Coins Boost"
   }
  ],
- "updated": "2026-11-11T05:31:04.385Z",
+ "updated": "2026-11-13T06:00:28.823Z",
  "source": "https://robloxden.com/game-codes/sword-fighters-simulator"
 }

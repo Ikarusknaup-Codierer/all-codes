@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TRULYEPIC",
-   "reward": "150 Gems"
-  },
-  {
-   "code": "UPDATE7",
-   "reward": "a 2x Clicks Boost"
-  },
-  {
    "code": "NEWUPDATE",
    "reward": "150 Gems"
   },
@@ -25,8 +17,16 @@
   {
    "code": "TEMPEST",
    "reward": "300 Gems"
+  },
+  {
+   "code": "TRULYEPIC",
+   "reward": "150 Gems"
+  },
+  {
+   "code": "UPDATE7",
+   "reward": "a 2x Clicks Boost"
   }
  ],
- "updated": "2026-11-10T23:08:03.624Z",
+ "updated": "2026-11-13T05:56:08.177Z",
  "source": "https://robloxden.com/game-codes/clicker-heroes"
 }

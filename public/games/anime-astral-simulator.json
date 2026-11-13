@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SOULLANTERN",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "SPINMANAGER",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
+   "code": "GANGWANTED",
+   "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
+  },
+  {
    "code": "LESSLAG",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II P"
   },
@@ -633,16 +645,8 @@
   {
    "code": "RELEASE",
    "reward": "250 F2P Tickets and 12 Potions"
-  },
-  {
-   "code": "BACKTOASTRAL",
-   "reward": "Tickets , Potions , or Boosts"
-  },
-  {
-   "code": "15MVISTS",
-   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
   }
  ],
- "updated": "2026-11-11T05:32:13.163Z",
+ "updated": "2026-11-13T06:01:50.441Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

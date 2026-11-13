@@ -5,8 +5,44 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "6KCCU",
+   "reward": "5x Luck for (15 Minutes)"
+  },
+  {
+   "code": "60KMEMBERS",
+   "reward": "5x Luck for (80 Minutes), 2x Roll Speed for (80 Minutes) and 2x Money "
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "5x Luck for (10 Minutes)"
+  },
+  {
+   "code": "5KCCU",
+   "reward": "3x Luck for (20 Minutes), 2x Roll Speed for (20 Minutes) and 3x Money "
+  },
+  {
+   "code": "30KMEMBERS",
+   "reward": "3x Luck for (45 Minutes)"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "5x Luck for (30 Minutes)"
+  },
+  {
+   "code": "3KCCU",
+   "reward": "2x Roll Speed for (15 Minutes) and 3x Money for (15 Minutes)"
+  },
+  {
+   "code": "1500LIKES",
+   "reward": "5x Luck for (30 Minutes)"
+  },
+  {
+   "code": "7KCCU",
+   "reward": "5x Luck for (15 Minutes)"
   }
  ],
- "updated": "2026-11-11T13:52:47.585Z",
+ "updated": "2026-11-13T06:09:54.477Z",
  "source": "https://robloxden.com/game-codes/roll-a-barber-rng"
 }

@@ -483,10 +483,14 @@
    "reward": "the Rock Paper Scissors Item"
   },
   {
-   "code": "knocknock",
-   "reward": "Wardrobe Item"
+   "code": "trade2022",
+   "reward": "9,999 Corners"
+  },
+  {
+   "code": "12345",
+   "reward": "Random Item"
   }
  ],
- "updated": "2026-11-11T05:33:28.551Z",
+ "updated": "2026-11-13T06:03:24.067Z",
  "source": "https://robloxden.com/game-codes/pop-it-trading"
 }

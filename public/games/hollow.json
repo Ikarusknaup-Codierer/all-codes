@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Ability5Reroll",
+   "reward": "5 Ability Rerolls"
+  },
+  {
+   "code": "FREESLOT1",
+   "reward": "1 Free Character Slot"
+  },
+  {
+   "code": "6000Likes",
+   "reward": "10 Ability Rerolls"
+  },
+  {
    "code": "3000LIKES",
    "reward": "6 Ability Rerolls"
   },
   {
-   "code": "HOLLOWTEST1",
-   "reward": "2x Exp (30 Minutes)"
+   "code": "1KINTERESTED",
+   "reward": "10 Ability Rerolls"
   }
  ],
- "updated": "2026-11-11T05:31:53.624Z",
+ "updated": "2026-11-13T06:01:26.489Z",
  "source": "https://robloxden.com/game-codes/hollow"
 }

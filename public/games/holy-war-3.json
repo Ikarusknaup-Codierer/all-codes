@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "PROJECT",
-   "reward": "the Estarossa's Armour"
+   "code": "DESUNSTORM",
+   "reward": "Exp"
   },
   {
-   "code": "HYBRIDDEMON",
-   "reward": "20 Race Spins"
-  },
-  {
-   "code": "HERENOWSHOO",
-   "reward": "some free spins"
-  },
-  {
-   "code": "ESCANOR",
+   "code": "GETURRACE2",
    "reward": "Magic Spins"
   },
   {
-   "code": "TELLMEAGAIN",
-   "reward": "a Beta Sword"
+   "code": "STATRESET10",
+   "reward": "a Stat Reset"
+  },
+  {
+   "code": "STATRESET9",
+   "reward": "a Stat Reset"
+  },
+  {
+   "code": "1BIGLOAD",
+   "reward": "50 Race Spins"
   }
  ],
- "updated": "2026-11-10T23:08:51.485Z",
+ "updated": "2026-11-13T05:56:57.897Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

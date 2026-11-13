@@ -11,10 +11,6 @@
    "reward": "10 Haki Scrolls , 1,500 Gems and 10 Clan Scrolls"
   },
   {
-   "code": "UPDATE1",
-   "reward": "1.8k Gems , 10 Haki Rolls , and 10 Clan Rolls"
-  },
-  {
    "code": "300LIKES!",
    "reward": "1.8k Gems , 20 Haki Rolls , and 20 Clan Rolls"
   },
@@ -53,8 +49,12 @@
   {
    "code": "100CCU",
    "reward": "900k Gems , 5 Haki Rolls , and 5 Clan Rolls"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "1.8k Gems , 10 Haki Rolls , and 10 Clan Rolls"
   }
  ],
- "updated": "2026-11-11T05:35:24.539Z",
+ "updated": "2026-11-13T14:20:39.778Z",
  "source": "https://robloxden.com/game-codes/incremental-piece"
 }

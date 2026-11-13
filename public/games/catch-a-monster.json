@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN2",
+   "reward": "1 Pumpkin Egg"
+  },
+  {
    "code": "lunaron",
    "reward": "5 Halloween Chests"
   },
@@ -127,6 +131,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-11-11T13:56:12.579Z",
+ "updated": "2026-11-13T14:27:18.847Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

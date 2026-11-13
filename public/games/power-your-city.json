@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SOLARPOWER",
+   "reward": "1 Wheel Spin"
+  },
+  {
+   "code": "MUTATIONS",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "2x Cash (5 mins)"
+  },
+  {
    "code": "TOTEM",
    "reward": "2x Power (5 Minutes)"
   },
@@ -19,6 +31,6 @@
    "reward": "2x Cash (5 Minutes)"
   }
  ],
- "updated": "2026-11-11T13:58:15.646Z",
+ "updated": "2026-11-13T14:29:23.605Z",
  "source": "https://robloxden.com/game-codes/power-your-city"
 }

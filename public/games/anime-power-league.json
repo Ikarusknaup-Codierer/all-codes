@@ -31,18 +31,6 @@
    "reward": "2,000,000 Tokens"
   },
   {
-   "code": "SoulHunters",
-   "reward": "2x Training Stats (60 Minutes)"
-  },
-  {
-   "code": "enjoy1token",
-   "reward": "1 Token"
-  },
-  {
-   "code": "DATSU",
-   "reward": "2x Training Stats (60 Minutes)"
-  },
-  {
    "code": "OpenTest",
    "reward": "10,000 Tokens"
   },
@@ -69,8 +57,20 @@
   {
    "code": "Insomnia",
    "reward": "Double Training Stats (30 Minutes)"
+  },
+  {
+   "code": "SoulHunters",
+   "reward": "2x Training Stats (60 Minutes)"
+  },
+  {
+   "code": "enjoy1token",
+   "reward": "1 Token"
+  },
+  {
+   "code": "DATSU",
+   "reward": "2x Training Stats (60 Minutes)"
   }
  ],
- "updated": "2026-11-11T05:37:37.296Z",
+ "updated": "2026-11-13T14:23:13.994Z",
  "source": "https://robloxden.com/game-codes/anime-power-league"
 }

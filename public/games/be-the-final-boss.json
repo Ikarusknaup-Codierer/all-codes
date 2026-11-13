@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "raidthecastle",
-   "reward": "6 Rare Fusion Shards and 3 Forge Stones"
-  },
-  {
    "code": "armyofbosses",
    "reward": "15 Uncommon Fusion Shards and 2 Spin Tickets"
   },
@@ -67,10 +63,14 @@
    "reward": "3 Epic Fusion Shards and 1 Shard Drop Boost"
   },
   {
+   "code": "raidthecastle",
+   "reward": "6 Rare Fusion Shards and 3 Forge Stones"
+  },
+  {
    "code": "cantkilldaboss",
    "reward": "a Soul Booster , 5 Epic Fusion Shards , and 3 Spin Tickets"
   }
  ],
- "updated": "2026-11-11T05:36:24.483Z",
+ "updated": "2026-11-13T14:21:49.798Z",
  "source": "https://robloxden.com/game-codes/be-the-final-boss"
 }

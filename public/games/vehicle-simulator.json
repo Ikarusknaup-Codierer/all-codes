@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "AERODYNAMIX",
+   "reward": "Car Texture"
+  },
+  {
    "code": "cincodemayo",
    "reward": "Car Texture"
   },
@@ -21,12 +25,8 @@
   {
    "code": "FREEDRONE",
    "reward": "60,000 Cash"
-  },
-  {
-   "code": "MATRIX",
-   "reward": "50,000 Cash"
   }
  ],
- "updated": "2026-11-11T05:35:13.901Z",
+ "updated": "2026-11-13T14:20:29.797Z",
  "source": "https://robloxden.com/game-codes/vehicle-simulator"
 }

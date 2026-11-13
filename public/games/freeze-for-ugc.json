@@ -31,14 +31,14 @@
    "reward": "200 Time"
   },
   {
-   "code": "FREEZE",
-   "reward": "200 Time"
+   "code": "RELEASE",
+   "reward": "10,000 Time"
   },
   {
-   "code": "UPDATE",
-   "reward": "250 Time"
+   "code": "FREEZE",
+   "reward": "200 Time"
   }
  ],
- "updated": "2026-11-12T00:19:34.219Z",
+ "updated": "2026-11-13T14:33:28.776Z",
  "source": "https://robloxden.com/game-codes/freeze-for-ugc"
 }

@@ -7,8 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "EXTENDED",
+   "reward": "250 Gems , 5 Trait Rolls , 500 Candy Corn , and 3 Boss Tickets"
+  },
+  {
    "code": "PART2SHUTDOWN",
    "reward": "800 Candy Corn and 3 Boss Tickets"
+  },
+  {
+   "code": "HALLOWEENPART2",
+   "reward": "500 Candy Corn and 3 Boss Tickets"
+  },
+  {
+   "code": "CURSEDTRAITS",
+   "reward": "300 Candy Corn and 2 Boss Tickets"
   },
   {
    "code": "WEAREBACK",
@@ -39,6 +51,6 @@
    "reward": "500 Candy Corns and 3 Boss Tickets"
   }
  ],
- "updated": "2026-11-11T13:56:52.365Z",
+ "updated": "2026-11-13T14:27:58.492Z",
  "source": "https://robloxden.com/game-codes/anime-ball-duels"
 }

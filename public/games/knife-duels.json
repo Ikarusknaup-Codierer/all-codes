@@ -11,18 +11,22 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "LOADING",
-   "reward": "3,000 Cash"
-  },
-  {
    "code": "GRAVEYARD",
    "reward": "1,500 Coins"
   },
   {
-   "code": "1MILGROUP",
+   "code": "LOADING",
+   "reward": "3,000 Cash"
+  },
+  {
+   "code": "Summer",
+   "reward": "3,000 Cash"
+  },
+  {
+   "code": "DRAGON",
    "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-11-11T13:53:42.141Z",
+ "updated": "2026-11-13T14:24:51.329Z",
  "source": "https://robloxden.com/game-codes/knife-duels"
 }

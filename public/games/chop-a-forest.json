@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "3 Hellrider Spins and 250 Candy Corn"
+  },
+  {
+   "code": "SORRYCANDY",
+   "reward": "300 Candy Corn"
+  },
+  {
+   "code": "SORRYDELAY",
+   "reward": "2 Frozen Hoard Spins"
   }
  ],
- "updated": "2026-11-11T13:53:39.552Z",
+ "updated": "2026-11-13T14:24:48.726Z",
  "source": "https://robloxden.com/game-codes/chop-a-forest"
 }

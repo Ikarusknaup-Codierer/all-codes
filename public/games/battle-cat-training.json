@@ -23,14 +23,14 @@
    "reward": "3 Win Potions"
   },
   {
-   "code": "giantcat",
-   "reward": "1 Golden Treasure Chest"
-  },
-  {
    "code": "back",
    "reward": "1,000 Diamonds"
+  },
+  {
+   "code": "remain",
+   "reward": "1 Bronze Cat Shovel"
   }
  ],
- "updated": "2026-11-11T13:55:26.716Z",
+ "updated": "2026-11-13T14:26:36.218Z",
  "source": "https://robloxden.com/game-codes/battle-cat-training"
 }

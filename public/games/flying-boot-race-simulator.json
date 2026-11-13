@@ -55,10 +55,14 @@
    "reward": "3 Lucky Potions"
   },
   {
-   "code": "ROYALE",
-   "reward": "3 Coin Potions"
+   "code": "10klikes",
+   "reward": "1 Coin Potion"
+  },
+  {
+   "code": "epic",
+   "reward": "2 Cheater Potions"
   }
  ],
- "updated": "2026-11-11T13:56:43.687Z",
+ "updated": "2026-11-13T14:27:49.824Z",
  "source": "https://robloxden.com/game-codes/flying-boot-race-simulator"
 }

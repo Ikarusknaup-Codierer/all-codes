@@ -7,22 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "SPREADJOY",
-   "reward": "50 Scent Capsules , 1,500 Coins , and 200 Acorns"
+   "code": "MOREACORNS",
+   "reward": "30 Acorns"
   },
   {
-   "code": "500KVISITS",
+   "code": "HARVEST",
+   "reward": "30 Acorns"
+  },
+  {
+   "code": "50KPLAYS",
    "reward": "50 Scent Capsules"
-  },
-  {
-   "code": "NEWPETS",
-   "reward": "10 Scent Capsules and 500 Coins"
-  },
-  {
-   "code": "CABINET",
-   "reward": "25 Scent Capsules"
   }
  ],
- "updated": "2026-11-11T13:55:48.061Z",
+ "updated": "2026-11-13T14:26:55.692Z",
  "source": "https://robloxden.com/game-codes/make-soaps"
 }

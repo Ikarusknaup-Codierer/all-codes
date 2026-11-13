@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CHANGESSHUTDOWN",
+   "reward": "50 Card Tokens and 1 Double Aura Luck Potion"
+  },
+  {
    "code": "HAPPYHALLOWEEN!",
    "reward": "100 Card Tokens , 500 Chi , 50 Ancient Fragments , 100,000 Enchant Tok"
   },
@@ -83,10 +87,10 @@
    "reward": "one day worth of Prism"
   },
   {
-   "code": "12KCCU!!",
-   "reward": "100 Enchant tokens , 8 2x Rune Luck Potions , 8 2x Rune Speed Potions "
+   "code": "11KCCU!!",
+   "reward": "100 Enchant Tokens and 20 Tickets"
   }
  ],
- "updated": "2026-11-11T13:54:04.144Z",
+ "updated": "2026-11-13T14:25:13.223Z",
  "source": "https://robloxden.com/game-codes/noob-incremental"
 }

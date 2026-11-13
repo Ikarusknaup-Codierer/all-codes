@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEENCHAP5",
+   "reward": "60K RM, 1.2K XP and 1.5x Boost (10 Minutes)"
+  },
+  {
    "code": "REALWHEELIES",
    "reward": "30,000 RM , 1.5 Cash Boost (10 Minutes) and 800 XP"
   },
@@ -31,10 +35,10 @@
    "reward": "60,000 RM , 1,200 XP , and the 1.5x Cash Boost (10 Minutes)"
   },
   {
-   "code": "LETSGO20KLIKES",
-   "reward": "RM 30,000 and 1,000 XP"
+   "code": "IDONTGETPAID",
+   "reward": "70,000 Cash and 1,800 XP"
   }
  ],
- "updated": "2026-11-12T00:23:10.753Z",
+ "updated": "2026-11-13T23:33:16.449Z",
  "source": "https://robloxden.com/game-codes/tr-legacy"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "GhostKey",
-   "reward": "1 Ghost Key and 250 Candy Corn"
-  },
-  {
    "code": "TRICKORTREAT",
    "reward": "150 Candy Corn"
   },
@@ -41,8 +37,12 @@
   {
    "code": "BOSSISHERE!",
    "reward": "1 Ghost Key and 500 Candy Corn"
+  },
+  {
+   "code": "GhostKey",
+   "reward": "1 Ghost Key and 250 Candy Corn"
   }
  ],
- "updated": "2026-11-12T00:24:59.920Z",
+ "updated": "2026-11-13T23:34:59.140Z",
  "source": "https://robloxden.com/game-codes/survive-in-huss-valley"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Discord3K",
-   "reward": "Reward"
-  },
-  {
    "code": "begginer",
    "reward": "Reward"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Group220k",
    "reward": "In-Game Rewards"
+  },
+  {
+   "code": "Christmas",
+   "reward": "20,000 Gems"
   }
  ],
- "updated": "2026-11-12T00:23:09.481Z",
+ "updated": "2026-11-13T23:33:15.018Z",
  "source": "https://robloxden.com/game-codes/snow-plow-simulator"
 }

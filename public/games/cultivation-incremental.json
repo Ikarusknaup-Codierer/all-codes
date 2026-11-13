@@ -27,10 +27,6 @@
    "reward": "25 Jade Tokens"
   },
   {
-   "code": "500kVisits",
-   "reward": "25 Jade Tokens"
-  },
-  {
    "code": "MiniUpdateP1",
    "reward": "68 Aptitude Spins"
   },
@@ -63,10 +59,14 @@
    "reward": "25 Jade Tokens"
   },
   {
+   "code": "500kVisits",
+   "reward": "25 Jade Tokens"
+  },
+  {
    "code": "NEWMAP",
    "reward": "20 Jade Tokens"
   }
  ],
- "updated": "2026-11-11T14:02:10.930Z",
+ "updated": "2026-11-13T23:29:08.509Z",
  "source": "https://robloxden.com/game-codes/cultivation-incremental"
 }

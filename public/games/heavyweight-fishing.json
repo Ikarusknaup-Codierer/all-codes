@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WeeklyUPD2",
+   "reward": "Freebies . To use this code, you must be at least level 100 in-game"
+  },
+  {
+   "code": "Halloween",
+   "reward": "Freebies . To use this code, you must be at least level 200 in-game"
+  },
+  {
    "code": "Legendary",
    "reward": "50 Tickets and 50 Trait Rerolls . You must be at least level 100 to us"
   },
@@ -263,6 +271,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-11-12T00:22:28.818Z",
+ "updated": "2026-11-13T23:32:34.234Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

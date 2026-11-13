@@ -19,14 +19,14 @@
    "reward": "1 Character Slot"
   },
   {
-   "code": "NewYearSlot",
-   "reward": "1 New Character Slot"
+   "code": "Series",
+   "reward": "1 New Slot and 10 Spins"
   },
   {
-   "code": "DoubleDrop",
+   "code": "EoDrops",
    "reward": "2x Drop Rate (20 Minutes)"
   }
  ],
- "updated": "2026-11-11T14:01:07.616Z",
+ "updated": "2026-11-13T23:28:27.816Z",
  "source": "https://robloxden.com/game-codes/elemental-odyssey"
 }

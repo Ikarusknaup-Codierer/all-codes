@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LUNARUPDATE",
+   "reward": "30K Yen, 1 Clan Reroll, 1 Breathing Reroll, 1 Blood Demon Art Reroll a"
+  },
+  {
+   "code": "BOOSTME",
+   "reward": "15,000 Yen and 10,000 Exp"
+  },
+  {
+   "code": "FIFTYK",
+   "reward": "50,000 Yen"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "2,500 Yen"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "5,000 Yen and 300 Exp"
   }
  ],
- "updated": "2026-11-12T14:55:58.433Z",
+ "updated": "2026-11-13T23:39:50.979Z",
  "source": "https://robloxden.com/game-codes/slayer"
 }

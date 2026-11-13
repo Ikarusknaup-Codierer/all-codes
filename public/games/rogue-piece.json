@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "JustABitMore",
+   "reward": "10 Material Box , 5 Relic Box , 5 Luck Potion , 5 Gem Potion , 2 Every"
+  },
+  {
+   "code": "BaldManComingSoon",
+   "reward": "10M Gems , 750K Fragments of Rog250 Reroll Shards , 30 Lucky Box , 10 "
+  },
+  {
    "code": "Noob",
    "reward": "10,000,000 Gold , 5,000,000 Gems , and 100 Reroll Shards"
   },
@@ -155,6 +163,6 @@
    "reward": "Gems and Cash"
   }
  ],
- "updated": "2026-11-12T00:21:18.712Z",
+ "updated": "2026-11-13T23:31:26.683Z",
  "source": "https://robloxden.com/game-codes/rogue-piece"
 }

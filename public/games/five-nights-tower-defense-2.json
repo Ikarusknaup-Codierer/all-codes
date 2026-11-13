@@ -15,10 +15,6 @@
    "reward": "2,500 Untradable Soul , 150 AFK 2 Present , and 50 AFK 3 Present"
   },
   {
-   "code": "SORRY4DELAY4",
-   "reward": "15 Springlocks , 50 Endo Chips , 100 Raid Coins , 1,000 Season XP , an"
-  },
-  {
    "code": "HMMMBYTES",
    "reward": "5,000 Tokens , 10 Endo Chips , 2 Springlocks , 4 Remnants , the Pearl "
   },
@@ -145,6 +141,10 @@
   {
    "code": "MOTORIST",
    "reward": "50,000 Tokens , 200 AFK2 Present , 50 Spring Locks , and 10 Remnant"
+  },
+  {
+   "code": "SORRY4DELAY4",
+   "reward": "15 Springlocks , 50 Endo Chips , 100 Raid Coins , 1,000 Season XP , an"
   },
   {
    "code": "SLUMBER",
@@ -307,6 +307,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-11T14:01:14.599Z",
+ "updated": "2026-11-13T23:28:33.636Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

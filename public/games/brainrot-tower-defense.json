@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "dbike",
-   "reward": "500 Gems"
-  },
-  {
    "code": "wave",
    "reward": "1,000 Gems"
   },
@@ -23,14 +19,14 @@
    "reward": "300 Gems"
   },
   {
-   "code": "Bee",
+   "code": "dbike",
    "reward": "500 Gems"
   },
   {
-   "code": "goat",
+   "code": "Bee",
    "reward": "500 Gems"
   }
  ],
- "updated": "2026-11-12T00:23:31.480Z",
+ "updated": "2026-11-13T23:33:36.187Z",
  "source": "https://robloxden.com/game-codes/brainrot-tower-defense"
 }

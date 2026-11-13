@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FLAGSHIP",
+   "reward": "38,000 Cash and 15 RP"
+  },
+  {
    "code": "COMPANIES",
    "reward": "38,000 cash and 60 RP"
   },
@@ -21,8 +25,12 @@
   {
    "code": "LAPTOPS",
    "reward": "75,000 cash and 90 RP"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "38,000 Cash , 60 Candy , and 60 RP"
   }
  ],
- "updated": "2026-11-11T14:00:43.340Z",
+ "updated": "2026-11-13T23:28:07.421Z",
  "source": "https://robloxden.com/game-codes/build-a-phone-empire"
 }

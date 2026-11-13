@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Hallow",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "Welcome",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "Supinator",
+   "reward": "10 Coins"
   }
  ],
- "updated": "2026-11-12T14:55:57.354Z",
+ "updated": "2026-11-13T23:39:49.877Z",
  "source": "https://robloxden.com/game-codes/solve-the-cube"
 }

@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "a Wheel Spin and a 1.5x Speed Boost (10 Minutes)"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "a Wheel Spin and an Epic Plate Coupon"
   }
  ],
- "updated": "2026-11-12T00:33:01.807Z",
+ "updated": "2026-11-14T05:47:03.440Z",
  "source": "https://robloxden.com/game-codes/license-plate-generator"
 }

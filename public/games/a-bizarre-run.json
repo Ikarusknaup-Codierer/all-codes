@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "CONSOLEFIX",
+   "reward": "a Shiny Arrow"
+  },
+  {
+   "code": "SUPPLYPACKAGE",
+   "reward": "2 Rokas , 2 Arrows , and 1 Spin Ticket"
+  },
+  {
+   "code": "150KLIKES",
+   "reward": "2 Rokas , 2 Arrows , and 1 Spin Ticket"
+  },
+  {
+   "code": "100KLIKES",
+   "reward": "1 Spin Ticket , 2 Stand Arrows and 2 Rokakaka Fruits"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "8,000 Cash"
+  },
+  {
+   "code": "D4C",
+   "reward": "a Rokaka Fruit , 8,000 Cash , and an Arrow"
+  },
+  {
+   "code": "50KLIKES",
+   "reward": "a Rokaka Fruit , 5,000 Cash , and an Arrow"
+  },
+  {
+   "code": "FIXEDANTITEAM",
+   "reward": "a Rokaka Fruit and an Arrow"
   }
  ],
- "updated": "2026-11-12T00:33:01.192Z",
+ "updated": "2026-11-14T05:47:02.947Z",
  "source": "https://robloxden.com/game-codes/a-bizarre-run"
 }

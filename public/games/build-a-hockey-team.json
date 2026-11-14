@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "5,000 Coins , 10 Rerolls , and 10 Refreshes"
+  },
+  {
+   "code": "RIVALRY",
+   "reward": "4,000 Coins , 12 Rerolls , and 12 Refreshes"
+  },
+  {
+   "code": "FIX",
+   "reward": "3,000 Coins , 10 Rerolls , and 10 Refreshes"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "2,500 Coins , 8 Rerolls , and 8 Refreshes"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "500 Coins , 5 Rerolls , and 5 Refreshes"
   }
  ],
- "updated": "2026-11-12T14:59:09.459Z",
+ "updated": "2026-11-14T05:51:15.159Z",
  "source": "https://robloxden.com/game-codes/build-a-hockey-team"
 }

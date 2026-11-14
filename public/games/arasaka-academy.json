@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ONEPOINTSEVEN",
+   "reward": "25 Rerolls"
+  },
+  {
    "code": "Guts",
    "reward": "25 Rerolls"
   },
@@ -115,6 +119,6 @@
    "reward": "Rewards . You need to be level 10 to redeem this code"
   }
  ],
- "updated": "2026-11-12T00:28:37.261Z",
+ "updated": "2026-11-14T05:46:28.014Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

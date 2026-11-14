@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Candy",
-   "reward": "2 Luck Boost and 25 Candy Corn"
-  },
-  {
    "code": "Beach",
    "reward": "2 Luck Boost and 2 Coin Boost"
+  },
+  {
+   "code": "2kLikes",
+   "reward": "2 Trait Rerolls"
   },
   {
    "code": "Release",
@@ -23,6 +23,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-12T14:54:31.848Z",
+ "updated": "2026-11-14T05:47:45.963Z",
  "source": "https://robloxden.com/game-codes/egg-tower-defense"
 }

@@ -7,11 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "Boost",
+   "code": "Event",
    "reward": "A Reward"
   },
   {
-   "code": "Event",
+   "code": "LOLWUT",
+   "reward": "A Reward"
+  },
+  {
+   "code": "LUCKYME",
    "reward": "A Reward"
   },
   {
@@ -21,12 +25,8 @@
   {
    "code": "X2BRAINSAGAIN",
    "reward": "A Reward"
-  },
-  {
-   "code": "kakorrhaphiophobia",
-   "reward": "1,000 - 2,000 Z-Coins"
   }
  ],
- "updated": "2026-11-12T14:59:56.778Z",
+ "updated": "2026-11-14T05:51:56.302Z",
  "source": "https://robloxden.com/game-codes/zombie-madness-tower-defense"
 }

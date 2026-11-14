@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "20KLIKES",
+   "reward": "Instant Rolls , 24 Potions , 6 Crates , 25 Card Tomes , 20 Trait Rolls"
+  },
+  {
    "code": "12KLIKES",
    "reward": "Instant rolls , 21 Potions , 6 Crates , 25 Card Tomes , 20 Trait Rerol"
   },
@@ -71,6 +75,6 @@
    "reward": "720 Instant Rolls , 2 Luck Potions , 1 Haste Potion , 1 Crate , 5 Card"
   }
  ],
- "updated": "2026-11-12T14:59:12.960Z",
+ "updated": "2026-11-14T05:51:18.628Z",
  "source": "https://robloxden.com/game-codes/roll-a-stickman"
 }

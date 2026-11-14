@@ -11,6 +11,10 @@
    "reward": "1,000 Gems , 600 Race Medals , 1 Steel Ball Run Artifact , 15 Trait Cr"
   },
   {
+   "code": "STEELBALLRUN",
+   "reward": "1,500 Gems , 2,500 Gold , 750 Tokens , 15 Trait Crystals , 2 Artifacts"
+  },
+  {
    "code": "TRICKORTREAT",
    "reward": "500 Gems , 5,000 Gold , 300 Tokens , 2x Drop Rate (30 Minutes) , and 2"
   },
@@ -19,14 +23,10 @@
    "reward": "1,000 Gems , 10,000 Gold , 1,000 Tokens , and 2 Rerolls"
   },
   {
-   "code": "BUGSQUASHED",
-   "reward": "Rewards"
-  },
-  {
-   "code": "RELEASE",
+   "code": "THANKYOUOGS",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-12T14:54:32.503Z",
+ "updated": "2026-11-14T05:47:46.589Z",
  "source": "https://robloxden.com/game-codes/anime-mania-remastered"
 }

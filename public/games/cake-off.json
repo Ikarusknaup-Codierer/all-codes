@@ -11,10 +11,6 @@
    "reward": "A Large Amount Of Free Currency"
   },
   {
-   "code": "STRAWBERRYAUTUMN",
-   "reward": "2,500 Coins"
-  },
-  {
    "code": "STRAWBERRYSHORTCAKE",
    "reward": "A Large Amount Of Free Currency"
   },
@@ -27,14 +23,14 @@
    "reward": "Community 2 Catalog"
   },
   {
-   "code": "TRICKORTREAT",
-   "reward": "2,000 Gems"
+   "code": "STRAWBERRYAUTUMN",
+   "reward": "2,500 Coins"
   },
   {
    "code": "NewYears25",
    "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-11-12T14:58:27.774Z",
+ "updated": "2026-11-14T05:50:36.857Z",
  "source": "https://robloxden.com/game-codes/cake-off"
 }

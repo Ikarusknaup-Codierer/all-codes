@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "DOOMKEY",
+   "reward": "20 Crowns and a Doom Key"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "40 Crowns and a Time Skip (15 Minutes)"
   }
  ],
- "updated": "2026-11-12T14:54:35.802Z",
+ "updated": "2026-11-14T05:47:49.751Z",
  "source": "https://robloxden.com/game-codes/board-game-incremental"
 }

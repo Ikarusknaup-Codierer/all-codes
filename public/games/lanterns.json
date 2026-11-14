@@ -5,8 +5,76 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "TREASURE",
+   "reward": "an Uncommon Chest"
+  },
+  {
+   "code": "MYTHICLANTERN",
+   "reward": "a Mythical Chest . To use this code, you must first Reach Level 75 . O"
+  },
+  {
+   "code": "LUCKYLANTERN",
+   "reward": "2x Luck (15 Minutes)"
+  },
+  {
+   "code": "SORRY4SHUTDOWN",
+   "reward": "a Legendary Chest"
+  },
+  {
+   "code": "SPACE",
+   "reward": "2x XP (15 Minutes)"
+  },
+  {
+   "code": "THX4SUPPORT",
+   "reward": "2x Luck (15 Minutes)"
+  },
+  {
+   "code": "100LIKES",
+   "reward": "1,000 Lantern Coins"
+  },
+  {
+   "code": "10KVISITS",
+   "reward": "2x XP (15 Minutes)"
+  },
+  {
+   "code": "HALLOWEENSOON",
+   "reward": "1,000 Lantern Coins"
+  },
+  {
+   "code": "THANKYOUALL",
+   "reward": "2x XP (30 Minutes)"
+  },
+  {
+   "code": "500CCU",
+   "reward": "a Free Spec Reset"
+  },
+  {
+   "code": "UPDATE!",
+   "reward": "2x Luck (15 Minutes)"
+  },
+  {
+   "code": "800CCU",
+   "reward": "1 Legendary Chest"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "2x XP (15 Minutes)"
+  },
+  {
+   "code": "LANTERNS",
+   "reward": "XP"
+  },
+  {
+   "code": "BRIGHTESTDAY",
+   "reward": "2x XP (15 Minutes)"
+  },
+  {
+   "code": "WILLPOWER",
+   "reward": "XP and 2x XP (10 Minutes)"
   }
  ],
- "updated": "2026-11-12T14:59:23.971Z",
+ "updated": "2026-11-14T05:51:27.461Z",
  "source": "https://robloxden.com/game-codes/lanterns"
 }

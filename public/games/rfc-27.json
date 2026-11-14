@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "MYPLAYER",
+   "reward": "75 Gems"
+  },
+  {
+   "code": "FRIGHTNIGHT",
+   "reward": "50 Gems and 500 Candy"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "275 Gems"
+  },
+  {
    "code": "RFC27",
    "reward": "2,000 Coins and 1 Gold Pack"
   }
  ],
- "updated": "2026-11-12T14:59:09.979Z",
+ "updated": "2026-11-14T05:51:15.663Z",
  "source": "https://robloxden.com/game-codes/rfc-27"
 }

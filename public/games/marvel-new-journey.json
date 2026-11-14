@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEENPART2",
+   "reward": "100K Coins"
+  },
+  {
+   "code": "MALICE",
+   "reward": "60K Coins"
+  },
+  {
+   "code": "PLUGITUP",
+   "reward": "55K Coins"
+  },
+  {
    "code": "REELEITO",
    "reward": "130,000 Coins"
   },
@@ -23,10 +35,10 @@
    "reward": "15,000 Coins"
   },
   {
-   "code": "DEVTEAMATE",
-   "reward": "Coins"
+   "code": "UPDATE2",
+   "reward": "5 Chest Tokens"
   }
  ],
- "updated": "2026-11-12T23:32:30.260Z",
+ "updated": "2026-11-14T22:13:51.117Z",
  "source": "https://robloxden.com/game-codes/marvel-new-journey"
 }

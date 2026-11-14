@@ -83,14 +83,14 @@
    "reward": "2,400 Mana"
   },
   {
-   "code": "WELCOME",
-   "reward": "In-Game Free Stuff"
-  },
-  {
    "code": "merrychristmas",
    "reward": "Free Mana"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "In-Game Free Stuff"
   }
  ],
- "updated": "2026-11-12T23:38:00.121Z",
+ "updated": "2026-11-14T22:15:06.994Z",
  "source": "https://robloxden.com/game-codes/sorcerer-fighting-simulator"
 }

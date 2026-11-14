@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "VESPER",
+   "reward": "50 Rerolls , 5 Strange Orbs , and 1 Luck Potion"
+  },
+  {
+   "code": "2500LIKES",
+   "reward": "50 Rerolls , 25 Candies , and All 4 Potions"
+  },
+  {
+   "code": "ARENA",
+   "reward": "20 Rerolls , 3 Warden's Seal , and a Luck Potion"
+  },
+  {
+   "code": "2000LIKES",
+   "reward": "35 Rerolls and a Luck Potion"
+  },
+  {
    "code": "1500LIKES",
    "reward": "20 Candy and a Luck Potion"
   },
@@ -39,6 +55,6 @@
    "reward": "20 Race Rerolls , a Cash Potion , an XP Potion , a Quantity Potion , a"
   }
  ],
- "updated": "2026-11-13T05:58:42.179Z",
+ "updated": "2026-11-14T22:18:51.903Z",
  "source": "https://robloxden.com/game-codes/delve"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "ROCKETFUEL",
+   "reward": "$100 , 2 Lucky Relics , 3x Luck (30 Minutes) , and 2x Cash (30 Minutes"
+  },
+  {
+   "code": "LIKES3000",
+   "reward": "30 Minutes of Every Boost , 3 Lucky Relics , and 2 Wheel Spins"
+  },
+  {
+   "code": "LAUNCHWEEK",
+   "reward": "$200 , 3 Lucky Relics , and 2 Wheel Spins"
+  },
+  {
    "code": "3k",
    "reward": "10,000 Candies , 10,000 Dusts , 3x Luck (60 mins) , and 2x Candy (30 m"
   },
@@ -27,6 +39,6 @@
    "reward": "50 Lucky , 10,000 Dust , 10 Spins , Overdrive (20 Minutes) and 2x Cand"
   }
  ],
- "updated": "2026-11-13T05:56:49.726Z",
+ "updated": "2026-11-14T22:17:01.172Z",
  "source": "https://robloxden.com/game-codes/rust-blaster"
 }

@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "5000LIKES",
-   "reward": "10 Tokens"
-  },
-  {
-   "code": "10MILLIONVISITS",
-   "reward": "10 Tokens"
-  },
-  {
    "code": "SOYSLOPGAMES",
    "reward": "3 Tokens"
   },
@@ -23,7 +15,11 @@
    "reward": "3 Tokens"
   },
   {
-   "code": "2500LIKES",
+   "code": "5000LIKES",
+   "reward": "10 Tokens"
+  },
+  {
+   "code": "10MILLIONVISITS",
    "reward": "10 Tokens"
   },
   {
@@ -31,6 +27,6 @@
    "reward": "10 Tokens"
   }
  ],
- "updated": "2026-11-13T05:56:41.730Z",
+ "updated": "2026-11-14T22:16:56.745Z",
  "source": "https://robloxden.com/game-codes/rochess"
 }

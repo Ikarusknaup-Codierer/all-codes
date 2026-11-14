@@ -15,18 +15,18 @@
    "reward": "Rewards"
   },
   {
-   "code": "300kmonthlyusers",
+   "code": "sandbox",
+   "reward": "Levels Potion VI (91 minutes)"
+  },
+  {
+   "code": "Iammelonlord",
    "reward": "Boosts"
   },
   {
-   "code": "tropicalisland",
-   "reward": "Luck Potion VI (129 minutes)"
-  },
-  {
-   "code": "paddysparty",
-   "reward": "+%90 Luck Boost (2 hours)"
+   "code": "50MIV",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-12T23:29:00.517Z",
+ "updated": "2026-11-14T22:10:51.499Z",
  "source": "https://robloxden.com/game-codes/admin-simulator"
 }

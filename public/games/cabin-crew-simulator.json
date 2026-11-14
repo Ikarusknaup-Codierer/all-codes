@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "airbus",
+   "reward": "$3,000"
+  },
+  {
+   "code": "halloween",
+   "reward": "$3,000"
+  },
+  {
    "code": "5years",
    "reward": "$5,000"
   },
@@ -79,6 +87,6 @@
    "reward": "3,000 Skybux"
   }
  ],
- "updated": "2026-11-13T06:01:12.767Z",
+ "updated": "2026-11-14T22:21:05.015Z",
  "source": "https://robloxden.com/game-codes/cabin-crew-simulator"
 }

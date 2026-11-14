@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Infinity",
+   "reward": "3 of Each Super Potion"
+  },
+  {
    "code": "Cauldron",
    "reward": "200 Gems"
   },
@@ -103,6 +107,6 @@
    "reward": "100 Gems , a Coin Potion , a Damage Potion , a Drop Potion , an Energy"
   }
  ],
- "updated": "2026-11-13T05:55:08.674Z",
+ "updated": "2026-11-14T22:15:31.660Z",
  "source": "https://robloxden.com/game-codes/anime-levels"
 }

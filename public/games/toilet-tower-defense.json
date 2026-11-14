@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "10KCoins",
-   "reward": "10,000 Coins"
-  },
-  {
-   "code": "Sorry",
-   "reward": "1,000 Coins"
-  },
-  {
    "code": "Release",
    "reward": "1,000 Coins"
   },
   {
+   "code": "NiceUpdate",
+   "reward": "100 Coins"
+  },
+  {
    "code": "ScientistBoost",
    "reward": "a Coin Boost"
+  },
+  {
+   "code": "Parasites",
+   "reward": "200 Coins"
   }
  ],
- "updated": "2026-11-12T23:28:59.812Z",
+ "updated": "2026-11-14T22:10:50.802Z",
  "source": "https://robloxden.com/game-codes/toilet-tower-defense"
 }

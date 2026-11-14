@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "1 Free Event Crate"
+  },
+  {
    "code": "DOLL",
    "reward": "Spooky Season Rewards"
   },
@@ -151,6 +155,6 @@
    "reward": "New Years Confetti Green Animation"
   }
  ],
- "updated": "2026-11-12T23:27:17.310Z",
+ "updated": "2026-11-14T13:23:04.260Z",
  "source": "https://robloxden.com/game-codes/arcade-basketball"
 }

@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "simonmaps",
+   "reward": "10 Coins"
+  },
+  {
+   "code": "dailygiveaway",
+   "reward": "15 Coins"
+  },
+  {
+   "code": "headless",
+   "reward": "15 Coins"
+  },
+  {
+   "code": "halloween2026",
+   "reward": "25 Coins"
   }
  ],
- "updated": "2026-11-12T23:25:23.209Z",
+ "updated": "2026-11-14T13:21:25.325Z",
  "source": "https://robloxden.com/game-codes/donation-central"
 }

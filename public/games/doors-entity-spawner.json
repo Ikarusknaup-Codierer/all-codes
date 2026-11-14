@@ -5,8 +5,112 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Help",
+   "reward": "2 Stardusts"
+  },
+  {
+   "code": "NewPatch",
+   "reward": "10 Stardusts"
+  },
+  {
+   "code": "TimeIsTicking",
+   "reward": "6 Stardusts"
+  },
+  {
+   "code": "DoNotUseThisCode",
+   "reward": "15 Stardusts"
+  },
+  {
+   "code": "Spoiler",
+   "reward": "5 Stardusts"
+  },
+  {
+   "code": "Sonny",
+   "reward": "1 Stardust"
+  },
+  {
+   "code": "ONETHOUSAND",
+   "reward": "100 Stardusts"
+  },
+  {
+   "code": "TOMATO",
+   "reward": "1 Stardust"
+  },
+  {
+   "code": "ItsMe",
+   "reward": "5 Stardusts"
+  },
+  {
+   "code": "IWannaGetRich",
+   "reward": "5 Stardusts"
+  },
+  {
+   "code": "DISBELIEF",
+   "reward": "6 Stardusts"
+  },
+  {
+   "code": "Pupkin",
+   "reward": "1 Stardust"
+  },
+  {
+   "code": "Halloween",
+   "reward": "3 Stardusts"
+  },
+  {
+   "code": "Greedy",
+   "reward": "1 Stardust"
+  },
+  {
+   "code": "TVTIME",
+   "reward": "10 Stardusts"
+  },
+  {
+   "code": "IHATEDRONES",
+   "reward": "10 Stardusts"
+  },
+  {
+   "code": "Sally",
+   "reward": "1 Stardust"
+  },
+  {
+   "code": "Cringle",
+   "reward": "5 Stardusts"
+  },
+  {
+   "code": "Horsie",
+   "reward": "5 Stardusts"
+  },
+  {
+   "code": "Glitch",
+   "reward": "10 Stardusts"
+  },
+  {
+   "code": "SKINS",
+   "reward": "5 Stardusts"
+  },
+  {
+   "code": "IDidItForYou",
+   "reward": "18 Stardusts"
+  },
+  {
+   "code": "SORRYFORTAKINGTOOLONG",
+   "reward": "5 Stardusts"
+  },
+  {
+   "code": "NEWITEMS",
+   "reward": "10 Stardusts"
+  },
+  {
+   "code": "STAIRWELL",
+   "reward": "10 Stardusts"
+  },
+  {
+   "code": "ARCHIVES",
+   "reward": "30 Stardusts"
   }
  ],
- "updated": "2026-11-12T23:24:32.776Z",
+ "updated": "2026-11-14T13:20:42.463Z",
  "source": "https://robloxden.com/game-codes/doors-entity-spawner"
 }

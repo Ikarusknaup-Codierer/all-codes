@@ -35,6 +35,14 @@
    "reward": "250 Candy and 1 Wish"
   },
   {
+   "code": "PATCH",
+   "reward": "300 Candy and 10 Dead Sticks"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "1 Free Wish"
+  },
+  {
    "code": "FREEWISH2",
    "reward": "the 1 Free Wish"
   },
@@ -43,6 +51,6 @@
    "reward": "a Wish"
   }
  ],
- "updated": "2026-11-12T15:01:58.923Z",
+ "updated": "2026-11-14T13:16:48.771Z",
  "source": "https://robloxden.com/game-codes/pixel-blade"
 }

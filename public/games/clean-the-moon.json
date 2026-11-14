@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "25 Gems and 35 Candy"
+  },
+  {
    "code": "RELEASE",
    "reward": "50 Gems"
   },
@@ -15,6 +19,6 @@
    "reward": "40 Gems"
   }
  ],
- "updated": "2026-11-12T23:25:23.892Z",
+ "updated": "2026-11-14T13:21:25.819Z",
  "source": "https://robloxden.com/game-codes/clean-the-moon"
 }

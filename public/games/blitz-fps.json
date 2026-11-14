@@ -41,8 +41,16 @@
   {
    "code": "RDC",
    "reward": "30 Gems"
+  },
+  {
+   "code": "ONI",
+   "reward": "rewards"
+  },
+  {
+   "code": "NUKE",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-12T15:08:58.301Z",
+ "updated": "2026-11-14T13:19:14.137Z",
  "source": "https://robloxden.com/game-codes/blitz-fps"
 }

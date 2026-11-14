@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BALLOON",
+   "reward": "31 Shiny Charms, 31 Rainbow Charms and 31 Void Charms"
+  },
+  {
    "code": "HAUNTEDHOUSE31",
    "reward": "31 Shiny , Rainbow , and Void Charms"
   },
@@ -443,6 +447,6 @@
    "reward": "Charms"
   }
  ],
- "updated": "2026-11-12T15:02:36.293Z",
+ "updated": "2026-11-14T13:17:19.389Z",
  "source": "https://robloxden.com/game-codes/saber-simulator"
 }

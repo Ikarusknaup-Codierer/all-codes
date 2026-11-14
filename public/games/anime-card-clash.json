@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEENP1",
+   "reward": "15 250,000 Instant Rolls"
+  },
+  {
+   "code": "MIDROLLERS",
+   "reward": "60 250,000 Instant Rolls . To use this code, you must first have 1M Ro"
+  },
+  {
    "code": "ADMIN",
    "reward": "3 Greater Moon Cycle Reroll Potions , 5 X-Large Roll Speed Potions , 5"
   },
@@ -151,6 +159,6 @@
    "reward": "2 50,000x Instant Rolls"
   }
  ],
- "updated": "2026-11-12T15:02:49.865Z",
+ "updated": "2026-11-14T13:17:29.286Z",
  "source": "https://robloxden.com/game-codes/anime-card-clash"
 }

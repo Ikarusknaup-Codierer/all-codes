@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "LEGACY",
+   "reward": "3 Rewinds"
+  },
+  {
+   "code": "SAFEHANDS",
+   "reward": "a Rewind and an Extra Chance"
+  },
+  {
+   "code": "EXTRATIME",
+   "reward": "2 Rewinds"
+  },
+  {
+   "code": "PENALTYKING",
+   "reward": "2 Extra Chances"
+  },
+  {
+   "code": "GLOBALCUP",
+   "reward": "3 Rewinds and an Extra Chance"
+  },
+  {
    "code": "CHAMPIONSCUP",
    "reward": "3 Rewinds and 1 Extra Chance"
   },
@@ -15,6 +35,6 @@
    "reward": "3 Rewinds"
   }
  ],
- "updated": "2026-11-12T23:24:31.418Z",
+ "updated": "2026-11-14T13:20:41.365Z",
  "source": "https://robloxden.com/game-codes/become-a-striker"
 }

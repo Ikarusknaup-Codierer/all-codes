@@ -7,11 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "SHUTDOWN",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "RELEASE",
+   "code": "TRADE",
    "reward": "Free Rewards"
   },
   {
@@ -19,10 +15,10 @@
    "reward": "400 Silver Dollars"
   },
   {
-   "code": "DeltaMaxmus",
+   "code": "Metynnis",
    "reward": "400 Silver Dollars"
   }
  ],
- "updated": "2026-11-12T23:28:53.491Z",
+ "updated": "2026-11-14T13:24:26.328Z",
  "source": "https://robloxden.com/game-codes/amazon-ascension"
 }

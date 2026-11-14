@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SUSPENSION",
+   "reward": "50K Money and 50 Coins"
+  },
+  {
    "code": "DRONES",
    "reward": "30,000 Money"
   },
@@ -23,6 +27,6 @@
    "reward": "Reward"
   }
  ],
- "updated": "2026-11-12T23:23:57.702Z",
+ "updated": "2026-11-14T13:20:14.205Z",
  "source": "https://robloxden.com/game-codes/multicrew-tank-combat"
 }

@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SPINTOUPGRADE",
+   "reward": "10 Iron and a Luck Boost"
+  },
+  {
+   "code": "1kCCU",
+   "reward": "5 Gems , 250 Candies , and +125% Variant Luck Boost (15 mins)"
+  },
+  {
+   "code": "250PLAYERS",
+   "reward": "1 Speed Boost (10 mins) , 1 Variant Luck Boost (10 mins) , 1 Luck Boos"
+  },
+  {
+   "code": "SPINTOHALLOWEEN",
+   "reward": "150 Candy , 1 Halloween Luck Boost (30 mins) , and 1 Candy Boost (30 m"
   }
  ],
- "updated": "2026-11-12T15:04:51.156Z",
+ "updated": "2026-11-14T13:18:33.305Z",
  "source": "https://robloxden.com/game-codes/spin-to-upgrade"
 }

@@ -11,10 +11,6 @@
    "reward": "50 Spins"
   },
   {
-   "code": "HALLOWEEN_2026_KNIGHT",
-   "reward": "50 Spins"
-  },
-  {
    "code": "CALAMITY_TESTER",
    "reward": "50 Spins"
   },
@@ -25,8 +21,12 @@
   {
    "code": "EXCHANGE_20K",
    "reward": "100 Spins"
+  },
+  {
+   "code": "SANTA_SHUTDOWN",
+   "reward": "50 Spins And 5 Candy Canes"
   }
  ],
- "updated": "2026-11-13T14:33:29.512Z",
+ "updated": "2026-11-15T13:50:32.241Z",
  "source": "https://robloxden.com/game-codes/jujutsu-infinite"
 }

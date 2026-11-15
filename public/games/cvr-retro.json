@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RESTARTSORRY",
+   "reward": "350 Cash"
+  },
+  {
    "code": "MURTO",
    "reward": "500 Cash"
   },
@@ -15,14 +19,14 @@
    "reward": "250 Cash and 5 Normal Rolls"
   },
   {
-   "code": "S1FINALS!",
-   "reward": "Cash"
+   "code": "UPDATE6",
+   "reward": "500 Cash"
   },
   {
-   "code": "10KMEMBERSPART2",
+   "code": "S1FINALS!",
    "reward": "Cash"
   }
  ],
- "updated": "2026-11-13T14:25:26.304Z",
+ "updated": "2026-11-15T13:46:46.733Z",
  "source": "https://robloxden.com/game-codes/cvr-retro"
 }

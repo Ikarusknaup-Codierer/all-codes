@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BigWin",
-   "reward": "5K Trophies"
-  },
-  {
    "code": "Milestone",
    "reward": "15K Strength"
   },
@@ -47,10 +43,14 @@
    "reward": "8K Strength and 4K Trophies"
   },
   {
+   "code": "BigWin",
+   "reward": "5K Trophies"
+  },
+  {
    "code": "TrophyHunt",
    "reward": "4K Trophies"
   }
  ],
- "updated": "2026-11-13T14:23:23.233Z",
+ "updated": "2026-11-15T13:44:46.224Z",
  "source": "https://robloxden.com/game-codes/1-fist-per-click"
 }

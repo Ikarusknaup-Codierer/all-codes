@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "1,000 Coins"
+   "code": "SEASON4",
+   "reward": "1,500 Coins"
   },
   {
-   "code": "GRAVEYARD",
-   "reward": "1,500 Coins"
+   "code": "HALLOWEEN",
+   "reward": "1,000 Coins"
   },
   {
    "code": "LOADING",
    "reward": "3,000 Cash"
   },
   {
-   "code": "Summer",
-   "reward": "3,000 Cash"
+   "code": "GRAVEYARD",
+   "reward": "1,500 Coins"
   },
   {
-   "code": "DRAGON",
-   "reward": "3,000 Cash"
+   "code": "2077",
+   "reward": "Cash"
   }
  ],
- "updated": "2026-11-13T14:24:51.329Z",
+ "updated": "2026-11-15T13:46:13.597Z",
  "source": "https://robloxden.com/game-codes/knife-duels"
 }

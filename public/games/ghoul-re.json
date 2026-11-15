@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "AnInternWasHarmedForThis",
+   "reward": "250 Ghoul Points"
+  },
+  {
+   "code": "EunheeUpdate2",
+   "reward": "GP"
+  },
+  {
+   "code": "EunheesBlessing",
+   "reward": "100 GP and Legendary Kagune"
+  },
+  {
+   "code": "RinaIsSoMean",
+   "reward": "GP"
+  },
+  {
    "code": "Igotchuu",
    "reward": "500 GP"
   },
@@ -247,6 +263,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-11-13T14:25:07.415Z",
+ "updated": "2026-11-15T13:46:28.832Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

@@ -7,8 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "Halloween26",
-   "reward": "Free Rewards . You must reach Level 10 to use this code"
+   "code": "Crownwood",
+   "reward": "15 Trait Rerolls"
+  },
+  {
+   "code": "Autumn26",
+   "reward": "15 Trait Rerolls"
   },
   {
    "code": "120kLikes",
@@ -24,17 +28,21 @@
   },
   {
    "code": "NewHalloweenItems",
-   "reward": "Rewards . You must reach Level 10 to use this code"
+   "reward": "Rewards"
   },
   {
    "code": "LagFix",
-   "reward": "Rewards . You must reach Level 10 to use this code"
+   "reward": "Rewards"
   },
   {
    "code": "125kLikes",
    "reward": "rewards"
+  },
+  {
+   "code": "Halloween26",
+   "reward": "Free Rewards . You must reach Level 10 to use this code"
   }
  ],
- "updated": "2026-11-13T14:22:13.312Z",
+ "updated": "2026-11-15T13:43:55.831Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

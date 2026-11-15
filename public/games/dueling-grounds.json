@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NightOfHallows",
+   "reward": "500 Coins and 100 Gems"
+  },
+  {
    "code": "GemsUpdate",
    "reward": "1,000 Coins and 100 Gems"
   },
@@ -23,6 +27,6 @@
    "reward": "1,000 Coins and 125 Gems"
   }
  ],
- "updated": "2026-11-13T23:27:50.047Z",
+ "updated": "2026-11-15T13:53:23.096Z",
  "source": "https://robloxden.com/game-codes/dueling-grounds"
 }

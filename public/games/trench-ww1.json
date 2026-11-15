@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "OKAYONEMORECODE",
+   "reward": "1 Regalia Crate"
+  },
+  {
+   "code": "HEAVYMEDAL",
+   "reward": "2,000 Medals"
+  },
+  {
+   "code": "REGARDINGREGALIA",
+   "reward": "1 Regalia Crate"
+  },
+  {
+   "code": "TARTARUSTARTARSAUCE",
+   "reward": "1 Tarot Crate"
+  },
+  {
+   "code": "PUMPKINPLEASE",
+   "reward": "300 Pumpkins"
+  },
+  {
    "code": "PUMPKINPARTY",
    "reward": "200 Pumpkins"
   },
@@ -175,6 +195,6 @@
    "reward": "Beta Tester Rank"
   }
  ],
- "updated": "2026-11-13T14:27:51.631Z",
+ "updated": "2026-11-15T13:49:05.880Z",
  "source": "https://robloxden.com/game-codes/trench-ww1"
 }

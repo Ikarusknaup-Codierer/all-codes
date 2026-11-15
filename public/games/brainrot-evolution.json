@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PUMPKININI",
+   "reward": "2 EXP Potions"
+  },
+  {
    "code": "HALLOWEENFUSION",
    "reward": "2x EXP Potions"
   },
@@ -419,6 +423,6 @@
    "reward": "1 Void Ticket"
   }
  ],
- "updated": "2026-11-13T14:25:29.220Z",
+ "updated": "2026-11-15T13:46:49.377Z",
  "source": "https://robloxden.com/game-codes/brainrot-evolution"
 }

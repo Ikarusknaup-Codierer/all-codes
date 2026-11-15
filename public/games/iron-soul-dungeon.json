@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "IRONSOULWEEKEND30",
+   "reward": "3 Race Rerolls"
+  },
+  {
+   "code": "HALLOWEENBIGEVENT",
+   "reward": "1,000 Dark King Wish Tickets"
+  },
+  {
    "code": "IRONSOULWEEKEND29",
    "reward": "3 Race Rerolls"
   },
@@ -199,6 +207,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-11-13T06:08:46.953Z",
+ "updated": "2026-11-15T05:47:33.062Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Graveyardd",
+   "reward": "500 Candies, 10 Diamonds, 10 Tickets and 0.1 Orb"
+  },
+  {
+   "code": "Cauldronshaha",
+   "reward": "750 Candies, 10 Diamonds and x 0.1 Orb"
+  },
+  {
    "code": "OpMerchant",
    "reward": "1 Event Token and 0.1x Orbs . One of the hidden codes"
   },
@@ -75,6 +83,6 @@
    "reward": "2 Orbs Potions and 1 Stats Potion"
   }
  ],
- "updated": "2026-11-13T06:01:22.635Z",
+ "updated": "2026-11-15T05:44:22.103Z",
  "source": "https://robloxden.com/game-codes/blob-incremental"
 }

@@ -27,10 +27,14 @@
    "reward": "20 Jade"
   },
   {
-   "code": "Likes250",
+   "code": "Likes100",
+   "reward": "20 Jades"
+  },
+  {
+   "code": "Release",
    "reward": "20 Jades"
   }
  ],
- "updated": "2026-11-13T06:00:48.161Z",
+ "updated": "2026-11-15T05:43:53.695Z",
  "source": "https://robloxden.com/game-codes/eternal-soul-2"
 }

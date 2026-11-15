@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "7000LIKES",
+   "reward": "10 Clan Rerolls"
+  },
+  {
+   "code": "STARKK",
+   "reward": "5 Body Type Rerolls"
+  },
+  {
+   "code": "NEWUI",
+   "reward": "10 Ability Rerolls"
+  },
+  {
    "code": "Ability5Reroll",
    "reward": "5 Ability Rerolls"
   },
@@ -27,6 +39,6 @@
    "reward": "10 Ability Rerolls"
   }
  ],
- "updated": "2026-11-13T06:01:26.489Z",
+ "updated": "2026-11-15T05:44:24.798Z",
  "source": "https://robloxden.com/game-codes/hollow"
 }

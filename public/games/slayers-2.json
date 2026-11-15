@@ -7,14 +7,38 @@
    "reward": "Description"
   },
   {
-   "code": "Roguelike",
-   "reward": "35 Spins"
+   "code": "Update1Spins",
+   "reward": "100 Spins"
   },
   {
-   "code": "EVILARTSPINS",
-   "reward": "54 Spins"
+   "code": "Update1Ore",
+   "reward": "8 Ore"
+  },
+  {
+   "code": "COD3SCurrency",
+   "reward": "75 Spins , 25,000 Wen and 5 Ore"
+  },
+  {
+   "code": "COD3SRaceReset",
+   "reward": "the Race Reset"
+  },
+  {
+   "code": "COD3SEvilartreset",
+   "reward": "the Evil Art Reset"
+  },
+  {
+   "code": "COD3SBreathingreset",
+   "reward": "the Breathing Reset"
+  },
+  {
+   "code": "COD3SStatpointreset",
+   "reward": "the Stat Point Reset"
+  },
+  {
+   "code": "Roguelike",
+   "reward": "35 Spins"
   }
  ],
- "updated": "2026-11-13T06:02:14.976Z",
+ "updated": "2026-11-15T05:45:06.438Z",
  "source": "https://robloxden.com/game-codes/slayers-2"
 }

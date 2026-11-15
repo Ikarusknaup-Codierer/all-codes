@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SOCIALLINK",
+   "reward": "10 Rerolls and 2x EXP for (10 Minutes)"
+  },
+  {
    "code": "B0K",
    "reward": "7 Rerolls"
   },
@@ -31,6 +35,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-11-13T06:09:58.204Z",
+ "updated": "2026-11-15T05:48:20.284Z",
  "source": "https://robloxden.com/game-codes/foresters"
 }

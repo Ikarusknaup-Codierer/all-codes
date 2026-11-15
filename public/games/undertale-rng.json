@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "housesfixesmap",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "trickorpumpkin",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "halloweenpass",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "weloveducks",
    "reward": "Free Rewards"
   },
@@ -59,6 +71,6 @@
    "reward": "4,000 DarkDollars , 500 Ducks , and 2 Spider Ciders"
   }
  ],
- "updated": "2026-11-13T06:01:00.313Z",
+ "updated": "2026-11-15T05:44:04.311Z",
  "source": "https://robloxden.com/game-codes/undertale-rng"
 }

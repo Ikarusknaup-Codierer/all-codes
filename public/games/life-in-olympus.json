@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE7",
+   "reward": "35 Drachmas and 100 Reroll Tokens"
+  },
+  {
    "code": "UPDATE6",
    "reward": "35 Drachma and 100 Reroll Tokens"
   },
@@ -27,6 +31,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-13T06:03:01.895Z",
+ "updated": "2026-11-15T05:45:47.487Z",
  "source": "https://robloxden.com/game-codes/life-in-olympus"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "GRAPPLE",
+   "reward": "250 Coins and 100 EXP"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "400 Coins and 200 XP"
   },
@@ -19,6 +23,6 @@
    "reward": "Coins"
   }
  ],
- "updated": "2026-11-13T06:04:28.012Z",
+ "updated": "2026-11-15T05:46:47.783Z",
  "source": "https://robloxden.com/game-codes/grapple-strike"
 }

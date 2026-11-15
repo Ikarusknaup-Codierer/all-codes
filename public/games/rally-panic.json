@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "CONTINENTAL",
+   "reward": "500 Coins"
+  },
+  {
    "code": "HARVEST",
    "reward": "500 Coins"
   },
@@ -15,14 +19,14 @@
    "reward": "500 Coins"
   },
   {
-   "code": "5K",
-   "reward": "500 Coins"
+   "code": "1M",
+   "reward": "1,000 Coins"
   },
   {
-   "code": "4K",
-   "reward": "500 Coins"
+   "code": "250k",
+   "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-11-13T14:21:39.850Z",
+ "updated": "2026-11-15T05:50:38.697Z",
  "source": "https://robloxden.com/game-codes/rally-panic"
 }

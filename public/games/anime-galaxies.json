@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SIXSEVEN",
+   "reward": "Rewards . To use this code, you must first reach Level 67"
+  },
+  {
    "code": "2KCCU",
    "reward": "Rewards . For level 25 and above only"
   },
@@ -51,6 +55,6 @@
    "reward": "500 Rainbow Stars and 10 Event Capsules"
   }
  ],
- "updated": "2026-11-13T06:01:21.898Z",
+ "updated": "2026-11-15T05:44:21.485Z",
  "source": "https://robloxden.com/game-codes/anime-galaxies"
 }

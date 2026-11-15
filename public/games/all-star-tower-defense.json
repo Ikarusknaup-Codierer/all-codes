@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "anniversarypreparation",
+   "reward": "4,000 Gems , 50 Stardust , and the Alucard"
+  },
+  {
+   "code": "killorbekilled",
+   "reward": "4,000 Gems and 100 Stardust"
+  },
+  {
    "code": "blazrsen",
    "reward": "50 Stardust , 4,000 Gems , and One Cipher-G"
   },
@@ -107,14 +115,14 @@
    "reward": "240 Stardust and 9,000 Gems"
   },
   {
-   "code": "longmaintenance",
-   "reward": "450 Gems"
+   "code": "FOURTYFIVELIKES",
+   "reward": "45 Likes"
   },
   {
-   "code": "2MILFAVORITEUP",
-   "reward": "150 Stardust, 8,000 Gems and 10 EXP IV"
+   "code": "liketo280k",
+   "reward": "150 Gems"
   }
  ],
- "updated": "2026-11-13T05:59:32.303Z",
+ "updated": "2026-11-15T05:43:06.645Z",
  "source": "https://robloxden.com/game-codes/all-star-tower-defense"
 }

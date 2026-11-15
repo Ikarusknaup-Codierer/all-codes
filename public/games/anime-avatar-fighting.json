@@ -7,6 +7,98 @@
    "reward": "Description"
   },
   {
+   "code": "DEADLYSINS",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "SUNSHINE",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "PRIDE",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "EGGHEIST",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "PRISONREALM",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "STEAL",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "SORRYRESTARTS",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "WORLD2",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "JUJUTSU",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "DOMAIN",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "HALLOWEEN2",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "HORSEMAN",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "CAULDRON",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "PUMPKIN",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "AWAKENING",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "RELICS",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "DUNGEON",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "UPDATE6",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "BLACKCLOVER",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "GRIMOIRE",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "ARTIFACTS",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "SHADOWMONARCH",
+   "reward": "Free Potions"
+  },
+  {
    "code": "3MVISITS",
    "reward": "rewards"
   },
@@ -135,6 +227,6 @@
    "reward": "25 Gems and a Spin"
   }
  ],
- "updated": "2026-11-13T23:29:49.640Z",
+ "updated": "2026-11-15T22:41:41.053Z",
  "source": "https://robloxden.com/game-codes/anime-avatar-fighting"
 }

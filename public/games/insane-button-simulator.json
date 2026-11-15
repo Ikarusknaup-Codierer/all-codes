@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "200Likes",
-   "reward": "100 Gems"
+   "code": "UPGRADE",
+   "reward": "a reward"
   },
   {
    "code": "Noel",
    "reward": "1,500 Snowflakes"
   },
   {
-   "code": "SPOOKYMONTH",
-   "reward": "3 1.5x Stat Boosts"
-  },
-  {
-   "code": "1NS4NITY",
-   "reward": "300 Gems"
-  },
-  {
    "code": "Enchanted",
    "reward": "100 Gems"
+  },
+  {
+   "code": "S3CR3T_C0D3",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "GR1ND1NG_1S_FUN",
+   "reward": "500 Gems"
   }
  ],
- "updated": "2026-11-13T23:35:29.546Z",
+ "updated": "2026-11-15T22:46:20.882Z",
  "source": "https://robloxden.com/game-codes/insane-button-simulator"
 }

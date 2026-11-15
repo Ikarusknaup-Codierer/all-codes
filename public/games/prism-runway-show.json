@@ -47,18 +47,14 @@
    "reward": "100 Coins"
   },
   {
-   "code": "SPOOKYHALLOWEEN",
-   "reward": "the 2,500 Pumpkins"
-  },
-  {
-   "code": "BRINGTHEBOX",
-   "reward": "400 Pumpkins"
-  },
-  {
    "code": "PUMPKINHALLOWEEN",
    "reward": "100 Pumpkins"
+  },
+  {
+   "code": "HELLOSTYLIST",
+   "reward": "50 Coins"
   }
  ],
- "updated": "2026-11-13T23:34:39.578Z",
+ "updated": "2026-11-15T22:45:48.185Z",
  "source": "https://robloxden.com/game-codes/prism-runway-show"
 }

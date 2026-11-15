@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "getallbrainrots",
-   "reward": "the Legendary Brainrot"
-  },
-  {
    "code": "cards4days",
    "reward": "$500"
+  },
+  {
+   "code": "getallbrainrots",
+   "reward": "the Legendary Brainrot"
   },
   {
    "code": "collectallcards",
@@ -23,6 +23,6 @@
    "reward": "$1,000"
   }
  ],
- "updated": "2026-11-13T23:32:08.576Z",
+ "updated": "2026-11-15T22:43:43.300Z",
  "source": "https://robloxden.com/game-codes/ding-dong-ditch-a-brainrot"
 }

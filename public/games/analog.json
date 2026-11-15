@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "5K Cash and 2K XP"
+  },
+  {
+   "code": "6KLIKES",
+   "reward": "1.5K Cash and 2 Lucky Rolls"
+  },
+  {
    "code": "WINFORICAT",
    "reward": "1,000 Cash , 1,000 XP , and 3 Lucky Rolls"
   },
   {
-   "code": "RABBIT",
-   "reward": "5 Lucky Rolls"
+   "code": "COSMETICS",
+   "reward": "3 Lucky Rolls"
+  },
+  {
+   "code": "6MILVISITS",
+   "reward": "1K Cash and 4 Lucky Rolls"
   }
  ],
- "updated": "2026-11-13T23:33:05.109Z",
+ "updated": "2026-11-15T22:44:31.293Z",
  "source": "https://robloxden.com/game-codes/analog"
 }

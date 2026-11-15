@@ -7,12 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "10 Lucky Spins and 50,000 Yen"
+  },
+  {
    "code": "NEWMAP",
    "reward": "7 Lucky Spins and 50,000 Yen"
   },
   {
    "code": "ADMINABUSE",
    "reward": "30 Lucky Spins and 100,000 Yen"
+  },
+  {
+   "code": "RUIMOON",
+   "reward": "5 Lucky Spins and 20,000 Yen"
   },
   {
    "code": "DISTRICTPATCH1",
@@ -67,6 +75,6 @@
    "reward": "100K Yen"
   }
  ],
- "updated": "2026-11-13T23:34:06.839Z",
+ "updated": "2026-11-15T22:45:19.981Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

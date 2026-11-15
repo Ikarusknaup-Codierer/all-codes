@@ -7,6 +7,42 @@
    "reward": "Description"
   },
   {
+   "code": "ARISECROSSOVER",
+   "reward": "Rewards"
+  },
+  {
+   "code": "PUMPKINHOLLOW",
+   "reward": "Rewards"
+  },
+  {
+   "code": "MONARCHSNIGHT",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SOULCANDY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "NIGHTFALLS",
+   "reward": "Gems , Cash , 150 Tickets , 5 Spins , 3 Potion Bundles , 500 Soul Cand"
+  },
+  {
+   "code": "WEAREBACK",
+   "reward": "Lots of Gems and Cash , 300 Tickets , 10 Spins , 5 Potion Bundles , 5 "
+  },
+  {
+   "code": "SORRYFORTHEWAIT",
+   "reward": "Gems , Cash , 200 Tickets , 5 Spins , 3 Potion Bundles , and 3 +1 Aris"
+  },
+  {
+   "code": "ONEYEARLATER",
+   "reward": "Gems , Cash , 150 Tickets , 5 Spins , 5 Drops Potions , and 5 EXP Poti"
+  },
+  {
    "code": "SERVANTS",
    "reward": "99 Winter Shards"
   },
@@ -67,14 +103,14 @@
    "reward": "99 Tickets"
   },
   {
-   "code": "EASTER",
-   "reward": "Free rewards"
+   "code": "World3",
+   "reward": "99 Winter Shards , 1 Shadow Potion , 1 Exp Boost , 1 Gems Boost , 1 Dr"
   },
   {
    "code": "WEAPONSKILLS",
    "reward": "100 Rare Dust and 50 Tickets"
   }
  ],
- "updated": "2026-11-13T23:31:13.941Z",
+ "updated": "2026-11-15T22:42:55.573Z",
  "source": "https://robloxden.com/game-codes/arise-crossover"
 }

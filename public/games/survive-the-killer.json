@@ -11,6 +11,10 @@
    "reward": "the Iridescent Slycer Crafting Recipe"
   },
   {
+   "code": "MINING",
+   "reward": "Charcoal Slycer"
+  },
+  {
    "code": "DEVIOUS",
    "reward": "Devious Dagger"
   },
@@ -19,14 +23,10 @@
    "reward": "Sawblade's Jigsaw Knife"
   },
   {
-   "code": "MINING",
-   "reward": "Charcoal Slycer"
-  },
-  {
    "code": "HOLIDAY",
    "reward": "Holiday Splinter"
   }
  ],
- "updated": "2026-11-14T22:11:16.584Z",
+ "updated": "2026-11-16T15:28:04.674Z",
  "source": "https://robloxden.com/game-codes/survive-the-killer"
 }

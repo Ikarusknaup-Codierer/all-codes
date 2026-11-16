@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "BadlandsLaunch",
+   "reward": "1 Badlands Ticket (Solo)"
+  },
+  {
+   "code": "BadlandsVIP",
+   "reward": "1 Badlands Ticket (Party) . You must have the Testing Realm gamepass t"
+  },
+  {
+   "code": "StarterPack",
+   "reward": "10 Orange Potions and 10 Purple Potions"
+  },
+  {
+   "code": "boom!",
+   "reward": "3 Exploding Gifts"
+  },
+  {
+   "code": "GroupBonus",
+   "reward": "100 Ethyr . For level 5+ only"
+  },
+  {
+   "code": "Desolation",
+   "reward": "1 Revive Tome . Forum Basic trust"
+  },
+  {
    "code": "ancient",
    "reward": "a Template Ancient Scroll . You must be at least level 45 or above to "
   },
@@ -59,6 +83,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-14T13:22:39.366Z",
+ "updated": "2026-11-16T15:25:09.324Z",
  "source": "https://robloxden.com/game-codes/vesteria"
 }

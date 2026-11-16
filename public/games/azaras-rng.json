@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HalloweenEvent!",
+   "reward": "6 Omega Potion , 6 Eternity Potio n, 6 Starlight Potion , 6 Fortune Po"
+  },
+  {
+   "code": "Spooky",
+   "reward": "1 Potion of Calamity , 3 Awakening Potion , 50 Potion Box , and 100 Fo"
+  },
+  {
+   "code": "HawntedTown",
+   "reward": "3 Candy Potion , 20 Starlight Potion , and 40 Star Potion"
+  },
+  {
    "code": "HalloweenEventNextWeek",
    "reward": "5 Blue Treasure Boxes, 15 Star Potions and 600 Fortune Potions"
   },
@@ -159,10 +171,10 @@
    "reward": ""
   },
   {
-   "code": "600Likes",
-   "reward": "Freebies"
+   "code": "OVER200REACTION",
+   "reward": "Misc. rewards"
   }
  ],
- "updated": "2026-11-14T22:16:22.664Z",
+ "updated": "2026-11-16T15:32:30.103Z",
  "source": "https://robloxden.com/game-codes/azaras-rng"
 }

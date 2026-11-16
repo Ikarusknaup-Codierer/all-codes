@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "NIGHTMARE",
-   "reward": "Coins"
-  },
-  {
    "code": "BEASTBDAY",
    "reward": "Coins"
   },
@@ -19,14 +15,18 @@
    "reward": "A Random Party Hat"
   },
   {
-   "code": "10MVISITS",
-   "reward": "1 Flame Staff"
+   "code": "15KLIKES",
+   "reward": "750 Gold"
   },
   {
    "code": "10KLIKES",
    "reward": "20 Health Potions"
+  },
+  {
+   "code": "JULYBETA",
+   "reward": "500 Gold"
   }
  ],
- "updated": "2026-11-14T13:20:44.219Z",
+ "updated": "2026-11-16T15:22:57.372Z",
  "source": "https://robloxden.com/game-codes/colossus-legends"
 }

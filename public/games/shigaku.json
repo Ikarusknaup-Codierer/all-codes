@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FIXINGBUGS",
+   "reward": "100 Rerolls"
+  },
+  {
    "code": "NEWCAMPUS",
    "reward": "300 Rerolls and 2X Rerolls for (24 Hours)"
   },
@@ -103,6 +107,6 @@
    "reward": "100 Rerolls and 500 Cash"
   }
  ],
- "updated": "2026-11-14T13:22:41.992Z",
+ "updated": "2026-11-16T15:25:11.109Z",
  "source": "https://robloxden.com/game-codes/shigaku"
 }

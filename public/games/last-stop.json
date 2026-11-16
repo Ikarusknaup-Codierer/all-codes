@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "URANIUM",
+   "reward": "3 Passive Rerolls"
+  },
+  {
    "code": "PASSIVES",
    "reward": "3 Passive Rerolls"
   },
@@ -21,10 +25,6 @@
   {
    "code": "SPOOKY",
    "reward": "100 Pumpkin Tokens , 500 Tickets , and 2 Class Rerolls"
-  },
-  {
-   "code": "COMPENSATION",
-   "reward": "750 Tickets and 3 Class Rerolls"
   },
   {
    "code": "PUMPKIN",
@@ -63,14 +63,14 @@
    "reward": "Tickets"
   },
   {
-   "code": "WUPDATE",
-   "reward": "Tickets"
+   "code": "COMPENSATION",
+   "reward": "750 Tickets and 3 Class Rerolls"
   },
   {
-   "code": "AliensAreCool",
-   "reward": "Free rewards"
+   "code": "WUPDATE",
+   "reward": "Tickets"
   }
  ],
- "updated": "2026-11-14T13:21:36.769Z",
+ "updated": "2026-11-16T15:23:58.293Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "50,000 Gems"
+  },
+  {
    "code": "WITCHES",
    "reward": "30,000 Gems"
   },
@@ -19,14 +23,18 @@
    "reward": "Free Rewards . To use this code, you must have Multi Unboxing Pass"
   },
   {
-   "code": "JESTER",
-   "reward": "50,000 Gems"
+   "code": "YUMMY",
+   "reward": "40,000 Gems"
   },
   {
-   "code": "ASTRAL",
-   "reward": "30,000 Gems"
+   "code": "FEAST",
+   "reward": "40,000 Gems"
+  },
+  {
+   "code": "JESTER",
+   "reward": "50,000 Gems"
   }
  ],
- "updated": "2026-11-14T13:19:54.995Z",
+ "updated": "2026-11-16T15:22:00.482Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

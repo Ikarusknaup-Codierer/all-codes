@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "SQUADUP",
+   "reward": "3 Rewinds and 1 Extra Chance"
+  },
+  {
+   "code": "SAMBA",
+   "reward": "2 Extra Chances"
+  },
+  {
+   "code": "TANGO",
+   "reward": "2 Rewinds"
+  },
+  {
+   "code": "GIVEANDGO",
+   "reward": "3 Rewinds"
+  },
+  {
+   "code": "SWEEPERKEEPER",
+   "reward": "1 Rewind and 1 Extra Chance"
+  },
+  {
    "code": "LEGACY",
    "reward": "3 Rewinds"
   },
@@ -35,6 +55,6 @@
    "reward": "3 Rewinds"
   }
  ],
- "updated": "2026-11-14T13:20:41.365Z",
+ "updated": "2026-11-16T15:22:54.067Z",
  "source": "https://robloxden.com/game-codes/become-a-striker"
 }

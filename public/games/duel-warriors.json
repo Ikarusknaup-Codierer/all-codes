@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "GOLD20261029",
+   "reward": "2,000 Gold"
+  },
+  {
+   "code": "GEM20261029",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "HALLOWEEN2026",
+   "reward": "500 Seasonal2 Tokens"
+  },
+  {
+   "code": "DuelWarriors2nd",
+   "reward": "800 Seasonal2 Tokens"
+  },
+  {
    "code": "GOLD20261015",
    "reward": "2,000 Gold"
   },
@@ -147,6 +163,6 @@
    "reward": "50 Gems"
   }
  ],
- "updated": "2026-11-14T13:22:07.420Z",
+ "updated": "2026-11-16T15:24:30.894Z",
  "source": "https://robloxden.com/game-codes/duel-warriors"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORTHEBUG",
+   "reward": "3 Harvest Strength Potions"
+  },
+  {
+   "code": "AUTUMNHUGESWORD",
+   "reward": "3 Harvest Strength Potions"
+  },
+  {
    "code": "AUTUMNTOWER",
    "reward": "3 Strength Potions"
   },
@@ -463,10 +471,10 @@
    "reward": "Free Potions"
   },
   {
-   "code": "X2ICESTR",
-   "reward": "1 Ice Potion"
+   "code": "potioncode542",
+   "reward": "1 Win Potion"
   }
  ],
- "updated": "2026-11-14T13:18:52.432Z",
+ "updated": "2026-11-16T15:20:50.637Z",
  "source": "https://robloxden.com/game-codes/pull-a-sword"
 }

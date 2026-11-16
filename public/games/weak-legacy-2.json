@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ENTDISTRICTUPD",
+   "reward": "100,000 Yen , 15 Spins , and 1 Crystal Essence"
+  },
+  {
+   "code": "500KLIKES!",
+   "reward": "2 Crystal Essence , 25 Spins , and 1 Fate Spin"
+  },
+  {
    "code": "HAPPYEASTER!",
    "reward": "20 Spins and 5 Fate Spins"
   },
@@ -23,10 +31,6 @@
    "reward": "a Reset Breathing or 1 Art Potion"
   },
   {
-   "code": "ENTDISTRICTUPD",
-   "reward": "100,000 Yen , 15 Spins , and 1 Crystal Essence"
-  },
-  {
    "code": "ENTDISTRICTUPD2",
    "reward": "a Reset Race Potion and 5 Fate Spins"
   },
@@ -41,16 +45,8 @@
   {
    "code": "2weekupdate",
    "reward": "10 Mystery Ores"
-  },
-  {
-   "code": "500KLIKES!",
-   "reward": "2 Crystal Essence , 25 Spins , and 1 Fate Spin"
-  },
-  {
-   "code": "25SPINSMOONUPDATE",
-   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-14T13:16:57.717Z",
+ "updated": "2026-11-16T15:19:11.054Z",
  "source": "https://robloxden.com/game-codes/weak-legacy-2"
 }

@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "upd11luck",
+   "reward": "the x2 Luck Boost (113 Minutes)"
+  },
+  {
+   "code": "upd11gold",
+   "reward": "the X2 Gold Boost (353 Minutes)"
+  },
+  {
+   "code": "one",
+   "reward": "150 Trait Shards"
+  },
+  {
+   "code": "punch",
+   "reward": "50 Star Shards"
+  },
+  {
+   "code": "man",
+   "reward": "250 Trait Shards"
+  },
+  {
    "code": "upd10luck",
    "reward": "2 Luck Boost (1 Hour)"
   },
@@ -159,6 +179,6 @@
    "reward": "50 Trait Shards"
   }
  ],
- "updated": "2026-11-14T13:18:02.030Z",
+ "updated": "2026-11-16T15:19:57.008Z",
  "source": "https://robloxden.com/game-codes/defeat-anime-rng"
 }

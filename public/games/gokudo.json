@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "BUGFIXDAY5",
+   "reward": "100 Rerolls"
+  },
+  {
+   "code": "SUMAI",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "PETCARRY",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "WINTERISCOMING",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "QUICKFIX3",
+   "reward": "20 Rerolls"
+  },
+  {
+   "code": "COMBATOVERHAUL",
+   "reward": "40 Rerolls"
+  },
+  {
+   "code": "HEIGHTMATTERS",
+   "reward": "40 Rerolls"
+  },
+  {
    "code": "PENTHOUSE",
    "reward": "30 Rerolls"
   },
@@ -311,6 +339,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-11-14T22:16:42.674Z",
+ "updated": "2026-11-16T15:32:49.056Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ILOVEPORTALS",
+   "reward": "1 Portal Crate"
+  },
+  {
    "code": "PORTALS300",
    "reward": "300 Coins"
   },
@@ -15,6 +19,6 @@
    "reward": "1 Halloween Crate"
   }
  ],
- "updated": "2026-11-14T13:21:26.784Z",
+ "updated": "2026-11-16T15:23:46.558Z",
  "source": "https://robloxden.com/game-codes/portals"
 }

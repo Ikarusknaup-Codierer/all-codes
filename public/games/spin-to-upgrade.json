@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GUILDS",
+   "reward": "25% Luck and 1.25x Ores (30 Minutes)"
+  },
+  {
+   "code": "GIFTING",
+   "reward": "5 Gems . Can only be redeemed on new servers"
+  },
+  {
    "code": "SPINTOUPGRADE",
    "reward": "10 Iron and a Luck Boost"
   },
@@ -23,6 +31,6 @@
    "reward": "150 Candy , 1 Halloween Luck Boost (30 mins) , and 1 Candy Boost (30 m"
   }
  ],
- "updated": "2026-11-14T13:18:33.305Z",
+ "updated": "2026-11-16T15:20:28.164Z",
  "source": "https://robloxden.com/game-codes/spin-to-upgrade"
 }

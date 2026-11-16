@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FANCY",
+   "reward": "the 500 Gold and 3 Spins"
+  },
+  {
    "code": "PUMPKIN",
    "reward": "1,000 Candy Corn and a Pumpkin Patch Rug"
   },
@@ -55,6 +59,6 @@
    "reward": "500 Gold"
   }
  ],
- "updated": "2026-11-14T13:18:38.500Z",
+ "updated": "2026-11-16T15:20:34.110Z",
  "source": "https://robloxden.com/game-codes/roll-a-fisherman"
 }

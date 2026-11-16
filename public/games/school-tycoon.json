@@ -11,6 +11,10 @@
    "reward": "500 Coins"
   },
   {
+   "code": "BUSUPDATE",
+   "reward": "500 Coins"
+  },
+  {
    "code": "homework",
    "reward": "500 Coins"
   },
@@ -23,18 +27,22 @@
    "reward": "500 Coins"
   },
   {
-   "code": "BUSUPDATE",
-   "reward": "500 Coins"
-  },
-  {
    "code": "coolkid",
    "reward": "500 Coins"
   },
   {
    "code": "newupdate",
    "reward": "500 Coins"
+  },
+  {
+   "code": "like1500",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "goals",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-11-14T05:49:26.832Z",
+ "updated": "2026-11-16T05:47:43.676Z",
  "source": "https://robloxden.com/game-codes/school-tycoon"
 }

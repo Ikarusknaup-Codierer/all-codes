@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PUMPKINLORD",
+   "reward": "300 Candy , 100 Charm Dust , and x2 Hatch Luck (15 mins)"
+  },
+  {
+   "code": "8MCLUCKS",
+   "reward": "350 Candy and 100 Charm Dust"
+  },
+  {
    "code": "STORMCHICKEN",
    "reward": "100 Amber Shards , 300 Charm Dust , and Double Hatch Luck (15 Minutes)"
   },
@@ -51,6 +59,6 @@
    "reward": "a Blazing Egg"
   }
  ],
- "updated": "2026-11-14T05:48:15.782Z",
+ "updated": "2026-11-16T05:46:25.715Z",
  "source": "https://robloxden.com/game-codes/grow-a-chicken-fighter"
 }

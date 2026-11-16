@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEKEND",
+   "reward": "25 Rerolls"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "35 Rolls"
   },
@@ -27,10 +31,10 @@
    "reward": "50 Rerolls"
   },
   {
-   "code": "100CCU",
-   "reward": "50 Rerolls"
+   "code": "RELEASE",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-14T13:17:02.108Z",
+ "updated": "2026-11-16T05:52:29.415Z",
  "source": "https://robloxden.com/game-codes/kabuki"
 }

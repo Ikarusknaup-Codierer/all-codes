@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "15 Lucky Spins and 50,000"
+  },
+  {
+   "code": "15HALLOWEEN",
+   "reward": "10 Lucky Spins and 100,000 . Requires 15 Minutes of playtime"
+  },
+  {
    "code": "15VAMPIRERETURN",
    "reward": "10 Lucky Style Spins , 10 Lucky Zone Spins , and 100,000 Money . Requi"
   },
@@ -55,6 +63,6 @@
    "reward": "20 Lucky Style Spins and 20 Lucky Zone Spins"
   }
  ],
- "updated": "2026-11-14T05:49:02.585Z",
+ "updated": "2026-11-16T05:47:18.876Z",
  "source": "https://robloxden.com/game-codes/basketball-zero"
 }

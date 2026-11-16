@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BelowZero!",
+   "reward": "50 Lucky Spins of Each and 50 Traits"
+  },
+  {
+   "code": "MKWoW!",
+   "reward": "50 Lucky Spins of Each and 50 Traits"
+  },
+  {
    "code": "GOW!",
    "reward": "30 Lucky Weapon Spins , 20 Lucky Perk Spins , and 20 Traits"
   },
@@ -359,6 +367,6 @@
    "reward": "30 Lucky Weapon Spins and 30 Lucky Perk Spins"
   }
  ],
- "updated": "2026-11-14T05:50:19.628Z",
+ "updated": "2026-11-16T05:48:41.630Z",
  "source": "https://robloxden.com/game-codes/hunty-zombie"
 }

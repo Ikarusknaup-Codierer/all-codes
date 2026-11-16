@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "balancepatch2",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "clanrerolls",
+   "reward": "Free Rewards"
+  },
+  {
    "code": "3000likes",
    "reward": "30 Clan Rerolls , 15 CT Rerolls , 15 Race Rerolls , and 15 Face Reroll"
   },
@@ -51,6 +63,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-14T05:47:50.352Z",
+ "updated": "2026-11-16T05:45:57.768Z",
  "source": "https://robloxden.com/game-codes/shibuya"
 }

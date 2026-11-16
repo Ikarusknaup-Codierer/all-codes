@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "7000Likes",
+   "reward": "3,500 Arcanite and 35 Clan Spins"
+  },
+  {
+   "code": "8000Likes",
+   "reward": "3,500 Arcanite and 35 Clan Spins"
+  },
+  {
+   "code": "GUILDUPDATE",
+   "reward": "5,000 Arcanite and 50 Clan Spins"
+  },
+  {
    "code": "SORRYFORDELAY2",
    "reward": "3,000 Arcanite and 50 Clan Spins"
   },
@@ -67,6 +79,6 @@
    "reward": "1,000 Arcanite and 10 Clan Rerolls"
   }
  ],
- "updated": "2026-11-14T05:45:48.776Z",
+ "updated": "2026-11-16T05:43:49.931Z",
  "source": "https://robloxden.com/game-codes/cloverfall"
 }

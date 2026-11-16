@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "1MVISITS",
-   "reward": "an Epic Chest"
+   "code": "SORRY",
+   "reward": "5 Lucky Spins"
   },
   {
-   "code": "BERSERKER",
-   "reward": "an Epic Chest"
+   "code": "ABILITY",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "UPDATE_3",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "TRIALS",
+   "reward": "1 Legendary Chest"
   }
  ],
- "updated": "2026-11-14T05:47:26.331Z",
+ "updated": "2026-11-16T05:45:31.259Z",
  "source": "https://robloxden.com/game-codes/glorybound"
 }

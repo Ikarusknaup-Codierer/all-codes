@@ -5,8 +5,72 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LION",
+   "reward": "15 Team Rerolls and 15 Player Rerolls"
+  },
+  {
+   "code": "SPIN",
+   "reward": "1 Wheel Spin"
+  },
+  {
+   "code": "PANTHER",
+   "reward": "15 Team Rerolls"
+  },
+  {
+   "code": "CHAMELEON",
+   "reward": "15 Player Rerolls"
+  },
+  {
+   "code": "CRYSTAL",
+   "reward": "1 Shiny Crystal"
+  },
+  {
+   "code": "CHEMISTRY",
+   "reward": "25 Team Rerolls and 25 Player Rerolls"
+  },
+  {
+   "code": "DESTROYED",
+   "reward": "15 Team Rerolls and 15 Player Rerolls"
+  },
+  {
+   "code": "FLOW",
+   "reward": "25,000 Yen"
+  },
+  {
+   "code": "AWAKENED",
+   "reward": "25 Team Rerolls and 25 Player Rerolls"
+  },
+  {
+   "code": "BALLTAG",
+   "reward": "15 Team Rerolls and 15 Player Rerolls"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "15 Team Rerolls and 15 Player Rerolls"
+  },
+  {
+   "code": "STRIKER",
+   "reward": "10 Team Rerolls"
+  },
+  {
+   "code": "EGOIST",
+   "reward": "10 Team Rerolls"
+  },
+  {
+   "code": "QUEUES",
+   "reward": "10 Team Rerolls and 10 Player Rerolls"
+  },
+  {
+   "code": "ENGLAND",
+   "reward": "20 Team Rerolls and 20 Player Rerolls"
+  },
+  {
+   "code": "BID",
+   "reward": "25,000 Yen"
   }
  ],
- "updated": "2026-11-14T05:47:00.091Z",
+ "updated": "2026-11-16T05:45:01.155Z",
  "source": "https://robloxden.com/game-codes/build-a-striker"
 }

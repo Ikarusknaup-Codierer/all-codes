@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "midnight",
+   "reward": "100 Ink and 2 Revive"
+  },
+  {
    "code": "supersecretcode",
    "reward": "50 Ink and 1 Revive"
   },
@@ -15,6 +19,6 @@
    "reward": "100 Ink and 2 Revives"
   }
  ],
- "updated": "2026-11-14T22:19:09.653Z",
+ "updated": "2026-11-17T01:52:57.753Z",
  "source": "https://robloxden.com/game-codes/inkhead"
 }

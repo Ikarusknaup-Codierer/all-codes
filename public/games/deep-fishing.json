@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "update13",
+   "reward": "3 Tide Baits and 1 Luck Potion"
+  },
+  {
+   "code": "verdant",
+   "reward": "5 Meadow Baits"
+  },
+  {
+   "code": "divine",
+   "reward": "5 Meadow Baits"
+  },
+  {
    "code": "update12",
    "reward": "3 Tide Baits and 1 Luck Potion"
   },
@@ -95,10 +107,6 @@
    "reward": "5 Meadow Baits"
   },
   {
-   "code": "update8",
-   "reward": "3 Tide Baits and a Luck Potion"
-  },
-  {
    "code": "update7",
    "reward": "3x Tide Baits and a Luck Potion"
   },
@@ -123,6 +131,6 @@
    "reward": "3 Tide Baits and 1 Luck Potion"
   }
  ],
- "updated": "2026-11-15T05:43:54.291Z",
+ "updated": "2026-11-17T01:55:03.353Z",
  "source": "https://robloxden.com/game-codes/deep-fishing"
 }

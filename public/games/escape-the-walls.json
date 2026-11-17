@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PRISON",
+   "reward": "100 Gems"
+  },
+  {
    "code": "Drones",
    "reward": "75 Gems"
   },
@@ -15,6 +19,6 @@
    "reward": "50 Gems"
   }
  ],
- "updated": "2026-11-15T05:44:24.185Z",
+ "updated": "2026-11-17T01:55:31.464Z",
  "source": "https://robloxden.com/game-codes/escape-the-walls"
 }

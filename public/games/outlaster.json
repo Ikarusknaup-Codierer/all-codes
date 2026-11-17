@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "NEW",
-   "reward": "New"
+   "code": "CLOWN!",
+   "reward": "Clown!"
+  },
+  {
+   "code": "JUNGLELIFE",
+   "reward": "50 Gems"
   },
   {
    "code": "HORNS",
    "reward": "1 Darkhorn Torch (VIP ONLY)"
-  },
-  {
-   "code": "SPRING",
-   "reward": "1 Flower Necklace"
   },
   {
    "code": "GIFT",
@@ -25,8 +25,12 @@
   {
    "code": "PAYCHECK",
    "reward": "2,500 Cash"
+  },
+  {
+   "code": "NEW",
+   "reward": "New"
   }
  ],
- "updated": "2026-11-14T22:20:41.596Z",
+ "updated": "2026-11-17T01:53:31.261Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

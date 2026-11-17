@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Halloween",
+   "reward": "300 Shards , a 2× Luck Boost (1 Hour) , and a 2× Modifier Boost (1 Hou"
+  },
+  {
    "code": "stuff",
    "reward": "$20,000 , 200 Meteor Shards , and 2× Luck (30 Minutes)"
   },
@@ -27,14 +31,14 @@
    "reward": "$20,000 , 200 Meteor Shards , and 2x Luck (1 Hour)"
   },
   {
-   "code": "modlock",
-   "reward": "$20,000 , 200 Meteor Shards , and 2x Luck (1 Hour)"
+   "code": "qolqolqol",
+   "reward": "$20,000 , 200 Meteor Shards , and 2x Luck (30 Minutes)"
   },
   {
-   "code": "shiny",
-   "reward": "20K Cash"
+   "code": "volcanic",
+   "reward": "15,000 Cash and a 30 Minute Luck Boost"
   }
  ],
- "updated": "2026-11-14T22:17:35.042Z",
+ "updated": "2026-11-17T01:51:52.822Z",
  "source": "https://robloxden.com/game-codes/prospecting"
 }

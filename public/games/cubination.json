@@ -43,16 +43,8 @@
    "reward": "a White Cube"
   },
   {
-   "code": "plated",
-   "reward": "a Plate Cube"
-  },
-  {
    "code": "theghostofschmooey",
    "reward": "an Air Cube"
-  },
-  {
-   "code": "SirWholesome",
-   "reward": "a Wawa Cube"
   },
   {
    "code": "imhappyinlife",
@@ -69,6 +61,10 @@
   {
    "code": "ImNotHeavy",
    "reward": "a Gravity Coil"
+  },
+  {
+   "code": "plated",
+   "reward": "a Plate Cube"
   },
   {
    "code": "SecretCode",
@@ -91,6 +87,10 @@
    "reward": "a Markiplier Cube"
   },
   {
+   "code": "SirWholesome",
+   "reward": "a Wawa Cube"
+  },
+  {
    "code": "smallseasnail",
    "reward": "a Cheese Slab"
   },
@@ -99,6 +99,6 @@
    "reward": "a Certificate of Excellence"
   }
  ],
- "updated": "2026-11-14T22:18:54.427Z",
+ "updated": "2026-11-17T01:52:48.931Z",
  "source": "https://robloxden.com/game-codes/cubination"
 }

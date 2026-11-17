@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "OCCULTFIXES",
+   "reward": "20 Rerolls and 35 Arrow Shards"
+  },
+  {
+   "code": "LIKES40K",
+   "reward": "35 Rerolls and 100 Arrow Shards"
+  },
+  {
+   "code": "LIKES30K",
+   "reward": "35 Rerolls and 100 Arrow Shards"
+  },
+  {
+   "code": "SCARYMONSTERSUPDATE",
+   "reward": "15 Rerolls and 25 Arrow Shards"
+  },
+  {
+   "code": "TRICKSTERUPDATE",
+   "reward": "15 Rerolls and 25 Arrow Shards"
+  },
+  {
+   "code": "THANKSFORPLAYING",
+   "reward": "10 Rerolls and 30 Arrow Shards"
+  },
+  {
+   "code": "OOPSCLUBBROKE",
+   "reward": "10 Rerolls and 20 Arrow Shards"
+  },
+  {
    "code": "PATCHNOTES1",
    "reward": "15 Rerolls and 30 Arrow Shards"
   },
@@ -71,6 +99,6 @@
    "reward": "50 Rerolls and 100 Arrow Shards"
   }
  ],
- "updated": "2026-11-14T22:19:08.192Z",
+ "updated": "2026-11-17T01:52:57.141Z",
  "source": "https://robloxden.com/game-codes/morioh-high"
 }

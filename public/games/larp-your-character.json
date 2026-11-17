@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "75KLIKES",
+   "reward": "20 Gems"
+  },
+  {
+   "code": "SUGGESTIONUPDATE",
+   "reward": "20 Gems"
+  },
+  {
+   "code": "BIGQOLUPDATE",
+   "reward": "20 Gems"
+  },
+  {
    "code": "HALLOWEEN!!",
    "reward": "20 Gems"
   },
@@ -55,6 +67,6 @@
    "reward": "10 Gems"
   }
  ],
- "updated": "2026-11-14T22:12:28.900Z",
+ "updated": "2026-11-17T01:47:19.535Z",
  "source": "https://robloxden.com/game-codes/larp-your-character"
 }

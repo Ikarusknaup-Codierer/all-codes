@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ZODIAC",
+   "reward": "25 Trait Rerolls , 500 Gems , 25 Lucky Spins , and 50,000 Coins"
+  },
+  {
+   "code": "ARTIFACTS",
+   "reward": "100 Relic Shards and 25 Tempering Dust"
+  },
+  {
    "code": "POTENTIAL",
    "reward": "25 Trait Rerolls , 500 Gems , 25 Lucky Spins , and 25,000 Coins"
   },
@@ -151,6 +159,6 @@
    "reward": "2,500 Coins , 10 Rolls , and 1 Lucky Spin"
   }
  ],
- "updated": "2026-11-14T22:13:05.011Z",
+ "updated": "2026-11-17T01:47:56.412Z",
  "source": "https://robloxden.com/game-codes/anime-zero"
 }

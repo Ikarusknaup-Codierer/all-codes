@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "RELEASE",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "TOTA",
+   "reward": "75 Gems"
+  },
+  {
+   "code": "P0CK3TL1V3",
+   "reward": "50 Gems"
+  },
+  {
    "code": "Mreast",
    "reward": "98 Candies"
   },
@@ -31,14 +43,14 @@
    "reward": "100 Gems"
   },
   {
-   "code": "500KVisits",
-   "reward": "500 Gems"
+   "code": "ONEYEAR",
+   "reward": "an ANNIVERSARY BOOTH"
   },
   {
-   "code": "150KVISITS",
-   "reward": "100 Gems"
+   "code": "500KVisits",
+   "reward": "500 Gems"
   }
  ],
- "updated": "2026-11-14T22:17:51.594Z",
+ "updated": "2026-11-17T01:52:05.769Z",
  "source": "https://robloxden.com/game-codes/summer-donations"
 }

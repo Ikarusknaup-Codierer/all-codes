@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BOOOST",
-   "reward": "25,000 Cash , 2x Cash (15 mins) , and 2x Job XP (60 mins)"
-  },
-  {
    "code": "5KLIKES",
    "reward": "rewards"
   },
@@ -21,8 +17,12 @@
   {
    "code": "BAGS",
    "reward": "rewards"
+  },
+  {
+   "code": "COMEBACK",
+   "reward": "50,000 Cash and Double Job EXP (2 hours)"
   }
  ],
- "updated": "2026-11-14T22:18:49.079Z",
+ "updated": "2026-11-17T01:52:45.519Z",
  "source": "https://robloxden.com/game-codes/carolina-leaners-ag2f"
 }

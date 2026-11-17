@@ -11,22 +11,22 @@
    "reward": "100 Halloween Coins"
   },
   {
-   "code": "Champion",
-   "reward": "10 Chance Crates"
+   "code": "HLFutureSoon",
+   "reward": "500 Coins"
   },
   {
-   "code": "CoinsStage",
+   "code": "NewPlaza",
    "reward": "100 Coins"
+  },
+  {
+   "code": "GreenVFX",
+   "reward": "250 Coins"
   },
   {
    "code": "NewMascot",
    "reward": "100 Coins"
-  },
-  {
-   "code": "30k",
-   "reward": "150 EXP"
   }
  ],
- "updated": "2026-11-14T22:12:55.716Z",
+ "updated": "2026-11-17T01:47:46.374Z",
  "source": "https://robloxden.com/game-codes/hoops-life-basketball"
 }

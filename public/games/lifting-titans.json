@@ -51,14 +51,14 @@
    "reward": "1 Player Boost"
   },
   {
-   "code": "LikeTheGame",
-   "reward": "A Reward"
+   "code": "EVENT",
+   "reward": "A Boost"
   },
   {
-   "code": "MEGABOOST",
+   "code": "SPACE",
    "reward": "A Reward"
   }
  ],
- "updated": "2026-11-14T22:16:01.316Z",
+ "updated": "2026-11-17T01:50:55.270Z",
  "source": "https://robloxden.com/game-codes/lifting-titans"
 }

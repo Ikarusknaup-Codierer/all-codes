@@ -11,22 +11,10 @@
    "reward": "10 Race Spins and 5 Teleport Crystals"
   },
   {
-   "code": "400kVisits!",
-   "reward": "2x Drop (10 Minutes) and 15 Race Spins"
-  },
-  {
-   "code": "100kVisits!",
-   "reward": "10 Race Spins and 5 Teleport Crystals"
-  },
-  {
-   "code": "RELEASE!",
-   "reward": "5 Race Spins and 2x Drop (15 Minutes)"
-  },
-  {
-   "code": "SECRETITEM!",
-   "reward": "1 Good Hat Item"
+   "code": "SorryForThe2xDropBug",
+   "reward": "a 2x Drop (10 Minutes)"
   }
  ],
- "updated": "2026-11-15T05:43:15.531Z",
+ "updated": "2026-11-17T01:54:22.021Z",
  "source": "https://robloxden.com/game-codes/anime-piece"
 }

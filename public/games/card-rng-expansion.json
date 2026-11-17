@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "RELICUPGRADE",
+   "reward": "100 Event Speed Potions , 100,000 Stat Aura Packs , 50 Jackpot Potions"
+  },
+  {
    "code": "600PLAYERS",
    "reward": "15 Legendary Luck Potions"
   },
@@ -83,6 +87,6 @@
    "reward": "15 Legendary Luck Potions"
   }
  ],
- "updated": "2026-11-14T22:17:34.193Z",
+ "updated": "2026-11-17T01:51:52.229Z",
  "source": "https://robloxden.com/game-codes/card-rng-expansion"
 }

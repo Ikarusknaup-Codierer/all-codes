@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Dracula",
+   "reward": "1 Charm Capsule"
+  },
+  {
    "code": "GrimReaper",
    "reward": "1 Charm Capsule"
   },
@@ -51,6 +55,6 @@
    "reward": "2 Apex Capture Balls"
   }
  ],
- "updated": "2026-11-14T22:15:53.151Z",
+ "updated": "2026-11-17T01:50:47.254Z",
  "source": "https://robloxden.com/game-codes/catch-dragons-to-defend"
 }

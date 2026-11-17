@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN2026",
+   "reward": "4,000 Pumpkins"
+  },
+  {
+   "code": "VISITS1B100M",
+   "reward": "100 Spins , 1 2x Luck Potion (30 Minutes) , 1 2x Gold Potion (30 Minut"
+  },
+  {
+   "code": "MEMBERS1M100K",
+   "reward": "100 Spins , 1 2x Luck Potion (30 Minutes) , 1 2x Gold Potion (30 Minut"
+  },
+  {
+   "code": "UPDATE5",
+   "reward": "500 Spins , 1 2x Luck Potion (2 Hours) , 1 2x Gold Potion (2 Hours) , "
+  },
+  {
    "code": "WZINS",
    "reward": "50 Spins"
   },
@@ -35,6 +51,6 @@
    "reward": "10 Lucky Spins"
   }
  ],
- "updated": "2026-11-14T22:13:18.680Z",
+ "updated": "2026-11-17T01:48:11.698Z",
  "source": "https://robloxden.com/game-codes/attack-on-titan-revolution"
 }

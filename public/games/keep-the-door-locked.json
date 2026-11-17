@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "MoreCash",
+   "reward": "7,500 Cash"
+  },
+  {
+   "code": "H4ppyHalloween!!",
+   "reward": "a Free Spin"
+  },
+  {
+   "code": "DigitalJester",
+   "reward": "2,000 Cash and 1 Jumpscare Token"
+  },
+  {
    "code": "Cash",
    "reward": "5,000 Cash"
   },
@@ -59,6 +71,6 @@
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-11-14T22:21:34.877Z",
+ "updated": "2026-11-17T01:53:36.972Z",
  "source": "https://robloxden.com/game-codes/keep-the-door-locked"
 }

@@ -7,12 +7,28 @@
    "reward": "Description"
   },
   {
-   "code": "RINGOUTNERF",
+   "code": "EVOLUTION",
+   "reward": "10 Spin Tickets and 10 Trait Tokens"
+  },
+  {
+   "code": "PRELAUNCH",
+   "reward": "15,000 Bey Points and 5 Lucky Spins"
+  },
+  {
+   "code": "SPINSTEALNERF",
    "reward": "15 Spin Tickets and 10 Trait Tokens"
   },
   {
-   "code": "SPOOKYBUFF",
-   "reward": "5 Soul Tickets and 10 Trait Tokens"
+   "code": "BUGSWEEP",
+   "reward": "10,000 Bey Points and 6 Lucky Spins"
+  },
+  {
+   "code": "SOULCOINS",
+   "reward": "5 Soul Tickets and 10,000 Bey Points"
+  },
+  {
+   "code": "RINGOUTNERF",
+   "reward": "15 Spin Tickets and 10 Trait Tokens"
   },
   {
    "code": "NEWCLASH",
@@ -89,8 +105,12 @@
   {
    "code": "BALANCEPATCH",
    "reward": "20,000 Bey Points and 15 Trait Tokens"
+  },
+  {
+   "code": "SPOOKYBUFF",
+   "reward": "5 Soul Tickets and 10 Trait Tokens"
   }
  ],
- "updated": "2026-11-14T22:21:14.070Z",
+ "updated": "2026-11-17T01:53:34.727Z",
  "source": "https://robloxden.com/game-codes/bey-rivals"
 }

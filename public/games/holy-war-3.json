@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "100FORGANG",
+   "code": "ONEFORMY",
+   "reward": "Exp"
+  },
+  {
+   "code": "100FORVIBES",
    "reward": "Magic Spins"
   },
   {
-   "code": "YOUWANTEXP",
-   "reward": "5,000,000 EXP"
+   "code": "STATRESET3",
+   "reward": "a Stat Reset"
   },
   {
-   "code": "CRISMAGIC",
-   "reward": "a reward"
+   "code": "EXPFIXED",
+   "reward": "some free spins"
   },
   {
    "code": "DIMPLE2",
    "reward": "Spins"
-  },
-  {
-   "code": "RESETME6",
-   "reward": "Spins"
   }
  ],
- "updated": "2026-11-14T22:17:07.716Z",
+ "updated": "2026-11-17T01:51:26.820Z",
  "source": "https://robloxden.com/game-codes/holy-war-3"
 }

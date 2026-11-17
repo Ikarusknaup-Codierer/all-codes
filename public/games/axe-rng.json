@@ -35,14 +35,14 @@
    "reward": "a Logs Potion and a Honey Potion"
   },
   {
-   "code": "CRYSTALS",
-   "reward": "500 Crystals"
-  },
-  {
    "code": "FUSIONISHERE",
    "reward": "2 Super Luck Potions"
+  },
+  {
+   "code": "FUSIONSOON",
+   "reward": "1 Super Luck Potion"
   }
  ],
- "updated": "2026-11-14T22:18:58.569Z",
+ "updated": "2026-11-17T01:52:52.082Z",
  "source": "https://robloxden.com/game-codes/axe-rng"
 }

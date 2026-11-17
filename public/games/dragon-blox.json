@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "SNEAKPEEKSOON",
-   "reward": "10x Premium Wish Token , 10x Race Spins, and 50x Raid Tickets"
-  },
-  {
    "code": "OTAD",
    "reward": "5 Premium Wish Tokens , 6 Race Spins , and 7 Raid Tickets . You must h"
+  },
+  {
+   "code": "SNEAKPEEKSOON",
+   "reward": "10x Premium Wish Token , 10x Race Spins, and 50x Raid Tickets"
   },
   {
    "code": "BRUS",
@@ -45,10 +45,6 @@
   {
    "code": "RAIDSHOP",
    "reward": "10 Premium Wish Tokens , 10 Race Spins , and 50 Raid Tickets . You mus"
-  },
-  {
-   "code": "NEWSETS",
-   "reward": "5 Premium Wish Tokens"
   },
   {
    "code": "ZEROBUFFS",
@@ -151,6 +147,6 @@
    "reward": "10 Premium Wishes"
   }
  ],
- "updated": "2026-11-15T05:43:40.054Z",
+ "updated": "2026-11-17T15:44:45.501Z",
  "source": "https://robloxden.com/game-codes/dragon-blox"
 }

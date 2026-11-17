@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "2 Pumpkin Dice , 15 Auric Dice , 25 Refined Dice , and 50 Gold Dice"
+  },
+  {
    "code": "SPOOKY",
    "reward": "3 Pumpkin Dice"
   },
@@ -107,10 +111,10 @@
    "reward": "15 Sakura dice, 10 Hacker Dice and 200 Gems"
   },
   {
-   "code": "mrcatisthebest",
-   "reward": "Free Rewards"
+   "code": "censil",
+   "reward": "100 Astral Dice"
   }
  ],
- "updated": "2026-11-15T05:49:48.589Z",
+ "updated": "2026-11-17T15:49:58.787Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

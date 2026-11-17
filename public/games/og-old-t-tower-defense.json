@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "OctopusUpdate",
+   "reward": "200 Coins"
+  },
+  {
    "code": "TechUpdate",
    "reward": "200 Coins"
   },
@@ -75,6 +79,6 @@
    "reward": "200 Coins"
   }
  ],
- "updated": "2026-11-15T05:49:47.980Z",
+ "updated": "2026-11-17T15:49:58.271Z",
  "source": "https://robloxden.com/game-codes/og-old-t-tower-defense"
 }

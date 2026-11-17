@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
+   "code": "HAPPY50K",
+   "reward": "x2 Venom (45 mins) , x2 Wins (45 mins) , 1 Mega Chest , and 2 Revives"
+  },
+  {
    "code": "HAPPY30K",
    "reward": "2x Venom , 2x Wins (30 mins) , 1 Mega Chest , and 1 Revive"
-  },
-  {
-   "code": "HALLOWEEN",
-   "reward": "1 Halloween Chest and 1 Tower Ticket"
-  },
-  {
-   "code": "UPDATE2",
-   "reward": "1 Halloween Chest"
   },
   {
    "code": "BONEAPPETIT",
@@ -25,8 +21,16 @@
   {
    "code": "WORLD3",
    "reward": "x2 Venom (30 mins) , x2 Wins (30 mins) , and 1 Revive"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "1 Halloween Chest and 1 Tower Ticket"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "1 Halloween Chest"
   }
  ],
- "updated": "2026-11-15T05:45:13.311Z",
+ "updated": "2026-11-17T15:45:34.271Z",
  "source": "https://robloxden.com/game-codes/1-venom-evolution"
 }

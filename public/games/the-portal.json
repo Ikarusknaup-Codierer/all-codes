@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HARVESTMOON",
+   "reward": "2 Black Dye , 2 Blue Dye , 2 Green Dye , 2 Red Dye , and 2 White Dye"
+  },
+  {
+   "code": "TRIBRIDGEARENA",
+   "reward": "1 Skill Point Runestone"
+  },
+  {
+   "code": "ERENNA",
+   "reward": "5 Lumen and 10 Aurorite . You need to complete Chapter 3 to use this c"
+  },
+  {
    "code": "NEWRACE",
    "reward": "5x Race Reroll and 5x Stat Reset Scroll"
   },
@@ -55,6 +67,6 @@
    "reward": "1 Wooden Glider and 1 Pet Chicken Ticket"
   }
  ],
- "updated": "2026-11-15T05:50:44.946Z",
+ "updated": "2026-11-17T15:50:50.852Z",
  "source": "https://robloxden.com/game-codes/the-portal"
 }

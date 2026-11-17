@@ -7,8 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "TRICKORTREAT",
-   "reward": "150 Candy Corn"
+   "code": "creatorexchange",
+   "reward": "1 Wheel Spin , 50 Gems , and 100 Coins"
   },
   {
    "code": "SPOOKYSEASON",
@@ -41,8 +41,12 @@
   {
    "code": "GhostKey",
    "reward": "1 Ghost Key and 250 Candy Corn"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "150 Candy Corn"
   }
  ],
- "updated": "2026-11-15T05:48:38.976Z",
+ "updated": "2026-11-17T15:48:51.698Z",
  "source": "https://robloxden.com/game-codes/huss-valley"
 }

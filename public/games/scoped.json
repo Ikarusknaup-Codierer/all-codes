@@ -7,6 +7,58 @@
    "reward": "Description"
   },
   {
+   "code": "SEASON2",
+   "reward": "2 Divine Cases"
+  },
+  {
+   "code": "MOLTENFURY",
+   "reward": "1 Knife Case"
+  },
+  {
+   "code": "RANKEDS2",
+   "reward": "3 Technical Cases"
+  },
+  {
+   "code": "PASSGRIND",
+   "reward": "1 Divine Case"
+  },
+  {
+   "code": "NOMOREWAITING",
+   "reward": "3 Technical Cases"
+  },
+  {
+   "code": "PLACEMENTS",
+   "reward": "1 Divine Case"
+  },
+  {
+   "code": "NOSMURFS",
+   "reward": "3 Technical Cases"
+  },
+  {
+   "code": "TEAMUP",
+   "reward": "1 Divine Case"
+  },
+  {
+   "code": "HOTFIX",
+   "reward": "1 Divine Case"
+  },
+  {
+   "code": "MOVEMENTTECH",
+   "reward": "1 Divine Case"
+  },
+  {
+   "code": "FAIRPLAY",
+   "reward": "1 Divine Case"
+  },
+  {
+   "code": "SCOPED",
+   "reward": "2 Divine Cases"
+  },
+  {
+   "code": "HEADSHOT",
+   "reward": "3 Technical Cases"
+  },
+  {
    "code": "New10000likes",
    "reward": "3 Technical Cases"
   },
@@ -27,6 +79,6 @@
    "reward": "3 Fracture Cases"
   }
  ],
- "updated": "2026-11-15T05:49:46.793Z",
+ "updated": "2026-11-17T15:49:57.196Z",
  "source": "https://robloxden.com/game-codes/scoped"
 }

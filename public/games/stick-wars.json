@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "MASTERY",
+   "reward": "200 Gems and 2 Diamond Crates"
+  },
+  {
+   "code": "SUPERCRATE",
+   "reward": "2 Diamond Crates"
+  },
+  {
+   "code": "BRAWL",
+   "reward": "2.5K Coins and 5 Coin Crates"
+  },
+  {
+   "code": "GEMRUSH",
+   "reward": "250 Gems"
+  },
+  {
    "code": "STICKWARS",
    "reward": "25 Gems"
   },
@@ -43,6 +59,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-15T05:44:23.221Z",
+ "updated": "2026-11-17T15:45:03.484Z",
  "source": "https://robloxden.com/game-codes/stick-wars"
 }

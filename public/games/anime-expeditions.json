@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "happyhalloween",
+   "reward": "750 Candy Corns , 150 Trait Crystals , 20 Equipment Rerolls , 10 Equip"
+  },
+  {
+   "code": "levelzero",
+   "reward": "100 Trait Crystals and 2,500 Gems"
+  },
+  {
+   "code": "sevengardens",
+   "reward": "50 Trait Crystals"
+  },
+  {
+   "code": "halloweenrestart",
+   "reward": "75 Candy Corns and 50 Trait Crystals"
+  },
+  {
    "code": "SummerSiege",
    "reward": "50 Equipment Rerolls and 800 Sand Dollars . You need to be at least Le"
   },
@@ -187,6 +203,6 @@
    "reward": "20 Trait Crystals and 2,500 Gems . You must have the Early Access Role"
   }
  ],
- "updated": "2026-11-15T13:45:50.990Z",
+ "updated": "2026-11-17T15:53:08.025Z",
  "source": "https://robloxden.com/game-codes/anime-expeditions"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Hallows",
+   "reward": "1,000 Pumpkins"
+  },
+  {
+   "code": "Monsters",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "Initiate",
+   "reward": "3 Style Crates"
+  },
+  {
+   "code": "STYLESAREHERE",
+   "reward": "5 Style Crates"
+  },
+  {
    "code": "NEEDCOINS",
    "reward": "1,000 cash"
   },
@@ -17,12 +33,8 @@
   {
    "code": "TRAINSSS",
    "reward": "5 Style Crates"
-  },
-  {
-   "code": "NEWINVENTORY",
-   "reward": "3.5K Pumpkins"
   }
  ],
- "updated": "2026-11-15T13:44:16.875Z",
+ "updated": "2026-11-17T15:51:47.633Z",
  "source": "https://robloxden.com/game-codes/protect-the-house-from-monsters"
 }

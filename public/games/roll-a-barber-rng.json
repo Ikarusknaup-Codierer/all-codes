@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "2MVISITS",
+   "reward": "5x Luck for (30 Minutes)"
+  },
+  {
    "code": "6KCCU",
    "reward": "5x Luck for (15 Minutes)"
   },
@@ -43,6 +47,6 @@
    "reward": "5x Luck for (15 Minutes)"
   }
  ],
- "updated": "2026-11-15T05:48:18.000Z",
+ "updated": "2026-11-17T15:48:31.717Z",
  "source": "https://robloxden.com/game-codes/roll-a-barber-rng"
 }

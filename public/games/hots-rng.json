@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "hollow",
+   "reward": "100 Eternal II , 10 Soft Cream , and 20 Soul's Fate"
+  },
+  {
    "code": "Bullseye",
    "reward": "50 Eternal Potion II , 10 Soft Cream , and 5 Soul's Fate"
   },
@@ -209,12 +213,8 @@
   {
    "code": "TYfor3KFollower",
    "reward": "Eternal Potions"
-  },
-  {
-   "code": "sorryforsodbug",
-   "reward": "2 Shards of Destruction"
   }
  ],
- "updated": "2026-11-15T05:49:58.716Z",
+ "updated": "2026-11-17T15:50:08.630Z",
  "source": "https://robloxden.com/game-codes/hots-rng"
 }

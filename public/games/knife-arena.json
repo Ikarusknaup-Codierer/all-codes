@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FREELIKE2",
+   "reward": "a Random Mystic Knife and 1 Dream Case"
+  },
+  {
    "code": "freecase",
    "reward": "1x Weapon Case"
   },
@@ -17,12 +21,8 @@
   {
    "code": "EASTER2026",
    "reward": "the limited Easter case"
-  },
-  {
-   "code": "newupd",
-   "reward": "Limited Luna Case x1"
   }
  ],
- "updated": "2026-11-15T13:44:23.234Z",
+ "updated": "2026-11-17T15:51:53.469Z",
  "source": "https://robloxden.com/game-codes/knife-arena"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "SCARY",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "SPOOKYGHOSTS",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "1 Premium Crate"
+  },
+  {
+   "code": "FREECOOKIES",
+   "reward": "1 Premium Crate"
+  },
+  {
    "code": "ACTUALTRAITCHANGES",
    "reward": "an 1 Premium Crate"
   },
@@ -87,6 +103,6 @@
    "reward": "1 Premium Crate"
   }
  ],
- "updated": "2026-11-15T05:44:53.144Z",
+ "updated": "2026-11-17T15:45:19.706Z",
  "source": "https://robloxden.com/game-codes/build-a-military-base"
 }

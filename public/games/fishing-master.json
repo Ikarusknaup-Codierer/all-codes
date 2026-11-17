@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BIGUPDFM",
-   "reward": "50 Gems"
-  },
-  {
    "code": "THANKS20KCCU",
    "reward": "25,000 Coins"
   },
@@ -37,8 +33,12 @@
   {
    "code": "FMUPD22026",
    "reward": "50 Gems"
+  },
+  {
+   "code": "BIGUPDFM",
+   "reward": "50 Gems"
   }
  ],
- "updated": "2026-11-15T05:50:50.703Z",
+ "updated": "2026-11-17T15:50:56.429Z",
  "source": "https://robloxden.com/game-codes/fishing-master"
 }

@@ -15,10 +15,6 @@
    "reward": "250 Kibbles"
   },
   {
-   "code": "GNPOTIONS",
-   "reward": "2 Luck Boost (15 Minutes) , 2 Super Luck Boost (15 Minutes) , 2 Cash B"
-  },
-  {
    "code": "TYFOR200CCU",
    "reward": "3 Pajama Party Pack , a Luck Boost (15 Minutes) and a Cash Boost (15 M"
   },
@@ -35,8 +31,8 @@
    "reward": "500 Kibbles and a Luck Boost (15 Minutes)"
   },
   {
-   "code": "UPDATE5",
-   "reward": "Free Rewards"
+   "code": "UPDATE6",
+   "reward": "a reward"
   },
   {
    "code": "HAUNTED",
@@ -53,8 +49,12 @@
   {
    "code": "SPOOKYCATS",
    "reward": "50 Candy Corn"
+  },
+  {
+   "code": "GNPOTIONS",
+   "reward": "2 Luck Boost (15 Minutes) , 2 Super Luck Boost (15 Minutes) , 2 Cash B"
   }
  ],
- "updated": "2026-11-15T05:47:48.464Z",
+ "updated": "2026-11-17T15:48:03.590Z",
  "source": "https://robloxden.com/game-codes/collect-cat-cards"
 }

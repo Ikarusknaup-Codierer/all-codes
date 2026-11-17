@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "GLOWUP",
-   "reward": "25 Crystals and 10 Big Fireworks"
+   "code": "PETS",
+   "reward": "1 Orchard Egg and 25 Crystals"
   },
   {
-   "code": "SPOOKY",
-   "reward": "20 Bat Fireworks and 25 Crystals"
+   "code": "TRADE",
+   "reward": "1 Orchard Egg and 25 Crystals"
+  },
+  {
+   "code": "GLOWUP",
+   "reward": "25 Crystals and 10 Big Fireworks"
   }
  ],
- "updated": "2026-11-15T13:45:03.226Z",
+ "updated": "2026-11-17T15:52:27.485Z",
  "source": "https://robloxden.com/game-codes/caramel-cozy-pixel-farm"
 }

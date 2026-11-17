@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE_37",
+   "reward": "IC 500"
+  },
+  {
+   "code": "ALFEROQUADRIFOGLIO",
+   "reward": "IC 500"
+  },
+  {
+   "code": "NOVEMBER2026",
+   "reward": "IC 500"
+  },
+  {
    "code": "UPDATE_36",
    "reward": "IC 500"
   },
@@ -63,6 +75,6 @@
    "reward": "Rp 250,000,000"
   }
  ],
- "updated": "2026-11-15T05:47:30.758Z",
+ "updated": "2026-11-17T15:47:46.505Z",
  "source": "https://robloxden.com/game-codes/the-driving-indonesia-2"
 }

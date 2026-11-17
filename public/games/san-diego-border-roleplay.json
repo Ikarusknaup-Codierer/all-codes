@@ -7,22 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "GANGUP",
-   "reward": "50,000 Cash"
-  },
-  {
    "code": "FOPLRY",
    "reward": "20K Cash"
   },
   {
-   "code": "SPOOKYSEASON",
-   "reward": "25,000 Cash"
+   "code": "STREETRACE",
+   "reward": "50,000 Cash"
+  },
+  {
+   "code": "GANGUP",
+   "reward": "50,000 Cash"
   },
   {
    "code": "UPDATEBONUS",
    "reward": "200,000 Cash"
   }
  ],
- "updated": "2026-11-15T05:49:15.316Z",
+ "updated": "2026-11-17T15:49:26.872Z",
  "source": "https://robloxden.com/game-codes/san-diego-border-roleplay"
 }

@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BIGQOLSOON",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "CROWTHEFTBACK",
+   "reward": "5 Lucky Flows"
+  },
+  {
+   "code": "KARASUREWORK",
+   "reward": "5 Lucky Spins and 5 Lucky Flows"
+  },
+  {
    "code": "HAPPYHALLOWEEN2",
    "reward": "5 Lucky Style Spins and 5 Lucky Flow Spins"
   },
@@ -171,6 +183,6 @@
    "reward": "5 Lucky Flow"
   }
  ],
- "updated": "2026-11-15T05:46:39.381Z",
+ "updated": "2026-11-17T15:46:57.675Z",
  "source": "https://robloxden.com/game-codes/blue-lock-rivals"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SEASON4",
-   "reward": "1,500 Coins"
-  },
-  {
    "code": "HALLOWEEN",
    "reward": "1,000 Coins"
   },
@@ -19,14 +15,14 @@
    "reward": "3,000 Cash"
   },
   {
-   "code": "GRAVEYARD",
+   "code": "SEASON4",
    "reward": "1,500 Coins"
   },
   {
-   "code": "2077",
-   "reward": "Cash"
+   "code": "GRAVEYARD",
+   "reward": "1,500 Coins"
   }
  ],
- "updated": "2026-11-15T13:46:13.597Z",
+ "updated": "2026-11-17T15:53:25.826Z",
  "source": "https://robloxden.com/game-codes/knife-duels"
 }

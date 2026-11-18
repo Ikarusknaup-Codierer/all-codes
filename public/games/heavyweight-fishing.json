@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "70MVisits",
-   "reward": "Rewards . For level 100+ only"
-  },
-  {
-   "code": "WeeklyUPD2",
-   "reward": "Freebies . To use this code, you must be at least level 100 in-game"
-  },
-  {
    "code": "Halloween",
    "reward": "Freebies . To use this code, you must be at least level 200 in-game"
   },
@@ -35,10 +27,6 @@
    "reward": "1x Ticket , 1 Cash , 1x Crystal , and 1x Trait Reroll"
   },
   {
-   "code": "25KActives",
-   "reward": "Rewards . You need to be level 500 to redeem this code"
-  },
-  {
    "code": "23KActives",
    "reward": "Free Rewards . You must be at least Level 500 to use this code"
   },
@@ -55,12 +43,32 @@
    "reward": "rewards . You must be at least level 100 to use this code"
   },
   {
+   "code": "75MVisits",
+   "reward": "rewards . You must be at least level 100 to use this code"
+  },
+  {
+   "code": "WeeklyUPD3",
+   "reward": "Free Rewards . You must be at least level 100 to use this code"
+  },
+  {
+   "code": "70MVisits",
+   "reward": "Rewards . For level 100+ only"
+  },
+  {
+   "code": "WeeklyUPD2",
+   "reward": "Freebies . To use this code, you must be at least level 100 in-game"
+  },
+  {
    "code": "WeeklyUPD1",
    "reward": "Freebies . You need to be level 100 to redeem this code"
   },
   {
    "code": "85KLikes",
    "reward": "Rewards . You need to be level 100 to redeem this code"
+  },
+  {
+   "code": "25KActives",
+   "reward": "Rewards . You need to be level 500 to redeem this code"
   },
   {
    "code": "80KLikes",
@@ -275,6 +283,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-11-15T22:44:04.886Z",
+ "updated": "2026-11-18T15:29:28.064Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

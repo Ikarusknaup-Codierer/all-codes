@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "BOOM",
+   "reward": "3x Bomb"
+  },
+  {
+   "code": "MINIWORLDS",
+   "reward": "a Meteor"
   }
  ],
- "updated": "2026-11-16T05:46:00.225Z",
+ "updated": "2026-11-18T15:34:38.763Z",
  "source": "https://robloxden.com/game-codes/mini-worlds"
 }

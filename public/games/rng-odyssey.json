@@ -11,22 +11,22 @@
    "reward": "1 of Every Potion"
   },
   {
-   "code": "OCTDAY7",
+   "code": "OCTDAY6",
    "reward": "Reward"
   },
   {
-   "code": "SORRY",
+   "code": "BIRTHDAY",
    "reward": "Free In-Game Rewards"
+  },
+  {
+   "code": "SECRET",
+   "reward": "69 Gems"
   },
   {
    "code": "RELEASE",
    "reward": "200 Coins and 150 Gems"
-  },
-  {
-   "code": "MATERIALS",
-   "reward": "1 Gems Potion and 1 XP Potion"
   }
  ],
- "updated": "2026-11-16T05:52:19.685Z",
+ "updated": "2026-11-18T15:39:06.556Z",
  "source": "https://robloxden.com/game-codes/rng-odyssey"
 }

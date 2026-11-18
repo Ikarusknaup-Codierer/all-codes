@@ -15,10 +15,6 @@
    "reward": "10 Trick or Treats"
   },
   {
-   "code": "INSTAGROW01",
-   "reward": "the Max Crate Growth for (1 Hour)"
-  },
-  {
    "code": "IMSORRY",
    "reward": "3,000 Gems"
   },
@@ -39,14 +35,18 @@
    "reward": "1 x3 Luck Potion"
   },
   {
-   "code": "S3C3TC0D3",
-   "reward": "rewards"
+   "code": "DreamRaceCar",
+   "reward": "1 Automatic Spin"
   },
   {
-   "code": "COSMIC25",
-   "reward": "1 Cosmic Lucky Crate"
+   "code": "INSTAGROW01",
+   "reward": "the Max Crate Growth for (1 Hour)"
+  },
+  {
+   "code": "S3C3TC0D3",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-15T22:46:52.481Z",
+ "updated": "2026-11-18T15:30:11.315Z",
  "source": "https://robloxden.com/game-codes/dream-car-collection"
 }

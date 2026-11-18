@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "KACHING",
-   "reward": "500 Miles and 500M Cash"
+   "code": "BELUGA",
+   "reward": "the Airbus Beluga and 500,000 Cash"
   },
   {
-   "code": "CARIBBEAN",
-   "reward": "the Caribbean Livery"
+   "code": "CANADAIR",
+   "reward": "the Canadaair CL-415"
+  },
+  {
+   "code": "OOGABOOGA",
+   "reward": "2x XP Boost (1 Hour)"
+  },
+  {
+   "code": "REBRAND",
+   "reward": "the 2 Rebrands"
   }
  ],
- "updated": "2026-11-16T05:44:04.237Z",
+ "updated": "2026-11-18T15:32:48.024Z",
  "source": "https://robloxden.com/game-codes/airline-manager-flight-lanes"
 }

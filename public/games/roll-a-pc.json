@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "5 Luck Potion II , 5 Cash Potion II , 50 Trait Rerolls , and 50 Candie"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "3 Luck Potion I , 3 Cash Potion I , 50 Trait Rerolls , and 50 Candies"
+  },
+  {
+   "code": "1000LIKES",
+   "reward": "100 Trait Rerolls and x2 Luck (15 mins)"
+  },
+  {
+   "code": "TRUEUPDATE2",
+   "reward": "50 Trait Rerolls , 3 Luck Potion I , 3 Cash Potion I , and 5 Minutes o"
+  },
+  {
+   "code": "FUSEMACHINE",
+   "reward": "50 Trait Rerolls"
+  },
+  {
+   "code": "1000CCU",
+   "reward": "1,000 Trait Rerolls"
   }
  ],
- "updated": "2026-11-16T05:44:08.769Z",
+ "updated": "2026-11-18T15:32:53.224Z",
  "source": "https://robloxden.com/game-codes/roll-a-pc"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Songbird",
+   "reward": "50 Rerolls"
+  },
+  {
    "code": "Halloween",
    "reward": "350 Rerolls"
   },
@@ -123,6 +127,6 @@
    "reward": "Rewards . You need to be level 10 to redeem this code"
   }
  ],
- "updated": "2026-11-16T05:44:26.073Z",
+ "updated": "2026-11-18T15:33:11.471Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

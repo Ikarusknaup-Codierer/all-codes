@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "80millionvisits",
+   "reward": "80 Coins and 2 Random Crates"
+  },
+  {
+   "code": "halloween2026",
+   "reward": "30 Pumpkins and 1 Halloween Crate"
+  },
+  {
+   "code": "cathedralreturns",
+   "reward": "40 Pumpkins"
+  },
+  {
+   "code": "wallpapers",
+   "reward": "20 Coins and 1 Wallpaper Crate 1"
+  },
+  {
    "code": "crate",
    "reward": "1 Random Crate"
   },
@@ -39,6 +55,6 @@
    "reward": "100 Coins , 100 Seashells , 2 Random Crates , and 1 Summer 2026 Crate"
   }
  ],
- "updated": "2026-11-15T22:42:35.119Z",
+ "updated": "2026-11-18T15:27:37.628Z",
  "source": "https://robloxden.com/game-codes/armless-detective"
 }

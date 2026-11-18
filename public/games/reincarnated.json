@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "Lucky_Blocks",
-   "reward": "12 Lucky Blocks"
+   "code": "STOKING",
+   "reward": "3 Trick Boxes and 1 Prismatic Crate"
   },
   {
-   "code": "SpookyPop",
-   "reward": "the Spooky Pop"
+   "code": "HALLOWEEN2026",
+   "reward": "3 Trick Boxes"
+  },
+  {
+   "code": "CHANGES",
+   "reward": "3 Solar Boxes and 25 Cosmite"
+  },
+  {
+   "code": "Lucky_Blocks",
+   "reward": "12 Lucky Blocks"
   }
  ],
- "updated": "2026-11-15T22:47:01.891Z",
+ "updated": "2026-11-18T15:30:21.153Z",
  "source": "https://robloxden.com/game-codes/reincarnated"
 }

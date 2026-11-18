@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WSJD11",
+   "reward": "50 Gold"
+  },
+  {
    "code": "XXBF11",
    "reward": "10 Gold Coin"
   },
@@ -215,6 +219,6 @@
    "reward": "20 Gold Coins"
   }
  ],
- "updated": "2026-11-15T22:42:41.650Z",
+ "updated": "2026-11-18T15:27:53.891Z",
  "source": "https://robloxden.com/game-codes/pet-capture-adventur"
 }

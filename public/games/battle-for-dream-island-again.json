@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Awardize",
+   "reward": "the Tree Bottle Skin , 1 , and 500 Coins"
+  },
+  {
    "code": "Funky",
    "reward": "the Dinosaur Teardrop Skin"
   },
@@ -31,10 +35,6 @@
    "reward": "the New Emote Skin"
   },
   {
-   "code": "Cheez",
-   "reward": "the Chef Woody Skin"
-  },
-  {
    "code": "SoRich!",
    "reward": "the Rich Smileyface Skin"
   },
@@ -49,6 +49,10 @@
   {
    "code": "1kTHX",
    "reward": "1 Gem and 700 Coins"
+  },
+  {
+   "code": "Cheez",
+   "reward": "the Chef Woody Skin"
   },
   {
    "code": "NoGameNoLife",
@@ -99,6 +103,6 @@
    "reward": "the Epik Snowball Skin"
   }
  ],
- "updated": "2026-11-15T22:46:38.081Z",
+ "updated": "2026-11-18T15:29:54.940Z",
  "source": "https://robloxden.com/game-codes/battle-for-dream-island-again"
 }

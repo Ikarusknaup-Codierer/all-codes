@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "VISITS3POINT5MIL",
+   "reward": "55 Kredits"
+  },
+  {
+   "code": "JACKOSCOPE",
+   "reward": "the Jackoscope"
+  },
+  {
    "code": "3MILVISITS",
    "reward": "75 Kredits"
   },
@@ -43,6 +51,10 @@
    "reward": "75 Kredits"
   },
   {
+   "code": "NEWBUNDLE",
+   "reward": "rewards"
+  },
+  {
    "code": "JUGGERCOMP",
    "reward": "70 Kredits"
   },
@@ -55,6 +67,6 @@
    "reward": "75 Kredits"
   }
  ],
- "updated": "2026-11-15T22:47:11.373Z",
+ "updated": "2026-11-18T15:30:29.648Z",
  "source": "https://robloxden.com/game-codes/kontra"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "rip",
+   "reward": "1 Spin"
+  },
+  {
+   "code": "zeru",
+   "reward": "2 Matuus Jester Cases . You need to reach Level 40 to use this code"
+  },
+  {
    "code": "jutropiatek",
    "reward": "10,000 Money . You need to be level 40 to redeem this code"
   },
@@ -223,6 +231,6 @@
    "reward": "100 Cash"
   }
  ],
- "updated": "2026-11-15T22:47:23.635Z",
+ "updated": "2026-11-18T15:30:40.887Z",
  "source": "https://robloxden.com/game-codes/case-world"
 }

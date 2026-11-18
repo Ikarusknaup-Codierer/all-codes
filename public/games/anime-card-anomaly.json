@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HEROINE",
+   "reward": "Free Rewards . You must reach 5,000 Rolls to use this code"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "Rewards . You must reach 5,000 rolls to use this code"
   },
@@ -55,6 +59,6 @@
    "reward": "Free Rewards . You must reach 5,000 Rolls to use this code"
   }
  ],
- "updated": "2026-11-16T05:51:57.768Z",
+ "updated": "2026-11-18T15:38:57.862Z",
  "source": "https://robloxden.com/game-codes/anime-card-anomaly"
 }

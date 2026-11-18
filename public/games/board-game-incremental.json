@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "RELEASE",
+   "reward": "100 Gems , 100 Vouchers , and an Inferno Capsule"
+  },
+  {
    "code": "DOOMKEY",
    "reward": "20 Crowns and a Doom Key"
   },
   {
-   "code": "SORRYFORDELAY",
-   "reward": "40 Crowns and a Time Skip (15 Minutes)"
+   "code": "DOOMTOWER",
+   "reward": "3 Doom Keys and Capsule Luck Tier Upgrade"
+  },
+  {
+   "code": "600CCU",
+   "reward": "30 Crowns"
   }
  ],
- "updated": "2026-11-16T05:45:56.894Z",
+ "updated": "2026-11-18T15:34:35.937Z",
  "source": "https://robloxden.com/game-codes/board-game-incremental"
 }

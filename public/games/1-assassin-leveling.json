@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "World7",
+   "reward": "1 Rebirth Skip"
+  },
+  {
    "code": "THANKYOU",
    "reward": "x2 Wins (10 mins) and 1,000 Boss Coins"
   },
@@ -23,10 +27,22 @@
    "reward": "20 Levels"
   },
   {
+   "code": "BOSS",
+   "reward": "500 Boss Coins"
+  },
+  {
+   "code": "7KCCU",
+   "reward": "a 3 Strength Boost (10 Minutes)"
+  },
+  {
+   "code": "WORLD4",
+   "reward": "a 2 Win Boost (5 Minutes)"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "2,000 Candies and 3 Tickets"
   }
  ],
- "updated": "2026-11-15T22:42:02.879Z",
+ "updated": "2026-11-18T15:26:57.880Z",
  "source": "https://robloxden.com/game-codes/1-assassin-leveling"
 }

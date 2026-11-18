@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HAPPYHalloween",
-   "reward": "500 Spooky Candy , 1,000 Crystals , and 5,000 Lumens"
-  },
-  {
    "code": "220KLIKES",
    "reward": "500 Cursed Crystals , 5,000 Lumens , and 50 Clan Rolls"
   },
@@ -19,14 +15,18 @@
    "reward": "3,500 Lumens , 300 Crystals , and 35 Clan Rolls"
   },
   {
-   "code": "SPOOKY",
+   "code": "November!",
+   "reward": "1 Spooky Halloween Scythe Skin Token, 1 Xp Clan Token and 3k Candies"
+  },
+  {
+   "code": "HAPPYHalloween",
    "reward": "500 Spooky Candy , 1,000 Crystals , and 5,000 Lumens"
   },
   {
-   "code": "FRAMES",
-   "reward": "1,000 Cursed Crystals , 5,000 Lumens , and 50 Clan Rolls"
+   "code": "SPOOKY",
+   "reward": "500 Spooky Candy , 1,000 Crystals , and 5,000 Lumens"
   }
  ],
- "updated": "2026-11-16T05:43:31.617Z",
+ "updated": "2026-11-18T15:32:16.755Z",
  "source": "https://robloxden.com/game-codes/jujutsu-zero"
 }

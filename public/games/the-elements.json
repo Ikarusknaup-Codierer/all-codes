@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "LAVA",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "SORRYFORSHUTDOWN",
+   "reward": "20 Spins"
+  },
+  {
    "code": "LIGHTNING",
    "reward": "10 Spins"
   }
  ],
- "updated": "2026-11-16T05:44:06.602Z",
+ "updated": "2026-11-18T15:32:50.519Z",
  "source": "https://robloxden.com/game-codes/the-elements"
 }

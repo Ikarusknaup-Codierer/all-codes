@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "publictesting",
+   "reward": "10 Clan Rerolls"
+  },
+  {
+   "code": "loadingbugfix",
+   "reward": "rewards"
+  },
+  {
+   "code": "shuttingdown",
+   "reward": "rewards"
+  },
+  {
    "code": "balancepatch2",
    "reward": "Free Rewards"
   },
@@ -16,6 +28,22 @@
   },
   {
    "code": "clanrerolls",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "sryforsd",
+   "reward": "Rewards"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "4MVISITS",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "randomsd",
    "reward": "Free Rewards"
   },
   {
@@ -61,8 +89,32 @@
   {
    "code": "THANKYOUFOR2KCCU",
    "reward": "Rewards"
+  },
+  {
+   "code": "2MVISITS",
+   "reward": "5 Rerolls"
+  },
+  {
+   "code": "rankedfixes",
+   "reward": "Rewards"
+  },
+  {
+   "code": "8klikes",
+   "reward": "Rewards . For Grade 2+ only"
+  },
+  {
+   "code": "balancepatch1",
+   "reward": "15 Rerolls"
+  },
+  {
+   "code": "update0",
+   "reward": "10 Rerolls"
+  },
+  {
+   "code": "10klikes",
+   "reward": "Rewards . For Grade 2+ only"
   }
  ],
- "updated": "2026-11-16T05:45:57.768Z",
+ "updated": "2026-11-18T15:34:36.537Z",
  "source": "https://robloxden.com/game-codes/shibuya"
 }

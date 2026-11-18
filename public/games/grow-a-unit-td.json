@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BIZZY_BEES",
-   "reward": "1 Honey Seed Pack"
-  },
-  {
    "code": "XMAS",
    "reward": "100 Snowflakes"
   },
@@ -97,8 +93,12 @@
   {
    "code": "DUNGEON",
    "reward": "250 Bones"
+  },
+  {
+   "code": "BIZZY_BEES",
+   "reward": "1 Honey Seed Pack"
   }
  ],
- "updated": "2026-11-15T22:46:51.976Z",
+ "updated": "2026-11-18T15:30:10.737Z",
  "source": "https://robloxden.com/game-codes/grow-a-unit-td"
 }

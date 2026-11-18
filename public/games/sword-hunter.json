@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "POSTHALLOWEEN",
+   "reward": "2 Halloween Chests"
+  },
+  {
    "code": "RESTART2",
    "reward": "3 Endless Tower Tickets and 3 Raid Tickets"
   },
@@ -119,6 +123,6 @@
    "reward": "a Valor Sword"
   }
  ],
- "updated": "2026-11-15T22:49:26.659Z",
+ "updated": "2026-11-18T15:31:35.492Z",
  "source": "https://robloxden.com/game-codes/sword-hunter"
 }

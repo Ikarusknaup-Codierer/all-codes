@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Update11",
+   "reward": "50 Gems , 50 Trait Rerolls , and 3 Lucky Spins"
+  },
+  {
    "code": "100KCCU",
    "reward": "1 Pumpkin Jackpot , 100 Trait Rerolls , and 100 Gems"
   },
@@ -91,6 +95,14 @@
    "reward": "a Lucky Spin , 2 Trait Rerolls , and 2 Gems"
   },
   {
+   "code": "AUTUMN",
+   "reward": "1 Lucky Spin , 1,000 Leaves , and Potions"
+  },
+  {
+   "code": "LEAFTOWER",
+   "reward": "1,000 Leaves , 1 Harvest Jackpot , and Potions"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "a Pumpkin Jackpot"
   },
@@ -103,6 +115,6 @@
    "reward": "5 Lucky Spins"
   }
  ],
- "updated": "2026-11-15T22:46:22.908Z",
+ "updated": "2026-11-18T01:04:04.752Z",
  "source": "https://robloxden.com/game-codes/anime-dice"
 }

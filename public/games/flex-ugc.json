@@ -47,24 +47,12 @@
    "reward": "the Pink Hair"
   },
   {
-   "code": "USS",
-   "reward": "the Inferno Skull Sword"
-  },
-  {
-   "code": "JUC",
-   "reward": "the Jace's UGC Chain"
-  },
-  {
    "code": "7007",
    "reward": "the Black Horns"
   },
   {
    "code": "G2b",
    "reward": "the Goblin Chain 2.0"
-  },
-  {
-   "code": "ULTFA",
-   "reward": "the Ultimate Fedora"
   },
   {
    "code": "BRHT",
@@ -199,14 +187,26 @@
    "reward": "the Ruby Eternal Crown"
   },
   {
+   "code": "USS",
+   "reward": "the Inferno Skull Sword"
+  },
+  {
+   "code": "JUC",
+   "reward": "the Jace's UGC Chain"
+  },
+  {
    "code": "6009",
    "reward": "the Neon White Cyber Light Saber"
   },
   {
    "code": "HB350",
    "reward": "the Heyop Backpack"
+  },
+  {
+   "code": "ULTFA",
+   "reward": "the Ultimate Fedora"
   }
  ],
- "updated": "2026-11-15T22:39:43.496Z",
+ "updated": "2026-11-18T00:56:36.484Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

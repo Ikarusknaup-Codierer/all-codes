@@ -11,10 +11,6 @@
    "reward": "250 Clan Tokens"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "100x Pumpkins and 2,500 Coins"
-  },
-  {
    "code": "5MILCOINS",
    "reward": "2,500 Coins"
   },
@@ -41,8 +37,12 @@
   {
    "code": "FREEGEMS",
    "reward": "30 Gems"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "100x Pumpkins and 2,500 Coins"
   }
  ],
- "updated": "2026-11-15T13:45:35.187Z",
+ "updated": "2026-11-18T00:48:12.022Z",
  "source": "https://robloxden.com/game-codes/survive-the-night"
 }

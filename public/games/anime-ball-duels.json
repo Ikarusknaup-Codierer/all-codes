@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "ESKANOR",
+   "reward": "1,000 Candy Corn , 3 Boss Tickets , 3 Halloween Capsules , Candy Rush "
+  },
+  {
+   "code": "EXTENDED",
+   "reward": "250 Gems , 5 Trait Rolls , 500 Candy Corn , and 3 Boss Tickets"
+  },
+  {
+   "code": "HALLOWEENFINALE",
+   "reward": "2,500 Candy Corn , 5 Boss Tickets , 5 Halloween Capsules , Candy Rush "
+  },
+  {
+   "code": "RANKEDSOON",
+   "reward": "10,000 Coins , 750 Gems , 40 Trait Crystals , and 5 Wheel Spins"
+  },
+  {
    "code": "TRADINGSHUTDOWN",
    "reward": "1,500 Coins , 150 Gems , 10 Trait Crystals , 500 Candy Corns , and 2 B"
   },
@@ -17,10 +33,6 @@
   {
    "code": "TRADINGUPDATE",
    "reward": "10,000 Coins , 750 Gems , 40 Trait Crystals , 1,000 Candy Corn , 3 Bos"
-  },
-  {
-   "code": "EXTENDED",
-   "reward": "250 Gems , 5 Trait Rolls , 500 Candy Corn , and 3 Boss Tickets"
   },
   {
    "code": "PART2SHUTDOWN",
@@ -63,6 +75,6 @@
    "reward": "500 Candy Corns and 3 Boss Tickets"
   }
  ],
- "updated": "2026-11-15T13:49:12.972Z",
+ "updated": "2026-11-18T00:51:40.025Z",
  "source": "https://robloxden.com/game-codes/anime-ball-duels"
 }

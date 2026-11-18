@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "AbyssModeImprovementsPlease!",
+   "reward": "30 Spins"
+  },
+  {
+   "code": "MagicWand!!",
+   "reward": "25 Spins"
+  },
+  {
+   "code": "HalloweenPt2!",
+   "reward": "50 Spins"
+  },
+  {
    "code": "SpookyHalloween!",
    "reward": "25 Spins"
   },
@@ -17,10 +29,6 @@
   {
    "code": "HalloweenEvent26!",
    "reward": "50 Spins"
-  },
-  {
-   "code": "AbyssModeImprovementsPlease!",
-   "reward": "30 Spins"
   },
   {
    "code": "AmaterasuVariants!",
@@ -219,6 +227,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-11-15T22:45:10.207Z",
+ "updated": "2026-11-18T01:02:37.837Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

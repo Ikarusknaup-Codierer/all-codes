@@ -209,8 +209,16 @@
   {
    "code": "STORAGEUPGRADE",
    "reward": "Gems"
+  },
+  {
+   "code": "ILOVEYOU",
+   "reward": "5,000 Gems"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "10,000 Gems"
   }
  ],
- "updated": "2026-11-15T22:40:51.197Z",
+ "updated": "2026-11-18T00:58:06.362Z",
  "source": "https://robloxden.com/game-codes/universal-legacy"
 }

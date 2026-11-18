@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "LATEHALLOWEEN",
+   "reward": "30,000 Cash"
+  },
+  {
+   "code": "OREISU",
+   "reward": "3,200 Cash"
+  },
+  {
    "code": "SORRYUPDATETIME",
    "reward": "Rewards"
   },
@@ -47,6 +55,6 @@
    "reward": "5,000 Cash"
   }
  ],
- "updated": "2026-11-15T13:45:52.736Z",
+ "updated": "2026-11-18T00:48:21.595Z",
  "source": "https://robloxden.com/game-codes/motoprix-racing"
 }

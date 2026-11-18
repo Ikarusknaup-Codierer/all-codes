@@ -19,16 +19,12 @@
    "reward": "1,000 Coins , 500 EXP , and 5 Weapon Tier Scrolls"
   },
   {
-   "code": "KRAKEN",
-   "reward": "an Abyssal Key"
+   "code": "VOLCANO",
+   "reward": "8 Weapon Tier Scrolls , 8 Armor Tier Scrolls , and 8 Mount Tier Scroll"
   },
   {
-   "code": "CLIMB",
-   "reward": "2 Damage Totems and 2 Luck Totems"
-  },
-  {
-   "code": "GONEFISHING",
-   "reward": "10 Golden Bait and 2 Lucky Charm"
+   "code": "IGNAROK",
+   "reward": "the Infernal Key"
   },
   {
    "code": "LOOTAWEEN",
@@ -43,6 +39,6 @@
    "reward": "3x Halloween Dungeon 2026"
   }
  ],
- "updated": "2026-11-15T13:50:27.053Z",
+ "updated": "2026-11-18T00:53:02.237Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

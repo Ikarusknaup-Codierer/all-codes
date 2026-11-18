@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "Assist",
+   "reward": "Rewards . You need to have at least 100,000 Rolls to use this code"
+  },
+  {
+   "code": "UPDATEMHA",
+   "reward": "1,000 Crystals and 1 Blessed Roll"
+  },
+  {
+   "code": "HEROACADEMY",
+   "reward": "Rewards . You need to have at least 10,000 Rolls to use this code"
+  },
+  {
+   "code": "NEWBATTLEPASS",
+   "reward": "Rewards . You need to have at least 25,000 Rolls to use this code"
+  },
+  {
+   "code": "MHARAID",
+   "reward": "Rewards . You need to have at least 50,000 Rolls to use this code"
+  },
+  {
    "code": "SORRYFORSHUTDOWNPARTTWO",
    "reward": "3 Divine Rolls and 3 Ghost Candies"
   },
@@ -331,6 +351,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-11-15T13:50:42.308Z",
+ "updated": "2026-11-18T00:53:20.684Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

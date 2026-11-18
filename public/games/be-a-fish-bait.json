@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HOOLALALA",
-   "reward": "3 Aura Rerolls"
-  },
-  {
    "code": "SHARDS",
    "reward": "3 Legendary Shards"
   },
@@ -23,10 +19,14 @@
    "reward": ""
   },
   {
+   "code": "HOOLALALA",
+   "reward": "3 Aura Rerolls"
+  },
+  {
    "code": "SRYFORDELAY",
    "reward": "10 FOMO Tickets"
   }
  ],
- "updated": "2026-11-15T13:46:27.602Z",
+ "updated": "2026-11-18T00:48:48.390Z",
  "source": "https://robloxden.com/game-codes/be-a-fish-bait"
 }

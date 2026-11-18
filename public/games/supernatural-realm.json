@@ -7,14 +7,46 @@
    "reward": "Description"
   },
   {
-   "code": "STATRESET",
-   "reward": "a Stat and Combat Point Reset"
+   "code": "MOONRISE",
+   "reward": "100 Moon Shards"
   },
   {
-   "code": "4KLIKES",
+   "code": "ASHFALL",
+   "reward": "10 Moon Shards"
+  },
+  {
+   "code": "12KPPL",
+   "reward": "750 Moon Shards"
+  },
+  {
+   "code": "BEKIND",
+   "reward": "500 Moon Shards"
+  },
+  {
+   "code": "7KLIKES",
    "reward": "600 Moon Shards"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "400 Moon Shards"
+  },
+  {
+   "code": "FACTION",
+   "reward": "500 Moon Shards"
+  },
+  {
+   "code": "HUNTER",
+   "reward": "500 Moon Shards"
+  },
+  {
+   "code": "FANTASY",
+   "reward": "500 Moon Shards"
+  },
+  {
+   "code": "STATRESET",
+   "reward": "a Stat and Combat Point Reset"
   }
  ],
- "updated": "2026-11-15T13:48:17.321Z",
+ "updated": "2026-11-18T00:50:40.919Z",
  "source": "https://robloxden.com/game-codes/supernatural-realm"
 }

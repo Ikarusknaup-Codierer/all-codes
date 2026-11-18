@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "2 Vehicle Crates and 2,000 Bones"
-  },
-  {
    "code": "FRAG",
    "reward": "2 M67's"
   },
@@ -35,10 +31,10 @@
    "reward": "50,000 Bones and 2 Basic Vehicle Crates"
   },
   {
-   "code": "EASTER",
-   "reward": "the Exclusive Egg Display Furniture"
+   "code": "HALLOWEEN",
+   "reward": "2 Vehicle Crates and 2,000 Bones"
   }
  ],
- "updated": "2026-11-15T22:39:42.912Z",
+ "updated": "2026-11-18T00:56:35.611Z",
  "source": "https://robloxden.com/game-codes/wanted"
 }

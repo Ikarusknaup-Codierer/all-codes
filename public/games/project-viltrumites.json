@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "8233569802",
-   "reward": "the Ara Ara Kill Sound Effect"
-  },
-  {
    "code": "8140095101",
    "reward": "the 2010 Song Kill Sound Effect"
   },
@@ -197,8 +193,12 @@
   {
    "code": "5700183626",
    "reward": "the Blood Splash Kill Sound Effect"
+  },
+  {
+   "code": "8233569802",
+   "reward": "the Ara Ara Kill Sound Effect"
   }
  ],
- "updated": "2026-11-15T13:51:39.356Z",
+ "updated": "2026-11-18T00:54:27.340Z",
  "source": "https://robloxden.com/game-codes/project-viltrumites"
 }

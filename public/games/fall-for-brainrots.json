@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "3NEWZONES",
+   "reward": "50 Admin Coins and a Galaxy Cappuccino Assassino"
+  },
+  {
    "code": "HALLOWEENUPDATE",
    "reward": "15,000 Barrier Tokens , 100 Admin Coins , 2 Spins , 1 Forty-One Lucky "
   },
@@ -55,10 +59,6 @@
    "reward": "35,000 Barrier Tokens , 250 Admin Coins , 5 Spins , 3 67 Lucky Blocks "
   },
   {
-   "code": "3NEWZONES",
-   "reward": "50 Admin Coins and a Galaxy Cappuccino Assassino"
-  },
-  {
    "code": "BUFFUPDATE",
    "reward": "7.5K Barrier Tokens, 50 Admin Tokens, 2 Spins, 1 67 Lucky Block and 10"
   },
@@ -83,6 +83,6 @@
    "reward": "1M Money , 1M Fall Speed , 30k Barrier Tokens , 100 Admin Coins , 5 Sp"
   }
  ],
- "updated": "2026-11-15T22:45:34.728Z",
+ "updated": "2026-11-18T01:03:09.968Z",
  "source": "https://robloxden.com/game-codes/fall-for-brainrots"
 }

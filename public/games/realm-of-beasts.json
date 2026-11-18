@@ -29,8 +29,16 @@
   {
    "code": "CAM_HELP",
    "reward": "2K Gold"
+  },
+  {
+   "code": "THEREDANDGOLD",
+   "reward": "2,500 Gold"
+  },
+  {
+   "code": "THANKYOUALL",
+   "reward": "3,000 Gold"
   }
  ],
- "updated": "2026-11-15T13:50:46.845Z",
+ "updated": "2026-11-18T00:53:26.480Z",
  "source": "https://robloxden.com/game-codes/realm-of-beasts"
 }

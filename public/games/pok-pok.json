@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "250 Cash"
+  },
+  {
+   "code": "PORK",
+   "reward": "a Pork Tree Seed"
+  },
+  {
+   "code": "CHICKEN",
+   "reward": "a Chicken Tree Seed"
+  },
+  {
+   "code": "250Play",
+   "reward": "250 Golden Papaya Seeds"
   }
  ],
- "updated": "2026-11-15T13:49:51.208Z",
+ "updated": "2026-11-18T00:52:22.802Z",
  "source": "https://robloxden.com/game-codes/pok-pok"
 }

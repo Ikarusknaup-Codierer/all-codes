@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPSIDEDOWN",
+   "reward": "25 Corrupted Berry"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "25 Spooky Pumpkins"
   },
@@ -87,6 +91,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-11-15T13:50:53.735Z",
+ "updated": "2026-11-18T00:53:35.311Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

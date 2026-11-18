@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NEWCOSMETIC2",
+   "reward": "2 Relic Chests"
+  },
+  {
+   "code": "HAPPYHALLOW",
+   "reward": "10 Halloween Tokens"
+  },
+  {
    "code": "RETRO2",
    "reward": "1 Relic and 1 Chibi Chest"
   },
@@ -119,6 +127,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-11-15T13:50:00.028Z",
+ "updated": "2026-11-18T00:52:32.634Z",
  "source": "https://robloxden.com/game-codes/youtuber-card-collection"
 }

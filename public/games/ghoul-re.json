@@ -7,12 +7,20 @@
    "reward": "Description"
   },
   {
-   "code": "AnInternWasHarmedForThis",
-   "reward": "250 Ghoul Points"
-  },
-  {
    "code": "EunheeUpdate2",
    "reward": "GP"
+  },
+  {
+   "code": "EunheeUpdate3",
+   "reward": "1K GP"
+  },
+  {
+   "code": "EunheeRE",
+   "reward": "500 GP and 150,000 Ryo"
+  },
+  {
+   "code": "AnInternWasHarmedForThis",
+   "reward": "250 Ghoul Points"
   },
   {
    "code": "EunheesBlessing",
@@ -79,32 +87,12 @@
    "reward": "501 GP"
   },
   {
-   "code": "yonsicode",
-   "reward": "1,000 Ghoul Points"
-  },
-  {
-   "code": "holyclans",
-   "reward": "Clan Reroll"
-  },
-  {
-   "code": "Ginkui",
-   "reward": "1,000 GP"
-  },
-  {
-   "code": "sneakcode",
-   "reward": "500 GP"
-  },
-  {
-   "code": "Zebizu",
-   "reward": "5 Clan Rerolls"
-  },
-  {
-   "code": "giveghoulssomelove",
-   "reward": "5 Kagune Rerolls"
-  },
-  {
    "code": "bugfix",
    "reward": "499 GP"
+  },
+  {
+   "code": "yonsicode",
+   "reward": "1,000 Ghoul Points"
   },
   {
    "code": "ogghoulre1",
@@ -125,6 +113,10 @@
   {
    "code": "justthisweek",
    "reward": "1,000 GP"
+  },
+  {
+   "code": "holyclans",
+   "reward": "Clan Reroll"
   },
   {
    "code": "rotten",
@@ -177,6 +169,22 @@
   {
    "code": "Databug",
    "reward": "2,000 Ghoul Points"
+  },
+  {
+   "code": "Ginkui",
+   "reward": "1,000 GP"
+  },
+  {
+   "code": "sneakcode",
+   "reward": "500 GP"
+  },
+  {
+   "code": "Zebizu",
+   "reward": "5 Clan Rerolls"
+  },
+  {
+   "code": "giveghoulssomelove",
+   "reward": "5 Kagune Rerolls"
   },
   {
    "code": "Welcomebackhomelorn",
@@ -263,6 +271,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-11-15T13:46:28.832Z",
+ "updated": "2026-11-18T00:48:49.106Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

@@ -31,10 +31,6 @@
    "reward": "1 Mythical Chest"
   },
   {
-   "code": "BIGOPUS",
-   "reward": "1 Nightmare Bloodcore Egg"
-  },
-  {
    "code": "PXPVEF",
    "reward": "10 Super Pear and 3 Celestial Genesis Fruit"
   },
@@ -51,10 +47,6 @@
    "reward": "1 Mythical Chest"
   },
   {
-   "code": "NEXA",
-   "reward": "a Star Lantern Egg"
-  },
-  {
    "code": "STELLAWOLF",
    "reward": "Task Points"
   },
@@ -69,6 +61,10 @@
   {
    "code": "cam",
    "reward": "3 Small XP Potions and 3 Small Coin Potions"
+  },
+  {
+   "code": "berserker",
+   "reward": "1 Martial Bear Egg"
   },
   {
    "code": "Eventb",
@@ -111,6 +107,14 @@
    "reward": "5,000 Twirly Coins"
   },
   {
+   "code": "BIGOPUS",
+   "reward": "1 Nightmare Bloodcore Egg"
+  },
+  {
+   "code": "NEXA",
+   "reward": "a Star Lantern Egg"
+  },
+  {
    "code": "VORTUR",
    "reward": "2,000 Wanderer’s Coins and 2 Splash Isle Rifts III"
   },
@@ -131,6 +135,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-11-15T13:48:34.145Z",
+ "updated": "2026-11-18T00:50:59.710Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

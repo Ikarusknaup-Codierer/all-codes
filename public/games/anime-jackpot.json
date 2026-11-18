@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "EXPEDITION",
+   "reward": "10,000 Stars"
+  },
+  {
    "code": "ETHERAL",
    "reward": "5 Weather Potions"
   },
@@ -59,6 +63,6 @@
    "reward": "3,000 Stars"
   }
  ],
- "updated": "2026-11-15T22:40:29.187Z",
+ "updated": "2026-11-18T00:57:39.526Z",
  "source": "https://robloxden.com/game-codes/anime-jackpot"
 }

@@ -7,6 +7,50 @@
    "reward": "Description"
   },
   {
+   "code": "Scorch",
+   "reward": "5 Volcano Eggs"
+  },
+  {
+   "code": "ReDungeon",
+   "reward": "5 Master Tickets"
+  },
+  {
+   "code": "PayBackTime",
+   "reward": "5 Blooming Hourglasses"
+  },
+  {
+   "code": "GoldDigger",
+   "reward": "15,000,000 Coins"
+  },
+  {
+   "code": "Sorry",
+   "reward": "1 Shiny MuQueen SSS"
+  },
+  {
+   "code": "BloodBoil",
+   "reward": "30 Bloodline Rerolls"
+  },
+  {
+   "code": "MrLordy2x",
+   "reward": "20 Pink Eggs"
+  },
+  {
+   "code": "CashBack",
+   "reward": "10 Gold Potions"
+  },
+  {
+   "code": "BuildReady",
+   "reward": "30 Gorgeous Fruits and 20 Miracle Birth Fruits"
+  },
+  {
+   "code": "MRLordy",
+   "reward": "10 Pink Eggs"
+  },
+  {
+   "code": "Booooost",
+   "reward": "5 Exp Potions , 5 Mutation Potions , 5 Luck Potions , and 5 Gold Potio"
+  },
+  {
    "code": "WERESOBACK",
    "reward": "3 Dragon Scales and 2 Miracle Birth Fruits"
   },
@@ -83,6 +127,6 @@
    "reward": "a Solitude Crystal"
   }
  ],
- "updated": "2026-11-15T13:49:06.429Z",
+ "updated": "2026-11-18T00:51:33.227Z",
  "source": "https://robloxden.com/game-codes/blox-monsters"
 }

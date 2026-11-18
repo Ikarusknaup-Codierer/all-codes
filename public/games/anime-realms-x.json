@@ -7,14 +7,82 @@
    "reward": "Description"
   },
   {
-   "code": "50KLIKES",
-   "reward": "Free Rewards"
+   "code": "HalloweenBugsPatch",
+   "reward": "500 Gems , 1,500 Candy , and 5 Trait Rerolls . For level 5+ only"
   },
   {
-   "code": "SorryGuys!",
-   "reward": "Free Rewards"
+   "code": "HALLOWEENSPECIAL",
+   "reward": "1,500 Gems , 5,000 Candy , 15 Trait Rerolls , and 5 Stat Cubes"
+  },
+  {
+   "code": "HALLOWEENDELAY",
+   "reward": "1,000 Gems , 5,000 Candy , 10 Trait Rerolls , and 15,000 Gold"
+  },
+  {
+   "code": "HALLOWEENUPDATE",
+   "reward": "500 Gems , 2,500 Candy , 5 Trait Rerolls , and 5 Perfect Stat Cubes"
+  },
+  {
+   "code": "Sorry4Delay",
+   "reward": "500 Gems and 10 Trait Rerolls . For level 5+ only"
+  },
+  {
+   "code": "HalloweenUpdateSoon",
+   "reward": "500 Gems and 10 Trait Rerolls . For level 5+ only"
+  },
+  {
+   "code": "SmallQOLUpdate",
+   "reward": "500 Gems and 10 Trait Reroll Tokens . For level 10+ only"
+  },
+  {
+   "code": "SundayBugsPatch",
+   "reward": "500 Gems and 10 Trait Rerolls . For level 10+ only"
+  },
+  {
+   "code": "AddedAutoPlay",
+   "reward": "500 Gems and 10 Trait Rerolls . For level 5+ only"
+  },
+  {
+   "code": "SorryForShutdown3",
+   "reward": "500 Gems and 10 Trait Rerolls . For level 5+ only"
+  },
+  {
+   "code": "SorryForShutdown2",
+   "reward": "750 Gems , 10 Trait Rerolls , and 5 Stat Cubes . For level 5+ only"
+  },
+  {
+   "code": "SorryForShutdown",
+   "reward": "500 Gems and 5 Trait Rerolls . For level 5+ only"
+  },
+  {
+   "code": "ReleaseDelay",
+   "reward": "1,000 Gems and 10 Trait Rerolls"
+  },
+  {
+   "code": "ReleaseHype",
+   "reward": "1,000 Gems , 10 Trait Rerolls , and 1,500 Gold"
+  },
+  {
+   "code": "Release",
+   "reward": "1,000 Gems and 10 Trait Rerolls"
+  },
+  {
+   "code": "SummonBugFixed",
+   "reward": "3,000 Gems and 5 Trait Rerolls . For Early Access players only"
+  },
+  {
+   "code": "EarlyAccess",
+   "reward": "1,500 Gems , 25 Trait Rerolls , 5 Stat Cubes , and 5 Perfect Stat Cube"
+  },
+  {
+   "code": "ANIMEWARLORDS",
+   "reward": "100 Gems , 1,500 Yen , 1 Damage Potion , and 1 Luck Potion"
+  },
+  {
+   "code": "POTIONSCODE",
+   "reward": "100 Gems , 1,000 Yen , 2 Luck Potions , 2 Damage Potions , and 2 Yen P"
   }
  ],
- "updated": "2026-11-15T22:44:55.934Z",
+ "updated": "2026-11-18T01:02:20.680Z",
  "source": "https://robloxden.com/game-codes/anime-realms-x"
 }

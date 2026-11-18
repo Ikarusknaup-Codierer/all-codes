@@ -19,20 +19,8 @@
    "reward": "45 Shards"
   },
   {
-   "code": "EA_SILVER",
-   "reward": "1,500 Shards and 5 Cases . You must have the Content Creator Role to u"
-  },
-  {
-   "code": "EA_GOLD",
-   "reward": "4,000 Shards , 10 Cases , and a Serialized Hammer . You must have the "
-  },
-  {
    "code": "EA_CC",
    "reward": "1,500 Shards and 5 Cases . You must have the Content Creator Role to u"
-  },
-  {
-   "code": "EA_BRONZE",
-   "reward": "500 Shards and 2 Cases . You must have the Content Creator Role to use"
   },
   {
    "code": "25KLIKES",
@@ -65,8 +53,20 @@
   {
    "code": "Roblox20",
    "reward": "1 Foundry Crate"
+  },
+  {
+   "code": "EA_SILVER",
+   "reward": "1,500 Shards and 5 Cases . You must have the Content Creator Role to u"
+  },
+  {
+   "code": "EA_GOLD",
+   "reward": "4,000 Shards , 10 Cases , and a Serialized Hammer . You must have the "
+  },
+  {
+   "code": "EA_BRONZE",
+   "reward": "500 Shards and 2 Cases . You must have the Content Creator Role to use"
   }
  ],
- "updated": "2026-11-15T22:46:21.374Z",
+ "updated": "2026-11-18T01:04:03.085Z",
  "source": "https://robloxden.com/game-codes/killstreak-rins"
 }

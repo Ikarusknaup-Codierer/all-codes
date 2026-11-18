@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Boo",
-   "reward": "5 Power Rolls"
-  },
-  {
-   "code": "CandyCorn",
-   "reward": "5 Power Rolls"
-  },
-  {
    "code": "BFFs",
    "reward": "10 Power Rolls"
   },
@@ -407,14 +399,18 @@
    "reward": "10x Luck Potion III"
   },
   {
+   "code": "Boo",
+   "reward": "5 Power Rolls"
+  },
+  {
    "code": "TrickOrTreat",
    "reward": "5 Power Rolls"
   },
   {
-   "code": "bloodmoon",
-   "reward": "Bloodmoon Blitzo"
+   "code": "CandyCorn",
+   "reward": "5 Power Rolls"
   }
  ],
- "updated": "2026-11-15T13:52:48.506Z",
+ "updated": "2026-11-18T00:55:43.420Z",
  "source": "https://robloxden.com/game-codes/hazbin-hotel-hells-fortune"
 }

@@ -223,6 +223,10 @@
    "reward": "+1 Luck Boost (2 minutes)"
   },
   {
+   "code": "easter",
+   "reward": "3 Item Lootboxes And 34 Easter Eggs"
+  },
+  {
    "code": "fish",
    "reward": "A Void Potion"
   },
@@ -231,6 +235,6 @@
    "reward": "2 Super Roll"
   }
  ],
- "updated": "2026-11-16T05:50:30.942Z",
+ "updated": "2026-11-19T00:09:01.783Z",
  "source": "https://robloxden.com/game-codes/anime-training-rng"
 }

@@ -9,8 +9,12 @@
   {
    "code": "UPDATE1",
    "reward": "a Wheel Spin and a 1.5x Speed Boost (10 Minutes)"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "a Wheel Spin"
   }
  ],
- "updated": "2026-11-16T05:45:04.933Z",
+ "updated": "2026-11-19T00:04:49.158Z",
  "source": "https://robloxden.com/game-codes/license-plate-generator"
 }

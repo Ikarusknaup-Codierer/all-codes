@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "BONUS10",
+   "reward": "an additional 10% coins on your next coin purchase"
+  },
+  {
    "code": "HALLOWEEN2",
    "reward": "100 Candies"
+  },
+  {
+   "code": "85KLIKES",
+   "reward": "2 Epic Packs"
   },
   {
    "code": "TY100KLIKES",
@@ -23,18 +31,10 @@
    "reward": "2 Epic Packs"
   },
   {
-   "code": "BONUS10",
-   "reward": "an additional 10% coins on your next coin purchase"
-  },
-  {
    "code": "BETA",
    "reward": "5 Epic Packs"
-  },
-  {
-   "code": "85KLIKES",
-   "reward": "2 Epic Packs"
   }
  ],
- "updated": "2026-11-16T15:20:20.379Z",
+ "updated": "2026-11-19T00:12:03.059Z",
  "source": "https://robloxden.com/game-codes/turbo-soccer"
 }

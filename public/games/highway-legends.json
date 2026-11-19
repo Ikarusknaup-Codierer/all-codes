@@ -27,10 +27,6 @@
    "reward": "45,070 Cash"
   },
   {
-   "code": "8mfavorites",
-   "reward": "45,140 Cash"
-  },
-  {
    "code": "1millionmembers",
    "reward": "45,070 Cash"
   },
@@ -61,6 +57,10 @@
   {
    "code": "120mvisits",
    "reward": "45K Cash"
+  },
+  {
+   "code": "8mfavorites",
+   "reward": "45,140 Cash"
   },
   {
    "code": "200klikes",
@@ -103,6 +103,6 @@
    "reward": "30,000 Cash"
   }
  ],
- "updated": "2026-11-16T15:24:45.216Z",
+ "updated": "2026-11-19T00:16:06.761Z",
  "source": "https://robloxden.com/game-codes/highway-legends"
 }

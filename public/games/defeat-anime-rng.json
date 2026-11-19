@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "upd12luck",
+   "reward": "a Double Luck Boost (1) Hour"
+  },
+  {
+   "code": "upd12gold",
+   "reward": "a Double Gold Boost (3) Hours"
+  },
+  {
+   "code": "cyberpunk",
+   "reward": "50 Star Shards"
+  },
+  {
+   "code": "choom",
+   "reward": "250 Trait Shards"
+  },
+  {
+   "code": "nightcity",
+   "reward": "300 Trait Shards"
+  },
+  {
    "code": "upd11luck",
    "reward": "the x2 Luck Boost (113 Minutes)"
   },
@@ -179,6 +199,6 @@
    "reward": "50 Trait Shards"
   }
  ],
- "updated": "2026-11-16T15:19:57.008Z",
+ "updated": "2026-11-19T00:11:40.530Z",
  "source": "https://robloxden.com/game-codes/defeat-anime-rng"
 }

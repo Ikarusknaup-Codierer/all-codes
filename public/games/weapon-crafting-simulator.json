@@ -47,14 +47,14 @@
    "reward": "Flaming Pupkin Pet"
   },
   {
-   "code": "RELEASE",
-   "reward": "15-Minute Damage Booster"
-  },
-  {
    "code": "IsThatAFreePet",
    "reward": "Angry Marshmallow Pet"
+  },
+  {
+   "code": "Holy",
+   "reward": "Holy Cat Pet"
   }
  ],
- "updated": "2026-11-16T05:48:20.755Z",
+ "updated": "2026-11-19T00:06:35.451Z",
  "source": "https://robloxden.com/game-codes/weapon-crafting-simulator"
 }

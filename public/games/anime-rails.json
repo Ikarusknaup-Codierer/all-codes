@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HARDCORE",
+   "reward": "600 Cash"
+  },
+  {
    "code": "FINALFORM",
    "reward": "300 Cash"
   },
@@ -59,6 +63,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-11-16T05:48:16.193Z",
+ "updated": "2026-11-19T00:06:30.491Z",
  "source": "https://robloxden.com/game-codes/anime-rails"
 }

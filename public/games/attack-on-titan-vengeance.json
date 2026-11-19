@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "16000Likes!",
-   "reward": "2,500 Gold, Rolls, And Loot Boxes"
-  },
-  {
    "code": "14000Likes!",
    "reward": "2,500 Gold, Rolls, And Loot Boxes"
   },
@@ -149,8 +145,12 @@
   {
    "code": "18000Likes!",
    "reward": "2,500 Gold And Loot Boxes"
+  },
+  {
+   "code": "16000Likes!",
+   "reward": "2,500 Gold, Rolls, And Loot Boxes"
   }
  ],
- "updated": "2026-11-16T15:19:48.158Z",
+ "updated": "2026-11-19T00:11:31.527Z",
  "source": "https://robloxden.com/game-codes/attack-on-titan-vengeance"
 }

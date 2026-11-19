@@ -7,7 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE74",
+   "code": "HALLOWEEN2026",
+   "reward": "25,000 Cash"
+  },
+  {
+   "code": "270KLIKES",
+   "reward": "25,000 Cash"
+  },
+  {
+   "code": "UPDATE79",
    "reward": "25,000 Cash"
   },
   {
@@ -15,6 +23,6 @@
    "reward": "Cash"
   }
  ],
- "updated": "2026-11-16T05:47:55.143Z",
+ "updated": "2026-11-19T00:06:10.048Z",
  "source": "https://robloxden.com/game-codes/car-zone"
 }

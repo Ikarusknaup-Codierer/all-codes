@@ -15,14 +15,18 @@
    "reward": "1,000 Cash"
   },
   {
-   "code": "supergame",
-   "reward": "1,000 Coins"
+   "code": "OnceCommonCrate",
+   "reward": "A Free Common Crate"
   },
   {
-   "code": "mysterygift",
-   "reward": "1 Likes Box"
+   "code": "coolskin",
+   "reward": "1 Skin"
+  },
+  {
+   "code": "betterfuture",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-11-16T15:23:37.918Z",
+ "updated": "2026-11-19T00:15:15.240Z",
  "source": "https://robloxden.com/game-codes/hide-and-sneak"
 }

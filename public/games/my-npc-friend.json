@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "NPCSPAWN",
-   "reward": "100 Silver Tickets"
+   "code": "35KLIKES",
+   "reward": "50 Silver Tickets"
   },
   {
-   "code": "CyclopsSoulMine!",
-   "reward": "Rewards"
+   "code": "NPCSPAWN",
+   "reward": "100 Silver Tickets"
   },
   {
    "code": "OneMoreWeek!",
@@ -27,6 +27,6 @@
    "reward": "50 Silver Tickets"
   }
  ],
- "updated": "2026-11-16T05:49:50.563Z",
+ "updated": "2026-11-19T00:08:14.835Z",
  "source": "https://robloxden.com/game-codes/my-npc-friend"
 }

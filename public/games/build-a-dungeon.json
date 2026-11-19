@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FINALLYUPDATED",
+   "reward": "30,000 Gold , 30,000 Souls , 5 Coin Booster , 5 Soul Booster , 5 Moral"
+  },
+  {
    "code": "GUILDS",
    "reward": "10,000 Coins and 3,000 Dark Souls"
   },
@@ -21,16 +25,8 @@
   {
    "code": "LABYRINTH",
    "reward": "3 Soul Booster Potions , Coins , and Dark Souls"
-  },
-  {
-   "code": "100KVISITS!",
-   "reward": "1 Soul Booster Potion and 100 Souls"
-  },
-  {
-   "code": "FINALLYUPDATED",
-   "reward": "30,000 Gold , 30,000 Souls , 5 Coin Booster , 5 Soul Booster , 5 Moral"
   }
  ],
- "updated": "2026-11-16T15:22:36.840Z",
+ "updated": "2026-11-19T00:14:19.718Z",
  "source": "https://robloxden.com/game-codes/build-a-dungeon"
 }

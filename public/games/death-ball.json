@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "HAPPYHALLOWEEN",
-   "reward": "50,000 Gems"
-  },
-  {
    "code": "WITCHES",
    "reward": "30,000 Gems"
-  },
-  {
-   "code": "SOULS",
-   "reward": "50,000 Gems"
   },
   {
    "code": "MULTIUNBOX",
@@ -31,10 +23,18 @@
    "reward": "40,000 Gems"
   },
   {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "50,000 Gems"
+  },
+  {
+   "code": "SOULS",
+   "reward": "50,000 Gems"
+  },
+  {
    "code": "JESTER",
    "reward": "50,000 Gems"
   }
  ],
- "updated": "2026-11-16T15:22:00.482Z",
+ "updated": "2026-11-19T00:13:43.526Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

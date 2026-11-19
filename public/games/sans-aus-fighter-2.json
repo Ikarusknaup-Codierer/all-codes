@@ -11,10 +11,6 @@
    "reward": "6,767 EXP and 67 Gold"
   },
   {
-   "code": "Sub2Unrel",
-   "reward": "100 Experience"
-  },
-  {
    "code": "Sub2Benti",
    "reward": "100 Experience"
   },
@@ -45,8 +41,12 @@
   {
    "code": "freegold",
    "reward": "25 Gold"
+  },
+  {
+   "code": "Sub2Unrel",
+   "reward": "100 Experience"
   }
  ],
- "updated": "2026-11-16T05:46:19.480Z",
+ "updated": "2026-11-19T00:05:05.602Z",
  "source": "https://robloxden.com/game-codes/sans-aus-fighter-2"
 }

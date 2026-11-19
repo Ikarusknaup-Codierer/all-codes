@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "UTTVM",
+   "reward": "the 50 Coins"
+  },
+  {
+   "code": "PathOfHonor",
+   "reward": "the 50 Coins"
+  },
+  {
    "code": "UTCM",
    "reward": "50 Coins"
   },
@@ -43,6 +51,6 @@
    "reward": "50 Coins"
   }
  ],
- "updated": "2026-11-16T15:23:25.165Z",
+ "updated": "2026-11-19T00:15:04.235Z",
  "source": "https://robloxden.com/game-codes/cameraman-tower-defense"
 }

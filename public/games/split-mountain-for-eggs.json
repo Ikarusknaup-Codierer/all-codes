@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPD1",
+   "reward": "Cash Potion"
+  },
+  {
    "code": "UPD3",
    "reward": "1 Cash Potion"
   },
@@ -19,6 +23,6 @@
    "reward": "1 Bat Pet"
   }
  ],
- "updated": "2026-11-16T15:33:06.178Z",
+ "updated": "2026-11-19T15:37:11.059Z",
  "source": "https://robloxden.com/game-codes/split-mountain-for-eggs"
 }

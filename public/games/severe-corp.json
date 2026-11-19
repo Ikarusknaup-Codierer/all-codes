@@ -7,14 +7,38 @@
    "reward": "Description"
   },
   {
-   "code": "600k",
-   "reward": "Free Rewards"
+   "code": "BligitoIdles",
+   "reward": "30 S-Tokens and 3,000 Gold"
+  },
+  {
+   "code": "CodeThatKillsYou",
+   "reward": "Death"
+  },
+  {
+   "code": "IsItTooLateForHalloween",
+   "reward": "15 Legendite , 40 S-Tokens , and 1,225 Gold"
+  },
+  {
+   "code": "SevenFragments",
+   "reward": "7 Legendites , 7 S-Tokens , 7 Rubies , and 7 Gold"
+  },
+  {
+   "code": "TakeAndGive",
+   "reward": "40 Legendites and 10 S-Tokens"
+  },
+  {
+   "code": "TrickOrTreat",
+   "reward": "10 S-Tokens and 1,000 Gold"
   },
   {
    "code": "WaitUnexpectedLong",
    "reward": "15 Legendites and 1,590 Gold"
+  },
+  {
+   "code": "GiantsMauler",
+   "reward": "5 Legendites , 5 Rubies , and 1,400 Gold"
   }
  ],
- "updated": "2026-11-17T01:54:28.970Z",
+ "updated": "2026-11-19T15:45:02.341Z",
  "source": "https://robloxden.com/game-codes/severe-corp"
 }

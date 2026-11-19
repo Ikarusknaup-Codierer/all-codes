@@ -11,6 +11,10 @@
    "reward": "x2 EXP (60 Minutes) , x2 Gems (60 Minutes) , x2 Coins (60 Minutes) , a"
   },
   {
+   "code": "fftdx2",
+   "reward": "x2 EXP boost , x2 Gems boost , x2 Coins boost , and 200 Gems"
+  },
+  {
    "code": "nightmare",
    "reward": "Freebies"
   },
@@ -19,14 +23,10 @@
    "reward": "Freebies"
   },
   {
-   "code": "memory",
-   "reward": "Freebies"
-  },
-  {
    "code": "thief",
    "reward": "Freebies"
   }
  ],
- "updated": "2026-11-16T15:23:38.638Z",
+ "updated": "2026-11-19T15:31:57.811Z",
  "source": "https://robloxden.com/game-codes/foodie-frenzy-tower-defense"
 }

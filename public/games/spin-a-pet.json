@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "10KMEMBERS",
+   "reward": "25 Gems , 5 Trait Rerolls , 2 Jackpot Spins , and 2 Luck Potion III"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "15 Gems , 3 Trait Rerolls , an Jackpot Spin , and a Glitch Dice"
+  },
+  {
    "code": "FUSION",
    "reward": "rewards"
   },
@@ -15,6 +23,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-11-17T01:54:19.913Z",
+ "updated": "2026-11-19T15:44:51.932Z",
  "source": "https://robloxden.com/game-codes/spin-a-pet"
 }

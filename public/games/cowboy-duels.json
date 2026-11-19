@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SEASONPASS",
-   "reward": "+1 Battle Pass Tier"
-  },
-  {
-   "code": "TOXIC",
-   "reward": "500 Cash"
-  },
-  {
    "code": "PIRATE",
    "reward": "1,000 Coins"
   },
@@ -27,10 +19,18 @@
    "reward": "500 Cash"
   },
   {
+   "code": "SEASONPASS",
+   "reward": "+1 Battle Pass Tier"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "+1 Halloween Pass Tier"
+  },
+  {
+   "code": "TOXIC",
+   "reward": "500 Cash"
   }
  ],
- "updated": "2026-11-17T01:49:50.508Z",
+ "updated": "2026-11-19T15:40:57.842Z",
  "source": "https://robloxden.com/game-codes/cowboy-duels"
 }

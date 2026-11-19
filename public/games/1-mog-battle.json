@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "PIRATES",
+   "reward": "5 Wheel Spins"
+  },
+  {
+   "code": "NINJA",
+   "reward": "2x Mog Boost (10 Minutes)"
+  },
+  {
+   "code": "MOREWINS",
+   "reward": "2x Wins Boost (10 Minutes)"
+  },
+  {
+   "code": "WORLD3",
+   "reward": "2x Mog Boost (10 Minutes)"
+  },
+  {
+   "code": "ALIEN",
+   "reward": "a Tech Backpack"
+  },
+  {
+   "code": "WORLD2",
+   "reward": "2x Mog Boost (10 Minutes)"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "2x Mog Boost (10 Minutes) and 2x Wins Boost (10 Minutes)"
   }
  ],
- "updated": "2026-11-17T01:54:20.389Z",
+ "updated": "2026-11-19T15:44:52.496Z",
  "source": "https://robloxden.com/game-codes/1-mog-battle"
 }

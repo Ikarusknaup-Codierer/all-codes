@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "RELEASE",
+   "reward": "3.5K Cash"
+  },
+  {
+   "code": "CUSTOM",
+   "reward": "25,000 Cash , 7,500 XP and 50 Data"
+  },
+  {
    "code": "TERMINATOR",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-17T01:54:24.086Z",
+ "updated": "2026-11-19T15:44:56.846Z",
  "source": "https://robloxden.com/game-codes/stormbound"
 }

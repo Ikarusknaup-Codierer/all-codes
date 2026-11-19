@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BadlandsLaunch",
-   "reward": "1 Badlands Ticket (Solo)"
-  },
-  {
    "code": "BadlandsVIP",
    "reward": "1 Badlands Ticket (Party) . You must have the Testing Realm gamepass t"
   },
@@ -75,14 +71,14 @@
    "reward": "Stat Reset"
   },
   {
-   "code": "Winter2023",
-   "reward": "10 Cookie Tokens"
+   "code": "BadlandsLaunch",
+   "reward": "1 Badlands Ticket (Solo)"
   },
   {
    "code": "cactus",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-16T15:25:09.324Z",
+ "updated": "2026-11-19T15:33:16.102Z",
  "source": "https://robloxden.com/game-codes/vesteria"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PASSWORD123",
+   "reward": "2x Wins Boost (5 Minutes , 2x Power Boost (5 Minutes) , 2x Tokens Boos"
+  },
+  {
+   "code": "LUCKYWORLD13",
+   "reward": "2 Admin Egg and 5x Luck Boost (5 Minutes)"
+  },
+  {
    "code": "YESWORLD12",
    "reward": "the an Admin Egg and a x5 Power Boost (5 Minutes)"
   },
@@ -71,6 +79,6 @@
    "reward": "1 Admin Egg"
   }
  ],
- "updated": "2026-11-17T01:48:00.372Z",
+ "updated": "2026-11-19T15:38:59.679Z",
  "source": "https://robloxden.com/game-codes/superhero-evolution"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "1,000 Bat Tokens"
+  },
+  {
    "code": "LUV",
    "reward": "500 Heart Tokens"
   },
@@ -55,6 +59,6 @@
    "reward": "the Tec-9 Weapon"
   }
  ],
- "updated": "2026-11-17T01:47:57.585Z",
+ "updated": "2026-11-19T15:38:56.625Z",
  "source": "https://robloxden.com/game-codes/flag-wars"
 }

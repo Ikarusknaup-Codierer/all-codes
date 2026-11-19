@@ -7,16 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "gs3305",
-   "reward": "12 Beast Cells"
-  },
-  {
-   "code": "BEASTWALKER",
-   "reward": "3 Beast Cells"
-  },
-  {
-   "code": "2K",
-   "reward": "12 Beast Cells"
+   "code": "kaijuawaken",
+   "reward": "Beast Cells"
   },
   {
    "code": "NO10",
@@ -25,8 +17,16 @@
   {
    "code": "FIXINGIT",
    "reward": "12 Beast Cells"
+  },
+  {
+   "code": "NARUMI",
+   "reward": "6 Beast Cells"
+  },
+  {
+   "code": "06D",
+   "reward": "6 Beast Cells"
   }
  ],
- "updated": "2026-11-17T01:48:34.577Z",
+ "updated": "2026-11-19T15:39:35.919Z",
  "source": "https://robloxden.com/game-codes/beast-force"
 }

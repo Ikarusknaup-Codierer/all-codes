@@ -7,23 +7,23 @@
    "reward": "Description"
   },
   {
-   "code": "AIRPORTUPD",
-   "reward": "1,500 Cash"
+   "code": "COPY",
+   "reward": "2,500 Cash"
   },
   {
-   "code": "UPDATE2",
-   "reward": "Cash"
+   "code": "UPDATE",
+   "reward": "Free Cash"
   },
   {
-   "code": "250LIKES",
-   "reward": "3K Cash"
+   "code": "5KLIKES",
+   "reward": "$5k Cash"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "5K Cash"
   },
   {
    "code": "JUNGLE",
-   "reward": "15,000 Cash"
-  },
-  {
-   "code": "EGYPT",
    "reward": "15,000 Cash"
   },
   {
@@ -31,6 +31,6 @@
    "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-11-17T01:55:42.987Z",
+ "updated": "2026-11-19T15:45:59.210Z",
  "source": "https://robloxden.com/game-codes/port-tycoon"
 }

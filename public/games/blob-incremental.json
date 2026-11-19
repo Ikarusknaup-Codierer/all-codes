@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "IAmAHiddenCode",
+   "reward": "25 Diamonds, 5 Tickets and 0.1x Orbs"
+  },
+  {
    "code": "Graveyardd",
    "reward": "500 Candies, 10 Diamonds, 10 Tickets and 0.1 Orb"
   },
@@ -83,6 +87,6 @@
    "reward": "2 Orbs Potions and 1 Stats Potion"
   }
  ],
- "updated": "2026-11-17T01:55:29.193Z",
+ "updated": "2026-11-19T15:45:52.433Z",
  "source": "https://robloxden.com/game-codes/blob-incremental"
 }

@@ -23,10 +23,6 @@
    "reward": "15 Spins"
   },
   {
-   "code": "deimos",
-   "reward": "5 Spins"
-  },
-  {
    "code": "100KCASH",
    "reward": "1 Spin"
   },
@@ -47,10 +43,14 @@
    "reward": "10x Spins"
   },
   {
+   "code": "deimos",
+   "reward": "5 Spins"
+  },
+  {
    "code": "thedoctorwillseeyousoon",
    "reward": "15 Spins"
   }
  ],
- "updated": "2026-11-16T15:24:43.204Z",
+ "updated": "2026-11-19T15:32:53.443Z",
  "source": "https://robloxden.com/game-codes/untitled-boxing-game"
 }

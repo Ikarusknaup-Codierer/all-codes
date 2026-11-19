@@ -15,10 +15,6 @@
    "reward": "Spooky Season Rewards"
   },
   {
-   "code": "STREAKS",
-   "reward": "1 Limited Time Crate"
-  },
-  {
    "code": "MEDIEVAL",
    "reward": "a 1 Limited Time Crate"
   },
@@ -39,32 +35,12 @@
    "reward": "1 Meter Crate"
   },
   {
-   "code": "LEGOAT",
-   "reward": "the LeGoat Shirt"
-  },
-  {
-   "code": "TRADEHUB",
-   "reward": "10,000 Trade Hub Currency"
-  },
-  {
-   "code": "WIZARD",
-   "reward": "a Limited Time Crate"
-  },
-  {
    "code": "BUZZCUT",
    "reward": "a Soccer Ball Buzz Cut"
   },
   {
    "code": "STARBANNER",
    "reward": "a Star Sprangled Banner"
-  },
-  {
-   "code": "HAPPY4TH!",
-   "reward": "10 Normal Badge Rolls"
-  },
-  {
-   "code": "ANIMEFX",
-   "reward": "an Anime Effects Crate"
   },
   {
    "code": "ICECREAM",
@@ -75,28 +51,12 @@
    "reward": "1 Summer VFX Crate"
   },
   {
-   "code": "CREWS",
-   "reward": "1x Instant Luck 4"
-  },
-  {
-   "code": "SHRUG",
-   "reward": "1 Legendary Shrug Emote"
-  },
-  {
-   "code": "TACOTIME",
-   "reward": "the Cinco De Mayo Jersey Shirt"
-  },
-  {
    "code": "TEETIME",
    "reward": "1 Exclusive Shirt"
   },
   {
    "code": "LUCKYSPIN",
    "reward": "1 Lucky Badge Reroll"
-  },
-  {
-   "code": "LAUNCH",
-   "reward": "1 Emote Crate"
   },
   {
    "code": "Release",
@@ -115,14 +75,6 @@
    "reward": "250 Coins"
   },
   {
-   "code": "4p0",
-   "reward": "250 Coins"
-  },
-  {
-   "code": "FREESPINS",
-   "reward": "3 Spins"
-  },
-  {
    "code": "4700Likes!",
    "reward": "300 Coins"
   },
@@ -139,8 +91,32 @@
    "reward": "1 Lucky Badge Roll"
   },
   {
+   "code": "STREAKS",
+   "reward": "1 Limited Time Crate"
+  },
+  {
    "code": "METERS",
    "reward": "1 Meter Crate"
+  },
+  {
+   "code": "LEGOAT",
+   "reward": "the LeGoat Shirt"
+  },
+  {
+   "code": "TRADEHUB",
+   "reward": "10,000 Trade Hub Currency"
+  },
+  {
+   "code": "WIZARD",
+   "reward": "a Limited Time Crate"
+  },
+  {
+   "code": "HAPPY4TH!",
+   "reward": "10 Normal Badge Rolls"
+  },
+  {
+   "code": "ANIMEFX",
+   "reward": "an Anime Effects Crate"
   },
   {
    "code": "BIRTHDAY",
@@ -153,8 +129,32 @@
   {
    "code": "DUPING",
    "reward": "New Years Confetti Green Animation"
+  },
+  {
+   "code": "CREWS",
+   "reward": "1x Instant Luck 4"
+  },
+  {
+   "code": "SHRUG",
+   "reward": "1 Legendary Shrug Emote"
+  },
+  {
+   "code": "TACOTIME",
+   "reward": "the Cinco De Mayo Jersey Shirt"
+  },
+  {
+   "code": "LAUNCH",
+   "reward": "1 Emote Crate"
+  },
+  {
+   "code": "4p0",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "FREESPINS",
+   "reward": "3 Spins"
   }
  ],
- "updated": "2026-11-16T15:25:34.412Z",
+ "updated": "2026-11-19T15:33:40.331Z",
  "source": "https://robloxden.com/game-codes/arcade-basketball"
 }

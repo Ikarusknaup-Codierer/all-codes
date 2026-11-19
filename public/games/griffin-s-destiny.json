@@ -11,10 +11,6 @@
    "reward": "Anubis Mask"
   },
   {
-   "code": "EASTERCHOCOLATE",
-   "reward": "Pink Bunny Item"
-  },
-  {
    "code": "LOVELYEASTER",
    "reward": "Easter Skirt Accessory"
   },
@@ -25,8 +21,12 @@
   {
    "code": "babygriffplush",
    "reward": "Griff Baby Plush and Baby Griffin Accessory"
+  },
+  {
+   "code": "100klikes",
+   "reward": "Bright Butterfly Wings"
   }
  ],
- "updated": "2026-11-16T15:32:58.398Z",
+ "updated": "2026-11-19T15:37:03.213Z",
  "source": "https://robloxden.com/game-codes/griffin-s-destiny"
 }

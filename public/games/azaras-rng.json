@@ -23,6 +23,10 @@
    "reward": "5 Blue Treasure Boxes, 15 Star Potions and 600 Fortune Potions"
   },
   {
+   "code": "Division3",
+   "reward": "3 Portion of Calamit, 30 Eternity Potion and Omega 15 Portion"
+  },
+  {
    "code": "Requiem",
    "reward": "3 Awakening Potions , an Omega Potion , and 100 Fortune Potions"
   },
@@ -53,10 +57,6 @@
   {
    "code": "TreasureHunt",
    "reward": "30 Star Potions, 12 Blue Treasure Boxes and 700 Fortune Potions"
-  },
-  {
-   "code": "Division3",
-   "reward": "3 Portion of Calamit, 30 Eternity Potion and Omega 15 Portion"
   },
   {
    "code": "NewMaps!",
@@ -165,16 +165,8 @@
   {
    "code": "2MVisits!!",
    "reward": "40 Starlight Potions 80 Star Potions and 10 Eternity Potions"
-  },
-  {
-   "code": "Thx100kVisits",
-   "reward": ""
-  },
-  {
-   "code": "OVER200REACTION",
-   "reward": "Misc. rewards"
   }
  ],
- "updated": "2026-11-16T15:32:30.103Z",
+ "updated": "2026-11-19T15:36:37.183Z",
  "source": "https://robloxden.com/game-codes/azaras-rng"
 }

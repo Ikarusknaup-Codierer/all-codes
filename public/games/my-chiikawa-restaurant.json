@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WELCOME",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "shutdown2",
+   "reward": "Rewards . Requires a 4-star restaurant and 2,000 dishes served"
+  },
+  {
    "code": "EARLYUPDATE",
    "reward": "Rewards . You must Reach day 10 and Serve 500 dishes to use this code"
   },
@@ -17,12 +25,8 @@
   {
    "code": "CHIKALLOWEEN",
    "reward": "2 Halloween Eggs and 2 Halloween Skin Packs"
-  },
-  {
-   "code": "WELCOME",
-   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-11-16T15:25:06.611Z",
+ "updated": "2026-11-19T15:33:13.275Z",
  "source": "https://robloxden.com/game-codes/my-chiikawa-restaurant"
 }

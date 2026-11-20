@@ -7,14 +7,30 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATECASH",
-   "reward": "5,000 Cash"
+   "code": "SPINS4YOU",
+   "reward": "9 Spins"
   },
   {
-   "code": "EMOTEROLLS",
-   "reward": "2 Emote Rolls"
+   "code": "EMOTES4YOU",
+   "reward": "3 Emote Rolls"
+  },
+  {
+   "code": "SKINS4YOU",
+   "reward": "3 Skin Rolls"
+  },
+  {
+   "code": "WHEEL4YOU",
+   "reward": "3 Daily Spins"
+  },
+  {
+   "code": "THANKS4PLAYING",
+   "reward": "1 Emote Roll"
+  },
+  {
+   "code": "PREPARE4UPDATE",
+   "reward": "3 Spins"
   }
  ],
- "updated": "2026-11-17T15:49:17.604Z",
+ "updated": "2026-11-20T00:38:43.227Z",
  "source": "https://robloxden.com/game-codes/survive-a-psycho"
 }

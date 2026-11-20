@@ -15,14 +15,6 @@
    "reward": "15,000 Money , 2 Epic Spins , and 1 Wheel Spin"
   },
   {
-   "code": "MightyOFA",
-   "reward": "5000 Cash, 1 Rare Spin and 1 Wheel Spin"
-  },
-  {
-   "code": "RollBack",
-   "reward": "1 Legendary Spin"
-  },
-  {
    "code": "RestoringHope",
    "reward": "Free Spins and Cash"
   },
@@ -49,8 +41,16 @@
   {
    "code": "CrimsonMimic",
    "reward": "1 Legendary Spin"
+  },
+  {
+   "code": "MightyOFA",
+   "reward": "5000 Cash, 1 Rare Spin and 1 Wheel Spin"
+  },
+  {
+   "code": "RollBack",
+   "reward": "1 Legendary Spin"
   }
  ],
- "updated": "2026-11-17T01:54:11.323Z",
+ "updated": "2026-11-20T00:32:47.037Z",
  "source": "https://robloxden.com/game-codes/heroes-world"
 }

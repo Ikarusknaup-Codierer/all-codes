@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "WEFIXBUGSALLDAY",
+   "reward": "200 Egocoins , 2 Lucky Flow Spins , 2 Lucky Rolls , and 4 Weapon Spins"
+  },
+  {
+   "code": "MOBILESUPERFIX",
+   "reward": "250 Egocoins , 3 Lucky Flow Spins , 3 Lucky Rolls , and 5 Weapon Spins"
+  },
+  {
+   "code": "OLDHALLOWEEN",
+   "reward": "200 Egocoins , 7 Flow Spins , and 7 Weapon Spins"
+  },
+  {
+   "code": "TWENTYFIVETHOUSANDLIKES",
+   "reward": "10 Lucky Flow Spins , 10 Flow Spins , 10 Weapon Spins , 30 Skill Point"
+  },
+  {
+   "code": "DELAYEDCOOLSORRY",
+   "reward": "150 Egocoins , 2 Lucky Flow Spins , and 3 Lucky Rolls"
+  },
+  {
    "code": "ONETHOUSANDCCUTHANKYOUSOMUCH",
    "reward": "9 Lucky Flow Spins, 15 Flow Spins, 15 Weapon Spins and 9 Lucky Rolls"
   },
@@ -31,6 +51,6 @@
    "reward": "15 Weapon Spins, 15 Flow Spins and 200 Egocoins"
   }
  ],
- "updated": "2026-11-17T01:50:55.838Z",
+ "updated": "2026-11-20T00:29:03.175Z",
  "source": "https://robloxden.com/game-codes/start-your-blue-lock-career"
 }

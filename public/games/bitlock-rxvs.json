@@ -13,8 +13,44 @@
   {
    "code": "STRIKER",
    "reward": "3 Weapon Rerolls"
+  },
+  {
+   "code": "EGOIST",
+   "reward": "150 BLP and 10 Training Skips"
+  },
+  {
+   "code": "STRONGEST",
+   "reward": "300 BLP , 5 Training Skips , and 2 Weapon Rerolls"
+  },
+  {
+   "code": "MIDFIELD",
+   "reward": "150 BLP , 5 Training Skips , and 1 Weapon Reroll"
+  },
+  {
+   "code": "3D",
+   "reward": "200 BLP and 1 Weapon Reroll"
+  },
+  {
+   "code": "WCU20",
+   "reward": "200 BLP and 2 Weapon Rerolls"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "500 BLP , 10 Training Skips , and 3 Weapon Rerolls"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "400 BLP , 15 Training Skips , and 1 Weapon Reroll"
+  },
+  {
+   "code": "DEFENDER",
+   "reward": "150 BLP , 5 Training Skips , and 1 Weapon Reroll"
+  },
+  {
+   "code": "BLUELOCKMAN",
+   "reward": "250 BLP and 10 Training Skips"
   }
  ],
- "updated": "2026-11-17T15:49:16.981Z",
+ "updated": "2026-11-20T00:38:42.616Z",
  "source": "https://robloxden.com/game-codes/bitlock-rxvs"
 }

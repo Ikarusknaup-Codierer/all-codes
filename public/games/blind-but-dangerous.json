@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "LITTLEFIXUPDATE",
-   "reward": "300 Coins"
+   "code": "BUGPATCH",
+   "reward": "300 Tix"
+  },
+  {
+   "code": "HL2LARP",
+   "reward": "500 Tix"
+  },
+  {
+   "code": "4MVISITS",
+   "reward": "667 Tix"
   },
   {
    "code": "500LIKES",
    "reward": "300 Coins"
   }
  ],
- "updated": "2026-11-17T15:47:24.448Z",
+ "updated": "2026-11-20T00:36:27.441Z",
  "source": "https://robloxden.com/game-codes/blind-but-dangerous"
 }

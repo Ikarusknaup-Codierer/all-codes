@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Halloween26",
+   "reward": "the 500 Pumpkins , 10 Legendary Grimoire , 2 Forbidden Grimoire , and "
+  },
+  {
+   "code": "Halloween26Delay",
+   "reward": "the 2x Pumpkin Boost (12 Hours)"
+  },
+  {
    "code": "AutumnUpdate",
    "reward": "150 Perk Rerolls , 150 Trait Rerolls , 10 Impure Souls and a Pure Soul"
   },
@@ -99,10 +107,10 @@
    "reward": "Rewards"
   },
   {
-   "code": "Valentines2024",
-   "reward": "Kirito or Asuna and 150 Gems"
+   "code": "SummerCalendar2025",
+   "reward": "75k Gold, 33 Perk Rerolls, 33 Trait Rerolls, And 10 Impure Souls"
   }
  ],
- "updated": "2026-11-17T15:46:47.528Z",
+ "updated": "2026-11-20T00:35:36.429Z",
  "source": "https://robloxden.com/game-codes/ultimate-tower-defense"
 }

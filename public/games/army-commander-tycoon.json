@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "COMMANDER",
+   "reward": "25 Gold"
+  },
+  {
+   "code": "SEAPOWER",
+   "reward": "25 Gold"
+  },
+  {
+   "code": "INVASION",
+   "reward": "25 Gold"
   }
  ],
- "updated": "2026-11-17T15:46:51.820Z",
+ "updated": "2026-11-20T00:35:43.921Z",
  "source": "https://robloxden.com/game-codes/army-commander-tycoon"
 }

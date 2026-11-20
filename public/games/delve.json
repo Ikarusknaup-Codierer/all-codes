@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ABYSS",
+   "reward": "60 Rerolls and All 4 Potions"
+  },
+  {
+   "code": "FIXES",
+   "reward": "20 Rerolls and a Luck Potion"
+  },
+  {
    "code": "3500LIKES",
    "reward": "50 Rerolls , 30 Candy , and 1 Luck Potion"
   },
@@ -39,10 +47,6 @@
    "reward": "45 Rerolls and 4 Potions"
   },
   {
-   "code": "500LIKES",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "SORRYFORDELAY",
    "reward": "25 Rerolls"
   },
@@ -59,6 +63,6 @@
    "reward": "20 Race Rerolls , a Cash Potion , an XP Potion , a Quantity Potion , a"
   }
  ],
- "updated": "2026-11-17T01:52:47.197Z",
+ "updated": "2026-11-20T00:31:08.724Z",
  "source": "https://robloxden.com/game-codes/delve"
 }

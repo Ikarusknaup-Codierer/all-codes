@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SIEGEENDS",
+   "reward": "The code credits your account with the 3 Race Rerolls"
+  },
+  {
    "code": "HAPPYHALLOWEEN",
    "reward": "600 Dark King Wish Tickets and 2 Race Rerolls"
   },
@@ -211,6 +215,6 @@
    "reward": "3 S1 Lucky Tickets"
   }
  ],
- "updated": "2026-11-17T15:47:48.758Z",
+ "updated": "2026-11-20T00:36:58.105Z",
  "source": "https://robloxden.com/game-codes/iron-soul-dungeon"
 }

@@ -27,10 +27,6 @@
    "reward": "10 Gems and a Green Cube"
   },
   {
-   "code": "Ash",
-   "reward": "an Ash Cube"
-  },
-  {
    "code": "christmasispointless",
    "reward": "an Enrichment Cube"
   },
@@ -39,16 +35,16 @@
    "reward": "a Dirt Cube"
   },
   {
-   "code": "MODDED",
-   "reward": "a White Cube"
-  },
-  {
    "code": "theghostofschmooey",
    "reward": "an Air Cube"
   },
   {
    "code": "imhappyinlife",
    "reward": "67 Gems and a Yuzi Cube"
+  },
+  {
+   "code": "Ash",
+   "reward": "an Ash Cube"
   },
   {
    "code": "discord",
@@ -61,6 +57,10 @@
   {
    "code": "ImNotHeavy",
    "reward": "a Gravity Coil"
+  },
+  {
+   "code": "MODDED",
+   "reward": "a White Cube"
   },
   {
    "code": "plated",
@@ -99,6 +99,6 @@
    "reward": "a Certificate of Excellence"
   }
  ],
- "updated": "2026-11-17T01:52:48.931Z",
+ "updated": "2026-11-20T00:31:10.679Z",
  "source": "https://robloxden.com/game-codes/cubination"
 }

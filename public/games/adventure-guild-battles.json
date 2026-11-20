@@ -55,14 +55,14 @@
    "reward": "1,000 Coins"
   },
   {
-   "code": "gems",
-   "reward": "20 Gems"
-  },
-  {
    "code": "exp2",
    "reward": "Minor EXP Potions"
+  },
+  {
+   "code": "healme",
+   "reward": "Superior Health Potions"
   }
  ],
- "updated": "2026-11-17T15:45:21.274Z",
+ "updated": "2026-11-20T00:33:47.387Z",
  "source": "https://robloxden.com/game-codes/adventure-guild-battles"
 }

@@ -5,8 +5,60 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "x2 Money (15 Minutes) , x2 Fish Caught (15 Minutes) , x2 Luck (15 Minu"
+  },
+  {
+   "code": "MONARCH",
+   "reward": "15 minutes worth of your income"
+  },
+  {
+   "code": "SEAMASTER",
+   "reward": "10 minutes worth of your income"
+  },
+  {
+   "code": "MONEY",
+   "reward": "x2 Money (15 Minutes)"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "x2 Luck (15 Minutes)"
+  },
+  {
+   "code": "PETFISH",
+   "reward": "an Ocean Crate"
+  },
+  {
+   "code": "UPD1",
+   "reward": "3 Cash Boost X Potions , 2 Net Space X Potions , and x2 Money (15 Minu"
+  },
+  {
+   "code": "ANCIENT",
+   "reward": "x2 Money (30 Minutes) , x2 Fish Caught (15 Minutes) , x2 Luck (30 Minu"
+  },
+  {
+   "code": "250KVISITS",
+   "reward": "15 minutes worth of your income , x2 Money (15 Minutes) , x2 Luck (15 "
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "10 minutes worth of your income , x2 Money (15 Minutes) , x2 Luck (15 "
+  },
+  {
+   "code": "GENESIS",
+   "reward": "x2 Money (15 Minutes) , x2 Luck (15 Minutes) , and 2 Ocean Crates"
+  },
+  {
+   "code": "ABSOLUTE",
+   "reward": "x2 Money (1 Hour) and 3 Ocean Crates"
+  },
+  {
+   "code": "BOUNDLESS",
+   "reward": "3 Cash Boost X Potions , 2 Net Space X Potions , and x2 Money (15 Minu"
   }
  ],
- "updated": "2026-11-17T01:53:13.564Z",
+ "updated": "2026-11-20T00:31:40.246Z",
  "source": "https://robloxden.com/game-codes/net-a-fish"
 }

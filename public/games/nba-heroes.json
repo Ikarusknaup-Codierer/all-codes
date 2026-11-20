@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "JOKER",
+   "reward": "2 OP Player Packs"
+  },
+  {
+   "code": "STEALSv2",
+   "reward": "2 OP Player Packs"
+  },
+  {
+   "code": "HOTFIX",
+   "reward": "2 OP Player Packs and the Rare Shrug Emote"
+  },
+  {
+   "code": "CROSSED",
+   "reward": "2 OP Player Packs"
+  },
+  {
    "code": "RELEASE",
    "reward": "5,000 Coins , 2 OP Player Packs , and 2 OP Aura Packs"
   },
@@ -15,6 +31,6 @@
    "reward": "2 OP Player Packs"
   }
  ],
- "updated": "2026-11-17T15:46:55.417Z",
+ "updated": "2026-11-20T00:35:49.537Z",
  "source": "https://robloxden.com/game-codes/nba-heroes"
 }

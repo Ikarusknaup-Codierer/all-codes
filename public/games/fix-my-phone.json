@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TRICKORTREAT",
-   "reward": "1 Lucky Spin"
-  },
-  {
    "code": "HACKED",
    "reward": "2x Cash (20 mins)"
   },
@@ -31,14 +27,14 @@
    "reward": "1 Random Phone . Hidden in the thumbnail!"
   },
   {
-   "code": "FIXIT",
-   "reward": "1 Lot Key"
+   "code": "TRICKORTREAT",
+   "reward": "1 Lucky Spin"
   },
   {
    "code": "RELEASE",
    "reward": "2x Cash (15 mins)"
   }
  ],
- "updated": "2026-11-17T01:52:15.304Z",
+ "updated": "2026-11-20T00:30:33.804Z",
  "source": "https://robloxden.com/game-codes/fix-my-phone"
 }

@@ -7,8 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "DC2026",
+   "reward": "a box of 5 Hot Packs and a box of 5 Holo Packs . These packs can only "
+  },
+  {
    "code": "BETA",
    "reward": "1,000 Cash , 25 Gems , and a Signature Pack"
+  },
+  {
+   "code": "FIRSTAA",
+   "reward": "Rewards"
   },
   {
    "code": "2MILLION",
@@ -19,6 +27,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-11-17T15:46:52.369Z",
+ "updated": "2026-11-20T00:35:44.523Z",
  "source": "https://robloxden.com/game-codes/my-trading-card-shop"
 }

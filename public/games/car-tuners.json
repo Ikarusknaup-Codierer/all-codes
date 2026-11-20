@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "25,000 Cash"
+  },
+  {
    "code": "SKILLTREE",
    "reward": "10,000 Cash"
   },
@@ -23,6 +27,6 @@
    "reward": "30K Cash"
   }
  ],
- "updated": "2026-11-17T15:46:27.962Z",
+ "updated": "2026-11-20T00:35:12.417Z",
  "source": "https://robloxden.com/game-codes/car-tuners"
 }

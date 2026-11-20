@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SCARECROW",
+   "reward": "a Scarecrow Seed Pack and a Harvest Seed Pack"
+  },
+  {
    "code": "MOONLIT",
    "reward": "1 Golden Pumpkin Token and 5 Pumpkin Tokens"
   },
@@ -31,6 +35,6 @@
    "reward": "2 Sunny Seed Packs"
   }
  ],
- "updated": "2026-11-17T01:52:56.342Z",
+ "updated": "2026-11-20T00:31:20.495Z",
  "source": "https://robloxden.com/game-codes/grow-a-plant"
 }

@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "AQUA",
+   "reward": "Freebies . You need to reach World 2 to use this code"
+  },
+  {
+   "code": "SAFARI",
+   "reward": "1 Safari Pet Egg"
+  },
+  {
+   "code": "WINNY",
+   "reward": "1 2x Wins Poiton"
+  },
+  {
+   "code": "LICK",
+   "reward": "1 2x Lick Power potion"
+  },
+  {
+   "code": "WINWIN",
+   "reward": "1 2x Wins Potion"
   }
  ],
- "updated": "2026-11-17T15:49:47.447Z",
+ "updated": "2026-11-20T15:10:08.557Z",
  "source": "https://robloxden.com/game-codes/1-lick-per-click"
 }

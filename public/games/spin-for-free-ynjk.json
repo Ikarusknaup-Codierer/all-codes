@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ADMIN",
+   "reward": "250 Spins"
+  },
+  {
    "code": "FREE",
    "reward": "10 Spins"
   },
@@ -21,12 +25,8 @@
   {
    "code": "AUTOPAYOUTS",
    "reward": "20 Spins"
-  },
-  {
-   "code": "ADMIN",
-   "reward": "250 Spins"
   }
  ],
- "updated": "2026-11-17T15:50:31.274Z",
+ "updated": "2026-11-20T15:10:54.205Z",
  "source": "https://robloxden.com/game-codes/spin-for-free-ynjk"
 }

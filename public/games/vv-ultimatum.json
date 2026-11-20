@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "happyhallovveen",
-   "reward": "500 Soul Candies and 20 Ability Rerolls"
+   "code": "210KLIKES",
+   "reward": "5 Ability Rerolls , 5 Clan Rerolls , and 5 Experimental Hogyoku Shards"
   },
   {
-   "code": "BUILDPOINTS",
-   "reward": "1x Built Reset Token"
+   "code": "happyhallovveen",
+   "reward": "500 Soul Candies and 20 Ability Rerolls"
   },
   {
    "code": "checkmailbox",
@@ -25,6 +25,10 @@
   {
    "code": "CLANS",
    "reward": "50 Clan Rerolls"
+  },
+  {
+   "code": "BUILDPOINTS",
+   "reward": "1x Built Reset Token"
   },
   {
    "code": "205KLIKES",
@@ -43,6 +47,6 @@
    "reward": "3 Ability Rerolls , 5 Clan Rerolls , 5 Experimental Hogyoky Shards , a"
   }
  ],
- "updated": "2026-11-17T15:48:52.260Z",
+ "updated": "2026-11-20T15:09:28.693Z",
  "source": "https://robloxden.com/game-codes/vv-ultimatum"
 }

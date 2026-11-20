@@ -7,19 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "TY7KAL",
-   "reward": "250 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
-  },
-  {
-   "code": "32xComeback",
-   "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
-  },
-  {
    "code": "AnimeLegendsSimulator",
-   "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
-  },
-  {
-   "code": "AnimeCrusadersX2026",
    "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
   },
   {
@@ -121,6 +109,18 @@
   {
    "code": "1LOL",
    "reward": "Rerolls and Gems"
+  },
+  {
+   "code": "TY7KAL",
+   "reward": "250 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
+  },
+  {
+   "code": "32xComeback",
+   "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
+  },
+  {
+   "code": "AnimeCrusadersX2026",
+   "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
   },
   {
    "code": "CODE1LOL",
@@ -263,6 +263,6 @@
    "reward": "85 Rerolls , New Currency , Gems , Stat Cubes , and Other Goodies . Yo"
   }
  ],
- "updated": "2026-11-18T01:03:49.902Z",
+ "updated": "2026-11-20T15:23:13.229Z",
  "source": "https://robloxden.com/game-codes/anime-crusaders"
 }

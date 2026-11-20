@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TRADE8SLOTS",
+   "reward": "100,000 Cash"
+  },
+  {
    "code": "DragonColorRefund",
    "reward": "50 Gems"
   },
@@ -39,6 +43,6 @@
    "reward": ""
   }
  ],
- "updated": "2026-11-17T15:50:19.368Z",
+ "updated": "2026-11-20T15:10:42.661Z",
  "source": "https://robloxden.com/game-codes/king-legacy"
 }

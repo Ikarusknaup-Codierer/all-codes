@@ -15,6 +15,26 @@
    "reward": "50 Characteristics , 30 Release Capsules , 30 Halloween Capsules , 50 "
   },
   {
+   "code": "SRYFORLATEUPDATE",
+   "reward": "Rewards"
+  },
+  {
+   "code": "DARKNESSISENDINGSOON",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SRYFORNEWMODEBUGGEDS",
+   "reward": "25 Characteristics , 20 Drop Coins , 25 Halloween Capsules , 1,000 Coi"
+  },
+  {
+   "code": "HALLOWEENPART2",
+   "reward": "50 Characteristics , 1,000 Coins , and 1,000 Jewels"
+  },
+  {
+   "code": "ENJOYUPDATE",
+   "reward": "25 Characteristics , 1,000 Coins , and 1,000 Jewels"
+  },
+  {
    "code": "UPDATE1",
    "reward": "20 Characteristics , 25 Release Capsules , 25 Halloween Capsules , 20 "
   },
@@ -29,10 +49,6 @@
   {
    "code": "SHARDSPEND",
    "reward": "2 Mythical Fragments , 5 Mythic Fragments , 10 Legend Fragments , 10 E"
-  },
-  {
-   "code": "SRYFORLATEUPDATE",
-   "reward": "Rewards"
   },
   {
    "code": "ILOVEUALLGUYS",
@@ -55,6 +71,14 @@
    "reward": "20 Characteristics , 50 Release Capsules , 1,000 Coins and 1,000 Jewel"
   },
   {
+   "code": "THANKFOR12KCCU",
+   "reward": "10 Characteristics and 50 Release Capsules"
+  },
+  {
+   "code": "THANKFOR13KCCU",
+   "reward": "10 Characteristics and 50 Release Capsules"
+  },
+  {
    "code": "UPDATE05",
    "reward": "20x Characteristic , 50x Release Capsule , 1,000 Coins , and 1,000 Jew"
   },
@@ -67,12 +91,32 @@
    "reward": "10x Characteristic , 1,000 Fate Coins , 1,000 Coins , and 1,000 Jewels"
   },
   {
+   "code": "THANKSFOR3MVISIT",
+   "reward": "1,000 Coins , 15x Trait , and 25x Release Capsule"
+  },
+  {
+   "code": "THANKSFOR20KMEMBERDISCORD",
+   "reward": "1,000 Coins , 10x Trait , and 40x Release Capsule"
+  },
+  {
    "code": "THANKSFOR7000CCU",
    "reward": "Free Rewards"
   },
   {
    "code": "THANKSFOR6000CCU",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "THANKFORSUPPORT",
+   "reward": "Freebies"
+  },
+  {
+   "code": "500KVISIT",
+   "reward": "Freebies"
+  },
+  {
+   "code": "5KCCU",
+   "reward": "5 Traits and 1,000 Gems"
   },
   {
    "code": "THANKSFOR1MVITS",
@@ -97,36 +141,8 @@
   {
    "code": "SRYFORRESTART2",
    "reward": "15 Traits , 10 Release Capsules , 2,000 Coins , and 1,000 Gems"
-  },
-  {
-   "code": "THANKFOR12KCCU",
-   "reward": "10 Characteristics and 50 Release Capsules"
-  },
-  {
-   "code": "THANKFOR13KCCU",
-   "reward": "10 Characteristics and 50 Release Capsules"
-  },
-  {
-   "code": "THANKSFOR3MVISIT",
-   "reward": "1,000 Coins , 15x Trait , and 25x Release Capsule"
-  },
-  {
-   "code": "THANKSFOR20KMEMBERDISCORD",
-   "reward": "1,000 Coins , 10x Trait , and 40x Release Capsule"
-  },
-  {
-   "code": "THANKFORSUPPORT",
-   "reward": "Freebies"
-  },
-  {
-   "code": "500KVISIT",
-   "reward": "Freebies"
-  },
-  {
-   "code": "5KCCU",
-   "reward": "5 Traits and 1,000 Gems"
   }
  ],
- "updated": "2026-11-18T00:52:50.711Z",
+ "updated": "2026-11-20T15:17:03.527Z",
  "source": "https://robloxden.com/game-codes/anime-mysterious"
 }

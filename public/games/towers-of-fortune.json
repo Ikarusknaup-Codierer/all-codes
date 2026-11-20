@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "Release",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "Shutdown2",
+   "reward": "rewards"
+  },
+  {
+   "code": "Shutdown1",
+   "reward": "10 Lucky Spins and 5 Spins"
   }
  ],
- "updated": "2026-11-18T00:50:35.645Z",
+ "updated": "2026-11-20T15:14:35.296Z",
  "source": "https://robloxden.com/game-codes/towers-of-fortune"
 }

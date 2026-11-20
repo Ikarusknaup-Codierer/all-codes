@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "26MVISITS",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "COLLECTION",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "ENDLESSCASTLE",
+   "reward": "200 Emeralds and 3 of Each Tier III Potion"
+  },
+  {
+   "code": "TRIALHARD",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "KURAMA",
+   "reward": "200 Emeralds"
+  },
+  {
    "code": "SHUTZOMBIES",
    "reward": "200 Emeralds"
   },
@@ -311,6 +331,6 @@
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
   }
  ],
- "updated": "2026-11-17T15:52:30.876Z",
+ "updated": "2026-11-20T15:12:59.648Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

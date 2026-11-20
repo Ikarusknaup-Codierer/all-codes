@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SORRY4DELAY",
+   "reward": "5 Witch Capsules"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "200 Candy"
+  },
+  {
+   "code": "SILVER",
+   "reward": "250 Silver Coins"
+  },
+  {
+   "code": "GHOSTSHIP",
+   "reward": "2 Primal Eggs"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "15,000 Coins"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "PRIMAL",
+   "reward": "1 Primal Egg"
   }
  ],
- "updated": "2026-11-18T00:52:22.062Z",
+ "updated": "2026-11-20T15:16:31.657Z",
  "source": "https://robloxden.com/game-codes/grow-a-dino-fighter"
 }

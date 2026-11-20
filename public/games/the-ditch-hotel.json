@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "JUMPINGISBACK",
-   "reward": "5,000 Cash and a Revive"
-  },
-  {
-   "code": "2MVISITS",
-   "reward": "25,000 Cash , 3 Revives , and 3 Pushes"
-  },
-  {
-   "code": "1KLIKES",
-   "reward": "8,000 Cash , a Revive , and a Push"
-  },
-  {
    "code": "1MVISITS",
    "reward": "15,000 Cash , 2 Revives , and 2 Pushes"
   },
@@ -37,12 +25,8 @@
   {
    "code": "FIREALARM",
    "reward": "3K Cash and 2 Revives"
-  },
-  {
-   "code": "UPDATE",
-   "reward": "1,500 Cash"
   }
  ],
- "updated": "2026-11-18T00:52:23.619Z",
+ "updated": "2026-11-20T15:16:33.115Z",
  "source": "https://robloxden.com/game-codes/the-ditch-hotel"
 }

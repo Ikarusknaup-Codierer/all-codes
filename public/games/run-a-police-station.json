@@ -7,14 +7,14 @@
    "reward": "Description"
   },
   {
-   "code": "500LIKES",
-   "reward": "$25K Cash"
-  },
-  {
    "code": "1000ACTIVE",
    "reward": "$40K Cash and 2x XP for 30 Minutes"
+  },
+  {
+   "code": "MOSTWANTED",
+   "reward": "$15K Cash and 2x Cash for 15 Minutes"
   }
  ],
- "updated": "2026-11-18T15:24:54.199Z",
+ "updated": "2026-11-20T15:23:49.167Z",
  "source": "https://robloxden.com/game-codes/run-a-police-station"
 }

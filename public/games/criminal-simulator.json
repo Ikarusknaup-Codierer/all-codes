@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "CITY",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "POLICE",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "BUG",
+   "reward": "a God Mode Use"
+  },
+  {
    "code": "ADMIN",
    "reward": "1 God Mode Use . Limited to 1,000 uses!"
   }
  ],
- "updated": "2026-11-18T00:50:30.287Z",
+ "updated": "2026-11-20T15:14:30.417Z",
  "source": "https://robloxden.com/game-codes/criminal-simulator"
 }

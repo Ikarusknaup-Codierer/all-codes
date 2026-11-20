@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "FIRSTEVENT",
-   "reward": "25,000 Cash"
+   "code": "170KVISITS",
+   "reward": "30,000 Cash"
+  },
+  {
+   "code": "200KVISITS",
+   "reward": "30,000 Cash"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "35,000 Cash"
+  },
+  {
+   "code": "300KVISITS!",
+   "reward": "35,000 Cash"
   },
   {
    "code": "SORRYFORWAIT",
    "reward": "30K Cash"
   }
  ],
- "updated": "2026-11-18T00:49:47.076Z",
+ "updated": "2026-11-20T15:13:46.476Z",
  "source": "https://robloxden.com/game-codes/bayview-county"
 }

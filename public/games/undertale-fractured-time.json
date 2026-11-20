@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "7000LIKES",
-   "reward": "1 Item Roller and 15 Lucky Spins"
-  },
-  {
    "code": "GIFTING",
    "reward": "10 Weapon Capsules and 10 Soul Capsules"
   },
@@ -33,6 +29,10 @@
   {
    "code": "REWARDZ",
    "reward": "5 Weapon Capsules , 5 Soul Capsules , and 5 Load Fragments"
+  },
+  {
+   "code": "7000LIKES",
+   "reward": "1 Item Roller and 15 Lucky Spins"
   },
   {
    "code": "OTHERSIDE!",
@@ -67,6 +67,6 @@
    "reward": "1 Lucky Soul Capsule , 5 Bad Memory , 5 Spray Can , 20 Minutes of 2x E"
   }
  ],
- "updated": "2026-11-17T15:50:05.405Z",
+ "updated": "2026-11-20T15:10:26.646Z",
  "source": "https://robloxden.com/game-codes/undertale-fractured-time"
 }

@@ -41,8 +41,16 @@
   {
    "code": "galewing",
    "reward": "a Storm Galewing"
+  },
+  {
+   "code": "fasthatch",
+   "reward": "2x Hatch Speed (10 Minutes)"
+  },
+  {
+   "code": "luckydragon",
+   "reward": "2x Luck (10 Minutes)"
   }
  ],
- "updated": "2026-11-18T00:50:14.904Z",
+ "updated": "2026-11-20T15:14:16.313Z",
  "source": "https://robloxden.com/game-codes/ride-a-dragon"
 }

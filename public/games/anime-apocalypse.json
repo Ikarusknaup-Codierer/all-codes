@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "THEESPER",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "PSYCHIC100",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 10 Boss Fragments"
+  },
+  {
+   "code": "THECHAINEDHOTFIX",
+   "reward": "1,000,000 Coins , 100 Lucky Ability Spins and 100 Lucky Gadget Spins"
+  },
+  {
+   "code": "THECHAINED",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "WAHRWELT",
+   "reward": "300,000 Coins , 15 Raid Tickets , 10 Boss Fragments , 20 Trait Rerolls"
+  },
+  {
    "code": "GHOSTOFTHEFLAME",
    "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
   },
@@ -263,6 +283,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-11-17T15:52:12.045Z",
+ "updated": "2026-11-20T15:12:42.430Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

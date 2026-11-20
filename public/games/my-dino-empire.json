@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "RIDING",
+   "reward": "3 Roast Meat"
+  },
+  {
+   "code": "SORRY",
+   "reward": "an AFK Jackpot (1 Hour)"
+  },
+  {
+   "code": "dragons",
+   "reward": "an Egg Luck Potion (15 Minutes) and a Hatching Lantern (15 Minutes)"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "a Basic Dino Boost ( 5 Minutes) , a Super Dino Boost (10 Minutes) , an"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "5 Minutes worth of AFK Earnings"
+  },
+  {
    "code": "PETS",
    "reward": "a Basic Egg"
   },
@@ -19,6 +39,6 @@
    "reward": "10,000 Cash"
   }
  ],
- "updated": "2026-11-17T15:49:46.422Z",
+ "updated": "2026-11-20T15:10:07.477Z",
  "source": "https://robloxden.com/game-codes/my-dino-empire"
 }

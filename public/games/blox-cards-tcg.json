@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BOWLS",
+   "reward": "600 BB and the Bowler Title"
+  },
+  {
    "code": "BOOTH",
    "reward": "400 BB and Wating At My Stand Title"
   },
@@ -171,6 +175,6 @@
    "reward": "500 BB"
   }
  ],
- "updated": "2026-11-18T00:52:29.722Z",
+ "updated": "2026-11-20T15:16:39.894Z",
  "source": "https://robloxden.com/game-codes/blox-cards-tcg"
 }

@@ -19,10 +19,6 @@
    "reward": "10 Luck Potions IV"
   },
   {
-   "code": "TODAYSPICKS",
-   "reward": "25 Dragon Baits"
-  },
-  {
    "code": "50KLIKES",
    "reward": "5 Gold Baits"
   },
@@ -47,10 +43,10 @@
    "reward": "Reward"
   },
   {
-   "code": "5MVISITS",
-   "reward": "Reward"
+   "code": "TODAYSPICKS",
+   "reward": "25 Dragon Baits"
   }
  ],
- "updated": "2026-11-19T15:32:57.721Z",
+ "updated": "2026-11-21T19:00:48.920Z",
  "source": "https://robloxden.com/game-codes/go-fishing"
 }

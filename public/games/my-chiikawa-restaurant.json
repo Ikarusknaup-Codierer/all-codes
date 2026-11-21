@@ -15,6 +15,10 @@
    "reward": "Rewards . Requires a 4-star restaurant and 2,000 dishes served"
   },
   {
+   "code": "sryforshutdown",
+   "reward": "30 Harvest Packs . Requires a 4-star restaurant and 2,000 dishes serve"
+  },
+  {
    "code": "EARLYUPDATE",
    "reward": "Rewards . You must Reach day 10 and Serve 500 dishes to use this code"
   },
@@ -27,6 +31,6 @@
    "reward": "2 Halloween Eggs and 2 Halloween Skin Packs"
   }
  ],
- "updated": "2026-11-19T15:33:13.275Z",
+ "updated": "2026-11-21T19:01:04.070Z",
  "source": "https://robloxden.com/game-codes/my-chiikawa-restaurant"
 }

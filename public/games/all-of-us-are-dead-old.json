@@ -11,22 +11,22 @@
    "reward": "400 Blue Flames"
   },
   {
-   "code": "like5k",
-   "reward": "50 Free Tickets"
-  },
-  {
-   "code": "like7k",
-   "reward": "50 Free Tickets"
-  },
-  {
-   "code": "LIKE10K",
+   "code": "like40k",
    "reward": "80 Tickets"
   },
   {
-   "code": "45K",
+   "code": "10K",
    "reward": "300 Blue Flames"
+  },
+  {
+   "code": "20K",
+   "reward": "300 Blue Flames"
+  },
+  {
+   "code": "LIKE20K",
+   "reward": "80 Tickets"
   }
  ],
- "updated": "2026-11-19T15:35:33.022Z",
+ "updated": "2026-11-21T19:03:09.157Z",
  "source": "https://robloxden.com/game-codes/all-of-us-are-dead-old"
 }

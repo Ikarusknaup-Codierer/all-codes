@@ -23,14 +23,14 @@
    "reward": "100,000 Cash"
   },
   {
-   "code": "coolevent",
-   "reward": "45,000 Cash"
-  },
-  {
    "code": "eventfail",
    "reward": "500,000 Cash"
+  },
+  {
+   "code": "oneyear",
+   "reward": "75,000 Cash"
   }
  ],
- "updated": "2026-11-19T00:14:51.223Z",
+ "updated": "2026-11-21T18:58:08.571Z",
  "source": "https://robloxden.com/game-codes/west-coast-fl"
 }

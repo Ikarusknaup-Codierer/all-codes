@@ -187,10 +187,6 @@
    "reward": "10 Sun Breathing Fragments"
   },
   {
-   "code": "InfiniteTower!",
-   "reward": "2x Drop (1 Hour)"
-  },
-  {
    "code": "SuperWB",
    "reward": "2x Drop (30 Minutes)"
   },
@@ -349,6 +345,10 @@
   {
    "code": "ElbafHype!",
    "reward": "100 Poneglyphs"
+  },
+  {
+   "code": "InfiniteTower!",
+   "reward": "2x Drop (1 Hour)"
   },
   {
    "code": "Slingshot",
@@ -531,6 +531,6 @@
    "reward": "30 Poneglyphs"
   }
  ],
- "updated": "2026-11-19T15:38:01.429Z",
+ "updated": "2026-11-21T19:05:05.095Z",
  "source": "https://robloxden.com/game-codes/reaopg"
 }

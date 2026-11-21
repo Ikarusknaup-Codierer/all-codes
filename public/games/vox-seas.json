@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "PatchGold",
-   "reward": "20,000 Gold"
+   "code": "THX200K",
+   "reward": "Double XP (30 Minutes)"
   },
   {
-   "code": "BugFix4",
-   "reward": "Rewards"
+   "code": "Patch2Reset",
+   "reward": "1 Stat Reset Token"
+  },
+  {
+   "code": "PatchReset",
+   "reward": "1 Stat Reset Token"
+  },
+  {
+   "code": "Release2026",
+   "reward": "Double XP (1 Hour)"
   }
  ],
- "updated": "2026-11-19T15:30:26.283Z",
+ "updated": "2026-11-21T18:58:45.023Z",
  "source": "https://robloxden.com/game-codes/vox-seas"
 }

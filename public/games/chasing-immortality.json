@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HELLOWORLD",
+   "reward": "5 Destiny Talismans"
+  },
+  {
+   "code": "AMINDTOOBRILLIANT",
+   "reward": "5 Enlightenment Talismans"
+  },
+  {
+   "code": "HOWPLAYGAME",
+   "reward": "5 Enlightenment Talismans"
+  },
+  {
    "code": "CHASINGIMMORTALITY2",
    "reward": "20 Heavenly Tribulation Pills"
   },
@@ -135,6 +147,6 @@
    "reward": "1 Lucky Reroll"
   }
  ],
- "updated": "2026-11-18T00:56:12.794Z",
+ "updated": "2026-11-20T23:52:03.248Z",
  "source": "https://robloxden.com/game-codes/chasing-immortality"
 }

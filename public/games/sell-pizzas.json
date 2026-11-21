@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "1KPlayers",
+   "reward": "1 Money Boost"
+  },
+  {
+   "code": "Pizzas",
+   "reward": "1,500 Money"
+  },
+  {
+   "code": "Release!",
+   "reward": "1,000 Money"
   }
  ],
- "updated": "2026-11-18T15:26:07.767Z",
+ "updated": "2026-11-20T23:56:06.175Z",
  "source": "https://robloxden.com/game-codes/sell-pizzas"
 }

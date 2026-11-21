@@ -5,8 +5,44 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "NEWMAPS",
+   "reward": "500 Coins and Ocean Footprints"
+  },
+  {
+   "code": "RANKED",
+   "reward": "500 Coins and Silver Aura"
+  },
+  {
+   "code": "ICETAGS",
+   "reward": "Ice Trail"
+  },
+  {
+   "code": "UPDATE",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "DDAENG",
+   "reward": "300 Coins and Heart Unfreeze"
+  },
+  {
+   "code": "ICE",
+   "reward": "300 Coins"
+  },
+  {
+   "code": "FRIENDS",
+   "reward": "700 Coins"
+  },
+  {
+   "code": "BETA",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "RESCUE",
+   "reward": "The Rescue Captain"
   }
  ],
- "updated": "2026-11-18T15:30:24.546Z",
+ "updated": "2026-11-21T00:00:30.174Z",
  "source": "https://robloxden.com/game-codes/freeze-tag"
 }

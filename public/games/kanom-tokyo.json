@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SomeTicket4Free",
+   "reward": "1 Battlepass Ticket:VI"
+  },
+  {
+   "code": "Sry4SkipWeekendAbuse",
+   "reward": "100,000 Yen and 5 EventPoint"
+  },
+  {
+   "code": "BlahBlahBlahCode",
+   "reward": "10 Mythic Gacha"
+  },
+  {
    "code": "HelloHalloween",
    "reward": "1 Pumpkin Mask"
   },
@@ -71,6 +83,6 @@
    "reward": "a Battlepass Level-Up Ticket: IV"
   }
  ],
- "updated": "2026-11-18T15:25:58.723Z",
+ "updated": "2026-11-20T23:55:57.586Z",
  "source": "https://robloxden.com/game-codes/kanom-tokyo"
 }

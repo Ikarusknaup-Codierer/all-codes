@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "Discord3K",
+   "reward": "Reward"
+  },
+  {
    "code": "begginer",
    "reward": "Reward"
   },
   {
    "code": "Magic",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "UFO",
-   "reward": "Free Gems"
   },
   {
    "code": "Update",
@@ -27,6 +27,6 @@
    "reward": "In-Game Rewards"
   }
  ],
- "updated": "2026-11-18T01:01:59.674Z",
+ "updated": "2026-11-20T23:54:33.885Z",
  "source": "https://robloxden.com/game-codes/snow-plow-simulator"
 }

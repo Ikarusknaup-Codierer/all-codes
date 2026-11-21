@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "shutdowntickets",
+   "reward": "50 Tickets"
+  },
+  {
    "code": "HalloweenPart2",
    "reward": "10 of All Potions"
   },
@@ -189,8 +193,16 @@
   {
    "code": "Release",
    "reward": "+1 All Potions"
+  },
+  {
+   "code": "600ccu",
+   "reward": "3 All Potions and 25 Tickets"
+  },
+  {
+   "code": "MiniPatch",
+   "reward": "+2 All Potions"
   }
  ],
- "updated": "2026-11-18T00:56:56.495Z",
+ "updated": "2026-11-20T23:52:35.826Z",
  "source": "https://robloxden.com/game-codes/resource-incremental"
 }

@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "GHOSTLY",
+   "reward": "3 Candies"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "3 Candies"
+  },
+  {
+   "code": "CANDYCORN",
+   "reward": "3 Candies"
+  },
+  {
+   "code": "SPOOKYSZN",
+   "reward": "5 Candies"
+  },
+  {
+   "code": "BOO2026",
+   "reward": "5 Candies"
+  },
+  {
+   "code": "HALLOWEEN2026",
+   "reward": "5 Candies"
+  },
+  {
+   "code": "BLAZEISBETTER",
+   "reward": "Blaze Morph"
   }
  ],
- "updated": "2026-11-18T01:03:04.331Z",
+ "updated": "2026-11-20T23:55:34.386Z",
  "source": "https://robloxden.com/game-codes/sonic-elevator"
 }

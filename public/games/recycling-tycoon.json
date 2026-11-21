@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "1500LIKES",
+   "reward": "100 Credits and 5,000 Cash"
+  },
+  {
+   "code": "COMMUNITY1",
+   "reward": "200 Credits and 10,000 Cash"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "5,000 Cash , 100 Credits , and 2x Cash and XP (15 mins)"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "5,000 Cash , 100 Credits , and 2x Cash and XP (15 mins)"
   }
  ],
- "updated": "2026-11-18T01:02:15.540Z",
+ "updated": "2026-11-20T23:54:47.708Z",
  "source": "https://robloxden.com/game-codes/recycling-tycoon"
 }

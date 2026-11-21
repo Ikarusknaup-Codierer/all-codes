@@ -15,10 +15,6 @@
    "reward": "10 Trick or Treats"
   },
   {
-   "code": "IMSORRY",
-   "reward": "3,000 Gems"
-  },
-  {
    "code": "100XHATCH",
    "reward": "100x Hatch Speed for 1 hour"
   },
@@ -35,6 +31,10 @@
    "reward": "1 x3 Luck Potion"
   },
   {
+   "code": "LARPLARPSAHUR",
+   "reward": "100,000 Gems and 10 Hypercar Packs"
+  },
+  {
    "code": "DreamRaceCar",
    "reward": "1 Automatic Spin"
   },
@@ -45,8 +45,12 @@
   {
    "code": "S3C3TC0D3",
    "reward": "rewards"
+  },
+  {
+   "code": "IMSORRY",
+   "reward": "3,000 Gems"
   }
  ],
- "updated": "2026-11-18T15:30:11.315Z",
+ "updated": "2026-11-21T00:00:08.103Z",
  "source": "https://robloxden.com/game-codes/dream-car-collection"
 }

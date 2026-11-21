@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "GroupHike",
+   "reward": "2x Strength (20 mins) and 100 Quest Tokens . Join Hike for... communit"
+  },
+  {
+   "code": "TOKENS",
+   "reward": "200 Quest Tokens"
+  },
+  {
+   "code": "HikeForEggs",
+   "reward": "2x Strength (15 mins)"
+  },
+  {
+   "code": "PartyTime",
+   "reward": "the Balloon Bunch Decoration"
   }
  ],
- "updated": "2026-11-18T01:02:56.698Z",
+ "updated": "2026-11-20T23:55:27.620Z",
  "source": "https://robloxden.com/game-codes/hike-for-eggs"
 }

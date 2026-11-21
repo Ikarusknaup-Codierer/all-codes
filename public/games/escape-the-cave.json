@@ -7,10 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "CLANS",
+   "reward": "500 Gems"
+  },
+  {
+   "code": "VOIDBREAKER",
+   "reward": "400 Candy and 1,500 Gems"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "1,000 Pass XP and 500 Gems"
+  },
+  {
+   "code": "ENDLESS",
+   "reward": "1,000 Pass XP and 1,000 Gems"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "2,000 Pass XP , 300 Candy , and 500 Gems"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "1,000 EXP and 200 Candies"
   }
  ],
- "updated": "2026-11-19T00:04:55.383Z",
+ "updated": "2026-11-21T00:06:08.472Z",
  "source": "https://robloxden.com/game-codes/escape-the-cave"
 }

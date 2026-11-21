@@ -19,6 +19,10 @@
    "reward": "50% Credits(30 Mins) , 50% XP(60mins) , 2 Honors , 5 Medals and 20,000"
   },
   {
+   "code": "LITTLEBIRD",
+   "reward": "a 50 Credits boost (30 Minutes) and 1,000 Credits"
+  },
+  {
    "code": "1MIL",
    "reward": "a 50% EXP boost (1 Hour), 2 Medals and 5,000 Credits"
   },
@@ -29,16 +33,8 @@
   {
    "code": "TYFORPLAYING",
    "reward": "a 50 Credits boost (30 Minutes) and 1,000 Credits"
-  },
-  {
-   "code": "FREE12",
-   "reward": "1,500 Credits and an XP Boost (15 Minutes)"
-  },
-  {
-   "code": "LITTLEBIRD",
-   "reward": "a 50 Credits boost (30 Minutes) and 1,000 Credits"
   }
  ],
- "updated": "2026-11-18T15:26:38.236Z",
+ "updated": "2026-11-20T23:56:27.858Z",
  "source": "https://robloxden.com/game-codes/zombie-air-force"
 }

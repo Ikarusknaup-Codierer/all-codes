@@ -27,6 +27,10 @@
    "reward": "an Elixir to reset the skill tree once. You must be in the First Kingd"
   },
   {
+   "code": "!fixedqolissues",
+   "reward": "100 Race Spins , 100 Magic Spins , and 100 Trait Spins"
+  },
+  {
    "code": "!iwannasleep1",
    "reward": "250 Magic Spins , 250 Race Spins , and 250 Trait Spins . You must be a"
   },
@@ -39,6 +43,6 @@
    "reward": "Rewards . You must be at least level 150 to redeem this code"
   }
  ],
- "updated": "2026-11-18T15:31:01.601Z",
+ "updated": "2026-11-21T00:01:12.178Z",
  "source": "https://robloxden.com/game-codes/clover-retribution"
 }

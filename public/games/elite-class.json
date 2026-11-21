@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TRICKORTREAT!",
+   "reward": "10,000 Coins, 7 Spins, and 2,500 Candy Corn"
+  },
+  {
+   "code": "2KLIKES!",
+   "reward": "7,777 Coins and 7 Spins"
+  },
+  {
    "code": "SPOOKY!",
    "reward": "7 Spins and 777 Candy Corn"
   },
@@ -15,6 +23,6 @@
    "reward": "5 Spins and 10,000 Points"
   }
  ],
- "updated": "2026-11-18T15:30:25.129Z",
+ "updated": "2026-11-21T00:00:30.869Z",
  "source": "https://robloxden.com/game-codes/elite-class"
 }

@@ -11,6 +11,14 @@
    "reward": "Rewards"
   },
   {
+   "code": "WORLD10",
+   "reward": "10 Tickets and 3 of Each Potion"
+  },
+  {
+   "code": "WORLD10PART2",
+   "reward": "10 Tickets and 5 Jade"
+  },
+  {
    "code": "WORLD9PT1",
    "reward": "1 Ore Potion and 10 Jade"
   },
@@ -295,6 +303,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-11-18T00:56:55.897Z",
+ "updated": "2026-11-20T23:52:35.123Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

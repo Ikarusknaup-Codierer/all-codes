@@ -7,10 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "1 Enchant Transferer"
+  },
+  {
+   "code": "100K",
+   "reward": "5 Gifts"
+  },
+  {
+   "code": "SPACE",
+   "reward": "4 Gifts"
+  },
+  {
+   "code": "LUCKYBLOCK",
+   "reward": "10 Lucky Blocks"
+  },
+  {
+   "code": "CRAZY",
+   "reward": "1 God Potion"
+  },
+  {
    "code": "RELEASE",
    "reward": "2 Gifts"
   }
  ],
- "updated": "2026-11-18T01:02:54.939Z",
+ "updated": "2026-11-20T23:55:25.772Z",
  "source": "https://robloxden.com/game-codes/click-a-cookie"
 }

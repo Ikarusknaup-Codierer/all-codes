@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "ERT33",
-   "reward": "3 Egg Hatches"
+   "code": "ERT333",
+   "reward": "Egg Hatches"
   },
   {
-   "code": "JK63DY",
+   "code": "JK68DY",
    "reward": "1,000 Strength"
   },
   {
-   "code": "JK67DY",
+   "code": "WX68FK",
+   "reward": "16 Wins"
+  },
+  {
+   "code": "WX81FO",
+   "reward": "106 Wins"
+  },
+  {
+   "code": "JK36DY",
    "reward": "1,000 Strength"
-  },
-  {
-   "code": "WX78FO",
-   "reward": "118 Wins"
-  },
-  {
-   "code": "WX86FO",
-   "reward": "111 Wins"
   }
  ],
- "updated": "2026-11-18T15:39:19.276Z",
+ "updated": "2026-11-21T00:05:29.127Z",
  "source": "https://robloxden.com/game-codes/bro-rescue-simulator"
 }

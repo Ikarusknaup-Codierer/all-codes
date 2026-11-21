@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "150 Skulls"
+  },
+  {
+   "code": "R1LAUNCH",
+   "reward": "50 Skulls, 25 Crowns and 5 Alpha Crates"
   }
  ],
- "updated": "2026-11-18T01:02:22.523Z",
+ "updated": "2026-11-20T23:54:54.922Z",
  "source": "https://robloxden.com/game-codes/r1-battle-royale"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Spookytoilet",
-   "reward": "the Halloween Small Toilet"
-  },
-  {
    "code": "NINJAOGAT",
    "reward": "Ninja OGAT Tower"
   },
@@ -21,6 +17,10 @@
   {
    "code": "RAFINHA",
    "reward": "a Rafa Tanker"
+  },
+  {
+   "code": "Spookytoilet",
+   "reward": "the Halloween Small Toilet"
   },
   {
    "code": "40KLIKES",
@@ -39,6 +39,6 @@
    "reward": "5,000 Coins"
   }
  ],
- "updated": "2026-11-19T00:11:09.855Z",
+ "updated": "2026-11-21T06:33:22.553Z",
  "source": "https://robloxden.com/game-codes/toilet-verse-tower-defense"
 }

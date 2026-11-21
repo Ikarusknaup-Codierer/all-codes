@@ -31,20 +31,12 @@
    "reward": "300,000 Coins , 1 Celebration Spin , and 1 Mythical Manual"
   },
   {
-   "code": "ROADTO4K",
-   "reward": "200,000 Coins , 1 Rare Manual , and 1 Celebration Spin"
-  },
-  {
    "code": "BEGI2COLD",
    "reward": "300,000 Coins , 1 Random Manual , and 1 Celebration Spin"
   },
   {
    "code": "ACADEMY",
    "reward": "100,000 Coins , 1 Celebration Spin , and 2 Rare Manuals"
-  },
-  {
-   "code": "WALLAHI",
-   "reward": "120,000 Coins and 2 Element Rerolls"
   },
   {
    "code": "PRAISE",
@@ -135,8 +127,16 @@
    "reward": "200,000 Coins , 60 Minutes Double XP , 1 Rare Manual , and 2 Celebrati"
   },
   {
+   "code": "ROADTO4K",
+   "reward": "200,000 Coins , 1 Rare Manual , and 1 Celebration Spin"
+  },
+  {
    "code": "ROW",
    "reward": "150,000 Coins and 2 Element Rerolls"
+  },
+  {
+   "code": "WALLAHI",
+   "reward": "120,000 Coins and 2 Element Rerolls"
   },
   {
    "code": "WENESDAY",
@@ -215,6 +215,6 @@
    "reward": "1 Uncommon Manual and 30 Mins Double XP"
   }
  ],
- "updated": "2026-11-18T15:35:11.156Z",
+ "updated": "2026-11-21T06:28:30.405Z",
  "source": "https://robloxden.com/game-codes/inazuma-strikers"
 }

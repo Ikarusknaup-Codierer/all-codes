@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "HOTPATCH",
+   "reward": "1 Cosmic Chest"
+  },
+  {
+   "code": "DELAY",
+   "reward": "3,500 Coins"
+  },
+  {
+   "code": "DELAYCHEST",
+   "reward": "1 Cosmic Chest"
+  },
+  {
+   "code": "CHEST",
+   "reward": "1 Cosmic Chest"
+  },
+  {
    "code": "EVOLUTIONS",
    "reward": "10,000 Coins"
   },
@@ -47,7 +63,7 @@
    "reward": "1,750 Coins and 25 Gems"
   },
   {
-   "code": "MACHINE2",
+   "code": "NEWBALLS",
    "reward": "Rewards"
   },
   {
@@ -55,6 +71,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-18T15:32:55.067Z",
+ "updated": "2026-11-21T06:26:46.424Z",
  "source": "https://robloxden.com/game-codes/anime-ball-battles"
 }

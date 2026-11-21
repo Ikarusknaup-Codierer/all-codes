@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "MESI",
+   "reward": "5,000 Cash and 1 Club Pack"
+  },
+  {
+   "code": "INSTANT100",
+   "reward": "7,500 Cash and 1 Basic Pack"
+  },
+  {
    "code": "WELCOME",
    "reward": "$5,000"
   },
@@ -19,6 +27,6 @@
    "reward": "$2,500"
   }
  ],
- "updated": "2026-11-18T15:33:44.540Z",
+ "updated": "2026-11-21T06:27:26.493Z",
  "source": "https://robloxden.com/game-codes/be-a-soccer-manager"
 }

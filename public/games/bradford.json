@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "DELAY",
+   "reward": "2K Cash"
+  },
+  {
+   "code": "SORRY",
+   "reward": "2.5K Cash"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "7.5K Cash"
   }
  ],
- "updated": "2026-11-18T15:31:33.669Z",
+ "updated": "2026-11-21T06:25:43.761Z",
  "source": "https://robloxden.com/game-codes/bradford"
 }

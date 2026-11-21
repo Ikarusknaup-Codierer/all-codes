@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MidUpdate",
-   "reward": "20 Race Rerolls"
-  },
-  {
    "code": "W1TCH",
    "reward": "10 Race Rerolls"
   },
@@ -19,10 +15,14 @@
    "reward": "20 Race Rerolls"
   },
   {
+   "code": "MidUpdate",
+   "reward": "20 Race Rerolls"
+  },
+  {
    "code": "R1GEL",
    "reward": "10 Race Rerolls"
   }
  ],
- "updated": "2026-11-18T15:33:18.479Z",
+ "updated": "2026-11-21T06:27:04.852Z",
  "source": "https://robloxden.com/game-codes/retrials"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "QOL",
+   "reward": "50,000,000 Cash"
+  },
+  {
+   "code": "FREEBIE",
+   "reward": "10 Butter Bars"
+  },
+  {
    "code": "BELUGA",
    "reward": "the Airbus Beluga and 500,000 Cash"
   },
@@ -15,14 +23,14 @@
    "reward": "the Canadaair CL-415"
   },
   {
-   "code": "OOGABOOGA",
-   "reward": "2x XP Boost (1 Hour)"
+   "code": "KACHING",
+   "reward": "500 Miles and 500M Cash"
   },
   {
-   "code": "REBRAND",
-   "reward": "the 2 Rebrands"
+   "code": "OOGABOOGA",
+   "reward": "2x XP Boost (1 Hour)"
   }
  ],
- "updated": "2026-11-18T15:32:48.024Z",
+ "updated": "2026-11-21T06:26:40.462Z",
  "source": "https://robloxden.com/game-codes/airline-manager-flight-lanes"
 }

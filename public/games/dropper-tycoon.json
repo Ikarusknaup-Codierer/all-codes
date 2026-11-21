@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "25 Shiny Cogs"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "30 Shiny Cogs, 2× Factory Speed for 5 minutes and 1 random Mythic Ench"
+  },
+  {
+   "code": "THIRDUPDATE",
+   "reward": "40 Shiny Cogs, 2 Enchanting Luck for 15 minutes and 1 random Legendary"
+  },
+  {
+   "code": "UPDATECHANGES",
+   "reward": "25 Shiny Cogs, 1 Legendary Machinery Crate, 1 Thunder Profit Totem and"
+  },
+  {
+   "code": "HALLOWEENHOTFIX",
+   "reward": "30 Shiny Cogs and 1 Legendary Machinery Crate"
+  },
+  {
+   "code": "FINALHALLOWUPD",
+   "reward": "40 Shiny Cogs, 1 Legendary Machinery Crate, 1 Overdrive VI Book and 2 "
   }
  ],
- "updated": "2026-11-18T15:32:52.390Z",
+ "updated": "2026-11-21T06:26:44.298Z",
  "source": "https://robloxden.com/game-codes/dropper-tycoon"
 }

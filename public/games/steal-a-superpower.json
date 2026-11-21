@@ -5,8 +5,36 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "DISCORD",
+   "reward": "1 Legend Pack"
+  },
+  {
+   "code": "POTIONS",
+   "reward": "1 Luck Potion II"
+  },
+  {
+   "code": "1KCCU",
+   "reward": "1 Power Potion II"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "1 Power Potion III"
+  },
+  {
+   "code": "20KLIKES",
+   "reward": "1 Luck Potion III"
+  },
+  {
+   "code": "SOZFORUPDATES",
+   "reward": "1 Power Potion III"
+  },
+  {
+   "code": "30KLIKES",
+   "reward": "1 Luck Potion III"
   }
  ],
- "updated": "2026-11-19T00:08:48.818Z",
+ "updated": "2026-11-21T06:31:20.998Z",
  "source": "https://robloxden.com/game-codes/steal-a-superpower"
 }

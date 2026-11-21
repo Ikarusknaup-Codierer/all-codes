@@ -7,10 +7,66 @@
    "reward": "Description"
   },
   {
+   "code": "weshowattackspeed",
+   "reward": "a Permanent +5% Arena Attack Speed"
+  },
+  {
+   "code": "St3rbl3st",
+   "reward": "a Permanent +5% Perfect Starblast Chance"
+  },
+  {
+   "code": "HEAVEN",
+   "reward": "10,500 Cash and 1 Arena Potion (30 mins)"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "3,150 Cash , 193,200 Scrap , and 100 Pass XP"
+  },
+  {
+   "code": "STEELFIGHTERS",
+   "reward": "10,500 Cash"
+  },
+  {
+   "code": "SCRAPKING",
+   "reward": "966,000 Scrap"
+  },
+  {
+   "code": "TOSPACE",
+   "reward": "1 Money Potion (15 Minutes) and 1 Luck Potion (15 Minutes)"
+  },
+  {
+   "code": "DRONES",
+   "reward": "525 Cash and 241,500 Scrap"
+  },
+  {
+   "code": "LUCKY",
+   "reward": "1 Luck Potion (30 Minutes) and 2 Rerolls"
+  },
+  {
+   "code": "ARENA",
+   "reward": "10,500 Cash and 1 Arena Potion (30 Minutes)"
+  },
+  {
+   "code": "FREEDICE",
+   "reward": "2 Golden Dice"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "1 Golden Hammer , 2 Skip Tickets , and 150 Pass XP"
+  },
+  {
+   "code": "S3CRETC0DE",
+   "reward": "a Permanent +10% Arena Damage Boost"
+  },
+  {
+   "code": "ULTRASECRETC3DE",
+   "reward": "a Permanent +10% Cash Boost"
+  },
+  {
    "code": "AT0M3",
    "reward": "the Atom Robot and 1 Golden Dice"
   }
  ],
- "updated": "2026-11-18T15:32:49.317Z",
+ "updated": "2026-11-21T06:26:41.552Z",
  "source": "https://robloxden.com/game-codes/steel-fighters"
 }

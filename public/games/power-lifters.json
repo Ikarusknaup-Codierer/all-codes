@@ -7,14 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "HALLOWEEN",
-   "reward": "$5,000 and 400 Candy"
+   "code": "SORRYFORBUGS",
+   "reward": "$10,000 and 5 Gene Rolls"
   },
   {
-   "code": "MoreCandy!",
-   "reward": "300 Candy"
+   "code": "SPECIALBARS",
+   "reward": "$10,000 and 2x Gains (10 minutes)"
+  },
+  {
+   "code": "SorryForRestart",
+   "reward": "5 Gene Rolls"
+  },
+  {
+   "code": "UpdateNextWeek",
+   "reward": "$20,000 and 2x Gains (10 minutes)"
+  },
+  {
+   "code": "GENESPART2",
+   "reward": "$10,000 and 5 Gene Rolls"
   }
  ],
- "updated": "2026-11-18T15:34:26.713Z",
+ "updated": "2026-11-21T06:28:01.482Z",
  "source": "https://robloxden.com/game-codes/power-lifters"
 }

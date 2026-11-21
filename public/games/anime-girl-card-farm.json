@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "1 Variant Token (Halloween)"
+  },
+  {
+   "code": "COMMUNITY",
+   "reward": "10 Grade Tokens , 10 Trait Tokens , and 1 Variant Token Aurora"
+  },
+  {
    "code": "RELEASE",
    "reward": "3 Luck Potions , 3 Cash Potions , and 3 Token Speed Potions"
   },
@@ -15,6 +23,6 @@
    "reward": "1 Bluetooth Potion , 5 Grade Tokens , and 5 Trait Tokens"
   }
  ],
- "updated": "2026-11-18T15:31:32.517Z",
+ "updated": "2026-11-21T06:25:42.525Z",
  "source": "https://robloxden.com/game-codes/anime-girl-card-farm"
 }

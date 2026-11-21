@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "MIMIC",
+   "reward": "1K XP and 1 Roll"
+  },
+  {
+   "code": "REDPANDA",
+   "reward": "1 Roll"
+  },
+  {
+   "code": "HUBRETURN",
+   "reward": "1K XP and 1 Roll"
+  },
+  {
    "code": "HALLOWEEN26",
    "reward": "2K XP, 1K Halloween Coins and 3 Roll"
   }
  ],
- "updated": "2026-11-18T15:33:41.609Z",
+ "updated": "2026-11-21T06:27:24.294Z",
  "source": "https://robloxden.com/game-codes/backrooms"
 }

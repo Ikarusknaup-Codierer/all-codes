@@ -11,6 +11,10 @@
    "reward": "10 Minute Potion Effect"
   },
   {
+   "code": "fiveBigOnes",
+   "reward": "5,000 Money"
+  },
+  {
    "code": "rocklove",
    "reward": "Skeptical Brows"
   },
@@ -19,14 +23,10 @@
    "reward": "I <3 Rocks Accessory"
   },
   {
-   "code": "rockfriends",
-   "reward": "Glowing Red Demon Horns"
-  },
-  {
    "code": "update20",
    "reward": "Cave Crystal Eyes"
   }
  ],
- "updated": "2026-11-19T00:07:36.354Z",
+ "updated": "2026-11-21T06:30:22.827Z",
  "source": "https://robloxden.com/game-codes/rocks-1"
 }

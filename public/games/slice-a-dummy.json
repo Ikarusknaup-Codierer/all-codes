@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE5",
+   "reward": "500 Gear , 2x Cash (10 mins) , and 2x Strength (5 mins)"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "2x Cash (5 mins)"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "2x Strength (5 mins) and 2x Cash (5 mins)"
+  },
+  {
    "code": "RELEASE",
    "reward": "500 Strength"
   }
  ],
- "updated": "2026-11-19T00:08:53.593Z",
+ "updated": "2026-11-21T06:31:24.884Z",
  "source": "https://robloxden.com/game-codes/slice-a-dummy"
 }

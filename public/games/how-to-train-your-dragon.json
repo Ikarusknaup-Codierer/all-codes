@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "MONARCH",
+   "reward": "Rewards"
+  },
+  {
    "code": "SNOGGLETOG",
    "reward": "150 Snoggletog Coins"
   },
@@ -27,6 +31,6 @@
    "reward": "Free Reward"
   }
  ],
- "updated": "2026-11-19T00:06:26.237Z",
+ "updated": "2026-11-21T06:29:20.616Z",
  "source": "https://robloxden.com/game-codes/how-to-train-your-dragon"
 }

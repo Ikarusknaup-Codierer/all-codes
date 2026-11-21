@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "WELCOMEFOA",
+   "code": "VALENTINEDAY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "GNDSTUDIO10M",
    "reward": "1,000 Gold"
+  },
+  {
+   "code": "5000Likes",
+   "reward": "2x Energy Boost"
   },
   {
    "code": "VACATION",
    "reward": "1,000 Cash"
   },
   {
-   "code": "PSYCHICSSUMMER",
-   "reward": "1,000 Cash"
-  },
-  {
-   "code": "PSYCHICSSAITAMA",
-   "reward": "1,000 Cash"
-  },
-  {
-   "code": "RIPAKIRATORIYAMA",
+   "code": "PSYCHICSSHADOWLORD",
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-11-19T00:08:15.659Z",
+ "updated": "2026-11-21T06:30:54.644Z",
  "source": "https://robloxden.com/game-codes/psychics-power-tycoon"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "FRESHCUT",
+   "reward": "the Royal Purple Cape"
+  },
+  {
+   "code": "CREWCUT",
+   "reward": "200 Cash and Blurple Clippers"
+  },
+  {
    "code": "100KVISITS",
    "reward": "1,000 Cash and the Sapphire Clippers"
   },
@@ -15,6 +23,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-11-19T00:10:22.996Z",
+ "updated": "2026-11-21T06:32:42.811Z",
  "source": "https://robloxden.com/game-codes/barber-showdown"
 }

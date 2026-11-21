@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "1Million",
+   "reward": "1K Gold and 10 Crowns"
+  },
+  {
+   "code": "LUCKYFIND",
+   "reward": "2 Season 2 Basic Crates **"
+  },
+  {
+   "code": "HEROES",
+   "reward": "2.5K Gold"
+  },
+  {
+   "code": "SHINYHUNT",
+   "reward": "2 Season 4 Basic Crates"
   }
  ],
- "updated": "2026-11-18T15:32:49.926Z",
+ "updated": "2026-11-21T06:26:42.074Z",
  "source": "https://robloxden.com/game-codes/yatzy"
 }

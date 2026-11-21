@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE1",
+   "reward": "2,500 Cash"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "WHEELIE",
+   "reward": "the Kukirin G2 Max Scooter"
+  },
+  {
    "code": "MYTHIC",
    "reward": "3,000 Cash"
   },
@@ -19,6 +31,6 @@
    "reward": "2,500 Cash"
   }
  ],
- "updated": "2026-11-19T00:08:50.948Z",
+ "updated": "2026-11-21T06:31:22.752Z",
  "source": "https://robloxden.com/game-codes/scooter-gang"
 }

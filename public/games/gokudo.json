@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "GOODWEATHER",
+   "reward": "30 Rerolls"
+  },
+  {
+   "code": "RIDEWITHSTYLE",
+   "reward": "30 Rerolls and 10,000 Yen"
+  },
+  {
+   "code": "SHAREYOURAVA",
+   "reward": "30 Rerolls"
+  },
+  {
    "code": "BUGFIXDAY5",
    "reward": "100 Rerolls"
   },
@@ -339,6 +351,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-11-19T15:36:52.729Z",
+ "updated": "2026-11-22T05:56:31.819Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

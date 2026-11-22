@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ALLSTAR",
+   "reward": "1 All-Star Ticket"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "500 Jam Coins"
   },
@@ -15,6 +19,6 @@
    "reward": "a Ball Bag"
   }
  ],
- "updated": "2026-11-19T15:39:34.437Z",
+ "updated": "2026-11-22T05:58:16.469Z",
  "source": "https://robloxden.com/game-codes/hoop-jam"
 }

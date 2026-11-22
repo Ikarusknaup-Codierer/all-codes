@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "cocreaction",
+   "reward": "a 15-minute Cash Boost"
+  },
+  {
    "code": "happyhalloween",
    "reward": "100 Halloween Coins"
   },
@@ -27,6 +31,6 @@
    "reward": "a Cash Boost (15 Minute)"
   }
  ],
- "updated": "2026-11-20T00:30:14.915Z",
+ "updated": "2026-11-22T06:02:57.200Z",
  "source": "https://robloxden.com/game-codes/build-an-ant-empire"
 }

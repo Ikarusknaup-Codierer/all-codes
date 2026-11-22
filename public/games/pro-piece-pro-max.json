@@ -123,6 +123,10 @@
    "reward": "250 Coins , 2x Exp Boost (30 minutes) , 2x Luck Boost (30 minutes) , F"
   },
   {
+   "code": "CheckErzT7YTChannel",
+   "reward": "250 Coins , 2x Exp Boost (30 minutes) , 2x Drop Boost (30 minutes) , F"
+  },
+  {
    "code": "PROPROBIGPRO",
    "reward": "2x EXP Boost (30 minutes) , 2x Drop Rate (30 minutes) and Fruit Notifi"
   },
@@ -275,10 +279,6 @@
    "reward": "400 Coins , 2x EXP Boost (1 hour) , 2x Luck Boost (1 hour) , Fruit Not"
   },
   {
-   "code": "CheckErzT7YTChannel",
-   "reward": "250 Coins , 2x Exp Boost (30 minutes) , 2x Drop Boost (30 minutes) , F"
-  },
-  {
    "code": "MOBILEANDHARVEST",
    "reward": "3 Race Rerolls , 2x Exp (60 minutes) , 2x Drop Rate (60 minutes) , Fru"
   },
@@ -323,6 +323,6 @@
    "reward": "1 2x XP Boost"
   }
  ],
- "updated": "2026-11-19T15:38:04.147Z",
+ "updated": "2026-11-22T05:57:00.256Z",
  "source": "https://robloxden.com/game-codes/pro-piece-pro-max"
 }

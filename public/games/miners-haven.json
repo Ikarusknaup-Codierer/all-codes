@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "leftovercandy",
+   "reward": "500K Candies"
+  },
+  {
    "code": "hogog",
    "reward": "Hogog"
   },
@@ -47,6 +51,6 @@
    "reward": "the Shiny Guarantee"
   }
  ],
- "updated": "2026-11-19T15:39:50.555Z",
+ "updated": "2026-11-22T05:58:30.551Z",
  "source": "https://robloxden.com/game-codes/miners-haven"
 }

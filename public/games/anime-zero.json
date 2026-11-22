@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "HYPE",
+   "reward": "5 Lucky Spins , 3 Trait Rerolls , 20 Rolls , 100 Gems , and 2,500 Coin"
+  },
+  {
+   "code": "FIRSTUPDATE",
+   "reward": "1 Lucky Spin , 5 Trait Rerolls , 3 Rolls , 100 Gems , and 2,500 Coins "
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "2 Lucky Spins , 10 Trait Rerolls , 5 Rolls , 100 Gems , and 2,500 Coin"
+  },
+  {
+   "code": "UPDATE2",
+   "reward": "4 Lucky Spins , 10 Rolls , 100 Gems , and 2,500 Coins . This code requ"
+  },
+  {
    "code": "ZODIAC",
    "reward": "25 Trait Rerolls , 500 Gems , 25 Lucky Spins , and 50,000 Coins"
   },
@@ -159,6 +175,6 @@
    "reward": "2,500 Coins , 10 Rolls , and 1 Lucky Spin"
   }
  ],
- "updated": "2026-11-19T15:38:54.711Z",
+ "updated": "2026-11-22T05:57:41.267Z",
  "source": "https://robloxden.com/game-codes/anime-zero"
 }

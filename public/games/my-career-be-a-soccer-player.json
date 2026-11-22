@@ -9,8 +9,20 @@
   {
    "code": "100KVISITS",
    "reward": "2x XP (20 minutes)"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "2x XP (20 minutes)"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "2,000 Coins"
   }
  ],
- "updated": "2026-11-20T00:32:54.545Z",
+ "updated": "2026-11-22T06:05:06.876Z",
  "source": "https://robloxden.com/game-codes/my-career-be-a-soccer-player"
 }

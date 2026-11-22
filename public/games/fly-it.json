@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "500LIKES",
+   "reward": "a 250 Coins and 2 Revives"
+  },
+  {
    "code": "Halloween",
    "reward": "a 1x Halloween Case and 2x Revives"
   },
@@ -27,6 +31,6 @@
    "reward": "a 250 Coins , a Revive , and a Spin"
   }
  ],
- "updated": "2026-11-20T00:42:42.556Z",
+ "updated": "2026-11-22T14:28:44.727Z",
  "source": "https://robloxden.com/game-codes/fly-it"
 }

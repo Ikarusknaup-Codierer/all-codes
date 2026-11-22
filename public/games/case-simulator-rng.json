@@ -7,16 +7,24 @@
    "reward": "Description"
   },
   {
-   "code": "Crownwood",
-   "reward": "15 Trait Rerolls"
+   "code": "2v2battle",
+   "reward": "10 Trait Rerolls"
   },
   {
-   "code": "Autumn26",
+   "code": "skilltree",
+   "reward": "10 Trait Rerolls"
+  },
+  {
+   "code": "Crownwood",
    "reward": "15 Trait Rerolls"
   },
   {
    "code": "120kLikes",
    "reward": "15 Rerolls"
+  },
+  {
+   "code": "Autumn26",
+   "reward": "15 Trait Rerolls"
   },
   {
    "code": "ALMOSTHALLOWEEN",
@@ -43,6 +51,6 @@
    "reward": "Free Rewards . You must reach Level 10 to use this code"
   }
  ],
- "updated": "2026-11-20T15:11:55.955Z",
+ "updated": "2026-11-22T14:32:53.641Z",
  "source": "https://robloxden.com/game-codes/case-simulator-rng"
 }

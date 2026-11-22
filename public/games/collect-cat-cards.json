@@ -7,16 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "HARVEST",
+   "reward": "a 100 Acorns"
+  },
+  {
+   "code": "GOBBLE",
+   "reward": "a 30 Acorns"
+  },
+  {
    "code": "TOWERS",
    "reward": "5,000 Kibble , 2 of Your Best Packs , 2 Luck , a Super Luck and a Cash"
   },
   {
    "code": "MEOW",
    "reward": "250 Kibbles"
-  },
-  {
-   "code": "UPDATE6",
-   "reward": "a reward"
   },
   {
    "code": "GNPOTIONS",
@@ -39,6 +43,6 @@
    "reward": "500 Kibbles and a Luck Boost (15 Minutes)"
   }
  ],
- "updated": "2026-11-20T00:37:15.595Z",
+ "updated": "2026-11-22T14:26:39.578Z",
  "source": "https://robloxden.com/game-codes/collect-cat-cards"
 }

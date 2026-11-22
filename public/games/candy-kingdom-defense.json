@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "REROLLZ",
+   "reward": "25 Trait Crystals"
+  },
+  {
+   "code": "SORRYDELAY",
+   "reward": "15 Units of Juice"
+  },
+  {
    "code": "SORRYFORBUGS",
    "reward": "2,500 Halloween Candies"
   },
@@ -43,6 +51,6 @@
    "reward": "1,500 Gems , 15 Trait Crystals , and 5 Units of Juice"
   }
  ],
- "updated": "2026-11-20T15:11:49.587Z",
+ "updated": "2026-11-22T14:32:46.893Z",
  "source": "https://robloxden.com/game-codes/candy-kingdom-defense"
 }

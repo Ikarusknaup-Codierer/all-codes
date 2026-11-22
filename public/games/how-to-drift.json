@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DRIFTZONES",
-   "reward": "$35,000"
-  },
-  {
    "code": "SORRYFORDELAY",
    "reward": "2x Cash (20 Minutes)"
   },
@@ -35,10 +31,14 @@
    "reward": "60 Minutes of X2 Cash"
   },
   {
+   "code": "DRIFTZONES",
+   "reward": "$35,000"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "$66,666 and 2x Cash Boost (1 Hour)"
   }
  ],
- "updated": "2026-11-20T00:42:03.038Z",
+ "updated": "2026-11-22T14:28:10.900Z",
  "source": "https://robloxden.com/game-codes/how-to-drift"
 }

@@ -15,10 +15,6 @@
    "reward": "150 Candy Corn and 500 Coins"
   },
   {
-   "code": "CANDY",
-   "reward": "150 Candy Corns and 500 Coins"
-  },
-  {
    "code": "tuesdaysRock",
    "reward": "5 Wheel Spins"
   },
@@ -45,8 +41,12 @@
   {
    "code": "SPOOKYSEASON",
    "reward": "200 Candy Corn and 2 Wheel Spins"
+  },
+  {
+   "code": "CANDY",
+   "reward": "150 Candy Corns and 500 Coins"
   }
  ],
- "updated": "2026-11-20T15:09:20.018Z",
+ "updated": "2026-11-22T14:30:26.698Z",
  "source": "https://robloxden.com/game-codes/escape-huss-valley"
 }

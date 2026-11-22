@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEENRESET",
+   "reward": "the Refund Stats"
+  },
+  {
+   "code": "PITYSYSTEM",
+   "reward": "5 Copper Keys"
+  },
+  {
+   "code": "LEGACYISLAND",
+   "reward": "2x EXP for 20 Minutes"
+  },
+  {
+   "code": "MYTHICALDRAGON",
+   "reward": "2 Iron Keys"
+  },
+  {
+   "code": "UPDATE11PART1",
+   "reward": "the Stats Refund"
+  },
+  {
    "code": "TRADE8SLOTS",
    "reward": "100,000 Cash"
   },
@@ -35,14 +55,14 @@
    "reward": "1 Stat Reset"
   },
   {
-   "code": "UPDATE3_16",
-   "reward": ""
+   "code": "MOBILEFIXED",
+   "reward": "3 Chronicles Lore"
   },
   {
-   "code": "ALLO",
+   "code": "UPDATE3_16",
    "reward": ""
   }
  ],
- "updated": "2026-11-20T15:10:42.661Z",
+ "updated": "2026-11-22T14:31:43.357Z",
  "source": "https://robloxden.com/game-codes/king-legacy"
 }

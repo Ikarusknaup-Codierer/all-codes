@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "PRIME",
-   "reward": "a Cell and Exp Boost (1 Hour) . This code requires you to play for 15 "
-  },
-  {
-   "code": "HAPPYHALLOWEEN",
-   "reward": "31 Levels . This code requires you to play for 31 minutes"
-  },
-  {
    "code": "NOLIMITTOTHELARVA",
    "reward": "20 Levels . This code requires you to play for 30 minutes"
+  },
+  {
+   "code": "SrryForBugGuys",
+   "reward": "100 Tokens"
   },
   {
    "code": "Rose",
@@ -25,8 +21,12 @@
   {
    "code": "Srryforbugs",
    "reward": "180,000,000 XP"
+  },
+  {
+   "code": "Srryforbug",
+   "reward": "30M EXP and 30M Cells"
   }
  ],
- "updated": "2026-11-20T15:11:14.648Z",
+ "updated": "2026-11-22T14:32:13.917Z",
  "source": "https://robloxden.com/game-codes/kaiju-alpha"
 }

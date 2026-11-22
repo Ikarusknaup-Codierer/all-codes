@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "THRILLER",
-   "reward": "50 Scraps"
+   "code": "Rudolf",
+   "reward": "25 Gems And Some Snowballs"
   },
   {
-   "code": "SCRAPTASTIC",
-   "reward": "50 Scraps"
+   "code": "SPOOKYSEASON",
+   "reward": "Bonus Scrap"
   },
   {
    "code": "taiga",
@@ -21,8 +21,12 @@
   {
    "code": "SEASON4",
    "reward": "25 gems"
+  },
+  {
+   "code": "THANKSGIVING2020",
+   "reward": "40 gems"
   }
  ],
- "updated": "2026-11-20T00:35:56.484Z",
+ "updated": "2026-11-22T14:25:37.409Z",
  "source": "https://robloxden.com/game-codes/deathrun"
 }

@@ -11,22 +11,22 @@
    "reward": "1 Triple Strength Boost"
   },
   {
-   "code": "TWITTERBIRDCODE",
-   "reward": "Twitter Bird Pet"
+   "code": "UPDATE3",
+   "reward": "Op Boost"
   },
   {
-   "code": "20KLIKES",
-   "reward": "1 Super Lucky Boost"
-  },
-  {
-   "code": "10KLIKES",
-   "reward": "1 Super Lucky Boost"
-  },
-  {
-   "code": "HALLOWEEN",
+   "code": "UPDATE5",
    "reward": "1 Ultra Lucky Boost"
+  },
+  {
+   "code": "2KLIKES",
+   "reward": "1 Ultra Lucky Boost"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "1 Super Lucky Boost"
   }
  ],
- "updated": "2026-11-20T00:32:22.294Z",
+ "updated": "2026-11-22T14:23:36.616Z",
  "source": "https://robloxden.com/game-codes/buffman-simulator"
 }

@@ -15,26 +15,26 @@
    "reward": "35 Drachmas and 100 Reroll Tokens"
   },
   {
-   "code": "UPDATE6",
-   "reward": "35 Drachma and 100 Reroll Tokens"
-  },
-  {
-   "code": "6000LIKES",
-   "reward": "60 Reroll Tokens"
-  },
-  {
    "code": "RELEASE",
    "reward": "20 Drachma and 15 Reroll Tokens"
+  },
+  {
+   "code": "BUGFIX5",
+   "reward": "100 Reroll Tokens"
   },
   {
    "code": "BUGFIX2",
    "reward": "40 Drachma and 40 Reroll Tokens"
   },
   {
-   "code": "1000LIKES",
-   "reward": "40 Drachma and 65 Reroll Tokens"
+   "code": "UPDATE6",
+   "reward": "35 Drachma and 100 Reroll Tokens"
+  },
+  {
+   "code": "6000LIKES",
+   "reward": "60 Reroll Tokens"
   }
  ],
- "updated": "2026-11-20T00:34:44.837Z",
+ "updated": "2026-11-22T14:24:44.929Z",
  "source": "https://robloxden.com/game-codes/life-in-olympus"
 }

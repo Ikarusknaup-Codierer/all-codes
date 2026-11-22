@@ -7,6 +7,74 @@
    "reward": "Description"
   },
   {
+   "code": "UPD1",
+   "reward": "15,000 Coins"
+  },
+  {
+   "code": "RANKED",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "TYLOTUS",
+   "reward": "20,000 Coins"
+  },
+  {
+   "code": "100LIKES",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "200LIKES",
+   "reward": "2,000 Coins"
+  },
+  {
+   "code": "300LIKES",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "400LIKES",
+   "reward": "6,000 Coins"
+  },
+  {
+   "code": "700LIKES",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "1200LIKES",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "1500LIKES",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "2000LIKES",
+   "reward": "20,000 Coins"
+  },
+  {
+   "code": "2200LIKES",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "2500LIKES",
+   "reward": "20,000 Coins"
+  },
+  {
+   "code": "4000LIKES",
+   "reward": "20,000 Coins"
+  },
+  {
+   "code": "4500LIKES",
+   "reward": "15,000 Coins"
+  },
+  {
+   "code": "5000LIKES",
+   "reward": "20,000 Coins"
+  },
+  {
+   "code": "THANKYOUFOR1KPLAYERS",
+   "reward": "5,000 Coins"
+  },
+  {
    "code": "7000LIKES",
    "reward": "10,000 Coins"
   },
@@ -39,6 +107,6 @@
    "reward": "15,000 Coins"
   }
  ],
- "updated": "2026-11-20T00:35:48.930Z",
+ "updated": "2026-11-22T14:25:31.749Z",
  "source": "https://robloxden.com/game-codes/ragdoll-sword-battles"
 }

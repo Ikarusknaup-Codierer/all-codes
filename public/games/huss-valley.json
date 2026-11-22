@@ -11,16 +11,8 @@
    "reward": "1 Wheel Spin , 50 Gems , and 100 Coins"
   },
   {
-   "code": "SPOOKYSEASON",
-   "reward": "200 Candy Corn and 2 Wheel Spins"
-  },
-  {
    "code": "INFECTION",
    "reward": "150 Candy Corn and 500 Coins"
-  },
-  {
-   "code": "CANDY",
-   "reward": "150 Candy Corns and 500 Coins"
   },
   {
    "code": "tuesdaysRock",
@@ -45,8 +37,16 @@
   {
    "code": "TRICKORTREAT",
    "reward": "150 Candy Corn"
+  },
+  {
+   "code": "SPOOKYSEASON",
+   "reward": "200 Candy Corn and 2 Wheel Spins"
+  },
+  {
+   "code": "CANDY",
+   "reward": "150 Candy Corns and 500 Coins"
   }
  ],
- "updated": "2026-11-20T00:38:13.413Z",
+ "updated": "2026-11-22T14:27:23.430Z",
  "source": "https://robloxden.com/game-codes/huss-valley"
 }

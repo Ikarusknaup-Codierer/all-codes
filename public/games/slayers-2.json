@@ -35,10 +35,14 @@
    "reward": "the Stat Point Reset"
   },
   {
+   "code": "PreUpdateCurrency",
+   "reward": "75 Spins , 25,000 Wen and 5 Ore"
+  },
+  {
    "code": "Roguelike",
    "reward": "35 Spins"
   }
  ],
- "updated": "2026-11-20T00:33:58.757Z",
+ "updated": "2026-11-22T14:24:14.218Z",
  "source": "https://robloxden.com/game-codes/slayers-2"
 }

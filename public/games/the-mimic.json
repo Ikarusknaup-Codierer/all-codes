@@ -11,6 +11,10 @@
    "reward": "500 Spirits"
   },
   {
+   "code": "Sorryforwait",
+   "reward": "1,000 Spirits"
+  },
+  {
    "code": "SpookyMonth",
    "reward": "800 Spirits and 2 Revive Credits"
   },
@@ -21,12 +25,8 @@
   {
    "code": "ChenooReturns",
    "reward": "500 Spirits and 2 Revive Credits"
-  },
-  {
-   "code": "ThankYouForBeingPatient",
-   "reward": "800 Spirits and 2 Revive Credits"
   }
  ],
- "updated": "2026-11-20T00:37:59.936Z",
+ "updated": "2026-11-22T14:27:14.162Z",
  "source": "https://robloxden.com/game-codes/the-mimic"
 }

@@ -47,22 +47,18 @@
    "reward": "45 Rerolls and 4 Potions"
   },
   {
-   "code": "SORRYFORDELAY",
-   "reward": "25 Rerolls"
+   "code": "5000Likes",
+   "reward": "50 Rerolls , 1 Reforge Stone , 1 Honing Stone , and 2 Luck Potions"
   },
   {
    "code": "INFERNIA",
    "reward": "12 Race Rerolls and an XP Potion"
   },
   {
-   "code": "TIER6RUNES",
-   "reward": "10 Race Rerolls and a Luck Potion"
-  },
-  {
    "code": "250LIKES",
    "reward": "20 Race Rerolls , a Cash Potion , an XP Potion , a Quantity Potion , a"
   }
  ],
- "updated": "2026-11-20T00:31:08.724Z",
+ "updated": "2026-11-22T14:23:25.533Z",
  "source": "https://robloxden.com/game-codes/delve"
 }

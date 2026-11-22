@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE2",
+   "reward": "3x Luck (20 Minutes) and 3x Money (20 Minutes)"
+  },
+  {
+   "code": "FANTASY",
+   "reward": "3x Luck (20 Minutes) and 3x Money (20 Minutes)"
+  },
+  {
+   "code": "ADMINABUSE",
+   "reward": "2x Luck (15 Minutes) and 2x Roll Speed (15 Minutes)"
+  },
+  {
    "code": "5KLIKES",
    "reward": "5x Luck (30 Minutes) and 3x Roll Speed (30 Minutes)"
   },
@@ -51,6 +63,6 @@
    "reward": "5x Luck for (15 Minutes)"
   }
  ],
- "updated": "2026-11-20T00:37:49.135Z",
+ "updated": "2026-11-22T14:27:06.448Z",
  "source": "https://robloxden.com/game-codes/roll-a-barber-rng"
 }

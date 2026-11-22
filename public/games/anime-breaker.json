@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "27MVISITS",
+   "reward": "rewards"
+  },
+  {
+   "code": "AUTOTRIAL",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "BIZARREDESERT",
+   "reward": "200 Emeralds and 2 of each T3 Potions"
+  },
+  {
+   "code": "HORSESTABLE",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "BIZARRECRAFT",
+   "reward": "200 Emeralds"
+  },
+  {
    "code": "26MVISITS",
    "reward": "200 Emeralds"
   },
@@ -331,6 +351,6 @@
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
   }
  ],
- "updated": "2026-11-20T15:12:59.648Z",
+ "updated": "2026-11-22T23:28:41.072Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

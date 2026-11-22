@@ -9,8 +9,32 @@
   {
    "code": "SOAPCLUB",
    "reward": "25 Scent Capsules and a Lather Lane Local Title"
+  },
+  {
+   "code": "CARAMEL",
+   "reward": "50 Scent Capsules, 1.5K Coins and 100 Acorns"
+  },
+  {
+   "code": "LATHERMORE",
+   "reward": "25 Scent Capsules and 1,000 Coins"
+  },
+  {
+   "code": "Refund",
+   "reward": "200 Acorns"
+  },
+  {
+   "code": "SUNDAYBRUNCH",
+   "reward": "25 Scent Capsules , 150 Acorns , and 1,000 Coins"
+  },
+  {
+   "code": "SPECIALDELIVERY",
+   "reward": "50 Acorns and 10 Scent Capsules"
+  },
+  {
+   "code": "1MILLION",
+   "reward": "100 Scent Capsules, 2.5K Coins and 250 Acorns"
   }
  ],
- "updated": "2026-11-20T15:14:33.940Z",
+ "updated": "2026-11-22T23:30:07.703Z",
  "source": "https://robloxden.com/game-codes/make-soaps"
 }

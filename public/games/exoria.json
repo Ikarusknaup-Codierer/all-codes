@@ -19,14 +19,14 @@
    "reward": "10 Rolls"
   },
   {
-   "code": "YAY",
-   "reward": "5 Rolls"
-  },
-  {
    "code": "VOIDROLL",
    "reward": "Free Rerolls"
+  },
+  {
+   "code": "MOREROLLS",
+   "reward": "5 Rolls"
   }
  ],
- "updated": "2026-11-20T15:17:10.532Z",
+ "updated": "2026-11-22T23:32:22.770Z",
  "source": "https://robloxden.com/game-codes/exoria"
 }

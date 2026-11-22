@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GRADEUP",
+   "reward": "3 Grade ZZ Tokens"
+  },
+  {
+   "code": "RELICS4U",
+   "reward": "2 Relic Chests"
+  },
+  {
    "code": "HAPPYHALLOW",
    "reward": "10 Halloween Tokens"
   },
@@ -15,12 +23,12 @@
    "reward": "2 Relic Chests"
   },
   {
-   "code": "RETRO2",
-   "reward": "a Relic Chest and a Chibi Chest"
-  },
-  {
    "code": "HALLOWEEN",
    "reward": "a Citron Token , 300 Grade Tokens , and 5 Clan Tokens"
+  },
+  {
+   "code": "RETRO2",
+   "reward": "a Relic Chest and a Chibi Chest"
   },
   {
    "code": "BOSS",
@@ -159,6 +167,6 @@
    "reward": "a Free Cash Pack"
   }
  ],
- "updated": "2026-11-20T15:13:22.210Z",
+ "updated": "2026-11-22T23:29:01.273Z",
  "source": "https://robloxden.com/game-codes/anime-waifu-card-collection"
 }

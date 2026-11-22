@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "YallSoHungry",
+   "reward": "20,000 Cash"
+  },
+  {
    "code": "SORRYFORSKILLTREE",
    "reward": "20,000 XP and $500"
   },
   {
    "code": "LAZYGENIUS",
    "reward": "5K Cash"
-  },
-  {
-   "code": "GOATMARU",
-   "reward": "500 XP and 3K Cash"
   },
   {
    "code": "SORRYFORTHEBUGSAGAIN",
@@ -27,6 +27,6 @@
    "reward": "4,000 Cash"
   }
  ],
- "updated": "2026-11-20T15:15:42.053Z",
+ "updated": "2026-11-22T23:31:07.775Z",
  "source": "https://robloxden.com/game-codes/foot-bolt"
 }

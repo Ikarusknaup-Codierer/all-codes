@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "YOURSELF_UNIT",
+   "reward": "1 Cosplay Unit"
+  },
+  {
    "code": "MTD",
    "reward": "100 Cash"
   },
@@ -35,6 +39,6 @@
    "reward": "a The Boys Crate"
   }
  ],
- "updated": "2026-11-20T15:15:16.807Z",
+ "updated": "2026-11-22T23:30:46.111Z",
  "source": "https://robloxden.com/game-codes/multiverse-tower-defense"
 }

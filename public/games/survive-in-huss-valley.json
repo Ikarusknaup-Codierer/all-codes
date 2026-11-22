@@ -15,10 +15,6 @@
    "reward": "150 Candy Corn and 500 Coins"
   },
   {
-   "code": "CANDY",
-   "reward": "150 Candy Corns and 500 Coins"
-  },
-  {
    "code": "tuesdaysRock",
    "reward": "5 Wheel Spins"
   },
@@ -45,8 +41,12 @@
   {
    "code": "SPOOKYSEASON",
    "reward": "200 Candy Corn and 2 Wheel Spins"
+  },
+  {
+   "code": "CANDY",
+   "reward": "150 Candy Corns and 500 Coins"
   }
  ],
- "updated": "2026-11-20T15:23:04.981Z",
+ "updated": "2026-11-22T23:34:23.868Z",
  "source": "https://robloxden.com/game-codes/survive-in-huss-valley"
 }

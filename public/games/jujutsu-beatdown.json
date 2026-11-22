@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "jjbv2soon",
-   "reward": "100 Gems"
-  },
-  {
    "code": "AbsoluteComedy",
    "reward": "200 Gems"
   },
@@ -21,8 +17,12 @@
   {
    "code": "BadFatherBase",
    "reward": "100 Gems"
+  },
+  {
+   "code": "RagaSummon",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-20T15:17:17.186Z",
+ "updated": "2026-11-22T23:32:28.374Z",
  "source": "https://robloxden.com/game-codes/jujutsu-beatdown"
 }

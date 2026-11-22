@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "TOURNAMENT",
-   "reward": "1,500 Bloodline Score and 5 Clan Rerolls"
-  },
-  {
    "code": "BORUTO",
    "reward": "2,000 Bloodline Score and 5 Free Clan Rerolls"
   },
@@ -21,8 +17,12 @@
   {
    "code": "PLSMOBILEWORK",
    "reward": "3000 Bloodline Score"
+  },
+  {
+   "code": "WEWAITEDFORWEEKS",
+   "reward": "1500 Bloodline Score and 5 Clan Rerolls"
   }
  ],
- "updated": "2026-11-20T23:52:30.205Z",
+ "updated": "2026-11-22T23:36:44.797Z",
  "source": "https://robloxden.com/game-codes/bitshippuden"
 }

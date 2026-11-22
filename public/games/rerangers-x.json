@@ -43,14 +43,14 @@
    "reward": "1 Asto (Half) , 150 Trait Rerolls , 20,000 Gems , and 100,000 Gold . Y"
   },
   {
-   "code": "THEPLAYER",
-   "reward": "50 Trait Rerolls , 5 Blue Essence Crystals , 5 Pink Essence Crystals ,"
+   "code": "BUILTINMACRO",
+   "reward": "50 Trait Reroll , 2 Sapphire Gear Fragment , 5 Emerald Gear Fragment ,"
   },
   {
-   "code": "FollowUpTheIG!!!",
-   "reward": "10 Platinum Chests and 100 Rerolls"
+   "code": "!TYBW",
+   "reward": "15 Trait Rerolls"
   }
  ],
- "updated": "2026-11-20T15:15:07.454Z",
+ "updated": "2026-11-22T23:30:36.962Z",
  "source": "https://robloxden.com/game-codes/rerangers-x"
 }

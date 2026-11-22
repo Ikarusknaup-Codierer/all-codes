@@ -7,14 +7,30 @@
    "reward": "Description"
   },
   {
-   "code": "ThanksFor500K",
-   "reward": "x2 Luck (10 mins)"
+   "code": "KaidoBossBug",
+   "reward": "2x Luck (15 Minutes)"
+  },
+  {
+   "code": "Buubles",
+   "reward": "2x Cash (15 Minutes)"
+  },
+  {
+   "code": "AdminAbuse2",
+   "reward": "2x Speed (15 Minutes)"
+  },
+  {
+   "code": "Sorry",
+   "reward": "2x Mutation (15 Minutes)"
   },
   {
    "code": "AdminAbuse",
    "reward": "x2 Speed (10 mins)"
+  },
+  {
+   "code": "StealAnAnimePack",
+   "reward": "x2 Cash (10 mins)"
   }
  ],
- "updated": "2026-11-20T15:13:08.258Z",
+ "updated": "2026-11-22T23:28:48.849Z",
  "source": "https://robloxden.com/game-codes/steal-an-anime-pack"
 }

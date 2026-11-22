@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "RAIDGACHA",
+   "reward": "1,000 Candy Corns , 2 Boss Tickets , and 2 Wheel Spins"
+  },
+  {
+   "code": "RANKEDSHUTDOWN",
+   "reward": "500 Candy Corns , 2 Boss Tickets , and 2 Wheel Spins"
+  },
+  {
+   "code": "RANKEDUPDATE",
+   "reward": "1,000 Candy Corns , 5 Boss Tickets , and 10 Wheel Spins"
+  },
+  {
+   "code": "BLACKFLASH",
+   "reward": "750 Candy Corns , 3 Boss Tickets , and 5 Wheel Spins"
+  },
+  {
    "code": "ESKANOR",
    "reward": "1,000 Candy Corn , 3 Boss Tickets , 3 Halloween Capsules , Candy Rush "
   },
@@ -75,6 +91,6 @@
    "reward": "500 Candy Corns and 3 Boss Tickets"
   }
  ],
- "updated": "2026-11-20T15:15:44.705Z",
+ "updated": "2026-11-22T23:31:09.629Z",
  "source": "https://robloxden.com/game-codes/anime-ball-duels"
 }

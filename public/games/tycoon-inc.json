@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "4point1",
+   "reward": "125 Coins , 5 Painite , and 5 Cubits"
+  },
+  {
+   "code": "AfterDark",
+   "reward": "It's dark and bright at the same time Message"
+  },
+  {
    "code": "FLOOR0",
    "reward": "Exclusive Rewards"
   },
@@ -47,6 +55,6 @@
    "reward": "exclusive rewards"
   }
  ],
- "updated": "2026-11-21T00:05:07.696Z",
+ "updated": "2026-11-23T06:53:15.337Z",
  "source": "https://robloxden.com/game-codes/tycoon-inc"
 }

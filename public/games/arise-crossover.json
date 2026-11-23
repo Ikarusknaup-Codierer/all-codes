@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BLOODMOON",
+   "reward": "3 Gem Packs 2 , 3 Cash Packs 2 , 200 Tickets , 5 Spins , 3 Potion Bund"
+  },
+  {
+   "code": "BLOODMOONMANOR",
+   "reward": "2 Gems Pack 2 , 600 Soul Candies , 2 Halloween Raid Keys , 3 Red Dunge"
+  },
+  {
    "code": "ARISECROSSOVER",
    "reward": "Rewards"
   },
@@ -103,6 +111,6 @@
    "reward": "99 Tickets"
   }
  ],
- "updated": "2026-11-20T23:57:36.272Z",
+ "updated": "2026-11-23T06:50:27.818Z",
  "source": "https://robloxden.com/game-codes/arise-crossover"
 }

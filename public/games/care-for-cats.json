@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SECRETCAT",
+   "reward": "500 Paw Pennies"
+  },
+  {
    "code": "FIREWORKS",
    "reward": "250 Golden Fish"
   },
@@ -23,6 +27,6 @@
    "reward": "Free rewards"
   }
  ],
- "updated": "2026-11-20T23:58:00.578Z",
+ "updated": "2026-11-23T06:50:50.005Z",
  "source": "https://robloxden.com/game-codes/care-for-cats"
 }

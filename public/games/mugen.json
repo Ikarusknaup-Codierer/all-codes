@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "DRUMSOON",
+   "reward": "15,000 Yen"
+  },
+  {
+   "code": "ITSCOLD",
+   "reward": "10 Wheel Spins"
+  },
+  {
+   "code": "MOREQUEST",
+   "reward": "20,000 Yen"
+  },
+  {
+   "code": "WEDWARD",
+   "reward": "15 Lucky Spins"
+  },
+  {
    "code": "NEWMAP",
    "reward": "7 Lucky Spins and 50,000 Yen"
   },
@@ -71,6 +87,6 @@
    "reward": "100K Yen"
   }
  ],
- "updated": "2026-11-20T23:55:22.765Z",
+ "updated": "2026-11-23T06:48:30.018Z",
  "source": "https://robloxden.com/game-codes/mugen"
 }

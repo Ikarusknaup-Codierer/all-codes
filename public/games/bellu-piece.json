@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "100PLAYERS",
+   "reward": "Reset Stat Points"
+  },
+  {
    "code": "10KVISITS",
    "reward": "1 Beli"
   },
@@ -21,12 +25,8 @@
   {
    "code": "100LIKES",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "SORRYFORTHEBUGS",
-   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-20T23:55:55.463Z",
+ "updated": "2026-11-23T06:48:57.949Z",
  "source": "https://robloxden.com/game-codes/bellu-piece"
 }

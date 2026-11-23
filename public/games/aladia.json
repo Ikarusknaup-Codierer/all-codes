@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Prim",
+   "reward": "100 Diamonds . You need to reach Level 5 to use this code"
+  },
+  {
    "code": "freegamepass2",
    "reward": "Rewards . You need to be level 5 to redeem this code"
   },
@@ -431,6 +435,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-11-20T23:51:36.157Z",
+ "updated": "2026-11-23T06:46:11.028Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

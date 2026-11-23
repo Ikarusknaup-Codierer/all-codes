@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "KingComing",
+   "reward": "a reward"
+  },
+  {
    "code": "IMDEAD",
    "reward": "1,000 Skulls"
   },
@@ -51,6 +55,6 @@
    "reward": "3,000 Gems"
   }
  ],
- "updated": "2026-11-21T00:00:08.103Z",
+ "updated": "2026-11-23T06:51:50.274Z",
  "source": "https://robloxden.com/game-codes/dream-car-collection"
 }

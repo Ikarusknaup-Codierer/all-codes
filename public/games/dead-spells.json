@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Sovereign",
+   "reward": "100 Burgers and 100 Candy"
+  },
+  {
+   "code": "HalloweenPartTwo",
+   "reward": "150 Burgers and 100 Candy"
+  },
+  {
    "code": "Scarecrow",
    "reward": "100 Burgers and 100 Candy"
   },
@@ -119,6 +127,6 @@
    "reward": "200 Burgers"
   }
  ],
- "updated": "2026-11-20T23:54:59.028Z",
+ "updated": "2026-11-23T06:48:10.710Z",
  "source": "https://robloxden.com/game-codes/dead-spells"
 }

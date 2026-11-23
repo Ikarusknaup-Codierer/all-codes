@@ -7,12 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "RARITIES",
+   "reward": "10 Jade and **1 of Each Path Potion"
+  },
+  {
    "code": "WORLD11",
    "reward": "Rewards"
   },
   {
    "code": "WORLD10",
    "reward": "10 Tickets and 3 of Each Potion"
+  },
+  {
+   "code": "SAMSARA",
+   "reward": "10 Tickets and 10 Jade"
   },
   {
    "code": "WORLD10PART2",
@@ -303,6 +311,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-11-20T23:52:35.123Z",
+ "updated": "2026-11-23T06:46:30.665Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

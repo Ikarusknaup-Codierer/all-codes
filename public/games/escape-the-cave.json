@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LUCK",
+   "reward": "10 Lucky Spins , 1,000 Pass XP , and 1,000 Gems"
+  },
+  {
    "code": "CLANS",
    "reward": "500 Gems"
   },
@@ -31,6 +35,6 @@
    "reward": "1,000 EXP and 200 Candies"
   }
  ],
- "updated": "2026-11-21T00:06:08.472Z",
+ "updated": "2026-11-23T06:54:01.089Z",
  "source": "https://robloxden.com/game-codes/escape-the-cave"
 }

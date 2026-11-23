@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PAINTBALL",
+   "reward": "7 Spins and 30,000 Coins"
+  },
+  {
    "code": "TRICKORTREAT!",
    "reward": "10,000 Coins, 7 Spins, and 2,500 Candy Corn"
   },
@@ -23,6 +27,6 @@
    "reward": "5 Spins and 10,000 Points"
   }
  ],
- "updated": "2026-11-21T00:00:30.869Z",
+ "updated": "2026-11-23T06:52:02.499Z",
  "source": "https://robloxden.com/game-codes/elite-class"
 }

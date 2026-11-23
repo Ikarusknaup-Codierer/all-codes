@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Maintenance",
+   "reward": "Free Rewards . You must be at least level 200 to use this code"
+  },
+  {
    "code": "Halloween",
    "reward": "Freebies . To use this code, you must be at least level 200 in-game"
   },
@@ -283,6 +287,6 @@
    "reward": "10 Tickets , 15 Crystals , and 20,000 Cash . You must be level 20 to c"
   }
  ],
- "updated": "2026-11-20T23:58:55.433Z",
+ "updated": "2026-11-23T06:51:14.100Z",
  "source": "https://robloxden.com/game-codes/heavyweight-fishing"
 }

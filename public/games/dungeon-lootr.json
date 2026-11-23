@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE5",
+   "reward": "3 Aspect Gems"
+  },
+  {
+   "code": "ARSENALCRAWL",
+   "reward": "5 Exotic Ingots"
+  },
+  {
+   "code": "THANKSFORWAITING",
+   "reward": "3 Perfect Reforge Stones and 3 Spirit Prisms"
+  },
+  {
    "code": "UPDATE4",
    "reward": "5 Aspect Gems"
   },
@@ -135,6 +147,6 @@
    "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-11-20T23:54:25.874Z",
+ "updated": "2026-11-23T06:47:45.895Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

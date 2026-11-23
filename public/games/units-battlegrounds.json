@@ -11,22 +11,22 @@
    "reward": "Coconuts, Coins, And Gems"
   },
   {
-   "code": "2500likes",
-   "reward": "2,000 Coins"
+   "code": "come_little_boy",
+   "reward": "70 Gems"
   },
   {
-   "code": "500likes",
-   "reward": "1,200 Coins"
-  },
-  {
-   "code": "BATTLEPASSED",
-   "reward": "20k Coins And 100 Gems"
+   "code": "250likes",
+   "reward": "Reward"
   },
   {
    "code": "Battlepass",
    "reward": "5,000 Coins and 300 Gems"
+  },
+  {
+   "code": "5000likes",
+   "reward": "1.5x Coins Boost (15 minutes)"
   }
  ],
- "updated": "2026-11-20T23:57:11.450Z",
+ "updated": "2026-11-23T06:50:05.136Z",
  "source": "https://robloxden.com/game-codes/units-battlegrounds"
 }

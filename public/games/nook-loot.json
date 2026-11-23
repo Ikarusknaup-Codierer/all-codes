@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "welcomeback",
+   "reward": "80 Ncoins"
+  },
+  {
+   "code": "map5",
+   "reward": "100 of Each Elemental Crystal and 5 Random Advanced Crystal"
+  },
+  {
    "code": "trade",
    "reward": "2,000 Coins and 2 Spirit Wing Shards"
   },
@@ -39,6 +47,6 @@
    "reward": "5 Random Advanced Crystals and 1,000 Endless Coins"
   }
  ],
- "updated": "2026-11-21T00:06:56.207Z",
+ "updated": "2026-11-23T06:54:35.940Z",
  "source": "https://robloxden.com/game-codes/nook-loot"
 }

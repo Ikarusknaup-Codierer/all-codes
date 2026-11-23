@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BIKES",
+   "reward": "50 Rerolls"
+  },
+  {
    "code": "HALLOWEEKEND",
    "reward": "25 Rerolls"
   },
@@ -27,7 +31,7 @@
    "reward": "10 Rerolls"
   },
   {
-   "code": "PATCH",
+   "code": "OG",
    "reward": "50 Rerolls"
   },
   {
@@ -35,6 +39,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-21T00:05:25.848Z",
+ "updated": "2026-11-23T06:53:27.108Z",
  "source": "https://robloxden.com/game-codes/kabuki"
 }

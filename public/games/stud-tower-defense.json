@@ -19,14 +19,14 @@
    "reward": "30 Shards"
   },
   {
-   "code": "DONTBREAKTHEGAME",
-   "reward": "1,000 Cash and 10 Shards"
-  },
-  {
    "code": "LOADSAMONEY",
    "reward": "3,000 Cash and 9 Shards"
+  },
+  {
+   "code": "WALLOP",
+   "reward": "3,000 Cash"
   }
  ],
- "updated": "2026-11-21T06:33:49.180Z",
+ "updated": "2026-11-23T23:46:26.499Z",
  "source": "https://robloxden.com/game-codes/stud-tower-defense"
 }

@@ -7,8 +7,28 @@
    "reward": "Description"
   },
   {
+   "code": "SHUTDOWNSORRY2",
+   "reward": "1 Spin Ticket , 2 Arrows and 2 Rokakaka"
+  },
+  {
    "code": "CONSOLEFIX",
    "reward": "a Shiny Arrow"
+  },
+  {
+   "code": "SHUTDOWNSORRY",
+   "reward": "an Arrow and a Rokakaka Fruit"
+  },
+  {
+   "code": "SCARYMONSTERS",
+   "reward": "2 Arrows and 2 Rokakaka Fruits"
+  },
+  {
+   "code": "WIRED",
+   "reward": "2 Arrows and 2 Rokakaka Fruits"
+  },
+  {
+   "code": "200KLIKES",
+   "reward": "1 Spin"
   },
   {
    "code": "150KLIKES",
@@ -35,6 +55,6 @@
    "reward": "a Rokaka Fruit and an Arrow"
   }
  ],
- "updated": "2026-11-21T06:27:28.147Z",
+ "updated": "2026-11-23T23:40:44.004Z",
  "source": "https://robloxden.com/game-codes/a-bizarre-run"
 }

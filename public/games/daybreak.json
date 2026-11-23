@@ -139,14 +139,14 @@
    "reward": "100 Gems"
   },
   {
-   "code": "5KGROUPMEMBERS",
-   "reward": "640 Gems and 6400 Coins"
-  },
-  {
    "code": "50KPLAYS",
    "reward": "640 Gems And 6400 Coins"
+  },
+  {
+   "code": "SORRYSHUTDOWN",
+   "reward": "320 Gems And 3200 Coins"
   }
  ],
- "updated": "2026-11-21T06:32:40.528Z",
+ "updated": "2026-11-23T23:45:36.015Z",
  "source": "https://robloxden.com/game-codes/daybreak"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "vault",
+   "reward": "2,000 Cash , 200 Chroma , and 2x Vault Pack"
+  },
+  {
    "code": "goldrush",
    "reward": "2,000 Cash , 2,000 Chroma , and 2 Gold Rush Pack"
   },
@@ -15,6 +19,6 @@
    "reward": "2,000 Cash , 2,000 Chroma , 1 Molten Tides Premium Pack , and 1 Nights"
   }
  ],
- "updated": "2026-11-21T06:30:24.930Z",
+ "updated": "2026-11-23T23:43:28.301Z",
  "source": "https://robloxden.com/game-codes/run-a-card-shop"
 }

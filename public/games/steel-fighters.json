@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "HELL",
+   "reward": "an Infernal Dice Roll and an Arena Potion (30 Minutes)"
+  },
+  {
+   "code": "MORPH",
+   "reward": "Money Potion (39 Minutes) and 16,520 Cash"
+  },
+  {
+   "code": "UPD2",
+   "reward": "a Godly Dice"
+  },
+  {
    "code": "weshowattackspeed",
    "reward": "a Permanent +5% Arena Attack Speed"
   },
@@ -67,6 +79,6 @@
    "reward": "the Atom Robot and 1 Golden Dice"
   }
  ],
- "updated": "2026-11-21T06:26:41.552Z",
+ "updated": "2026-11-23T23:40:02.301Z",
  "source": "https://robloxden.com/game-codes/steel-fighters"
 }

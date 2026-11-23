@@ -15,18 +15,18 @@
    "reward": "3 Lucky Boost II, 3 Roll Speed Boost II, 3 Stone Boost II, And 3 EXP B"
   },
   {
+   "code": "boss5",
+   "reward": "5 Boss Skip Scrolls"
+  },
+  {
    "code": "kun",
    "reward": "Free Rewards"
   },
   {
-   "code": "ticket",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "trait",
+   "code": "snow",
    "reward": "Boosts"
   }
  ],
- "updated": "2026-11-21T06:31:52.484Z",
+ "updated": "2026-11-23T23:44:51.290Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-rng"
 }

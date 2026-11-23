@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Goku",
+   "reward": "75 Rerolls"
+  },
+  {
+   "code": "CodeRot",
+   "reward": "65 Rerolls"
+  },
+  {
+   "code": "FreeSlot",
+   "reward": "a Vessel Slot"
+  },
+  {
+   "code": "ConsoleCodeRot",
+   "reward": "35 Rerolls"
+  },
+  {
    "code": "Songbird",
    "reward": "50 Rerolls"
   },
@@ -127,6 +143,6 @@
    "reward": "Rewards . You need to be level 10 to redeem this code"
   }
  ],
- "updated": "2026-11-21T06:26:59.306Z",
+ "updated": "2026-11-23T23:40:16.394Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "Bingus",
+   "reward": "50M Cash"
+  },
+  {
+   "code": "Spin",
+   "reward": "3 Lucky Spins"
+  },
+  {
+   "code": "FALL",
+   "reward": "1,250 Miles"
+  },
+  {
+   "code": "MOBILEFIX",
+   "reward": "1,000 Miles"
+  },
+  {
    "code": "QOL",
    "reward": "50,000,000 Cash"
   },
@@ -31,6 +47,6 @@
    "reward": "2x XP Boost (1 Hour)"
   }
  ],
- "updated": "2026-11-21T06:26:40.462Z",
+ "updated": "2026-11-23T23:40:01.259Z",
  "source": "https://robloxden.com/game-codes/airline-manager-flight-lanes"
 }

@@ -7,10 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "RIDE",
+   "reward": "150 Speed and 2,500 Cash"
+  },
+  {
+   "code": "EGG",
+   "reward": "150 Speed and 1,000 Cash"
+  },
+  {
+   "code": "EGGS",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "ESCAPE",
+   "reward": "75 Speed and 500 Cash"
+  },
+  {
+   "code": "STARTER",
+   "reward": "5,000 Cash and 300 Speed"
+  },
+  {
+   "code": "HACKERUPDATE",
+   "reward": "450 Speed and 7,500 Cash"
+  },
+  {
+   "code": "HACKER",
+   "reward": "500 Chips and a Hacker Spin"
+  },
+  {
    "code": "ZERODAY",
    "reward": "300 Chips and a Hacker Spin"
   }
  ],
- "updated": "2026-11-21T06:27:27.504Z",
+ "updated": "2026-11-23T23:40:43.425Z",
  "source": "https://robloxden.com/game-codes/ride-an-egg"
 }

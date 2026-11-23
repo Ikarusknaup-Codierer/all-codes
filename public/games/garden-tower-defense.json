@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ZEN",
+   "reward": "500 Candy"
+  },
+  {
+   "code": "LIVESTREAM",
+   "reward": "750 Candy"
+  },
+  {
    "code": "WEB",
    "reward": "500 Candies"
   },
@@ -151,6 +159,6 @@
    "reward": "750 Seeds"
   }
  ],
- "updated": "2026-11-21T06:29:32.725Z",
+ "updated": "2026-11-23T23:42:40.850Z",
  "source": "https://robloxden.com/game-codes/garden-tower-defense"
 }

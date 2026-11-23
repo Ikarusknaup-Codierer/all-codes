@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "RESTART",
+   "reward": "20,000 Cash , 3 Gene Rolls , and 2x Gains (15 minutes)"
+  },
+  {
+   "code": "NEWEVENT!",
+   "reward": "5 Gene Rolls , $10,000 , and a 1.5x Stamina Regen Boost (15 Minutes)"
+  },
+  {
+   "code": "NEWGENE!",
+   "reward": "5 Gene Rolls , $10,000 , and a 2x Gains Boost (15 Minutes)"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "5 Gene Rolls , $25,000 , a 2x Gains Boost (15 Minutes) , and a 2x Stam"
+  },
+  {
    "code": "SORRYFORBUGS",
    "reward": "$10,000 and 5 Gene Rolls"
   },
@@ -27,6 +43,6 @@
    "reward": "$10,000 and 5 Gene Rolls"
   }
  ],
- "updated": "2026-11-21T06:28:01.482Z",
+ "updated": "2026-11-23T23:41:15.755Z",
  "source": "https://robloxden.com/game-codes/power-lifters"
 }

@@ -223,14 +223,18 @@
    "reward": "+1 Luck Boost (2 minutes)"
   },
   {
-   "code": "easter",
-   "reward": "3 Item Lootboxes And 34 Easter Eggs"
+   "code": "waiterwaitermorecratesplease",
+   "reward": "5 Item Lootboxes"
+  },
+  {
+   "code": "sorry",
+   "reward": "Rewards"
   },
   {
    "code": "new",
    "reward": "2 Super Roll"
   }
  ],
- "updated": "2026-11-21T06:31:32.764Z",
+ "updated": "2026-11-23T23:44:32.485Z",
  "source": "https://robloxden.com/game-codes/anime-training-rng"
 }

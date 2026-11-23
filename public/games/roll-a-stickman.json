@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ADVENTURE",
+   "reward": "25 Gems"
+  },
+  {
+   "code": "TOURNAMENTS",
+   "reward": "25 Gems"
+  },
+  {
    "code": "10MILVISITS",
    "reward": "50 Gems . You must reach stage 150 first to use this code"
   },
@@ -15,16 +23,8 @@
    "reward": "Instant Rolls , 21 Potions , 6 Crates , 25 Card Tomes , 20 Trait Rerol"
   },
   {
-   "code": "PARAGONINCIDENT",
-   "reward": "50 Gems . You must reach stage 150 first to use this code"
-  },
-  {
    "code": "20KLIKES",
    "reward": "Instant Rolls , 24 Potions , 6 Crates , 25 Card Tomes , 20 Trait Rolls"
-  },
-  {
-   "code": "12KLIKES",
-   "reward": "Instant rolls , 21 Potions , 6 Crates , 25 Card Tomes , 20 Trait Rerol"
   },
   {
    "code": "10KCCU",
@@ -85,8 +85,16 @@
   {
    "code": "RELEASE",
    "reward": "720 Instant Rolls , 2 Luck Potions , 1 Haste Potion , 1 Crate , 5 Card"
+  },
+  {
+   "code": "PARAGONINCIDENT",
+   "reward": "50 Gems . You must reach stage 150 first to use this code"
+  },
+  {
+   "code": "12KLIKES",
+   "reward": "Instant rolls , 21 Potions , 6 Crates , 25 Card Tomes , 20 Trait Rerol"
   }
  ],
- "updated": "2026-11-21T06:30:45.390Z",
+ "updated": "2026-11-23T23:43:47.926Z",
  "source": "https://robloxden.com/game-codes/roll-a-stickman"
 }

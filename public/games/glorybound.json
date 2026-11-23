@@ -11,6 +11,18 @@
    "reward": "5 Lucky Spins"
   },
   {
+   "code": "PVP",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "UPDATE_4",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "CURSED",
+   "reward": "a Legendary Chest"
+  },
+  {
    "code": "ABILITY",
    "reward": "5 Lucky Spins"
   },
@@ -23,6 +35,6 @@
    "reward": "1 Legendary Chest"
   }
  ],
- "updated": "2026-11-21T06:27:47.262Z",
+ "updated": "2026-11-23T23:41:02.305Z",
  "source": "https://robloxden.com/game-codes/glorybound"
 }

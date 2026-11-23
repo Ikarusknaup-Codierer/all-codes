@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SPIDER",
+   "reward": "300 Pumpkins"
+  },
+  {
+   "code": "ANKYLOSAURUS",
+   "reward": "1,000 Bones"
+  },
+  {
    "code": "NIGHTMARE",
    "reward": "500 Pumpkins"
   },
@@ -59,6 +67,6 @@
    "reward": "500 Bones"
   }
  ],
- "updated": "2026-11-21T06:30:46.505Z",
+ "updated": "2026-11-23T23:43:49.029Z",
  "source": "https://robloxden.com/game-codes/primal-pursuit"
 }

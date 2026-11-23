@@ -7,7 +7,23 @@
    "reward": "Description"
   },
   {
-   "code": "W1TCH",
+   "code": "800KVISITS",
+   "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "M4GICS",
+   "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "HwEvent",
+   "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "SubToP",
+   "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "AW3SOMEUPD4TE",
    "reward": "10 Race Rerolls"
   },
   {
@@ -21,8 +37,12 @@
   {
    "code": "R1GEL",
    "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "W1TCH",
+   "reward": "10 Race Rerolls"
   }
  ],
- "updated": "2026-11-21T06:27:04.852Z",
+ "updated": "2026-11-23T23:40:21.651Z",
  "source": "https://robloxden.com/game-codes/retrials"
 }

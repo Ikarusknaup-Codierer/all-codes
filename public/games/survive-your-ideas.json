@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "BIG5",
-   "reward": "5 Lucky Spins"
+   "code": "SATURDAYISTHEDAY",
+   "reward": "10 Lucky Spins"
   },
   {
-   "code": "NEWMAPSCOMING",
-   "reward": "30 Spins"
+   "code": "1MMEMBERS",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "BIG5",
+   "reward": "5 Lucky Spins"
   },
   {
    "code": "FIRSTUPDATE",
@@ -23,6 +27,6 @@
    "reward": "5 Lucky Spins"
   }
  ],
- "updated": "2026-11-21T06:27:27.004Z",
+ "updated": "2026-11-23T23:40:42.856Z",
  "source": "https://robloxden.com/game-codes/survive-your-ideas"
 }

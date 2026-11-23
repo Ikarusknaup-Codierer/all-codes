@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY!",
+   "reward": "a Mythical Chest"
+  },
+  {
+   "code": "CHESTS!",
+   "reward": "10 Legendary Chests"
+  },
+  {
+   "code": "YOUCHOOSE!",
+   "reward": "a Free Construct of Your Choice"
+  },
+  {
+   "code": "FULLRELEASE!",
+   "reward": "a Legendary Chest"
+  },
+  {
+   "code": "VENUS",
+   "reward": "a 2x XP Boost (30 Minutes)"
+  },
+  {
+   "code": "CITYREWORK",
+   "reward": "a 2x Luck Boost (30 Minutes)"
+  },
+  {
+   "code": "THANKYOU!",
+   "reward": "a Mythic Chest"
+  },
+  {
    "code": "TREASURE",
    "reward": "an Uncommon Chest"
   },
@@ -75,6 +103,6 @@
    "reward": "XP and 2x XP (10 Minutes)"
   }
  ],
- "updated": "2026-11-21T06:30:52.944Z",
+ "updated": "2026-11-23T23:43:55.200Z",
  "source": "https://robloxden.com/game-codes/lanterns"
 }

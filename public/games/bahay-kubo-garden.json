@@ -7,16 +7,20 @@
    "reward": "Description"
   },
   {
+   "code": "BUNGISNGIS",
+   "reward": "50 Perya Tickets and 1 Gold & Rainbow Fruit Potion IV"
+  },
+  {
+   "code": "SORRYFORBUGS",
+   "reward": "100 Perya Tickets , 1 Fast Growth Potion III , and 1 Gold & Rainbow Fr"
+  },
+  {
    "code": "11KLIKES",
    "reward": "1 Halloween Potion , 1 Pet Potion IV , and 1 Cash Potion IV"
   },
   {
    "code": "2MVISITS",
    "reward": "1 Luck Potion IV , 1 Growth Potion IV , and 1 Mutation Potion IV"
-  },
-  {
-   "code": "HALLOWEEN",
-   "reward": "1 Halloween Potion and 1 Pumpkin Egg"
   },
   {
    "code": "BAHAYKUBO",
@@ -31,6 +35,18 @@
    "reward": "free rewards . This code is only for those who played before the updat"
   },
   {
+   "code": "PERYA",
+   "reward": "200 Perya Tickets and 1 Mutation Chance Potion III"
+  },
+  {
+   "code": "1STMONTHSARY",
+   "reward": "300 Perya Tickets , 1 Cotton Candy Tree Seed , 1 Gold & Rainbow Fruit "
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "1 Halloween Potion and 1 Pumpkin Egg"
+  },
+  {
    "code": "BAKUNAWA",
    "reward": "Rewards"
   },
@@ -39,6 +55,6 @@
    "reward": "rewards . This code is only for those who played before the update"
   }
  ],
- "updated": "2026-11-21T06:26:00.422Z",
+ "updated": "2026-11-23T23:39:30.108Z",
  "source": "https://robloxden.com/game-codes/bahay-kubo-garden"
 }

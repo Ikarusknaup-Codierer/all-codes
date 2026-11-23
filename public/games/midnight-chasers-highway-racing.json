@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ThanksFor1M",
+   "reward": "rewards"
+  },
+  {
    "code": "ThxFor100Mil",
    "reward": "75,000 Cash"
   },
@@ -31,6 +35,6 @@
    "reward": "$30,000"
   }
  ],
- "updated": "2026-11-21T06:29:03.477Z",
+ "updated": "2026-11-23T23:42:13.773Z",
  "source": "https://robloxden.com/game-codes/midnight-chasers-highway-racing"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE4",
+   "reward": "2 Tier II Luck Potions, 2 Tier II Cash Potions, 25 Trait Rerolls and 5"
+  },
+  {
    "code": "UPDATE2",
    "reward": "5 Luck Potion II , 5 Cash Potion II , 50 Trait Rerolls , and 50 Candie"
   },
@@ -31,6 +35,6 @@
    "reward": "1,000 Trait Rerolls"
   }
  ],
- "updated": "2026-11-21T06:26:44.809Z",
+ "updated": "2026-11-23T23:40:04.341Z",
  "source": "https://robloxden.com/game-codes/roll-a-pc"
 }

@@ -27,10 +27,6 @@
    "reward": "5 Meadow Baits"
   },
   {
-   "code": "update11",
-   "reward": "3 Tide Baits and 1 Luck Potion"
-  },
-  {
    "code": "halloween",
    "reward": "5 Meadow Baits"
   },
@@ -107,6 +103,10 @@
    "reward": "3 Tide Baits and 1 Luck Potion"
   },
   {
+   "code": "update11",
+   "reward": "3 Tide Baits and 1 Luck Potion"
+  },
+  {
    "code": "Update2",
    "reward": "$2,500 and 3 Tide Baits"
   },
@@ -127,6 +127,6 @@
    "reward": "3 Tide Baits and 1 Luck Potion"
   }
  ],
- "updated": "2026-11-22T06:00:19.512Z",
+ "updated": "2026-11-24T22:13:32.840Z",
  "source": "https://robloxden.com/game-codes/deep-fishing"
 }

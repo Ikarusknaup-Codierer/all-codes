@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWSCHOOL",
+   "reward": "250 Free Pumpkins"
+  },
+  {
    "code": "UFOINVASION",
    "reward": "250 Pumpkins"
   },
@@ -143,6 +147,6 @@
    "reward": "100k Cash"
   }
  ],
- "updated": "2026-11-22T05:58:32.286Z",
+ "updated": "2026-11-24T22:11:46.304Z",
  "source": "https://robloxden.com/game-codes/car-dealership-tycoon"
 }

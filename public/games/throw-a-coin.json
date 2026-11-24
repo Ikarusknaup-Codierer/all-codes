@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD10",
+   "reward": "a Mega Luck Boost (10 Minutes)"
+  },
+  {
    "code": "candy",
    "reward": "5x Luck (10 Minutes)"
   },
@@ -75,6 +79,6 @@
    "reward": "1 Rainbow Treasure Chest"
   }
  ],
- "updated": "2026-11-22T14:24:16.456Z",
+ "updated": "2026-11-24T22:18:31.243Z",
  "source": "https://robloxden.com/game-codes/throw-a-coin"
 }

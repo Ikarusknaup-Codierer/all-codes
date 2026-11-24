@@ -7,18 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "DISCORD",
-   "reward": "500 Cash"
-  },
-  {
-   "code": "CASH",
-   "reward": "500 Cash"
-  },
-  {
-   "code": "SEASONPASS",
-   "reward": "+1 Battle Pass Tier"
-  },
-  {
    "code": "HALLOWEEN",
    "reward": "+1 Halloween Pass Tier"
   },
@@ -29,8 +17,16 @@
   {
    "code": "PIRATE",
    "reward": "1,000 Coins"
+  },
+  {
+   "code": "DISCORD",
+   "reward": "500 Cash"
+  },
+  {
+   "code": "CASH",
+   "reward": "500 Cash"
   }
  ],
- "updated": "2026-11-22T05:59:15.670Z",
+ "updated": "2026-11-24T22:12:29.118Z",
  "source": "https://robloxden.com/game-codes/cowboy-duels"
 }

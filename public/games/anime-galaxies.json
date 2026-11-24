@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GOLDENDICE",
+   "reward": "500 Rainbow Stars and 10 Event Capsules . You must be at least level 1"
+  },
+  {
+   "code": "CRYSTALGIFT",
+   "reward": "500 Rainbow Stars and 10 Event Capsules . You must be at least level 1"
+  },
+  {
    "code": "UPDATESOON",
    "reward": "3K Rainbow Stars"
   },
@@ -67,6 +75,6 @@
    "reward": "500 Rainbow Stars and 10 Event Capsules"
   }
  ],
- "updated": "2026-11-22T06:00:32.719Z",
+ "updated": "2026-11-24T22:13:46.157Z",
  "source": "https://robloxden.com/game-codes/anime-galaxies"
 }

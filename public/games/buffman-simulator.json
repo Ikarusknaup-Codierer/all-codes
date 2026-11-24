@@ -15,11 +15,11 @@
    "reward": "Op Boost"
   },
   {
-   "code": "UPDATE5",
-   "reward": "1 Ultra Lucky Boost"
+   "code": "BuffSimulator",
+   "reward": "50 Coins & 50 Gems"
   },
   {
-   "code": "2KLIKES",
+   "code": "HALLOWEEN",
    "reward": "1 Ultra Lucky Boost"
   },
   {
@@ -27,6 +27,6 @@
    "reward": "1 Super Lucky Boost"
   }
  ],
- "updated": "2026-11-22T14:23:36.616Z",
+ "updated": "2026-11-24T22:17:57.851Z",
  "source": "https://robloxden.com/game-codes/buffman-simulator"
 }

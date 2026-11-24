@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "RestrictionLevel0",
+   "reward": "5B Beli , 50,000 Gems , an Admin Chest , and 10,000 Candies"
+  },
+  {
+   "code": "Halloween2026Part2",
+   "reward": "5B Beli , 25,000 Gems , and 10,000 Candies"
+  },
+  {
+   "code": "HalloweenDelayWasNeccessary",
+   "reward": "10B Beli , 200,000 Gems , and 8 Admin Chests"
+  },
+  {
    "code": "TheVampireAwakens",
    "reward": "the Vampire Spirit , 50,000 Gems , and 500M Beli"
   },
@@ -531,6 +543,6 @@
    "reward": "30 Poneglyphs"
   }
  ],
- "updated": "2026-11-21T19:05:05.095Z",
+ "updated": "2026-11-24T22:10:11.279Z",
  "source": "https://robloxden.com/game-codes/reaopg"
 }

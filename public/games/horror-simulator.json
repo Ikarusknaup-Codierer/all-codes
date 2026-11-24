@@ -11,12 +11,12 @@
    "reward": "Expired Reward"
   },
   {
-   "code": "SPOOKY",
-   "reward": "2x Fear Boost"
+   "code": "1000LIKES",
+   "reward": "3x Workout Boost"
   },
   {
-   "code": "GHOST",
-   "reward": "2x Fear Boost (15 minutes)"
+   "code": "500LIKES",
+   "reward": "Free Rewards"
   },
   {
    "code": "SHINY",
@@ -27,6 +27,6 @@
    "reward": "1 2x Fear Boost (15 minutes)"
   }
  ],
- "updated": "2026-11-22T06:00:22.288Z",
+ "updated": "2026-11-24T22:13:35.622Z",
  "source": "https://robloxden.com/game-codes/horror-simulator"
 }

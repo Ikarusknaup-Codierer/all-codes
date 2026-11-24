@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HABOOB",
+   "reward": "25,000 Cash , 7,500 XP , and 50 Data"
+  },
+  {
    "code": "MAKO",
    "reward": "20,000 Cash , 7,500 XP , and 75 Data"
   },
@@ -17,12 +21,8 @@
   {
    "code": "CUSTOM",
    "reward": "25,000 Cash , 7,500 XP and 50 Data"
-  },
-  {
-   "code": "TERMINATOR",
-   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-22T05:59:47.048Z",
+ "updated": "2026-11-24T22:12:59.929Z",
  "source": "https://robloxden.com/game-codes/stormbound"
 }

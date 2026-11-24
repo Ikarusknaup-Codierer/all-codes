@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "strays",
+   "reward": "67 Rerolls"
+  },
+  {
    "code": "random",
    "reward": "67 Rerolls"
   },
@@ -59,6 +63,6 @@
    "reward": "20 Rerolls"
   }
  ],
- "updated": "2026-11-22T06:04:32.273Z",
+ "updated": "2026-11-24T22:16:45.874Z",
  "source": "https://robloxden.com/game-codes/gakuran"
 }

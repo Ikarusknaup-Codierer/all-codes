@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PIZZA",
+   "reward": "2,000 Credz"
+  },
+  {
    "code": "VROOM",
    "reward": "3,000 Credz"
   },
@@ -35,6 +39,6 @@
    "reward": "2,500 Credz"
   }
  ],
- "updated": "2026-11-22T06:02:51.961Z",
+ "updated": "2026-11-24T22:15:13.469Z",
  "source": "https://robloxden.com/game-codes/runaways"
 }

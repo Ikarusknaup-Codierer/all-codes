@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD10",
+   "reward": "a Skill Potion , 1,310 Skill Points , and a Common Egg"
+  },
+  {
+   "code": "DISCO",
+   "reward": "a Skill Potion , a Wins Potion , a Luck Potion , 4 Wins , 3,940 Skill "
+  },
+  {
    "code": "WORLD9",
    "reward": "1 Skill Potion , 1.31k Skill , and 1 Common Egg"
   },
@@ -79,6 +87,6 @@
    "reward": "1 Skill Potion , 1 Win Potion , 1 Luck Potion , and 1 Common Egg"
   }
  ],
- "updated": "2026-11-22T06:02:58.442Z",
+ "updated": "2026-11-24T22:15:20.009Z",
  "source": "https://robloxden.com/game-codes/1-stone-skipping"
 }

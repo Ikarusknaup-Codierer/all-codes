@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DRILL",
+   "reward": "500 Cores"
+  },
+  {
    "code": "DTEC",
    "reward": "500 Cores"
   },
@@ -15,6 +19,6 @@
    "reward": "500 Cores"
   }
  ],
- "updated": "2026-11-21T19:03:47.986Z",
+ "updated": "2026-11-24T22:09:48.724Z",
  "source": "https://robloxden.com/game-codes/drill-to-earths-core"
 }

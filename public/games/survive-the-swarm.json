@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "PASSIVES",
+   "reward": "2,420,000 Coins , 25 Essence , and a Royal Egg"
+  },
+  {
    "code": "ADMINABUSE",
    "reward": "3,620,000 Coins , 50 Essence , 1 Gilded Egg , and 3 Admin Crates"
   },
@@ -37,12 +41,8 @@
   {
    "code": "KUROGANE",
    "reward": "773,810 Coins , 25 Essence , and 1 Gilded Egg"
-  },
-  {
-   "code": "WORLD2HYPE",
-   "reward": "630,820 Coins , 20 Essence , and 1 Gilded Egg"
   }
  ],
- "updated": "2026-11-21T19:02:04.926Z",
+ "updated": "2026-11-24T22:09:35.315Z",
  "source": "https://robloxden.com/game-codes/survive-the-swarm"
 }

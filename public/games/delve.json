@@ -23,10 +23,6 @@
    "reward": "50 Rerolls , 5 Strange Orbs , and 1 Luck Potion"
   },
   {
-   "code": "2500LIKES",
-   "reward": "50 Rerolls , 25 Candies , and All 4 Potions"
-  },
-  {
    "code": "ARENA",
    "reward": "20 Rerolls , 3 Warden's Seal , and a Luck Potion"
   },
@@ -51,14 +47,14 @@
    "reward": "50 Rerolls , 1 Reforge Stone , 1 Honing Stone , and 2 Luck Potions"
   },
   {
-   "code": "INFERNIA",
-   "reward": "12 Race Rerolls and an XP Potion"
+   "code": "2500LIKES",
+   "reward": "50 Rerolls , 25 Candies , and All 4 Potions"
   },
   {
    "code": "250LIKES",
    "reward": "20 Race Rerolls , a Cash Potion , an XP Potion , a Quantity Potion , a"
   }
  ],
- "updated": "2026-11-22T14:23:25.533Z",
+ "updated": "2026-11-24T22:17:47.861Z",
  "source": "https://robloxden.com/game-codes/delve"
 }

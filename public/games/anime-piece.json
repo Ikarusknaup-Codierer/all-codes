@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "AnimePieceUpdate1",
-   "reward": "10 Race Spins and 5 Teleport Crystals"
+   "code": "2MVisits",
+   "reward": "a 2x Drop Potion and 5x Race Spin Potion"
   },
   {
-   "code": "SorryForThe2xDropBug",
-   "reward": "a 2x Drop (10 Minutes)"
+   "code": "SeaBeastUpdate!",
+   "reward": "5x Teleport Crystals and a 2x Exp Potion"
+  },
+  {
+   "code": "SorryForBigUpdateDelay!",
+   "reward": "5x Health Potions"
+  },
+  {
+   "code": "PeakGame!",
+   "reward": "5x Health Potions"
   }
  ],
- "updated": "2026-11-22T05:59:45.022Z",
+ "updated": "2026-11-24T22:12:57.532Z",
  "source": "https://robloxden.com/game-codes/anime-piece"
 }

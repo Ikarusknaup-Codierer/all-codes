@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ChickenBicken",
+   "reward": "2 Lucky Spins"
+  },
+  {
+   "code": "Update1Saturday",
+   "reward": "1 Lucky Spin and 3 Spins"
+  },
+  {
    "code": "MONSTERBALL!",
    "reward": "25 Normal Skill Spins"
   },
@@ -15,6 +23,6 @@
    "reward": "1,500 Cash and 1 Lucky Skill Spin"
   }
  ],
- "updated": "2026-11-22T06:00:03.672Z",
+ "updated": "2026-11-24T22:13:16.734Z",
  "source": "https://robloxden.com/game-codes/8-ball-x"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "FREE198",
-   "reward": "3 Keys"
-  },
-  {
    "code": "ELBILLUG",
    "reward": "Nothing"
   },
@@ -65,8 +61,12 @@
   {
    "code": "COMMUNITY26",
    "reward": "1 Community Wrap"
+  },
+  {
+   "code": "FREE198",
+   "reward": "3 Keys"
   }
  ],
- "updated": "2026-11-22T06:04:30.117Z",
+ "updated": "2026-11-24T22:16:44.067Z",
  "source": "https://robloxden.com/game-codes/rivals"
 }

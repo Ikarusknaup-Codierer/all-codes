@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "HALLOWEEN",
+   "reward": "rewards"
+  },
+  {
+   "code": "SORRY4WAIT",
+   "reward": "rewards"
+  },
+  {
    "code": "SHARDCROWN",
    "reward": "Free Rewards"
   },
@@ -87,6 +95,6 @@
    "reward": "2,500 Shards"
   }
  ],
- "updated": "2026-11-22T06:03:14.225Z",
+ "updated": "2026-11-24T22:15:35.909Z",
  "source": "https://robloxden.com/game-codes/evil-plate-game"
 }

@@ -11,10 +11,6 @@
    "reward": "5,000 Hallow Tokens"
   },
   {
-   "code": "SRY4SHUTDOWN",
-   "reward": "2K Summer Coins"
-  },
-  {
    "code": "PART5",
    "reward": "5,222 Summer Coins"
   },
@@ -61,8 +57,12 @@
   {
    "code": "TY4ACTIVEE",
    "reward": "2 Tung Tokens"
+  },
+  {
+   "code": "SRY4SHUTDOWN",
+   "reward": "2K Summer Coins"
   }
  ],
- "updated": "2026-11-22T06:02:36.551Z",
+ "updated": "2026-11-24T22:14:59.422Z",
  "source": "https://robloxden.com/game-codes/dumb-craftwars"
 }

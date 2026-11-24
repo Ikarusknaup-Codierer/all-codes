@@ -15,18 +15,18 @@
    "reward": "a Regular Spin"
   },
   {
-   "code": "!PremiumSpin1",
-   "reward": "10 Premium Spins"
+   "code": "!PremSpin1",
+   "reward": "A Premium Spin"
   },
   {
-   "code": "!EXPCode1",
+   "code": "!EXPCode2",
    "reward": "500,000 XP"
   },
   {
-   "code": "!MileStone",
-   "reward": "a Level Up"
+   "code": "!Fudge_me",
+   "reward": "a 5% chance to keep your stats and gain a prestige level"
   }
  ],
- "updated": "2026-11-22T06:04:24.876Z",
+ "updated": "2026-11-24T22:16:38.731Z",
  "source": "https://robloxden.com/game-codes/rojutsu-blox"
 }

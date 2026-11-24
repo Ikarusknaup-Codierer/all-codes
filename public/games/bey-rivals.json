@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "BOSSBALANCE",
+   "reward": "25,000 Bey Points and 10 Trait Tokens"
+  },
+  {
+   "code": "HARDMODEFIX",
+   "reward": "20 Spin Tickets and 5 Lucky Spins"
+  },
+  {
+   "code": "LIMITBREAKER",
+   "reward": "25 Spin Tickets and 10 Lucky Spins . You must be at least level 10 to "
+  },
+  {
+   "code": "SMARTRIVALS",
+   "reward": "35,000 Bey Points , 20 Spin Tickets , and 15 Trait Tokens . You must b"
+  },
+  {
    "code": "SrryForDelay",
    "reward": "30,000 Bey Points , 15 Spin Tickets , and 5 Lucky Spins"
   },
@@ -49,6 +65,18 @@
   {
    "code": "CONTROLLERFIX",
    "reward": "15 Spin Tickets and 5 Lucky Spins"
+  },
+  {
+   "code": "ULTIMATEHIT",
+   "reward": "50,000 Bey Points and 25 Trait Tokens . You must be at least level 10 "
+  },
+  {
+   "code": "SMOOTHCLASH",
+   "reward": "15 Spin Tickets and 20 Trait Tokens"
+  },
+  {
+   "code": "SORRY4DELAY",
+   "reward": "40,000 Bey Points , 20 Spin Tickets , and 8 Lucky Spins"
   },
   {
    "code": "SPOOKYSEASON",
@@ -123,6 +151,6 @@
    "reward": "5 Spin Tickets and 4 Lucky Spins"
   }
  ],
- "updated": "2026-11-22T06:04:26.118Z",
+ "updated": "2026-11-24T22:16:40.018Z",
  "source": "https://robloxden.com/game-codes/bey-rivals"
 }

@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "MEMBERS1M200K",
-   "reward": "100 Spins , 1 2x Luck Potion (30 Minutes) , 1 2x Gold Potion (30 Minut"
-  },
-  {
    "code": "WZINS",
    "reward": "50 Spins"
   },
@@ -21,6 +17,10 @@
   {
    "code": "LIKES1M450K",
    "reward": "300 Spins , 1 2x Luck Potion (1 Hour) , 1 2x Gold Potion (1 Hour) , 1 "
+  },
+  {
+   "code": "MEMBERS1M200K",
+   "reward": "100 Spins , 1 2x Luck Potion (30 Minutes) , 1 2x Gold Potion (30 Minut"
   },
   {
    "code": "FREECODE11",
@@ -55,6 +55,6 @@
    "reward": "500 Spins , 1 2x Luck Potion (2 Hours) , 1 2x Gold Potion (2 Hours) , "
   }
  ],
- "updated": "2026-11-22T05:57:54.990Z",
+ "updated": "2026-11-24T22:11:10.716Z",
  "source": "https://robloxden.com/game-codes/attack-on-titan-revolution"
 }

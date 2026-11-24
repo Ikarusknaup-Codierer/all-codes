@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "TURFWAR",
+   "reward": "30 Rerolls and 10,000 Yen"
+  },
+  {
+   "code": "RIDEUPTHESTAIRS",
+   "reward": "40 Rerolls"
+  },
+  {
    "code": "GOODWEATHER",
    "reward": "30 Rerolls"
   },
@@ -351,6 +359,6 @@
    "reward": "30 Rerolls"
   }
  ],
- "updated": "2026-11-22T05:56:31.819Z",
+ "updated": "2026-11-24T22:10:15.956Z",
  "source": "https://robloxden.com/game-codes/gokudo"
 }

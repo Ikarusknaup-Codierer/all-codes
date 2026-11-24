@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GUILDS",
+   "reward": "15 Gems, 3 Trait Rerolls, 1 Jackpot Spin and 2 Tier III Luck Potions"
+  },
+  {
+   "code": "BATTLEPASS",
+   "reward": "30 Tickets, 15 Gems, 3 Trait Rerolls and 1 Jackpot Spin"
+  },
+  {
    "code": "10KMEMBERS",
    "reward": "25 Gems , 5 Trait Rerolls , 2 Jackpot Spins , and 2 Luck Potion III"
   },
@@ -23,6 +31,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-11-22T05:59:42.757Z",
+ "updated": "2026-11-24T22:12:55.234Z",
  "source": "https://robloxden.com/game-codes/spin-a-pet"
 }

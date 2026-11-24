@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
+   "code": "ITSGYMTIME",
+   "reward": "1 Emote Crate"
+  },
+  {
    "code": "creatorexchange",
    "reward": "1 Wheel Spin , 50 Gems , and 100 Coins"
-  },
-  {
-   "code": "INFECTION",
-   "reward": "150 Candy Corn and 500 Coins"
-  },
-  {
-   "code": "CANDY",
-   "reward": "150 Candy Corns and 500 Coins"
   },
   {
    "code": "tuesdaysRock",
@@ -45,8 +41,16 @@
   {
    "code": "SPOOKYSEASON",
    "reward": "200 Candy Corn and 2 Wheel Spins"
+  },
+  {
+   "code": "INFECTION",
+   "reward": "150 Candy Corn and 500 Coins"
+  },
+  {
+   "code": "CANDY",
+   "reward": "150 Candy Corns and 500 Coins"
   }
  ],
- "updated": "2026-11-21T18:59:45.749Z",
+ "updated": "2026-11-24T09:17:57.523Z",
  "source": "https://robloxden.com/game-codes/a-night-in-huss-valley"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Vampire",
+   "reward": "rewards"
+  },
+  {
    "code": "UTTVM",
    "reward": "the 50 Coins"
   },
@@ -51,6 +55,6 @@
    "reward": "50 Coins"
   }
  ],
- "updated": "2026-11-21T18:58:13.882Z",
+ "updated": "2026-11-24T09:16:23.325Z",
  "source": "https://robloxden.com/game-codes/cameraman-tower-defense"
 }

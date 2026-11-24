@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "BEES",
+   "reward": "10.5K Cash"
+  },
+  {
    "code": "JAPAN",
    "reward": "5.3K Cash"
   },
   {
    "code": "FARMSTEAD",
    "reward": "10 Minutes of Fertilizer"
-  },
-  {
-   "code": "HALLOWEEN",
-   "reward": "300 Candy Corns"
   },
   {
    "code": "RELEASE",
@@ -29,8 +29,12 @@
   {
    "code": "UPDATE",
    "reward": "10,300 Cash and 15 Minutes of Fertilizer"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "300 Candy Corns"
   }
  ],
- "updated": "2026-11-21T19:03:40.139Z",
+ "updated": "2026-11-24T09:22:12.232Z",
  "source": "https://robloxden.com/game-codes/run-your-own-farmstead"
 }

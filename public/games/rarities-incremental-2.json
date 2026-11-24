@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "100K",
+   "reward": "3 2X Stats Potions , 2 2X Tokens Potions , and 2 2X Rune Luck Potions"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "2 2X Stats Potions"
+  },
+  {
+   "code": "BUGFIXES",
+   "reward": "50 Tokens"
+  },
+  {
    "code": "EternityGames-Verify123123",
    "reward": "This code will Verify Your Linked Discord Account"
   },
@@ -15,6 +27,6 @@
    "reward": "25 Tickets"
   }
  ],
- "updated": "2026-11-21T18:58:21.084Z",
+ "updated": "2026-11-24T09:16:30.755Z",
  "source": "https://robloxden.com/game-codes/rarities-incremental-2"
 }

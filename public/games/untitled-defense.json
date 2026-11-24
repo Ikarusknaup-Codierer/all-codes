@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TRADING",
+   "reward": "100 Trait Rerolls"
+  },
+  {
    "code": "halloweenevent",
    "reward": "300 Trait Rerolls , 20 Stat Cubes , and 20 Perfect Stat Cubes"
   },
@@ -47,6 +51,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-21T19:00:17.851Z",
+ "updated": "2026-11-24T09:18:33.032Z",
  "source": "https://robloxden.com/game-codes/untitled-defense"
 }

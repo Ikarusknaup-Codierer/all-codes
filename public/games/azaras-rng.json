@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HalloweenQuest",
+   "reward": "15 Starlight Potions"
+  },
+  {
    "code": "HalloweenEvent!",
    "reward": "6 Omega Potion , 6 Eternity Potio n, 6 Starlight Potion , 6 Fortune Po"
   },
@@ -167,6 +171,6 @@
    "reward": "40 Starlight Potions 80 Star Potions and 10 Eternity Potions"
   }
  ],
- "updated": "2026-11-21T19:04:00.360Z",
+ "updated": "2026-11-24T09:22:33.082Z",
  "source": "https://robloxden.com/game-codes/azaras-rng"
 }

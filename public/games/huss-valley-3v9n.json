@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
+   "code": "ITSGYMTIME",
+   "reward": "1 Emote Crate"
+  },
+  {
    "code": "creatorexchange",
    "reward": "1 Wheel Spin , 50 Gems , and 100 Coins"
-  },
-  {
-   "code": "INFECTION",
-   "reward": "150 Candy Corn and 500 Coins"
-  },
-  {
-   "code": "CANDY",
-   "reward": "150 Candy Corns and 500 Coins"
   },
   {
    "code": "tuesdaysRock",
@@ -45,8 +41,16 @@
   {
    "code": "SPOOKYSEASON",
    "reward": "200 Candy Corn and 2 Wheel Spins"
+  },
+  {
+   "code": "INFECTION",
+   "reward": "150 Candy Corn and 500 Coins"
+  },
+  {
+   "code": "CANDY",
+   "reward": "150 Candy Corns and 500 Coins"
   }
  ],
- "updated": "2026-11-21T06:35:24.130Z",
+ "updated": "2026-11-24T09:13:54.299Z",
  "source": "https://robloxden.com/game-codes/huss-valley-3v9n"
 }

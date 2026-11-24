@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "20Feathers",
+   "reward": "20 Doro Feathers"
+  },
+  {
    "code": "RainbowEgg",
    "reward": "10 Boost Tokens and 100 Easter Eggs"
   },
@@ -19,6 +23,6 @@
    "reward": "10 Boost Tokens"
   }
  ],
- "updated": "2026-11-21T19:01:59.537Z",
+ "updated": "2026-11-24T09:20:22.380Z",
  "source": "https://robloxden.com/game-codes/loomian-legacy"
 }

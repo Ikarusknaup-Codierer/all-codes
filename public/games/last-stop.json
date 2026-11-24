@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TERMINAL",
+   "reward": "3 Passive Rerolls"
+  },
+  {
    "code": "URANIUM",
    "reward": "3 Passive Rerolls"
   },
@@ -39,16 +43,8 @@
    "reward": "400 Tickets"
   },
   {
-   "code": "WLASTSTOP",
-   "reward": "Tickets . You need to reach level 5 to redeem this code"
-  },
-  {
    "code": "SHORTMODE",
    "reward": "Tickets . You need to reach level 5 to redeem this code"
-  },
-  {
-   "code": "UPDATE4",
-   "reward": "Tickets"
   },
   {
    "code": "wsaveupdate",
@@ -65,8 +61,16 @@
   {
    "code": "COMPENSATION",
    "reward": "750 Tickets and 3 Class Rerolls"
+  },
+  {
+   "code": "WLASTSTOP",
+   "reward": "Tickets . You need to reach level 5 to redeem this code"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "Tickets"
   }
  ],
- "updated": "2026-11-21T19:00:05.209Z",
+ "updated": "2026-11-24T09:18:18.746Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

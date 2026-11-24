@@ -47,10 +47,6 @@
    "reward": "50 Cosmic Potions , 50 Shadow Potions , 50 Lightning Potions , and 50 "
   },
   {
-   "code": "LIGHTNINGQUEST",
-   "reward": "10 Lightning Pots"
-  },
-  {
    "code": "2XEVENT",
    "reward": "5 Lightning Pots, 5 Power Potions, 5 Mega Potions"
   },
@@ -187,6 +183,6 @@
    "reward": "3 Small Speed Potions"
   }
  ],
- "updated": "2026-11-21T18:59:38.339Z",
+ "updated": "2026-11-24T09:17:49.311Z",
  "source": "https://robloxden.com/game-codes/gym-league"
 }

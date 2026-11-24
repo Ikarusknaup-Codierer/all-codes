@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "BREAKOUT",
+   "code": "SPIN10",
    "reward": "10 Spins"
+  },
+  {
+   "code": "700ACTIVE",
+   "reward": "50 Tokens and 5 Spins"
+  },
+  {
+   "code": "1000CCU",
+   "reward": "50 Tokens and 5 Spins"
+  },
+  {
+   "code": "2000CCU",
+   "reward": "10 Tokens and 5 Spins"
   }
  ],
- "updated": "2026-11-21T18:58:51.825Z",
+ "updated": "2026-11-24T09:17:02.489Z",
  "source": "https://robloxden.com/game-codes/black-gate-breakout"
 }

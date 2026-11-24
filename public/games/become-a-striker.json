@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "COOPCAREER",
+   "reward": "3 Rewinds and an Extra Chance"
+  },
+  {
+   "code": "FINALTHREE",
+   "reward": "2 Extra Chances"
+  },
+  {
+   "code": "TOPSCORER",
+   "reward": "2 Rewinds"
+  },
+  {
+   "code": "SKINNEDHIM",
+   "reward": "a Rewind and an Extra Chance"
+  },
+  {
+   "code": "POSITIONS",
+   "reward": "3 Rewinds"
+  },
+  {
    "code": "SQUADUP",
    "reward": "3 Rewinds and 1 Extra Chance"
   },
@@ -55,6 +75,6 @@
    "reward": "3 Rewinds"
   }
  ],
- "updated": "2026-11-21T18:59:32.212Z",
+ "updated": "2026-11-24T09:17:42.959Z",
  "source": "https://robloxden.com/game-codes/become-a-striker"
 }

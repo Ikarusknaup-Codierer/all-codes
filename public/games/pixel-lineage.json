@@ -19,10 +19,6 @@
    "reward": "2 Sunforged Whetstones and 1 Renewal Crystal"
   },
   {
-   "code": "TORMENT",
-   "reward": "1,000 Gold , 100 Knowledge , 3 Potions , 8 Race Spins , and 8 Talent S"
-  },
-  {
    "code": "OCTOBER",
    "reward": "25 Candy"
   },
@@ -43,6 +39,10 @@
    "reward": "2,500 Gold , 100 Knowledge , 5 Potions , 5 Race Spins , 5 Talent Spins"
   },
   {
+   "code": "TORMENT",
+   "reward": "1,000 Gold , 100 Knowledge , 3 Potions , 8 Race Spins , and 8 Talent S"
+  },
+  {
    "code": "TUTORIAL",
    "reward": "3 Race Spins and 3 Talent Spins"
   },
@@ -55,6 +55,6 @@
    "reward": "5 Race Spins , 5 Talent Spins , and 1 Life"
   }
  ],
- "updated": "2026-11-21T18:56:54.776Z",
+ "updated": "2026-11-24T09:15:03.261Z",
  "source": "https://robloxden.com/game-codes/pixel-lineage"
 }

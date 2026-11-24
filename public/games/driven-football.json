@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "PHASE2",
+   "reward": "50 Attribute Points and Double Rep (1 hour)"
+  },
+  {
+   "code": "CONSOLEFIX",
+   "reward": "50 Attribute Points and Double Rep (30 minutes)"
+  },
+  {
+   "code": "GRIND75",
+   "reward": "75 AP"
+  },
+  {
    "code": "4MILLIONVISITS",
    "reward": "120 Attribute Points and Double Rep (3 hours)"
   },
@@ -29,16 +41,8 @@
   {
    "code": "400KVISITS",
    "reward": "Double Rep (2 hours)"
-  },
-  {
-   "code": "2KCCU",
-   "reward": "10,000 DF Coins and 10 Attribute Points"
-  },
-  {
-   "code": "300KVISITS",
-   "reward": "50,000 DF Coins and 60 Attribute Points"
   }
  ],
- "updated": "2026-11-21T18:59:54.329Z",
+ "updated": "2026-11-24T09:18:06.628Z",
  "source": "https://robloxden.com/game-codes/driven-football"
 }

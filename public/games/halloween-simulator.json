@@ -11,6 +11,10 @@
    "reward": "Coins"
   },
   {
+   "code": "RUSSO",
+   "reward": "Coins"
+  },
+  {
    "code": "CANDY",
    "reward": "Candy"
   },
@@ -21,12 +25,8 @@
   {
    "code": "jandelinsta",
    "reward": "Coins"
-  },
-  {
-   "code": "MILO",
-   "reward": "Coins"
   }
  ],
- "updated": "2026-11-21T18:56:36.606Z",
+ "updated": "2026-11-24T09:14:47.573Z",
  "source": "https://robloxden.com/game-codes/halloween-simulator"
 }

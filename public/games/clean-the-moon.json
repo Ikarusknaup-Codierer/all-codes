@@ -7,18 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "MARSUPDATE",
+   "reward": "40 Gems"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "20 Gems"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "15 Gems"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "25 Gems and 35 Candy"
   },
   {
    "code": "RELEASE",
    "reward": "50 Gems"
-  },
-  {
-   "code": "500KVISITS",
-   "reward": "40 Gems"
   }
  ],
- "updated": "2026-11-21T18:59:58.388Z",
+ "updated": "2026-11-24T09:18:10.982Z",
  "source": "https://robloxden.com/game-codes/clean-the-moon"
 }

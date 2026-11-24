@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WITCHES",
-   "reward": "30,000 Gems"
-  },
-  {
    "code": "MULTIUNBOX",
    "reward": "Free Rewards . To use this code, you must have Multi Unboxing Pass"
   },
@@ -27,14 +23,14 @@
    "reward": "50,000 Gems"
   },
   {
-   "code": "SOULS",
-   "reward": "50,000 Gems"
+   "code": "WITCHES",
+   "reward": "30,000 Gems"
   },
   {
-   "code": "JESTER",
+   "code": "SOULS",
    "reward": "50,000 Gems"
   }
  ],
- "updated": "2026-11-21T18:57:21.025Z",
+ "updated": "2026-11-24T09:15:29.036Z",
  "source": "https://robloxden.com/game-codes/death-ball"
 }

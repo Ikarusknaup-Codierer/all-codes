@@ -7,18 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "NOS",
-   "reward": "15,000 Cash"
+   "code": "TUNING",
+   "reward": "5,000 Cash"
   },
   {
-   "code": "HD10",
+   "code": "UPDATE8",
    "reward": "5,000 Cash"
   },
   {
    "code": "UPDATE7",
    "reward": "5K Cash"
+  },
+  {
+   "code": "Update6",
+   "reward": "5K Cash"
   }
  ],
- "updated": "2026-11-21T18:59:56.052Z",
+ "updated": "2026-11-24T09:18:08.676Z",
  "source": "https://robloxden.com/game-codes/trails"
 }

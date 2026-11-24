@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SAEELUSIVE",
+   "reward": "500k Coins , 300 Rerolls , and 200 Refreshes"
+  },
+  {
+   "code": "NEWCOACH",
+   "reward": "250k Coins , 150 Rerolls , and 150 Refreshes"
+  },
+  {
+   "code": "AFKBUFF",
+   "reward": "100k Coins , 150 Rerolls , and 150 Refreshes"
+  },
+  {
    "code": "CHOCOLATE_FONDUE",
    "reward": "2.9M Cash"
   },
@@ -147,6 +159,6 @@
    "reward": "50 Refreshes"
   }
  ],
- "updated": "2026-11-21T19:01:15.121Z",
+ "updated": "2026-11-24T09:19:34.991Z",
  "source": "https://robloxden.com/game-codes/build-a-blue-lock-squad"
 }

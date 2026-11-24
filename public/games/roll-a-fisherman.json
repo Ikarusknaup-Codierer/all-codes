@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "INFERNO",
+   "reward": "2 Spins"
+  },
+  {
    "code": "FANCY",
    "reward": "the 500 Gold and 3 Spins"
   },
@@ -59,6 +63,6 @@
    "reward": "500 Gold"
   }
  ],
- "updated": "2026-11-21T18:56:20.000Z",
+ "updated": "2026-11-24T09:14:34.629Z",
  "source": "https://robloxden.com/game-codes/roll-a-fisherman"
 }

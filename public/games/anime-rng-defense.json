@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "RUMBLING",
+   "reward": "Rewards . You need to have at least 100,000 Rolls to use this code"
+  },
+  {
+   "code": "ATTACKTITAN",
+   "reward": "Rewards . You need to have at least 50,000 Rolls to use this code"
+  },
+  {
+   "code": "COLOSSALTITAN",
+   "reward": "Rewards . You need to have at least 25,000 Rolls to use this code"
+  },
+  {
+   "code": "WALLEDCITY",
+   "reward": "Rewards . You need to have at least 10,000 Rolls to use this code"
+  },
+  {
+   "code": "UPDATETITAN",
+   "reward": "1K Crystals and 1 Blessed Roll"
+  },
+  {
    "code": "Assist",
    "reward": "Rewards . You need to have at least 100,000 Rolls to use this code"
   },
@@ -351,6 +371,6 @@
    "reward": "200 Crystals and 3 Cursed Fingers"
   }
  ],
- "updated": "2026-11-22T23:32:43.045Z",
+ "updated": "2026-11-25T08:01:10.112Z",
  "source": "https://robloxden.com/game-codes/anime-rng-defense"
 }

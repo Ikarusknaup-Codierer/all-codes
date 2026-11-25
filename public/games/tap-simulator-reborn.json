@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "HEAVEN",
-   "reward": "a Level Potion and 500 Candy Corn"
+   "code": "World2",
+   "reward": "1 Level Potion , 1 Totem of Coins , and 1 Totem of Hatch Speed"
   },
   {
-   "code": "spooky",
-   "reward": "1 Luck Potion II , 1 Coins Potion II , 1 Gems Potion I , and 250 Candy"
+   "code": "CLANS",
+   "reward": "2 Luck Potion II , 2 Gems Potion II , 2 Coins Potion II , 1 Totem of L"
+  },
+  {
+   "code": "30MVISITS",
+   "reward": "a Totem of Luck and 500 Candy Corn"
   }
  ],
- "updated": "2026-11-22T14:24:31.155Z",
+ "updated": "2026-11-25T07:49:21.096Z",
  "source": "https://robloxden.com/game-codes/tap-simulator-reborn"
 }

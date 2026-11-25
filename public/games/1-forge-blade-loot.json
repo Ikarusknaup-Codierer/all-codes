@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SPOOKYFORGE",
-   "reward": "a Legendary Egg , 2x Luck Potion III , and 60 Minutes of Idle Coins"
-  },
-  {
    "code": "FORGEMASTER",
    "reward": "2x Power Potion III , 2x Luck Potion , and 60 Minutes of Idle Power"
   },
@@ -25,8 +21,12 @@
   {
    "code": "Shield",
    "reward": "2 Power Potion III"
+  },
+  {
+   "code": "SPOOKYFORGE",
+   "reward": "a Legendary Egg , 2x Luck Potion III , and 60 Minutes of Idle Coins"
   }
  ],
- "updated": "2026-11-22T14:27:07.647Z",
+ "updated": "2026-11-25T07:51:35.658Z",
  "source": "https://robloxden.com/game-codes/1-forge-blade-loot"
 }

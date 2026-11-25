@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "NAVAL",
+   "reward": "2,500 Gems and 10 Skill Crystals"
+  },
+  {
+   "code": "SPARTANSARESOBACK",
+   "reward": "2,500 Gems and 10 Skill Crystals"
+  },
+  {
+   "code": "BUFFED",
+   "reward": "2,500 Gems and 6 Skill Crystals"
+  },
+  {
    "code": "HALLOWEEN",
    "reward": "2,500 Gems and 50 Souls"
   },
@@ -43,6 +55,6 @@
    "reward": "1,000 Gems"
   }
  ],
- "updated": "2026-11-22T14:32:10.868Z",
+ "updated": "2026-11-25T07:56:02.390Z",
  "source": "https://robloxden.com/game-codes/command-an-army"
 }

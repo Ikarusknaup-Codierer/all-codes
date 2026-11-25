@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "Treat",
+   "reward": "an 5 Eternal Potion II , 5 Shards of Terror , and 5 Soul's Fate"
+  },
+  {
    "code": "19MVisits",
    "reward": "75 Eternal Potion II , 10 Soft Serve Ice Cream , 10 Soul's Fate , and "
   },
   {
    "code": "hollow",
    "reward": "100 Eternal II , 10 Soft Cream , and 20 Soul's Fate"
-  },
-  {
-   "code": "Bullseye",
-   "reward": "50 Eternal Potion II , 10 Soft Cream , and 5 Soul's Fate"
   },
   {
    "code": "durr",
@@ -217,8 +217,12 @@
   {
    "code": "TYfor3KFollower",
    "reward": "Eternal Potions"
+  },
+  {
+   "code": "Bullseye",
+   "reward": "50 Eternal Potion II , 10 Soft Cream , and 5 Soul's Fate"
   }
  ],
- "updated": "2026-11-22T14:31:31.712Z",
+ "updated": "2026-11-25T07:55:36.708Z",
  "source": "https://robloxden.com/game-codes/hots-rng"
 }

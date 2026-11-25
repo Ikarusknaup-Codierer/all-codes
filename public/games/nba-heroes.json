@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Wemby",
+   "reward": "3 OP Packs"
+  },
+  {
    "code": "JOKER",
    "reward": "2 OP Player Packs"
   },
@@ -23,14 +27,14 @@
    "reward": "2 OP Player Packs"
   },
   {
-   "code": "RELEASE",
-   "reward": "5,000 Coins , 2 OP Player Packs , and 2 OP Aura Packs"
-  },
-  {
    "code": "EDWARDS",
    "reward": "2 OP Player Packs"
+  },
+  {
+   "code": "5kCCU",
+   "reward": "2 OP Player Packs and the Rare Shrug Emote"
   }
  ],
- "updated": "2026-11-22T14:25:32.363Z",
+ "updated": "2026-11-25T07:50:09.160Z",
  "source": "https://robloxden.com/game-codes/nba-heroes"
 }

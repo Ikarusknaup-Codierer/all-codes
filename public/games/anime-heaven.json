@@ -7,14 +7,42 @@
    "reward": "Description"
   },
   {
-   "code": "1BGZIRU",
-   "reward": "rewards"
+   "code": "SORRYSHUTDOWN3",
+   "reward": "200 Tickets , 1 Luck Potion III , and 1 Heaven Elixir"
   },
   {
-   "code": "FULLGAMEPASS",
-   "reward": "a gamepass bundle"
+   "code": "SORRYSHUTDOWN2",
+   "reward": "200 Tickets , 1 Luck Potion III , and 1 Heaven Elixir"
+  },
+  {
+   "code": "100KVISITS",
+   "reward": "200 Tickets , a Lucky Potion III , and a Power Potion III"
+  },
+  {
+   "code": "fixes2",
+   "reward": "50 Tickets and a Tier II Potion of each stat"
+  },
+  {
+   "code": "fixes1",
+   "reward": "50 Tickets and a Tier II Potion of each stat"
+  },
+  {
+   "code": "90KVISITS",
+   "reward": "200 Tickets , 1 Luck Potion III , and 1 Power Potion III"
+  },
+  {
+   "code": "500CCU",
+   "reward": "150 Tickets and a Luck Potion III"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "200 Tickets and a Heaven Elixir"
+  },
+  {
+   "code": "FIXES3",
+   "reward": "50 Tickets and a Tier II Potion of each stat"
   }
  ],
- "updated": "2026-11-22T14:30:16.456Z",
+ "updated": "2026-11-25T07:54:31.513Z",
  "source": "https://robloxden.com/game-codes/anime-heaven"
 }

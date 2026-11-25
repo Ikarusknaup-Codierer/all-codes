@@ -7,12 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "EunheeUpdate2",
-   "reward": "GP"
+   "code": "oopsiee",
+   "reward": "700 Ghoul Points"
   },
   {
    "code": "EunheeUpdate3",
    "reward": "1K GP"
+  },
+  {
+   "code": "YummyEats",
+   "reward": "800 GP"
   },
   {
    "code": "EunheeRE",
@@ -21,6 +25,10 @@
   {
    "code": "AnInternWasHarmedForThis",
    "reward": "250 Ghoul Points"
+  },
+  {
+   "code": "EunheeUpdate2",
+   "reward": "GP"
   },
   {
    "code": "EunheesBlessing",
@@ -271,6 +279,6 @@
    "reward": "500 Ghoul Points"
   }
  ],
- "updated": "2026-11-22T14:29:36.432Z",
+ "updated": "2026-11-25T07:53:53.140Z",
  "source": "https://robloxden.com/game-codes/ghoul-re"
 }

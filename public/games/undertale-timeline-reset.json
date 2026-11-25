@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "PUBLICRELEASE",
+   "reward": "Free Souls"
+  },
+  {
+   "code": "NEWEVENT",
+   "reward": "6,000 Souls"
+  },
+  {
    "code": "ITEMS",
    "reward": "5,300 Souls"
   },
@@ -15,18 +23,10 @@
    "reward": "200 Dust"
   },
   {
-   "code": "MoreCodes",
-   "reward": "10 Tier I Keys"
-  },
-  {
-   "code": "VOZAN",
-   "reward": "100 Souls"
-  },
-  {
    "code": "TERMINATEDACCOUNTS",
    "reward": "1,600 Shards"
   }
  ],
- "updated": "2026-11-22T23:30:20.573Z",
+ "updated": "2026-11-25T07:59:07.809Z",
  "source": "https://robloxden.com/game-codes/undertale-timeline-reset"
 }

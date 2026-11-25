@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SORRY4DELAY",
+   "reward": "15 Ability Rerolls"
+  },
+  {
+   "code": "8000LIKES",
+   "reward": "10 Ability Rerolls"
+  },
+  {
    "code": "7000LIKES",
    "reward": "10 Clan Rerolls"
   },
@@ -39,6 +47,6 @@
    "reward": "10 Ability Rerolls"
   }
  ],
- "updated": "2026-11-22T06:05:30.542Z",
+ "updated": "2026-11-25T07:48:50.213Z",
  "source": "https://robloxden.com/game-codes/hollow"
 }

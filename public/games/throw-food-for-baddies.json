@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 Lucky Throw"
+  },
+  {
+   "code": "RAINBOW",
+   "reward": "1 Rainbow Egg"
   }
  ],
- "updated": "2026-11-22T14:30:11.140Z",
+ "updated": "2026-11-25T07:54:26.264Z",
  "source": "https://robloxden.com/game-codes/throw-food-for-baddies"
 }

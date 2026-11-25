@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "2XCOPPERKEY",
-   "reward": "2x Aging & Bucks For 1 Hour"
-  },
-  {
    "code": "PETDAY2025",
    "reward": "Rare Pet"
   },
   {
    "code": "SPRINGSTYLE",
    "reward": "Avatar Pastel Outfit"
+  },
+  {
+   "code": "WINTERWOLF2024",
+   "reward": "Winter Pet"
   },
   {
    "code": "SUMMERBREAK",
@@ -27,6 +27,6 @@
    "reward": "100 Bucks"
   }
  ],
- "updated": "2026-11-22T14:31:32.316Z",
+ "updated": "2026-11-25T07:55:37.236Z",
  "source": "https://robloxden.com/game-codes/adopt-me"
 }

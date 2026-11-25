@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SteveBroRun",
+   "reward": "100 Rerolls . You need to be level 10 to redeem this code"
+  },
+  {
+   "code": "Fall26",
+   "reward": "6,000 Leaves ’26 . You need to be level 10 to redeem this code"
+  },
+  {
+   "code": "Nirvana",
+   "reward": "50 Memoria Shards , 50,000 Gold , and 50 Rerolls . You need to be leve"
+  },
+  {
    "code": "2ndAnniversary",
    "reward": "1,000 Rerolls . You need to be level 10 to redeem this code"
   },
@@ -119,6 +131,6 @@
    "reward": "50 Memoria Shards and 50 Green Essences . You must be level 30 to clai"
   }
  ],
- "updated": "2026-11-22T14:25:26.590Z",
+ "updated": "2026-11-25T07:50:03.891Z",
  "source": "https://robloxden.com/game-codes/anime-vanguards"
 }

@@ -1,32 +1,7 @@
 {
  "slug": "poly-loot",
  "name": "Poly Loot",
- "codes": [
-  {
-   "code": "Code",
-   "reward": "Description"
-  },
-  {
-   "code": "Spark",
-   "reward": "1,000 Coins , 500 XP , and 5x Weapon Tier Scrolls"
-  },
-  {
-   "code": "LOOTDANCE",
-   "reward": "the Loot Dance Emote"
-  },
-  {
-   "code": "Lev",
-   "reward": "1,000 Coins , 500 EXP , and 5 Weapon Tier Scrolls"
-  },
-  {
-   "code": "VOLCANO2",
-   "reward": "8 Weapon Tier Scrolls , 8 Armor Tier Scrolls , and 8 Mount Tier Scroll"
-  },
-  {
-   "code": "DARKDUNGEON",
-   "reward": "5x Inventory Slots"
-  }
- ],
- "updated": "2026-11-22T23:32:26.940Z",
+ "codes": [],
+ "updated": "2026-11-25T08:00:55.894Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

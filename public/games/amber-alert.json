@@ -11,22 +11,22 @@
    "reward": "5 Amber Crates"
   },
   {
-   "code": "20kMembers",
-   "reward": "200 Ambers"
+   "code": "SEWERS",
+   "reward": "50 Ambers"
   },
   {
-   "code": "SORRY2",
-   "reward": "1 Amber Crate and Amber Boost (30 Minutes)"
-  },
-  {
-   "code": "PART2",
-   "reward": "1 Asylum Crate and 1 Amber Crate"
+   "code": "MORECLASSES",
+   "reward": "50 Amber"
   },
   {
    "code": "AMBERALERT2",
    "reward": "80 Amber"
+  },
+  {
+   "code": "DELAYBOOST",
+   "reward": "an Amber Boost (2 Hours)"
   }
  ],
- "updated": "2026-11-22T14:32:39.529Z",
+ "updated": "2026-11-25T07:56:16.902Z",
  "source": "https://robloxden.com/game-codes/amber-alert"
 }

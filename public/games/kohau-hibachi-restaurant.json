@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "HalloweenNPC",
-   "reward": "100 Sushi Rolls"
-  },
-  {
    "code": "Revamp",
    "reward": "15 Sushi Rolls"
+  },
+  {
+   "code": "HalloweenNPC",
+   "reward": "100 Sushi Rolls"
   },
   {
    "code": "Party",
@@ -21,12 +21,8 @@
   {
    "code": "Bakery",
    "reward": "Bakery Rewards"
-  },
-  {
-   "code": "Kohau",
-   "reward": "Rewards"
   }
  ],
- "updated": "2026-11-22T14:31:18.689Z",
+ "updated": "2026-11-25T07:55:27.206Z",
  "source": "https://robloxden.com/game-codes/kohau-hibachi-restaurant"
 }

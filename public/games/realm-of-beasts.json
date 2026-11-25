@@ -1,36 +1,7 @@
 {
  "slug": "realm-of-beasts",
  "name": "Realm of Beasts",
- "codes": [
-  {
-   "code": "Code",
-   "reward": "Description"
-  },
-  {
-   "code": "HOLLOW_MASK",
-   "reward": "1,000 Gold"
-  },
-  {
-   "code": "HEADLESS_DRAGONMAN",
-   "reward": "2,000 Gold"
-  },
-  {
-   "code": "BLOOD_DRAGONS",
-   "reward": "1,000 Gold"
-  },
-  {
-   "code": "76b2ee5a-c74a-4ba4-9277-5bd68432b9b8",
-   "reward": "10K Gold"
-  },
-  {
-   "code": "RECODE_COMING",
-   "reward": "2K Gold"
-  },
-  {
-   "code": "CAM_HELP",
-   "reward": "2K Gold"
-  }
- ],
- "updated": "2026-11-22T23:32:48.104Z",
+ "codes": [],
+ "updated": "2026-11-25T08:01:14.759Z",
  "source": "https://robloxden.com/game-codes/realm-of-beasts"
 }

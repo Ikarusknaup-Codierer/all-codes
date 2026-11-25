@@ -47,14 +47,18 @@
    "reward": "750 Coins"
   },
   {
-   "code": "NEW",
-   "reward": "1,000 Coins"
+   "code": "OCTOBER",
+   "reward": "500 Coins"
   },
   {
-   "code": "GEMSHOP",
-   "reward": "500 Gems"
+   "code": "HOLIDAY",
+   "reward": "500 Coins"
+  },
+  {
+   "code": "NEW",
+   "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-11-22T14:25:10.558Z",
+ "updated": "2026-11-25T07:49:50.373Z",
  "source": "https://robloxden.com/game-codes/ufo-simulator"
 }

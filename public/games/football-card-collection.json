@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "SHOWCASE",
-   "reward": "4x Coins (5 minutes) and 4x Luck (5 minutes)"
-  },
-  {
-   "code": "ROUNDTOWN",
-   "reward": "Silver Roundtown Jameer Gib"
-  },
-  {
    "code": "RADAR",
    "reward": "2x Coins (5 minutes) , 2x Luck (5 minutes) , and No Pack Cooldown (5 m"
   },
@@ -39,10 +31,14 @@
    "reward": "50% Off Packs (2 minutes) and 2x Luck (20 minutes)"
   },
   {
-   "code": "KAPOW",
-   "reward": "50% OFF Packs and No Pack Cooldowns (5 Minutes)"
+   "code": "SHOWCASE",
+   "reward": "4x Coins (5 minutes) and 4x Luck (5 minutes)"
+  },
+  {
+   "code": "ROUNDTOWN",
+   "reward": "Silver Roundtown Jameer Gib"
   }
  ],
- "updated": "2026-11-22T14:26:09.552Z",
+ "updated": "2026-11-25T07:50:43.184Z",
  "source": "https://robloxden.com/game-codes/football-card-collection"
 }

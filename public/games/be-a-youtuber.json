@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "halloween",
+   "reward": "50 Rebirth Coins"
+  },
+  {
    "code": "880kfavs",
    "reward": "80 Rebirth Coins"
   },
@@ -115,14 +119,14 @@
    "reward": "250 Cash"
   },
   {
-   "code": "115mvisits",
-   "reward": "45 Rebirth Coins"
+   "code": "golweek",
+   "reward": "rewards"
   },
   {
-   "code": "10klikes",
-   "reward": "Freebies"
+   "code": "800klikes",
+   "reward": "80 Rebirth Coins"
   }
  ],
- "updated": "2026-11-22T14:33:28.131Z",
+ "updated": "2026-11-25T07:56:32.438Z",
  "source": "https://robloxden.com/game-codes/be-a-youtuber"
 }

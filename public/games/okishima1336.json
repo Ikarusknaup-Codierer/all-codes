@@ -7,14 +7,18 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATE1",
-   "reward": "rewards"
+   "code": "bugfixes",
+   "reward": "2 Clan Tokens"
   },
   {
-   "code": "RELEASE",
-   "reward": "5 Clan Tokens and 20 Reroll Tokens"
+   "code": "UPDATE2",
+   "reward": "3 Clan Tokens and 20 Reroll Tokens"
+  },
+  {
+   "code": "1Mvisits",
+   "reward": "3 Clan Tokens and 20 Reroll Tokens"
   }
  ],
- "updated": "2026-11-22T14:30:15.859Z",
+ "updated": "2026-11-25T07:54:30.944Z",
  "source": "https://robloxden.com/game-codes/okishima1336"
 }

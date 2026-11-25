@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "LOSTISLANDS",
+   "reward": "25 Rainbow Apples"
+  },
+  {
    "code": "UPSIDEDOWN",
    "reward": "25 Corrupted Berry"
   },
@@ -91,6 +95,6 @@
    "reward": "10 Apple Baits"
   }
  ],
- "updated": "2026-11-22T23:32:54.490Z",
+ "updated": "2026-11-25T08:01:20.652Z",
  "source": "https://robloxden.com/game-codes/catch-and-tame"
 }

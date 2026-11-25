@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "NEL",
+   "reward": "5,000,000 Cash"
+  },
+  {
+   "code": "CARDUPDATE30",
+   "reward": "5,000,000 Cash"
+  },
+  {
    "code": "CARDUPDATE29",
    "reward": "5M Cash"
   },
@@ -71,6 +79,6 @@
    "reward": "4M Cash"
   }
  ],
- "updated": "2026-11-22T14:25:02.306Z",
+ "updated": "2026-11-25T07:49:43.240Z",
  "source": "https://robloxden.com/game-codes/blue-lock-card-battles"
 }

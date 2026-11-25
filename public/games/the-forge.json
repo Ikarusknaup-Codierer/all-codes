@@ -7,20 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "MOLDSFIX2",
-   "reward": "20 Armor Molds and 20 Weapon Molds"
-  },
-  {
-   "code": "90KCCU",
-   "reward": "10 Rerolls"
-  },
-  {
-   "code": "PRISMATICSHARDS",
-   "reward": "Rewards"
-  },
-  {
    "code": "FIRSTADMINEVENT",
    "reward": "25 Rerolls"
+  },
+  {
+   "code": "SORRYFORBUGS!!!",
+   "reward": "10 Race Rerolls"
+  },
+  {
+   "code": "AIDASAYSSORRY",
+   "reward": "10 Rerolls"
   },
   {
    "code": "SORRYFORSHUTDOWNN!",
@@ -35,6 +31,6 @@
    "reward": "10 Rerolls"
   }
  ],
- "updated": "2026-11-22T23:27:43.335Z",
+ "updated": "2026-11-25T07:56:54.448Z",
  "source": "https://robloxden.com/game-codes/the-forge"
 }

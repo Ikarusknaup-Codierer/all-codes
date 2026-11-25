@@ -15,10 +15,6 @@
    "reward": "5 Halloween Chests"
   },
   {
-   "code": "Gravitas",
-   "reward": "5,000 Pumpkin Candies"
-  },
-  {
    "code": "HALLOWEEN",
    "reward": "a Wizard Egg"
   },
@@ -69,6 +65,10 @@
   {
    "code": "Eventb",
    "reward": "2 Mythical Chests"
+  },
+  {
+   "code": "Gravitas",
+   "reward": "5,000 Pumpkin Candies"
   },
   {
    "code": "Lumen",
@@ -135,6 +135,6 @@
    "reward": "2K Lamp Tokens and 2 Genesis Fruits"
   }
  ],
- "updated": "2026-11-22T23:30:29.912Z",
+ "updated": "2026-11-25T07:59:15.788Z",
  "source": "https://robloxden.com/game-codes/catch-a-monster"
 }

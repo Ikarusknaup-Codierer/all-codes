@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SHUTDOWNSORRY",
+   "reward": "100 Nectar , 100 Ancient Fragments , 100 2x Expedition Luck , and 100 "
+  },
+  {
+   "code": "MINIUPDATEAGAIN",
+   "reward": "150 Nectar , 750 Chi , 250 Ancient Fragments , 50 2x Rune Luck , 50 2x"
+  },
+  {
    "code": "HAPPYHALLOWEEN2!",
    "reward": "50 Tickets , 100 Nectars , 500 Chi , 50 2x Rune Luck , 50 2x Rune Spee"
   },
@@ -95,6 +103,6 @@
    "reward": "100 Enchant Tokens and 20 Tickets"
   }
  ],
- "updated": "2026-11-22T14:28:30.146Z",
+ "updated": "2026-11-25T07:52:52.750Z",
  "source": "https://robloxden.com/game-codes/noob-incremental"
 }

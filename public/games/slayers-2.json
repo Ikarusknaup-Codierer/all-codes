@@ -7,6 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "PreUpdateRaceReset",
+   "reward": "1 Race Reset"
+  },
+  {
+   "code": "PreUpdateStatpointreset",
+   "reward": "1 Stat Point Reset"
+  },
+  {
+   "code": "PreUpdateBreathingreset",
+   "reward": "1 Breathing Reset"
+  },
+  {
+   "code": "PreUpdateEvilartreset",
+   "reward": "1 Evil Art Reset"
+  },
+  {
+   "code": "PreUpdate2XExp",
+   "reward": "2x EXP (30 Minutes)"
+  },
+  {
+   "code": "PreUpdate2XWen",
+   "reward": "2x Wen (30 Minutes)"
+  },
+  {
+   "code": "PreUpdate2XMastery",
+   "reward": "2x Mastery (30 Minutes)"
+  },
+  {
    "code": "Update1Spins",
    "reward": "100 Spins"
   },
@@ -43,6 +71,6 @@
    "reward": "35 Spins"
   }
  ],
- "updated": "2026-11-22T14:24:14.218Z",
+ "updated": "2026-11-25T07:49:14.806Z",
  "source": "https://robloxden.com/game-codes/slayers-2"
 }

@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "WELCOME",
+   "reward": "15,000 Nexus Gems , a Gacha Luck , and 6,000 Primogems"
+  },
+  {
+   "code": "UPDATE10",
+   "reward": "150K Nexus Gem, 1 Update Thank You and 1K Essence"
+  },
+  {
    "code": "UPDATE9",
    "reward": "150,000 Nexus Gems , a Luck Boost (2 Hours) , and 1,000 Essence"
   },
@@ -17,14 +25,6 @@
   {
    "code": "UPDATE8",
    "reward": "150,000 Nexus Gems , 1 Update Thank You , and 1,000 Essence"
-  },
-  {
-   "code": "HALLOWEEN",
-   "reward": "50,000 Nexus Gems"
-  },
-  {
-   "code": "WELCOME",
-   "reward": "15,000 Nexus Gems , a Gacha Luck , and 6,000 Primogems"
   },
   {
    "code": "RONOVA",
@@ -41,8 +41,12 @@
   {
    "code": "UPDATE5",
    "reward": "150,000 Nexus Gems , 1x Update Thank You , and 1,000 Essence"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "50,000 Nexus Gems"
   }
  ],
- "updated": "2026-11-22T14:26:13.811Z",
+ "updated": "2026-11-25T07:50:47.231Z",
  "source": "https://robloxden.com/game-codes/hoyoverse-gacha-simulator"
 }

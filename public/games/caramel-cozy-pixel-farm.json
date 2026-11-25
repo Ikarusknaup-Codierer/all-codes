@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "GLIMMERBURY",
-   "reward": "10 Big Fireworks and 25 Crystals"
-  },
-  {
    "code": "WOLFY",
    "reward": "25 Crystals"
   },
@@ -43,14 +39,18 @@
    "reward": "Rewards"
   },
   {
-   "code": "PETS",
-   "reward": "1 Orchard Egg and 25 Crystals"
+   "code": "CATACOMBS",
+   "reward": "1 Skull Candle and 25 Crystals"
   },
   {
-   "code": "GLOWUP",
-   "reward": "25 Crystals and 10 Big Fireworks"
+   "code": "COLORS",
+   "reward": "an Orchard Egg and 25 Crystals"
+  },
+  {
+   "code": "GLIMMERBURY",
+   "reward": "10 Big Fireworks and 25 Crystals"
   }
  ],
- "updated": "2026-11-22T23:28:37.974Z",
+ "updated": "2026-11-25T07:57:41.016Z",
  "source": "https://robloxden.com/game-codes/caramel-cozy-pixel-farm"
 }

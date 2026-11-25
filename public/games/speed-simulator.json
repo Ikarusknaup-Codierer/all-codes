@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "BlueFlame",
-   "reward": "Freebies"
-  },
-  {
    "code": "12klikes",
    "reward": "Freebies"
   },
   {
-   "code": "15klikes",
+   "code": "13klikes",
    "reward": "Freebies"
   },
   {
-   "code": "90MARATHON",
-   "reward": "100 Gems and 500 Steps"
+   "code": "5KSTEPS",
+   "reward": "140 Gems and 300 Steps"
   },
   {
    "code": "FAST860",
    "reward": "140 Gems and 300 Steps"
+  },
+  {
+   "code": "SPEED880",
+   "reward": "300 Gems and 600 Steps"
   }
  ],
- "updated": "2026-11-22T14:24:42.364Z",
+ "updated": "2026-11-25T07:49:28.148Z",
  "source": "https://robloxden.com/game-codes/speed-simulator"
 }

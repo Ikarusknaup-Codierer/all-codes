@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "GOODIEBOX",
+   "reward": "1 Random Event Egg"
+  },
+  {
    "code": "THEROPODCHOMP",
    "reward": "4 Super Dino Growth Food"
   },
@@ -19,6 +23,6 @@
    "reward": "1 Fire Stego Egg"
   }
  ],
- "updated": "2026-11-22T23:31:11.515Z",
+ "updated": "2026-11-25T07:59:50.931Z",
  "source": "https://robloxden.com/game-codes/hatch-and-craft-prehistoric-paradise"
 }

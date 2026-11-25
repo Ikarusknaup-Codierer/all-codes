@@ -7,6 +7,42 @@
    "reward": "Description"
   },
   {
+   "code": "AARIN2",
+   "reward": "200 Candies"
+  },
+  {
+   "code": "SIKEE",
+   "reward": "300 Candies"
+  },
+  {
+   "code": "AARIN67",
+   "reward": "400 Candies"
+  },
+  {
+   "code": "BRAZILFORDELAY",
+   "reward": "Brazil Emote"
+  },
+  {
+   "code": "WOOOPY",
+   "reward": "500 Candies"
+  },
+  {
+   "code": "BambamBoom",
+   "reward": "2,000 Candies"
+  },
+  {
+   "code": "10MOREMINS",
+   "reward": "a Random MVP"
+  },
+  {
+   "code": "WOWZIE",
+   "reward": "1,000 Candies"
+  },
+  {
+   "code": "AARIN1",
+   "reward": "100 Candies"
+  },
+  {
    "code": "YOENJOYTHISCODE",
    "reward": "a Random MVP"
   },
@@ -191,6 +227,6 @@
    "reward": "X Emote"
   }
  ],
- "updated": "2026-11-22T23:29:07.536Z",
+ "updated": "2026-11-25T07:58:06.243Z",
  "source": "https://robloxden.com/game-codes/azure-latch"
 }

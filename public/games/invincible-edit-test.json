@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "50M",
+   "reward": "3 Emotes"
+  },
+  {
    "code": "CODEHERE",
    "reward": "a Genius Title"
   },
@@ -21,8 +25,16 @@
   {
    "code": "TUFF",
    "reward": "a Tuff Title"
+  },
+  {
+   "code": "SPACEUPDATE",
+   "reward": "a Galactic Title , an Excuse me sir Emote , a G Dance Emote , and a Wo"
+  },
+  {
+   "code": "SPACEBOUND",
+   "reward": "the Space-themed Aura"
   }
  ],
- "updated": "2026-11-22T14:31:42.085Z",
+ "updated": "2026-11-25T07:55:44.120Z",
  "source": "https://robloxden.com/game-codes/invincible-edit-test"
 }

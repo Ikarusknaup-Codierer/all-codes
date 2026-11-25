@@ -67,6 +67,42 @@
    "reward": "the Free Rewards"
   },
   {
+   "code": "spiralnexus",
+   "reward": "5,000 Spiral Coins , 100 Fate Capsules , 10 Roll Ticket x100 , 1 Divin"
+  },
+  {
+   "code": "ANTISPIRAL",
+   "reward": "300 Spiral Coins , an Ultra Luck Potion , 25 Relic Rerolls , 200 Trait"
+  },
+  {
+   "code": "GIGADRILLBREAK",
+   "reward": "500 Spiral Coins , 100 Super Stat Chips , 5 Roll Tickets x100 , 20 Voi"
+  },
+  {
+   "code": "spiralpatch",
+   "reward": "5,000 Spiral Coin , 50 Hiru Fragments , 3 Ultra Luck Potions , 100 Por"
+  },
+  {
+   "code": "GURRENUPDATE",
+   "reward": "300 Spiral Coins , 5 Roll Ticket x100 , 300 Trait Rerolls , 50 Portal "
+  },
+  {
+   "code": "PIERCETHEHEAVENS",
+   "reward": "100 Spiral Coins , 200 Trait Rerolls , 25 Relic Rerolls , and 50 Beast"
+  },
+  {
+   "code": "ROWROWFIGHT",
+   "reward": "100 Spiral Coins , 100 Super Stat Chips , 20 Gunmen Horns , and 5 Roll"
+  },
+  {
+   "code": "COREDRILL",
+   "reward": "5 Ultra Luck Potions , 200 Stat Chips , 30 Beastman Claws , and 3 Spir"
+  },
+  {
+   "code": "DARLING",
+   "reward": "50 Hiru Fragments , 200 Trait Rerolls , and 200 Stat Chips"
+  },
+  {
    "code": "FATEUPDATE",
    "reward": "150 Prana Dust , 10 Fate Capsule , 100 Cursed Objects , 300 Trait Rero"
   },
@@ -139,6 +175,6 @@
    "reward": "100 Cursed Objects , an Ultra Luck Potion , 10 Nazarick Capsules , 50 "
   }
  ],
- "updated": "2026-11-22T23:41:37.113Z",
+ "updated": "2026-11-25T21:29:08.463Z",
  "source": "https://robloxden.com/game-codes/anime-nexus"
 }

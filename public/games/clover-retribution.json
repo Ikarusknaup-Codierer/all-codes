@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "!bosshunter350",
+   "reward": "Rewards . You must be at least level 350 to redeem this code"
+  },
+  {
    "code": "!keepthisuntillevel600",
    "reward": "8 Spins of all types"
   },
@@ -43,6 +47,6 @@
    "reward": "Rewards . You must be at least level 150 to redeem this code"
   }
  ],
- "updated": "2026-11-23T06:52:33.310Z",
+ "updated": "2026-11-25T21:35:56.614Z",
  "source": "https://robloxden.com/game-codes/clover-retribution"
 }

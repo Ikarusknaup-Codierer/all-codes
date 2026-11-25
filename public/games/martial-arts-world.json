@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "QUICKFIX3",
-   "reward": "10 and 5,000 Silver"
-  },
-  {
-   "code": "1500CCU",
-   "reward": "15 Bloodline Rolls , 15,000 Silver , and a Stat Reset"
-  },
-  {
    "code": "AA1",
    "reward": "50 Bloodline Rolls"
   },
@@ -27,10 +19,14 @@
    "reward": "10 Bloodline Rolls and 1 2x Cultivation (30 mins)"
   },
   {
-   "code": "1MILVISITS",
-   "reward": "50 Bloodline Rolls , X2 Cultivation (30 Minutes) , X2 Mastery (30 Minu"
+   "code": "QUICKFIX3",
+   "reward": "10 and 5,000 Silver"
+  },
+  {
+   "code": "1500CCU",
+   "reward": "15 Bloodline Rolls , 15,000 Silver , and a Stat Reset"
   }
  ],
- "updated": "2026-11-23T06:48:18.775Z",
+ "updated": "2026-11-25T21:31:33.664Z",
  "source": "https://robloxden.com/game-codes/martial-arts-world"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Welcome",
+   "reward": "Rewards"
+  },
+  {
    "code": "BFFs",
    "reward": "10 Power Rolls"
   },
@@ -403,14 +407,10 @@
    "reward": "5 Power Rolls"
   },
   {
-   "code": "TrickOrTreat",
-   "reward": "5 Power Rolls"
-  },
-  {
    "code": "CandyCorn",
    "reward": "5 Power Rolls"
   }
  ],
- "updated": "2026-11-23T06:46:13.357Z",
+ "updated": "2026-11-25T21:29:22.563Z",
  "source": "https://robloxden.com/game-codes/hazbin-hotel-hells-fortune"
 }

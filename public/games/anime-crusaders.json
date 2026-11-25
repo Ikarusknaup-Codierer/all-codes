@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "AnimeLegendsSimulator",
-   "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
-  },
-  {
    "code": "AnimeLegends2026",
    "reward": "100 Divine Reroll Tokens , 25 Tokens of Resonance , 50 Perfect Stat Cu"
-  },
-  {
-   "code": "JoinAnimeLegends",
-   "reward": "2,500 Gems , 50 All Stat Rerolls , 50 Specific Stat Rerolls , 25 Bleac"
-  },
-  {
-   "code": "RecklessGambler",
-   "reward": "50 Rerolls , Currency , and Gems"
   },
   {
    "code": "JUDASUPDATESOON",
@@ -103,6 +91,38 @@
    "reward": "1 New Style"
   },
   {
+   "code": "67",
+   "reward": "67 Trait Remnants , 676 Gems , and 6.76K Gold"
+  },
+  {
+   "code": "THANKYOUFOR50K",
+   "reward": "25 Curse Tokens , 25 Relic Cubes , 50 Stat Cubes , 100 Trait Remnants "
+  },
+  {
+   "code": "ThanksForStickingWithACX",
+   "reward": "5,000 Gems and 100 Trait Remnants"
+  },
+  {
+   "code": "RobloxVNGBACK",
+   "reward": "30 Trait Remnants and 1,000 Gems"
+  },
+  {
+   "code": "THANKYOUFOR30KMAJORFIXES",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "ACBESTTD2026",
+   "reward": "50 Curse Tokens , 50 Relic Cubes , 50 Stat Cubes , and 5,000 Gems"
+  },
+  {
+   "code": "SORRYFORSHUTDOWNEA2026",
+   "reward": "50 Trait Remnants"
+  },
+  {
+   "code": "WELCOMETOACX",
+   "reward": "200 Trait Remnants and 5,000 Gems"
+  },
+  {
    "code": "HOLMOLS",
    "reward": "Rerolls and Gems"
   },
@@ -119,8 +139,16 @@
    "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
   },
   {
+   "code": "AnimeLegendsSimulator",
+   "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
+  },
+  {
    "code": "AnimeCrusadersX2026",
    "reward": "100 Divine Rerolls Tokens , 25 Tokens of Resonance , 50 Perfect Stat C"
+  },
+  {
+   "code": "JoinAnimeLegends",
+   "reward": "2,500 Gems , 50 All Stat Rerolls , 50 Specific Stat Rerolls , 25 Bleac"
   },
   {
    "code": "CODE1LOL",
@@ -199,6 +227,10 @@
    "reward": "35 Rerolls , Currency , and Other Rewards . You must be at least level"
   },
   {
+   "code": "RecklessGambler",
+   "reward": "50 Rerolls , Currency , and Gems"
+  },
+  {
    "code": "GojoXSukunaUnit",
    "reward": "50 Rerolls , Currency , and Gems . You must be at least level 15 to cl"
   },
@@ -263,6 +295,6 @@
    "reward": "85 Rerolls , New Currency , Gems , Stat Cubes , and Other Goodies . Yo"
   }
  ],
- "updated": "2026-11-22T23:34:31.619Z",
+ "updated": "2026-11-25T21:26:29.760Z",
  "source": "https://robloxden.com/game-codes/anime-crusaders"
 }

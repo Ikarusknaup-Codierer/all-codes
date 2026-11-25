@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "galaxy",
+   "reward": "5 Gold"
+  },
+  {
+   "code": "hunter",
+   "reward": "5 Gold"
+  },
+  {
+   "code": "coral",
+   "reward": "5 Gold"
+  },
+  {
+   "code": "fish",
+   "reward": "10 Gold"
+  },
+  {
    "code": "forge",
    "reward": "10 Gold"
   },
@@ -67,6 +83,6 @@
    "reward": "5 Gold"
   }
  ],
- "updated": "2026-11-22T23:41:25.957Z",
+ "updated": "2026-11-25T21:28:59.107Z",
  "source": "https://robloxden.com/game-codes/dropper-incremental"
 }

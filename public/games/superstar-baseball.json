@@ -23,14 +23,6 @@
    "reward": "5 Lucky Spins"
   },
   {
-   "code": "DUALSHOCK",
-   "reward": "5 Lucky Spins"
-  },
-  {
-   "code": "ASCENDANT",
-   "reward": "5 Lucky Spins"
-  },
-  {
    "code": "150KLIKES",
    "reward": "2 Free Spins"
   },
@@ -61,6 +53,14 @@
   {
    "code": "RBI",
    "reward": "2 Spins"
+  },
+  {
+   "code": "DUALSHOCK",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "ASCENDANT",
+   "reward": "5 Lucky Spins"
   },
   {
    "code": "PARK",
@@ -115,6 +115,6 @@
    "reward": "5 Lucky Style Spins"
   }
  ],
- "updated": "2026-11-23T06:53:48.435Z",
+ "updated": "2026-11-25T21:37:09.645Z",
  "source": "https://robloxden.com/game-codes/superstar-baseball"
 }

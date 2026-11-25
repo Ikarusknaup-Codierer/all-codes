@@ -7,8 +7,32 @@
    "reward": "Description"
   },
   {
+   "code": "1MMilestonesAchieved!",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "BlackFlamesCalamity!",
+   "reward": "50 Spins"
+  },
+  {
+   "code": "UltimateBlackFlames!",
+   "reward": "25 Spins"
+  },
+  {
    "code": "AbyssModeImprovementsPlease!",
    "reward": "30 Spins"
+  },
+  {
+   "code": "ImpureWorldsReincarnation!",
+   "reward": "15 Spins"
+  },
+  {
+   "code": "250KMilestoneAchieved!",
+   "reward": "15 Spins"
+  },
+  {
+   "code": "500KMilestoneAchieved!",
+   "reward": "25 Spins"
   },
   {
    "code": "MagicWand!!",
@@ -227,6 +251,6 @@
    "reward": "15 Spins of all types"
   }
  ],
- "updated": "2026-11-23T06:48:19.434Z",
+ "updated": "2026-11-25T21:31:34.352Z",
  "source": "https://robloxden.com/game-codes/ninja-time"
 }

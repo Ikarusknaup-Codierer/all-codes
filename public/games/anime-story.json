@@ -7,42 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WEBNOVEL",
-   "reward": "1,000 Traits , 75 Fate , 1,000 Stat Chips , 500 Elite Chips , 180 Nove"
-  },
-  {
-   "code": "FINALDRAFT",
-   "reward": "500 Traits , 50 Skill Orbs , 4 Blank Pages , 2 Portal Gifts , and 10 I"
-  },
-  {
-   "code": "BEYONDTHEWALL",
-   "reward": "750 Traits , 50 Fate , 1 Artifact Ticket , 750 Pages , and 25 Ending F"
-  },
-  {
-   "code": "READTHECHAPTERS",
-   "reward": "500 Traits , 750 Stat Chips , 750 Elite Chips , 240 Novel Fragments , "
-  },
-  {
-   "code": "REWRITEFATE",
-   "reward": "1,000 Traits , 100 Fate , 75 Skill Orbs , 1,000 Pages , 20 Ink , and 3"
-  },
-  {
-   "code": "masteryeasier",
-   "reward": "Free Rewards"
-  },
-  {
-   "code": "BigUpdateSoon",
-   "reward": "500 Trait Tokens , 50 Fate Tokens , 1 Tree Reset Orb , 750 Stat Chips "
-  },
-  {
-   "code": "HuntEvent",
-   "reward": "1,000 Trait Tokens , 50 Fate Tokens , 25 Skill Orbs , 1,000 Stat Chips"
-  },
-  {
-   "code": "NoMoreSummer!",
-   "reward": "1,000 Trait Tokens , 75 Skill Orbs , 1,000 Stat Chips , 1,000 Elite St"
-  },
-  {
    "code": "reallysorryfordelay",
    "reward": "100K Gems, 1K Trait Tokens, 5 Luck II Potions, 50 Elite Stat Chips, 25"
   },
@@ -123,12 +87,44 @@
    "reward": "50 Trait Tokens"
   },
   {
-   "code": "5kinterested",
-   "reward": "250 Trait Tokens and 100,000 Gems"
-  },
-  {
    "code": "ChainsawMan",
    "reward": "50,000 Summer Tokens , 150 Trait Tokens , and a Monarch Tickets"
+  },
+  {
+   "code": "WEBNOVEL",
+   "reward": "1,000 Traits , 75 Fate , 1,000 Stat Chips , 500 Elite Chips , 180 Nove"
+  },
+  {
+   "code": "FINALDRAFT",
+   "reward": "500 Traits , 50 Skill Orbs , 4 Blank Pages , 2 Portal Gifts , and 10 I"
+  },
+  {
+   "code": "BEYONDTHEWALL",
+   "reward": "750 Traits , 50 Fate , 1 Artifact Ticket , 750 Pages , and 25 Ending F"
+  },
+  {
+   "code": "READTHECHAPTERS",
+   "reward": "500 Traits , 750 Stat Chips , 750 Elite Chips , 240 Novel Fragments , "
+  },
+  {
+   "code": "REWRITEFATE",
+   "reward": "1,000 Traits , 100 Fate , 75 Skill Orbs , 1,000 Pages , 20 Ink , and 3"
+  },
+  {
+   "code": "masteryeasier",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "BigUpdateSoon",
+   "reward": "500 Trait Tokens , 50 Fate Tokens , 1 Tree Reset Orb , 750 Stat Chips "
+  },
+  {
+   "code": "HuntEvent",
+   "reward": "1,000 Trait Tokens , 50 Fate Tokens , 25 Skill Orbs , 1,000 Stat Chips"
+  },
+  {
+   "code": "NoMoreSummer!",
+   "reward": "1,000 Trait Tokens , 75 Skill Orbs , 1,000 Stat Chips , 1,000 Elite St"
   },
   {
    "code": "googledocvsgoogledoc",
@@ -219,10 +215,14 @@
    "reward": "100 Trait Tokens and 2,500 Slime Tokens"
   },
   {
+   "code": "5kinterested",
+   "reward": "250 Trait Tokens and 100,000 Gems"
+  },
+  {
    "code": "20kccuomg",
    "reward": "150 Trait Tokens and 10 Ascended Orbs"
   }
  ],
- "updated": "2026-11-23T06:51:21.945Z",
+ "updated": "2026-11-25T21:34:43.698Z",
  "source": "https://robloxden.com/game-codes/anime-story"
 }

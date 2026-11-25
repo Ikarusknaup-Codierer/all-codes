@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "2,300 Cash"
+  },
+  {
+   "code": "GYM",
+   "reward": "1.4x Muscle Gain (5 mins)"
+  },
+  {
+   "code": "MEGAFLEX",
+   "reward": "1.5x Cash (5 mins)"
   }
  ],
- "updated": "2026-11-23T06:53:57.110Z",
+ "updated": "2026-11-25T21:37:17.698Z",
  "source": "https://robloxden.com/game-codes/gym-legacy"
 }

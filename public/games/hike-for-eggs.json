@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "VOLTS",
+   "reward": "30 Volts"
+  },
+  {
+   "code": "HEAVEN",
+   "reward": "2x Strength (20 mins) and 150 Quest Tokens"
+  },
+  {
+   "code": "CashTrail",
+   "reward": "2x Cash (10 mins)"
+  },
+  {
    "code": "GroupHike",
    "reward": "2x Strength (20 mins) and 100 Quest Tokens . Join Hike for... communit"
   },
@@ -23,6 +35,6 @@
    "reward": "the Balloon Bunch Decoration"
   }
  ],
- "updated": "2026-11-23T06:48:34.366Z",
+ "updated": "2026-11-25T21:31:49.795Z",
  "source": "https://robloxden.com/game-codes/hike-for-eggs"
 }

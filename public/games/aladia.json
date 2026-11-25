@@ -7,12 +7,96 @@
    "reward": "Description"
   },
   {
+   "code": "ARMORA",
+   "reward": "Rewards . For level 3+ only"
+  },
+  {
+   "code": "CandyCane",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "ChristmasGift",
+   "reward": "a Combat_P"
+  },
+  {
+   "code": "SantasDeagle",
+   "reward": "a Pistol .50"
+  },
+  {
+   "code": "ChristmasLights",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "Gingerbread",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "Frostbite",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "Reindeer",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "CinderPlume",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "MarrowWisp",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "Glassleaf",
+   "reward": "Rewards . For level 3+ only"
+  },
+  {
+   "code": "XCARD",
+   "reward": "Rewards . For level 3+ only"
+  },
+  {
+   "code": "ARMOR1K",
+   "reward": "Rewards . For level 3+ only"
+  },
+  {
+   "code": "BANDAGE1K",
+   "reward": "Rewards . For level 3+ only"
+  },
+  {
+   "code": "XMAS",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "XDIAS",
+   "reward": "100 Diamonds"
+  },
+  {
+   "code": "SILENTONI",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "SILENTSHADOW",
+   "reward": "Rewards . For level 2+ only"
+  },
+  {
+   "code": "DIASX5",
+   "reward": "Rewards . For level 3+ only"
+  },
+  {
+   "code": "xcard2",
+   "reward": "Rewards . You must be at least level 2 to use this code"
+  },
+  {
    "code": "Prim",
    "reward": "100 Diamonds . You need to reach Level 5 to use this code"
   },
   {
    "code": "freegamepass2",
    "reward": "Rewards . You need to be level 5 to redeem this code"
+  },
+  {
+   "code": "Goldenchristmas",
+   "reward": "a Pistol .50"
   },
   {
    "code": "KODE",
@@ -435,6 +519,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-11-23T06:46:11.028Z",
+ "updated": "2026-11-25T21:29:20.194Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

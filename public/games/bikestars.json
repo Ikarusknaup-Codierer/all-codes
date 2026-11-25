@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "customize",
-   "reward": "500 Cash"
-  },
-  {
    "code": "5million",
    "reward": "500 Cash"
   },
@@ -21,8 +17,12 @@
   {
    "code": "4kccu",
    "reward": "500 Cash"
+  },
+  {
+   "code": "customize",
+   "reward": "500 Cash"
   }
  ],
- "updated": "2026-11-23T06:51:54.610Z",
+ "updated": "2026-11-25T21:35:17.598Z",
  "source": "https://robloxden.com/game-codes/bikestars"
 }

@@ -21,8 +21,16 @@
   {
    "code": "IMPOOR",
    "reward": "100 Cash"
+  },
+  {
+   "code": "FORKLIFT",
+   "reward": "1 Forklift Skin"
+  },
+  {
+   "code": "PALLETMASTER",
+   "reward": "1 Production Speed Boost"
   }
  ],
- "updated": "2026-11-22T23:34:07.978Z",
+ "updated": "2026-11-25T21:26:06.791Z",
  "source": "https://robloxden.com/game-codes/warehouse-manager-tycoon"
 }

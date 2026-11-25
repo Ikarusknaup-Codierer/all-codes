@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "INFINITY",
-   "reward": "5 Vault Tokens"
-  },
-  {
    "code": "SPLASH",
    "reward": "3 Vault Tokens"
+  },
+  {
+   "code": "INFINITY",
+   "reward": "5 Vault Tokens"
   },
   {
    "code": "THEHORSEISHERE",
@@ -23,6 +23,6 @@
    "reward": "15k Cash and the Legendary Star outfit"
   }
  ],
- "updated": "2026-11-23T06:49:16.049Z",
+ "updated": "2026-11-25T21:32:33.720Z",
  "source": "https://robloxden.com/game-codes/specter"
 }

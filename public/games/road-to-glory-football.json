@@ -11,28 +11,12 @@
    "reward": "3 Pipeline Rerolls , 3 Height Rerolls and 3 Archetype Rerolls"
   },
   {
-   "code": "TWOWAYUPDATE",
-   "reward": "3 Pipeline Rerolls , 3 Height Rerolls and 3 Archetype Rerolls"
-  },
-  {
-   "code": "CareerUpdate",
-   "reward": "3 Pipeline Spins , 3 Height Spins , 3 Archetype Spins , and 1 Slot"
-  },
-  {
    "code": "Weekend",
    "reward": "2,000 Coins , 5 Pipeline Spins , 5 Height Spins , and 5 Archetype Spin"
   },
   {
    "code": "YOURLEGACY",
    "reward": "4,000 Coins , 8 Pipeline Rerolls , 8 Height Rerolls , and 1 Slot"
-  },
-  {
-   "code": "CAREERMODEV1",
-   "reward": "10 Pipeline Rerolls , 10 Height Rerolls , and 1 Slot"
-  },
-  {
-   "code": "UPDATEV13",
-   "reward": "2,000 Coins , 7 Pipeline Rerolls , 7 Height Rerolls , and a Slot"
   },
   {
    "code": "NOTDONE",
@@ -43,6 +27,6 @@
    "reward": "5,000 Coins , 5 Pipeline Rerolls , 5 Height Rerolls , and a Slot"
   }
  ],
- "updated": "2026-11-23T23:39:52.244Z",
+ "updated": "2026-11-25T21:39:40.979Z",
  "source": "https://robloxden.com/game-codes/road-to-glory-football"
 }

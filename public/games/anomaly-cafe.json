@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Banana",
+   "reward": "50 Bells"
+  },
+  {
    "code": "GIFTCANDY",
    "reward": "Rewards"
   },
@@ -21,12 +25,8 @@
   {
    "code": "FIRSTCODE",
    "reward": "200 Bells"
-  },
-  {
-   "code": "SORRYFORDELAY2",
-   "reward": "the Ghostly King Skin"
   }
  ],
- "updated": "2026-11-23T06:53:08.309Z",
+ "updated": "2026-11-25T21:36:31.919Z",
  "source": "https://robloxden.com/game-codes/anomaly-cafe"
 }

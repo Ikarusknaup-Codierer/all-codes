@@ -51,10 +51,6 @@
    "reward": "the Black Horns"
   },
   {
-   "code": "G2b",
-   "reward": "the Goblin Chain 2.0"
-  },
-  {
    "code": "BRHT",
    "reward": "the Burger Hat"
   },
@@ -203,10 +199,14 @@
    "reward": "the Heyop Backpack"
   },
   {
+   "code": "G2b",
+   "reward": "the Goblin Chain 2.0"
+  },
+  {
    "code": "ULTFA",
    "reward": "the Ultimate Fedora"
   }
  ],
- "updated": "2026-11-22T23:36:36.588Z",
+ "updated": "2026-11-25T21:28:22.147Z",
  "source": "https://robloxden.com/game-codes/flex-ugc"
 }

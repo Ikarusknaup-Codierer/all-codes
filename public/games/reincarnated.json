@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SMARTFELLA",
+   "reward": "5,000 Candy and 3 Trick Boxes"
+  },
+  {
    "code": "MORECHANGES",
    "reward": "25 Cosmite"
   },
@@ -23,10 +27,10 @@
    "reward": "3 Solar Boxes and 25 Cosmite"
   },
   {
-   "code": "Lucky_Blocks",
-   "reward": "12 Lucky Blocks"
+   "code": "ANOTHERCODE",
+   "reward": "5 Solar Box and a Basic Box"
   }
  ],
- "updated": "2026-11-23T06:51:58.061Z",
+ "updated": "2026-11-25T21:35:20.984Z",
  "source": "https://robloxden.com/game-codes/reincarnated"
 }

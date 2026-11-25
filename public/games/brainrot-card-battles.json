@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Treasure",
+   "reward": "Freebies . You must have 50,000 Rolls to use this code"
+  },
+  {
    "code": "MOONFALL",
    "reward": "500 Gold , 3 100-Roll Packs , and 3 Medium Luck Potions"
   },
@@ -411,6 +415,6 @@
    "reward": "100 Gold , 2 500-Roll Packs , and 2 Medium Luck Potions"
   }
  ],
- "updated": "2026-11-22T23:35:42.063Z",
+ "updated": "2026-11-25T21:27:42.844Z",
  "source": "https://robloxden.com/game-codes/brainrot-card-battles"
 }

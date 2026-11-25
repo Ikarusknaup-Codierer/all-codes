@@ -59,14 +59,14 @@
    "reward": "3 Boss Essences , 5 Race Spins , and 5 Trait Spins . Talk to the NPC a"
   },
   {
-   "code": "THANKSFORPLAYING",
-   "reward": "3 Race Spins and 3 Trait Spins"
-  },
-  {
    "code": "RELEASE",
    "reward": "x2 All Stat EXP (20 Minutes)"
+  },
+  {
+   "code": "WOOTWOOT",
+   "reward": "x2 Player Level EXP (30 Minutes)"
   }
  ],
- "updated": "2026-11-22T23:36:12.745Z",
+ "updated": "2026-11-25T21:28:06.425Z",
  "source": "https://robloxden.com/game-codes/anime-limitless"
 }

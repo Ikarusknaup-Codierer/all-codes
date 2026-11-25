@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TBUG",
+   "reward": "200 Rerolls"
+  },
+  {
    "code": "Goku",
    "reward": "75 Rerolls"
   },
@@ -143,6 +147,6 @@
    "reward": "Rewards . You need to be level 10 to redeem this code"
   }
  ],
- "updated": "2026-11-23T23:40:16.394Z",
+ "updated": "2026-11-25T21:40:07.923Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

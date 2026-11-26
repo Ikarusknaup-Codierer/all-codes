@@ -11,6 +11,14 @@
    "reward": "an Enchanted Dice , a Summon Scroll , and a Mutation Luck Potion I"
   },
   {
+   "code": "PETALFALL",
+   "reward": "2 Enchanted Dice"
+  },
+  {
+   "code": "ONANDON",
+   "reward": "a Character Luck Potion , an Enchanted Dice and a Summon Scroll"
+  },
+  {
    "code": "ACES",
    "reward": "2 Enchanted Dice"
   },
@@ -21,28 +29,8 @@
   {
    "code": "BLOSSOM",
    "reward": "a Autumn Scroll and a Mutation Luck Potion"
-  },
-  {
-   "code": "PETALFALL",
-   "reward": "2 Enchanted Dice"
-  },
-  {
-   "code": "ONANDON",
-   "reward": "a Character Luck Potion , an Enchanted Dice and a Summon Scroll"
-  },
-  {
-   "code": "FEASTS",
-   "reward": "1 Enchanted Dice"
-  },
-  {
-   "code": "MOONRISE",
-   "reward": "1 Enchanted Dice"
-  },
-  {
-   "code": "HALLOWKEEP",
-   "reward": "2 Enchanted Dice"
   }
  ],
- "updated": "2026-11-24T09:23:41.045Z",
+ "updated": "2026-11-26T21:13:47.217Z",
  "source": "https://robloxden.com/game-codes/my-anime-mine"
 }

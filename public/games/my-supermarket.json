@@ -11,10 +11,6 @@
    "reward": "2,500 Cash"
   },
   {
-   "code": "Awesome25k",
-   "reward": "Customer Speed (5 Minutes)"
-  },
-  {
    "code": "Marvelous15k",
    "reward": "Double Buff (5 Minutes)"
   },
@@ -25,8 +21,12 @@
   {
    "code": "LIKEPANDAYK2",
    "reward": "Free Rewards"
+  },
+  {
+   "code": "RPGLIKES500LD",
+   "reward": "2,000 Cash"
   }
  ],
- "updated": "2026-11-24T09:22:25.992Z",
+ "updated": "2026-11-26T21:13:05.677Z",
  "source": "https://robloxden.com/game-codes/my-supermarket"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "plzwork",
+   "reward": "200 Gems"
+  },
+  {
    "code": "launch",
    "reward": "150 Gems"
   },
@@ -15,18 +19,14 @@
    "reward": "10 Wish Shards"
   },
   {
-   "code": "LABOFAWAKENING",
+   "code": "BLEACHLAUNCH",
    "reward": "10 Wish Shards"
   },
   {
    "code": "SUBISCOOL",
    "reward": "500 Ability Stars"
-  },
-  {
-   "code": "DAILYWORD",
-   "reward": "15 Wish Shards"
   }
  ],
- "updated": "2026-11-25T07:50:26.452Z",
+ "updated": "2026-11-26T21:27:33.666Z",
  "source": "https://robloxden.com/game-codes/anime-battlegrounds-x"
 }

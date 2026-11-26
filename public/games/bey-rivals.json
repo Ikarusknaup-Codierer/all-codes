@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "PARRYFIX",
+   "reward": "30,000 BP and 10 Tickets"
+  },
+  {
+   "code": "LESSLAG",
+   "reward": "25 Bey Points and 10 Spin Tickets"
+  },
+  {
+   "code": "CLASHCOUNTS",
+   "reward": "20 Spin Tickets and 25 Trait Tokens . For level 10+ only"
+  },
+  {
+   "code": "FAIRPLAY",
+   "reward": "50,000 Bey Points and 8 Lucky Spins . For level 10+ only"
+  },
+  {
+   "code": "CRIMSONEYE",
+   "reward": "30,000 Bey Points and 6 Lucky Spins"
+  },
+  {
    "code": "BOSSBALANCE",
    "reward": "25,000 Bey Points and 10 Trait Tokens"
   },
@@ -29,10 +49,6 @@
   {
    "code": "RankedRehaul",
    "reward": "20 Spin Tickets and 25 Trait Tokens"
-  },
-  {
-   "code": "NERFLONGINOX",
-   "reward": "25,000 Bey Points , 8 Lucky Spins , and 10 Trait Tokens"
   },
   {
    "code": "EVOLUTION",
@@ -77,6 +93,10 @@
   {
    "code": "SORRY4DELAY",
    "reward": "40,000 Bey Points , 20 Spin Tickets , and 8 Lucky Spins"
+  },
+  {
+   "code": "NERFLONGINOX",
+   "reward": "25,000 Bey Points , 8 Lucky Spins , and 10 Trait Tokens"
   },
   {
    "code": "SPOOKYSEASON",
@@ -151,6 +171,6 @@
    "reward": "5 Spin Tickets and 4 Lucky Spins"
   }
  ],
- "updated": "2026-11-24T22:16:40.018Z",
+ "updated": "2026-11-26T21:22:58.978Z",
  "source": "https://robloxden.com/game-codes/bey-rivals"
 }

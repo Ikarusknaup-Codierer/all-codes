@@ -7,6 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "CLASSIC",
+   "reward": "2 Super Crates and 3 Basic Crates"
+  },
+  {
+   "code": "COMEBACK",
+   "reward": "2,500 Coins and 100 Gems"
+  },
+  {
+   "code": "LOYAL",
+   "reward": "300 Gems"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "500 Coins and a Super Crate"
+  },
+  {
    "code": "MASTERY",
    "reward": "200 Gems and 2 Diamond Crates"
   },
@@ -59,6 +75,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-24T22:18:10.101Z",
+ "updated": "2026-11-26T21:24:23.347Z",
  "source": "https://robloxden.com/game-codes/stick-wars"
 }

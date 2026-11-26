@@ -7,16 +7,16 @@
    "reward": "Description"
   },
   {
-   "code": "RELEASE!",
-   "reward": "2,500 Cash (when making an in-game Robux purchase for the next 24 hour"
+   "code": "STARTER",
+   "reward": "Starter"
+  },
+  {
+   "code": "JUNGLELIFE",
+   "reward": "50 Gems"
   },
   {
    "code": "HORNS",
    "reward": "1 Darkhorn Torch (VIP ONLY)"
-  },
-  {
-   "code": "HEART",
-   "reward": "1 Valentine Torch"
   },
   {
    "code": "GIFT",
@@ -31,6 +31,6 @@
    "reward": "New"
   }
  ],
- "updated": "2026-11-24T22:16:36.875Z",
+ "updated": "2026-11-26T21:22:55.485Z",
  "source": "https://robloxden.com/game-codes/outlaster"
 }

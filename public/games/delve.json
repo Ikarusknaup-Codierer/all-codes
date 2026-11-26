@@ -15,10 +15,6 @@
    "reward": "20 Rerolls and a Luck Potion"
   },
   {
-   "code": "3500LIKES",
-   "reward": "50 Rerolls , 30 Candy , and 1 Luck Potion"
-  },
-  {
    "code": "VESPER",
    "reward": "50 Rerolls , 5 Strange Orbs , and 1 Luck Potion"
   },
@@ -31,6 +27,18 @@
    "reward": "35 Rerolls and a Luck Potion"
   },
   {
+   "code": "5000Likes",
+   "reward": "50 Rerolls , 1 Reforge Stone , 1 Honing Stone , and 2 Luck Potions"
+  },
+  {
+   "code": "3500LIKES",
+   "reward": "50 Rerolls , 30 Candy , and 1 Luck Potion"
+  },
+  {
+   "code": "2500LIKES",
+   "reward": "50 Rerolls , 25 Candies , and All 4 Potions"
+  },
+  {
    "code": "1500LIKES",
    "reward": "20 Candy and a Luck Potion"
   },
@@ -41,20 +49,8 @@
   {
    "code": "1000LIKES",
    "reward": "45 Rerolls and 4 Potions"
-  },
-  {
-   "code": "5000Likes",
-   "reward": "50 Rerolls , 1 Reforge Stone , 1 Honing Stone , and 2 Luck Potions"
-  },
-  {
-   "code": "2500LIKES",
-   "reward": "50 Rerolls , 25 Candies , and All 4 Potions"
-  },
-  {
-   "code": "250LIKES",
-   "reward": "20 Race Rerolls , a Cash Potion , an XP Potion , a Quantity Potion , a"
   }
  ],
- "updated": "2026-11-24T22:17:47.861Z",
+ "updated": "2026-11-26T21:24:04.787Z",
  "source": "https://robloxden.com/game-codes/delve"
 }

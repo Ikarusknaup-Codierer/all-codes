@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "SOUL",
-   "reward": "666,666 Beli"
-  },
-  {
    "code": "SorryAbout10K!",
    "reward": "250,000 Beli"
   },
   {
-   "code": "UPDATE4!",
-   "reward": "2x Exp For 5 Minutes"
+   "code": "1000Likes",
+   "reward": "Stat Reset And Double XP For 5 Minutes"
   },
   {
-   "code": "Sub2Taklaman",
+   "code": "woopsmbgang!",
+   "reward": "150,000 Beli And Double XP For 15 Minutes"
+  },
+  {
+   "code": "RELEASE!",
    "reward": "Double XP For 15 Minutes"
   },
   {
-   "code": "Sub2MrSwole",
-   "reward": "Double XP For 15 Minutes"
+   "code": "CommonW",
+   "reward": "100 Candy"
   }
  ],
- "updated": "2026-11-24T09:22:03.027Z",
+ "updated": "2026-11-26T21:12:49.374Z",
  "source": "https://robloxden.com/game-codes/sea-piece"
 }

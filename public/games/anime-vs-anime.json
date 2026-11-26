@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "ThanksForWaiting!",
-   "reward": "1 Apex Pack"
-  },
-  {
    "code": "RankedStarts!",
    "reward": "10 Emeralds"
   },
@@ -173,8 +169,12 @@
   {
    "code": "TournamentFixed!",
    "reward": "10 Emeralds"
+  },
+  {
+   "code": "ThanksForWaiting!",
+   "reward": "1 Apex Pack"
   }
  ],
- "updated": "2026-11-24T22:12:56.405Z",
+ "updated": "2026-11-26T21:18:51.084Z",
  "source": "https://robloxden.com/game-codes/anime-vs-anime"
 }

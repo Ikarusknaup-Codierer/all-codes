@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "VICTORYTRIBUTE",
+   "reward": "a Celestial Clock Ticket , 250 F2P Tickets , a Damage II Potion , a Lu"
+  },
+  {
+   "code": "DIVINECHRONICLES",
+   "reward": "a Celestial Clock Ticket , 250 F2P Tickets , a Damage II Potion , a Lu"
+  },
+  {
+   "code": "PRIMORDIALPASSIVE",
+   "reward": "a Celestial Clock Ticket , 250 F2P Tickets , a Damage II Potion , a Lu"
+  },
+  {
    "code": "GODSTONES",
    "reward": "250 F2P Tickets , 1 Damage II Potion , 1 Power II Potion , 1 XP II Pot"
   },
@@ -691,14 +703,14 @@
    "reward": "250 F2P Tickets and 12 Potions"
   },
   {
-   "code": "25KPLAYERS",
-   "reward": "150 F2P Tickets and 1 Of Each Tier II Potion"
+   "code": "40MVISITS",
+   "reward": "150 F2P Tickets, 1 Damage II Potion, 1 Luck II Potion, 1 Power II Poti"
   },
   {
-   "code": "SORRYFORSHUTDOWN3",
-   "reward": "200 F2P Tickets , a Damage II Potion , a Luck II Potion , a Power II P"
+   "code": "RIPBRASIL",
+   "reward": "1,000 F2P Tickets , 1 Damage II Potion , 1 Luck II Potion , 1 Power II"
   }
  ],
- "updated": "2026-11-25T07:49:09.280Z",
+ "updated": "2026-11-26T21:26:00.811Z",
  "source": "https://robloxden.com/game-codes/anime-astral-simulator"
 }

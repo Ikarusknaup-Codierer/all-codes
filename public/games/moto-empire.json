@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "STICKERS",
-   "reward": "100,000 Cash and a Boost"
-  },
-  {
    "code": "INSANEDYNO",
    "reward": "100,000 Cash"
   },
@@ -39,10 +35,14 @@
    "reward": "200,000 cash"
   },
   {
+   "code": "100Likes",
+   "reward": "100,000 Cash"
+  },
+  {
    "code": "RaceTrack",
    "reward": "100,000 Cash"
   }
  ],
- "updated": "2026-11-24T09:28:20.749Z",
+ "updated": "2026-11-26T21:15:00.891Z",
  "source": "https://robloxden.com/game-codes/moto-empire"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "ENGKANTO",
+   "reward": "3 Gold Potions"
+  },
+  {
    "code": "EVENTS",
    "reward": "100,000 Cash and 2,000 Speed"
   },
@@ -39,6 +43,6 @@
    "reward": "1,000 Speed and $100,000 Cash"
   }
  ],
- "updated": "2026-11-24T22:16:02.986Z",
+ "updated": "2026-11-26T21:22:17.888Z",
  "source": "https://robloxden.com/game-codes/steal-a-balut"
 }

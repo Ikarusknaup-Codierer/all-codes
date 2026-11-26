@@ -7,15 +7,7 @@
    "reward": "Description"
   },
   {
-   "code": "UPD20",
-   "reward": "2 Ultra Lucky Boosts"
-  },
-  {
-   "code": "SPACELAB",
-   "reward": "2 Lucky Boosts"
-  },
-  {
-   "code": "MOON",
+   "code": "SATURN",
    "reward": "2 Ultra Lucky Boosts"
   },
   {
@@ -23,10 +15,18 @@
    "reward": "3 Lucky Boosts"
   },
   {
-   "code": "HELL",
+   "code": "HEAVEN",
+   "reward": "2 2x Coin Boosts"
+  },
+  {
+   "code": "SUN",
+   "reward": "2 Ultra Lucky Boosts"
+  },
+  {
+   "code": "15M",
    "reward": "2 Ultra Lucky Boosts"
   }
  ],
- "updated": "2026-11-24T09:21:58.255Z",
+ "updated": "2026-11-26T21:12:44.641Z",
  "source": "https://robloxden.com/game-codes/timber-champions"
 }

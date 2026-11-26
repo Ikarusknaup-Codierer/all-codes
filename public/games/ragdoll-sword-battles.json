@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "UPDATECODEOOPS",
-   "reward": "10,000 Coins"
-  },
-  {
    "code": "UPD1",
    "reward": "15,000 Coins"
   },
@@ -79,8 +75,32 @@
    "reward": "5,000 Coins"
   },
   {
+   "code": "SORRY4SERVERBUG",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "VRSUPPORT",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "20,000 Coins"
+  },
+  {
    "code": "GLADIATOR",
    "reward": "20,000 Coins"
+  },
+  {
+   "code": "9000LIKES",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "8000LIKES",
+   "reward": "10,000 Coins"
+  },
+  {
+   "code": "UPDATECODEOOPS",
+   "reward": "10,000 Coins"
   },
   {
    "code": "7000LIKES",
@@ -115,6 +135,6 @@
    "reward": "15,000 Coins"
   }
  ],
- "updated": "2026-11-25T07:50:08.581Z",
+ "updated": "2026-11-26T21:27:13.111Z",
  "source": "https://robloxden.com/game-codes/ragdoll-sword-battles"
 }

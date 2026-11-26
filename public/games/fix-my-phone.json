@@ -11,6 +11,10 @@
    "reward": "2x Cash (20 mins)"
   },
   {
+   "code": "TRICKORTREAT",
+   "reward": "1 Lucky Spin"
+  },
+  {
    "code": "PLUSHIE",
    "reward": "the Pumpkin Plushie"
   },
@@ -25,16 +29,8 @@
   {
    "code": "1X1X1X1",
    "reward": "1 Random Phone . Hidden in the thumbnail!"
-  },
-  {
-   "code": "TRICKORTREAT",
-   "reward": "1 Lucky Spin"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "2x Cash (15 mins)"
   }
  ],
- "updated": "2026-11-24T22:15:34.215Z",
+ "updated": "2026-11-26T21:21:45.218Z",
  "source": "https://robloxden.com/game-codes/fix-my-phone"
 }

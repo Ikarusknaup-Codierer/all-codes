@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE5",
+   "reward": "15 Gems"
+  },
+  {
    "code": "100KLIKES",
    "reward": "2 Tickets"
   },
@@ -27,10 +31,10 @@
    "reward": "15 Gems"
   },
   {
-   "code": "Oni",
-   "reward": "3 Tickets"
+   "code": "NewMap",
+   "reward": "1 Ticket"
   }
  ],
- "updated": "2026-11-25T07:51:04.603Z",
+ "updated": "2026-11-26T21:28:17.367Z",
  "source": "https://robloxden.com/game-codes/element-arena"
 }

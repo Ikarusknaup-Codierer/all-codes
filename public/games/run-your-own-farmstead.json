@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BUGFIXESAGAIN",
+   "reward": "Rewards"
+  },
+  {
    "code": "BEES",
    "reward": "10.5K Cash"
   },
@@ -19,22 +23,18 @@
    "reward": "10 Minutes of Fertilizer"
   },
   {
-   "code": "RELEASE",
-   "reward": "380 Cash"
-  },
-  {
-   "code": "50KFAVS",
-   "reward": "10,000 Cash and 15 Minutes of Fertilizer"
-  },
-  {
    "code": "UPDATE",
    "reward": "10,300 Cash and 15 Minutes of Fertilizer"
   },
   {
    "code": "HALLOWEEN",
    "reward": "300 Candy Corns"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "380 Cash"
   }
  ],
- "updated": "2026-11-24T09:22:12.232Z",
+ "updated": "2026-11-26T21:12:55.807Z",
  "source": "https://robloxden.com/game-codes/run-your-own-farmstead"
 }

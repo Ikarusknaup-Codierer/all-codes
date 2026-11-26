@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "SORRYFORINCONVENIENCE",
+   "reward": "5,000 Coins"
+  },
+  {
+   "code": "YOUGOTMAIL",
+   "reward": "7,500 Coins and 1 Blueprint"
+  },
+  {
+   "code": "WEGUARDPOST",
+   "reward": "7,500 Coins and 2x Badge EXP Boost (5 Games)"
+  },
+  {
    "code": "100KCCUPLS",
    "reward": "10,000 Coins and 50 Tickets"
   },
@@ -27,6 +39,6 @@
    "reward": "10,000 Coins , 50 Tickets , 2x Coins Boost (3 Games) , and Cover Athle"
   }
  ],
- "updated": "2026-11-24T22:16:35.176Z",
+ "updated": "2026-11-26T21:22:53.639Z",
  "source": "https://robloxden.com/game-codes/practical-basketball"
 }

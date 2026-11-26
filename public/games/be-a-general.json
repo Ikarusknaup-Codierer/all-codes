@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "EMPIRE",
+   "reward": "1,100 Francs"
+  },
+  {
+   "code": "SPECIALOPERATION",
+   "reward": "1,500 Francs"
+  },
+  {
+   "code": "PREUSSEN",
+   "reward": "900 Francs"
   }
  ],
- "updated": "2026-11-23T23:41:17.327Z",
+ "updated": "2026-11-26T07:40:40.830Z",
  "source": "https://robloxden.com/game-codes/be-a-general"
 }

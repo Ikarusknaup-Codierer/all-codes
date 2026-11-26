@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LEVEL500",
+   "reward": "3 XP Potions"
+  },
+  {
+   "code": "THEANIMALKINGDOM",
+   "reward": "50 Spirit Shards, 2 XP Potion and 2 Luck Potion"
+  },
+  {
+   "code": "SSSRANKS",
+   "reward": "50 Spirit Shards, 2 XP Potion and 2 Luck Potion"
+  },
+  {
+   "code": "MOREROLLS",
+   "reward": "50 Spirit Shards"
+  },
+  {
+   "code": "PRIMEVAL",
+   "reward": "3 of Each Potion"
   }
  ],
- "updated": "2026-11-23T23:41:13.085Z",
+ "updated": "2026-11-26T07:40:36.391Z",
  "source": "https://robloxden.com/game-codes/tame-an-animal"
 }

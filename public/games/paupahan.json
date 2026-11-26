@@ -5,8 +5,32 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "500KVISITS",
+   "reward": "10,000 Cash , 1 Luck Potion , 1 Time Potion , and 1 Cash Potion"
+  },
+  {
+   "code": "200KMEMBERS",
+   "reward": "5,000 Cash , 1 Luck Potion , 1 Time Potion , and 1 Cash Potion"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "5,000 Cash , 1 Luck Potion , 1 Time Potion , and 1 Cash Potion"
+  },
+  {
+   "code": "BUGFIXES",
+   "reward": "10,000 Cash , 1 Luck Potion , 1 Time Potion , and 1 Cash Potion"
+  },
+  {
+   "code": "POTIONS",
+   "reward": "1 Luck Potion , 1 Time Potion , and 1 Cash Potion"
+  },
+  {
+   "code": "BETARELEASE",
+   "reward": "5 Fuse , 5 Pipe , 5 Router , and 5,000 Cash"
   }
  ],
- "updated": "2026-11-23T23:44:26.725Z",
+ "updated": "2026-11-26T07:43:53.640Z",
  "source": "https://robloxden.com/game-codes/paupahan"
 }

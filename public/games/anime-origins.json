@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "Halloween",
+   "reward": "100 Trait Rerolls"
+  },
+  {
+   "code": "TRICKORTREAT!",
+   "reward": "10,000 Gems"
+  },
+  {
+   "code": "SPOOKYTIME!",
+   "reward": "20 Perfect Stat Prisms"
+  },
+  {
    "code": "Update3Half",
    "reward": "60 Trait Rerolls"
   },
@@ -91,6 +103,6 @@
    "reward": "10 Trait Rerolls , 5 Perfect Stat Prisms , 5 Stat Prisms , and 850 Gem"
   }
  ],
- "updated": "2026-11-23T23:44:14.974Z",
+ "updated": "2026-11-26T07:43:41.805Z",
  "source": "https://robloxden.com/game-codes/anime-origins"
 }

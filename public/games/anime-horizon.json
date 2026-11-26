@@ -7,6 +7,38 @@
    "reward": "Description"
   },
   {
+   "code": "Release",
+   "reward": "500 Gems and 20 Trait Rerolls"
+  },
+  {
+   "code": "SorryForBugs2",
+   "reward": "1,000 Gems and 20 Trait Rerolls"
+  },
+  {
+   "code": "BigFixes",
+   "reward": "1,000 Gems and 15 Trait Rerolls"
+  },
+  {
+   "code": "Patch2",
+   "reward": "1,000 Gems and 25 Trait Rerolls"
+  },
+  {
+   "code": "WeLoveYou!",
+   "reward": "1,000 Gems and 25 Trait Rerolls"
+  },
+  {
+   "code": "CloverKingdom",
+   "reward": "1,000 Gems and 20 Trait Rerolls"
+  },
+  {
+   "code": "Upd1",
+   "reward": "500 Gems and 10 Trait Rerolls"
+  },
+  {
+   "code": "Halloween2026",
+   "reward": "1,000 Gems and 20 Trait Rerolls"
+  },
+  {
    "code": "Sorry4Shutdown",
    "reward": "25 Trait Crystals"
   },
@@ -15,6 +47,6 @@
    "reward": "1,500 Gems and 30 Trait Rerolls"
   }
  ],
- "updated": "2026-11-23T23:41:08.637Z",
+ "updated": "2026-11-26T07:40:31.625Z",
  "source": "https://robloxden.com/game-codes/anime-horizon"
 }

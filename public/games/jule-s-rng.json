@@ -20,7 +20,7 @@
   },
   {
    "code": "stonks",
-   "reward": "Free Rewards (Requirement: 1,000 Rolls)"
+   "reward": "rewards . You must have rolled 1,000 times to claim this code"
   },
   {
    "code": "ARC6",
@@ -59,10 +59,6 @@
    "reward": "2,000,000 Gems"
   },
   {
-   "code": "PHASE",
-   "reward": "1,000,000 Gems , 5 Swift Potions , 1 Feather Potion , 1 Symbolic Potio"
-  },
-  {
    "code": "PATCHES2",
    "reward": "3 Feather Potions and 50,000 Gems"
   },
@@ -75,32 +71,12 @@
    "reward": "100,000 Gems . You must have rolled at least once to claim this code"
   },
   {
-   "code": "GEN7",
-   "reward": "Free Rewards . You must have rolled 5,000 times to claim this code"
-  },
-  {
-   "code": "SORRYFORLUCKISSUES",
-   "reward": "Free Rewards . You must have rolled 10,000 times to claim this code"
-  },
-  {
-   "code": "EASTER",
-   "reward": "Free Rewards . You must have rolled 5,000 times to claim this code"
-  },
-  {
    "code": "Sumimase",
    "reward": "1 Antifreeze"
   },
   {
    "code": "COOLANT",
    "reward": "1 Antifreeze"
-  },
-  {
-   "code": "Harikitteikou",
-   "reward": "Free Rewards . You must have rolled 10,000 times to claim this code"
-  },
-  {
-   "code": "GEN6",
-   "reward": "100,000 Gems , 70 Luck Essence , and 2 Ace Potions"
   },
   {
    "code": "TexycsBirthday",
@@ -127,10 +103,34 @@
    "reward": "2 Symbolic Potions , 2 Feather Potions , and 250,000 Gems"
   },
   {
+   "code": "PHASE",
+   "reward": "1,000,000 Gems , 5 Swift Potions , 1 Feather Potion , 1 Symbolic Potio"
+  },
+  {
    "code": "agua",
    "reward": "50 Speed Potions , 15 Agility Potions , and 100,000 Gems"
+  },
+  {
+   "code": "GEN7",
+   "reward": "Free Rewards . You must have rolled 5,000 times to claim this code"
+  },
+  {
+   "code": "SORRYFORLUCKISSUES",
+   "reward": "Free Rewards . You must have rolled 10,000 times to claim this code"
+  },
+  {
+   "code": "EASTER",
+   "reward": "Free Rewards . You must have rolled 5,000 times to claim this code"
+  },
+  {
+   "code": "Harikitteikou",
+   "reward": "Free Rewards . You must have rolled 10,000 times to claim this code"
+  },
+  {
+   "code": "GEN6",
+   "reward": "100,000 Gems , 70 Luck Essence , and 2 Ace Potions"
   }
  ],
- "updated": "2026-11-23T23:42:08.423Z",
+ "updated": "2026-11-26T07:41:33.561Z",
  "source": "https://robloxden.com/game-codes/jule-s-rng"
 }

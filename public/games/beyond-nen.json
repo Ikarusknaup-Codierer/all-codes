@@ -7,14 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "50KLIKES",
+   "reward": "20 Spins and a Nen Color Reroll Orb . You must redeem this code in the"
+  },
+  {
+   "code": "2XDROPS",
+   "reward": "30 Spins . You must redeem this code in the shop"
+  },
+  {
+   "code": "UPDATEINCOMING",
+   "reward": "50 Spins"
+  },
+  {
    "code": "RANKED!",
    "reward": "15 Spins and the Reset Orb . You must redeem this code in the shop"
   },
   {
-   "code": "THANKYOU!",
-   "reward": "10 Spins"
+   "code": "1MVISITS",
+   "reward": "20 Spins"
+  },
+  {
+   "code": "50KFAVS",
+   "reward": "15 Spins"
   }
  ],
- "updated": "2026-11-23T23:44:28.287Z",
+ "updated": "2026-11-26T07:43:55.222Z",
  "source": "https://robloxden.com/game-codes/beyond-nen"
 }

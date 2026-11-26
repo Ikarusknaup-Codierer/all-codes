@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "1KLIKES",
+   "reward": "1,500 Coins , 2 Lucky Spins , and 2 Skips"
+  },
+  {
+   "code": "5KFAVORITES",
+   "reward": "2,500 Coins , 2 Lucky Spins , and 3 Skips"
+  },
+  {
    "code": "1MVISITS",
    "reward": "4,000 Coins , 3 Lucky Spins , and 4 Skips"
   },
@@ -23,6 +31,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-23T23:41:25.957Z",
+ "updated": "2026-11-26T07:40:49.906Z",
  "source": "https://robloxden.com/game-codes/an-odd-game-about-sausage"
 }

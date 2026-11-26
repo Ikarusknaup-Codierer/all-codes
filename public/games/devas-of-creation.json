@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "DOC80KLikess",
+   "reward": "1 Resurrect Scroll, 1 Blessed Escape Scroll, 2 Powerful Healing Potion"
+  },
+  {
    "code": "DOC95KLikess",
    "reward": "1 Resurrect Scroll, 1 Blessed Escape Scroll, 2 Powerful Healing Potion"
   },
@@ -15,18 +19,14 @@
    "reward": "1 Resurrect Scroll, 1 Blessed Escape Scroll, 2 Powerful Healing Potion"
   },
   {
-   "code": "DOC35KLikess",
-   "reward": "1 Resurrect Scroll, 1 Weapon Enchant Scroll, 1 Armor Enchant Scroll, 1"
-  },
-  {
-   "code": "DOCWeekend",
+   "code": "DOC120KLikes",
    "reward": "Free Rewards"
   },
   {
-   "code": "DOC120KLikes",
+   "code": "DOCWeekendVibe",
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-23T23:46:21.608Z",
+ "updated": "2026-11-26T07:45:45.437Z",
  "source": "https://robloxden.com/game-codes/devas-of-creation"
 }

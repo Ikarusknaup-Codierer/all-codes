@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SPOOKYCRATE",
+   "reward": "a Halloween Crate"
+  },
+  {
+   "code": "XSHOT",
+   "reward": "40 Gems"
+  },
+  {
    "code": "HAPPYHALLOWEEN",
    "reward": "1 Free Halloween Crate"
   },
@@ -55,6 +63,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-11-24T09:14:59.399Z",
+ "updated": "2026-11-26T07:47:44.133Z",
  "source": "https://robloxden.com/game-codes/blitz-fps"
 }

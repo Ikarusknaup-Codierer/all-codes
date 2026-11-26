@@ -11,7 +11,19 @@
    "reward": "10 Clan Rerolls"
   },
   {
+   "code": "noupdatecompensation",
+   "reward": "the rewards"
+  },
+  {
+   "code": "inventoryexplosioncompensation",
+   "reward": "the Free Rerolls"
+  },
+  {
    "code": "big15k",
+   "reward": "rewards"
+  },
+  {
+   "code": "latenightupdate",
    "reward": "rewards"
   },
   {
@@ -119,6 +131,6 @@
    "reward": "Rewards . For Grade 2+ only"
   }
  ],
- "updated": "2026-11-23T23:41:23.826Z",
+ "updated": "2026-11-26T07:40:47.407Z",
  "source": "https://robloxden.com/game-codes/shibuya"
 }

@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "WORLD3",
+   "reward": "3,000 Gold , 2,000 Power , 1 Cactus Seed , 1 Melon Seed , 1 Leaf Seed "
+  },
+  {
+   "code": "SCROLLS",
+   "reward": "5 Summoning Scrolls"
+  },
+  {
+   "code": "SEEDS",
+   "reward": "1,500 Gold , 1 Leaf Seed , 1 Sprout Seed , 3 Bean Seeds , and 1 Basic "
+  },
+  {
+   "code": "WORLD2",
+   "reward": "5,000 Gold , 10,000 Power , 1 Mushroom Seed , 1 Maple Seed , 2 Cotton "
+  },
+  {
+   "code": "SUMMON",
+   "reward": "1 Summoning Scroll"
+  },
+  {
+   "code": "SECRETCODE",
+   "reward": "750 Gold , 1 Clover Seed , 1 Sprout Seed , and 1 Wheat Seed"
+  },
+  {
+   "code": "WELCOME5000",
+   "reward": "5,000 Gold"
+  },
+  {
+   "code": "POWER",
+   "reward": "7,500 Power"
   }
  ],
- "updated": "2026-11-23T23:41:02.848Z",
+ "updated": "2026-11-26T07:40:25.759Z",
  "source": "https://robloxden.com/game-codes/1-power-fruit-evolution"
 }

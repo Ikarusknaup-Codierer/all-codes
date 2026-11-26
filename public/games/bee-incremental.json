@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "250LIKES",
+   "reward": "5 Honey Potions and 60 Gems"
+  },
+  {
+   "code": "VOLCANO",
+   "reward": "5 Honey Potions and 100 Gems"
+  },
+  {
+   "code": "BEEFRENZY",
+   "reward": "3 Bee Speed Potions, 2 Honey Potions and 2 Royal Jelly Potions"
+  },
+  {
+   "code": "MOON",
+   "reward": "4 Honey Potions and 50 Gems"
   }
  ],
- "updated": "2026-11-23T23:41:15.138Z",
+ "updated": "2026-11-26T07:40:38.557Z",
  "source": "https://robloxden.com/game-codes/bee-incremental"
 }

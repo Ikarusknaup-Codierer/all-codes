@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "WORLD7",
+   "reward": "x10 Power (5 Minutes , an Enchant Rune , and 20 Chest Rerolls"
+  },
+  {
+   "code": "EARLYUPDATE",
+   "reward": "2,000 Cash and x3 Power (15 Minutes)"
+  },
+  {
+   "code": "ALMOST1K",
+   "reward": "20,000 Cash , x3.5 Power (5 Minutes) , and a Pumpkin Squire Pet"
+  },
+  {
+   "code": "MORNINGUPDATE",
+   "reward": "15,000 Cash , x5 Power (10 Minutes) , and 15 Chest Rerolls"
+  },
+  {
+   "code": "EXCLUSIVECHEST",
+   "reward": "15 Chest Rerolls"
+  },
+  {
+   "code": "1KLIKES",
+   "reward": "an Enchanted Rune and 50 Chest Rerolls"
+  },
+  {
    "code": "500CCU",
    "reward": "Rewards"
   },
@@ -15,6 +39,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-23T23:41:26.498Z",
+ "updated": "2026-11-26T07:40:50.458Z",
  "source": "https://robloxden.com/game-codes/1-monster-hunter"
 }

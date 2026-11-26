@@ -7,10 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "BOSSNERF",
+   "reward": "100 Gems and 5 Trait Rerolls . You must reach Level 10 to use this cod"
+  },
+  {
+   "code": "QOL",
+   "reward": "250 Gems and 10 Trait Rerolls . You must reach Level 10 to use this co"
+  },
+  {
+   "code": "GOHD",
+   "reward": "25 Trait Rerolls . You need to have 1 Reset to use this code"
+  },
+  {
+   "code": "SUB2NOCTYRA",
+   "reward": "50 Gems and 5 Trait Rerolls . You need to reach Level 10 to use this c"
+  },
+  {
+   "code": "BETA",
+   "reward": "100 Gems and 3 Trait Rerolls"
+  },
+  {
+   "code": "OLDSOULS",
+   "reward": "2,260 Gems and 47 Trait Rerolls . To use this code, you must have the "
+  },
+  {
    "code": "BOSSNERF2",
    "reward": "100 Gems and 5 Trait Rerolls . You must reach Level 10 to use this cod"
   }
  ],
- "updated": "2026-11-23T23:41:16.327Z",
+ "updated": "2026-11-26T07:40:39.762Z",
  "source": "https://robloxden.com/game-codes/project-souls"
 }

@@ -7,14 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "BLAST36",
-   "reward": "Double Luck (5 Minutes)"
-  },
-  {
-   "code": "CRACK57",
-   "reward": "2x Luck (5 Mins)"
-  },
-  {
    "code": "BOOM28",
    "reward": "500 Cash"
   },
@@ -29,8 +21,16 @@
   {
    "code": "BLAST19",
    "reward": "a Wheel Spin"
+  },
+  {
+   "code": "BLAST36",
+   "reward": "Double Luck (5 Minutes)"
+  },
+  {
+   "code": "CRACK57",
+   "reward": "2x Luck (5 Mins)"
   }
  ],
- "updated": "2026-11-23T23:45:04.831Z",
+ "updated": "2026-11-26T07:44:32.546Z",
  "source": "https://robloxden.com/game-codes/shoot-for-eggs"
 }

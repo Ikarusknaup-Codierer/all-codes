@@ -7,14 +7,14 @@
    "reward": "Description"
   },
   {
-   "code": "MEGAUPDATE",
-   "reward": "1 Speed Potion , 1 Progress Potion , 1 XP Potion , 1 Size Potion , 48,"
+   "code": "400LIKES",
+   "reward": "1 Luck Potion , 1 XP Potion , 1 Progress Potion , 1 Size Potion , 50,0"
   },
   {
-   "code": "15KVISITS",
-   "reward": "2 Progress Potions , 1 Luck Potion , and 10,000 Coins"
+   "code": "MEGAUPDATE",
+   "reward": "1 Speed Potion , 1 Progress Potion , 1 XP Potion , 1 Size Potion , 48,"
   }
  ],
- "updated": "2026-11-24T09:13:06.601Z",
+ "updated": "2026-11-26T07:46:25.863Z",
  "source": "https://robloxden.com/game-codes/uproot"
 }

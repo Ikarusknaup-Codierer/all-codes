@@ -11,6 +11,10 @@
    "reward": "500 Coins"
   },
   {
+   "code": "GYMUPDATE",
+   "reward": "500 Coins"
+  },
+  {
    "code": "BUSUPDATE",
    "reward": "500 Coins"
   },
@@ -37,12 +41,8 @@
   {
    "code": "newupdate",
    "reward": "500 Coins"
-  },
-  {
-   "code": "GYMUPDATE",
-   "reward": "500 Coins"
   }
  ],
- "updated": "2026-11-23T23:42:06.675Z",
+ "updated": "2026-11-26T07:41:31.840Z",
  "source": "https://robloxden.com/game-codes/school-tycoon"
 }

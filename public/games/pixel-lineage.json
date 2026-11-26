@@ -19,14 +19,6 @@
    "reward": "2 Sunforged Whetstones and 1 Renewal Crystal"
   },
   {
-   "code": "OCTOBER",
-   "reward": "25 Candy"
-  },
-  {
-   "code": "SAKURA",
-   "reward": "10 Race Spins , 10 Talent Spins , 1 Life , and 1 Renewal Crystal"
-  },
-  {
    "code": "ARENA",
    "reward": "1 Life , 15 Race Spins , and 10 Talent Spins"
   },
@@ -43,6 +35,10 @@
    "reward": "1,000 Gold , 100 Knowledge , 3 Potions , 8 Race Spins , and 8 Talent S"
   },
   {
+   "code": "OCTOBER",
+   "reward": "25 Candy"
+  },
+  {
    "code": "TUTORIAL",
    "reward": "3 Race Spins and 3 Talent Spins"
   },
@@ -51,10 +47,14 @@
    "reward": "10 Race Spins , 10 Talent Spins , and 1 Life"
   },
   {
+   "code": "SAKURA",
+   "reward": "10 Race Spins , 10 Talent Spins , 1 Life , and 1 Renewal Crystal"
+  },
+  {
    "code": "COMMUNITY!",
    "reward": "5 Race Spins , 5 Talent Spins , and 1 Life"
   }
  ],
- "updated": "2026-11-24T09:15:03.261Z",
+ "updated": "2026-11-26T07:47:47.431Z",
  "source": "https://robloxden.com/game-codes/pixel-lineage"
 }

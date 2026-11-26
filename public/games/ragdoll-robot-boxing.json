@@ -7,6 +7,30 @@
    "reward": "Description"
   },
   {
+   "code": "5000LIKES",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "4500LIKES",
+   "reward": "10 Lucky Spins"
+  },
+  {
+   "code": "ROBOTBOXING",
+   "reward": "500 Gears"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "300 Gears and 3 Spins"
+  },
+  {
+   "code": "HEAVYMETAL",
+   "reward": "2 Spins"
+  },
+  {
+   "code": "SCRAPJAW",
+   "reward": "1 Lucky Spin"
+  },
+  {
    "code": "3500LIKES",
    "reward": "15 Lucky Spins"
   },
@@ -15,6 +39,6 @@
    "reward": "20 Lucky Spins"
   }
  ],
- "updated": "2026-11-23T23:41:17.911Z",
+ "updated": "2026-11-26T07:40:41.401Z",
  "source": "https://robloxden.com/game-codes/ragdoll-robot-boxing"
 }

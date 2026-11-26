@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "SORRY4RESTART",
+   "reward": "25,000 Coins and 2x XP (15 Minutes)"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "2K XP and 2x XP (5 Minutes)"
+  },
+  {
+   "code": "VOID",
+   "reward": "5K Coins and 2x XP (5 Minutes)"
   }
  ],
- "updated": "2026-11-24T09:17:10.278Z",
+ "updated": "2026-11-26T07:49:34.049Z",
  "source": "https://robloxden.com/game-codes/leviathan-evolution"
 }

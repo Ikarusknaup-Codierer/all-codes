@@ -5,8 +5,76 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "CROWNGUILD",
+   "reward": "1,000 Cash and 100 Respect"
+  },
+  {
+   "code": "ONETHOUSANDVISITS",
+   "reward": "750 Cash and 75 Respect"
+  },
+  {
+   "code": "ONEHUNDREDFAVORITES",
+   "reward": "750 Cash and 75 Respect"
+  },
+  {
+   "code": "WELCOMETOCALDER",
+   "reward": "500 Cash and 50 Respect"
+  },
+  {
+   "code": "DISCORDFAMILY",
+   "reward": "1,000 Cash and 100 Respect"
+  },
+  {
+   "code": "FAMILYBUSINESS",
+   "reward": "1,000 Cash and 100 Respect"
+  },
+  {
+   "code": "HARBORBOSS",
+   "reward": "750 Cash and 75 Respect"
+  },
+  {
+   "code": "OMERTA",
+   "reward": "500 Cash and 50 Respect"
+  },
+  {
+   "code": "MADEMAN",
+   "reward": "500 Cash and 50 Respect"
+  },
+  {
+   "code": "NIGHTSHIFT",
+   "reward": "500 Cash and 50 Respect"
+  },
+  {
+   "code": "KEYSTOTHECITY1",
+   "reward": "1 Case Key"
+  },
+  {
+   "code": "GHOSTSHROUDSUIT7",
+   "reward": "the Ghost Shroud"
+  },
+  {
+   "code": "10THOUSANDSRESPECT0",
+   "reward": "10,000 Respect"
+  },
+  {
+   "code": "10THOUSANDSCASH",
+   "reward": "10,000 Cash"
+  },
+  {
+   "code": "10KRES",
+   "reward": "10,000 Respect"
+  },
+  {
+   "code": "KEY00",
+   "reward": "1 Case Key"
+  },
+  {
+   "code": "PEAKYB",
+   "reward": "the Peaky Hat"
   }
  ],
- "updated": "2026-11-23T23:41:21.115Z",
+ "updated": "2026-11-26T07:40:44.603Z",
  "source": "https://robloxden.com/game-codes/mafia-world"
 }

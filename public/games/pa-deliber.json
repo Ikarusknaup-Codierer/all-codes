@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "MAYNEWCODE",
+   "reward": "20 Stickers"
+  },
+  {
+   "code": "2POINT5MVISIT",
+   "reward": "50,000 Pesos"
+  },
+  {
+   "code": "200KVISITS",
+   "reward": "50 Stickers"
+  },
+  {
    "code": "1MVISIT",
    "reward": "100 Stickers"
   },
@@ -79,14 +91,14 @@
    "reward": "5,000 Cash and 23 Stickers"
   },
   {
-   "code": "50KVISITS",
-   "reward": "Rewards"
+   "code": "1MVISITS",
+   "reward": "100 Stickers"
   },
   {
    "code": "APIBORTHDAY",
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-24T09:18:12.402Z",
+ "updated": "2026-11-26T07:50:26.488Z",
  "source": "https://robloxden.com/game-codes/pa-deliber"
 }

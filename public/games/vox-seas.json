@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "Release2026",
-   "reward": "Double XP (1 Hour)"
-  },
-  {
    "code": "BugFix4",
    "reward": "Rewards"
   },
@@ -21,8 +17,12 @@
   {
    "code": "BugFix2",
    "reward": "Rewards"
+  },
+  {
+   "code": "BugFix1",
+   "reward": "Rewards"
   }
  ],
- "updated": "2026-11-24T09:16:55.500Z",
+ "updated": "2026-11-26T07:49:20.948Z",
  "source": "https://robloxden.com/game-codes/vox-seas"
 }

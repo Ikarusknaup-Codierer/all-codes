@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BLOOM",
+   "reward": "15K Glimmer and 1 of Each Potion"
+  },
+  {
+   "code": "MAILBOX",
+   "reward": "25,000 Glimmer , 2 Luck Potions , 2 Energy Potions , a Glimmer Potions"
+  },
+  {
    "code": "PETS",
    "reward": "20K Glimmer, 2 Luck Potion, 1 Glimmer Potion and 1 XP Potion"
   },
@@ -15,6 +23,6 @@
    "reward": "20K Glimmer, 2 Luck Potion, 1 Glimmer Potion and 1 XP Potion"
   }
  ],
- "updated": "2026-11-23T23:41:12.119Z",
+ "updated": "2026-11-26T07:40:35.336Z",
  "source": "https://robloxden.com/game-codes/bloom"
 }

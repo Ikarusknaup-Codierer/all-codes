@@ -7,26 +7,26 @@
    "reward": "Description"
   },
   {
-   "code": "TOPONE",
-   "reward": "5 Dabloons and 2 Lucky Spins"
+   "code": "N3wL0bby",
+   "reward": "Reward"
   },
   {
-   "code": "7LuckySpins",
-   "reward": "7 Lucky Spins"
-  },
-  {
-   "code": "freeluckyspins",
-   "reward": "3 Lucky Spins"
-  },
-  {
-   "code": "RELEASETHETRIDENT",
+   "code": "PoseidonEvent",
    "reward": "20 Dabloons"
+  },
+  {
+   "code": "Update1",
+   "reward": "20 Dabloons and 2 Lucky Spins"
   },
   {
    "code": "Release",
    "reward": "10 Dabloons"
+  },
+  {
+   "code": "patchverify",
+   "reward": "20 Dabloons"
   }
  ],
- "updated": "2026-11-23T23:45:57.413Z",
+ "updated": "2026-11-26T07:45:23.321Z",
  "source": "https://robloxden.com/game-codes/dead-sails"
 }

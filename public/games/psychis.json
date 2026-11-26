@@ -7,20 +7,8 @@
    "reward": "Description"
   },
   {
-   "code": "5000Likes",
-   "reward": "2x Energy Boost"
-  },
-  {
-   "code": "PsychicLove",
-   "reward": "2x Energy Boost"
-  },
-  {
    "code": "newUpdateOMG!",
    "reward": "2,000 Silver And 400 Gems"
-  },
-  {
-   "code": "psychisUpdate",
-   "reward": "1,500 Silver And 300 Gems"
   },
   {
    "code": "1MILLIONVISITS!",
@@ -47,14 +35,18 @@
    "reward": "2,000 Silvers"
   },
   {
-   "code": "500KVISITS!",
-   "reward": "Free Rewards"
+   "code": "5000Likes",
+   "reward": "2x Energy Boost"
   },
   {
-   "code": "3000LIKES",
-   "reward": "Free Rewards"
+   "code": "PsychicLove",
+   "reward": "2x Energy Boost"
+  },
+  {
+   "code": "psychisUpdate",
+   "reward": "1,500 Silver And 300 Gems"
   }
  ],
- "updated": "2026-11-23T23:42:26.725Z",
+ "updated": "2026-11-26T07:41:52.319Z",
  "source": "https://robloxden.com/game-codes/psychis"
 }

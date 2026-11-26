@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "GOODBYE",
+   "reward": "250 Cloud Coins"
+  },
+  {
+   "code": "ADMIN",
+   "reward": "a Radar Owl"
+  },
+  {
+   "code": "MONEY",
+   "reward": "2x Cash (15 mins)"
   }
  ],
- "updated": "2026-11-23T23:41:00.256Z",
+ "updated": "2026-11-26T07:40:23.112Z",
  "source": "https://robloxden.com/game-codes/steal-a-plane"
 }

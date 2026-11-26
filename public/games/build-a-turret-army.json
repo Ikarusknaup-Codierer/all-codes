@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "UPDATE",
+   "reward": "50% Cash Boost (1 Hour)"
+  },
+  {
+   "code": "DELAYED",
+   "reward": "2x Speed (1 Hour)"
+  },
+  {
    "code": "FIX",
    "reward": "30 Boss Cores"
   }
  ],
- "updated": "2026-11-24T09:17:01.783Z",
+ "updated": "2026-11-26T07:49:26.751Z",
  "source": "https://robloxden.com/game-codes/build-a-turret-army"
 }

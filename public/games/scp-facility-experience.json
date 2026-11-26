@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "VISIT100K",
+   "reward": "100 Cash"
+  },
+  {
+   "code": "MEMBERS10K",
+   "reward": "90 Cash"
   }
  ],
- "updated": "2026-11-24T09:17:01.232Z",
+ "updated": "2026-11-26T07:49:26.165Z",
  "source": "https://robloxden.com/game-codes/scp-facility-experience"
 }

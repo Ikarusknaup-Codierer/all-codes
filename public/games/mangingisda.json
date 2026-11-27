@@ -7,14 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "MOREFISH",
-   "reward": "Free Rewards"
+   "code": "RELEASE",
+   "reward": "500 Cash , 10 Bulate , 20 XP , and 1 Bowl of Kinilaw"
   },
   {
-   "code": "REEL",
-   "reward": "Free Rewards"
+   "code": "PANDIGMA",
+   "reward": "Lucky Charm (15 Minutes), 1 Coron Skin Crate and 1K Cash"
+  },
+  {
+   "code": "KRAKEN",
+   "reward": "1K Cash, 500 XP, 1 Lagoon Skin Crate and 1 Big Catch Potion (15 Minute"
+  },
+  {
+   "code": "UPDATETOMORROW",
+   "reward": "1K Cash, 1 Mutation Potion (15 Minutes), 1 Double XP (30 Minutes), 2K "
   }
  ],
- "updated": "2026-11-25T07:54:25.778Z",
+ "updated": "2026-11-27T07:41:09.407Z",
  "source": "https://robloxden.com/game-codes/mangingisda"
 }

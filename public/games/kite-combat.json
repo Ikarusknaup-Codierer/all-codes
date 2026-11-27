@@ -1,7 +1,20 @@
 {
  "slug": "kite-combat",
  "name": "Kite Combat",
- "codes": [],
- "updated": "2026-11-25T08:00:50.568Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "premium",
+   "reward": "10 Diamonds"
+  },
+  {
+   "code": "money",
+   "reward": "100 Money"
+  }
+ ],
+ "updated": "2026-11-27T07:47:53.108Z",
  "source": "https://robloxden.com/game-codes/kite-combat"
 }

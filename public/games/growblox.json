@@ -11,10 +11,6 @@
    "reward": "rewards"
   },
   {
-   "code": "RELEASE",
-   "reward": "rewards"
-  },
-  {
    "code": "SORRYRESTART",
    "reward": "rewards"
   },
@@ -25,8 +21,12 @@
   {
    "code": "WINGKIT",
    "reward": "rewards"
+  },
+  {
+   "code": "GROWBLOX",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-25T07:54:28.700Z",
+ "updated": "2026-11-27T07:41:12.360Z",
  "source": "https://robloxden.com/game-codes/growblox"
 }

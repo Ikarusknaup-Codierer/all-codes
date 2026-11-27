@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "5K Cash"
+  },
+  {
+   "code": "PITSTOP",
+   "reward": "2.5K Cash"
+  },
+  {
+   "code": "LIGHTSOUT",
+   "reward": "3K Cash"
   }
  ],
- "updated": "2026-11-25T07:54:55.548Z",
+ "updated": "2026-11-27T07:41:39.904Z",
  "source": "https://robloxden.com/game-codes/be-a-f1-manager"
 }

@@ -1,7 +1,32 @@
 {
  "slug": "1-click-1-heat",
  "name": "1 Click = 1 Heat",
- "codes": [],
- "updated": "2026-11-25T08:01:35.883Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "50 Wins and a 2x Heat Potion (30 Seconds)"
+  },
+  {
+   "code": "CLICK2026",
+   "reward": "2x Heat Potion (30 Seconds) and 2x Autoclick (15 Minutes)"
+  },
+  {
+   "code": "10000likes",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "3000likes",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "release",
+   "reward": "Free Rewards"
+  }
+ ],
+ "updated": "2026-11-27T07:48:38.300Z",
  "source": "https://robloxden.com/game-codes/1-click-1-heat"
 }

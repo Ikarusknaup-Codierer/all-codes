@@ -1,7 +1,32 @@
 {
  "slug": "pga-tour-ultimate-golf-simulator",
  "name": "PGA TOUR Ultimate Golf Simulator",
- "codes": [],
- "updated": "2026-11-25T08:02:00.750Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "CoinBoost",
+   "reward": "a 2x Coin Boost"
+  },
+  {
+   "code": "PuttingPower",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "SandWedge",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "ROADTHETOAD",
+   "reward": "25 Spins"
+  },
+  {
+   "code": "SorryForTheDelay",
+   "reward": "50 Spins"
+  }
+ ],
+ "updated": "2026-11-27T07:49:03.612Z",
  "source": "https://robloxden.com/game-codes/pga-tour-ultimate-golf-simulator"
 }

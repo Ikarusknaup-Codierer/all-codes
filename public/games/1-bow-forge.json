@@ -5,8 +5,20 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "TESTCODE",
+   "reward": "15 Coins and 135 EXP"
+  },
+  {
+   "code": "SPOOKYLOOT",
+   "reward": "30 Coins and 270 EXP"
+  },
+  {
+   "code": "HUNTERSMOON",
+   "reward": "30 Coins , 50 Season Tokens , 50 XP , and 1 Greenwood Egg"
   }
  ],
- "updated": "2026-11-25T07:51:53.546Z",
+ "updated": "2026-11-27T07:38:37.286Z",
  "source": "https://robloxden.com/game-codes/1-bow-forge"
 }

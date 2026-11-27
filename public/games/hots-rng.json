@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "Pumpkin",
+   "reward": "75 Eternal Potion II, 10 Shard Of Terror and 10 Soul's Fate"
+  },
+  {
+   "code": "RollSysImprove",
+   "reward": "1 Single Multi Potion"
+  },
+  {
    "code": "Treat",
    "reward": "an 5 Eternal Potion II , 5 Shards of Terror , and 5 Soul's Fate"
   },
@@ -223,6 +231,6 @@
    "reward": "50 Eternal Potion II , 10 Soft Cream , and 5 Soul's Fate"
   }
  ],
- "updated": "2026-11-25T07:55:36.708Z",
+ "updated": "2026-11-27T07:42:23.468Z",
  "source": "https://robloxden.com/game-codes/hots-rng"
 }

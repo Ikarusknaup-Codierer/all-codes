@@ -1,7 +1,16 @@
 {
  "slug": "strike-back",
  "name": "Strike Back",
- "codes": [],
- "updated": "2026-11-25T08:00:10.940Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "STRIKEBACK",
+   "reward": "a Skeleton Chest"
+  }
+ ],
+ "updated": "2026-11-27T07:47:12.412Z",
  "source": "https://robloxden.com/game-codes/strike-back"
 }

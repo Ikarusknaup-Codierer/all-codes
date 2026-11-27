@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "30KLIKES",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "HOLYKNIGHT",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "BIZARREPASSIVE",
+   "reward": "200 Emeralds and 2 of Each Tier III Potion"
+  },
+  {
+   "code": "ROGERSTATS",
+   "reward": "200 Emeralds"
+  },
+  {
+   "code": "STAND",
+   "reward": "200 Emeralds"
+  },
+  {
    "code": "27MVISITS",
    "reward": "rewards"
   },
@@ -351,6 +371,6 @@
    "reward": "250 Emeralds , 2 Gold Potions , 2 Drop Potions , 2 Damage Potions , 2 "
   }
  ],
- "updated": "2026-11-25T07:57:43.627Z",
+ "updated": "2026-11-27T07:44:36.616Z",
  "source": "https://robloxden.com/game-codes/anime-breaker"
 }

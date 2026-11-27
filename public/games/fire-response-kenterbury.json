@@ -1,7 +1,16 @@
 {
  "slug": "fire-response-kenterbury",
  "name": "Fire Response: Kenterbury",
- "codes": [],
- "updated": "2026-11-25T08:01:38.795Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "5-Hour XP Boost"
+  }
+ ],
+ "updated": "2026-11-27T07:48:41.469Z",
  "source": "https://robloxden.com/game-codes/fire-response-kenterbury"
 }

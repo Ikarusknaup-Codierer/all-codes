@@ -7,46 +7,14 @@
    "reward": "Description"
   },
   {
-   "code": "DRILL",
-   "reward": "2 Packs"
-  },
-  {
    "code": "500KVISITS",
    "reward": "a Packs"
   },
   {
    "code": "1KACTIVE",
    "reward": "1,000 Scraps"
-  },
-  {
-   "code": "LUCKYPACKS",
-   "reward": "500 Scraps"
-  },
-  {
-   "code": "NEXT",
-   "reward": "3 Packs"
-  },
-  {
-   "code": "SORRYFORBUGS",
-   "reward": "2 Packs"
-  },
-  {
-   "code": "BUGFIX",
-   "reward": "a Pack"
-  },
-  {
-   "code": "BUGS",
-   "reward": "a Pack"
-  },
-  {
-   "code": "UPDATE",
-   "reward": "a 2x Scrap Boost (10 Minutes)"
-  },
-  {
-   "code": "RELEASE",
-   "reward": "300 Scraps"
   }
  ],
- "updated": "2026-11-25T07:52:59.765Z",
+ "updated": "2026-11-27T07:39:41.937Z",
  "source": "https://robloxden.com/game-codes/mechs-vs-kaijus-ragdoll"
 }

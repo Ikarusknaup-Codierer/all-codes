@@ -1,7 +1,24 @@
 {
  "slug": "dont-wake-the-forsaken",
  "name": "Don't Wake The Forsaken",
- "codes": [],
- "updated": "2026-11-25T08:01:58.185Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "WUpdate",
+   "reward": "1 Chance"
+  },
+  {
+   "code": "Update5",
+   "reward": "007n7"
+  },
+  {
+   "code": "KillersUpdate",
+   "reward": "1 Combat Initiation Jason"
+  }
+ ],
+ "updated": "2026-11-27T07:49:01.042Z",
  "source": "https://robloxden.com/game-codes/dont-wake-the-forsaken"
 }

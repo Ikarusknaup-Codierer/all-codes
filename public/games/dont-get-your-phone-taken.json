@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "500KVISITS",
+   "reward": "1,000 Coins"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "2,500 Coins"
+  },
+  {
    "code": "RELEASE",
    "reward": "Free Coins"
   },
@@ -19,6 +27,6 @@
    "reward": "Free Coins"
   }
  ],
- "updated": "2026-11-25T07:51:55.661Z",
+ "updated": "2026-11-27T07:38:39.336Z",
  "source": "https://robloxden.com/game-codes/dont-get-your-phone-taken"
 }

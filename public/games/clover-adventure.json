@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "SPINS1",
+   "reward": "15 Clan Spins , 15 Grimoire Spins , and 15 Bloodline Spins"
+  },
+  {
+   "code": "GRIMOIRE1",
+   "reward": "20 Grimoire Spins"
+  },
+  {
    "code": "DEVILUNION",
    "reward": "10 Grimoire Spins , 10 Clan Spins , 10 Bloodline Spins , and 10 Gems"
   },
@@ -19,6 +27,6 @@
    "reward": "20 Grimoire Spins , 20 Clan Spins , 20 Bloodline Spins , and 20 Gems"
   }
  ],
- "updated": "2026-11-25T07:54:52.387Z",
+ "updated": "2026-11-27T07:41:36.712Z",
  "source": "https://robloxden.com/game-codes/clover-adventure"
 }

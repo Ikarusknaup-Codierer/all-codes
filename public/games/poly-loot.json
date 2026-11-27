@@ -1,7 +1,32 @@
 {
  "slug": "poly-loot",
  "name": "Poly Loot",
- "codes": [],
- "updated": "2026-11-25T08:00:55.894Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Spark",
+   "reward": "1,000 Coins , 500 XP , and 5x Weapon Tier Scrolls"
+  },
+  {
+   "code": "LOOTDANCE",
+   "reward": "the Loot Dance Emote"
+  },
+  {
+   "code": "Lev",
+   "reward": "1,000 Coins , 500 EXP , and 5 Weapon Tier Scrolls"
+  },
+  {
+   "code": "LAVADRAGON",
+   "reward": "10 Uranium Ores"
+  },
+  {
+   "code": "EXCAVATION",
+   "reward": "1 Excavation I Enchant"
+  }
+ ],
+ "updated": "2026-11-27T07:47:58.117Z",
  "source": "https://robloxden.com/game-codes/poly-loot"
 }

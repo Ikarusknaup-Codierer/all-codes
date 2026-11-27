@@ -1,7 +1,16 @@
 {
  "slug": "the-witches-fate",
  "name": "The Witches Fate",
- "codes": [],
- "updated": "2026-11-25T08:02:02.807Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "JEANGREY",
+   "reward": "25,000 Coins"
+  }
+ ],
+ "updated": "2026-11-27T07:49:05.716Z",
  "source": "https://robloxden.com/game-codes/the-witches-fate"
 }

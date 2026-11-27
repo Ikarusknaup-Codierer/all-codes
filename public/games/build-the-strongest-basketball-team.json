@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "DRAFT",
+   "reward": "3,000 Coins"
+  },
+  {
+   "code": "PACK",
+   "reward": "a Pack"
   }
  ],
- "updated": "2026-11-25T21:26:51.607Z",
+ "updated": "2026-11-27T07:50:11.923Z",
  "source": "https://robloxden.com/game-codes/build-the-strongest-basketball-team"
 }

@@ -1,7 +1,28 @@
 {
  "slug": "spear-fishing",
  "name": "Spear Fishing",
- "codes": [],
- "updated": "2026-11-25T08:00:59.641Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "QFG6R8",
+   "reward": "200 Coins"
+  },
+  {
+   "code": "FOBM0D",
+   "reward": "Freebies"
+  },
+  {
+   "code": "BP7M38",
+   "reward": "Freebies"
+  },
+  {
+   "code": "NIZP7X",
+   "reward": "Rewards"
+  }
+ ],
+ "updated": "2026-11-27T07:48:01.873Z",
  "source": "https://robloxden.com/game-codes/spear-fishing"
 }

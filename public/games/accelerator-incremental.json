@@ -1,7 +1,20 @@
 {
  "slug": "accelerator-incremental",
  "name": "Accelerator Incremental",
- "codes": [],
- "updated": "2026-11-25T08:01:44.719Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "FIXES",
+   "reward": "1 Particle Bulk Potion"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 Speed Boost Potion"
+  }
+ ],
+ "updated": "2026-11-27T07:48:47.809Z",
  "source": "https://robloxden.com/game-codes/accelerator-incremental"
 }

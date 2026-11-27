@@ -1,7 +1,20 @@
 {
  "slug": "heist-the-neighbor",
  "name": "Heist The Neighbor",
- "codes": [],
- "updated": "2026-11-25T08:01:39.280Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "djk2k10",
+   "reward": "25 Fraud Money"
+  },
+  {
+   "code": "Roroblox1364",
+   "reward": "25 Fraud Money"
+  }
+ ],
+ "updated": "2026-11-27T07:48:41.970Z",
  "source": "https://robloxden.com/game-codes/heist-the-neighbor"
 }

@@ -1,7 +1,52 @@
 {
  "slug": "bee-garden",
  "name": "Bee Garden",
- "codes": [],
- "updated": "2026-11-25T08:01:48.883Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Summer",
+   "reward": "1M Coins, 1 Summer Present and 1 Luck Fountain"
+  },
+  {
+   "code": "ALIENS",
+   "reward": "500,000 Coins , an Alien Charm , a Modifier Fountain , and 1 Daily Spi"
+  },
+  {
+   "code": "DECORATIONS",
+   "reward": "200K Coins, Luck Fountain II, Size Fountain II and 1 Surprise Bag"
+  },
+  {
+   "code": "MUSEUM",
+   "reward": "1 Fossil Charm, 1 Luck Fountain II, and 200,000 Coins"
+  },
+  {
+   "code": "SPRING",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "DEVSAREBACK",
+   "reward": "Freebies"
+  },
+  {
+   "code": "beegarden",
+   "reward": "2 Spins , 1 Silver Charm , and 1 Luck Fountain"
+  },
+  {
+   "code": "release",
+   "reward": "2 Spins, 1 Silver Charm and 1 Luck Fountain"
+  },
+  {
+   "code": "EASTER",
+   "reward": "the Modifier Fountain , 100,000 Coins , and 3 Daily Spins"
+  },
+  {
+   "code": "MERRYCHRISTMAS",
+   "reward": "Freebies"
+  }
+ ],
+ "updated": "2026-11-27T07:48:51.651Z",
  "source": "https://robloxden.com/game-codes/bee-garden"
 }

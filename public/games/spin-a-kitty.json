@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "GUMMY",
+   "reward": "Rewards"
+  },
+  {
+   "code": "BEAR",
+   "reward": "Rewards"
+  },
+  {
    "code": "FOREVERPACK",
    "reward": "Rewards"
   },
@@ -115,6 +123,6 @@
    "reward": "3 Pumpkin Dice"
   }
  ],
- "updated": "2026-11-25T07:55:30.398Z",
+ "updated": "2026-11-27T07:42:16.924Z",
  "source": "https://robloxden.com/game-codes/spin-a-kitty"
 }

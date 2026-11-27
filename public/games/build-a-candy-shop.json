@@ -1,7 +1,20 @@
 {
  "slug": "build-a-candy-shop",
  "name": "Build a Candy Shop",
- "codes": [],
- "updated": "2026-11-25T08:01:46.509Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "5KCommunity",
+   "reward": "a Prismatic Potion"
+  },
+  {
+   "code": "180KLikes",
+   "reward": "18 Ragers"
+  }
+ ],
+ "updated": "2026-11-27T07:48:49.446Z",
  "source": "https://robloxden.com/game-codes/build-a-candy-shop"
 }

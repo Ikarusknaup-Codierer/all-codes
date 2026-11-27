@@ -1,32 +1,7 @@
 {
  "slug": "dueling-grounds",
  "name": "Dueling Grounds",
- "codes": [
-  {
-   "code": "Code",
-   "reward": "Description"
-  },
-  {
-   "code": "NightOfHallows",
-   "reward": "500 Coins and 100 Gems"
-  },
-  {
-   "code": "GemsUpdate",
-   "reward": "1,000 Coins and 100 Gems"
-  },
-  {
-   "code": "Oathbreaker",
-   "reward": "500 Coins and 100 Gems"
-  },
-  {
-   "code": "MidSeasonUpdate",
-   "reward": "1,250 Coins and 150 Gems"
-  },
-  {
-   "code": "SeasonOneBegins",
-   "reward": "1,000 Coins and 125 Gems"
-  }
- ],
- "updated": "2026-11-25T21:28:14.538Z",
+ "codes": [],
+ "updated": "2026-11-27T07:51:26.258Z",
  "source": "https://robloxden.com/game-codes/dueling-grounds"
 }

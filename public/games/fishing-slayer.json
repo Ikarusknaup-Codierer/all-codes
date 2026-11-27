@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "BOSSFIGHT",
+   "reward": "5 Weapon Spins and 3 Trait Spins"
+  },
+  {
+   "code": "KINGPUFF",
+   "reward": "5,000 Coins and 5 Trait Spins"
+  },
+  {
    "code": "FISH100",
    "reward": "Rewards"
   },
@@ -15,6 +23,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-25T07:53:02.954Z",
+ "updated": "2026-11-27T07:39:44.962Z",
  "source": "https://robloxden.com/game-codes/fishing-slayer"
 }

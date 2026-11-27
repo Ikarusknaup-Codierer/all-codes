@@ -1,7 +1,132 @@
 {
  "slug": "anime-ball-duels",
  "name": "Anime Ball Duels",
- "codes": [],
- "updated": "2026-11-25T07:59:49.359Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "EXTENDED",
+   "reward": "250 Gems , 5 Trait Rolls , 500 Candy Corn , and 3 Boss Tickets"
+  },
+  {
+   "code": "INTROSHUTDOWN",
+   "reward": "750 Raid Tokens , 2 Boss Tickets , and 3 Wheel Spins"
+  },
+  {
+   "code": "CLANWARS",
+   "reward": "20,000 Coins , 1,500 Gems , 60 Crystals , 1,500 Raid Tokens , 5 Boss T"
+  },
+  {
+   "code": "FUSIONBETA",
+   "reward": "15,000 Coins , 1,200 Gems , 50 Crystals , 1,200 Raid Tokens , 4 Boss T"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "25,000 Coins , 2,000 Gems , 75 Crystals , 2,000 Raid Tokens , 6 Boss T"
+  },
+  {
+   "code": "16KLIKES",
+   "reward": "4 Boss Tickets , 1,000 Raid Tokens , and 5 Wheel Spins"
+  },
+  {
+   "code": "100KFAVORITES",
+   "reward": "5 Boss Tickets , 1,500 Raid Tokens , and 8 Wheel Spins"
+  },
+  {
+   "code": "STANDS",
+   "reward": "7,500 Coins , 500 Gems , 25 Crystals , 2 Boss Tickets , 500 Raid Token"
+  },
+  {
+   "code": "LBFIX",
+   "reward": "2 Wheel Spins , 750 Candy Corn , and 2 Boss Tickets"
+  },
+  {
+   "code": "LASTSHUTDOWN",
+   "reward": "3 Wheel Spins , 750 Candy Corn , and 2 Boss Tickets"
+  },
+  {
+   "code": "RAIDGACHA",
+   "reward": "1,000 Candy Corns , 2 Boss Tickets , and 2 Wheel Spins"
+  },
+  {
+   "code": "RANKEDSHUTDOWN",
+   "reward": "500 Candy Corns , 2 Boss Tickets , and 2 Wheel Spins"
+  },
+  {
+   "code": "RANKEDUPDATE",
+   "reward": "1,000 Candy Corns , 5 Boss Tickets , and 10 Wheel Spins"
+  },
+  {
+   "code": "BLACKFLASH",
+   "reward": "750 Candy Corns , 3 Boss Tickets , and 5 Wheel Spins"
+  },
+  {
+   "code": "HALLOWEENFINALE",
+   "reward": "2,500 Candy Corn , 5 Boss Tickets , 5 Halloween Capsules , Candy Rush "
+  },
+  {
+   "code": "RANKEDSOON",
+   "reward": "10,000 Coins , 750 Gems , 40 Trait Crystals , and 5 Wheel Spins"
+  },
+  {
+   "code": "ESKANOR",
+   "reward": "1,000 Candy Corn , 3 Boss Tickets , 3 Halloween Capsules , Candy Rush "
+  },
+  {
+   "code": "TRADINGSHUTDOWN",
+   "reward": "1,500 Coins , 150 Gems , 10 Trait Crystals , 500 Candy Corns , and 2 B"
+  },
+  {
+   "code": "15KLIKES",
+   "reward": "7,500 Coins , 500 Gems , 30 Trait Crystals , 750 Candy Corns , and 5 s"
+  },
+  {
+   "code": "TRADINGUPDATE",
+   "reward": "10,000 Coins , 750 Gems , 40 Trait Crystals , 1,000 Candy Corn , 3 Bos"
+  },
+  {
+   "code": "PART2SHUTDOWN",
+   "reward": "800 Candy Corn and 3 Boss Tickets"
+  },
+  {
+   "code": "HALLOWEENPART2",
+   "reward": "500 Candy Corn and 3 Boss Tickets"
+  },
+  {
+   "code": "CURSEDTRAITS",
+   "reward": "300 Candy Corn and 2 Boss Tickets"
+  },
+  {
+   "code": "WEAREBACK",
+   "reward": "15,000 Coins , 1,000 Gems , 50 Trait Rolls , 2,000 Candy Corn , and 10"
+  },
+  {
+   "code": "HACKERSLOST",
+   "reward": "7,500 Coins , 500 Gems , 25 Trait Rolls , 1,000 Candy Corn , and 5 Spi"
+  },
+  {
+   "code": "CHATSHUTDOWN",
+   "reward": "500 Candy Corn and 3 Boss Tickets"
+  },
+  {
+   "code": "HALLOWEEN2026",
+   "reward": "250 Candy Corns , 5 Trait Crystals , 150 Gems , and 1,500 Coins"
+  },
+  {
+   "code": "KOKUSHIBONPCISHERE",
+   "reward": "150 Candy Corns , 5 Trait Crystals , 150 Gems , and 1,500 Coins"
+  },
+  {
+   "code": "WEWANTCANDYCORN",
+   "reward": "150 Candy Corns , 5 Trait Crystals , 150 Gems , and 1,500 Coins"
+  },
+  {
+   "code": "BUGFIXESSHUTDOWN",
+   "reward": "500 Candy Corns and 3 Boss Tickets"
+  }
+ ],
+ "updated": "2026-11-27T07:46:49.127Z",
  "source": "https://robloxden.com/game-codes/anime-ball-duels"
 }

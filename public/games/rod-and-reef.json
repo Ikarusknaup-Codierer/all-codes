@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
+   "code": "RARRELEASE",
+   "reward": "250 Coins"
+  },
+  {
+   "code": "ZAWADISGOAT",
+   "reward": "2x XP (10 Minutes)"
+  },
+  {
+   "code": "NOVEMBER11",
+   "reward": "100 Coins"
+  },
+  {
    "code": "SMALLDELAY",
    "reward": "a 2x XP Boost (24 Hours)"
   }
  ],
- "updated": "2026-11-25T07:51:58.768Z",
+ "updated": "2026-11-27T07:38:42.442Z",
  "source": "https://robloxden.com/game-codes/rod-and-reef"
 }

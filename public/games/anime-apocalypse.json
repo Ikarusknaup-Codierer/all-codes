@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "COSMICENTITY",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
+  },
+  {
+   "code": "COSMICGAROU",
+   "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 10 Boss Fragments"
+  },
+  {
    "code": "ULTRAINSTINCT",
    "reward": "300,000 Coins , 15 Raid Tickets , 20 Trait Rerolls , 15 Lucky Ability "
   },
@@ -303,6 +311,6 @@
    "reward": "55,000 Coins , 30 Raid Tickets , 18 Trait Rerolls , 15 Normal Ability "
   }
  ],
- "updated": "2026-11-25T07:57:31.417Z",
+ "updated": "2026-11-27T07:44:23.659Z",
  "source": "https://robloxden.com/game-codes/anime-apocalypse"
 }

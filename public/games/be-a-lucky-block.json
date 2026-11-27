@@ -1,7 +1,68 @@
 {
  "slug": "be-a-lucky-block",
  "name": "Be a Lucky Block",
- "codes": [],
- "updated": "2026-11-25T08:01:21.690Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Meow",
+   "reward": "100 Coraluke Coins"
+  },
+  {
+   "code": "RADIOACTIVE",
+   "reward": "150 Honeycomb"
+  },
+  {
+   "code": "BEE",
+   "reward": "100 Honeycomb"
+  },
+  {
+   "code": "DinoByte",
+   "reward": "15 Infinity Coins"
+  },
+  {
+   "code": "R5M93",
+   "reward": "50 Coraluke Coins"
+  },
+  {
+   "code": "CORALUKE",
+   "reward": "35 Coraluke Coins"
+  },
+  {
+   "code": "TR9MP1238",
+   "reward": "2 Bunny Blocks and 2 Everything Blocks"
+  },
+  {
+   "code": "FIX31",
+   "reward": "100 Easter Eggs"
+  },
+  {
+   "code": "M2ZF4KYR",
+   "reward": "2 Secret Blocks"
+  },
+  {
+   "code": "MAGIA",
+   "reward": "Ta Ta Ta Ta Sahur"
+  },
+  {
+   "code": "ZEUS",
+   "reward": "an Angelzini Bananini"
+  },
+  {
+   "code": "release",
+   "reward": "the Brr Brr Patapim"
+  },
+  {
+   "code": "GOD",
+   "reward": "a Free Brainrot"
+  },
+  {
+   "code": "DEVIL",
+   "reward": "Free Rewards"
+  }
+ ],
+ "updated": "2026-11-27T07:48:23.528Z",
  "source": "https://robloxden.com/game-codes/be-a-lucky-block"
 }

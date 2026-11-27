@@ -1,7 +1,16 @@
 {
  "slug": "attack-on-titan-resistance",
  "name": "Attack on Titan : Resistance",
- "codes": [],
- "updated": "2026-11-25T08:01:42.282Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "thanksFor10kLikes",
+   "reward": "15,000 GP, 50 skillPoints, and 5,000 dews"
+  }
+ ],
+ "updated": "2026-11-27T07:48:45.221Z",
  "source": "https://robloxden.com/game-codes/attack-on-titan-resistance"
 }

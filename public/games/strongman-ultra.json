@@ -1,7 +1,20 @@
 {
  "slug": "strongman-ultra",
  "name": "Strongman Ultra",
- "codes": [],
- "updated": "2026-11-25T08:01:29.019Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "chad",
+   "reward": "250 Energy And 1 Energy Gain Potion"
+  },
+  {
+   "code": "first",
+   "reward": "250 Energy And 1 Energy Gain Potion"
+  }
+ ],
+ "updated": "2026-11-27T07:48:31.005Z",
  "source": "https://robloxden.com/game-codes/strongman-ultra"
 }

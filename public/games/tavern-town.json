@@ -7,10 +7,22 @@
    "reward": "Description"
   },
   {
-   "code": "2KTROPHY",
-   "reward": "the Old Bram Trophy and 100 Gems"
+   "code": "1KACTIVE",
+   "reward": "1,000 Gems"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "1,000 Gold"
+  },
+  {
+   "code": "DECOR",
+   "reward": "a Decor Crate"
+  },
+  {
+   "code": "TAVERNTOWN",
+   "reward": "500 Gold and 25 Gems"
   }
  ],
- "updated": "2026-11-25T07:51:59.769Z",
+ "updated": "2026-11-27T07:38:43.528Z",
  "source": "https://robloxden.com/game-codes/tavern-town"
 }

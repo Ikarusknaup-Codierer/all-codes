@@ -1,7 +1,20 @@
 {
  "slug": "mx-madness",
  "name": "MX Madness",
- "codes": [],
- "updated": "2026-11-25T08:01:43.242Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "MXLAUNCH",
+   "reward": "1K Cash"
+  },
+  {
+   "code": "WELCOME2500",
+   "reward": "1.5K Cash"
+  }
+ ],
+ "updated": "2026-11-27T07:48:46.236Z",
  "source": "https://robloxden.com/game-codes/mx-madness"
 }

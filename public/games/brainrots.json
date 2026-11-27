@@ -1,7 +1,16 @@
 {
  "slug": "brainrots",
  "name": "Brainrots",
- "codes": [],
- "updated": "2026-11-25T08:01:38.317Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "10XSPEAR",
+   "reward": "Heart Spear Skin"
+  }
+ ],
+ "updated": "2026-11-27T07:48:40.961Z",
  "source": "https://robloxden.com/game-codes/brainrots"
 }

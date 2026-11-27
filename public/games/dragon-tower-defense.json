@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "secret",
+   "reward": "3 Eggs"
+  },
+  {
    "code": "5500LIKES",
    "reward": "500 Coins , a 2x Coins Potion , and a 2x Luck Potion"
   },
@@ -15,6 +19,6 @@
    "reward": "300 Coins , 1 Coins Potion , and 1 Luck Potion"
   }
  ],
- "updated": "2026-11-25T07:54:51.814Z",
+ "updated": "2026-11-27T07:41:36.147Z",
  "source": "https://robloxden.com/game-codes/dragon-tower-defense"
 }

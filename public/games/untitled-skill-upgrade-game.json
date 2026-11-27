@@ -1,7 +1,24 @@
 {
  "slug": "untitled-skill-upgrade-game",
  "name": "Untitled Skill Upgrade Game",
- "codes": [],
- "updated": "2026-11-25T08:00:55.349Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "ButterDOG",
+   "reward": "Rewards . You need to have atleast 2 Rebirths to claim this code"
+  },
+  {
+   "code": "starT000",
+   "reward": "250 Skill Points"
+  },
+  {
+   "code": "VISITS200K",
+   "reward": "400 Skill Points"
+  }
+ ],
+ "updated": "2026-11-27T07:47:57.483Z",
  "source": "https://robloxden.com/game-codes/untitled-skill-upgrade-game"
 }

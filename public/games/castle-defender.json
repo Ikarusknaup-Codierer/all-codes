@@ -1,7 +1,36 @@
 {
  "slug": "castle-defender",
  "name": "Castle Defender",
- "codes": [],
- "updated": "2026-11-25T08:01:45.212Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "BULL",
+   "reward": "a Bull"
+  },
+  {
+   "code": "FIREVOLLEY",
+   "reward": "a Fire Arrow Cannon Lvl 1"
+  },
+  {
+   "code": "BLAZE",
+   "reward": "a Flamethrower Lvl 1"
+  },
+  {
+   "code": "GONG",
+   "reward": "a Gong"
+  },
+  {
+   "code": "PENGUINPEEP",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "OUTLOOK",
+   "reward": "100 Gems"
+  }
+ ],
+ "updated": "2026-11-27T07:48:48.414Z",
  "source": "https://robloxden.com/game-codes/castle-defender"
 }

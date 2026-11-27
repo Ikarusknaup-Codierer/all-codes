@@ -1,7 +1,32 @@
 {
  "slug": "flag-football",
  "name": "Flag Football",
- "codes": [],
- "updated": "2026-11-25T08:00:58.561Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SEASON2",
+   "reward": "100,000 Coins"
+  },
+  {
+   "code": "THANKSFORWAITING",
+   "reward": "100,000 Coins"
+  },
+  {
+   "code": "8KFOR80",
+   "reward": "80,000 Coins"
+  },
+  {
+   "code": "14KLIKES",
+   "reward": "110,000 Coins"
+  },
+  {
+   "code": "9KLIKES",
+   "reward": "Cash"
+  }
+ ],
+ "updated": "2026-11-27T07:48:00.857Z",
  "source": "https://robloxden.com/game-codes/flag-football"
 }

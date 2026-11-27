@@ -1,7 +1,52 @@
 {
  "slug": "football-pack-opening",
  "name": "Football Pack Opening",
- "codes": [],
- "updated": "2026-11-25T08:02:02.250Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "NEWPACKS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "TOTY2025",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "UCL2025",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "NEWUPD",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "COMMUNITY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "CLAIMCODES",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "NEWUPDATE",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "SORRYFORSILENCE",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "GIFT4U",
+   "reward": ""
+  },
+  {
+   "code": "10000LIKES",
+   "reward": ""
+  }
+ ],
+ "updated": "2026-11-27T07:49:05.206Z",
  "source": "https://robloxden.com/game-codes/football-pack-opening"
 }

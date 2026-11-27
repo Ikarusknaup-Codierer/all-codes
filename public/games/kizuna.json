@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "5MINCRASHCODE",
-   "reward": "50 Rerolls"
-  },
-  {
    "code": "SORRYFORDELAY",
    "reward": "30 Rerolls"
   },
@@ -21,8 +17,12 @@
   {
    "code": "100KVISITS",
    "reward": "50 Rerolls"
+  },
+  {
+   "code": "EARLYBIRD",
+   "reward": "50 Rerolls"
   }
  ],
- "updated": "2026-11-25T07:54:20.356Z",
+ "updated": "2026-11-27T07:41:03.292Z",
  "source": "https://robloxden.com/game-codes/kizuna"
 }

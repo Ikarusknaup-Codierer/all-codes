@@ -1,7 +1,32 @@
 {
  "slug": "shinobi-way",
  "name": "Shinobi Way",
- "codes": [],
- "updated": "2026-11-25T08:00:10.446Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "40KLIKES",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "EVILFOX",
+   "reward": "Double Drops (15 Minutes)"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": ""
+  },
+  {
+   "code": "RELEASE",
+   "reward": "5 Spins"
+  }
+ ],
+ "updated": "2026-11-27T07:47:11.882Z",
  "source": "https://robloxden.com/game-codes/shinobi-way"
 }

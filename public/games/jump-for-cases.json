@@ -5,8 +5,24 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "LuckyW5",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "FreeGemsW4",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "SEASON2",
+   "reward": "5 Spins , 1 Legendary Case , and 2x Luck Boost (10 mins)"
+  },
+  {
+   "code": "LuckyDuck",
+   "reward": "a 2x Luck Boost (20 mins)"
   }
  ],
- "updated": "2026-11-25T07:52:01.233Z",
+ "updated": "2026-11-27T07:38:44.982Z",
  "source": "https://robloxden.com/game-codes/jump-for-cases"
 }

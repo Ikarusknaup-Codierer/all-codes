@@ -5,8 +5,16 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "sorryforep1delay",
+   "reward": "5 Lucky Rolls"
+  },
+  {
+   "code": "anomalyupdate",
+   "reward": "2 Reset Tokens"
   }
  ],
- "updated": "2026-11-25T07:54:59.286Z",
+ "updated": "2026-11-27T07:41:43.593Z",
  "source": "https://robloxden.com/game-codes/threshold"
 }

@@ -1,7 +1,24 @@
 {
  "slug": "steal-a-hedgehog",
  "name": "Steal a Hedgehog",
- "codes": [],
- "updated": "2026-11-25T08:02:03.291Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "1500LIKES!",
+   "reward": "100,000 Coins"
+  },
+  {
+   "code": "1000FAVORITES!",
+   "reward": "100,000 Coins"
+  },
+  {
+   "code": "2000FAVORITES!",
+   "reward": "100,000 Coins"
+  }
+ ],
+ "updated": "2026-11-27T07:49:06.211Z",
  "source": "https://robloxden.com/game-codes/steal-a-hedgehog"
 }

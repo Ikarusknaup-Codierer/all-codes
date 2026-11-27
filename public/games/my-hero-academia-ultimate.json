@@ -1,7 +1,32 @@
 {
  "slug": "my-hero-academia-ultimate",
  "name": "My Hero Academia: Ultimate",
- "codes": [],
- "updated": "2026-11-25T08:01:08.434Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UALEGEND",
+   "reward": "1 Rare Skill Crate"
+  },
+  {
+   "code": "RAREQUIRK",
+   "reward": "1 Rare Skill Crate"
+  },
+  {
+   "code": "HEROSTARTERPACK",
+   "reward": "5 Common Crates"
+  },
+  {
+   "code": "ONEMILLION",
+   "reward": "2,500 Coins"
+  },
+  {
+   "code": "RAREQUICK",
+   "reward": "1 Rare Skill Crate"
+  }
+ ],
+ "updated": "2026-11-27T07:48:10.593Z",
  "source": "https://robloxden.com/game-codes/my-hero-academia-ultimate"
 }

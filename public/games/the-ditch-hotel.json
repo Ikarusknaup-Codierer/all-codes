@@ -15,22 +15,22 @@
    "reward": "20,000 Cash , 2 Revives , and 1 Push"
   },
   {
+   "code": "200KMEMBERS",
+   "reward": "30,000 Cash , 2 Revives , and 2 Push"
+  },
+  {
+   "code": "6MVISITS",
+   "reward": "40,000 Cash , 3 Revives , and 3 Push"
+  },
+  {
    "code": "500LIKES",
    "reward": "3K Cash and 1 Revive"
   },
   {
-   "code": "900KVISITS",
-   "reward": "4K Cash, 1 Push and 1 Revive"
-  },
-  {
    "code": "NEIGHBORHOOD",
    "reward": "5K Cash and 1 Push"
-  },
-  {
-   "code": "FIREALARM",
-   "reward": "3K Cash and 2 Revives"
   }
  ],
- "updated": "2026-11-25T08:00:23.006Z",
+ "updated": "2026-11-27T07:47:25.268Z",
  "source": "https://robloxden.com/game-codes/the-ditch-hotel"
 }

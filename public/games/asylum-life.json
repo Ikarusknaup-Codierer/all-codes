@@ -1,7 +1,24 @@
 {
  "slug": "asylum-life",
  "name": "Asylum Life",
- "codes": [],
- "updated": "2026-11-25T08:01:40.752Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "COMMANDERRR",
+   "reward": "a 3x EXP Boost"
+  },
+  {
+   "code": "SUNDAYFUNDAY",
+   "reward": "Rewards"
+  },
+  {
+   "code": "THEDIVE",
+   "reward": "3x EXP Booster"
+  }
+ ],
+ "updated": "2026-11-27T07:48:43.679Z",
  "source": "https://robloxden.com/game-codes/asylum-life"
 }

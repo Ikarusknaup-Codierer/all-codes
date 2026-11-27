@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "100KVISITS",
+   "reward": "rewards"
+  },
+  {
    "code": "GALAXY",
    "reward": "1,000 Speed and a 2x Money Boost (10 Minutes)"
   },
@@ -15,6 +19,6 @@
    "reward": "2x Money Boost (15 Minutes) and 2x Speed Boost (15 Minutes)"
   }
  ],
- "updated": "2026-11-25T21:26:49.850Z",
+ "updated": "2026-11-27T07:50:10.452Z",
  "source": "https://robloxden.com/game-codes/steal-a-sanrio-egg"
 }

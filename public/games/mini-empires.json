@@ -1,7 +1,32 @@
 {
  "slug": "mini-empires",
  "name": "Mini Empires",
- "codes": [],
- "updated": "2026-11-25T08:01:37.343Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "VIREAL",
+   "reward": "100 Gems . To use this code, you must first join the VIREAL Roblox Com"
+  },
+  {
+   "code": "MINI2026",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "FOLLOWAVALLACHI",
+   "reward": "Reward"
+  },
+  {
+   "code": "DUNE",
+   "reward": "Reward"
+  },
+  {
+   "code": "MISSIONSUPDATE",
+   "reward": "100 Gems"
+  }
+ ],
+ "updated": "2026-11-27T07:48:39.922Z",
  "source": "https://robloxden.com/game-codes/mini-empires"
 }

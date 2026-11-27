@@ -1,7 +1,20 @@
 {
  "slug": "race-rng",
  "name": "Race RNG",
- "codes": [],
- "updated": "2026-11-25T07:59:54.567Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "1kccu",
+   "reward": "5 Super Luck Boosts"
+  },
+  {
+   "code": "NEWYEAR",
+   "reward": "Unknown Reward"
+  }
+ ],
+ "updated": "2026-11-27T07:46:54.750Z",
  "source": "https://robloxden.com/game-codes/race-rng"
 }

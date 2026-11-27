@@ -7,12 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "RETUNE26",
-   "reward": "10,000 Cash"
-  },
-  {
    "code": "CEDDY",
    "reward": "$5,000"
+  },
+  {
+   "code": "RETUNE26",
+   "reward": "10,000 Cash"
   },
   {
    "code": "PHYSICS26",
@@ -21,12 +21,8 @@
   {
    "code": "SPRING2026",
    "reward": "Cash and Boosts"
-  },
-  {
-   "code": "LAGFIXED",
-   "reward": "35,000 Cash"
   }
  ],
- "updated": "2026-11-25T08:01:04.673Z",
+ "updated": "2026-11-27T07:48:06.845Z",
  "source": "https://robloxden.com/game-codes/rensselaer-county"
 }

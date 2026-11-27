@@ -1,7 +1,48 @@
 {
  "slug": "mystery-killer",
  "name": "Mystery Killer",
- "codes": [],
- "updated": "2026-11-25T08:01:28.518Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SORRY",
+   "reward": "the Bonus Weapon"
+  },
+  {
+   "code": "FL4M",
+   "reward": "the Flamingo"
+  },
+  {
+   "code": "CH0C0",
+   "reward": "the Choco Bunny"
+  },
+  {
+   "code": "LUG3R",
+   "reward": "the Luger"
+  },
+  {
+   "code": "SCYTHE",
+   "reward": "the Valp's Scythe"
+  },
+  {
+   "code": "F41RY",
+   "reward": "the Fairy Axe"
+  },
+  {
+   "code": "50KMEMBERS",
+   "reward": "the Partyblade"
+  },
+  {
+   "code": "EASTER2024",
+   "reward": "the Easter Set"
+  },
+  {
+   "code": "CLOWN",
+   "reward": "the Clown Set"
+  }
+ ],
+ "updated": "2026-11-27T07:48:30.493Z",
  "source": "https://robloxden.com/game-codes/mystery-killer"
 }

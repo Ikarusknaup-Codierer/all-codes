@@ -547,14 +547,14 @@
    "reward": "a 20 Minute 2x Spirit Stone Boost, 10 Minute 2x Luck Boost, 20 Minute "
   },
   {
-   "code": "oneyear",
-   "reward": "a 20 Minute 2x Spirit Stone Boost and a 20 Minute 2x Qi Boost"
+   "code": "map15",
+   "reward": "Free Boosts"
   },
   {
-   "code": "xmas",
-   "reward": "a 10 Minute 2x Luck Boost and a 20 Minute 1.5x Damage Boost"
+   "code": "bounty",
+   "reward": "Qi Boosts"
   }
  ],
- "updated": "2026-11-25T07:58:32.348Z",
+ "updated": "2026-11-27T07:45:27.284Z",
  "source": "https://robloxden.com/game-codes/weapon-fighting-simulator"
 }

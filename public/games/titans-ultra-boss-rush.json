@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "HELLO",
+   "reward": "500K Cash"
+  },
+  {
    "code": "DISEASEOFTHEMIND",
    "reward": "55K Cash"
   },
@@ -23,14 +27,10 @@
    "reward": "5k HP Buff"
   },
   {
-   "code": "HAPPY",
-   "reward": "20 Code Pieces , 1999 Samples and 10,000 Cash"
-  },
-  {
-   "code": "SORRY",
-   "reward": "Cash and other rewards"
+   "code": "RELEASE",
+   "reward": "20 Code Pieces , 1,999 Samples , and 50,000 Cash"
   }
  ],
- "updated": "2026-11-25T21:35:43.833Z",
+ "updated": "2026-11-27T21:04:00.402Z",
  "source": "https://robloxden.com/game-codes/titans-ultra-boss-rush"
 }

@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WINNINGISEVERYTHING",
+   "reward": "10 Spins and 40,000 Points"
+  },
+  {
    "code": "PAINTBALL",
    "reward": "7 Spins and 30,000 Coins"
   },
@@ -27,6 +31,6 @@
    "reward": "5 Spins and 10,000 Points"
   }
  ],
- "updated": "2026-11-25T21:35:25.119Z",
+ "updated": "2026-11-27T21:03:41.376Z",
  "source": "https://robloxden.com/game-codes/elite-class"
 }

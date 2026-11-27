@@ -11,6 +11,14 @@
    "reward": "4 Lucky Awakening Spins . Can only be redeemed on Story Mode"
   },
   {
+   "code": "REORELEASE",
+   "reward": "1,500 Coins , 4 Style Spins , and 4 Lucky Style Spins"
+  },
+  {
+   "code": "KUNIGAMI",
+   "reward": "4 Flow Spins and 4 Lucky Flow Spins"
+  },
+  {
    "code": "WORLDCUP",
    "reward": "2 Flow Spins and 1 Lucky Flow Spin"
   },
@@ -19,6 +27,6 @@
    "reward": "2 Style Spins and 1 Lucky Style Spin"
   }
  ],
- "updated": "2026-11-26T07:40:29.922Z",
+ "updated": "2026-11-27T21:09:25.894Z",
  "source": "https://robloxden.com/game-codes/pixel-blue-lock"
 }

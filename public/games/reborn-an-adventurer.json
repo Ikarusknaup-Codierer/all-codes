@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "MAGERESET",
+   "reward": "Mage Stat Points Reset . This code will take effect immediately upon r"
+  },
+  {
+   "code": "WARRIORRESET",
+   "reward": "Warrior Points Reset . This code will apply immediately upon redemptio"
+  },
+  {
+   "code": "CHAPTER2",
+   "reward": "1 XP Boost Potion"
+  },
+  {
+   "code": "FREEGEM50",
+   "reward": "50 Gems"
+  },
+  {
+   "code": "3xDEMONEGG123",
+   "reward": "3 Demon Eggs"
   }
  ],
- "updated": "2026-11-25T21:37:18.858Z",
+ "updated": "2026-11-27T21:05:36.050Z",
  "source": "https://robloxden.com/game-codes/reborn-an-adventurer"
 }

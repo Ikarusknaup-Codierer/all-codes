@@ -7,10 +7,6 @@
    "reward": "Description"
   },
   {
-   "code": "WORLD11",
-   "reward": "Rewards"
-  },
-  {
    "code": "WORLD10",
    "reward": "10 Tickets and 3 of Each Potion"
   },
@@ -25,14 +21,6 @@
   {
    "code": "WORLD10PART2",
    "reward": "10 Tickets and 5 Jade"
-  },
-  {
-   "code": "QIFIX",
-   "reward": "10 Jade and 1 Ore Potion"
-  },
-  {
-   "code": "CRYPTDUNGEON",
-   "reward": "5 of All Potions"
   },
   {
    "code": "OREPOTIONFIX",
@@ -299,6 +287,6 @@
    "reward": "5 Tickets"
   }
  ],
- "updated": "2026-11-25T21:29:40.604Z",
+ "updated": "2026-11-27T20:56:40.510Z",
  "source": "https://robloxden.com/game-codes/immortality-incremental"
 }

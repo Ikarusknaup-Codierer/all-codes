@@ -15,18 +15,18 @@
    "reward": "2,000 Coins , 5 Pipeline Spins , 5 Height Spins , and 5 Archetype Spin"
   },
   {
-   "code": "YOURLEGACY",
-   "reward": "4,000 Coins , 8 Pipeline Rerolls , 8 Height Rerolls , and 1 Slot"
-  },
-  {
-   "code": "NOTDONE",
-   "reward": "5,000 Coins , 8 Heights Rerolls , and a Slot"
+   "code": "RTG",
+   "reward": "1,000 Coins , 5 Pipeline Rerolls , 5 Height Rerolls , and Slot 1"
   },
   {
    "code": "WERESORRY",
    "reward": "5,000 Coins , 5 Pipeline Rerolls , 5 Height Rerolls , and a Slot"
+  },
+  {
+   "code": "900CCU",
+   "reward": "rewards"
   }
  ],
- "updated": "2026-11-25T21:39:40.979Z",
+ "updated": "2026-11-27T21:07:59.339Z",
  "source": "https://robloxden.com/game-codes/road-to-glory-football"
 }

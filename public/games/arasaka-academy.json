@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "TTSOON",
+   "reward": "50 Rerolls"
+  },
+  {
    "code": "TBUG",
    "reward": "200 Rerolls"
   },
@@ -147,6 +151,6 @@
    "reward": "Rewards . You need to be level 10 to redeem this code"
   }
  ],
- "updated": "2026-11-25T21:40:07.923Z",
+ "updated": "2026-11-27T21:08:26.453Z",
  "source": "https://robloxden.com/game-codes/arasaka-academy"
 }

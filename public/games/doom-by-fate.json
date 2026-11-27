@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "WELCOMEBACK",
+   "reward": "1,000 Tix"
+  },
+  {
    "code": "SPOOKY",
    "reward": "1,500 Tix"
   },
@@ -35,6 +39,6 @@
    "reward": "Special Skin Merchandise and 2,000 Tix"
   }
  ],
- "updated": "2026-11-25T21:30:03.279Z",
+ "updated": "2026-11-27T20:57:01.788Z",
  "source": "https://robloxden.com/game-codes/doom-by-fate"
 }

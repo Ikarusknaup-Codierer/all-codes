@@ -7,6 +7,14 @@
    "reward": "Description"
   },
   {
+   "code": "ORIGINAL",
+   "reward": "an Elixir II Potion"
+  },
+  {
+   "code": "BURMALDA",
+   "reward": "Lucky Roll 300x"
+  },
+  {
    "code": "UPDATE3",
    "reward": "Luck Potion II (15 Minutes)"
   },
@@ -15,6 +23,6 @@
    "reward": "a Wheel Spin"
   }
  ],
- "updated": "2026-11-25T21:37:15.733Z",
+ "updated": "2026-11-27T21:05:33.318Z",
  "source": "https://robloxden.com/game-codes/license-plate-generator"
 }

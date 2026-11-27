@@ -1,7 +1,24 @@
 {
  "slug": "remake-de-juego-kj-battleground",
  "name": "Remake de Juego KJ Battleground",
- "codes": [],
- "updated": "2026-11-25T21:39:23.968Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "GOLD",
+   "reward": "100 Gold Coins"
+  },
+  {
+   "code": "FREECUSTOMTITLE",
+   "reward": "500 Gold Coins"
+  },
+  {
+   "code": "JoaSigma",
+   "reward": "67 Gold Coins"
+  }
+ ],
+ "updated": "2026-11-27T21:07:41.885Z",
  "source": "https://robloxden.com/game-codes/remake-de-juego-kj-battleground"
 }

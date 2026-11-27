@@ -7,7 +7,11 @@
    "reward": "Description"
   },
   {
-   "code": "SORRYFORSHUTDOWNAGAIN",
+   "code": "500KMEMBERS",
+   "reward": "Spins and Yen"
+  },
+  {
+   "code": "SORRYFORSHUTDOWN",
    "reward": ""
   },
   {
@@ -15,18 +19,14 @@
    "reward": "25,000 Yen"
   },
   {
-   "code": "KING",
-   "reward": "40 Lucky Style Flow Spins"
+   "code": "SLAYERS",
+   "reward": "100 Lucky Style and 20 Flow Spins"
   },
   {
-   "code": "REF",
-   "reward": "50,000 Yen"
-  },
-  {
-   "code": "JACKPOTBUFF",
-   "reward": "2 Lucky Style Spins and 2 Lucky Flow Spins"
+   "code": "RANKEDSEASON2",
+   "reward": "10 Lucky Style Spins and 10 Lucky Flow Spins"
   }
  ],
- "updated": "2026-11-26T07:41:59.758Z",
+ "updated": "2026-11-27T21:11:04.166Z",
  "source": "https://robloxden.com/game-codes/tennis-zero"
 }

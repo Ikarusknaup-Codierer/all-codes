@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "33750LIKES",
+   "reward": "1,000 Coins"
+  },
+  {
    "code": "2XWEEKEND",
    "reward": "5 Gold Playstyle Spins"
   },
@@ -31,14 +35,14 @@
    "reward": "2.5K Coins and 2 Golden Tickets"
   },
   {
-   "code": "QOL",
-   "reward": "2,500 Coins , 2 Gold Tickets , and a Prize Wheel Spin"
+   "code": "GOATSTYLE",
+   "reward": "a Prize Wheel Spin , 1 Gold Playstyle Spin , and 5,000 Coins"
   },
   {
    "code": "MINIUPDATE",
    "reward": "1,000 Coins , 2 Gold Tickets , and a Prize Wheel Spin"
   }
  ],
- "updated": "2026-11-25T21:31:57.019Z",
+ "updated": "2026-11-27T20:58:52.642Z",
  "source": "https://robloxden.com/game-codes/pixel-basketball"
 }

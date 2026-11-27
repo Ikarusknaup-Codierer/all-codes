@@ -11,10 +11,6 @@
    "reward": "100 Gems and 5 Trait Rerolls . You must reach Level 10 to use this cod"
   },
   {
-   "code": "QOL",
-   "reward": "250 Gems and 10 Trait Rerolls . You must reach Level 10 to use this co"
-  },
-  {
    "code": "GOHD",
    "reward": "25 Trait Rerolls . You need to have 1 Reset to use this code"
   },
@@ -31,10 +27,34 @@
    "reward": "2,260 Gems and 47 Trait Rerolls . To use this code, you must have the "
   },
   {
+   "code": "2KCCU",
+   "reward": "250 Gems and 10 Trait Rerolls"
+  },
+  {
+   "code": "RESET",
+   "reward": "100 Gems and 5 Trait Rerolls"
+  },
+  {
+   "code": "250KVISITS",
+   "reward": "100 Gems and 5 Trait Rerolls"
+  },
+  {
+   "code": "HAPPYHALLOWEEN",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SORRY4SHUTDOWN",
+   "reward": "50 Gems and 5 Trait Rerolls"
+  },
+  {
    "code": "BOSSNERF2",
    "reward": "100 Gems and 5 Trait Rerolls . You must reach Level 10 to use this cod"
+  },
+  {
+   "code": "QOL",
+   "reward": "250 Gems and 10 Trait Rerolls . You must reach Level 10 to use this co"
   }
  ],
- "updated": "2026-11-26T07:40:39.762Z",
+ "updated": "2026-11-27T21:09:36.321Z",
  "source": "https://robloxden.com/game-codes/project-souls"
 }

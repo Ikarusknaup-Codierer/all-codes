@@ -43,14 +43,6 @@
    "reward": "200 Expedition Points , a Revive Sigil , and 5 Reforge Stones"
   },
   {
-   "code": "SLAYER",
-   "reward": "6 Aspect Gems , 30 Lucky Spins , 4 Exotic Ingots and 2 Perfect Reforge"
-  },
-  {
-   "code": "UPDATE2_5",
-   "reward": "4 Aspect Gems , 25 Lucky Spins , 3 Exotic Ingots and 3 Perfect Reforge"
-  },
-  {
    "code": "TORUS",
    "reward": "5 Exotic Ingots and 10 Reforge Stones"
   },
@@ -67,10 +59,6 @@
    "reward": "300 Payload Currency , 10 Reforge Stones , and 2 Aspect Gems"
   },
   {
-   "code": "PAYLOAD",
-   "reward": "250 Payload Currency and 5 Reforge Stones"
-  },
-  {
    "code": "EXPEDITION",
    "reward": "15 Exotic Ingots , 10 GM Blessing III , 50 Mystery Boxes , and 5,000 S"
   },
@@ -81,6 +69,18 @@
   {
    "code": "HAWK",
    "reward": "5 Aspect Gems , 20 Lucky Spins , 2 Exotic Ingots and 4 Perfect Reforge"
+  },
+  {
+   "code": "SLAYER",
+   "reward": "6 Aspect Gems , 30 Lucky Spins , 4 Exotic Ingots and 2 Perfect Reforge"
+  },
+  {
+   "code": "UPDATE2_5",
+   "reward": "4 Aspect Gems , 25 Lucky Spins , 3 Exotic Ingots and 3 Perfect Reforge"
+  },
+  {
+   "code": "PAYLOAD",
+   "reward": "250 Payload Currency and 5 Reforge Stones"
   },
   {
    "code": "20MVISIT",
@@ -147,6 +147,6 @@
    "reward": "1,000 Coins"
   }
  ],
- "updated": "2026-11-25T21:30:59.747Z",
+ "updated": "2026-11-27T20:57:56.673Z",
  "source": "https://robloxden.com/game-codes/dungeon-lootr"
 }

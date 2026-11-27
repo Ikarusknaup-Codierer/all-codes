@@ -5,8 +5,28 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UPDATE3",
+   "reward": "500 Wins and 1 Magma Chest"
+  },
+  {
+   "code": "ADMINEVENT",
+   "reward": "1 Legendary Chest"
+  },
+  {
+   "code": "WORLD3SOON",
+   "reward": "1K Wins and 1 Rare Chest"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "250 Wins and 1 Uncommon Chest"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-26T07:40:29.351Z",
+ "updated": "2026-11-27T21:09:25.285Z",
  "source": "https://robloxden.com/game-codes/1-sword-vs-platforms"
 }

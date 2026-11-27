@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "67",
+   "reward": "Clicks"
+  },
+  {
    "code": "99",
    "reward": "Clicks"
   },
@@ -15,18 +19,14 @@
    "reward": "Clicks"
   },
   {
-   "code": "SAMMY",
-   "reward": "Clicks And UGC Rewards"
-  },
-  {
-   "code": "NEWUGC",
-   "reward": "50,000 Clicks"
+   "code": "HAIRS",
+   "reward": "Clicks"
   },
   {
    "code": "EMOTE",
    "reward": "50,000 Clicks and 250 Gems"
   }
  ],
- "updated": "2026-11-25T21:37:33.766Z",
+ "updated": "2026-11-27T21:05:50.558Z",
  "source": "https://robloxden.com/game-codes/click-for-free-ugc-items"
 }

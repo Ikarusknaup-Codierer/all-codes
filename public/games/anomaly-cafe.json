@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FIRSTCODE",
+   "reward": "200 Bells"
+  },
+  {
    "code": "Banana",
    "reward": "50 Bells"
   },
@@ -21,12 +25,8 @@
   {
    "code": "SPOOKYUPD",
    "reward": "250 Bells"
-  },
-  {
-   "code": "FIRSTCODE",
-   "reward": "200 Bells"
   }
  ],
- "updated": "2026-11-25T21:36:31.919Z",
+ "updated": "2026-11-27T21:04:48.761Z",
  "source": "https://robloxden.com/game-codes/anomaly-cafe"
 }

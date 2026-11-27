@@ -7,6 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "COMMANDER",
+   "reward": "the Frontline Crate"
+  },
+  {
+   "code": "FREECASH25",
+   "reward": "25.8K Cash"
+  },
+  {
+   "code": "EVENMOREGEMS",
+   "reward": "25K Gems"
+  },
+  {
    "code": "BASESKINS",
    "reward": "87K Cash"
   },
@@ -51,6 +63,6 @@
    "reward": "25,000 Gems"
   }
  ],
- "updated": "2026-11-25T21:37:41.192Z",
+ "updated": "2026-11-27T21:05:58.137Z",
  "source": "https://robloxden.com/game-codes/destroy-a-vault"
 }

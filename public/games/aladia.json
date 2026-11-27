@@ -55,10 +55,6 @@
    "reward": "Rewards . For level 3+ only"
   },
   {
-   "code": "ARMOR1K",
-   "reward": "Rewards . For level 3+ only"
-  },
-  {
    "code": "BANDAGE1K",
    "reward": "Rewards . For level 3+ only"
   },
@@ -91,12 +87,52 @@
    "reward": "100 Diamonds . You need to reach Level 5 to use this code"
   },
   {
+   "code": "Freegamepass",
+   "reward": "Free Gun . You must reach Level 8 to use this code"
+  },
+  {
    "code": "freegamepass2",
    "reward": "Rewards . You need to be level 5 to redeem this code"
   },
   {
+   "code": "scrapforge",
+   "reward": "the rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "GPCARD",
+   "reward": "the GP Card . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "1000",
+   "reward": "1,000 Coins . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "NeonTiger",
+   "reward": "the rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "SecretAgent",
+   "reward": "the rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "ShadowNinja",
+   "reward": "the rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "BlackRose",
+   "reward": "the rewards . You must be at least level 3 to use this code"
+  },
+  {
+   "code": "DIA2H",
+   "reward": "the Dias . You must be at least level 3 to use this code"
+  },
+  {
    "code": "Goldenchristmas",
    "reward": "a Pistol .50"
+  },
+  {
+   "code": "ARMOR1K",
+   "reward": "Rewards . For level 3+ only"
   },
   {
    "code": "KODE",
@@ -475,10 +511,6 @@
    "reward": "300 Cash"
   },
   {
-   "code": "Freegamepass",
-   "reward": "Free Gun . You must reach Level 8 to use this code"
-  },
-  {
    "code": "ALADIAONTOP",
    "reward": "50 Diamonds"
   },
@@ -519,6 +551,6 @@
    "reward": "25 Diamonds"
   }
  ],
- "updated": "2026-11-25T21:29:20.194Z",
+ "updated": "2026-11-27T20:56:21.029Z",
  "source": "https://robloxden.com/game-codes/aladia"
 }

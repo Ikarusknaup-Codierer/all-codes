@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "update95",
+   "reward": "rewards"
+  },
+  {
    "code": "update94",
    "reward": "Rewards"
   },
@@ -17,14 +21,6 @@
   {
    "code": "update92",
    "reward": "Freebies"
-  },
-  {
-   "code": "welcome",
-   "reward": "1x Gold Potion"
-  },
-  {
-   "code": "update95",
-   "reward": ""
   },
   {
    "code": "update91",
@@ -69,6 +65,10 @@
   {
    "code": "update80",
    "reward": "Freebies"
+  },
+  {
+   "code": "welcome",
+   "reward": "1x Gold Potion"
   },
   {
    "code": "update79",
@@ -227,6 +227,6 @@
    "reward": "5 Flame Boxes"
   }
  ],
- "updated": "2026-11-25T21:36:52.326Z",
+ "updated": "2026-11-27T21:05:09.462Z",
  "source": "https://robloxden.com/game-codes/reborn-as-skill-master"
 }

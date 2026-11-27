@@ -7,10 +7,42 @@
    "reward": "Description"
   },
   {
+   "code": "GEARS",
+   "reward": "2 Roll Luck III Potions, 2 Gear Keys and 3 Grade Gems"
+  },
+  {
+   "code": "UPDATE4",
+   "reward": "2 Roll Luck IV Potions, 1 Jackpot Roll, 3 Grade Gems and 2 Roll Speed "
+  },
+  {
+   "code": "VOIDRETURN",
+   "reward": "1 Void Jackpot Roll, 5 Trait Rerolls and 2 Roll Luck IV Potions"
+  },
+  {
+   "code": "100KVISIT",
+   "reward": "2 Jackpot Rolls, 2 Cash IV Potions and 2 Roll Luck IV Potions"
+  },
+  {
+   "code": "EQUIPMENT",
+   "reward": "2 Roll Luck III, 1 Jackpot Roll and 3 Cash III Potions"
+  },
+  {
+   "code": "PROGRESSION",
+   "reward": "2 Roll Luck III, 10 Trait Rerolls and 3 Jackpot Rolls"
+  },
+  {
+   "code": "FOLLOWQWERTY",
+   "reward": "2 Roll Luck III, 5 Trait Rerolls and 1 Jackpot Rolls"
+  },
+  {
+   "code": "SOAPEFFECT",
+   "reward": "2 Roll Luck III Potions, 10 Trait Rerolls and 2 Jackpot Rolls"
+  },
+  {
    "code": "10KVISITS",
    "reward": "2 Roll Luck III, 1 Jackpot Roll and 3 Cash III Potions"
   }
  ],
- "updated": "2026-11-26T07:40:30.509Z",
+ "updated": "2026-11-27T21:09:26.509Z",
  "source": "https://robloxden.com/game-codes/stand-dice"
 }

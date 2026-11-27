@@ -7,16 +7,32 @@
    "reward": "Description"
   },
   {
+   "code": "R1GIFT",
+   "reward": "25 Bloodline Rolls , 15,000 Silver , and 1 Common Mount Summon Talisma"
+  },
+  {
+   "code": "HALLOWEEN2026",
+   "reward": "26 Bloodline Rolls , 26,000 Silver , 2 Stat Resets , 1 Common Mount , "
+  },
+  {
+   "code": "HALLOWEENHOTFIX",
+   "reward": "5 Bloodline Rolls , 2 Stat Resets , and 1 Common Mount Summon Talisman"
+  },
+  {
+   "code": "ZZZWANTSCODE",
+   "reward": "5 Bloodline Rolls , 5,000 Silver , and 1 Stat Reset"
+  },
+  {
+   "code": "PVPTEST",
+   "reward": "5 Bloodline Rolls , 5,000 Silver , and 2 Stat Resets"
+  },
+  {
    "code": "AA1",
    "reward": "50 Bloodline Rolls"
   },
   {
    "code": "AA2",
    "reward": "25 Bloodline Rolls and 5 Stat Resets"
-  },
-  {
-   "code": "HALLOWEENXP",
-   "reward": "10 Bloodline Rolls and 1 2x Cultivation (30 mins)"
   },
   {
    "code": "QUICKFIX3",
@@ -27,6 +43,6 @@
    "reward": "15 Bloodline Rolls , 15,000 Silver , and a Stat Reset"
   }
  ],
- "updated": "2026-11-25T21:31:33.664Z",
+ "updated": "2026-11-27T20:58:29.721Z",
  "source": "https://robloxden.com/game-codes/martial-arts-world"
 }

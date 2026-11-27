@@ -7,10 +7,18 @@
    "reward": "Description"
   },
   {
+   "code": "BREAD",
+   "reward": "a 1 Random Chicken"
+  },
+  {
+   "code": "LAUNCH",
+   "reward": "470K Bread"
+  },
+  {
    "code": "PUMPKIN",
    "reward": "470K Bread"
   }
  ],
- "updated": "2026-11-26T07:40:28.781Z",
+ "updated": "2026-11-27T21:09:24.667Z",
  "source": "https://robloxden.com/game-codes/bake-a-billion-bread"
 }

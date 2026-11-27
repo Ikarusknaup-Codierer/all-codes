@@ -1,7 +1,32 @@
 {
  "slug": "jujutsu-zero",
  "name": "Jujutsu: Zero",
- "codes": [],
- "updated": "2026-11-25T21:39:28.478Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "220KLIKES",
+   "reward": "500 Cursed Crystals , 5,000 Lumens , and 50 Clan Rolls"
+  },
+  {
+   "code": "210KLIKES",
+   "reward": "3,500 Lumens , 300 Crystals , and 35 Clan Rolls"
+  },
+  {
+   "code": "additions",
+   "reward": "750 Spooky Candy , 1,000 Crystals , and 5,000 Lumens"
+  },
+  {
+   "code": "November!",
+   "reward": "1 Spooky Halloween Scythe Skin Token, 1 Xp Clan Token and 3k Candies"
+  },
+  {
+   "code": "HAPPYHalloween",
+   "reward": "500 Spooky Candy , 1,000 Crystals , and 5,000 Lumens"
+  }
+ ],
+ "updated": "2026-11-27T21:07:46.731Z",
  "source": "https://robloxden.com/game-codes/jujutsu-zero"
 }

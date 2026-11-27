@@ -7,14 +7,34 @@
    "reward": "Description"
   },
   {
+   "code": "ROOFTOP",
+   "reward": "2,500 Cash"
+  },
+  {
+   "code": "8BALL",
+   "reward": "2,500 Cash"
+  },
+  {
+   "code": "FREESPINS",
+   "reward": "5 Ability Spins"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "3 Ability Spins"
+  },
+  {
+   "code": "WELCOME",
+   "reward": "5,000 Cash"
+  },
+  {
    "code": "100KLIKES",
    "reward": "10 Ability Spins and 1 Epic Lucky Block"
   },
   {
-   "code": "TRICKSHOT",
-   "reward": "5 Ability Spins"
+   "code": "50KLIKES",
+   "reward": "5 Free Spins and 1 Rare Lucky Block"
   }
  ],
- "updated": "2026-11-25T21:36:34.054Z",
+ "updated": "2026-11-27T21:04:50.554Z",
  "source": "https://robloxden.com/game-codes/crazy-8-ball"
 }

@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "HMMMBYTES",
+   "reward": "5,000 Tokens , 10 Endo Chips , 2 Springlocks , 4 Remnants , the Pearl "
+  },
+  {
+   "code": "AboutBossRaid",
+   "reward": "1 Time Lord Withered Freddy Present . You must have a minimum of 15,00"
+  },
+  {
+   "code": "CHIPSNOFISH",
+   "reward": "50 Endo Chips and 15 Springlocks"
+  },
+  {
+   "code": "PASSINGOFTIME",
+   "reward": "Freebies . You must have a minimum of 20,000 Faz Rating to claim this "
+  },
+  {
+   "code": "FREEBIE",
+   "reward": "2,500 Tokens and 25 Souls"
+  },
+  {
    "code": "RUSTYTADPOLEHAPPYFROG",
    "reward": "25,000 Tokens , 500 Untradable Souls , 10 Endo Chips , 5 Springlocks ,"
   },
@@ -29,34 +49,6 @@
   {
    "code": "AFTERHOURS",
    "reward": "25,000 Tokens , 500 Untradable Souls , and 1,000 Event Tokens"
-  },
-  {
-   "code": "SOMEFREECRAFTINGMATERIALS",
-   "reward": "30 White Crying Souls , 10 of Each Color Crying Soul , and 1 Rainbow C"
-  },
-  {
-   "code": "RINGMASTER",
-   "reward": "2,500 Untradable Soul , 150 AFK 2 Present , and 50 AFK 3 Present"
-  },
-  {
-   "code": "HMMMBYTES",
-   "reward": "5,000 Tokens , 10 Endo Chips , 2 Springlocks , 4 Remnants , the Pearl "
-  },
-  {
-   "code": "AboutBossRaid",
-   "reward": "1 Time Lord Withered Freddy Present . You must have a minimum of 15,00"
-  },
-  {
-   "code": "CHIPSNOFISH",
-   "reward": "50 Endo Chips and 15 Springlocks"
-  },
-  {
-   "code": "PASSINGOFTIME",
-   "reward": "Freebies . You must have a minimum of 20,000 Faz Rating to claim this "
-  },
-  {
-   "code": "FREEBIE",
-   "reward": "2,500 Tokens and 25 Souls"
   },
   {
    "code": "HALLOWEEN26",
@@ -111,6 +103,10 @@
    "reward": "50,000 Tokens , 1 XP Potion 2 , 1,000 Season XP , 100 Raid Coins , 50 "
   },
   {
+   "code": "SOMEFREECRAFTINGMATERIALS",
+   "reward": "30 White Crying Souls , 10 of Each Color Crying Soul , and 1 Rainbow C"
+  },
+  {
    "code": "YENNDO",
    "reward": "25,000 Tokens and 2,500 Untradable Souls"
   },
@@ -161,6 +157,10 @@
   {
    "code": "SILLYBEAR5",
    "reward": "25,000 Tokens , 1,500 Untradable Souls , 10 Endo Chips , and 5 Springl"
+  },
+  {
+   "code": "RINGMASTER",
+   "reward": "2,500 Untradable Soul , 150 AFK 2 Present , and 50 AFK 3 Present"
   },
   {
    "code": "MOTORIST",
@@ -331,6 +331,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-25T21:29:58.994Z",
+ "updated": "2026-11-27T20:56:57.558Z",
  "source": "https://robloxden.com/game-codes/five-nights-tower-defense-2"
 }

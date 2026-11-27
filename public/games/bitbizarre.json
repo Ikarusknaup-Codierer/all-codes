@@ -1,7 +1,24 @@
 {
  "slug": "bitbizarre",
  "name": "BitBizarre",
- "codes": [],
- "updated": "2026-11-25T21:39:35.433Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "ZAWARUDO",
+   "reward": "$5,000"
+  },
+  {
+   "code": "YAREYARE",
+   "reward": "$2,500 and a Power boost"
+  },
+  {
+   "code": "STANDPROUD",
+   "reward": "2 Recruit Tokens"
+  }
+ ],
+ "updated": "2026-11-27T21:07:54.191Z",
  "source": "https://robloxden.com/game-codes/bitbizarre"
 }

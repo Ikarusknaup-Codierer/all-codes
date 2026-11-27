@@ -5,8 +5,48 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "UpdateMatter",
+   "reward": "x2 Matter (10 mins)"
+  },
+  {
+   "code": "UpdatePlasma",
+   "reward": "x2 Plasma (10 mins)"
+  },
+  {
+   "code": "UpdateProtons",
+   "reward": "x2 Protons (10 mins)"
+  },
+  {
+   "code": "NewMatters55",
+   "reward": "x2 Matter (15 mins) , x2 Dark Matter (15 mins) , x2 Anti-Matter (15 mi"
+  },
+  {
+   "code": "NewLuck55",
+   "reward": "x3 Luck (15 mins)"
+  },
+  {
+   "code": "VoidMatter2x10-NVQ5",
+   "reward": "x2 Void Matter (10 mins)"
+  },
+  {
+   "code": "AntiMatter2x10-ZP4W",
+   "reward": "x2 Anti-Matter (10 mins)"
+  },
+  {
+   "code": "DiscordMatter",
+   "reward": "x2 Matter (10 mins)"
+  },
+  {
+   "code": "DiscordPlasma",
+   "reward": "x2 Plasma (10 mins)"
+  },
+  {
+   "code": "DiscordProtons",
+   "reward": "x2 Protons (10 mins)"
   }
  ],
- "updated": "2026-11-25T21:37:19.949Z",
+ "updated": "2026-11-27T21:05:37.184Z",
  "source": "https://robloxden.com/game-codes/atomic-incremental"
 }

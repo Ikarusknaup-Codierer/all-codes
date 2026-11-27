@@ -1,7 +1,32 @@
 {
  "slug": "rocket-spleef",
  "name": "Rocket Spleef",
- "codes": [],
- "updated": "2026-11-25T21:39:29.598Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "37500LIKES",
+   "reward": "1,425 Voxels"
+  },
+  {
+   "code": "25KLIKES",
+   "reward": "1,350 Voxels"
+  },
+  {
+   "code": "10KLIKES",
+   "reward": "1.25K Voxels"
+  },
+  {
+   "code": "7500LIKES",
+   "reward": "150 Voxels"
+  },
+  {
+   "code": "5KLIKES",
+   "reward": "Voxels"
+  }
+ ],
+ "updated": "2026-11-27T21:07:47.844Z",
  "source": "https://robloxden.com/game-codes/rocket-spleef"
 }

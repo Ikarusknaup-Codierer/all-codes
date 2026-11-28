@@ -1,7 +1,32 @@
 {
  "slug": "tea-time-dessert-buffet",
  "name": "Tea Time || Dessert Buffet",
- "codes": [],
- "updated": "2026-11-26T07:52:59.794Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "NEWYEAR2026",
+   "reward": "Cash"
+  },
+  {
+   "code": "EASTER",
+   "reward": "50 Cash"
+  },
+  {
+   "code": "VALENTINES",
+   "reward": "20 Cash"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "70 Cash"
+  },
+  {
+   "code": "3MVISITS",
+   "reward": "10 Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:17:03.428Z",
  "source": "https://robloxden.com/game-codes/tea-time-dessert-buffet"
 }

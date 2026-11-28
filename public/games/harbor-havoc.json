@@ -1,7 +1,32 @@
 {
  "slug": "harbor-havoc",
  "name": "Harbor Havoc",
- "codes": [],
- "updated": "2026-11-26T07:52:49.568Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "hhtiktok",
+   "reward": "Tiktok Wrap"
+  },
+  {
+   "code": "InstaHavoc",
+   "reward": "Instagram Wrap"
+  },
+  {
+   "code": "TwitterHavoc",
+   "reward": "Twitter Wrap"
+  },
+  {
+   "code": "50KLikes",
+   "reward": "50K Likes Wrap And 50 Gold"
+  },
+  {
+   "code": "LaborDay",
+   "reward": "Labor Day 2023 Wrap And 50 Gold"
+  }
+ ],
+ "updated": "2026-11-28T07:16:52.074Z",
  "source": "https://robloxden.com/game-codes/harbor-havoc"
 }

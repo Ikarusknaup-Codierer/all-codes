@@ -1,7 +1,32 @@
 {
  "slug": "pet-army",
  "name": "Pet Army",
- "codes": [],
- "updated": "2026-11-26T07:52:47.513Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1 Coins Boost and 185 Coins"
+  },
+  {
+   "code": "Thanksgiving",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "Hamburger",
+   "reward": "Freebies"
+  },
+  {
+   "code": "UPD2",
+   "reward": "Freebies"
+  },
+  {
+   "code": "UPD1",
+   "reward": "Freebies"
+  }
+ ],
+ "updated": "2026-11-28T07:16:49.772Z",
  "source": "https://robloxden.com/game-codes/pet-army"
 }

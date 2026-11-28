@@ -1,7 +1,20 @@
 {
  "slug": "tropical-house-tycoon",
  "name": "Tropical House Tycoon",
- "codes": [],
- "updated": "2026-11-26T07:52:59.308Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "TROPICAL",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "release",
+   "reward": "some cash"
+  }
+ ],
+ "updated": "2026-11-28T07:17:02.789Z",
  "source": "https://robloxden.com/game-codes/tropical-house-tycoon"
 }

@@ -11,12 +11,12 @@
    "reward": "300 Cash"
   },
   {
-   "code": "CAPTIVE_COLLAB",
-   "reward": "the free sleeve"
-  },
-  {
    "code": "30m",
    "reward": "$300 in-game dollars"
+  },
+  {
+   "code": "VIBE",
+   "reward": "75 Cash"
   },
   {
    "code": "stages",
@@ -27,6 +27,6 @@
    "reward": "500 Cash"
   }
  ],
- "updated": "2026-11-26T07:43:10.076Z",
+ "updated": "2026-11-28T07:06:28.927Z",
  "source": "https://robloxden.com/game-codes/captive"
 }

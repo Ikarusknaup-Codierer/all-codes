@@ -1,7 +1,20 @@
 {
  "slug": "seas-battlegrounds",
  "name": "Seas Battlegrounds",
- "codes": [],
- "updated": "2026-11-26T07:53:00.757Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UPDATE1",
+   "reward": "15,000 Coins"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "10,000 Coins"
+  }
+ ],
+ "updated": "2026-11-28T07:17:04.468Z",
  "source": "https://robloxden.com/game-codes/seas-battlegrounds"
 }

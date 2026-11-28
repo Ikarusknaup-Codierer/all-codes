@@ -7,20 +7,16 @@
    "reward": "Description"
   },
   {
+   "code": "ChristmasIsComing",
+   "reward": "1 Character Luck Potion , 1 Enchanted Dice , 1 Mythic Luck Potion and "
+  },
+  {
    "code": "TIDEWRECK",
    "reward": "an Enchanted Dice , a Summon Scroll , and a Mutation Luck Potion I"
   },
   {
-   "code": "PETALFALL",
-   "reward": "2 Enchanted Dice"
-  },
-  {
-   "code": "ONANDON",
-   "reward": "a Character Luck Potion , an Enchanted Dice and a Summon Scroll"
-  },
-  {
    "code": "ACES",
-   "reward": "2 Enchanted Dice"
+   "reward": "3 Enchanted Dice"
   },
   {
    "code": "AZURE",
@@ -29,8 +25,16 @@
   {
    "code": "BLOSSOM",
    "reward": "a Autumn Scroll and a Mutation Luck Potion"
+  },
+  {
+   "code": "PETALFALL",
+   "reward": "2 Enchanted Dice"
+  },
+  {
+   "code": "ONANDON",
+   "reward": "a Character Luck Potion , an Enchanted Dice and a Summon Scroll"
   }
  ],
- "updated": "2026-11-26T21:13:47.217Z",
+ "updated": "2026-11-28T07:18:32.630Z",
  "source": "https://robloxden.com/game-codes/my-anime-mine"
 }

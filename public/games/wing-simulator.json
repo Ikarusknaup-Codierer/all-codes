@@ -1,7 +1,24 @@
 {
  "slug": "wing-simulator",
  "name": "Wing Simulator",
- "codes": [],
- "updated": "2026-11-26T07:52:54.877Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "HELPINGHAND",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "RELEASE2020",
+   "reward": "50 Coins"
+  },
+  {
+   "code": "SPECIALCODE40",
+   "reward": "80 Coins"
+  }
+ ],
+ "updated": "2026-11-28T07:16:57.654Z",
  "source": "https://robloxden.com/game-codes/wing-simulator"
 }

@@ -32,7 +32,7 @@
   },
   {
    "code": "Jynxed",
-   "reward": "105 Coins"
+   "reward": "60 Coins"
   },
   {
    "code": "SuperBoy",
@@ -53,6 +53,18 @@
   {
    "code": "LEX",
    "reward": "100 Coins"
+  },
+  {
+   "code": "SOON",
+   "reward": "75 Coins"
+  },
+  {
+   "code": "TheSpot",
+   "reward": "100 Coins"
+  },
+  {
+   "code": "9250likes",
+   "reward": "200 Coins"
   },
   {
    "code": "450likes",
@@ -175,6 +187,6 @@
    "reward": "Rewards"
   }
  ],
- "updated": "2026-11-26T07:47:21.563Z",
+ "updated": "2026-11-28T07:10:58.892Z",
  "source": "https://robloxden.com/game-codes/superhero-universe-battlegrounds"
 }

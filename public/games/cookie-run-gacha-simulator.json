@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "battles",
+   "reward": "100,000 Crystals"
+  },
+  {
    "code": "circus",
    "reward": "75,000 Crystals"
   },
@@ -48,7 +52,7 @@
   },
   {
    "code": "WITCH",
-   "reward": "50,000 Crystals"
+   "reward": "60,000 Crystals"
   },
   {
    "code": "NERU",
@@ -87,6 +91,6 @@
    "reward": "42,500 Crystals"
   }
  ],
- "updated": "2026-11-26T07:44:05.259Z",
+ "updated": "2026-11-28T07:07:29.033Z",
  "source": "https://robloxden.com/game-codes/cookie-run-gacha-simulator"
 }

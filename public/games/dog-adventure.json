@@ -1,7 +1,20 @@
 {
  "slug": "dog-adventure",
  "name": "Dog Adventure",
- "codes": [],
- "updated": "2026-11-26T07:51:20.561Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Dog4KDisMember",
+   "reward": "100 Gems"
+  },
+  {
+   "code": "Dog1MVisits",
+   "reward": "75 Gems"
+  }
+ ],
+ "updated": "2026-11-28T07:15:16.112Z",
  "source": "https://robloxden.com/game-codes/dog-adventure"
 }

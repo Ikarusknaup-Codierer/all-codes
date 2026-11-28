@@ -1,28 +1,7 @@
 {
  "slug": "zone-defense-rng",
  "name": "Zone Defense RNG",
- "codes": [
-  {
-   "code": "Code",
-   "reward": "Description"
-  },
-  {
-   "code": "WEATHER",
-   "reward": "50,000 Cash"
-  },
-  {
-   "code": "CHARMING",
-   "reward": "5 Reroll Tokens"
-  },
-  {
-   "code": "10KCASH",
-   "reward": "10,000 Cash"
-  },
-  {
-   "code": "5REROLLTOKENS",
-   "reward": "5 Reroll Tokens"
-  }
- ],
- "updated": "2026-11-26T21:14:30.876Z",
+ "codes": [],
+ "updated": "2026-11-28T07:19:13.320Z",
  "source": "https://robloxden.com/game-codes/zone-defense-rng"
 }

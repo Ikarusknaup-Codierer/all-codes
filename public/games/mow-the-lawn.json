@@ -1,7 +1,32 @@
 {
  "slug": "mow-the-lawn",
  "name": "Mow The Lawn",
- "codes": [],
- "updated": "2026-11-26T07:52:54.384Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Faster",
+   "reward": "Rewards"
+  },
+  {
+   "code": "FreeTrial",
+   "reward": "Rewards"
+  },
+  {
+   "code": "Update1",
+   "reward": "Rewards"
+  },
+  {
+   "code": "200KLIKES",
+   "reward": "1,500 Cash"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:16:57.143Z",
  "source": "https://robloxden.com/game-codes/mow-the-lawn"
 }

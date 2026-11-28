@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "FRIDAYTHE13TH",
+   "reward": "35 Void Charms"
+  },
+  {
    "code": "LEAVESSS",
    "reward": "26 Void Charms, 26 Shiny Charms and 26 Rainbow Charms"
   },
@@ -80,7 +84,7 @@
   },
   {
    "code": "USA250",
-   "reward": "40 Shiny Charms , 40 Rainbow Charms , and 40 Void Charms"
+   "reward": "40 Shiny Charms , 70 Rainbow Charms , and 40 Void Charms"
   },
   {
    "code": "TRIDENT",
@@ -447,10 +451,10 @@
    "reward": "600"
   },
   {
-   "code": "CHARMS",
-   "reward": "Charms"
+   "code": "VALENTINE",
+   "reward": "300 Hearts"
   }
  ],
- "updated": "2026-11-26T07:45:33.636Z",
+ "updated": "2026-11-28T07:09:03.073Z",
  "source": "https://robloxden.com/game-codes/saber-simulator"
 }

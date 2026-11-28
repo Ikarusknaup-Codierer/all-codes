@@ -19,8 +19,12 @@
    "reward": "50 Spins"
   },
   {
+   "code": "PATCH3!",
+   "reward": "5 Spins , 2 Reset Orbs , and 1 Nen Color Orb . You must redeem this co"
+  },
+  {
    "code": "RANKED!",
-   "reward": "15 Spins and the Reset Orb . You must redeem this code in the shop"
+   "reward": "9 Spins and the Reset Orb . You must redeem this code in the shop"
   },
   {
    "code": "1MVISITS",
@@ -31,6 +35,6 @@
    "reward": "15 Spins"
   }
  ],
- "updated": "2026-11-26T07:43:55.222Z",
+ "updated": "2026-11-28T07:07:18.123Z",
  "source": "https://robloxden.com/game-codes/beyond-nen"
 }

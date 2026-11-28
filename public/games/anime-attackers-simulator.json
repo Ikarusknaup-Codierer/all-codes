@@ -40,17 +40,17 @@
   },
   {
    "code": "UPDATE2",
-   "reward": "2 Potions"
-  },
-  {
-   "code": "Release",
-   "reward": "Unknown Reward"
+   "reward": "4 Potions"
   },
   {
    "code": "GIVEMELUCK",
    "reward": "1 Potion"
+  },
+  {
+   "code": "DUNGEONS",
+   "reward": "50 Crystals"
   }
  ],
- "updated": "2026-11-26T07:51:33.305Z",
+ "updated": "2026-11-28T07:15:29.964Z",
  "source": "https://robloxden.com/game-codes/anime-attackers-simulator"
 }

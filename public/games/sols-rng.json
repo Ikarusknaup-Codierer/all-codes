@@ -11,6 +11,14 @@
    "reward": "20 Potion Crates and 5 Rare Potion Chests"
   },
   {
+   "code": "Part2Halloween",
+   "reward": "20 Potion Chest and 5 Rare Potion Chest"
+  },
+  {
+   "code": "RolledBack",
+   "reward": "the 1.2x Total Luck (24 hours)"
+  },
+  {
    "code": "SolsRNGUPD",
    "reward": "the Pump King's Blood , 30 Pumpkin Potion Boxes , 10 Rare Pumpkin Poti"
   },
@@ -19,6 +27,6 @@
    "reward": "20x Potion Chests and 5x Rare Potion Chests"
   }
  ],
- "updated": "2026-11-26T21:12:43.350Z",
+ "updated": "2026-11-28T07:17:35.451Z",
  "source": "https://robloxden.com/game-codes/sols-rng"
 }

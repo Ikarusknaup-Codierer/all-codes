@@ -7,6 +7,26 @@
    "reward": "Description"
   },
   {
+   "code": "RIVALS",
+   "reward": "3 Rewinds and 1 Extra Chance"
+  },
+  {
+   "code": "VARCHECK",
+   "reward": "2 Extra Chances"
+  },
+  {
+   "code": "INSTANTREPLAY",
+   "reward": "2 Rewinds"
+  },
+  {
+   "code": "HARDMODE",
+   "reward": "1 Rewind and 1 Extra Chance"
+  },
+  {
+   "code": "DERBYDAY",
+   "reward": "5 Rewinds"
+  },
+  {
    "code": "COOPCAREER",
    "reward": "3 Rewinds and an Extra Chance"
   },
@@ -75,6 +95,6 @@
    "reward": "3 Rewinds"
   }
  ],
- "updated": "2026-11-26T07:50:02.037Z",
+ "updated": "2026-11-28T07:13:51.824Z",
  "source": "https://robloxden.com/game-codes/become-a-striker"
 }

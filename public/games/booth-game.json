@@ -1,7 +1,28 @@
 {
  "slug": "booth-game",
  "name": "Booth Game",
- "codes": [],
- "updated": "2026-11-26T07:52:26.830Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "BugFixes1124",
+   "reward": "Free Minutes"
+  },
+  {
+   "code": "Roblox825",
+   "reward": "Boost (45 minutes)"
+  },
+  {
+   "code": "LateUpdate0317",
+   "reward": "20 Minutes"
+  },
+  {
+   "code": "DJBooGame",
+   "reward": "Boost (42 minutes)"
+  }
+ ],
+ "updated": "2026-11-28T07:16:26.990Z",
  "source": "https://robloxden.com/game-codes/booth-game"
 }

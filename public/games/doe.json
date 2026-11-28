@@ -1,7 +1,16 @@
 {
  "slug": "doe",
  "name": "Doe",
- "codes": [],
- "updated": "2026-11-26T07:52:01.500Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Knife",
+   "reward": "50 Coins"
+  }
+ ],
+ "updated": "2026-11-28T07:15:58.676Z",
  "source": "https://robloxden.com/game-codes/doe"
 }

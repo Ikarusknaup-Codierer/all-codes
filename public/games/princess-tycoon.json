@@ -1,7 +1,48 @@
 {
  "slug": "princess-tycoon",
  "name": "Princess Tycoon",
- "codes": [],
- "updated": "2026-11-26T07:50:58.029Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "PRETTY",
+   "reward": "2x Cash Boost (10 minutes)"
+  },
+  {
+   "code": "PRINCE",
+   "reward": "2x Cash Boost (10 minutes)"
+  },
+  {
+   "code": "JEWEL",
+   "reward": "2x Cash Boost (10 minutes)"
+  },
+  {
+   "code": "TREASURE",
+   "reward": "2x Cash Boost (10 minutes)"
+  },
+  {
+   "code": "ROYAL",
+   "reward": "2x Cash Boost (5 minutes)"
+  },
+  {
+   "code": "SPARKLES",
+   "reward": "2x Cash Boost (10 minutes)"
+  },
+  {
+   "code": "5K",
+   "reward": "2x Cash Boost (5 minutes)"
+  },
+  {
+   "code": "GLITTER",
+   "reward": "10 Minutes Of Double Cash"
+  },
+  {
+   "code": "MAGIC",
+   "reward": "15 Minutes Of Double Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:14:52.500Z",
  "source": "https://robloxden.com/game-codes/princess-tycoon"
 }

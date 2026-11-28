@@ -1,7 +1,24 @@
 {
  "slug": "fly-race",
  "name": "Fly Race",
- "codes": [],
- "updated": "2026-11-26T07:52:42.258Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Twitter5k",
+   "reward": "Trophies"
+  },
+  {
+   "code": "3K_FOLLOWERS",
+   "reward": "Trophies"
+  },
+  {
+   "code": "Happy2023",
+   "reward": "150,000 Studs"
+  }
+ ],
+ "updated": "2026-11-28T07:16:44.155Z",
  "source": "https://robloxden.com/game-codes/fly-race"
 }

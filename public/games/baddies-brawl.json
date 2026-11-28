@@ -11,10 +11,6 @@
    "reward": "1,000 Candy"
   },
   {
-   "code": "thunder",
-   "reward": "1 Daily Wheel Spin"
-  },
-  {
    "code": "pearl",
    "reward": "2 Hourly Wheel Spins"
   },
@@ -148,7 +144,7 @@
   },
   {
    "code": "goldheart",
-   "reward": "100 Stars"
+   "reward": "300 Stars"
   },
   {
    "code": "freestyle",
@@ -181,8 +177,12 @@
   {
    "code": "cosmic",
    "reward": "500 Tokens"
+  },
+  {
+   "code": "thunder",
+   "reward": "1 Daily Wheel Spin"
   }
  ],
- "updated": "2026-11-26T07:44:33.628Z",
+ "updated": "2026-11-28T07:07:59.109Z",
  "source": "https://robloxden.com/game-codes/baddies-brawl"
 }

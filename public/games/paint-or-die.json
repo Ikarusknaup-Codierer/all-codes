@@ -1,7 +1,28 @@
 {
  "slug": "paint-or-die",
  "name": "PAINT or DIE",
- "codes": [],
- "updated": "2026-11-26T07:52:22.268Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "EASEL",
+   "reward": "$2,000"
+  },
+  {
+   "code": "BRUSHMASTER",
+   "reward": "$2,000"
+  },
+  {
+   "code": "CANVAS",
+   "reward": "$2,000"
+  },
+  {
+   "code": "SPLATTER",
+   "reward": "$2,000"
+  }
+ ],
+ "updated": "2026-11-28T07:16:21.704Z",
  "source": "https://robloxden.com/game-codes/paint-or-die"
 }

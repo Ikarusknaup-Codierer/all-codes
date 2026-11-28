@@ -5,8 +5,40 @@
   {
    "code": "Code",
    "reward": "Description"
+  },
+  {
+   "code": "TRICKORTREAT",
+   "reward": "the rewards"
+  },
+  {
+   "code": "CANDYCRAZE",
+   "reward": "the rewards"
+  },
+  {
+   "code": "ADMINPARTYY",
+   "reward": "1 Candy Corn Summon"
+  },
+  {
+   "code": "HALLOWEEN",
+   "reward": "2 Candy Corn Summons"
+  },
+  {
+   "code": "COMHALLOWEENEXCLUSIVE",
+   "reward": "5 Candy Corn Summons"
+  },
+  {
+   "code": "SPOOKY",
+   "reward": "1 Candy Corn Summon"
+  },
+  {
+   "code": "FREEPULL",
+   "reward": "500 Candy Corn"
+  },
+  {
+   "code": "BUGSHERE",
+   "reward": "5 Candy Corn Summons"
   }
  ],
- "updated": "2026-11-26T21:15:03.109Z",
+ "updated": "2026-11-28T07:19:44.007Z",
  "source": "https://robloxden.com/game-codes/snack-defense"
 }

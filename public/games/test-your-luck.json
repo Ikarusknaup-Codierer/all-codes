@@ -1,7 +1,56 @@
 {
  "slug": "test-your-luck",
  "name": "Test Your Luck!",
- "codes": [],
- "updated": "2026-11-26T07:50:46.026Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "UPDATE5PART1",
+   "reward": "1M Diamonds"
+  },
+  {
+   "code": "HAPPYNEWYEAR",
+   "reward": "Clovers And Gems"
+  },
+  {
+   "code": "1MVISITS",
+   "reward": "Clovers And Gems"
+  },
+  {
+   "code": "HERESALOTOFLUCK",
+   "reward": "Clovers"
+  },
+  {
+   "code": "UPDATE275",
+   "reward": "Free Potions"
+  },
+  {
+   "code": "NEWUPDATE",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "SORRYFORDELAY",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "MERRYCHRISTMAS",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "UPDATE213",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "UPDATE210",
+   "reward": "10,000 Gems"
+  },
+  {
+   "code": "BETA",
+   "reward": "5,000 Gems"
+  }
+ ],
+ "updated": "2026-11-28T07:14:39.108Z",
  "source": "https://robloxden.com/game-codes/test-your-luck"
 }

@@ -1,7 +1,16 @@
 {
  "slug": "conquer-europe-ww-2",
  "name": "Conquer Europe WW2",
- "codes": [],
- "updated": "2026-11-26T07:52:42.739Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SPAIN_GOOD",
+   "reward": "the Free Spain Skin"
+  }
+ ],
+ "updated": "2026-11-28T07:16:44.642Z",
  "source": "https://robloxden.com/game-codes/conquer-europe-ww-2"
 }

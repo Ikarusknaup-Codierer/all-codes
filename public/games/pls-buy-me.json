@@ -1,7 +1,52 @@
 {
  "slug": "pls-buy-me",
  "name": "PLS BUY ME",
- "codes": [],
- "updated": "2026-11-26T07:51:04.266Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "ArtGive10",
+   "reward": "10 Free Own Cards"
+  },
+  {
+   "code": "Visit25M",
+   "reward": "500 Fame Coins"
+  },
+  {
+   "code": "Update3",
+   "reward": "50 Fame Coins"
+  },
+  {
+   "code": "SECRETBRIDGE",
+   "reward": "50 Fame Coins"
+  },
+  {
+   "code": "TYCC",
+   "reward": "GiveAwayCoin"
+  },
+  {
+   "code": "SECRETDUCK",
+   "reward": "Secret Duck Card Skin"
+  },
+  {
+   "code": "SecretCave",
+   "reward": "50 Fame Coins"
+  },
+  {
+   "code": "SecretCliff",
+   "reward": "80 Fame Coins"
+  },
+  {
+   "code": "SecretIsland",
+   "reward": "500 Fame Coins"
+  },
+  {
+   "code": "Update1",
+   "reward": "5 Own Cards"
+  }
+ ],
+ "updated": "2026-11-28T07:14:59.402Z",
  "source": "https://robloxden.com/game-codes/pls-buy-me"
 }

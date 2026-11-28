@@ -1,7 +1,20 @@
 {
  "slug": "hotel-tycoon-yhb8",
  "name": "Hotel Tycoon",
- "codes": [],
- "updated": "2026-11-26T07:52:40.764Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "500likes",
+   "reward": "10,000 Cash"
+  },
+  {
+   "code": "release",
+   "reward": "6,000 Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:16:42.368Z",
  "source": "https://robloxden.com/game-codes/hotel-tycoon-yhb8"
 }

@@ -1,7 +1,32 @@
 {
  "slug": "skillful",
  "name": "Skillful",
- "codes": [],
- "updated": "2026-11-26T07:52:13.423Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "thankyoufor60klikes",
+   "reward": "30,000 Cash"
+  },
+  {
+   "code": "1kplayers!!!",
+   "reward": "Cash"
+  },
+  {
+   "code": "thankyoufor4klikes",
+   "reward": "Cash"
+  },
+  {
+   "code": "thankyoufor15klikes",
+   "reward": "20,000 Cash"
+  },
+  {
+   "code": "thankyoufor10klikes",
+   "reward": "60,000 Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:16:11.808Z",
  "source": "https://robloxden.com/game-codes/skillful"
 }

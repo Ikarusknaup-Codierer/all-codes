@@ -1,7 +1,32 @@
 {
  "slug": "hxh-ultimate-finale",
  "name": "HxH: Ultimate Finale",
- "codes": [],
- "updated": "2026-11-26T07:53:05.558Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SLY",
+   "reward": "2x Exp (1 Hour and 30 Minutes)"
+  },
+  {
+   "code": "REGIS",
+   "reward": "1 Common Spin"
+  },
+  {
+   "code": "STAN",
+   "reward": "1 Common Spin"
+  },
+  {
+   "code": "INFERNATION",
+   "reward": "5,000 Jenny and 1 Uncommon Spin"
+  },
+  {
+   "code": "REFUNDURMOM",
+   "reward": "1 Rare Hatsu Reroll"
+  }
+ ],
+ "updated": "2026-11-28T07:17:09.760Z",
  "source": "https://robloxden.com/game-codes/hxh-ultimate-finale"
 }

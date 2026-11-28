@@ -1,7 +1,32 @@
 {
  "slug": "flavor-frenzy",
  "name": "Flavor Frenzy",
- "codes": [],
- "updated": "2026-11-26T07:52:29.382Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "FREE",
+   "reward": "50 Sugar Cube"
+  },
+  {
+   "code": "RESHUFFLE2",
+   "reward": "Quest Reshuffle"
+  },
+  {
+   "code": "RESHUFFLE",
+   "reward": "Quest Reshuffle"
+  },
+  {
+   "code": "SIXMILLION",
+   "reward": "60 Sugar Cubes and 30 Honey"
+  },
+  {
+   "code": "STORYMODE",
+   "reward": "A Reward"
+  }
+ ],
+ "updated": "2026-11-28T07:16:29.745Z",
  "source": "https://robloxden.com/game-codes/flavor-frenzy"
 }

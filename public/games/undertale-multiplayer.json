@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "3MVISITS",
+   "reward": "300 Coins"
+  },
+  {
    "code": "2MVISITS",
    "reward": "200 Coins"
   },
@@ -16,9 +20,9 @@
   },
   {
    "code": "1MVISITS",
-   "reward": "100 Coins"
+   "reward": "250 Coins"
   }
  ],
- "updated": "2026-11-26T07:44:16.348Z",
+ "updated": "2026-11-28T07:07:40.408Z",
  "source": "https://robloxden.com/game-codes/undertale-multiplayer"
 }

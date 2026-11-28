@@ -11,12 +11,12 @@
    "reward": "1 Coin"
   },
   {
-   "code": "WHEELIE",
-   "reward": "Big Dice and Currency Boost"
-  },
-  {
    "code": "goingBananas",
    "reward": "Ultra Lock Boost and Roll Speed Boost"
+  },
+  {
+   "code": "giveMeLuckNOW",
+   "reward": "1 Luck Boost and 1 Ultra Luck Boost"
   },
   {
    "code": "spin2win",
@@ -27,6 +27,6 @@
    "reward": "Free Rewards"
   }
  ],
- "updated": "2026-11-26T21:12:55.102Z",
+ "updated": "2026-11-28T07:17:46.026Z",
  "source": "https://robloxden.com/game-codes/slime-rng"
 }

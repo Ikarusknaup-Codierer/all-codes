@@ -20,17 +20,17 @@
   },
   {
    "code": "SMALLDELAY",
-   "reward": "a 15 Minute 2x Yen Boost"
-  },
-  {
-   "code": "FEELINGLUCK",
-   "reward": "a 15 Minute 2x Power Luck Boost"
+   "reward": "a 30 Minute 2x Yen Boost"
   },
   {
    "code": "LEAF",
    "reward": "a 15 Minute 2x Yen Boost"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "a 15 Minute 2x Yen Boost"
   }
  ],
- "updated": "2026-11-26T07:43:06.143Z",
+ "updated": "2026-11-28T07:06:24.676Z",
  "source": "https://robloxden.com/game-codes/anime-destroyers-simulator"
 }

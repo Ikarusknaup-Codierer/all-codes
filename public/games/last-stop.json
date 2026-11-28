@@ -24,34 +24,18 @@
   },
   {
    "code": "BUSRUSH!",
-   "reward": "300 Tickets"
-  },
-  {
-   "code": "PUMPKIN",
-   "reward": "500 Tickets"
+   "reward": "150 Tickets"
   },
   {
    "code": "HALLOWEEN",
    "reward": "300 Tickets"
   },
   {
-   "code": "HEADLESS",
-   "reward": "500 Tickets"
-  },
-  {
    "code": "ENDLESS",
    "reward": "400 Tickets"
   },
   {
-   "code": "SHORTMODE",
-   "reward": "Tickets . You need to reach level 5 to redeem this code"
-  },
-  {
    "code": "wsaveupdate",
-   "reward": "Tickets"
-  },
-  {
-   "code": "welovef2p",
    "reward": "Tickets"
   },
   {
@@ -63,14 +47,30 @@
    "reward": "750 Tickets and 3 Class Rerolls"
   },
   {
+   "code": "PUMPKIN",
+   "reward": "500 Tickets"
+  },
+  {
+   "code": "HEADLESS",
+   "reward": "500 Tickets"
+  },
+  {
    "code": "WLASTSTOP",
+   "reward": "Tickets . You need to reach level 5 to redeem this code"
+  },
+  {
+   "code": "SHORTMODE",
    "reward": "Tickets . You need to reach level 5 to redeem this code"
   },
   {
    "code": "UPDATE4",
    "reward": "Tickets"
+  },
+  {
+   "code": "welovef2p",
+   "reward": "Tickets"
   }
  ],
- "updated": "2026-11-26T07:50:31.637Z",
+ "updated": "2026-11-28T07:14:23.143Z",
  "source": "https://robloxden.com/game-codes/last-stop"
 }

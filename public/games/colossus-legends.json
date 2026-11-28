@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "NIGHTMARE",
-   "reward": "Coins"
+   "code": "NEWYEARS2021",
+   "reward": "A Random Party Hat"
   },
   {
-   "code": "PVPALPHA",
-   "reward": "1 Grail Sword"
-  },
-  {
-   "code": "THANKSGIVING19",
-   "reward": "1 Turkey Helmet"
+   "code": "FINALKATSUMI",
+   "reward": "Katsumi Blade Part 3"
   },
   {
    "code": "10MVISITS",
@@ -24,9 +20,13 @@
   },
   {
    "code": "15KLIKES",
-   "reward": "750 Gold"
+   "reward": "700 Gold"
+  },
+  {
+   "code": "5MVISITS",
+   "reward": "50 Health Potions"
   }
  ],
- "updated": "2026-11-26T07:50:03.021Z",
+ "updated": "2026-11-28T07:13:52.844Z",
  "source": "https://robloxden.com/game-codes/colossus-legends"
 }

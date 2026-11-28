@@ -168,7 +168,7 @@
   },
   {
    "code": "LUCKBLOCK",
-   "reward": "3 Mega Potions"
+   "reward": "9 Mega Potions"
   },
   {
    "code": "LOADOUT",
@@ -467,14 +467,14 @@
    "reward": "1 Strength Potion , 2 Dark Strength Potions and 1 Mega Potion"
   },
   {
-   "code": "SEASON6",
-   "reward": "Mega Potion"
+   "code": "DelayASquid",
+   "reward": "Two Survival Strength Potions"
   },
   {
-   "code": "SNOWEVENTPART3",
-   "reward": "Mega Potion"
+   "code": "GAMESTARTS",
+   "reward": "1K Invites"
   }
  ],
- "updated": "2026-11-26T07:47:31.827Z",
+ "updated": "2026-11-28T07:11:09.482Z",
  "source": "https://robloxden.com/game-codes/pull-a-sword"
 }

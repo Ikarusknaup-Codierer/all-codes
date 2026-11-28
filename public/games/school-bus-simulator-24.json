@@ -11,19 +11,11 @@
    "reward": "1,000 In-Game Money"
   },
   {
-   "code": "54KLIKES",
-   "reward": "1,100 Cash"
-  },
-  {
    "code": "Supersecretcode",
    "reward": "1,000 Cash"
   },
   {
    "code": "39KLIKES",
-   "reward": "1,000 In-game Cash"
-  },
-  {
-   "code": "38KLIKES",
    "reward": "1,000 In-game Cash"
   },
   {
@@ -44,7 +36,7 @@
   },
   {
    "code": "44KLIKES",
-   "reward": "1,000 In-Game Money"
+   "reward": "3,000 In-Game Money"
   },
   {
    "code": "45KLIKES",
@@ -83,10 +75,14 @@
    "reward": "1,000 In-Game Money"
   },
   {
+   "code": "54KLIKES",
+   "reward": "1,100 Cash"
+  },
+  {
    "code": "53kLikes",
    "reward": "1,000 Cash"
   }
  ],
- "updated": "2026-11-26T07:45:27.098Z",
+ "updated": "2026-11-28T07:08:55.859Z",
  "source": "https://robloxden.com/game-codes/school-bus-simulator-24"
 }

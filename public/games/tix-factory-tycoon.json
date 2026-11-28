@@ -1,7 +1,48 @@
 {
  "slug": "tix-factory-tycoon",
  "name": "Tix Factory Tycoon",
- "codes": [],
- "updated": "2026-11-26T07:52:55.861Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "82K",
+   "reward": "250 Tix"
+  },
+  {
+   "code": "10YEARS",
+   "reward": "5 Premium Tix"
+  },
+  {
+   "code": "10MORETOGO!",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "APRILFOOLSCAR",
+   "reward": "the April Fools Vehicle"
+  },
+  {
+   "code": "10thBirthday",
+   "reward": "10 Crafting Tokens"
+  },
+  {
+   "code": "JumpStart",
+   "reward": "1,000 Packet Tix"
+  },
+  {
+   "code": "GOODBYE",
+   "reward": "the Forgotten Tix Trophy"
+  },
+  {
+   "code": "MissTix",
+   "reward": "50 GoldTix"
+  },
+  {
+   "code": "APRIL2019",
+   "reward": "the April Fools Vehicle"
+  }
+ ],
+ "updated": "2026-11-28T07:16:58.805Z",
  "source": "https://robloxden.com/game-codes/tix-factory-tycoon"
 }

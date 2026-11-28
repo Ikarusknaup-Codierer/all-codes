@@ -7,16 +7,12 @@
    "reward": "Description"
   },
   {
-   "code": "TOUTOU",
+   "code": "SHINESHINE",
+   "reward": "A Free Pet, One Huge Fruit, And Two Toys"
+  },
+  {
+   "code": "MIDAUTUMNFESTIVAL",
    "reward": "A Free Pet, A Double Power Boost, A Double Win Boost, And One Big Frui"
-  },
-  {
-   "code": "HAPPYHOLIDAYS",
-   "reward": "A Free Pet, One Huge Fruit, And Two Toys"
-  },
-  {
-   "code": "BLACKMYTHWUKONG",
-   "reward": "A Free Pet, One Huge Fruit, And Two Toys"
   },
   {
    "code": "OLYMPIC",
@@ -25,8 +21,12 @@
   {
    "code": "WONDERFUL",
    "reward": "A Free Pet, A Golden Fruit, And Two Toys"
+  },
+  {
+   "code": "JIAOZI",
+   "reward": "A Free General Flame Pet, A Banana, And Two Bones"
   }
  ],
- "updated": "2026-11-26T07:52:05.544Z",
+ "updated": "2026-11-28T07:16:02.696Z",
  "source": "https://robloxden.com/game-codes/shark-bite-simulator"
 }

@@ -1,7 +1,24 @@
 {
  "slug": "clone-simulator",
  "name": "Clone Simulator",
- "codes": [],
- "updated": "2026-11-26T07:52:55.358Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "CLONING",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "FREECASH",
+   "reward": "1,500 Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:16:58.162Z",
  "source": "https://robloxden.com/game-codes/clone-simulator"
 }

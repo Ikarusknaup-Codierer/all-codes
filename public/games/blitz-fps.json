@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "BLACKHOLE",
+   "reward": "40 Gems"
+  },
+  {
    "code": "SPOOKYCRATE",
    "reward": "a Halloween Crate"
   },
@@ -52,7 +56,7 @@
   },
   {
    "code": "SWORDS",
-   "reward": "25 Gems"
+   "reward": "12 Gems"
   },
   {
    "code": "RDC",
@@ -63,6 +67,6 @@
    "reward": "rewards"
   }
  ],
- "updated": "2026-11-26T07:47:44.133Z",
+ "updated": "2026-11-28T07:11:22.565Z",
  "source": "https://robloxden.com/game-codes/blitz-fps"
 }

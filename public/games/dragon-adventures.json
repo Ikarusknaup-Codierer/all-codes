@@ -1,7 +1,44 @@
 {
  "slug": "dragon-adventures",
  "name": "Dragon Adventures",
- "codes": [],
- "updated": "2026-11-26T07:53:03.371Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SHAMEWING",
+   "reward": "1 Shamewing Preset Potion"
+  },
+  {
+   "code": "GALIFRAN",
+   "reward": "1 Galifran Preset Potion"
+  },
+  {
+   "code": "FLUFFY",
+   "reward": "FluffyTSG Preset Potion"
+  },
+  {
+   "code": "AESUBREALM",
+   "reward": "1 Sub Realm Preset Potion"
+  },
+  {
+   "code": "JUSTYBLOX",
+   "reward": "1 JustyBlox Preset Potion"
+  },
+  {
+   "code": "SeasonXP2",
+   "reward": "1,500 Season Pass XP"
+  },
+  {
+   "code": "Stormthunder",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "NEW",
+   "reward": "Color Shuffle Potion"
+  }
+ ],
+ "updated": "2026-11-28T07:17:07.573Z",
  "source": "https://robloxden.com/game-codes/dragon-adventures"
 }

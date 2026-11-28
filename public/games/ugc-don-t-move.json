@@ -1,7 +1,16 @@
 {
  "slug": "ugc-don-t-move",
  "name": "UGC DON'T MOVE",
- "codes": [],
- "updated": "2026-11-26T07:52:45.957Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "AnotherAt500Active",
+   "reward": "a Still Potion (2 Hours)"
+  }
+ ],
+ "updated": "2026-11-28T07:16:48.186Z",
  "source": "https://robloxden.com/game-codes/ugc-don-t-move"
 }

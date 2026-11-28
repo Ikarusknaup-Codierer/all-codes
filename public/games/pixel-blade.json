@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "NEWPATCH",
+   "reward": "a Super Ring , 3 Revives and 500 Coins"
+  },
+  {
    "code": "SORRY4BUG",
    "reward": "1 Wish"
   },
@@ -51,6 +55,6 @@
    "reward": "a Wish"
   }
  ],
- "updated": "2026-11-26T07:45:22.343Z",
+ "updated": "2026-11-28T07:08:50.805Z",
  "source": "https://robloxden.com/game-codes/pixel-blade"
 }

@@ -1,7 +1,56 @@
 {
  "slug": "untitled-boxing-game",
  "name": "untitled boxing game",
- "codes": [],
- "updated": "2026-11-26T07:51:06.520Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "akuma",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "ragingdemon",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "streetfighter",
+   "reward": "6x Lucky Spins"
+  },
+  {
+   "code": "terror",
+   "reward": "15 Spins"
+  },
+  {
+   "code": "100KCASH",
+   "reward": "1 Spin"
+  },
+  {
+   "code": "dragonfish",
+   "reward": "10 Spins"
+  },
+  {
+   "code": "lovefromubg",
+   "reward": "5 Lucky Spins"
+  },
+  {
+   "code": "dualemotes",
+   "reward": "Free Emote"
+  },
+  {
+   "code": "ryu",
+   "reward": "10x Spins"
+  },
+  {
+   "code": "deimos",
+   "reward": "5 Spins"
+  },
+  {
+   "code": "thedoctorwillseeyousoon",
+   "reward": "15 Spins"
+  }
+ ],
+ "updated": "2026-11-28T07:15:01.651Z",
  "source": "https://robloxden.com/game-codes/untitled-boxing-game"
 }

@@ -1,7 +1,36 @@
 {
  "slug": "mighty-muscles-simulator",
  "name": "Mighty Muscles Simulator",
- "codes": [],
- "updated": "2026-11-26T07:52:38.660Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "REBIRTHFIX",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "1000LIKES",
+   "reward": "a 2x Gems Boost"
+  },
+  {
+   "code": "2000LIKES",
+   "reward": "a 2x Gems Boost"
+  },
+  {
+   "code": "RELEASE",
+   "reward": "a 2x Energy Boost"
+  },
+  {
+   "code": "250LIKES",
+   "reward": "a 2x Gems Boost"
+  },
+  {
+   "code": "500LIKES",
+   "reward": "1 Hatch Luck Boost"
+  }
+ ],
+ "updated": "2026-11-28T07:16:40.182Z",
  "source": "https://robloxden.com/game-codes/mighty-muscles-simulator"
 }

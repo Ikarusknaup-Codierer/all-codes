@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "Sand",
+   "reward": "50 Coins"
+  },
+  {
    "code": "Vampire",
    "reward": "rewards"
   },
@@ -28,7 +32,7 @@
   },
   {
    "code": "LStriderSpeaker",
-   "reward": "50 Coins"
+   "reward": "30 Coins"
   },
   {
    "code": "Halloween",
@@ -55,6 +59,6 @@
    "reward": "50 Coins"
   }
  ],
- "updated": "2026-11-26T07:48:54.216Z",
+ "updated": "2026-11-28T07:12:38.061Z",
  "source": "https://robloxden.com/game-codes/cameraman-tower-defense"
 }

@@ -1,7 +1,32 @@
 {
  "slug": "super-saiyan-simulator-2",
  "name": "Super Saiyan Simulator 2",
- "codes": [],
- "updated": "2026-11-26T07:52:32.301Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "SFSUpdate4",
+   "reward": "2x Boost (60 Minutes)"
+  },
+  {
+   "code": "SFSUPDATE2",
+   "reward": "2x Boost (60 Minutes)"
+  },
+  {
+   "code": "SFSROADTO2M",
+   "reward": "2x Boost (60 Minutes)"
+  },
+  {
+   "code": "SFS1HRBOOST",
+   "reward": "2x Boost (60 Minutes)"
+  },
+  {
+   "code": "SFSALPHA",
+   "reward": "1,000 Power"
+  }
+ ],
+ "updated": "2026-11-28T07:16:33.124Z",
  "source": "https://robloxden.com/game-codes/super-saiyan-simulator-2"
 }

@@ -1,7 +1,32 @@
 {
  "slug": "mini-cities-2",
  "name": "Mini Cities 2",
- "codes": [],
- "updated": "2026-11-26T07:50:54.432Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "LAST_TRAIN_HOME",
+   "reward": "100 Development Points"
+  },
+  {
+   "code": "BetaR3lease",
+   "reward": "250 Gems"
+  },
+  {
+   "code": "I_SURVIVED",
+   "reward": "3,000 Coins and 100 Development Points"
+  },
+  {
+   "code": "CanWeBuildIt",
+   "reward": "1,500 Coins"
+  },
+  {
+   "code": "LEARNtoFLY",
+   "reward": "50 Development Points"
+  }
+ ],
+ "updated": "2026-11-28T07:14:48.417Z",
  "source": "https://robloxden.com/game-codes/mini-cities-2"
 }

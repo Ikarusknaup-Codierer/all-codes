@@ -1,7 +1,44 @@
 {
  "slug": "tapping-adventure",
  "name": "Tapping Adventure",
- "codes": [],
- "updated": "2026-11-26T07:52:11.381Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Honey",
+   "reward": "1 2x Luck Boost (20 minutes)"
+  },
+  {
+   "code": "Pixel",
+   "reward": "1 2x Luck Boost (20 minutes)"
+  },
+  {
+   "code": "Steampunk",
+   "reward": "1 2x Luck Boost (20 minutes)"
+  },
+  {
+   "code": "2000Likes",
+   "reward": "1 2x Rebirth Boost (20 minutes)"
+  },
+  {
+   "code": "Christmas",
+   "reward": "1 2x Luck Boost (20 minutes)"
+  },
+  {
+   "code": "500K",
+   "reward": "1 2x Rebirth Boost (20 minutes)"
+  },
+  {
+   "code": "250KVisits",
+   "reward": "Rebirth Boost"
+  },
+  {
+   "code": "Magic",
+   "reward": "Luck Boost"
+  }
+ ],
+ "updated": "2026-11-28T07:16:09.010Z",
  "source": "https://robloxden.com/game-codes/tapping-adventure"
 }

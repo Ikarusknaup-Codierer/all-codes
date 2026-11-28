@@ -132,7 +132,7 @@
   },
   {
    "code": "MORECHARMS",
-   "reward": "25 Hybrid Charms"
+   "reward": "15 Hybrid Charms"
   },
   {
    "code": "FREEPET",
@@ -147,14 +147,14 @@
    "reward": "1,000 Bells"
   },
   {
-   "code": "Godly",
-   "reward": "Coins And Gems"
+   "code": "AutoSell",
+   "reward": ""
   },
   {
    "code": "SUB2AUSTINCHALLENGESYT",
    "reward": "the AustinChallengesYT Pet"
   }
  ],
- "updated": "2026-11-26T07:46:10.376Z",
+ "updated": "2026-11-28T07:09:42.700Z",
  "source": "https://robloxden.com/game-codes/speed-champions"
 }

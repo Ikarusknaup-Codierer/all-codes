@@ -1,7 +1,40 @@
 {
  "slug": "bladers-rebirth",
  "name": "Bladers: Rebirth",
- "codes": [],
- "updated": "2026-11-26T07:53:01.754Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "50MVISITS",
+   "reward": "2x Exp Boost (60 minutes)"
+  },
+  {
+   "code": "THANKYOU",
+   "reward": "15 Spirit Spins"
+  },
+  {
+   "code": "Bonus",
+   "reward": "2x Exp Boost (1 hour)"
+  },
+  {
+   "code": "BeginnerReward",
+   "reward": "50 Spirit Spins"
+  },
+  {
+   "code": "Welcome",
+   "reward": "2x Exp Boost (30 minutes)"
+  },
+  {
+   "code": "PHARAOHSCURSE",
+   "reward": "30 Spirit Spins"
+  },
+  {
+   "code": "VOLCANO",
+   "reward": "35 Spirit Spins"
+  }
+ ],
+ "updated": "2026-11-28T07:17:05.763Z",
  "source": "https://robloxden.com/game-codes/bladers-rebirth"
 }

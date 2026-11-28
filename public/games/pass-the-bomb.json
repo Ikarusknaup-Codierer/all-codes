@@ -11,10 +11,6 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "HALLOWEEN25",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "NOOBATTACK",
    "reward": "300 Coins"
   },
@@ -23,10 +19,14 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "125KL",
-   "reward": "Double XP"
+   "code": "1KLikes",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "150KL",
+   "reward": "500 Coins"
   }
  ],
- "updated": "2026-11-26T07:48:48.841Z",
+ "updated": "2026-11-28T07:12:32.325Z",
  "source": "https://robloxden.com/game-codes/pass-the-bomb"
 }

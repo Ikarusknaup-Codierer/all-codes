@@ -40,21 +40,21 @@
   },
   {
    "code": "1MVISITS",
-   "reward": "8 Super Rolls"
+   "reward": "9 Super Rolls"
   },
   {
    "code": "5KLIKES",
    "reward": "5,000 Zeni"
   },
   {
-   "code": "SORRY",
-   "reward": "10 Super Rolls"
+   "code": "50LIKES",
+   "reward": "3 Super Rolls"
   },
   {
-   "code": "3KLIKES",
+   "code": "UPDATE6",
    "reward": "5,000 Zeni"
   }
  ],
- "updated": "2026-11-26T07:46:41.687Z",
+ "updated": "2026-11-28T07:10:16.231Z",
  "source": "https://robloxden.com/game-codes/dragon-ball-rng"
 }

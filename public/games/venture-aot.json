@@ -7,6 +7,10 @@
    "reward": "Description"
   },
   {
+   "code": "SorryForBug",
+   "reward": "100 Aethers"
+  },
+  {
    "code": "20KGROUPMEMBERS",
    "reward": "4,000 Kroner"
   },
@@ -17,12 +21,8 @@
   {
    "code": "VENTUREOG!",
    "reward": "OG Title"
-  },
-  {
-   "code": "THESEA",
-   "reward": "5K Kroner"
   }
  ],
- "updated": "2026-11-26T07:47:13.916Z",
+ "updated": "2026-11-28T07:10:50.711Z",
  "source": "https://robloxden.com/game-codes/venture-aot"
 }

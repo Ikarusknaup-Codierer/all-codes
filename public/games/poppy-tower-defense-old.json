@@ -12,7 +12,7 @@
   },
   {
    "code": "UPDATE3",
-   "reward": "300 Coins"
+   "reward": "250 Coins"
   },
   {
    "code": "UPDTWO",
@@ -27,14 +27,14 @@
    "reward": "300 Coins and 50 Gems"
   },
   {
-   "code": "UPD1",
-   "reward": "Extra Coins"
+   "code": "UPDATEONE",
+   "reward": "200 Coins"
   },
   {
-   "code": "SORRYFORDELAY",
-   "reward": "200 Coins and 20 Gems"
+   "code": "RELEASE",
+   "reward": "200 Coins"
   }
  ],
- "updated": "2026-11-26T07:51:31.645Z",
+ "updated": "2026-11-28T07:15:28.118Z",
  "source": "https://robloxden.com/game-codes/poppy-tower-defense-old"
 }

@@ -7,7 +7,15 @@
    "reward": "Description"
   },
   {
-   "code": "thanksgiving",
+   "code": "resolution",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "spooky",
+   "reward": "Free Rewards"
+  },
+  {
+   "code": "noscope",
    "reward": "Free Rewards"
   },
   {
@@ -15,18 +23,10 @@
    "reward": "Free Rewards"
   },
   {
-   "code": "gungame",
-   "reward": "Free Rewards"
-  },
-  {
    "code": "piday",
    "reward": "Free Rewards"
-  },
-  {
-   "code": "halloween",
-   "reward": "150 EXP And 150 Tokens"
   }
  ],
- "updated": "2026-11-26T21:13:27.131Z",
+ "updated": "2026-11-28T07:18:14.530Z",
  "source": "https://robloxden.com/game-codes/no-scope-arcade"
 }

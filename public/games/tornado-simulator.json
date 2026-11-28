@@ -1,7 +1,32 @@
 {
  "slug": "tornado-simulator",
  "name": "Tornado Simulator",
- "codes": [],
- "updated": "2026-11-26T07:52:34.978Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Vortex",
+   "reward": "15,000 Cash"
+  },
+  {
+   "code": "Cyclone",
+   "reward": "15,000 Cash"
+  },
+  {
+   "code": "NOMNOM",
+   "reward": "5,000 Cash"
+  },
+  {
+   "code": "INDUSTRIAL",
+   "reward": "6,000 Cash"
+  },
+  {
+   "code": "WHOOSH",
+   "reward": "5,000 Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:16:36.064Z",
  "source": "https://robloxden.com/game-codes/tornado-simulator"
 }

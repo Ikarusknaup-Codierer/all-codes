@@ -1,7 +1,32 @@
 {
  "slug": "jujutsu-chronicles",
  "name": "Jujutsu Chronicles",
- "codes": [],
- "updated": "2026-11-26T07:50:36.740Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Freebie1",
+   "reward": "Free Rewards . You need to have a grade of Grade1 to use this code"
+  },
+  {
+   "code": "Thx4Waiting",
+   "reward": "10 Misc Orbs , 25 Curse Spins , 15 Clan Spins , 5,000 Koins , Double E"
+  },
+  {
+   "code": "Thx4Waiting2",
+   "reward": "5 Misc Orbs , 50 Curse Spins , 25 Clan Spins , 5,000 Koins , 2 Curse C"
+  },
+  {
+   "code": "Thx4Waiting3",
+   "reward": "rewards . You must have a Heion Grade to claim this code"
+  },
+  {
+   "code": "Thx4Waiting4",
+   "reward": "Free Rewards . You must have a Grade1 to claim this code"
+  }
+ ],
+ "updated": "2026-11-28T07:14:28.778Z",
  "source": "https://robloxden.com/game-codes/jujutsu-chronicles"
 }

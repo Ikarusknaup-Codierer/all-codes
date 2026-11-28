@@ -1,7 +1,32 @@
 {
  "slug": "criminality",
  "name": "Criminality",
- "codes": [],
- "updated": "2026-11-26T07:52:24.238Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "HALLOWS26",
+   "reward": "Double XP"
+  },
+  {
+   "code": "BAYONET",
+   "reward": "3,000 Cash"
+  },
+  {
+   "code": "COPEMAN",
+   "reward": "3k Cash And A Double XP Boost"
+  },
+  {
+   "code": "GAMEMODES",
+   "reward": "A Free Reward"
+  },
+  {
+   "code": "WINTERSOON",
+   "reward": "10,000 Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:16:24.161Z",
  "source": "https://robloxden.com/game-codes/criminality"
 }

@@ -1,7 +1,36 @@
 {
  "slug": "cluck-or-hide",
  "name": "Cluck or Hide!",
- "codes": [],
- "updated": "2026-11-26T07:52:21.796Z",
+ "codes": [
+  {
+   "code": "Code",
+   "reward": "Description"
+  },
+  {
+   "code": "Halloween",
+   "reward": "1,000 Cash"
+  },
+  {
+   "code": "UPD3",
+   "reward": "$2,000 Cash"
+  },
+  {
+   "code": "UPD5",
+   "reward": "$5,000 Cash"
+  },
+  {
+   "code": "UPD4",
+   "reward": "$4,000 Cash"
+  },
+  {
+   "code": "UPD1",
+   "reward": "$1,000 Cash"
+  },
+  {
+   "code": "UPD2",
+   "reward": "$3,000 Cash"
+  }
+ ],
+ "updated": "2026-11-28T07:16:21.098Z",
  "source": "https://robloxden.com/game-codes/cluck-or-hide"
 }

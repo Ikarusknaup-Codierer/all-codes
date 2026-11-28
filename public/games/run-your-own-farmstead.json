@@ -15,12 +15,12 @@
    "reward": "10.5K Cash"
   },
   {
-   "code": "JAPAN",
-   "reward": "5.3K Cash"
-  },
-  {
    "code": "FARMSTEAD",
    "reward": "10 Minutes of Fertilizer"
+  },
+  {
+   "code": "JAPAN",
+   "reward": "5.3K Cash"
   },
   {
    "code": "UPDATE",
@@ -32,9 +32,9 @@
   },
   {
    "code": "RELEASE",
-   "reward": "380 Cash"
+   "reward": "750 Cash"
   }
  ],
- "updated": "2026-11-26T21:12:55.807Z",
+ "updated": "2026-11-28T07:17:46.677Z",
  "source": "https://robloxden.com/game-codes/run-your-own-farmstead"
 }
